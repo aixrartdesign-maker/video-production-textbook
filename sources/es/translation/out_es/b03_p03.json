@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#57",
+"es": "Dirección"
+},
+{
+"key": "feature_ppm.html#58",
+"es": "2.1 DOBLE PÁGINA 08"
+},
+{
+"key": "feature_ppm.html#59",
+"es": "Plan de posproducción"
+},
+{
+"key": "feature_ppm.html#60",
+"es": "Alcance del CG, método de composición, dirección del etalonaje (color grading)"
+},
+{
+"key": "feature_ppm.html#61",
+"es": "Supervisión de pos."
+},
+{
+"key": "feature_ppm.html#62",
+"es": "PARTE 5"
+},
+{
+"key": "feature_ppm.html#63",
+"es": "Calendario"
+},
+{
+"key": "feature_ppm.html#64",
+"es": "Fecha de rodaje, horario de rodaje, orden de rodaje, día de reserva"
+},
+{
+"key": "feature_ppm.html#65",
+"es": "Producción"
+},
+{
+"key": "feature_ppm.html#66",
+"es": "DOBLE PÁGINA 05 · 06"
+},
+{
+"key": "feature_ppm.html#67",
+"es": "Presupuesto y riesgos"
+},
+{
+"key": "feature_ppm.html#68",
+"es": "Presupuesto desglosado, plan de lluvia, alternativas"
+},
+{
+"key": "feature_ppm.html#69",
+"es": "Producción, cliente"
+},
+{
+"key": "feature_ppm.html#70",
+"es": "DOBLE PÁGINA 07"
+},
+{
+"key": "feature_ppm.html#71",
+"es": "<small>DOBLE PÁGINA 01 · Intención de dirección</small>Tablero de tono y estilo — la página que convierte adjetivos en medidas"
+},
+{
+"key": "feature_ppm.html#72",
+"es": "«Cálido y sofisticado» no es un acuerdo. Un tablero de tono y estilo traduce los adjetivos a valores medibles de <b>temperatura de color · contraste · saturación · textura · ritmo</b>, para que cámara · arte · posproducción miren los mismos números. Revisa siempre las referencias en pantalla y en grupo. Si describes un tono con palabras, cada uno imagina algo distinto."
+},
+{
+"key": "feature_ppm.html#73",
+"es": "Tablero de tono y estilo · bebida matinal 15 s"
+},
+{
+"key": "feature_ppm.html#74",
+"es": "<b>Luz</b><span>Luz lateral temprana · sombras largas · 5600 K</span>"
+},
+{
+"key": "feature_ppm.html#75",
+"es": "<b>Color</b><span>Gris cálido 60 · azul empolvado 30 · vino 10</span>"
+},
+{
+"key": "feature_ppm.html#76",
+"es": "<b>Textura</b><span>Lino · vidrio · gotas · veta de madera</span>"
+},
+{
+"key": "feature_ppm.html#77",
+"es": "<b>Movimiento</b><span>solo dolly lento · sin cámara en mano</span>"
+},
+{
+"key": "feature_ppm.html#78",
+"es": "<b>Personas</b><span>Expresiones contenidas · mirada abajo→cámara</span>"
+},
+{
+"key": "feature_ppm.html#79",
+"es": "<b>✕ Antirreferencia</b><span>Estética saturada de video corto — así no</span>"
+},
+{
+"key": "feature_ppm.html#80",
+"es": "<b>Nítido</b><span>Contraste medio-alto · blancos sin quemar</span>"
+},
+{
+"key": "feature_ppm.html#81",
+"es": "<b>Temprano</b><span>Una sola fuente, la ventana · sombras largas</span>"
+},
+{
+"key": "feature_ppm.html#82",
+"es": "<b>Aireado</b><span>Media por plano 2,5 s · piano 92 BPM</span>"
+},
+{
+"key": "feature_ppm.html#83",
+"es": "<b>Lámina PPM-1</b> Tablero de tono y estilo — tres adjetivos, cinco referencias y una antirreferencia, una paleta. Una hoja se convierte en el lenguaje común de cámara · arte · posproducción."
+},
+{
+"key": "feature_ppm.html#84",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "feature_ppm.html#85",
+"es": "Aplica la paleta por igual a vestuario · utilería · fondo · gráficos. Envía los códigos de las muestras de color a los equipos de arte y posproducción en el mismo archivo."
+},
+{
+"key": "feature_ppm.html#86",
+"es": "En cada viñeta de referencia, escribe siempre una palabra para «qué estás tomando como referencia» (luz · color · textura · movimiento · personas). Copiar una referencia entera es plagio; tomar un elemento es estudio. La única viñeta de antirreferencia ahorra más tiempo de reunión que cualquier otra."
+},
+{
+"key": "feature_ppm.html#87",
+"es": "<small>DOBLE PÁGINA 02 · Locación</small>Ficha de locación — cuatro fotos y una planta"
+},
+{
+"key": "feature_ppm.html#88",
+"es": "Ficha de locación · L-01 café, 2.º piso"
+},
+{
+"key": "feature_ppm.html#89",
+"es": "<b>N Ventana</b><span>Set principal · sol directo 07–10 h</span>"
+},
+{
+"key": "feature_ppm.html#90",
+"es": "<b>E Mostrador</b><span>Fuente de ruido · parada de 10 min en las tomas</span>"
+},
+{
+"key": "feature_ppm.html#91",
+"es": "<b>S Escalera</b><span>Equipo entre 2 personas · sin ascensor</span>"
+},
+{
+"key": "feature_ppm.html#92",
+"es": "<b>O Pared</b><span>Fondo del contraplano</span>"
+},
+{
+"key": "feature_ppm.html#93",
+"es": "Ventana (SE) · sol directo 07–10 h"
+},
+{
+"key": "feature_ppm.html#94",
+"es": "Mesa"
+},
+{
+"key": "feature_ppm.html#95",
+"es": "Actor A"
+},
+{
+"key": "feature_ppm.html#96",
+"es": "Dolly 2 m"
+},
+{
+"key": "feature_ppm.html#97",
+"es": "K Principal LED 600 W"
+},
+{
+"key": "feature_ppm.html#98",
+"es": "F Rebote 4×4"
+},
+{
+"key": "feature_ppm.html#99",
+"es": "B Tubo 3200 K"
+},
+{
+"key": "feature_ppm.html#100",
+"es": "Escalera"
+},
+{
+"key": "feature_ppm.html#101",
+"es": "Mostrador"
+},
+{
+"key": "feature_ppm.html#102",
+"es": "<b>Medidas</b><span>Corriente 220 V, toma doble × 3 (3 kW) → iluminación máx. 2 kW</span><span>Techo 2,9 m · ancho de ventana 3,2 m · suelo de madera (dolly OK)</span><span>Ruido 72 dB (máquina) · estacionamiento para 2 · baño en el 1.er piso</span><span>Permiso: alquiler 07:00–10:30 · seguro ✔</span><b>Plan de lluvia</b><span>Recrear la luz de ventana con el LED principal, o día de reserva D+2 · estudio L-02 en reserva</span>"
+},
+{
+"key": "feature_ppm.html#103",
+"es": "<b>Lámina PPM-2</b> Ficha de locación — fotos en cuatro direcciones (misma hora, mismo 24 mm) y una planta. Sitúa en la planta cámara · iluminación · dolly · corriente · fuentes de ruido, y el montaje del día se reduce a la mitad."
+},
+{
+"key": "feature_ppm.html#104",
+"es": "Criterio"
+},
+{
+"key": "feature_ppm.html#105",
+"es": "L-01 café (1.ª opción)"
+},
+{
+"key": "feature_ppm.html#106",
+"es": "L-02 estudio (reserva)"
+},
+{
+"key": "feature_ppm.html#107",
+"es": "Factor decisivo"
+},
+{
+"key": "feature_ppm.html#108",
+"es": "Luz"
+},
+{
+"key": "feature_ppm.html#109",
+"es": "Luz natural: directa 07–10 h, difusa después"
+},
+{
+"key": "feature_ppm.html#110",
+"es": "Luz artificial, control total"
+},
+{
+"key": "feature_ppm.html#111",
+"es": "Tono y estilo «luz temprana» → L-01"
+},
+{
+"key": "feature_ppm.html#112",
+"es": "Ruido"
+},
+{
+"key": "feature_ppm.html#113",
+"es": "Máquina 72 dB, parada de 10 min acordada"
+},
+{
+"key": "feature_ppm.html#114",
+"es": "Silencioso"
+},
+{
+"key": "feature_ppm.html#115",
+"es": "Solo 1 plano SYNC → aceptable"
+},
+{
+"key": "feature_ppm.html#116",
+"es": "Corriente · espacio"
+},
+{
+"key": "feature_ppm.html#117",
+"es": "3 kW, techo 2,9 m, dolly OK"
+},
+{
+"key": "feature_ppm.html#118",
+"es": "15 kW, 4,5 m, grúa OK"
+},
+{
+"key": "feature_ppm.html#119",
+"es": "Plano de grúa (04) trasladado al rellano de la escalera de L-01"
+},
+{
+"key": "feature_ppm.html#120",
+"es": "Costo · permisos"
+},
+{
+"key": "feature_ppm.html#121",
+"es": "Alquiler 3,5 h, seguro ✔, estacionamiento para 2"
+},
+{
+"key": "feature_ppm.html#122",
+"es": "Alquiler 8 h, estacionamiento para 10"
+},
+{
+"key": "feature_ppm.html#123",
+"es": "Dentro del presupuesto → L-01"
+},
+{
+"key": "feature_ppm.html#124",
+"es": "Plan de lluvia"
+},
+{
+"key": "feature_ppm.html#125",
+"es": "Sin sol directo en la ventana → recrear con luz principal"
+},
+{
+"key": "feature_ppm.html#126",
+"es": "Sin efecto"
+},
+{
+"key": "feature_ppm.html#127",
+"es": "Día de reserva D+2, LED 600 W extra en espera"
+},
+{
+"key": "feature_ppm.html#128",
+"es": "<small>DOBLE PÁGINA 03 · Casting</small>Ficha de actores — palabras clave de impresión y disponibilidad en la misma viñeta"
+},
+{
+"key": "feature_ppm.html#129",
+"es": "Una página de casting no es una hilera de retratos. Escribe primero, en palabras clave, <b>la impresión que exige el concepto</b>; luego pon en la misma viñeta cuánto se ajusta cada candidato, junto con agenda · honorarios · condiciones del contrato. Lo que el cliente aprueba no es una cara, sino «qué hará esta persona durante 15 segundos»."
+},
+{
+"key": "feature_ppm.html#130",
+"es": "Ficha de actores · papel A «alguien que empieza la mañana»"
+},
+{
+"key": "feature_ppm.html#131",
+"es": "<b>Candidato A — 1.ª opción ★</b><span>Impresión ●●●●○ · 3 anuncios</span><span>Disponible 9/4 · 11/4 · día de reserva ○</span><span>Derechos de imagen 1 año, online + exterior</span><span>Sonrisa pequeña, pero sonríen antes los ojos</span>"
+},
+{
+"key": "feature_ppm.html#132",
+"es": "<b>Candidato B — 2.ª opción</b><span>Impresión ●●●○○ · 1 videoclip</span><span>Disponible solo 9/4 · día de reserva ✕</span><span>Derechos de imagen 6 meses, online</span><span>Sonrisa amplia → «solo las comisuras»</span>"
+},
+{
+"key": "feature_ppm.html#133",
+"es": "<b>Candidato C — suplente</b><span>Impresión ●●○○○ · sin experiencia</span><span>Disponible todos los días · día de reserva ○</span><span>Solo uso educativo</span><span>Ensayo +30 min · 1.ª opción para un corto estudiantil</span>"
+},
+{
+"key": "feature_ppm.html#134",
+"es": "<b>Lámina PPM-3</b> Ficha de casting — una foto frontal con el mismo fondo · la misma luz, más cuatro líneas (impresión · disponibilidad · derechos de imagen · motivo de la elección). Escribe el motivo en el lenguaje del tono y estilo."
+},
+{
+"key": "feature_ppm.html#135",
+"es": "<small>Fotos</small>Cuatro tomas en las mismas condiciones"
+},
+{
+"key": "feature_ppm.html#136",
+"es": "Frente neutro · sonrisa natural · perfil · fotograma en movimiento"
+},
+{
+"key": "feature_ppm.html#137",
+"es": "Sin retoque, misma iluminación — lo que importa es comparar"
+},
+{
+"key": "feature_ppm.html#138",
+"es": "Selfis · fotos de glamur, solo como referencia"
+},
+{
+"key": "feature_ppm.html#139",
+"es": "<small>Condiciones</small>Escríbelas antes que la cara"
+},
+{
+"key": "feature_ppm.html#140",
+"es": "Fechas disponibles, y si puede el día de reserva"
+},
+{
+"key": "feature_ppm.html#141",
+"es": "Unidad de honorarios (día/hora) y alcance de los derechos de imagen (medios · plazo · territorio)"
+},
+{
+"key": "feature_ppm.html#142",
+"es": "Tallas, alergias, ángulo preferido, acompañantes"
+},
+{
+"key": "feature_ppm.html#143",
+"es": "<small>Nota de dirección</small>Acuérdala de antemano en la PPM"
+},
+{
+"key": "feature_ppm.html#144",
+"es": "Una línea sobre «qué decirle a este actor que no haga»"
+},
+{
+"key": "feature_ppm.html#145",
+"es": "Tiempo de ensayo (+30 min si no tiene experiencia)"
+},
+{
+"key": "feature_ppm.html#146",
+"es": "Si hay diálogo SYNC, adjunta una muestra de voz"
+},
+{
+"key": "feature_ppm.html#147",
+"es": "<small>DOBLE PÁGINA 04 · Vestuario · arte · utilería</small>Tablero de vestuario y mapa de puesta en escena — nombra cada objeto del cuadro"
+},
+{
+"key": "feature_ppm.html#148",
+"es": "Tablero de vestuario · mapa de puesta en escena (CUT 06)"
+},
+{
+"key": "feature_ppm.html#149",
+"es": "<b>LOOK 1 · Actor A</b><span>Camisa de lino gris cálido + pantalón de algodón gris marengo · CUT 02 · 03 · 05 · 06 · 1 juego de repuesto · prohibido: logos · rayas · blanco puro</span>"
+},
+{
+"key": "feature_ppm.html#150",
+"es": "<b>LOOK 2 · Actor B</b><span>Suéter azul empolvado + blanco roto · CUT 05 · 2 pasos de valor respecto a A</span>"
+},
+{
+"key": "feature_ppm.html#151",
+"es": "<i>1</i>Producto — etiqueta al frente; color vino solo aquí"
+},
+{
+"key": "feature_ppm.html#152",
+"es": "<i>2</i>Taza de café — señal de mañana, el color del 60 %"
+},
+{
+"key": "feature_ppm.html#153",
+"es": "<i>3</i>Libro + servilleta de lino — el color del 30 %, profundidad en primer término"
+},
+{
+"key": "feature_ppm.html#154",
+"es": "<i>4</i>Ventana + persiana — muestra de dónde viene la luz"
+},
+{
+"key": "feature_ppm.html#155",
+"es": "<i>5</i>Eucalipto — espacio negativo a la izquierda, línea guía"
+},
+{
+"key": "feature_ppm.html#156",
+"es": "<i>6</i>Mesa de madera — palabra clave de textura"
+},
+{
+"key": "feature_ppm.html#157",
+"es": "Retirados: carta · servilletero · enchufe · póster"
+},
+{
+"key": "feature_ppm.html#158",
+"es": "<b>Lámina PPM-4</b> Tablero de vestuario y mapa de puesta en escena. Si no puedes escribir «por qué está ahí» de un objeto del cuadro, quítalo — en eso consiste toda la puesta en escena."
+},
+{
+"key": "feature_ppm.html#159",
+"es": "<b>Fotos de referencia 2.2D</b>Imagen generada — documentos de vestuario · utilería · set"
+},
+{
+"key": "feature_ppm.html#160",
+"es": "<span class=\"ph-id\">P06-CALLSHEET</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Orden de rodaje — el primer documento del amanecer</b></span>"
+},
+{
+"key": "feature_ppm.html#161",
+"es": "<b>Nota</b>Orden de rodaje — el primer documento del amanecer"
+},
+{
+"key": "feature_ppm.html#162",
+"es": "<span class=\"ph-id\">P06-SLATE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Claqueta — número de plano · toma unen sonido e imagen</b></span>"
+},
+{
+"key": "feature_ppm.html#163",
+"es": "<b>Nota</b>Claqueta — número de plano · toma unen sonido e imagen"
+},
+{
+"key": "feature_ppm.html#164",
+"es": "<small>DOBLE PÁGINA 05 · Calendario</small>Plan de rodaje — armado en torno a «la luz y los actores», no a las fechas"
+},
+{
+"key": "feature_ppm.html#165",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "feature_ppm.html#166",
+"es": "Agrupa el plan no por orden de escenas, sino por <b>locación → luz → disponibilidad de actores</b>. Rodar seguidos los planos con la misma locación · el mismo montaje de luces ahorra el 80 % del tiempo."
+},
+{
+"key": "feature_ppm.html#167",
+"es": "El plan de rodaje es una tabla de «qué rodamos qué día»; el horario de rodaje (página siguiente) es una tabla de «qué hacemos a qué hora ese día». Si mezclas los dos en una sola tabla, no se podrá leer ninguno."
+},
+{
+"key": "feature_ppm.html#168",
+"es": "Día"
+},
+{
+"key": "feature_ppm.html#169",
+"es": "Hora"
+},
+{
+"key": "feature_ppm.html#170",
+"es": "Locación"
+},
+{
+"key": "feature_ppm.html#171",
+"es": "Plano (storyboard)"
+},
+{
+"key": "feature_ppm.html#172",
+"es": "Contenido"
+},
+{
+"key": "feature_ppm.html#173",
+"es": "Reparto"
+},
+{
+"key": "feature_ppm.html#174",
+"es": "Equipo clave · iluminación"
+},
+{
+"key": "feature_ppm.html#175",
+"es": "Notas"
+},
+{
+"key": "feature_ppm.html#176",
+"es": "DÍA 1 · 9/4 (mié.) · café L-01 · amanecer 06:12 · sol directo en ventana 07:00–10:00 · alquiler 07:00–10:30"
+},
+{
+"key": "feature_ppm.html#177",
+"es": "Café, 2.º piso"
+},
+{
+"key": "feature_ppm.html#178",
+"es": "Montaje: vía de dolly, LED principal, ambientación de arte"
+},
+{
+"key": "feature_ppm.html#179",
+"es": "LED 600 W, rebote 4×4"
+},
+{
+"key": "feature_ppm.html#180",
+"es": "Citación actor A 07:15, furgoneta de maquillaje"
+},
+{
+"key": "feature_ppm.html#181",
+"es": "Mesa de la ventana"
+},
+{
+"key": "feature_ppm.html#182",
+"es": "Toma la botella (MCU, dolly in) · un sorbo (CU)"
+},
+{
+"key": "feature_ppm.html#183",
+"es": "50 mm · 85 mm, luz natural + refuerzo de principal"
+},
+{
+"key": "feature_ppm.html#184",
+"es": "<b>Primero los planos con sol directo</b>"
+},
+{
+"key": "feature_ppm.html#185",
+"es": "Mesa de la ventana"
+},
+{
+"key": "feature_ppm.html#186",
+"es": "Final: producto centrado, espacio para logo en CG (dolly in, lento)"
+},
+{
+"key": "feature_ppm.html#187",
+"es": "50 mm, marcadores de tracking, clean plate"
+},
+{
+"key": "feature_ppm.html#188",
+"es": "Plano de referencia para CG — 1 toma LOCKED obligatoria"
+},
+{
+"key": "feature_ppm.html#189",
+"es": "Mesa de la ventana"
+},
+{
+"key": "feature_ppm.html#190",
+"es": "Choca botellas con un colega (2S)"
+},
+{
+"key": "feature_ppm.html#191",
+"es": "35 mm, rebote de relleno"
+},
+{
+"key": "feature_ppm.html#192",
+"es": "Citación B 09:00, casi siempre de espaldas"
+},
+{
+"key": "feature_ppm.html#193",
+"es": "Sobre la mesa"
+},
+{
+"key": "feature_ppm.html#194",
+"es": "01 · 02 INS"
+},
+{
+"key": "feature_ppm.html#195",
+"es": "Gotas ECU · inserto de mano"
+},
+{
+"key": "feature_ppm.html#196",
+"es": "Mano de A"
+},
+{
+"key": "feature_ppm.html#197",
+"es": "Macro 100 mm, glicerina"
+},
+{
+"key": "feature_ppm.html#198",
+"es": "Botella nueva cambiada 6 veces"
+},
+{
+"key": "feature_ppm.html#199",
+"es": "Todos"
+},
+{
+"key": "feature_ppm.html#200",
+"es": "Fin de rodaje, restaurar el lugar, 1.ª copia de seguridad"
+},
+{
+"key": "feature_ppm.html#201",
+"es": "Despedida tras la copia 3-2-1"
+},
+{
+"key": "feature_ppm.html#202",
+"es": "DÍA 2 · 11/4 (vie.) · azotea del campus + laboratorio · atardecer 19:02 · hora dorada 18:20–19:00"
+},
+{
+"key": "feature_ppm.html#203",
+"es": "Rellano de la escalera de la azotea"
+},
+{
+"key": "feature_ppm.html#204",
+"es": "Montaje: tilt con monopié en lugar de grúa, línea de seguridad"
+},
+{
+"key": "feature_ppm.html#205",
+"es": "24 mm, ND 8"
+},
+{
+"key": "feature_ppm.html#206",
+"es": "Parar si el viento supera 12 m/s"
+}
+]

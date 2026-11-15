@@ -1,0 +1,634 @@
+[
+{
+"key": "part01.html#300",
+"es": "Modelos de generación de imagen"
+},
+{
+"key": "part01.html#301",
+"es": "Moodboards, arte conceptual, borradores de storyboard"
+},
+{
+"key": "part01.html#302",
+"es": "Revisar datos de entrenamiento y condiciones de uso comercial"
+},
+{
+"key": "part01.html#303",
+"es": "Video"
+},
+{
+"key": "part01.html#304",
+"es": "Generación de texto/imagen a video"
+},
+{
+"key": "part01.html#305",
+"es": "Insertos, fondos, escenas imposibles"
+},
+{
+"key": "part01.html#306",
+"es": "La coherencia sigue siendo un reto"
+},
+{
+"key": "part01.html#307",
+"es": "Voz"
+},
+{
+"key": "part01.html#308",
+"es": "Síntesis de voz"
+},
+{
+"key": "part01.html#309",
+"es": "Narración provisional, doblaje multilingüe"
+},
+{
+"key": "part01.html#310",
+"es": "Nunca clonar la voz de una persona real"
+},
+{
+"key": "part01.html#311",
+"es": "Edición"
+},
+{
+"key": "part01.html#312",
+"es": "Subtítulos y cortes automáticos"
+},
+{
+"key": "part01.html#313",
+"es": "Primer montaje, generación de subtítulos"
+},
+{
+"key": "part01.html#314",
+"es": "Revisar siempre los nombres propios"
+},
+{
+"key": "part01.html#315",
+"es": "Generación de imagen a 3D"
+},
+{
+"key": "part01.html#316",
+"es": "Utilería, prototipos de personajes"
+},
+{
+"key": "part01.html#317",
+"es": "Requiere limpiar polígonos"
+},
+{
+"key": "part01.html#318",
+"es": "Lo que la IA no puede reemplazar"
+},
+{
+"key": "part01.html#319",
+"es": "Decidir qué rodar, explicar por qué tiene que ser este plano, llegar a un acuerdo con el cliente, juzgar lo imprevisto en el set. Cuanto más potentes son las herramientas, más vale el criterio."
+},
+{
+"key": "part01.html#320",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part01.html#321",
+"es": "Si reemplazas todo el proceso con IA, la calidad se desploma; si la rechazas por completo, te quedas atrás en velocidad."
+},
+{
+"key": "part01.html#322",
+"es": "Lo que importa es diseñar dónde encaja la IA generativa. Este libro recomienda limitarla a tres puntos."
+},
+{
+"key": "part01.html#323",
+"es": "<b>01</b><i>Fase de planificación</i>Ampliar ideas"
+},
+{
+"key": "part01.html#324",
+"es": "<b>02</b><i>Fase de borrador</i>Visualización"
+},
+{
+"key": "part01.html#325",
+"es": "<b>03</b><i>Fase de posproducción</i>Automatización"
+},
+{
+"key": "part01.html#326",
+"es": "<small>Ejercicio</small>12.8"
+},
+{
+"key": "part01.html#327",
+"es": "Tarea"
+},
+{
+"key": "part01.html#328",
+"es": "Crea 3 planos de 5 segundos cada uno con IA generativa y compáralos con planos de la misma escena rodados por ti."
+},
+{
+"key": "part01.html#329",
+"es": "Consejo"
+},
+{
+"key": "part01.html#330",
+"es": "Escribe en el prompt el tamaño de plano, el objetivo, la iluminación y el movimiento con términos de cine."
+},
+{
+"key": "part01.html#331",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#332",
+"es": "Conserva el registro de uso de herramientas y las comprobaciones de derechos de autor · de imagen; expone de forma concreta las ventajas y debilidades de ambos métodos"
+},
+{
+"key": "part01.html#333",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#334",
+"es": "Mezcla planos de IA entre los rodados, declara su uso y entrega el historial de revisiones del prompt."
+},
+{
+"key": "part01.html#335",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#336",
+"es": "Breve historia de la industria audiovisual coreana"
+},
+{
+"key": "part01.html#337",
+"es": "Del kino-drama al streaming global y al comercio en video corto, la industria audiovisual coreana ha creado profesiones nuevas con cada cambio tecnológico."
+},
+{
+"key": "part01.html#338",
+"es": "<span class=\"ph-id\">P01-KOREA</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>En un rodaje de la industria audiovisual coreana</b>Una cámara de 35 mm sobre vía de dolly en un callejón estrecho de noche, y el equipo con walkie-talkies</span>"
+},
+{
+"key": "part01.html#339",
+"es": "<b>Nota</b> El auge en los años 90 del cine planificado por productores y de la publicidad formó a los profesionales coreanos de hoy"
+},
+{
+"key": "part01.html#340",
+"es": "<b>1919</b><i>Righteous Revenge</i>Proyección de un kino-drama. El punto de partida de la historia del cine coreano"
+},
+{
+"key": "part01.html#341",
+"es": "<b>1926</b><i>Arirang</i>La película muda emblemática de Na Woon-gyu; una enorme respuesta popular"
+},
+{
+"key": "part01.html#342",
+"es": "<b>1956–</b><i>Televisión</i>Comienzan las emisiones bajo un sistema de radiodifusión pública. Se forma personal de televisión a gran escala"
+},
+{
+"key": "part01.html#343",
+"es": "<b>Años 90</b><i>Cine planificado</i>Entra el capital de los conglomerados; la publicidad madura. Los directores de anuncios pasan al cine"
+},
+{
+"key": "part01.html#344",
+"es": "<b>Años 2000</b><i>Multicines</i>El cine coreano gana cuota de mercado; la demanda se reparte entre canales de cable · generalistas"
+},
+{
+"key": "part01.html#345",
+"es": "<b>Años 2010</b><i>K-pop · YouTube</i>Los videos musicales elevan el nivel de producción; llevar un canal se vuelve básico en la comunicación corporativa"
+},
+{
+"key": "part01.html#346",
+"es": "<b>2019–</b><i>Streaming global</i>Se dispara la demanda mundial de contenido coreano. Más demanda de equipos de cámara · iluminación · arte · posproducción"
+},
+{
+"key": "part01.html#347",
+"es": "<b>Años 2020</b><i>Video corto · comercio</i>Gran parte de los empleos nuevos. Crecen los puestos de video dentro de las marcas"
+},
+{
+"key": "part01.html#348",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part01.html#349",
+"es": "Verifica siempre título, año y productora, y cita tus fuentes."
+},
+{
+"key": "part01.html#350",
+"es": "<small>Ejercicio</small>12.9"
+},
+{
+"key": "part01.html#351",
+"es": "Tarea"
+},
+{
+"key": "part01.html#352",
+"es": "Elige un año de la historia audiovisual coreana e investiga una obra emblemática de cine · televisión · publicidad."
+},
+{
+"key": "part01.html#353",
+"es": "Consejo"
+},
+{
+"key": "part01.html#354",
+"es": "Verifica siempre título, año y productora, y cita tus fuentes."
+},
+{
+"key": "part01.html#355",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#356",
+"es": "Exactitud de los datos; relación entre contexto histórico y forma"
+},
+{
+"key": "part01.html#357",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#358",
+"es": "Señala cómo el cambio técnico (p. ej., la televisión en color, la transición digital) afectó a la forma."
+},
+{
+"key": "part01.html#359",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#360",
+"es": "Principios de trabajo que deja la historia"
+},
+{
+"key": "part01.html#361",
+"es": "Seis principios de trabajo extraídos de la historia. Lo que dejaron 130 años de historia no es una cronología, sino seis frases que puedes poner hoy mismo en una propuesta."
+},
+{
+"key": "part01.html#362",
+"es": "<span class=\"ph-id\">P01-PRINCIPLES</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Una clase que aprende principios de la historia</b>Una profesora señala un fotograma de película proyectado en la pared; estudiantes con los cuadernos abiertos</span>"
+},
+{
+"key": "part01.html#363",
+"es": "<b>Nota</b> En lugar de memorizar una cronología, esta sección busca extraer de una sola escena un principio que puedas usar ahora"
+},
+{
+"key": "part01.html#364",
+"es": "<b>01</b><span><b>El medio crea la forma.</b> El tamaño de pantalla, la distancia de visionado, el ruido ambiente y los controles deciden la duración y los tamaños de plano de una pieza. Si planificas sin elegir plataforma, acabarás rehaciéndola.</span>"
+},
+{
+"key": "part01.html#365",
+"es": "<b>02</b><span><b>El sentido está entre los planos.</b> Un principio que no ha cambiado desde Kuleshov. Antes de reunir buen material, decide el orden en que lo unirás.</span>"
+},
+{
+"key": "part01.html#366",
+"es": "<b>03</b><span><b>La tecnología nueva es primero una restricción.</b> Una herramienta nueva estrecha al principio la expresión. Úsala antes que los demás, pero llévala a la pieza final solo cuando puedas integrar sus límites en tu dirección.</span>"
+},
+{
+"key": "part01.html#367",
+"es": "<b>04</b><span><b>Los estándares son convenciones.</b> Los 24 fps, el 16:9 y el obturador de 180 grados son acuerdos, no leyes de la física. Si conoces las razones, puedes romperlos a propósito.</span>"
+},
+{
+"key": "part01.html#368",
+"es": "<b>05</b><span><b>A menor pantalla, todo más grande.</b> Cuando la pantalla se encoge, los sujetos crecen, los planos se acortan y los subtítulos aumentan. La regla central para el teléfono.</span>"
+},
+{
+"key": "part01.html#369",
+"es": "<b>06</b><span><b>La distribución cambia la creación.</b> Desde que YouTube eliminó la barrera de la distribución, la planificación no parte de la idea, sino de la posibilidad de ser descubierto. Por eso los títulos y las miniaturas pasaron a formar parte de la dirección.</span>"
+},
+{
+"key": "part01.html#370",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part01.html#371",
+"es": "No expliques el principio con palabras; muéstralo en pantalla."
+},
+{
+"key": "part01.html#372",
+"es": "<small>Ejercicio</small>12.10"
+},
+{
+"key": "part01.html#373",
+"es": "Tarea"
+},
+{
+"key": "part01.html#374",
+"es": "Elige uno de los seis principios de trabajo y demuéstralo en un video de 1 minuto."
+},
+{
+"key": "part01.html#375",
+"es": "Consejo"
+},
+{
+"key": "part01.html#376",
+"es": "No expliques el principio con palabras; muéstralo en pantalla."
+},
+{
+"key": "part01.html#377",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#378",
+"es": "Principio y resultado coinciden; la intención se entiende sin explicación"
+},
+{
+"key": "part01.html#379",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#380",
+"es": "Muestra lado a lado una versión que sigue el principio y otra que lo rompe."
+},
+{
+"key": "part01.html#381",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#382",
+"es": "Teoría que cambia tu trabajo en el set"
+},
+{
+"key": "part01.html#383",
+"es": "Teorías que, una vez las conoces, cambian tu trabajo en el set. La teoría no se usa en el set de inmediato, pero te permite explicar por qué algo debe hacerse. Solo quien sabe explicar puede persuadir a un equipo y convencer a un cliente."
+},
+{
+"key": "part01.html#384",
+"es": "<span class=\"ph-id\">P01-THEORY</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Herramientas de la teoría del cine</b>Una pila de libros gastados de teoría del cine, una mesa de luz con tiras de película de 35 mm y una lupa</span>"
+},
+{
+"key": "part01.html#385",
+"es": "<b>Nota</b> La teoría te da el lenguaje para explicar a otros las decisiones que tomaste en el set"
+},
+{
+"key": "part01.html#386",
+"es": "<small>Montaje</small>Efecto Kuleshov"
+},
+{
+"key": "part01.html#387",
+"es": "El mismo rostro inexpresivo se lee como hambre · pena · deseo según los planos que lo rodean"
+},
+{
+"key": "part01.html#388",
+"es": "Base de los anuncios que unen un producto con imágenes emotivas"
+},
+{
+"key": "part01.html#389",
+"es": "<small>Montaje</small>Montaje de choque"
+},
+{
+"key": "part01.html#390",
+"es": "Dos imágenes que chocan crean un tercer sentido"
+},
+{
+"key": "part01.html#391",
+"es": "Base teórica de los anuncios comparativos y las estructuras con giro"
+},
+{
+"key": "part01.html#392",
+"es": "<small>Montaje</small>Montaje de continuidad"
+},
+{
+"key": "part01.html#393",
+"es": "Unir planos con tal fluidez que el público no nota el montaje"
+},
+{
+"key": "part01.html#394",
+"es": "Regla de los 180°, raccord de mirada, raccord de movimiento"
+},
+{
+"key": "part01.html#395",
+"es": "<small>Sonido · mundo</small>Diégesis"
+},
+{
+"key": "part01.html#396",
+"es": "La música de una radio en la escena es diegética; la música de fondo, extradiegética"
+},
+{
+"key": "part01.html#397",
+"es": "Cruzar de una a otra a propósito tiene un efecto potente"
+},
+{
+"key": "part01.html#398",
+"es": "<small>Mirada</small>Punto de vista y focalización"
+},
+{
+"key": "part01.html#399",
+"es": "A través de qué ojos vemos"
+},
+{
+"key": "part01.html#400",
+"es": "La posición de cámara, los planos subjetivos y la voz narrativa deben trabajar juntos para mantener la coherencia"
+},
+{
+"key": "part01.html#401",
+"es": "<small>Aprendidas por el público</small>Convenciones de género"
+},
+{
+"key": "part01.html#402",
+"es": "Luz en clave baja en el terror, contraluz cálido en el romance"
+},
+{
+"key": "part01.html#403",
+"es": "Úsalas para comunicar sin explicar; rómpelas para llamar la atención"
+},
+{
+"key": "part01.html#404",
+"es": "<small>Motor narrativo</small>Expectativa y traición"
+},
+{
+"key": "part01.html#405",
+"es": "Hacer que el espectador prediga y luego subvertirlo"
+},
+{
+"key": "part01.html#406",
+"es": "El núcleo del anuncio con giro"
+},
+{
+"key": "part01.html#407",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part01.html#408",
+"es": "El plano del rostro debe durar 3 segundos o más sin cambio de expresión para que el experimento funcione."
+},
+{
+"key": "part01.html#409",
+"es": "<small>Ejercicio</small>12.11"
+},
+{
+"key": "part01.html#410",
+"es": "Tarea"
+},
+{
+"key": "part01.html#411",
+"es": "Recrea el efecto Kuleshov. Une un plano de un rostro inexpresivo con tres planos distintos y pregunta a 5 espectadores qué emoción leen."
+},
+{
+"key": "part01.html#412",
+"es": "Consejo"
+},
+{
+"key": "part01.html#413",
+"es": "El plano del rostro debe durar 3 segundos o más sin cambio de expresión para que el experimento funcione."
+},
+{
+"key": "part01.html#414",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#415",
+"es": "Control de variables en el diseño experimental, registro de respuestas, lógica de la conclusión"
+},
+{
+"key": "part01.html#416",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#417",
+"es": "El experimento original de Kuleshov. Tabula las respuestas para mostrar con cifras que el montaje crea sentido."
+},
+{
+"key": "part01.html#418",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#419",
+"es": "El nacimiento y los principios de la fotografía"
+},
+{
+"key": "part01.html#420",
+"es": "Una historia que va del cuarto oscuro al smartphone. La fotografía nació antes que el video, y casi toda la tecnología del video se apoya en la tecnología fotográfica."
+},
+{
+"key": "part01.html#421",
+"es": "Una cámara es un orificio que recoge la luz y una superficie que la recibe"
+},
+{
+"key": "part01.html#422",
+"es": "<b>① Estenopo — la luz viaja en línea recta</b><span>La escena exterior pasa por un orificio diminuto y cae invertida sobre la pared. Cuanto menor el orificio, más nítida y más oscura</span>"
+},
+{
+"key": "part01.html#423",
+"es": "<b>② Objetivo — reúne la luz en un punto</b><span>El vidrio desvía la luz para que la imagen sea a la vez luminosa y nítida. El diafragma fija la cantidad; el obturador, el tiempo</span>"
+},
+{
+"key": "part01.html#424",
+"es": "<b>③ Superficie de registro — de la plata a la electricidad</b><span>En la película, los granos de plata expuestos se ennegrecen; en un sensor, los píxeles convierten la luz en carga</span>"
+},
+{
+"key": "part01.html#425",
+"es": "<b>Fig. 3</b> Cómo funciona una cámara — a partir de un simple estenopo, se completó al sumarse por turno objetivo · diafragma · obturador · superficie de registro."
+},
+{
+"key": "part01.html#426",
+"es": "<b>Término</b>"
+},
+{
+"key": "part01.html#427",
+"es": "Cámara oscura — en latín, «habitación oscura». La luz que entra por un orificio pequeño proyecta la escena exterior invertida en la pared opuesta."
+},
+{
+"key": "part01.html#428",
+"es": "La fotografía empezó con los intentos de fijar con productos químicos esta imagen, que los pintores usaban desde el Renacimiento como ayuda para dibujar."
+},
+{
+"key": "part01.html#429",
+"es": "Los cinco elementos de una cámara"
+},
+{
+"key": "part01.html#430",
+"es": "<b>01</b><i>Caja oscura</i>El cuerpo que deja entrar solo la luz que quieres. La palabra viene del latín camera, «habitación»"
+},
+{
+"key": "part01.html#431",
+"es": "<b>02</b><i>Objetivo</i>Reúne en un punto más luz que un estenopo. La distancia focal fija el ángulo de visión"
+},
+{
+"key": "part01.html#432",
+"es": "<b>03</b><i>Diafragma</i>Tamaño de la abertura por donde pasa la luz. Cambia a la vez el brillo y la profundidad de campo"
+},
+{
+"key": "part01.html#433",
+"es": "<b>04</b><i>Obturador</i>Cuánto tiempo entra la luz. Congela el movimiento o lo deja fluir"
+},
+{
+"key": "part01.html#434",
+"es": "<b>05</b><i>Superficie de registro</i>En la película, los granos de haluro de plata se ennegrecen y dejan una imagen; en un sensor, los píxeles convierten la luz en carga, guardada como números"
+},
+{
+"key": "part01.html#435",
+"es": "La historia de la cámara avanzó hacia exposiciones más cortas, cuerpos más pequeños y un copiado más simple"
+},
+{
+"key": "part01.html#436",
+"es": "<b class=\"yr\">s. XVI–</b><b>Cámara oscura</b><span>Ayuda de dibujo del pintor</span>"
+},
+{
+"key": "part01.html#437",
+"es": "<b class=\"yr\">1839</b><b>Daguerrotipo</b><span>Exposición de minutos, pieza única</span>"
+},
+{
+"key": "part01.html#438",
+"es": "<b class=\"yr\">1851</b><b>Placa húmeda · gran formato</b><span>Negativo de vidrio, copias sin fin</span>"
+},
+{
+"key": "part01.html#439",
+"es": "<b class=\"yr\">1888</b><b>Cámara de cajón con rollo</b><span>Fotos al alcance de todos</span>"
+},
+{
+"key": "part01.html#440",
+"es": "<b class=\"yr\">1925</b><b>Cámara compacta de 35 mm</b><span>Película de cine para foto fija</span>"
+},
+{
+"key": "part01.html#441",
+"es": "<b class=\"yr\">1948</b><b>Cámara instantánea</b><span>Una copia en minutos</span>"
+},
+{
+"key": "part01.html#442",
+"es": "<b class=\"yr\">Años 50–60</b><b>Réflex de un objetivo (SLR)</b><span>Captas justo lo que ves</span>"
+},
+{
+"key": "part01.html#443",
+"es": "<b class=\"yr\">1975</b><b>Prototipo de cámara digital</b><span>Señales eléctricas, sin película</span>"
+},
+{
+"key": "part01.html#444",
+"es": "<b class=\"yr\">Años 1990–2000</b><b>Auge de las compactas digitales</b><span>Disparar y ver al instante</span>"
+},
+{
+"key": "part01.html#445",
+"es": "<b class=\"yr\">2000–</b><b>Teléfono con cámara · smartphone</b><span>Disparar, retocar, publicar</span>"
+},
+{
+"key": "part01.html#446",
+"es": "<b>Fig. 4</b> Cómo cambió la cámara — 200 años reduciendo tiempos de exposición, tamaños y pasos de copiado. De arriba a la izquierda a abajo a la derecha, «quien dispara» se amplía de los pintores a todo el mundo."
+},
+{
+"key": "part01.html#447",
+"es": "Cómo se desarrolló"
+},
+{
+"key": "part01.html#448",
+"es": "<b>1826–27 Niépce</b> La fotografía más antigua que se conserva, Vista desde la ventana en Le Gras. Una exposición de varias horas"
+},
+{
+"key": "part01.html#449",
+"es": "<b>1839 Daguerre</b> El daguerrotipo. Muy nítido sobre una placa de plata, pero una imagen única que no se puede copiar"
+},
+{
+"key": "part01.html#450",
+"es": "<b>1841 Talbot</b> El calotipo. Muchos positivos de un negativo de papel — el inicio del sistema de copia negativo · positivo"
+},
+{
+"key": "part01.html#451",
+"es": "<b>1851 Archer</b> Placa húmeda (colodión). La nitidez del negativo de vidrio con exposiciones de segundos. Los estudios de retrato se popularizan"
+},
+{
+"key": "part01.html#452",
+"es": "<b>1888 Eastman</b> Cámara de cajón con rollo. «Usted aprieta el botón, nosotros hacemos el resto» — la toma se separa del revelado"
+},
+{
+"key": "part01.html#453",
+"es": "<b>1907 Autocromo · 1935 Kodachrome</b> El primer proceso comercial de fotografía en color y la película en color de emulsión multicapa"
+},
+{
+"key": "part01.html#454",
+"es": "<b>1925 Cámara compacta de 35 mm</b> Película de cine para foto fija. Fotografía callejera y fotoperiodismo; el estándar actual del sensor de fotograma completo"
+},
+{
+"key": "part01.html#455",
+"es": "<b>1948 Fotografía instantánea</b> Una foto en la mano en pocos minutos. El inicio de ver el resultado enseguida"
+},
+{
+"key": "part01.html#456",
+"es": "<b>1975 Prototipo digital</b> Steven Sasson, de Kodak, graba unos 0,01 megapíxeles en una cinta de casete"
+},
+{
+"key": "part01.html#457",
+"es": "<b>Desde los años 2000</b> Los teléfonos con cámara y los smartphones reúnen toma · retoque · envío en un solo dispositivo. La fotografía computacional, que fusiona muchos cuadros, se vuelve estándar"
+}
+]

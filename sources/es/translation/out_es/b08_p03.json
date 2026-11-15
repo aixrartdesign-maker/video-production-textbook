@@ -1,0 +1,522 @@
+[
+{
+"key": "part07.html#517",
+"es": "<small>Punto de vista de referencia</small>Fija la cámara virtual"
+},
+{
+"key": "part07.html#518",
+"es": "Donde se sitúa la mayoría de los espectadores"
+},
+{
+"key": "part07.html#519",
+"es": "Sal de ese punto y la ilusión se derrumba"
+},
+{
+"key": "part07.html#520",
+"es": "<small>Condiciones del contenido</small>Sujetos de bordes suaves"
+},
+{
+"key": "part07.html#521",
+"es": "Estructuras encerradas en una caja, objetos que irrumpen hacia fuera"
+},
+{
+"key": "part07.html#522",
+"es": "Sujetos de bordes suaves, como el agua y las nubes"
+},
+{
+"key": "part07.html#523",
+"es": "<small>El verdadero beneficio</small>Un ángulo que da gusto grabar"
+},
+{
+"key": "part07.html#524",
+"es": "El alcance real viene de quienes graban y publican en línea, más que de los espectadores presentes"
+},
+{
+"key": "part07.html#525",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part07.html#526",
+"es": "La publicidad exterior es muda por defecto. Un plan que depende del sonido ya ha fracasado al elegir el medio."
+},
+{
+"key": "part07.html#527",
+"es": "Medio DOOH"
+},
+{
+"key": "part07.html#528",
+"es": "Rasgos"
+},
+{
+"key": "part07.html#529",
+"es": "Principio de diseño del contenido"
+},
+{
+"key": "part07.html#530",
+"es": "Gran valla LED"
+},
+{
+"key": "part07.html#531",
+"es": "Exposición masiva a distancia"
+},
+{
+"key": "part07.html#532",
+"es": "Un mensaje que se lee en 3 segundos, sin audio"
+},
+{
+"key": "part07.html#533",
+"es": "Medios de transporte"
+},
+{
+"key": "part07.html#534",
+"es": "Exposición cercana y repetida"
+},
+{
+"key": "part07.html#535",
+"es": "Bucle corto y repetido, basado en subtítulos"
+},
+{
+"key": "part07.html#536",
+"es": "Señalización en tienda"
+},
+{
+"key": "part07.html#537",
+"es": "Punto de compra"
+},
+{
+"key": "part07.html#538",
+"es": "Información centrada en precio y oferta"
+},
+{
+"key": "part07.html#539",
+"es": "Pantallas de ascensor"
+},
+{
+"key": "part07.html#540",
+"es": "Exposición breve y cautiva"
+},
+{
+"key": "part07.html#541",
+"es": "Bucle de 6–10 s, claro sin sonido"
+},
+{
+"key": "part07.html#542",
+"es": "LED anamórfico especial"
+},
+{
+"key": "part07.html#543",
+"es": "Repercusión y difusión"
+},
+{
+"key": "part07.html#544",
+"es": "Diseña una escena que la gente grabe y comparta"
+},
+{
+"key": "part07.html#545",
+"es": "<b>G-23</b> LED anamórfico — la ilusión de profundidad en una pantalla en esquina (imagen generada con GPT — solo conceptual)"
+},
+{
+"key": "part07.html#546",
+"es": "Cómo se hace el contenido anamórfico"
+},
+{
+"key": "part07.html#547",
+"es": "<b>01</b><i>Estudio del lugar · punto de vista</i>Mide las caras del LED y su ángulo de pliegue, y fija el «punto óptimo» donde se sitúa la mayoría de los espectadores"
+},
+{
+"key": "part07.html#548",
+"es": "<b>02</b><i>Modelado 3D + cámara en el punto óptimo</i>Construye las caras del LED a tamaño real en una herramienta 3D como Unreal Engine · Cinema 4D · Blender, y fija una cámara virtual en el punto óptimo"
+},
+{
+"key": "part07.html#549",
+"es": "<b>03</b><i>Contenido · render</i>Proyecta lo que ve la cámara virtual sobre la plantilla desplegada del LED y expórtalo. Los objetos que cruzan los bordes de la pantalla refuerzan la ilusión"
+},
+{
+"key": "part07.html#550",
+"es": "<b>04</b><i>Corrección in situ</i>Reprodúcelo en el LED real, graba desde el punto óptimo y corrige el desajuste de las juntas y el brillo · color"
+},
+{
+"key": "part07.html#551",
+"es": "<b>Nota</b>Anamórfico vertical — una cascada que cae por la esquina de un edificio. La ilusión solo se sostiene en el punto óptimo, que es también el punto de foto y el origen de la difusión en línea"
+},
+{
+"key": "part07.html#552",
+"es": "Fachadas mediáticas en Corea"
+},
+{
+"key": "part07.html#553",
+"es": "<small>Gwanghwamun · Cheonggyecheon</small>Seoul Light Gwanghwamun · Festival de los Faroles de Seúl"
+},
+{
+"key": "part07.html#554",
+"es": "Se celebran en torno a la plaza de Gwanghwamun y el arroyo Cheonggyecheon dentro del Seoul Winter Festa, el festival de invierno"
+},
+{
+"key": "part07.html#555",
+"es": "Grandes espectáculos de fachada mediática en la plaza, esculturas de luz, arte multimedia de artistas elegidos por convocatoria abierta"
+},
+{
+"key": "part07.html#556",
+"es": "El escenario son los sitios patrimoniales y la plaza, así que el contenido sigue las líneas de la arquitectura"
+},
+{
+"key": "part07.html#557",
+"es": "<small>COEX · DDP</small>«Wave» de K-POP Square · Seoul Light DDP"
+},
+{
+"key": "part07.html#558",
+"es": "«Wave», la ola anamórfica del gran LED en esquina de K-POP Square, en el COEX, es la obra anamórfica emblemática de Corea"
+},
+{
+"key": "part07.html#559",
+"es": "Seoul Light DDP usa como pantalla el exterior curvo del DDP, con un artista nuevo cada año"
+},
+{
+"key": "part07.html#560",
+"es": "En ambos, el alcance viene de los «espectadores que graban y publican»"
+},
+{
+"key": "part07.html#561",
+"es": "<small>Asamblea Nacional</small>Iluminación de fachada y el «meme de Mazinger Z»"
+},
+{
+"key": "part07.html#562",
+"es": "El exterior del edificio principal se ilumina de noche"
+},
+{
+"key": "part07.html#563",
+"es": "La vieja broma de que «cuando se abre la cúpula sale un robot» muestra cómo la forma que se percibe en un edificio puede ser contenido por sí misma"
+},
+{
+"key": "part07.html#564",
+"es": "Al usar un edificio como medio, investiga primero la imagen que la gente ya tiene de él"
+},
+{
+"key": "part07.html#565",
+"es": "<b>Fotos de referencia 6.9B</b>Cuando la arquitectura se vuelve pantalla"
+},
+{
+"key": "part07.html#566",
+"es": "<span class=\"ph-id\">P07-FACADE-PALACE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Fachada mediática en un palacio</b>Video en color proyectado sobre una puerta con tejado de tejas, público en la plaza</span>"
+},
+{
+"key": "part07.html#567",
+"es": "<b>a</b>Las líneas de las tejas y la separación de las columnas pasan a ser la retícula del contenido"
+},
+{
+"key": "part07.html#568",
+"es": "<span class=\"ph-id\">P07-FACADE-DOME</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Fachada de un edificio con cúpula</b>Un edificio con cúpula visto de noche desde el otro lado del río, luz en retícula de píxeles en sus muros</span>"
+},
+{
+"key": "part07.html#569",
+"es": "<b>b</b>La forma en que la gente lee la silueta de un edificio puede ser contenido por sí misma"
+},
+{
+"key": "part07.html#570",
+"es": "<small>Ejercicio</small>6.9"
+},
+{
+"key": "part07.html#571",
+"es": "Tarea"
+},
+{
+"key": "part07.html#572",
+"es": "Dibuja un storyboard para una ilusión anamórfica en una pantalla LED en esquina."
+},
+{
+"key": "part07.html#573",
+"es": "Consejo"
+},
+{
+"key": "part07.html#574",
+"es": "La ilusión solo se sostiene si fijas primero la posición de visión."
+},
+{
+"key": "part07.html#575",
+"es": "Evaluación"
+},
+{
+"key": "part07.html#576",
+"es": "Diseño del punto de vista, claridad de la ilusión"
+},
+{
+"key": "part07.html#577",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#578",
+"es": "«Wave», de COEX SMTOWN (2020). Marca en un mapa la posición de visión y muestra una imagen compuesta desde ese punto de vista."
+},
+{
+"key": "part07.html#579",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+},
+{
+"key": "part07.html#580",
+"es": "Señalización LED y LED transparente"
+},
+{
+"key": "part07.html#581",
+"es": "Usar términos como paso de píxel y nits con los proveedores hace más precisos los presupuestos. Con el LED transparente, recuerda ante todo que el negro se vuelve transparente."
+},
+{
+"key": "part07.html#582",
+"es": "Término"
+},
+{
+"key": "part07.html#583",
+"es": "Significado"
+},
+{
+"key": "part07.html#584",
+"es": "Criterio"
+},
+{
+"key": "part07.html#585",
+"es": "Efecto en el contenido"
+},
+{
+"key": "part07.html#586",
+"es": "Paso de píxel"
+},
+{
+"key": "part07.html#587",
+"es": "Separación entre los puntos LED"
+},
+{
+"key": "part07.html#588",
+"es": "A menor número, imagen más fina"
+},
+{
+"key": "part07.html#589",
+"es": "P2.5 o menos en medios de corta distancia"
+},
+{
+"key": "part07.html#590",
+"es": "Dist. mín. de visión"
+},
+{
+"key": "part07.html#591",
+"es": "Distancia a la que la imagen se ve lisa"
+},
+{
+"key": "part07.html#592",
+"es": "Aprox. el valor del paso, en metros"
+},
+{
+"key": "part07.html#593",
+"es": "P4: unos 4 m o más"
+},
+{
+"key": "part07.html#594",
+"es": "Luminancia (nits)"
+},
+{
+"key": "part07.html#595",
+"es": "Brillo de la pantalla"
+},
+{
+"key": "part07.html#596",
+"es": "Interior 500–1500, exterior 5000 o más"
+},
+{
+"key": "part07.html#597",
+"es": "Diseño de alto contraste en exteriores"
+},
+{
+"key": "part07.html#598",
+"es": "Transmitancia"
+},
+{
+"key": "part07.html#599",
+"es": "Cuánto se ve a través de un LED transparente"
+},
+{
+"key": "part07.html#600",
+"es": "Aprox. 60–80 %"
+},
+{
+"key": "part07.html#601",
+"es": "El fondo se transparenta; los colores oscuros sufren"
+},
+{
+"key": "part07.html#602",
+"es": "Frecuencia de refresco"
+},
+{
+"key": "part07.html#603",
+"es": "Refrescos de pantalla por segundo"
+},
+{
+"key": "part07.html#604",
+"es": "3840 Hz o más si se va a grabar"
+},
+{
+"key": "part07.html#605",
+"es": "Si es muy baja, salen bandas en cámara"
+},
+{
+"key": "part07.html#606",
+"es": "Tamaño del gabinete"
+},
+{
+"key": "part07.html#607",
+"es": "Tamaño de una unidad de panel"
+},
+{
+"key": "part07.html#608",
+"es": "Base de la resolución total"
+},
+{
+"key": "part07.html#609",
+"es": "Determina la resolución del contenido"
+},
+{
+"key": "part07.html#610",
+"es": "<b>Término</b>"
+},
+{
+"key": "part07.html#611",
+"es": "Paso de píxel: la separación entre los puntos LED (mm). Con P4, la distancia mínima de visión es de unos 4 m."
+},
+{
+"key": "part07.html#612",
+"es": "Diseñar para LED transparente"
+},
+{
+"key": "part07.html#613",
+"es": "El fondo se transparenta, así que el negro se vuelve transparente"
+},
+{
+"key": "part07.html#614",
+"es": "Los gráficos luminosos y saturados funcionan mejor"
+},
+{
+"key": "part07.html#615",
+"es": "Las líneas finas y el texto pequeño desaparecen"
+},
+{
+"key": "part07.html#616",
+"es": "Comprueba con fondos de día y de noche"
+},
+{
+"key": "part07.html#617",
+"es": "Atención: LED ante la cámara"
+},
+{
+"key": "part07.html#618",
+"es": "Una frecuencia de refresco baja provoca bandas móviles en pantalla"
+},
+{
+"key": "part07.html#619",
+"es": "Sincroniza el obturador de la cámara con el refresco del LED"
+},
+{
+"key": "part07.html#620",
+"es": "Personas ante un LED: choque de temperatura de color"
+},
+{
+"key": "part07.html#621",
+"es": "Un rodaje de prueba previo es imprescindible"
+},
+{
+"key": "part07.html#622",
+"es": "La distancia fija el tamaño del texto"
+},
+{
+"key": "part07.html#623",
+"es": "La distancia fija el tamaño del texto"
+},
+{
+"key": "part07.html#624",
+"es": "Pared LED"
+},
+{
+"key": "part07.html#625",
+"es": "Mín. 2 cm"
+},
+{
+"key": "part07.html#626",
+"es": "Mín. 6 cm"
+},
+{
+"key": "part07.html#627",
+"es": "Mín. 16 cm"
+},
+{
+"key": "part07.html#628",
+"es": "Cuanto más lejos, mayor debe ser el texto para leerse — altura mín. del texto ≈ distancia ÷ 250"
+},
+{
+"key": "part07.html#629",
+"es": "<b>Fig. 66-1</b> Distancia de visión y tamaño del texto — 2 cm a 5 m, 6 cm a 15 m, 16 cm a 40 m. A la inversa, cuanto más de cerca se ve una pantalla, más fino debe ser su paso de píxel (distancia mínima de visión en m ≈ paso en mm)."
+},
+{
+"key": "part07.html#630",
+"es": "<b>Fotos de referencia 6.10A</b>Tres caras de los medios LED"
+},
+{
+"key": "part07.html#631",
+"es": "<span class=\"ph-id\">P07-TRANSLED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>LED transparente</b>Película LED transparente en un escaparate, el interior de la tienda visible tras unos gráficos flotantes</span>"
+},
+{
+"key": "part07.html#632",
+"es": "<b>a</b>El negro se vuelve transparente — muestra solo objetos luminosos"
+},
+{
+"key": "part07.html#633",
+"es": "<span class=\"ph-id\">P07-SIGNAGE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Señalización LED vertical</b>Una hilera de columnas LED verticales en un pasillo de metro, pasajeros caminando</span>"
+},
+{
+"key": "part07.html#634",
+"es": "<b>b</b>Un medio que se ve de paso — bucles cortos, texto grande"
+},
+{
+"key": "part07.html#635",
+"es": "<span class=\"ph-id\">P07-LED-DIAGRAM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Paso de píxel y distancia de visión</b>Primer plano de un módulo LED — separación entre puntos junto a una regla / unos metros atrás, se funde en una sola superficie</span>"
+},
+{
+"key": "part07.html#636",
+"es": "<b>c</b>El número del paso es tu escala para la distancia mínima de visión"
+},
+{
+"key": "part07.html#637",
+"es": "<small>Ejercicio</small>6.10"
+},
+{
+"key": "part07.html#638",
+"es": "Tarea"
+},
+{
+"key": "part07.html#639",
+"es": "Crea un bucle de 10 segundos para un LED transparente. Da por hecho que el negro se ve transparente."
+},
+{
+"key": "part07.html#640",
+"es": "Consejo"
+},
+{
+"key": "part07.html#641",
+"es": "Deja el fondo en negro vacío y mueve solo objetos luminosos."
+},
+{
+"key": "part07.html#642",
+"es": "Evaluación"
+},
+{
+"key": "part07.html#643",
+"es": "Comprensión del medio, continuidad del bucle"
+},
+{
+"key": "part07.html#644",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#645",
+"es": "Tiene en cuenta cómo el espacio real tras el cristal se superpone al video."
+},
+{
+"key": "part07.html#646",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+}
+]

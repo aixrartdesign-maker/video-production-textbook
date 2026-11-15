@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#784",
+"es": "El clásico es naranja y verde azulado"
+},
+{
+"key": "part02.html#785",
+"es": "La piel es naranja; llevar el fondo al verde azulado separa a la persona al instante"
+},
+{
+"key": "part02.html#786",
+"es": "<small>Unidad</small>Armonía de análogos"
+},
+{
+"key": "part02.html#787",
+"es": "Solo tonos vecinos"
+},
+{
+"key": "part02.html#788",
+"es": "Serena y refinada, pero puede quedar plana"
+},
+{
+"key": "part02.html#789",
+"es": "<small>Identidad</small>Armonía monocromática"
+},
+{
+"key": "part02.html#790",
+"es": "Solo cambia el valor, dentro de un tono"
+},
+{
+"key": "part02.html#791",
+"es": "Ideal para campañas con color de marca"
+},
+{
+"key": "part02.html#792",
+"es": "<small>Foco en el producto</small>Un único color de acento"
+},
+{
+"key": "part02.html#793",
+"es": "Todo con poca saturación; un solo color saturado"
+},
+{
+"key": "part02.html#794",
+"es": "La forma más segura de destacar un producto"
+},
+{
+"key": "part02.html#795",
+"es": "Lista de control del diseño de producción"
+},
+{
+"key": "part02.html#796",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part02.html#797",
+"es": "Si hay un color de marca, ponlo siempre en un objeto de utilería. No se puede crear en posproducción."
+},
+{
+"key": "part02.html#798",
+"es": "Cierra los colores del vestuario antes del rodaje. Si los decides en el set, chocarán con el fondo."
+},
+{
+"key": "part02.html#799",
+"es": "En rodajes con chroma key, prohíbe sin excepción todo vestuario u objeto de la gama de color del fondo."
+},
+{
+"key": "part02.html#800",
+"es": "Tapa o sustituye de antemano los logos de marca de los objetos que vayan a entrar en cuadro."
+},
+{
+"key": "part02.html#801",
+"es": "Comprueba que el color de las paredes y la temperatura de color de las luces no choquen. El color que rebota en una pared blanca tiñe la piel."
+},
+{
+"key": "part02.html#802",
+"es": "<small>Ejercicio</small>1.12"
+},
+{
+"key": "part02.html#803",
+"es": "Tarea"
+},
+{
+"key": "part02.html#804",
+"es": "Ambienta y rueda un espacio que exprese una emoción (p. ej., aislamiento) solo con color y utilería."
+},
+{
+"key": "part02.html#805",
+"es": "Consejo"
+},
+{
+"key": "part02.html#806",
+"es": "Limítalo a 1 color dominante, 1 secundario y 1 de acento."
+},
+{
+"key": "part02.html#807",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#808",
+"es": "Unidad de color · utilería · espacio"
+},
+{
+"key": "part02.html#809",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#810",
+"es": "Las paletas de Wes Anderson. Prepara primero las muestras de color y luego construye el set a juego."
+},
+{
+"key": "part02.html#811",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#812",
+"es": "Práctica de desglose de planos: desmontar 30 segundos"
+},
+{
+"key": "part02.html#813",
+"es": "La forma más rápida de mejorar es desmontar plano a plano los videos de otros. Repite los pasos siguientes con solo diez piezas y verás de otra manera."
+},
+{
+"key": "part02.html#814",
+"es": "<b>01</b><i>Elegir</i>No el que te gusta, sino un video que encaje con lo que quieres aprender"
+},
+{
+"key": "part02.html#815",
+"es": "<b>02</b><i>Sin sonido</i>Mira qué transmite la imagen por sí sola"
+},
+{
+"key": "part02.html#816",
+"es": "<b>03</b><i>Sin imagen</i>Traza la estructura de música y efectos"
+},
+{
+"key": "part02.html#817",
+"es": "<b>04</b><i>Marcar cortes</i>Avanza en pasos de 0,5 s y marca cada punto de corte"
+},
+{
+"key": "part02.html#818",
+"es": "<b>05</b><i>Tabular</i>Anota tamaño, ángulo, movimiento y duración de cada plano"
+},
+{
+"key": "part02.html#819",
+"es": "<b>06</b><i>Clasificar uniones</i>Corte en movimiento, por analogía o con salto"
+},
+{
+"key": "part02.html#820",
+"es": "<b>07</b><i>Por qué cortar ahí</i>Una línea — el núcleo del análisis"
+},
+{
+"key": "part02.html#821",
+"es": "<b>08</b><i>Rediseñar</i>Reconstruye la misma estructura con tu propio material"
+},
+{
+"key": "part02.html#822",
+"es": "Patrones que leer en el desglose"
+},
+{
+"key": "part02.html#823",
+"es": "Elemento"
+},
+{
+"key": "part02.html#824",
+"es": "Qué te dice"
+},
+{
+"key": "part02.html#825",
+"es": "Aplícalo a tu trabajo"
+},
+{
+"key": "part02.html#826",
+"es": "Duración media del plano"
+},
+{
+"key": "part02.html#827",
+"es": "Ritmo y género"
+},
+{
+"key": "part02.html#828",
+"es": "Fija duraciones según la emoción buscada"
+},
+{
+"key": "part02.html#829",
+"es": "Distribución de tamaños"
+},
+{
+"key": "part02.html#830",
+"es": "En qué quería que te fijaras"
+},
+{
+"key": "part02.html#831",
+"es": "Ajusta tu proporción de primeros planos"
+},
+{
+"key": "part02.html#832",
+"es": "Primeros 3 planos"
+},
+{
+"key": "part02.html#833",
+"es": "Estrategia de gancho"
+},
+{
+"key": "part02.html#834",
+"es": "Rediseña tu apertura"
+},
+{
+"key": "part02.html#835",
+"es": "Plano más largo"
+},
+{
+"key": "part02.html#836",
+"es": "El momento que más valoraba"
+},
+{
+"key": "part02.html#837",
+"es": "Dónde colocar el mensaje clave"
+},
+{
+"key": "part02.html#838",
+"es": "Últimos 3 planos"
+},
+{
+"key": "part02.html#839",
+"es": "Qué quiere que se recuerde"
+},
+{
+"key": "part02.html#840",
+"es": "Estructura de exposición de marca"
+},
+{
+"key": "part02.html#841",
+"es": "Entrada de la música"
+},
+{
+"key": "part02.html#842",
+"es": "Diseño de los cambios emocionales"
+},
+{
+"key": "part02.html#843",
+"es": "Sincronizar música y cortes"
+},
+{
+"key": "part02.html#844",
+"es": "Cuándo aparecen los rótulos"
+},
+{
+"key": "part02.html#845",
+"es": "Estrategia de información"
+},
+{
+"key": "part02.html#846",
+"es": "Frecuencia y posición de los rótulos"
+},
+{
+"key": "part02.html#847",
+"es": "Acumula notas de análisis"
+},
+{
+"key": "part02.html#848",
+"es": "Basta una hoja A4 por pieza; en 1 año tendrás 50. Esas notas serán después la base de tus decisiones de dirección y, en las entrevistas de trabajo, la prueba de tu olfato para las tendencias."
+},
+{
+"key": "part02.html#849",
+"es": "<small>Ejercicio</small>1.13"
+},
+{
+"key": "part02.html#850",
+"es": "Tarea"
+},
+{
+"key": "part02.html#851",
+"es": "Desglosa plano a plano un anuncio de 30 segundos en una tabla (tiempo, tamaño de plano, ángulo, movimiento, sonido, rótulos)."
+},
+{
+"key": "part02.html#852",
+"es": "Consejo"
+},
+{
+"key": "part02.html#853",
+"es": "Míralo a velocidad 0,5× y pausa en cada corte."
+},
+{
+"key": "part02.html#854",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#855",
+"es": "Precisión del análisis; reglas descubiertas"
+},
+{
+"key": "part02.html#856",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#857",
+"es": "Toma tal cual la estructura analizada y reconstrúyela como storyboard de 30 segundos para tu propio producto."
+},
+{
+"key": "part02.html#858",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#859",
+"es": "El significado que crea el color"
+},
+{
+"key": "part02.html#860",
+"es": "El color es lo primero que se lee en pantalla y lo último que se nota. Antes de leer un solo rótulo, el público ya ha juzgado si la escena es cálida o fría."
+},
+{
+"key": "part02.html#861",
+"es": "<b>Contraluz dorado</b>Nostalgia y calidez — anuncios de familia · recuerdos · fiestas. Contraluz al atardecer"
+},
+{
+"key": "part02.html#862",
+"es": "<b>Fotos de referencia 1.14A</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part02.html#863",
+"es": "<b>Naranja y verde azulado</b>Separa a las personas — acción, tráileres, la mayoría de los anuncios. Una estética tan usada que ya es cliché"
+},
+{
+"key": "part02.html#864",
+"es": "<b>Azul frío</b>Aislamiento — TI, finanzas, escenas tensas. La piel palidece"
+},
+{
+"key": "part02.html#865",
+"es": "<b>Un único color de acento</b>Fuerza la mirada — anuncios de producto, planos de logo. Con dos acentos el efecto desaparece"
+},
+{
+"key": "part02.html#866",
+"es": "Estrategia de color"
+},
+{
+"key": "part02.html#867",
+"es": "Efecto en pantalla"
+},
+{
+"key": "part02.html#868",
+"es": "Uso típico"
+},
+{
+"key": "part02.html#869",
+"es": "Nota"
+},
+{
+"key": "part02.html#870",
+"es": "Luz diurna cálida"
+},
+{
+"key": "part02.html#871",
+"es": "Seguridad, recuerdo, nostalgia, lo cotidiano"
+},
+{
+"key": "part02.html#872",
+"es": "Familia, alimentos y bebidas, flashbacks"
+},
+{
+"key": "part02.html#873",
+"es": "En exceso, dominante amarilla vulgar"
+},
+{
+"key": "part02.html#874",
+"es": "Azul frío"
+},
+{
+"key": "part02.html#875",
+"es": "Aislamiento, razón, tecnología, noche"
+},
+{
+"key": "part02.html#876",
+"es": "TI, finanzas, escenas tensas"
+},
+{
+"key": "part02.html#877",
+"es": "La piel palidece"
+},
+{
+"key": "part02.html#878",
+"es": "Contraste naranja-verde azulado"
+},
+{
+"key": "part02.html#879",
+"es": "Separa a las personas, acabado comercial"
+},
+{
+"key": "part02.html#880",
+"es": "Acción, tráileres, la mayoría de anuncios"
+},
+{
+"key": "part02.html#881",
+"es": "Una estética tan usada que ya es cliché"
+},
+{
+"key": "part02.html#882",
+"es": "Monocromo desaturado"
+},
+{
+"key": "part02.html#883",
+"es": "Contención, lujo, seriedad"
+},
+{
+"key": "part02.html#884",
+"es": "Productos de gama alta, documental"
+},
+{
+"key": "part02.html#885",
+"es": "Aburre con facilidad"
+},
+{
+"key": "part02.html#886",
+"es": "Un único color de acento"
+},
+{
+"key": "part02.html#887",
+"es": "Fuerza la mirada, graba la marca"
+},
+{
+"key": "part02.html#888",
+"es": "Anuncios de producto, planos de logo"
+},
+{
+"key": "part02.html#889",
+"es": "Dos acentos anulan el efecto"
+},
+{
+"key": "part02.html#890",
+"es": "Primarios saturados"
+},
+{
+"key": "part02.html#891",
+"es": "Juventud, juego, energía"
+},
+{
+"key": "part02.html#892",
+"es": "Video corto, público infantil, deportes"
+},
+{
+"key": "part02.html#893",
+"es": "Difíciles de reproducir en impresos · exteriores"
+},
+{
+"key": "part02.html#894",
+"es": "Blanco y negro"
+},
+{
+"key": "part02.html#895",
+"es": "Cambios de época, esencia"
+},
+{
+"key": "part02.html#896",
+"es": "Flashbacks, entrevistas, declaraciones artísticas"
+},
+{
+"key": "part02.html#897",
+"es": "Exige diseñar el contraste tonal"
+},
+{
+"key": "part02.html#898",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part02.html#899",
+"es": "Piensa que el color marca la dirección de la emoción y la saturación, su intensidad."
+},
+{
+"key": "part02.html#900",
+"es": "El color se decide en el set. Si los colores de paredes, vestuario y utilería no se fijan de antemano, la posproducción no puede remediarlo."
+},
+{
+"key": "part02.html#901",
+"es": "Pon siempre el color de marca en algún punto del encuadre. Si cambias el color en posproducción, los tonos de piel cambian con él."
+},
+{
+"key": "part02.html#902",
+"es": "Mantén una sola temperatura de color dentro de una escena. La luz mezclada multiplica el tiempo de etalonaje (color grading) en posproducción."
+},
+{
+"key": "part02.html#903",
+"es": "Si piensas extender la campaña a exteriores e impresos, prevé que los colores muy saturados no se reproducirán."
+},
+{
+"key": "part02.html#904",
+"es": "<small>Ejercicio</small>1.14"
+},
+{
+"key": "part02.html#905",
+"es": "Tarea"
+},
+{
+"key": "part02.html#906",
+"es": "Haz tres etalonajes (color grading) de la misma escena y anota qué historia cuenta cada uno."
+},
+{
+"key": "part02.html#907",
+"es": "Consejo"
+},
+{
+"key": "part02.html#908",
+"es": "El color marca la dirección de la emoción; la saturación, su intensidad."
+},
+{
+"key": "part02.html#909",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#910",
+"es": "Vínculo entre el color elegido y el significado"
+},
+{
+"key": "part02.html#911",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#912",
+"es": "El verde de Matrix, el rosa de El gran hotel Budapest. Sigue cómo cambia el color de una época a otra dentro de una misma película."
+},
+{
+"key": "part02.html#913",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#914",
+"es": "Punto de vista: ¿a través de qué ojos miramos?"
+},
+{
+"key": "part02.html#915",
+"es": "La cámara se coloca siempre en la posición de alguien. Elegir esa posición es el punto de vista (PDV) y, cuando el punto de vista vacila, el público se sale de la historia."
+},
+{
+"key": "part02.html#916",
+"es": "<small>Observador</small>PDV objetivo"
+},
+{
+"key": "part02.html#917",
+"es": "Por defecto, plano medio a la altura de los ojos; información neutral"
+},
+{
+"key": "part02.html#918",
+"es": "La mayoría de los videos informativos y entrevistas"
+},
+{
+"key": "part02.html#919",
+"es": "<small>Ojos del personaje</small>PDV subjetivo"
+},
+{
+"key": "part02.html#920",
+"es": "Necesita justo antes un plano del personaje mirando"
+},
+{
+"key": "part02.html#921",
+"es": "La base del terror y la inmersión"
+},
+{
+"key": "part02.html#922",
+"es": "<small>Intermedio</small>PDV sobre el hombro"
+},
+{
+"key": "part02.html#923",
+"es": "Muestra la relación, toma partido"
+},
+{
+"key": "part02.html#924",
+"es": "Estándar para diálogos"
+},
+{
+"key": "part02.html#925",
+"es": "<small>Una posición imposible</small>PDV omnisciente"
+},
+{
+"key": "part02.html#926",
+"es": "Picado, cenital"
+},
+{
+"key": "part02.html#927",
+"es": "La situación como diagrama; la distancia del destino"
+},
+{
+"key": "part02.html#928",
+"es": "<small>Cámara de acción</small>PDV de registro en 1.ª persona"
+},
+{
+"key": "part02.html#929",
+"es": "El PDV del vlog"
+},
+{
+"key": "part02.html#930",
+"es": "El temblor de cámara como prueba de realidad"
+},
+{
+"key": "part02.html#931",
+"es": "<small>Ojo de la máquina</small>PDV de vigilancia"
+},
+{
+"key": "part02.html#932",
+"es": "CCTV, monitores, imágenes de dron"
+},
+{
+"key": "part02.html#933",
+"es": "Brecha de información e inquietud"
+}
+]

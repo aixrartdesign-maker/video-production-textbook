@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#251",
+"es": "<small>DOBLE PÁGINA 10</small>Todos los símbolos de notación — una tabla para copiar como leyenda"
+},
+{
+"key": "feature_storyboard.html#252",
+"es": "<small>Tamaño de plano</small>ELS · LS · FS · KS · MS · MCU · BS · CU · ECU"
+},
+{
+"key": "feature_storyboard.html#253",
+"es": "Gran plano general / general / entero / americano / medio"
+},
+{
+"key": "feature_storyboard.html#254",
+"es": "Medio cerrado / medio corto / primer plano / primerísimo primer plano"
+},
+{
+"key": "feature_storyboard.html#255",
+"es": "N.º de personas: 1S · 2S · 3S · GS (grupo)"
+},
+{
+"key": "feature_storyboard.html#256",
+"es": "Situación: OSS (sobre el hombro) · POV (punto de vista) · INS (inserto) · CA (plano de recurso)"
+},
+{
+"key": "feature_storyboard.html#257",
+"es": "<small>Ángulo · punto de vista</small>EYE · HA · LA · BEV · WEV · DUTCH"
+},
+{
+"key": "feature_storyboard.html#258",
+"es": "A la altura de los ojos / picado / contrapicado"
+},
+{
+"key": "feature_storyboard.html#259",
+"es": "Cenital / nadir"
+},
+{
+"key": "feature_storyboard.html#260",
+"es": "Holandés (inclinado) — indica también el ángulo: DUTCH 15°"
+},
+{
+"key": "feature_storyboard.html#261",
+"es": "Objetivo: distancia focal en mm, o W (angular) · N (normal) · T (tele)"
+},
+{
+"key": "feature_storyboard.html#262",
+"es": "Categoría"
+},
+{
+"key": "feature_storyboard.html#263",
+"es": "Notación"
+},
+{
+"key": "feature_storyboard.html#264",
+"es": "Cómo se lee"
+},
+{
+"key": "feature_storyboard.html#265",
+"es": "En el set"
+},
+{
+"key": "feature_storyboard.html#266",
+"es": "Mov."
+},
+{
+"key": "feature_storyboard.html#267",
+"es": "DOLLY IN (lento)"
+},
+{
+"key": "feature_storyboard.html#268",
+"es": "Acercamiento lento"
+},
+{
+"key": "feature_storyboard.html#269",
+"es": "Slider, 2 m en 5 s"
+},
+{
+"key": "feature_storyboard.html#270",
+"es": "Mov."
+},
+{
+"key": "feature_storyboard.html#271",
+"es": "PAN R 90"
+},
+{
+"key": "feature_storyboard.html#272",
+"es": "Panorámica de 90° a la derecha"
+},
+{
+"key": "feature_storyboard.html#273",
+"es": "Gira el cabezal; fija inicio y final"
+},
+{
+"key": "feature_storyboard.html#274",
+"es": "Mov."
+},
+{
+"key": "feature_storyboard.html#275",
+"es": "TILT U de pies a rostro"
+},
+{
+"key": "feature_storyboard.html#276",
+"es": "Tilt hacia arriba, de los pies al rostro"
+},
+{
+"key": "feature_storyboard.html#277",
+"es": "Velocidad constante, mantén 0,5 s al final"
+},
+{
+"key": "feature_storyboard.html#278",
+"es": "Mov."
+},
+{
+"key": "feature_storyboard.html#279",
+"es": "TRACK L con el sujeto"
+},
+{
+"key": "feature_storyboard.html#280",
+"es": "Travelling a la izquierda junto al sujeto"
+},
+{
+"key": "feature_storyboard.html#281",
+"es": "Gimbal, al paso del sujeto"
+},
+{
+"key": "feature_storyboard.html#282",
+"es": "Mov."
+},
+{
+"key": "feature_storyboard.html#283",
+"es": "ARC R 180"
+},
+{
+"key": "feature_storyboard.html#284",
+"es": "Semicírculo hacia la derecha"
+},
+{
+"key": "feature_storyboard.html#285",
+"es": "Centrado en el producto, radio constante"
+},
+{
+"key": "feature_storyboard.html#286",
+"es": "Mov."
+},
+{
+"key": "feature_storyboard.html#287",
+"es": "HH (sutil) · LOCKED"
+},
+{
+"key": "feature_storyboard.html#288",
+"es": "Cámara en mano sutil · totalmente fija"
+},
+{
+"key": "feature_storyboard.html#289",
+"es": "Temblor como de respiración · trípode, plano de referencia para composición"
+},
+{
+"key": "feature_storyboard.html#290",
+"es": "Transición"
+},
+{
+"key": "feature_storyboard.html#291",
+"es": "CUT TO · DIS · FI · FO"
+},
+{
+"key": "feature_storyboard.html#292",
+"es": "Corte directo · encadenado · fundido de entrada/salida"
+},
+{
+"key": "feature_storyboard.html#293",
+"es": "Cambio instantáneo · cambio suave (duración en segundos)"
+},
+{
+"key": "feature_storyboard.html#294",
+"es": "Transición"
+},
+{
+"key": "feature_storyboard.html#295",
+"es": "WIPE · MATCH · J/L CUT"
+},
+{
+"key": "feature_storyboard.html#296",
+"es": "Cortinilla · corte por coincidencia · sonido adelantado/retrasado"
+},
+{
+"key": "feature_storyboard.html#297",
+"es": "Transición ligada a la forma · marca el adelanto/retraso del audio"
+},
+{
+"key": "feature_storyboard.html#298",
+"es": "Pos."
+},
+{
+"key": "feature_storyboard.html#299",
+"es": "INS · CG · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#300",
+"es": "Inserto · gráficos · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#301",
+"es": "Registra en el set, por separado, los marcadores de tracking y la dirección de la luz"
+},
+{
+"key": "feature_storyboard.html#302",
+"es": "Palabras"
+},
+{
+"key": "feature_storyboard.html#303",
+"es": "N · V.O. · O.S. · SYNC"
+},
+{
+"key": "feature_storyboard.html#304",
+"es": "Narración · voz interior · diálogo fuera de campo · diálogo en pantalla"
+},
+{
+"key": "feature_storyboard.html#305",
+"es": "N: Cada mañana, un comienzo distinto. / SYNC Minseo: Qué bueno está."
+},
+{
+"key": "feature_storyboard.html#306",
+"es": "Texto"
+},
+{
+"key": "feature_storyboard.html#307",
+"es": "CAP · SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#308",
+"es": "Subtítulos · sobreimpresiones · lema de cierre"
+},
+{
+"key": "feature_storyboard.html#309",
+"es": "CAP: Pruébalo hoy / TAG: Hoy también, Nombre de marca"
+},
+{
+"key": "feature_storyboard.html#310",
+"es": "Sonido"
+},
+{
+"key": "feature_storyboard.html#311",
+"es": "M · SE · ATM · MUTE"
+},
+{
+"key": "feature_storyboard.html#312",
+"es": "Música · efectos · ambiente · silencio"
+},
+{
+"key": "feature_storyboard.html#313",
+"es": "Puntos de entrada/salida de M, notas de dB"
+},
+{
+"key": "feature_storyboard.html#314",
+"es": "<b>NOTA</b>"
+},
+{
+"key": "feature_storyboard.html#315",
+"es": "La narración en coreano va a unos 3 caracteres por segundo. Los topes: 35–45 caracteres para un anuncio completo de 15 segundos, 150–180 para un video de 1 minuto."
+},
+{
+"key": "feature_storyboard.html#316",
+"es": "No hagas idénticos los subtítulos y la narración. Los subtítulos llevan solo palabras clave; la narración se escribe en frases. Diseña pensando en que se verá sin sonido y mantén los subtítulos dentro de la zona segura. Los símbolos deben ser uniformes en todo el equipo, con la leyenda en la primera viñeta."
+},
+{
+"key": "feature_storyboard.html#317",
+"es": "<small>Ejercicio</small>2.1"
+},
+{
+"key": "feature_storyboard.html#318",
+"es": "Tarea"
+},
+{
+"key": "feature_storyboard.html#319",
+"es": "Haz el storyboard de un video de 30 segundos en 8 viñetas o más, en dos versiones: 16:9 y 9:16."
+},
+{
+"key": "feature_storyboard.html#320",
+"es": "Consejo"
+},
+{
+"key": "feature_storyboard.html#321",
+"es": "El tamaño de plano, la dirección y las flechas de movimiento importan más que saber dibujar. Un storyboard vertical suele necesitar más planos."
+},
+{
+"key": "feature_storyboard.html#322",
+"es": "Evaluación"
+},
+{
+"key": "feature_storyboard.html#323",
+"es": "Fluidez entre viñetas, notación de cámara, diferencias de composición entre las dos relaciones"
+},
+{
+"key": "feature_storyboard.html#324",
+"es": "Respuesta modelo"
+},
+{
+"key": "feature_storyboard.html#325",
+"es": "Fotografía el storyboard, monta las viñetas en una animática y comprueba los tiempos."
+},
+{
+"key": "feature_storyboard.html#326",
+"es": "<small>Ejercicio</small>2.1"
+},
+{
+"key": "feature_storyboard.html#327",
+"es": "Tarea"
+},
+{
+"key": "feature_storyboard.html#328",
+"es": "Crea una plantilla con los nueve elementos de una viñeta (número · tiempo · imagen · tamaño/ángulo · movimiento · nota de acción · diálogo · sonido · transición) rellenados; luego diseña una viñeta extra para una versión 360 o AR."
+},
+{
+"key": "feature_storyboard.html#329",
+"es": "Consejo"
+},
+{
+"key": "feature_storyboard.html#330",
+"es": "Fija el tamaño del texto y la disposición de las viñetas pensando en quien lo leerá en el set. Añade también a la viñeta 360 un diagrama del punto de vista."
+},
+{
+"key": "feature_storyboard.html#331",
+"es": "Evaluación"
+},
+{
+"key": "feature_storyboard.html#332",
+"es": "Información completa, utilidad en el set, adecuación al medio"
+},
+{
+"key": "feature_storyboard.html#333",
+"es": "Respuesta modelo"
+},
+{
+"key": "feature_storyboard.html#334",
+"es": "Ponlo a prueba: ¿puede un compañero leerlo y rodar sin ninguna explicación?"
+},
+{
+"key": "feature_storyboard.html#335",
+"es": "<small>Ejercicio</small>2.1"
+},
+{
+"key": "feature_storyboard.html#336",
+"es": "Tarea"
+},
+{
+"key": "feature_storyboard.html#337",
+"es": "Dibuja una página de storyboard en tres carriles (imagen · palabras · sonido) usando todos los símbolos: panorámica, zoom, dolly, travelling y transiciones de corte."
+},
+{
+"key": "feature_storyboard.html#338",
+"es": "Consejo"
+},
+{
+"key": "feature_storyboard.html#339",
+"es": "Los símbolos deben ser uniformes en todo el equipo. Pon la leyenda en la primera viñeta. Convierte la duración de la narración a 3 caracteres por segundo para fijar el ancho de los carriles."
+},
+{
+"key": "feature_storyboard.html#340",
+"es": "Evaluación"
+},
+{
+"key": "feature_storyboard.html#341",
+"es": "Precisión en el uso de los símbolos, alineación del sonido con los límites de los planos"
+},
+{
+"key": "feature_storyboard.html#342",
+"es": "Respuesta modelo"
+},
+{
+"key": "feature_storyboard.html#343",
+"es": "Tan claro que los movimientos de cámara pueden reproducirse solo con los símbolos."
+},
+{
+"key": "feature_ppm.html#0",
+"es": "Especial · REUNIÓN DE PREPRODUCCIÓN"
+},
+{
+"key": "feature_ppm.html#1",
+"es": "PPM,<br>el último acuerdo antes del rodaje"
+},
+{
+"key": "feature_ppm.html#2",
+"es": "PPM son las siglas de pre-production meeting (reunión de preproducción). Es a la vez la reunión previa al rodaje, en la que cliente · planificación · dirección · producción cierran todas las decisiones, y el documento que las recoge. El documento de PPM aprobado se convierte en la referencia ante cualquier disputa posterior. Un acuerdo verbal que no queda por escrito no existe. Este especial recorre un dossier de PPM, página por página."
+},
+{
+"key": "feature_ppm.html#3",
+"es": "El mismo cambio puede costar hasta 50 veces más, según cuándo lo hagas"
+},
+{
+"key": "feature_ppm.html#4",
+"es": "Correcciones en papel — el único costo es tiempo"
+},
+{
+"key": "feature_ppm.html#5",
+"es": "Personas·equipo·calendario en juego"
+},
+{
+"key": "feature_ppm.html#6",
+"es": "Concepto"
+},
+{
+"key": "feature_ppm.html#7",
+"es": "Storyboard"
+},
+{
+"key": "feature_ppm.html#8",
+"es": "PPM"
+},
+{
+"key": "feature_ppm.html#9",
+"es": "Día de rodaje"
+},
+{
+"key": "feature_ppm.html#10",
+"es": "Posproducción"
+},
+{
+"key": "feature_ppm.html#11",
+"es": "← el último tramo plano antes de que la curva de costo se empine"
+},
+{
+"key": "feature_ppm.html#12",
+"es": "<b>Fig. 59</b> Costo del cambio según la etapa de producción — el mismo cambio puede costar hasta 50 veces más según cuándo se haga. La PPM es el último tramo plano antes de que la curva de costo se empine."
+},
+{
+"key": "feature_ppm.html#13",
+"es": "<b>48<em>h</em></b>Plazo para enviar los materiales antes de la reunión"
+},
+{
+"key": "feature_ppm.html#14",
+"es": "<b>12<em> apartados</em></b>Secciones obligatorias de un dossier de PPM"
+},
+{
+"key": "feature_ppm.html#15",
+"es": "<b>5<em>x</em></b>Costo del cambio en la etapa de PPM (concepto = 1)"
+},
+{
+"key": "feature_ppm.html#16",
+"es": "<b>1<em> regla</em></b>Condición de salida — todos pueden decir sus «tareas del día»"
+},
+{
+"key": "feature_ppm.html#17",
+"es": "<span class=\"ph-id\">P06-PPM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Reunión de PPM — storyboard · moodboard · calendario en una misma mesa</b></span>"
+},
+{
+"key": "feature_ppm.html#18",
+"es": "<b>Nota</b>Reunión de PPM — storyboard · moodboard · calendario en una misma mesa"
+},
+{
+"key": "feature_ppm.html#19",
+"es": "Las doce páginas de un dossier de PPM — el orden de las páginas es el orden de la reunión"
+},
+{
+"key": "feature_ppm.html#20",
+"es": "Apartado"
+},
+{
+"key": "feature_ppm.html#21",
+"es": "Contenido"
+},
+{
+"key": "feature_ppm.html#22",
+"es": "Aprueba"
+},
+{
+"key": "feature_ppm.html#23",
+"es": "Muestra en este especial"
+},
+{
+"key": "feature_ppm.html#24",
+"es": "Intención del proyecto"
+},
+{
+"key": "feature_ppm.html#25",
+"es": "Concepto en una frase, público objetivo, mensaje clave"
+},
+{
+"key": "feature_ppm.html#26",
+"es": "Cliente"
+},
+{
+"key": "feature_ppm.html#27",
+"es": "Storyboard"
+},
+{
+"key": "feature_ppm.html#28",
+"es": "Lista final de planos y tiempos, animática"
+},
+{
+"key": "feature_ppm.html#29",
+"es": "Cliente, dirección"
+},
+{
+"key": "feature_ppm.html#30",
+"es": "Especial 2.1"
+},
+{
+"key": "feature_ppm.html#31",
+"es": "Intención de dirección · tono y estilo"
+},
+{
+"key": "feature_ppm.html#32",
+"es": "Palabras clave de luz · color · textura · ritmo, videos de referencia"
+},
+{
+"key": "feature_ppm.html#33",
+"es": "Dirección"
+},
+{
+"key": "feature_ppm.html#34",
+"es": "DOBLE PÁGINA 01"
+},
+{
+"key": "feature_ppm.html#35",
+"es": "Casting"
+},
+{
+"key": "feature_ppm.html#36",
+"es": "Candidatos a modelo y elección final, condiciones del contrato"
+},
+{
+"key": "feature_ppm.html#37",
+"es": "Cliente"
+},
+{
+"key": "feature_ppm.html#38",
+"es": "DOBLE PÁGINA 03"
+},
+{
+"key": "feature_ppm.html#39",
+"es": "Locación"
+},
+{
+"key": "feature_ppm.html#40",
+"es": "Fotos de los sitios candidatos, plan de desplazamientos, permisos"
+},
+{
+"key": "feature_ppm.html#41",
+"es": "Producción"
+},
+{
+"key": "feature_ppm.html#42",
+"es": "DOBLE PÁGINA 02"
+},
+{
+"key": "feature_ppm.html#43",
+"es": "Arte · utilería · puesta en escena"
+},
+{
+"key": "feature_ppm.html#44",
+"es": "Decorados, utilería, lista de preparación del producto, mapa de objetos en cuadro"
+},
+{
+"key": "feature_ppm.html#45",
+"es": "Arte"
+},
+{
+"key": "feature_ppm.html#46",
+"es": "DOBLE PÁGINA 04"
+},
+{
+"key": "feature_ppm.html#47",
+"es": "Vestuario · estilismo"
+},
+{
+"key": "feature_ppm.html#48",
+"es": "Opciones de vestuario, pauta de peluquería · maquillaje"
+},
+{
+"key": "feature_ppm.html#49",
+"es": "Estilista"
+},
+{
+"key": "feature_ppm.html#50",
+"es": "DOBLE PÁGINA 04"
+},
+{
+"key": "feature_ppm.html#51",
+"es": "Plan técnico"
+},
+{
+"key": "feature_ppm.html#52",
+"es": "Cámara, objetivos, iluminación, equipo especial"
+},
+{
+"key": "feature_ppm.html#53",
+"es": "DP"
+},
+{
+"key": "feature_ppm.html#54",
+"es": "PARTE 3 · 4"
+},
+{
+"key": "feature_ppm.html#55",
+"es": "Plan de sonido"
+},
+{
+"key": "feature_ppm.html#56",
+"es": "Opciones de música, locutor, efectos de sonido"
+}
+]

@@ -1,0 +1,6 @@
+[
+{"key": "part08.html#119", "find": "Hace que se quiera la respuesta", "replace": "Da ganas de saber la respuesta", "why": "other: unnatural calque"},
+{"key": "part08.html#351", "find": "permanecen con el creador", "replace": "permanecen en manos del creador", "why": "other: unnatural calque of 'stay with'"},
+{"key": "part08.html#353", "find": "«unos pocos segundos no pasan nada»", "replace": "«por unos pocos segundos no pasa nada»", "why": "grammar: ungrammatical construction"},
+{"key": "part08.html#473", "find": "película rápida", "replace": "película de alta sensibilidad", "why": "term: 'fast film stock' = alta sensibilidad"}
+]

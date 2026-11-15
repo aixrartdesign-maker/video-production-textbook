@@ -1,0 +1,522 @@
+[
+{
+"key": "part07.html#777",
+"es": "Interacción táctil, video"
+},
+{
+"key": "part07.html#778",
+"es": "Satisfacción de los visitantes"
+},
+{
+"key": "part07.html#779",
+"es": "Anamórfico exterior"
+},
+{
+"key": "part07.html#780",
+"es": "Ilusión en LED de esquina de edificio"
+},
+{
+"key": "part07.html#781",
+"es": "Render 3D, calibración del punto de vista"
+},
+{
+"key": "part07.html#782",
+"es": "Difusión en línea"
+},
+{
+"key": "part07.html#783",
+"es": "Espectáculo XR en vivo"
+},
+{
+"key": "part07.html#784",
+"es": "Gráficos en tiempo real con show en vivo"
+},
+{
+"key": "part07.html#785",
+"es": "Motor en tiempo real, seguimiento"
+},
+{
+"key": "part07.html#786",
+"es": "Asistencia, visualizaciones del directo"
+},
+{
+"key": "part07.html#787",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part07.html#788",
+"es": "Analiza los casos por la experiencia del público, no por la tecnología."
+},
+{
+"key": "part07.html#789",
+"es": "Lo que toda propuesta debe incluir"
+},
+{
+"key": "part07.html#790",
+"es": "Una reacción en una frase tras la visita. Escribe primero qué sienten los visitantes al salir, no una lista de tecnologías."
+},
+{
+"key": "part07.html#791",
+"es": "Planos acotados y altura de techo, potencia eléctrica, luz ambiente."
+},
+{
+"key": "part07.html#792",
+"es": "Cronograma de permanencia por zona y cálculo de la capacidad por hora."
+},
+{
+"key": "part07.html#793",
+"es": "Especificaciones del equipo, unidades de repuesto, plan de mantenimiento."
+},
+{
+"key": "part07.html#794",
+"es": "Manual del personal y procedimientos de respuesta ante fallos. Documenta siempre cómo reiniciar."
+},
+{
+"key": "part07.html#795",
+"es": "Plan de seguridad. Incluye luces guía en el suelo en los espacios oscuros y rutas de emergencia."
+},
+{
+"key": "part07.html#796",
+"es": "<small>Ejercicio</small>6.12"
+},
+{
+"key": "part07.html#797",
+"es": "Tarea"
+},
+{
+"key": "part07.html#798",
+"es": "Analiza 3 casos de contenido inmersivo por tipo y propón un proyecto adecuado para tu zona."
+},
+{
+"key": "part07.html#799",
+"es": "Consejo"
+},
+{
+"key": "part07.html#800",
+"es": "Analiza los casos por la experiencia del público, no por la tecnología."
+},
+{
+"key": "part07.html#801",
+"es": "Evaluación"
+},
+{
+"key": "part07.html#802",
+"es": "Marco de análisis coherente, plan viable"
+},
+{
+"key": "part07.html#803",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#804",
+"es": "Estima con realismo hasta el presupuesto y el personal de operación."
+},
+{
+"key": "part07.html#805",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+},
+{
+"key": "part07.html#806",
+"es": "Nuevas pantallas y medios espaciales"
+},
+{
+"key": "part07.html#807",
+"es": "Desde mediados de la década de 2020, las superficies que llevan video se han multiplicado deprisa. Quien planifica debe conocer sus especificaciones mínimas para poder conversar con los proveedores."
+},
+{
+"key": "part07.html#808",
+"es": "<b>Fig. 70</b> Mapa de especificaciones de pantalla por medio"
+},
+{
+"key": "part07.html#809",
+"es": "Los televisores grandes y el salón"
+},
+{
+"key": "part07.html#810",
+"es": "<b>NOTA</b>"
+},
+{
+"key": "part07.html#811",
+"es": "Si haces un máster HDR, haz siempre con él una versión SDR."
+},
+{
+"key": "part07.html#812",
+"es": "El 4K ya es estándar y los paneles 8K han llegado a los modelos económicos. Pero el contenido 8K escasea, así que lo normal es la reproducción escalada."
+},
+{
+"key": "part07.html#813",
+"es": "Con la difusión de los paneles HDR, el rango de brillo se ha ampliado."
+},
+{
+"key": "part07.html#814",
+"es": "A medida que crecen las pantallas, la distancia de visión se reduce a 1,5–2 veces la diagonal. Por eso la gramática televisiva, antes basada en el primer plano, vuelve a abrirse."
+},
+{
+"key": "part07.html#815",
+"es": "Las apps de los televisores inteligentes han llevado YouTube y el streaming al salón. Ten en cuenta también el video corto vertical reproducido en una gran pantalla horizontal."
+},
+{
+"key": "part07.html#816",
+"es": "LED gigantes y fachadas mediáticas"
+},
+{
+"key": "part07.html#817",
+"es": "Luz proyectada sobre una superficie frente a una superficie que brilla por sí misma"
+},
+{
+"key": "part07.html#818",
+"es": "<b>Videomapping — luz proyectada sobre la superficie</b><span>Solo se ve a oscuras · la forma del edificio es el lienzo · rápido de instalar, ideal para eventos puntuales · la distancia de proyección y el n.º de proyectores son la clave</span>"
+},
+{
+"key": "part07.html#819",
+"es": "<b>Señalización LED · fachada mediática — la superficie brilla por sí misma</b><span>Se ve de día · funciona todo el tiempo · el paso de píxel y la distancia de visión son la clave · cara de instalar, pero el contenido se cambia con facilidad</span>"
+},
+{
+"key": "part07.html#820",
+"es": "La proyección toma prestada una <b>superficie</b>; el LED construye una <b>superficie</b>. Para un evento de una noche, proyección; si debe estar encendido todos los días, LED."
+},
+{
+"key": "part07.html#821",
+"es": "<b>Fig. 71</b> Videomapping y señalización LED — ambos son «video sobre un edificio», pero la luz viene de fuentes distintas."
+},
+{
+"key": "part07.html#822",
+"es": "Categoría"
+},
+{
+"key": "part07.html#823",
+"es": "Videomapping"
+},
+{
+"key": "part07.html#824",
+"es": "Señalización LED"
+},
+{
+"key": "part07.html#825",
+"es": "Instalación"
+},
+{
+"key": "part07.html#826",
+"es": "Asegurar la posición del proyector y la distancia de proyección"
+},
+{
+"key": "part07.html#827",
+"es": "Paneles montados en una estructura"
+},
+{
+"key": "part07.html#828",
+"es": "Entorno"
+},
+{
+"key": "part07.html#829",
+"es": "Noche · exige oscuridad"
+},
+{
+"key": "part07.html#830",
+"es": "Funciona de día y de noche"
+},
+{
+"key": "part07.html#831",
+"es": "Brillo"
+},
+{
+"key": "part07.html#832",
+"es": "Se mide en lúmenes ANSI"
+},
+{
+"key": "part07.html#833",
+"es": "Se mide en nits"
+},
+{
+"key": "part07.html#834",
+"es": "Superficie"
+},
+{
+"key": "part07.html#835",
+"es": "Cuanto más clara y lisa, mejor"
+},
+{
+"key": "part07.html#836",
+"es": "La superficie emite luz propia"
+},
+{
+"key": "part07.html#837",
+"es": "Contenido"
+},
+{
+"key": "part07.html#838",
+"es": "Hecho según la plantilla del edificio"
+},
+{
+"key": "part07.html#839",
+"es": "Hecho según la resolución del panel"
+},
+{
+"key": "part07.html#840",
+"es": "Costo"
+},
+{
+"key": "part07.html#841",
+"es": "Inversión inicial baja, operación cara"
+},
+{
+"key": "part07.html#842",
+"es": "Inversión inicial alta, operación estable"
+},
+{
+"key": "part07.html#843",
+"es": "Desmontaje"
+},
+{
+"key": "part07.html#844",
+"es": "Fácil"
+},
+{
+"key": "part07.html#845",
+"es": "Exige obra estructural"
+},
+{
+"key": "part07.html#846",
+"es": "Distancia de proyección = ancho de pantalla × relación de tiro"
+},
+{
+"key": "part07.html#847",
+"es": "<b>Un proyector crea su pantalla con la distancia</b><span>Más lejos significa más grande y más tenue — el brillo (lúmenes) necesario crece con el área</span>"
+},
+{
+"key": "part07.html#848",
+"es": "Distancia de proyección D"
+},
+{
+"key": "part07.html#849",
+"es": "Ancho de pantalla W"
+},
+{
+"key": "part07.html#850",
+"es": "D = W × relación de tiro"
+},
+{
+"key": "part07.html#851",
+"es": "Relación 1,5 · ancho 6 m → colócalo a 9 m"
+},
+{
+"key": "part07.html#852",
+"es": "<b>La fórmula de trabajo</b><span>Relación de tiro (throw ratio) = distancia ÷ ancho. Tiro corto 0,3–0,8, estándar 1,2–2,0, tiro largo 2,0 o más · Brillo objetivo: interior oscuro 1000–2000 lm/m², vestíbulo luminoso 3000 lm/m²</span>"
+},
+{
+"key": "part07.html#853",
+"es": "<b>Fig. 72</b> Distancia de proyección y tamaño de pantalla — fija dos de estos tres valores, distancia · ancho de pantalla · relación de tiro, y el tercero queda determinado. Es la primera cifra que hay que medir antes de instalar."
+},
+{
+"key": "part07.html#854",
+"es": "<b>01</b><i>Área</i>Tamaño medido de la superficie de proyección"
+},
+{
+"key": "part07.html#855",
+"es": "<b>02</b><i>Resolución</i>Resolución necesaria a la distancia de visión más corta"
+},
+{
+"key": "part07.html#856",
+"es": "<b>03</b><i>Brillo</i>Mide la luz ambiente y calcula el brillo necesario"
+},
+{
+"key": "part07.html#857",
+"es": "Cuántos proyectores necesitas se deduce por sí solo una vez que tienes estas tres cifras. El número de unidades y las especificaciones del objetivo son resultados, no puntos de partida."
+},
+{
+"key": "part07.html#858",
+"es": "Visores y video espacial"
+},
+{
+"key": "part07.html#859",
+"es": "<b>Fig. 73</b> Comparación de 4 dispositivos XR"
+},
+{
+"key": "part07.html#860",
+"es": "Apple acercó el video espacial al público con Vision Pro, Meta difundió la realidad mixta por passthrough con su línea Quest, y Google apuesta por una plataforma XR basada en Android y por gafas AR ligeras. Tienen algo en común: la pantalla sale del marco rectangular y se extiende a todo el campo visual del usuario."
+},
+{
+"key": "part07.html#861",
+"es": "El video espacial registra tal cual el paralaje de los dos ojos para crear profundidad"
+},
+{
+"key": "part07.html#862",
+"es": "<b>El paralaje binocular se vuelve profundidad</b><span>Nuestros dos ojos están separados unos 65 mm — cada uno ve el mismo objeto desde un ángulo algo distinto</span><span>El cerebro interpreta esa diferencia (paralaje) como profundidad</span><span>El video espacial registra ambas vistas con dos objetivos, y el visor muestra a cada ojo su propia imagen</span><span>Más paralaje se ve más cerca; en exceso, molesta a los ojos</span>"
+},
+{
+"key": "part07.html#863",
+"es": "<b>Fig. 74</b> Cómo graba en estéreo el video espacial — capta las dos vistas que ven los ojos y se las devuelve a los ojos."
+},
+{
+"key": "part07.html#864",
+"es": "<small>Video espacial</small>Captura estéreo y tomas largas"
+},
+{
+"key": "part07.html#865",
+"es": "Dos objetivos graban a la vez, separados más o menos como los ojos humanos. Una separación mayor añade profundidad, pero de cerca fatiga la vista"
+},
+{
+"key": "part07.html#866",
+"es": "Los cortes frecuentes incomodan, porque el cerebro necesita tiempo para reconstruir la profundidad. Las tomas largas son la norma"
+},
+{
+"key": "part07.html#867",
+"es": "Coloca los subtítulos como objetos con un valor de profundidad. Si la profundidad no encaja, el enfoque vacila"
+},
+{
+"key": "part07.html#868",
+"es": "<small>Gafas AR · passthrough</small>El negro y los colores de marca"
+},
+{
+"key": "part07.html#869",
+"es": "Las ópticas transparentes (see-through) no pueden mostrar el negro. Los tonos oscuros simplemente se vuelven transparentes"
+},
+{
+"key": "part07.html#870",
+"es": "El passthrough reproduce la realidad captada por cámaras, así que el color y la exposición dependen del dispositivo. No cuentes con colores de marca exactos"
+},
+{
+"key": "part07.html#871",
+"es": "<b>Fotos de referencia 6.13A</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part07.html#872",
+"es": "<b>a</b>Fachada mediática"
+},
+{
+"key": "part07.html#873",
+"es": "<b>b</b>Espacio de exposición inmersiva"
+},
+{
+"key": "part07.html#874",
+"es": "<b>c</b>Con gafas AR puestas"
+},
+{
+"key": "part07.html#875",
+"es": "<span class=\"ph-id\">P07-IMMERSIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Exposición inmersiva</b>Visitantes de pie dentro de un video de tinta china que fluye por paredes y suelo</span>"
+},
+{
+"key": "part07.html#876",
+"es": "<b>Nota</b>Un espacio donde desaparecen los cuatro bordes de la pantalla — hasta las sombras de los visitantes forman parte del contenido"
+},
+{
+"key": "part07.html#877",
+"es": "Lo que los profesionales deben preparar ya"
+},
+{
+"key": "part07.html#878",
+"es": "Aunque no haya ningún proyecto para visores a la vista, rodar el trabajo actual en 8K o más y diseñar el sonido en audio espacial facilita mucho la ampliación posterior. La resolución y el sonido no se pueden fabricar a posteriori."
+},
+{
+"key": "part07.html#879",
+"es": "Espacios inmersivos — la pantalla se hizo edificio"
+},
+{
+"key": "part07.html#880",
+"es": "<b>Edificio LED esférico (Sphere de Las Vegas, 2023)</b><span>Por fuera, un LED esférico de unos 110 m de diámetro; por dentro, una pantalla curva 16K y butacas hápticas. El contenido se diseña como la «piel del edificio», no como una «pantalla»</span>"
+},
+{
+"key": "part07.html#881",
+"es": "<b>Video en cúpula (planetario · sala de cúpula)</b><span>Una semiesfera que se mira recostado. Sin horizonte, el mareo llega con facilidad: mueve la cámara despacio y mantén los sujetos a menos de 60° del cenit</span>"
+},
+{
+"key": "part07.html#882",
+"es": "<b>Museo experiencial de varias plantas</b><span>En 4 plantas, paredes · suelos · techos son pantallas. Los sensores leen la posición de los visitantes y el video responde — «la obra solo está completa cuando entran los visitantes»</span>"
+},
+{
+"key": "part07.html#883",
+"es": "<b>Espacio multimedia envolvente 360</b><span>Cuatro paredes y el suelo forman un solo lienzo (como ARTE MUSEUM, en Corea). Se diseñan hasta el sonido y el aroma. Cada escena se repite en bucle 3–5 minutos; miles de personas pasan a diario</span>"
+},
+{
+"key": "part07.html#884",
+"es": "<b>Experiencia VR en museos</b><span>Recorre palacios · ruinas restaurados. QR junto a una pieza → AR en el teléfono, zona de experiencia → visor. Ofrece «estar allí», no comentarios</span>"
+},
+{
+"key": "part07.html#885",
+"es": "<b>Escenario XR</b><span>Rodaje ante una pared LED — el fondo cambia con el movimiento de la cámara. Se está volviendo el set estándar en televisión · publicidad · videoclips</span>"
+},
+{
+"key": "part07.html#886",
+"es": "<b>Medios de techo — una ballena que pasa por encima</b><span>LED de techo en aeropuertos · vestíbulos públicos. El público mira hacia arriba de pie, así que usa un bucle de una sola escena que se lea en 10 segundos, con sonido desde altavoces de suelo</span>"
+},
+{
+"key": "part07.html#887",
+"es": "<b>Videomapping de fachada en parques temáticos</b><span>Un edificio entero con forma de castillo como pantalla — un espectáculo de 10 minutos sincronizado con fuegos artificiales · música · iluminación. A la misma hora cada día, renovado cada temporada</span>"
+},
+{
+"key": "part07.html#888",
+"es": "<b>Espectáculo de hologramas (imagen flotante)</b><span>Una imagen reflejada en una película transparente a 45° parece sólida en el escenario — cantantes fallecidos que reviven · ídolos virtuales. La luz intensa la hace desaparecer, así que el diseño de la oscuridad lo es todo</span>"
+},
+{
+"key": "part07.html#889",
+"es": "<b>Consola de robot quirúrgico y simulador VR</b><span>Con robots tipo da Vinci, el cirujano opera mirando por el visor estéreo de la consola. Los residentes practican con la misma vista recreada en VR — la tecnología de video convertida en formación médica</span>"
+},
+{
+"key": "part07.html#890",
+"es": "Dónde se usa la VR — cuatro campos más allá de los juegos, y los juegos"
+},
+{
+"key": "part07.html#891",
+"es": "<b>Medicina</b><span>Simulación quirúrgica · enseñanza de anatomía · alivio del dolor (VR durante las curas de quemaduras) · terapia de exposición para fobias</span>"
+},
+{
+"key": "part07.html#892",
+"es": "<b>Entrenamiento militar · de seguridad</b><span>Tiro · táctica · evacuación de incendios · maquinaria pesada — práctica repetida de situaciones peligrosas y costosas</span>"
+},
+{
+"key": "part07.html#893",
+"es": "<b>Cuidado de mayores · rehabilitación</b><span>Terapia de reminiscencia (paisajes 360 del lugar de origen) · juegos de rehabilitación del equilibrio · viajes para mayores que no pueden salir</span>"
+},
+{
+"key": "part07.html#894",
+"es": "<b>Discapacidad · accesibilidad</b><span>Senderismo · viajes · conciertos para personas con movilidad reducida, entrenamiento de habilidades sociales en el espectro autista, simulación de discapacidad visual con fines educativos</span>"
+},
+{
+"key": "part07.html#895",
+"es": "<b>Juegos de ritmo (tipo Beat Saber)</b><span>Corta bloques al ritmo de la música — la «aplicación estrella» de la VR. Un ejercicio de cuerpo entero y una lección de ritmo visual</span>"
+},
+{
+"key": "part07.html#896",
+"es": "<b>Espacio · vuelo (tipo Elite Dangerous · No Man's Sky VR)</b><span>Escala y quietud — un manual de cómo sumergir al jugador en un espacio inmenso sin mareo</span>"
+},
+{
+"key": "part07.html#897",
+"es": "<b>Deportes (tipo golf VR)</b><span>La trayectoria del swing y el campo tal como son — la inmersión es más profunda cuando el movimiento real se traslada 1:1</span>"
+},
+{
+"key": "part07.html#898",
+"es": "<b>Impresión 3D — utilería · decorados · personajes</b><span>Los datos del modelo se vuelven objeto físico. Utilería publicitaria · decorados en miniatura · hasta caras de recambio para personajes de stop-motion. Un viaje de ida y vuelta entre lo digital y lo físico</span>"
+},
+{
+"key": "part07.html#899",
+"es": "<b>Plataformas educativas</b> — espacios de aprendizaje en VR como ENGAGE abren aulas · laboratorios · sitios históricos a muchos usuarios a la vez. Para quienes estudian video, responden a la pregunta de «dónde publicar contenido 360»."
+},
+{
+"key": "part07.html#900",
+"es": "<b>Fig. 85-4</b> Espacios inmersivos y usos de la VR — la pantalla se vuelve edificio, y la VR va más allá de los juegos hacia la medicina · la formación · el cuidado de mayores · la accesibilidad. Las fotos son imágenes generadas que evocan el ambiente, no instalaciones concretas."
+},
+{
+"key": "part07.html#901",
+"es": "<small>Ejercicio</small>6.13"
+},
+{
+"key": "part07.html#902",
+"es": "Tarea"
+},
+{
+"key": "part07.html#903",
+"es": "Elige una tecnología de pantalla nueva y escribe una idea de video que solo sea posible en ese medio."
+},
+{
+"key": "part07.html#904",
+"es": "Consejo"
+},
+{
+"key": "part07.html#905",
+"es": "Evita las ideas que se limitan a trasladar un video existente."
+},
+{
+"key": "part07.html#906",
+"es": "Evaluación"
+}
+]

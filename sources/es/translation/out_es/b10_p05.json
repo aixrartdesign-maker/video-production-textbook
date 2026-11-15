@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#487",
+"es": "Presentación de Sora · Kling · Veo"
+},
+{
+"key": "part09.html#488",
+"es": "Anuncio de MCP (Model Context Protocol)"
+},
+{
+"key": "part09.html#489",
+"es": "Arranca la carrera de modelos de video, protocolo de conexión"
+},
+{
+"key": "part09.html#490",
+"es": "Veo 3 · Seedance 1.0"
+},
+{
+"key": "part09.html#491",
+"es": "Higgsfield · Nano Banana"
+},
+{
+"key": "part09.html#492",
+"es": "Generación de sonido, herramientas de coherencia de personajes"
+},
+{
+"key": "part09.html#493",
+"es": "Seedance 2.0, entre otros"
+},
+{
+"key": "part09.html#494",
+"es": "Los modelos se renuevan cada trimestre"
+},
+{
+"key": "part09.html#495",
+"es": "Cómo leerlo — 2014–2020 fue la era de los artículos; la imagen se popularizó en 2022 y el video la siguió desde 2023."
+},
+{
+"key": "part09.html#496",
+"es": "Desde 2024, recuerda las tendencias, no los nombres de los modelos. La carrera de modelos de video, un protocolo para que los agentes manejen herramientas directamente (MCP), la coherencia de personaje·escena."
+},
+{
+"key": "part09.html#497",
+"es": "Los años son fechas de lanzamiento·anuncio. Los nombres de los servicios cambian, pero las categorías permanecen (véase el mapa de herramientas de 9.13)."
+},
+{
+"key": "part09.html#498",
+"es": "<b>Fig. 83-1</b> 10 años de herramientas de video con IA generativa — de GAN (2014), pasando por Transformer (2017), la popularización de la generación de imágenes (2022) y la carrera de modelos de video y MCP (2024), al relevo generacional de 2026"
+},
+{
+"key": "part09.html#499",
+"es": "Tendencias actuales"
+},
+{
+"key": "part09.html#500",
+"es": "<small>Tendencia 1</small>La carrera de los modelos de video"
+},
+{
+"key": "part09.html#501",
+"es": "Veo · Sora · Kling · Seedance · Runway: una generación nueva cada trimestre"
+},
+{
+"key": "part09.html#502",
+"es": "Se comparan por duración, sonido y precisión física"
+},
+{
+"key": "part09.html#503",
+"es": "Más que elegir una herramienta, arma un proceso en el que las herramientas sean intercambiables"
+},
+{
+"key": "part09.html#504",
+"es": "<small>Tendencia 2</small>Agentes y MCP"
+},
+{
+"key": "part09.html#505",
+"es": "Un protocolo de conexión que permite a modelos de lenguaje como Claude manejar directamente las herramientas de generación"
+},
+{
+"key": "part09.html#506",
+"es": "El modelo llama a las herramientas; nadie copia y pega prompts"
+},
+{
+"key": "part09.html#507",
+"es": "Las fotos de referencia de este libro se hicieron así — un solo flujo del documento de planificación a la generación"
+},
+{
+"key": "part09.html#508",
+"es": "<small>Tendencia 3</small>Herramientas de coherencia"
+},
+{
+"key": "part09.html#509",
+"es": "Funciones que mantienen personajes y escenas coherentes de un plano a otro"
+},
+{
+"key": "part09.html#510",
+"es": "Referencias con varias imágenes — fija rostro, vestuario y espacio con varias imágenes"
+},
+{
+"key": "part09.html#511",
+"es": "El mayor problema del Contexto 17 se está volviendo una función de producto"
+},
+{
+"key": "part09.html#512",
+"es": "<span class=\"ph-id\">P09-MCP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Conectar herramientas — MCP</b>Ilustración abstracta: líneas luminosas van de una computadora portátil sobre un escritorio a paneles de servicios translúcidos y flotantes</span>"
+},
+{
+"key": "part09.html#513",
+"es": "<b>Nota</b>Conectar herramientas — MCP. Un modelo de lenguaje llama directamente a herramientas de generación, almacenamiento y calendarios"
+},
+{
+"key": "part09.html#514",
+"es": "Área"
+},
+{
+"key": "part09.html#515",
+"es": "Tipo de herramienta"
+},
+{
+"key": "part09.html#516",
+"es": "Papel en la práctica"
+},
+{
+"key": "part09.html#517",
+"es": "Qué vigilar"
+},
+{
+"key": "part09.html#518",
+"es": "Planificación, escritura"
+},
+{
+"key": "part09.html#519",
+"es": "Modelos de lenguaje conversacionales"
+},
+{
+"key": "part09.html#520",
+"es": "Ampliar ideas, borradores de guion, variantes de texto"
+},
+{
+"key": "part09.html#521",
+"es": "Verificar los datos; la decisión final es de una persona"
+},
+{
+"key": "part09.html#522",
+"es": "Imagen"
+},
+{
+"key": "part09.html#523",
+"es": "Modelos de generación de imágenes"
+},
+{
+"key": "part09.html#524",
+"es": "Tableros de inspiración, arte conceptual, borradores de storyboard"
+},
+{
+"key": "part09.html#525",
+"es": "Revisar las condiciones de uso comercial"
+},
+{
+"key": "part09.html#526",
+"es": "Video"
+},
+{
+"key": "part09.html#527",
+"es": "Generación de video desde texto o imagen"
+},
+{
+"key": "part09.html#528",
+"es": "Insertos, fondos, planos imposibles"
+},
+{
+"key": "part09.html#529",
+"es": "La coherencia es el reto"
+},
+{
+"key": "part09.html#530",
+"es": "Voz"
+},
+{
+"key": "part09.html#531",
+"es": "Síntesis de voz"
+},
+{
+"key": "part09.html#532",
+"es": "Narración provisional, doblaje multilingüe"
+},
+{
+"key": "part09.html#533",
+"es": "Nunca clonar la voz de una persona real"
+},
+{
+"key": "part09.html#534",
+"es": "Subtítulos, primer montaje"
+},
+{
+"key": "part09.html#535",
+"es": "Edición con reconocimiento de voz"
+},
+{
+"key": "part09.html#536",
+"es": "Primer montaje, generación de subtítulos"
+},
+{
+"key": "part09.html#537",
+"es": "Revisar siempre los nombres propios"
+},
+{
+"key": "part09.html#538",
+"es": "Generación de 3D desde imagen"
+},
+{
+"key": "part09.html#539",
+"es": "Utilería, prototipos de personajes"
+},
+{
+"key": "part09.html#540",
+"es": "Requiere limpiar polígonos"
+},
+{
+"key": "part09.html#541",
+"es": "Traducción"
+},
+{
+"key": "part09.html#542",
+"es": "Traducción automática"
+},
+{
+"key": "part09.html#543",
+"es": "Subtítulos en otros idiomas, lectura de referencias extranjeras"
+},
+{
+"key": "part09.html#544",
+"es": "Revisar errores en la jerga técnica"
+},
+{
+"key": "part09.html#545",
+"es": "Buenos y malos usos de los modelos de lenguaje"
+},
+{
+"key": "part09.html#546",
+"es": "Usos eficaces"
+},
+{
+"key": "part09.html#547",
+"es": "Ampliar ideas — fija condiciones, obtén 20, reduce a 3"
+},
+{
+"key": "part09.html#548",
+"es": "Borrador de guion — fija primero la estructura y luego pide el relleno"
+},
+{
+"key": "part09.html#549",
+"es": "Variantes de texto — pide 10 versiones de una frase aprobada"
+},
+{
+"key": "part09.html#550",
+"es": "Ordenar la investigación — pega lo que reuniste y pide una estructura"
+},
+{
+"key": "part09.html#551",
+"es": "Comentarios — pega tu propuesta y pide sus puntos débiles"
+},
+{
+"key": "part09.html#552",
+"es": "Traducción — aporta contexto y un glosario"
+},
+{
+"key": "part09.html#553",
+"es": "Qué no hacer"
+},
+{
+"key": "part09.html#554",
+"es": "Aceptar la primera respuesta tal cual"
+},
+{
+"key": "part09.html#555",
+"es": "Pedirle que lo escriba todo desde una página en blanco"
+},
+{
+"key": "part09.html#556",
+"es": "Delegar el concepto mismo"
+},
+{
+"key": "part09.html#557",
+"es": "Citar sin verificar los datos"
+},
+{
+"key": "part09.html#558",
+"es": "Quedarse en los elogios"
+},
+{
+"key": "part09.html#559",
+"es": "Usar jerga sin comprobarla"
+},
+{
+"key": "part09.html#560",
+"es": "Flujo de trabajo de ejemplo con IA"
+},
+{
+"key": "part09.html#561",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part09.html#562",
+"es": "El concepto en una frase lo escribe una persona. Este paso nunca se delega."
+},
+{
+"key": "part09.html#563",
+"es": "<b>01</b><span>Con un modelo de lenguaje, genera un perfil del público objetivo y 20 problemas que le afectan; luego redúcelos tú a 3.</span>"
+},
+{
+"key": "part09.html#564",
+"es": "<b>02</b><span>A partir de las ideas seleccionadas, una persona escribe el concepto en una frase.</span>"
+},
+{
+"key": "part09.html#565",
+"es": "<b>03</b><span>Haz tableros de inspiración y borradores de storyboard con un generador de imágenes. Acordar el tono y el estilo se vuelve mucho más rápido.</span>"
+},
+{
+"key": "part09.html#566",
+"es": "<b>04</b><span>Genera solo los insertos que no puedas rodar. Si llenas toda la pieza de material generado, la coherencia se derrumba.</span>"
+},
+{
+"key": "part09.html#567",
+"es": "<b>05</b><span>Haz una narración provisional con síntesis de voz para probar duración y ritmo. En la versión final, sustitúyela por un actor de voz o tu propia grabación.</span>"
+},
+{
+"key": "part09.html#568",
+"es": "<b>06</b><span>Genera automáticamente los primeros subtítulos y luego haz que una persona revise nombres propios y ortografía.</span>"
+},
+{
+"key": "part09.html#569",
+"es": "<b>07</b><span>Registra el uso de IA en los documentos de producción. Los concursos y las entregas a clientes exigen cada vez más declararlo.</span>"
+},
+{
+"key": "part09.html#570",
+"es": "Lo que la IA no puede sustituir"
+},
+{
+"key": "part09.html#571",
+"es": "El criterio para decidir qué rodar, el lenguaje para explicar por qué tiene que ser ese plano, la coordinación para llegar a un acuerdo con el cliente, las decisiones que resuelven imprevistos en el set. Cuanto más potentes son las herramientas, más vale el criterio. Al contratar perfiles júnior se empieza a valorar más saber explicar el propio razonamiento que el manejo de herramientas."
+},
+{
+"key": "part09.html#572",
+"es": "<small>Ejercicio</small>8.9"
+},
+{
+"key": "part09.html#573",
+"es": "Tarea"
+},
+{
+"key": "part09.html#574",
+"es": "Haz el mismo plano con 3 herramientas de IA generativa y compara calidad, velocidad, coste y condiciones de derechos."
+},
+{
+"key": "part09.html#575",
+"es": "Consejo"
+},
+{
+"key": "part09.html#576",
+"es": "Revisa la cláusula de uso comercial en las condiciones del servicio."
+},
+{
+"key": "part09.html#577",
+"es": "Evaluación"
+},
+{
+"key": "part09.html#578",
+"es": "Criterios de comparación justos, derechos comprobados"
+},
+{
+"key": "part09.html#579",
+"es": "Respuesta modelo"
+},
+{
+"key": "part09.html#580",
+"es": "Publica los prompts y los ajustes junto con los resultados para que puedan reproducirse."
+},
+{
+"key": "part09.html#581",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#582",
+"es": "Gestionar un canal y el calendario de contenidos"
+},
+{
+"key": "part09.html#583",
+"es": "Diez videos constantes construyen un canal mejor que uno bueno. Gestionar un canal es una habilidad distinta de hacer videos, y es la experiencia que más se valora al contratar perfiles júnior."
+},
+{
+"key": "part09.html#584",
+"es": "Diseñar un canal en 5 pasos"
+},
+{
+"key": "part09.html#585",
+"es": "<b>01</b><i>Definición en una frase</i>Qué da el canal y a quién"
+},
+{
+"key": "part09.html#586",
+"es": "<b>02</b><i>2–3 formatos fijos</i>Da al espectador algo que esperar"
+},
+{
+"key": "part09.html#587",
+"es": "<b>03</b><i>Calendario de publicación</i>Mantener 1 por semana es mejor que hacer 3 por semana y luego parar"
+},
+{
+"key": "part09.html#588",
+"es": "<b>04</b><i>Reglas visuales fijas</i>Diseño de miniaturas, tipografía de subtítulos, con cabecera o sin ella"
+},
+{
+"key": "part09.html#589",
+"es": "<b>05</b><i>Una sola métrica de rendimiento</i>No los suscriptores, sino algo que puedas mejorar, como la duración media de visualización"
+},
+{
+"key": "part09.html#590",
+"es": "Ejemplo de calendario mensual de contenidos"
+},
+{
+"key": "part09.html#591",
+"es": "Semana"
+},
+{
+"key": "part09.html#592",
+"es": "Tipo de contenido"
+},
+{
+"key": "part09.html#593",
+"es": "Finalidad"
+},
+{
+"key": "part09.html#594",
+"es": "Dificultad"
+},
+{
+"key": "part09.html#595",
+"es": "Reutilización"
+},
+{
+"key": "part09.html#596",
+"es": "Semana 1"
+},
+{
+"key": "part09.html#597",
+"es": "1 video largo informativo"
+},
+{
+"key": "part09.html#598",
+"es": "Tráfico de búsqueda"
+},
+{
+"key": "part09.html#599",
+"es": "Alta"
+},
+{
+"key": "part09.html#600",
+"es": "Dividir en 3 videos cortos"
+},
+{
+"key": "part09.html#601",
+"es": "Semana 2"
+},
+{
+"key": "part09.html#602",
+"es": "3 videos cortos"
+},
+{
+"key": "part09.html#603",
+"es": "Alcance nuevo"
+},
+{
+"key": "part09.html#604",
+"es": "Baja"
+},
+{
+"key": "part09.html#605",
+"es": "Publicar a la vez en Instagram y TikTok"
+},
+{
+"key": "part09.html#606",
+"es": "Semana 3"
+},
+{
+"key": "part09.html#607",
+"es": "Entrevista o colaboración"
+},
+{
+"key": "part09.html#608",
+"es": "Confianza y crecimiento"
+},
+{
+"key": "part09.html#609",
+"es": "Media"
+},
+{
+"key": "part09.html#610",
+"es": "Convertir en entrada de blog"
+},
+{
+"key": "part09.html#611",
+"es": "Semana 4"
+},
+{
+"key": "part09.html#612",
+"es": "Contenido de comunidad"
+},
+{
+"key": "part09.html#613",
+"es": "Mantener relaciones"
+},
+{
+"key": "part09.html#614",
+"es": "Muy baja"
+},
+{
+"key": "part09.html#615",
+"es": "Ideas para el mes siguiente"
+},
+{
+"key": "part09.html#616",
+"es": "Una idea, muchos medios"
+},
+{
+"key": "part09.html#617",
+"es": "<b>Una fuente, múltiples usos</b>"
+},
+{
+"key": "part09.html#618",
+"es": "Rehacer el mismo mensaje en la gramática de cada medio. Es la forma más segura de lograr más alcance con el presupuesto de producción."
+},
+{
+"key": "part09.html#619",
+"es": "Fuente"
+},
+{
+"key": "part09.html#620",
+"es": "Derivado"
+},
+{
+"key": "part09.html#621",
+"es": "Carga de trabajo"
+},
+{
+"key": "part09.html#622",
+"es": "Beneficio"
+},
+{
+"key": "part09.html#623",
+"es": "Video largo de 10 min"
+},
+{
+"key": "part09.html#624",
+"es": "3 videos cortos"
+},
+{
+"key": "part09.html#625",
+"es": "Baja"
+},
+{
+"key": "part09.html#626",
+"es": "Espectadores nuevos"
+},
+{
+"key": "part09.html#627",
+"es": "Video largo de 10 min"
+},
+{
+"key": "part09.html#628",
+"es": "1 entrada de blog"
+},
+{
+"key": "part09.html#629",
+"es": "Baja"
+},
+{
+"key": "part09.html#630",
+"es": "Tráfico de búsqueda"
+},
+{
+"key": "part09.html#631",
+"es": "Video largo de 10 min"
+},
+{
+"key": "part09.html#632",
+"es": "1 carrusel"
+},
+{
+"key": "part09.html#633",
+"es": "Baja"
+},
+{
+"key": "part09.html#634",
+"es": "Guardados en Instagram"
+},
+{
+"key": "part09.html#635",
+"es": "Video largo de 10 min"
+},
+{
+"key": "part09.html#636",
+"es": "1 número de boletín"
+}
+]

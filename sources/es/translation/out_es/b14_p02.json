@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#150",
+"es": "<b>Nota</b> Cuando llegó el micrófono, la cámara quedó encerrada en una carcasa insonorizada y la imagen retrocedió por un tiempo a la quietud"
+},
+{
+"key": "part01.html#151",
+"es": "<b>1927</b><i>Cine sonoro</i>Triunfa El cantor de jazz. El ruido de la cámara la obliga a entrar en una cabina insonorizada; la imagen se vuelve estática"
+},
+{
+"key": "part01.html#152",
+"es": "<b>1932</b><i>Technicolor</i>Color saturado de tres bandas. Se usó primero como recurso de puesta en escena, no por realismo"
+},
+{
+"key": "part01.html#153",
+"es": "<b>1953</b><i>Pantalla ancha</i>Se extiende el CinemaScope. Una experiencia solo de sala para competir con la TV. El origen del 21:9"
+},
+{
+"key": "part01.html#154",
+"es": "<b>Años 60</b><i>Cámaras ligeras</i>Se extiende el equipo de sonido sincrónico. Nouvelle Vague y cine directo; la cámara en mano se vuelve una estética"
+},
+{
+"key": "part01.html#155",
+"es": "<b>Años 70</b><i>Steadicam</i>Planos en movimiento largos y estables sin vía de dolly. Se amplía el lenguaje de la dirección"
+},
+{
+"key": "part01.html#156",
+"es": "<b>1977–1993</b><i>Composición · CG</i>Composición óptica, control de movimiento, gráficos por computadora. Se difumina el límite entre imagen real y virtual"
+},
+{
+"key": "part01.html#157",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part01.html#158",
+"es": "La tecnología nueva no siempre amplía la expresión. La cámara fija del primer cine sonoro es la primera lección."
+},
+{
+"key": "part01.html#159",
+"es": "La cámara fija del primer cine sonoro, el color exagerado del primer Technicolor y la escasa gama tonal del primer digital siguieron el mismo camino. El video con IA generativa está ahora en ese camino."
+},
+{
+"key": "part01.html#160",
+"es": "<small>Ejercicio</small>12.4"
+},
+{
+"key": "part01.html#161",
+"es": "Tarea"
+},
+{
+"key": "part01.html#162",
+"es": "Edita la misma escena en dos versiones, blanco y negro · muda / color · sonora, y compara las reacciones del público."
+},
+{
+"key": "part01.html#163",
+"es": "Consejo"
+},
+{
+"key": "part01.html#164",
+"es": "En la versión sonora, añade el ambiente antes que el diálogo. Primero cobra vida el espacio."
+},
+{
+"key": "part01.html#165",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#166",
+"es": "¿Anota de forma concreta qué información añadieron el sonido y el color?"
+},
+{
+"key": "part01.html#167",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#168",
+"es": "Compara el expresionismo de la era muda con el primer cine sonoro. Anota también «qué se perdió cuando llegó el sonido»."
+},
+{
+"key": "part01.html#169",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#170",
+"es": "La televisión y el video televisivo"
+},
+{
+"key": "part01.html#171",
+"es": "Una pantalla pequeña, un salón iluminado, una atención dispersa, una estructura interrumpida por anuncios. Estas condiciones crearon la gramática del video televisivo."
+},
+{
+"key": "part01.html#172",
+"es": "<span class=\"ph-id\">P01-TV</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Un estudio de televisión</b>Cámaras de pedestal y una mesa de informativos iluminada; arriba, la ventana del control de realización</span>"
+},
+{
+"key": "part01.html#173",
+"es": "<b>Nota</b> La estructura de estudio que conmuta entre cámaras en tiempo real continúa en las transmisiones y el comercio en directo de hoy"
+},
+{
+"key": "part01.html#174",
+"es": "Condición"
+},
+{
+"key": "part01.html#175",
+"es": "Cine"
+},
+{
+"key": "part01.html#176",
+"es": "Televisión"
+},
+{
+"key": "part01.html#177",
+"es": "Heredero actual"
+},
+{
+"key": "part01.html#178",
+"es": "Pantalla"
+},
+{
+"key": "part01.html#179",
+"es": "Grande"
+},
+{
+"key": "part01.html#180",
+"es": "Pequeña"
+},
+{
+"key": "part01.html#181",
+"es": "Teléfono"
+},
+{
+"key": "part01.html#182",
+"es": "Luz ambiente"
+},
+{
+"key": "part01.html#183",
+"es": "Oscura"
+},
+{
+"key": "part01.html#184",
+"es": "Clara"
+},
+{
+"key": "part01.html#185",
+"es": "Exterior"
+},
+{
+"key": "part01.html#186",
+"es": "Atención"
+},
+{
+"key": "part01.html#187",
+"es": "Inmersa"
+},
+{
+"key": "part01.html#188",
+"es": "Dispersa"
+},
+{
+"key": "part01.html#189",
+"es": "Con scroll"
+},
+{
+"key": "part01.html#190",
+"es": "Plano habitual"
+},
+{
+"key": "part01.html#191",
+"es": "Planos generales"
+},
+{
+"key": "part01.html#192",
+"es": "Primeros planos"
+},
+{
+"key": "part01.html#193",
+"es": "Primeros planos"
+},
+{
+"key": "part01.html#194",
+"es": "Sonido"
+},
+{
+"key": "part01.html#195",
+"es": "Mezcla detallada"
+},
+{
+"key": "part01.html#196",
+"es": "Diálogo claro"
+},
+{
+"key": "part01.html#197",
+"es": "Con subtítulos"
+},
+{
+"key": "part01.html#198",
+"es": "Estructura"
+},
+{
+"key": "part01.html#199",
+"es": "Relato largo"
+},
+{
+"key": "part01.html#200",
+"es": "Segmentos"
+},
+{
+"key": "part01.html#201",
+"es": "Gancho de 3 s"
+},
+{
+"key": "part01.html#202",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part01.html#203",
+"es": "La regla de que rostros, manos y productos crecen cuando la pantalla se encoge se cumple desde hace más de 60 años."
+},
+{
+"key": "part01.html#204",
+"es": "En una pantalla pequeña la información de un plano general no se lee, así que la televisión hizo del primer plano su recurso básico. Por la misma razón, el video corto vertical de hoy es, de forma abrumadora, primeros planos."
+},
+{
+"key": "part01.html#205",
+"es": "Conceptos de trabajo que creó la televisión"
+},
+{
+"key": "part01.html#206",
+"es": "<small>hh:mm:ss:ff</small>Código de tiempo"
+},
+{
+"key": "part01.html#207",
+"es": "Notación que ubica una posición con precisión de cuadro"
+},
+{
+"key": "part01.html#208",
+"es": "El lenguaje común para comunicarse en la edición"
+},
+{
+"key": "part01.html#209",
+"es": "<small>Margen del borde</small>Zona segura"
+},
+{
+"key": "part01.html#210",
+"es": "Mantén dentro lo importante, lejos de los bordes que pueden recortarse"
+},
+{
+"key": "part01.html#211",
+"es": "Hoy continúa como la zona que tapa la interfaz de las plataformas"
+},
+{
+"key": "part01.html#212",
+"es": "<small>Una sola persona</small>Reporterismo ENG"
+},
+{
+"key": "part01.html#213",
+"es": "Una persona maneja la cámara y el micrófono"
+},
+{
+"key": "part01.html#214",
+"es": "El prototipo de la producción del creador en solitario"
+},
+{
+"key": "part01.html#215",
+"es": "<small>Conmutación en tiempo real</small>Realización en directo"
+},
+{
+"key": "part01.html#216",
+"es": "Conmutar entre varias cámaras en tiempo real"
+},
+{
+"key": "part01.html#217",
+"es": "Se usa tal cual en el comercio en directo y el streaming"
+},
+{
+"key": "part01.html#218",
+"es": "<small>Ejercicio</small>12.5"
+},
+{
+"key": "part01.html#219",
+"es": "Tarea"
+},
+{
+"key": "part01.html#220",
+"es": "Desglosa plano a plano, en una tabla, una pieza de informativo de TV (aprox. 1 min 30 s)."
+},
+{
+"key": "part01.html#221",
+"es": "Consejo"
+},
+{
+"key": "part01.html#222",
+"es": "Registra en segundos el orden y la duración de presentador · reportaje · entrevista · reportero a cámara."
+},
+{
+"key": "part01.html#223",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#224",
+"es": "Lee con precisión la gramática televisiva (orden de la información, funciones de imagen · subtítulos)"
+},
+{
+"key": "part01.html#225",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#226",
+"es": "Pone lado a lado un informativo de TV y un video de YouTube sobre el mismo suceso y muestra con cifras las diferencias de ritmo y estructura."
+},
+{
+"key": "part01.html#227",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#228",
+"es": "Del video analógico al digital"
+},
+{
+"key": "part01.html#229",
+"es": "La grabación hizo posible la edición, y la edición no lineal cambió la manera misma de pensar la edición."
+},
+{
+"key": "part01.html#230",
+"es": "<span class=\"ph-id\">P01-VHS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Sala de edición en cinta</b>Un editor ante magnetoscopios y monitores CRT, con una rueda de búsqueda y cables</span>"
+},
+{
+"key": "part01.html#231",
+"es": "<b>Nota</b> Hasta que llegó la edición no lineal, la sala lineal, donde la cinta solo podía unirse en orden, definía la forma de pensar de los editores"
+},
+{
+"key": "part01.html#232",
+"es": "<b>Fig. 2</b> Puntos de inflexión clave en la tecnología del video"
+},
+{
+"key": "part01.html#233",
+"es": "<b>1956</b> Los magnetoscopios de televisión se vuelven prácticos. La TV deja de ser solo en directo"
+},
+{
+"key": "part01.html#234",
+"es": "<b>Años 70–80</b> Guerra de formatos del video doméstico y difusión de las videocámaras. Cada persona graba y guarda su propio material"
+},
+{
+"key": "part01.html#235",
+"es": "<b>1989</b> Se comercializan los sistemas de edición no lineal. Acceso inmediato a cualquier punto"
+},
+{
+"key": "part01.html#236",
+"es": "<b>1995</b> El formato DV. Calidad digital en cinta barata; la producción independiente se dispara"
+},
+{
+"key": "part01.html#237",
+"es": "<b>1999–2003</b> Se extiende el software de edición de escritorio. La computadora personal se convierte en sala de edición"
+},
+{
+"key": "part01.html#238",
+"es": "<b>2008</b> Llegan las DSLR que graban video. Poca profundidad de campo de sensor grande a bajo costo — la revolución DSLR"
+},
+{
+"key": "part01.html#239",
+"es": "<b>Años 2010</b> Cámaras sin espejo · de cine, 4K, grabación en Log y gimbals se vuelven herramientas estándar"
+},
+{
+"key": "part01.html#240",
+"es": "Mentalidad de la edición lineal"
+},
+{
+"key": "part01.html#241",
+"es": "Solo se trabaja en orden"
+},
+{
+"key": "part01.html#242",
+"es": "Insertar a mitad de secuencia es muy difícil"
+},
+{
+"key": "part01.html#243",
+"es": "Un error obliga a empezar de nuevo"
+},
+{
+"key": "part01.html#244",
+"es": "Hay que planificarlo todo de antemano"
+},
+{
+"key": "part01.html#245",
+"es": "La clave es la capacidad de planificar del editor"
+},
+{
+"key": "part01.html#246",
+"es": "Mentalidad de la edición no lineal"
+},
+{
+"key": "part01.html#247",
+"es": "Acceso inmediato a cualquier punto"
+},
+{
+"key": "part01.html#248",
+"es": "Ensayo y error sin fin"
+},
+{
+"key": "part01.html#249",
+"es": "El control de versiones es el nuevo reto"
+},
+{
+"key": "part01.html#250",
+"es": "Explorar antes que planificar"
+},
+{
+"key": "part01.html#251",
+"es": "La clave es la capacidad de selección del editor"
+},
+{
+"key": "part01.html#252",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part01.html#253",
+"es": "Poder corregir sin fin te lleva a aplazar las decisiones."
+},
+{
+"key": "part01.html#254",
+"es": "La difusión de la edición no lineal también tiene efectos secundarios claros. Justo por eso sigue importando el hábito de dibujar un storyboard antes de rodar."
+},
+{
+"key": "part01.html#255",
+"es": "<small>Ejercicio</small>12.6"
+},
+{
+"key": "part01.html#256",
+"es": "Tarea"
+},
+{
+"key": "part01.html#257",
+"es": "Busca en casa un soporte de grabación antiguo (foto, cinta, archivo), digitalízalo y documenta el proceso."
+},
+{
+"key": "part01.html#258",
+"es": "Consejo"
+},
+{
+"key": "part01.html#259",
+"es": "Anota primero la resolución, la relación de aspecto y el estado del color del original para poder comparar."
+},
+{
+"key": "part01.html#260",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#261",
+"es": "Explica lo analógico frente a lo digital en términos de resolución · copia · degradación"
+},
+{
+"key": "part01.html#262",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#263",
+"es": "Coloca lado a lado las imágenes de antes y después y resume qué se ganó y qué se perdió."
+},
+{
+"key": "part01.html#264",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#265",
+"es": "La era del video en internet y las plataformas"
+},
+{
+"key": "part01.html#266",
+"es": "Al caer la barrera de la distribución, los dispositivos para rodar, ver y distribuir se fundieron en uno."
+},
+{
+"key": "part01.html#267",
+"es": "<span class=\"ph-id\">P01-WEB</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Video en internet — la habitación se vuelve estudio</b>Una creadora habla a cámara con un trípode pequeño, un aro de luz y un portátil</span>"
+},
+{
+"key": "part01.html#268",
+"es": "<b>Nota</b> Sin la barrera de la distribución, una sola habitación se volvió un estudio que asume rodaje · edición · distribución"
+},
+{
+"key": "part01.html#269",
+"es": "<b>2005</b><i>YouTube</i>Cualquiera puede subir y ver. El primer hito que elimina la barrera de la distribución"
+},
+{
+"key": "part01.html#270",
+"es": "<b>2007</b><i>Smartphone</i>Los dispositivos de rodaje · visionado · distribución se vuelven uno"
+},
+{
+"key": "part01.html#271",
+"es": "<b>Inicios de los 2010</b><i>Reparto de ingresos</i>Modelo basado en publicidad. El video se vuelve un empleo; surge la profesión de creador"
+},
+{
+"key": "part01.html#272",
+"es": "<b>2016–2020</b><i>Vertical · video corto</i>La interfaz de scroll cambia los hábitos de visionado; los primeros 3 segundos se vuelven decisivos"
+},
+{
+"key": "part01.html#273",
+"es": "<b>2020–2022</b><i>Pandemia</i>El comercio en directo, las clases en línea y la producción remota se vuelven rutina"
+},
+{
+"key": "part01.html#274",
+"es": "<b>2022–</b><i>IA generativa</i>Las herramientas de texto a video e imagen a video entran en la práctica profesional"
+},
+{
+"key": "part01.html#275",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part01.html#276",
+"es": "El video horizontal suele abrir con la situación; el vertical, con un rostro y la conclusión."
+},
+{
+"key": "part01.html#277",
+"es": "<small>Ejercicio</small>12.7"
+},
+{
+"key": "part01.html#278",
+"es": "Tarea"
+},
+{
+"key": "part01.html#279",
+"es": "Sobre un mismo tema, planifica un video horizontal de 2 minutos y uno vertical de 30 segundos, y compara sus primeros 5 segundos."
+},
+{
+"key": "part01.html#280",
+"es": "Consejo"
+},
+{
+"key": "part01.html#281",
+"es": "El video horizontal suele abrir con la situación; el vertical, con un rostro y la conclusión."
+},
+{
+"key": "part01.html#282",
+"es": "Evaluación"
+},
+{
+"key": "part01.html#283",
+"es": "El diseño muestra que el cuadro inicial cumple una función distinta en cada plataforma"
+},
+{
+"key": "part01.html#284",
+"es": "Respuesta modelo"
+},
+{
+"key": "part01.html#285",
+"es": "Adapta un mismo mensaje a ambos formatos y varía incluso el número de cortes, la posición de los subtítulos y el punto de entrada de la música."
+},
+{
+"key": "part01.html#286",
+"es": "<b>PARTE 01</b>¿Qué es el video?"
+},
+{
+"key": "part01.html#287",
+"es": "El panorama de la era del video con IA generativa"
+},
+{
+"key": "part01.html#288",
+"es": "Todo lo que aparecía en pantalla era algo que alguien había rodado o dibujado; ahora puede no serlo. La velocidad, las estructuras de costos y los criterios éticos se tambalean a la vez."
+},
+{
+"key": "part01.html#289",
+"es": "<span class=\"ph-id\">P01-GENAI</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>La era del video con IA generativa</b>Un realizador revisa un panel de prompts y una cuadrícula de variaciones de clips en un monitor grande</span>"
+},
+{
+"key": "part01.html#290",
+"es": "<b>Nota</b> Elegir y juzgar planos que nadie rodó es el nuevo trabajo de quien hace video en la era de la IA generativa"
+},
+{
+"key": "part01.html#291",
+"es": "Área"
+},
+{
+"key": "part01.html#292",
+"es": "Tipo de herramienta"
+},
+{
+"key": "part01.html#293",
+"es": "Función en la práctica"
+},
+{
+"key": "part01.html#294",
+"es": "Precauciones"
+},
+{
+"key": "part01.html#295",
+"es": "Planificación"
+},
+{
+"key": "part01.html#296",
+"es": "Modelos de lenguaje conversacionales"
+},
+{
+"key": "part01.html#297",
+"es": "Ampliar ideas, borradores de guion, variantes de copy"
+},
+{
+"key": "part01.html#298",
+"es": "Verificar datos; la decisión final es humana"
+},
+{
+"key": "part01.html#299",
+"es": "Imagen"
+}
+]

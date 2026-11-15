@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#965",
+"es": "PARTE 08 Los 3 primeros segundos de un anuncio"
+},
+{
+"key": "part09.html#966",
+"es": "Distingue los seis tipos de gancho de 3 segundos y sé capaz de explicar cuál usan los 3 primeros segundos de un anuncio que te guste."
+},
+{
+"key": "part09.html#967",
+"es": "8.1 Mapa de plataformas"
+},
+{
+"key": "part09.html#968",
+"es": "Que el espectador haya venido a ver el video o se haya topado con él mientras veía otra cosa decide la estrategia de los 3 primeros segundos."
+},
+{
+"key": "part09.html#969",
+"es": "8.2 Gestionar YouTube"
+},
+{
+"key": "part09.html#970",
+"es": "Palabras clave en los 25 primeros caracteres del título; texto de la miniatura de 3–7 caracteres, al menos el 15 % de la altura de pantalla."
+},
+{
+"key": "part09.html#971",
+"es": "8.3 Las 3 grandes plataformas de video corto"
+},
+{
+"key": "part09.html#972",
+"es": "Shorts 20–60 s, Reels 15–30 s, TikTok 9–21 s. La interfaz oculta el 12 % superior y el 20 % inferior."
+},
+{
+"key": "part09.html#973",
+"es": "8.4 Gestionar Instagram"
+},
+{
+"key": "part09.html#974",
+"es": "10–15 hashtags, mezclando grandes · medianos · pequeños. Responde a los comentarios en la primera hora tras publicar."
+},
+{
+"key": "part09.html#975",
+"es": "8.5 TikTok y el remix"
+},
+{
+"key": "part09.html#976",
+"es": "Si lo haces perfecto, nadie lo tocará. El margen para imitar es lo que hace que se difunda."
+},
+{
+"key": "part09.html#977",
+"es": "8.7 Plataformas de blog"
+},
+{
+"key": "part09.html#978",
+"es": "Si pones un texto de resumen encima y debajo del video y pasas el guion al cuerpo, sube el tráfico de búsqueda."
+},
+{
+"key": "part09.html#979",
+"es": "8.8 Indicadores clave de rendimiento"
+},
+{
+"key": "part09.html#980",
+"es": "Lee las métricas en orden: alcance, tasa de clics, retención, interacción."
+},
+{
+"key": "part09.html#981",
+"es": "8.9 Herramientas de IA generativa"
+},
+{
+"key": "part09.html#982",
+"es": "Limita la IA a tres puntos: ampliar ideas, visualizar borradores, automatizar la posproducción. Nunca delegues el concepto en una frase."
+},
+{
+"key": "part09.html#983",
+"es": "8.10 Gestionar un canal"
+},
+{
+"key": "part09.html#984",
+"es": "Definición en una frase, formatos fijos, calendario de publicación, reglas visuales, una métrica. Reutiliza una idea en muchos medios."
+},
+{
+"key": "part09.html#985",
+"es": "8.12 Anuncios en SNS"
+},
+{
+"key": "part09.html#986",
+"es": "Lanza 3–5 creatividades a la vez, compara una sola variable cada vez y señala siempre patrocinios · anuncios."
+},
+{
+"key": "part09.html#987",
+"es": "8.13 Flujo con IA"
+},
+{
+"key": "part09.html#988",
+"es": "Mantén los planos generados lejos de los rostros y en 1/3 o menos, y aplícales la distorsión del objetivo y el grano del rodaje real. Registra el uso de IA."
+},
+{
+"key": "part09.html#989",
+"es": "Autoevaluación"
+},
+{
+"key": "part09.html#990",
+"es": "¿Sabes explicar los seis tipos de gancho de 3 segundos?"
+},
+{
+"key": "part09.html#991",
+"es": "¿Sabes en qué se diferencia la tasa de clics de las impresiones de la retención?"
+},
+{
+"key": "part09.html#992",
+"es": "¿Sabes explicar por qué conviene mezclar hashtags grandes, medianos y pequeños?"
+},
+{
+"key": "part09.html#993",
+"es": "¿Sabes planificar pensando en Duet y Stitch?"
+},
+{
+"key": "part09.html#994",
+"es": "¿Sabes juzgar en qué etapa incorporar herramientas de IA?"
+},
+{
+"key": "part09.html#995",
+"es": "Consejos de rodaje"
+},
+{
+"key": "part09.html#996",
+"es": "La respuesta en la primera hora tras publicar impulsa el alcance posterior, así que publica a una hora en la que puedas contestar comentarios. Haz siempre que una persona revise los nombres propios en los subtítulos automáticos. Un solo nombre de empresa mal escrito destruye la confianza en un instante. Registra el uso de IA en los documentos de producción. Cada vez más encargos conllevan la obligación de declararlo."
+},
+{
+"key": "part09.html#997",
+"es": "Preguntas para pensar"
+},
+{
+"key": "part09.html#998",
+"es": "¿Puedo definir mi canal en una frase? ¿Está en esa frase el motivo para suscribirse?"
+},
+{
+"key": "part09.html#999",
+"es": "Es el primero de los 5 pasos de diseño de canal de 8.10. Si no sabes decir qué da el canal, y a quién, no hay motivo para suscribirse."
+},
+{
+"key": "part09.html#1000",
+"es": "¿Qué parte de mi trabajo no puede hacer la IA por mí?"
+},
+{
+"key": "part09.html#1001",
+"es": "El criterio para decidir qué rodar, el lenguaje para explicar por qué tiene que ser ese plano, la coordinación con el cliente, la gestión de imprevistos en el set. Cuanto más potentes son las herramientas, más vale el criterio."
+},
+{
+"key": "part10.html#0",
+"es": "PARTE"
+},
+{
+"key": "part10.html#1",
+"es": "<small>PARTE</small>10"
+},
+{
+"key": "part10.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part10.html#3",
+"es": "Un mapa de la cadena de valor de la industria del video"
+},
+{
+"key": "part10.html#4",
+"es": "Un presupuesto de 8 partidas y un contrato sencillo"
+},
+{
+"key": "part10.html#5",
+"es": "Una trayectoria de 5 años para el puesto que quieres"
+},
+{
+"key": "part10.html#6",
+"es": "Industria y tendencias del mercado"
+},
+{
+"key": "part10.html#7",
+"es": "El video es una buena afición, pero la mayoría de quienes leen este libro quiere trabajar en él. Saber por dónde fluye el dinero, quién da trabajo a quién y qué empleos crecen o se reducen forma parte del oficio. Esta PARTE responde a la pregunta «¿De dónde viene el valor del video?» con la estructura y las cifras del mercado."
+},
+{
+"key": "part10.html#8",
+"es": "Foto P-10 Un equipo completo trabajando en un estudio de rodaje · imagen generativa"
+},
+{
+"key": "part10.html#9",
+"es": "<b>P-10</b> Un equipo completo trabajando en un estudio de rodaje"
+},
+{
+"key": "part10.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part10.html#11",
+"es": "Entender la estructura del mercado y lo básico de presupuestos y contratos"
+},
+{
+"key": "part10.html#12",
+"es": "<b>Materiales</b>10 ofertas de empleo, una plantilla de presupuesto"
+},
+{
+"key": "part10.html#13",
+"es": "<b>10 min</b><i>Introducción</i><span>Identificar las competencias que se repiten en ofertas de empleo recientes</span>"
+},
+{
+"key": "part10.html#14",
+"es": "<b>15 min</b><i>Conceptos</i><span>Estructura de la industria, tendencias dentro y fuera del país, 7 cláusulas de contrato</span>"
+},
+{
+"key": "part10.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>Recorrer el mapa de empleos y las trayectorias profesionales</span>"
+},
+{
+"key": "part10.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Redactar un presupuesto para un encargo freelance simulado</span>"
+},
+{
+"key": "part10.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Por qué importa la cláusula de uso en el portafolio</span>"
+},
+{
+"key": "part10.html#18",
+"es": "<b>Punto de control</b>¿Indica el presupuesto el número de revisiones y el alcance de uso?"
+},
+{
+"key": "part10.html#19",
+"es": "PARTE 10"
+},
+{
+"key": "part10.html#20",
+"es": "Introducción"
+},
+{
+"key": "part10.html#21",
+"es": "El video es una buena afición, pero la mayoría de quienes leen este libro quiere trabajar en él. Entonces, primero hay que entender la estructura del mercado. Saber por dónde fluye el dinero, quién da trabajo a quién y qué empleos crecen y cuáles se reducen forma parte del oficio."
+},
+{
+"key": "part10.html#22",
+"es": "El cambio que conviene observar es que el centro de gravedad del empleo en video ha pasado de la televisión y el cine a lo digital, el comercio y los equipos internos de las empresas. Antes, las convocatorias abiertas de las cadenas eran la única puerta de entrada; ahora los equipos de contenido de marca, el personal de video de las empresas de comercio electrónico y los estudios pequeños contratan a muchos más principiantes. Este cambio también ha modificado lo que se pone en un portafolio."
+},
+{
+"key": "part10.html#23",
+"es": "Mientras tanto, la IA generativa está abaratando las tarifas de la edición sencilla y los gráficos sencillos. La forma de sobrevivir no es aprender herramientas más rápido, sino ascender hacia el criterio. Decidir qué rodar, explicar por qué este plano y llegar a un acuerdo con el cliente siguen siendo trabajo humano."
+},
+{
+"key": "part10.html#24",
+"es": "Contexto 18"
+},
+{
+"key": "part10.html#25",
+"es": "De dónde viene el valor del video"
+},
+{
+"key": "part10.html#26",
+"es": "Antes de que un video llegue a su público intervienen muchas personas y empresas. Si sabes en qué punto de esa cadena se crea valor, verás dónde puedes situarte. La industria tradicional del cine se dividía en desarrollo y financiación, producción, distribución y exhibición; tras el estreno en salas, una película salía sucesivamente en video, televisión de pago y televisión en abierto. Escalonar las fechas de estreno según el medio se llama holdback o sistema de ventanas. Era una estructura para obtener ingresos de públicos distintos con una misma obra."
+},
+{
+"key": "part10.html#27",
+"es": "Los servicios de streaming sacudieron con fuerza este orden. Ahora las obras se saltan las salas y se estrenan directamente en todo el mundo, y cada vez más plataformas financian y producen por su cuenta. YouTube y las plataformas de video corto abrieron una vía para que los creadores individuales prescindan de la financiación y la distribución y lleguen directamente al público. A medida que bajan los costos de producción y desaparecen las barreras de distribución, el valor del video se desplaza cada vez más hacia «quién puede reunir a un público»."
+},
+{
+"key": "part10.html#28",
+"es": "Un concepto clave en este cambio es la propiedad intelectual, o IP. Cuando una historia y sus personajes se extienden del webtoon a la serie, los videojuegos y los productos derivados, el valor se multiplica. El contenido coreano atrae la atención mundial no solo por éxitos aislados, sino por la capacidad de sus historias, personajes y universos de trasladarse a otros medios."
+},
+{
+"key": "part10.html#29",
+"es": "Visto desde el terreno de la producción, el valor no nace solo de la destreza técnica. El valor de un anuncio nace de resolver el problema de la marca; el de un video educativo, de ayudar a quien aprende a entender; el de un video de creador, de la confianza con un público concreto. Cuando dos personas con la misma destreza de rodaje cobran honorarios distintos, la razón suele ser esta diferencia en la resolución de problemas."
+},
+{
+"key": "part10.html#30",
+"es": "Un marco útil para mirar la industria es la cadena de valor. Pregunta quién asume el riesgo y quién se lleva el beneficio en cada etapa: planificación y desarrollo, producción, posproducción, distribución, exhibición y consumo. Tradicionalmente, inversores y productoras asumían el riesgo, y el beneficio se recuperaba en la distribución y la exhibición. En la era de las plataformas, gran parte del riesgo ha pasado a ellas; a cambio, cada vez más productoras cobran una tarifa de producción estable y renuncian a los ingresos adicionales ligados al rendimiento."
+},
+{
+"key": "part10.html#31",
+"es": "Los ingresos de un creador individual llegan por cuatro vías: encargos freelance, una parte de los ingresos publicitarios de la plataforma, colaboraciones directas con marcas y un negocio propio, como productos y clases. Las primeras son previsibles; las últimas oscilan mucho, pero tienen un techo más alto. Si dependes de una sola, te tambalearás cuando el mercado cambie, así que es más seguro probar al menos dos desde el inicio de tu carrera."
+},
+{
+"key": "part10.html#32",
+"es": "Lecturas recomendadas — Harold Vogel, Entertainment Industry Economics · Chris Anderson, The Long Tail"
+},
+{
+"key": "part10.html#33",
+"es": "<b>PARTE 10</b>Industria y tendencias del mercado"
+},
+{
+"key": "part10.html#34",
+"es": "La estructura de la industria del video"
+},
+{
+"key": "part10.html#35",
+"es": "Quién encarga, quién lo hace y qué sale. Traza el mapa de las ocho áreas y verás por dónde puedes entrar."
+},
+{
+"key": "part10.html#36",
+"es": "<span class=\"ph-id\">P10-AGENCY</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Agencia de publicidad</b>Un equipo explica a un cliente el calendario de una campaña en la pantalla de una sala de reuniones</span>"
+},
+{
+"key": "part10.html#37",
+"es": "<b>Nota</b>Aguas arriba en publicidad — la agencia se ocupa de la estrategia y la planificación; la producción baja a la casa productora"
+},
+{
+"key": "part10.html#38",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part10.html#39",
+"es": "Cada área tiene clientes y realizadores distintos, así que también cambia el tipo de trabajo que conviene incluir en tu candidatura."
+},
+{
+"key": "part10.html#40",
+"es": "Área"
+},
+{
+"key": "part10.html#41",
+"es": "Clientes principales"
+},
+{
+"key": "part10.html#42",
+"es": "Quién lo hace"
+},
+{
+"key": "part10.html#43",
+"es": "Producto típico"
+},
+{
+"key": "part10.html#44",
+"es": "Televisión"
+},
+{
+"key": "part10.html#45",
+"es": "Terrestre, generalista, cable"
+},
+{
+"key": "part10.html#46",
+"es": "Productoras externas"
+},
+{
+"key": "part10.html#47",
+"es": "Series, entretenimiento, documental"
+},
+{
+"key": "part10.html#48",
+"es": "Cine"
+},
+{
+"key": "part10.html#49",
+"es": "Inversores-distribuidores"
+},
+{
+"key": "part10.html#50",
+"es": "Productoras"
+},
+{
+"key": "part10.html#51",
+"es": "Largometrajes, cortos"
+},
+{
+"key": "part10.html#52",
+"es": "Publicidad"
+},
+{
+"key": "part10.html#53",
+"es": "Anunciantes, agencias"
+},
+{
+"key": "part10.html#54",
+"es": "Casas productoras"
+},
+{
+"key": "part10.html#55",
+"es": "Spots de TV, anuncios digitales"
+},
+{
+"key": "part10.html#56",
+"es": "Contenido digital"
+},
+{
+"key": "part10.html#57",
+"es": "Marcas, plataformas"
+},
+{
+"key": "part10.html#58",
+"es": "Estudios de contenido"
+},
+{
+"key": "part10.html#59",
+"es": "Variedades web, contenido de marca"
+},
+{
+"key": "part10.html#60",
+"es": "Comunicación corporativa"
+},
+{
+"key": "part10.html#61",
+"es": "Empresas, instituciones, universidades"
+},
+{
+"key": "part10.html#62",
+"es": "Interno o externalizado"
+},
+{
+"key": "part10.html#63",
+"es": "Videos promocionales y de formación"
+},
+{
+"key": "part10.html#64",
+"es": "Comercio"
+},
+{
+"key": "part10.html#65",
+"es": "Comercio electrónico, marcas"
+},
+{
+"key": "part10.html#66",
+"es": "Interno, equipos pequeños"
+},
+{
+"key": "part10.html#67",
+"es": "Videos de ficha de producto, directos"
+},
+{
+"key": "part10.html#68",
+"es": "Creadores"
+},
+{
+"key": "part10.html#69",
+"es": "Uno mismo, MCN"
+},
+{
+"key": "part10.html#70",
+"es": "1 persona o equipo pequeño"
+},
+{
+"key": "part10.html#71",
+"es": "YouTube, video corto"
+},
+{
+"key": "part10.html#72",
+"es": "Contenido inmersivo"
+},
+{
+"key": "part10.html#73",
+"es": "Gobiernos locales, museos, marcas"
+},
+{
+"key": "part10.html#74",
+"es": "Estudios de XR"
+},
+{
+"key": "part10.html#75",
+"es": "Exposiciones, proyección, VR"
+},
+{
+"key": "part10.html#76",
+"es": "Las ofertas de empleo confirman este cambio. La vía de entrada, antes reducida a las convocatorias abiertas de las cadenas, se ha ampliado a los equipos de contenido de marca, los puestos de video en empresas de comercio electrónico y los estudios pequeños, y hoy la mayor parte de la contratación de principiantes procede de ahí."
+},
+{
+"key": "part10.html#77",
+"es": "<small>Ejercicio</small>9.1"
+},
+{
+"key": "part10.html#78",
+"es": "Tarea"
+},
+{
+"key": "part10.html#79",
+"es": "Dibuja la cadena de valor de la industria del video (planificación, producción, distribución, consumo) y escribe los puestos típicos de cada etapa."
+},
+{
+"key": "part10.html#80",
+"es": "Consejo"
+},
+{
+"key": "part10.html#81",
+"es": "Marca con flechas la dirección en que fluye el dinero."
+},
+{
+"key": "part10.html#82",
+"es": "Evaluación"
+},
+{
+"key": "part10.html#83",
+"es": "Exactitud en la comprensión de la estructura"
+},
+{
+"key": "part10.html#84",
+"es": "Respuesta modelo"
+},
+{
+"key": "part10.html#85",
+"es": "Señala en el mapa dónde encajaría y explica por qué."
+},
+{
+"key": "part10.html#86",
+"es": "<b>PARTE 10</b>Industria y tendencias del mercado"
+},
+{
+"key": "part10.html#87",
+"es": "Tendencias del mercado coreano"
+},
+{
+"key": "part10.html#88",
+"es": "En los últimos 15 años, la demanda de video salió de la publicidad televisiva y después entró en las propias empresas. Al final de ese camino está la IA generativa."
+},
+{
+"key": "part10.html#89",
+"es": "<span class=\"ph-id\">P10-PRODCO</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Casa productora</b>Oficina de una productora con salas de edición en fila, una pizarra con el flujo del proyecto</span>"
+},
+{
+"key": "part10.html#90",
+"es": "<b>Nota</b>Las primeras en notar los cambios de la demanda coreana — las productoras han cambiado de carácter varias veces en 15 años"
+},
+{
+"key": "part10.html#91",
+"es": "<b>01</b><i>Inicios de los 2010</i>Con el auge del smartphone y de YouTube, la demanda de video corporativo se extiende más allá de los anuncios de televisión; nace el género del video viral"
+},
+{
+"key": "part10.html#92",
+"es": "<b>02</b><i>2015–2018</i>Se consolidan el contenido de marca y las variedades web; la frontera entre anuncio y contenido se difumina y las productoras cambian"
+},
+{
+"key": "part10.html#93",
+"es": "<b>03</b><i>2019–2021</i>Llegan las plataformas globales de streaming y se dispara la demanda de producción de series; faltan equipos de cámara · iluminación · arte · posproducción"
+},
+{
+"key": "part10.html#94",
+"es": "<b>04</b><i>2020–2022</i>El paso a lo remoto trae un auge de clases en línea, comercio en directo y webinarios; gana valor saber producir en solitario"
+},
+{
+"key": "part10.html#95",
+"es": "<b>05</b><i>2022–2024</i>El video corto absorbe los presupuestos publicitarios; las marcas amplían sus unidades de producción propias y los puestos internos de video"
+},
+{
+"key": "part10.html#96",
+"es": "<b>06</b><i>2024–2026</i>La IA generativa entra en la práctica; bajan las tarifas de edición · gráficos sencillos y ganan valor planificación · dirección · criterio"
+},
+{
+"key": "part10.html#97",
+"es": "<b>Perfil en T</b>"
+},
+{
+"key": "part10.html#98",
+"es": "Profundidad en una cosa y comprensión de todo el proceso. Ese es el perfil que el mercado quiere hoy."
+},
+{
+"key": "part10.html#99",
+"es": "Qué supone para los principiantes"
+},
+{
+"key": "part10.html#100",
+"es": "Los empleos para quienes solo saben editar se reducen. Crecen los empleos para quienes saben redactar una propuesta, rodar, editar y leer los resultados."
+},
+{
+"key": "part10.html#101",
+"es": "<small>Ejercicio</small>9.2"
+},
+{
+"key": "part10.html#102",
+"es": "Tarea"
+},
+{
+"key": "part10.html#103",
+"es": "A partir de artículos e informes, investiga 3 cambios del mercado coreano del video en los últimos 12 meses."
+},
+{
+"key": "part10.html#104",
+"es": "Consejo"
+},
+{
+"key": "part10.html#105",
+"es": "Anota siempre las fuentes y las fechas de publicación."
+},
+{
+"key": "part10.html#106",
+"es": "Evaluación"
+},
+{
+"key": "part10.html#107",
+"es": "Fiabilidad de las fuentes, lectura de tendencias"
+},
+{
+"key": "part10.html#108",
+"es": "Respuesta modelo"
+},
+{
+"key": "part10.html#109",
+"es": "Añade una interpretación de cómo afectan los cambios al empleo de entrada."
+},
+{
+"key": "part10.html#110",
+"es": "<b>PARTE 10</b>Industria y tendencias del mercado"
+},
+{
+"key": "part10.html#111",
+"es": "Tendencias y diferencias de los mercados extranjeros"
+},
+{
+"key": "part10.html#112",
+"es": "En Norteamérica y Europa, las funciones están separadas, los contratos son por proyecto y los showreels indican tu función. Si conoces las diferencias, sabrás qué preparar."
+}
+]

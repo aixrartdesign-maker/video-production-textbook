@@ -1,0 +1,8 @@
+[
+ {"key": "part13.html#9", "find": "imagen generativa", "replace": "imagen generada", "why": "term: generated image (as in 13.3A/13.4A and b06 fix)"},
+ {"key": "part13.html#57", "find": "Sitio específico", "replace": "De sitio específico", "why": "other: unnatural calque of site-specific"},
+ {"key": "part13.html#204", "find": "convertir el espacio en datos", "replace": "conversión del espacio en datos", "why": "grammar: parallel with noun phrase"},
+ {"key": "part13.html#288", "find": "Cartela de la obra impresa", "replace": "Cartela impresa de la obra", "why": "meaning: 'impresa' attached to obra instead of cartela"},
+ {"key": "part13.html#349", "find": "¿Define la obra la primera frase?", "replace": "¿La primera frase define la obra?", "why": "meaning: ambiguous subject/object order"},
+ {"key": "part14a.html#8", "find": "imagen generativa", "replace": "imagen generada", "why": "term: generated image (consistency)"}
+]

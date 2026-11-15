@@ -1,0 +1,334 @@
+[
+{
+"key": "part12.html#120",
+"es": "Comparación de las dos estructuras"
+},
+{
+"key": "part12.html#121",
+"es": "Estructura lineal tradicional"
+},
+{
+"key": "part12.html#122",
+"es": "Orden — planificación → rodaje → posproducción"
+},
+{
+"key": "part12.html#123",
+"es": "Vuelta atrás — no se retrocede de etapa"
+},
+{
+"key": "part12.html#124",
+"es": "Decisiones — casi todas fijadas antes del rodaje"
+},
+{
+"key": "part12.html#125",
+"es": "Cuello de botella — calendario y presupuesto de rodaje"
+},
+{
+"key": "part12.html#126",
+"es": "Riesgo — si se te escapa en el set, se acabó"
+},
+{
+"key": "part12.html#127",
+"es": "Control necesario — planificación previa"
+},
+{
+"key": "part12.html#128",
+"es": "Estructura iterativa con IA"
+},
+{
+"key": "part12.html#129",
+"es": "Orden — un bucle generar ↔ seleccionar ↔ regenerar"
+},
+{
+"key": "part12.html#130",
+"es": "Vuelta atrás — se regenera cuando sea"
+},
+{
+"key": "part12.html#131",
+"es": "Decisiones — abiertas hasta el final"
+},
+{
+"key": "part12.html#132",
+"es": "Cuello de botella — selección y control de calidad"
+},
+{
+"key": "part12.html#133",
+"es": "Riesgo — las correcciones sin fin alargan el calendario"
+},
+{
+"key": "part12.html#134",
+"es": "Control necesario — criterios de parada y de selección"
+},
+{
+"key": "part12.html#135",
+"es": "Trabajo que creció y trabajo que se redujo"
+},
+{
+"key": "part12.html#136",
+"es": "<small>Funciones nuevas</small>Especialista en generación · diseñador de flujos · curador · revisor"
+},
+{
+"key": "part12.html#137",
+"es": "Curaduría que filtra la producción masiva"
+},
+{
+"key": "part12.html#138",
+"es": "Revisión de marca y legal"
+},
+{
+"key": "part12.html#139",
+"es": "Orquestación que une muchas herramientas en un flujo reproducible"
+},
+{
+"key": "part12.html#140",
+"es": "<small>Trabajo en retroceso</small>Tareas simples y repetitivas"
+},
+{
+"key": "part12.html#141",
+"es": "Rotoscopia y limpieza básicas"
+},
+{
+"key": "part12.html#142",
+"es": "Variantes de tamaño de banners, producción repetitiva de recursos"
+},
+{
+"key": "part12.html#143",
+"es": "En una encuesta a agencias de EE. UU., más de la mitad redujo o suspendió la contratación júnior"
+},
+{
+"key": "part12.html#144",
+"es": "<small>Trabajo sin cambios</small>Criterio y coordinación"
+},
+{
+"key": "part12.html#145",
+"es": "Supervisión, dirección de arte"
+},
+{
+"key": "part12.html#146",
+"es": "Toma de decisiones con el cliente"
+},
+{
+"key": "part12.html#147",
+"es": "Valorar los planos clave y la continuidad de un plano a otro"
+},
+{
+"key": "part12.html#148",
+"es": "Tres salvaguardas que mantienen intacto el calendario"
+},
+{
+"key": "part12.html#149",
+"es": "<b>01</b><span><b>Criterios de parada</b> — Decide de antemano: «tras N generaciones, elijo entre esas». Sin una regla, sigues generando incluso después de un buen resultado.</span>"
+},
+{
+"key": "part12.html#150",
+"es": "<b>02</b><span><b>Zonas fijas</b> — Fija primero lo que no debe cambiar, como el producto, el logo y el mensaje clave, y varía el resto.</span>"
+},
+{
+"key": "part12.html#151",
+"es": "<b>03</b><span><b>Registro de versiones</b> — Anota qué prompts y referencias dieron qué resultados. Un trabajo que no puedes reproducir no puede rehacerse cuando llegan las peticiones de cambios.</span>"
+},
+{
+"key": "part12.html#152",
+"es": "La generación es infinita; los calendarios, no. Antes de empezar, anota «cuántos hacer antes de parar».<small>11.2 Reorganización del proceso</small>"
+},
+{
+"key": "part12.html#153",
+"es": "<small>Ejercicio</small>11.2"
+},
+{
+"key": "part12.html#154",
+"es": "Tarea"
+},
+{
+"key": "part12.html#155",
+"es": "Representa en un diagrama la producción de un anuncio corto tanto en la estructura tradicional como en la iterativa con IA, y marca dónde se forman los cuellos de botella en cada una. Establece tus propios criterios de parada y zonas fijas y anótalos."
+},
+{
+"key": "part12.html#156",
+"es": "Consejo"
+},
+{
+"key": "part12.html#157",
+"es": "A un diagrama de flujo le bastan cajas y flechas. No olvides dibujar las flechas que vuelven atrás."
+},
+{
+"key": "part12.html#158",
+"es": "Evaluación"
+},
+{
+"key": "part12.html#159",
+"es": "¿Los cuellos de botella de las dos estructuras están en lugares distintos? ¿Los criterios de parada están escritos con números?"
+},
+{
+"key": "part12.html#160",
+"es": "Respuesta modelo"
+},
+{
+"key": "part12.html#161",
+"es": "Un plan que indica juntos cantidades y criterios, como «ronda 1: generar 30, elegir 3; ronda 2: hasta 10 a partir de los elegidos»."
+},
+{
+"key": "part12.html#162",
+"es": "<b>PARTE 12</b>Práctica y carrera en la transición a la IA"
+},
+{
+"key": "part12.html#163",
+"es": "En qué parte del proceso se usa"
+},
+{
+"key": "part12.html#164",
+"es": "¿Qué etapas la usan de verdad? Las encuestas muestran que las herramientas generativas se usan sobre todo no para hacer una pieza de principio a fin, sino para convertir lo que ya existe en muchas versiones."
+},
+{
+"key": "part12.html#165",
+"es": "<span class=\"ph-id\">P12-AIASSIST</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Trabajo asistido por IA</b>Una editora retoca viñetas de storyboard sugeridas por un panel de IA en pantalla</span>"
+},
+{
+"key": "part12.html#166",
+"es": "<b>Nota</b>Trabajo asistido por IA — la máquina produce muchos borradores; las personas los eligen y los corrigen"
+},
+{
+"key": "part12.html#167",
+"es": "<b>42<em>%</em></b>Primer uso de la IA generativa en la encuesta IAB — versiones por audiencia (cambios de estilo visual 38 %, adaptación al contexto 36 %)"
+},
+{
+"key": "part12.html#168",
+"es": "<b>Aprox. 80<em>tipos</em></b>Formatos de anuncio que la herramienta interna de Cheil Worldwide genera sola desde un recurso. Más del 90 % de ahorro por banner (dato de la empresa)"
+},
+{
+"key": "part12.html#169",
+"es": "<b>48,6<em>%</em></b>Encuesta de 2026 a productores de video de EE. UU. — uso sustancial de IA generativa en VFX. Rodaje · captura 13,3 %, diseño de cámara · iluminación 8,3 %"
+},
+{
+"key": "part12.html#170",
+"es": "<b>Término</b>"
+},
+{
+"key": "part12.html#171",
+"es": "Multiplicador de anuncios (ad multiplier) — mantener la estructura de planos y el ritmo de un anuncio que rinde y cambiar solo reparto · vestuario · locación · atrezo para producir variantes en masa. Habitual en versiones regionales."
+},
+{
+"key": "part12.html#172",
+"es": "Dónde ha entrado la IA"
+},
+{
+"key": "part12.html#173",
+"es": "<b>Variantes y localización</b> — versiones por audiencia, variantes de formato, multiplicadores de anuncios"
+},
+{
+"key": "part12.html#174",
+"es": "<b>Ejecución de VFX</b> — tareas repetitivas como rotoscopia, limpieza, preparación de fondos, reducción de ruido, escalado y generación de texturas"
+},
+{
+"key": "part12.html#175",
+"es": "<b>Planificación y previsualización</b> — arte conceptual, storyboards, previsualización. La etapa que más cambió al caer casi a 0 el costo de los borradores"
+},
+{
+"key": "part12.html#176",
+"es": "<b>Revisión automatizada</b> — una multinacional de alimentación comprueba automáticamente unos 16 puntos de cumplimiento en su plataforma"
+},
+{
+"key": "part12.html#177",
+"es": "Dónde siguen trabajando las personas"
+},
+{
+"key": "part12.html#178",
+"es": "<b>Diseño del rodaje</b> — las herramientas se concentran en la posproducción y apenas llegan al diseño de cámara e iluminación. Por eso este libro dedicó páginas a iluminación · objetivos · composición"
+},
+{
+"key": "part12.html#179",
+"es": "<b>Recursos de marca</b> — la generación no garantiza logos ni formas de producto exactos. Hasta los fabricantes aconsejan: «si la precisión importa, añádelo en posproducción»"
+},
+{
+"key": "part12.html#180",
+"es": "<b>Estrategia y criterio</b> — las agencias califican su madurez en IA de intermedia en planificación de medios y dirección creativa, y de principiante en planificación estratégica y análisis de investigación"
+},
+{
+"key": "part12.html#181",
+"es": "Lo que la IA hace bien es «hacer muchas versiones de lo ya decidido». Decidir qué es eso sigue siendo tarea humana.<small>11.3 En qué parte del proceso se usa</small>"
+},
+{
+"key": "part12.html#182",
+"es": "<small>Ejercicio</small>11.3"
+},
+{
+"key": "part12.html#183",
+"es": "Tarea"
+},
+{
+"key": "part12.html#184",
+"es": "Haz un anuncio vertical de 15 segundos y adapta después el mismo mensaje a una versión horizontal de 30 segundos y a una cuadrada de 6 segundos. Anota qué cambiaste y qué fijaste en cada una."
+},
+{
+"key": "part12.html#185",
+"es": "Consejo"
+},
+{
+"key": "part12.html#186",
+"es": "Decide primero qué fijar. Suele ser el mensaje en una frase, el plano de producto y el tiempo en pantalla del logo."
+},
+{
+"key": "part12.html#187",
+"es": "Evaluación"
+},
+{
+"key": "part12.html#188",
+"es": "¿Las tres versiones transmiten el mismo mensaje? ¿Están claros los criterios para variar y para fijar?"
+},
+{
+"key": "part12.html#189",
+"es": "Respuesta modelo"
+},
+{
+"key": "part12.html#190",
+"es": "Una que sitúa el punto de giro en un lugar distinto según la duración y explica por qué."
+},
+{
+"key": "part12.html#191",
+"es": "<b>PARTE 12</b>Práctica y carrera en la transición a la IA"
+},
+{
+"key": "part12.html#192",
+"es": "Personas, dobles digitales, consentimiento"
+},
+{
+"key": "part12.html#193",
+"es": "Actores de IA, dobles digitales y la cuestión del consentimiento. Donde antes demostraron su utilidad las herramientas generativas fue en fondos y atrezo; el terreno que más tiempo sigue siendo difícil son las personas. Como el público lleva toda la vida entrenándose en leer rostros, las personas son a la vez un problema técnico y un problema de derechos."
+},
+{
+"key": "part12.html#194",
+"es": "<span class=\"ph-id\">P12-MOCAP</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Doble digital</b>Un actor con un traje de captura de movimiento cubierto de marcadores actúa rodeado de cámaras</span>"
+},
+{
+"key": "part12.html#195",
+"es": "<b>Nota</b>Doble digital — se escanea a un actor real y se registra su movimiento. Primero van el consentimiento y un contrato de alcance de uso"
+},
+{
+"key": "part12.html#196",
+"es": "Captura de movimiento — del estudio a un solo teléfono"
+},
+{
+"key": "part12.html#197",
+"es": "<b>Marcadores ópticos — estudio · ciencias del deporte</b><span>Decenas de cámaras infrarrojas + marcadores reflectantes. Precisión milimétrica; el estándar en laboratorios de movimiento de ciencias del deporte y en grandes VFX. Requiere espacio</span>"
+},
+{
+"key": "part12.html#198",
+"es": "<b>Traje inercial — en cualquier lugar</b><span>Un sensor IMU en cada articulación. Sin cámaras, así que sirve en exteriores · en espacios reducidos. Hay que corregir la deriva de posición. Los trajes hápticos (tipo Teslasuit) hacen lo inverso: envían «sensaciones» al cuerpo</span>"
+},
+{
+"key": "part12.html#199",
+"es": "<b>IA sin marcadores — solo cámaras</b><span>La IA estima el esqueleto a partir de material grabado con 1–2 teléfonos. Costo casi 0 e inmediato, pero menos preciso. Suficiente para anuncios · video corto · previsualización</span>"
+},
+{
+"key": "part12.html#200",
+"es": "<b>Facial — solo el rostro</b><span>Una cámara montada en casco o la cámara de profundidad de un teléfono (ARKit) registra 52 valores de expresión. Clave en dobles digitales · humanos virtuales</span>"
+},
+{
+"key": "part12.html#201",
+"es": "<b>Cómo elegir</b><span>Precisión → óptico</span><span>Cualquier lugar → inercial</span><span>Costo · rapidez → sin marcadores</span><span>Expresiones → añadir facial</span><span>Enlace con animación → FBX · retargeting (rigging automático tipo Mixamo)</span>"
+},
+{
+"key": "part12.html#202",
+"es": "<b>Fig. 89-2</b> Cuatro formas de capturar el movimiento — marcadores ópticos · traje inercial · IA sin marcadores · facial. El cambio de la década de 2020: «lo que antes exigía un estudio ahora cabe en un teléfono»."
+}
+]

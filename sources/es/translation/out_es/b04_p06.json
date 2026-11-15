@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#433",
+"es": "Aprox. 8,85 M"
+},
+{
+"key": "part03.html#434",
+"es": "Pantallas de cine"
+},
+{
+"key": "part03.html#435",
+"es": "Más ancho de lado a lado"
+},
+{
+"key": "part03.html#436",
+"es": "Aprox. 21,24 M"
+},
+{
+"key": "part03.html#437",
+"es": "Margen para recortar"
+},
+{
+"key": "part03.html#438",
+"es": "Exige un equipo de edición potente"
+},
+{
+"key": "part03.html#439",
+"es": "8K UHD"
+},
+{
+"key": "part03.html#440",
+"es": "Aprox. 33,18 M"
+},
+{
+"key": "part03.html#441",
+"es": "LED de gran formato, exposiciones"
+},
+{
+"key": "part03.html#442",
+"es": "El tiempo de renderizado se dispara"
+},
+{
+"key": "part03.html#443",
+"es": "Por qué 4K es el estándar"
+},
+{
+"key": "part03.html#444",
+"es": "Los píxeles de sobra para reencuadrar, estabilizar, hacer insertos ampliados y versiones verticales son libertad en la edición. Para sacar video corto vertical de material horizontal, el 4K es casi imprescindible."
+},
+{
+"key": "part03.html#445",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part03.html#446",
+"es": "Un recorte a 21:9 desecha píxeles verticales. Pon una guía de 2,39:1 en el visor y mantén los micrófonos de pértiga y las luces fuera de la zona que se recortará."
+},
+{
+"key": "part03.html#447",
+"es": "Relación de aspecto"
+},
+{
+"key": "part03.html#448",
+"es": "Valor"
+},
+{
+"key": "part03.html#449",
+"es": "Medios típicos"
+},
+{
+"key": "part03.html#450",
+"es": "Ánimo y uso"
+},
+{
+"key": "part03.html#451",
+"es": "TV analógica, insertos retro"
+},
+{
+"key": "part03.html#452",
+"es": "Retrospectivo, documentales, archivo"
+},
+{
+"key": "part03.html#453",
+"es": "Televisión, YouTube, estándar web"
+},
+{
+"key": "part03.html#454",
+"es": "La más versátil, segura"
+},
+{
+"key": "part03.html#455",
+"es": "Largometrajes"
+},
+{
+"key": "part03.html#456",
+"es": "Estándar cinematográfico"
+},
+{
+"key": "part03.html#457",
+"es": "CinemaScope, videos de marca"
+},
+{
+"key": "part03.html#458",
+"es": "Amplitud, sensación de lujo"
+},
+{
+"key": "part03.html#459",
+"es": "Publicaciones cuadradas"
+},
+{
+"key": "part03.html#460",
+"es": "Equilibrio, simetría marcada"
+},
+{
+"key": "part03.html#461",
+"es": "Publicaciones de Instagram"
+},
+{
+"key": "part03.html#462",
+"es": "Máxima ocupación vertical"
+},
+{
+"key": "part03.html#463",
+"es": "Shorts, Reels, TikTok"
+},
+{
+"key": "part03.html#464",
+"es": "Inmersión a pantalla completa, primeros planos"
+},
+{
+"key": "part03.html#465",
+"es": "Recortar un 16:9 por arriba y por abajo para obtener 21:9 no es lo mismo que captar información óptica real con un objetivo anamórfico. El método de recorte presupone que ruedas en 4K."
+},
+{
+"key": "part03.html#466",
+"es": "<small>Ejercicio</small>3.7"
+},
+{
+"key": "part03.html#467",
+"es": "Tarea"
+},
+{
+"key": "part03.html#468",
+"es": "Compón la misma escena en cuatro relaciones de aspecto: 16:9, 9:16, 1:1 y 2,39:1."
+},
+{
+"key": "part03.html#469",
+"es": "Consejo"
+},
+{
+"key": "part03.html#470",
+"es": "Cuando cambia la relación de aspecto, también hay que rediseñar la colocación del sujeto y el espacio negativo."
+},
+{
+"key": "part03.html#471",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#472",
+"es": "Recomposición para cada relación de aspecto"
+},
+{
+"key": "part03.html#473",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#474",
+"es": "Señala la «información perdida» y el «espacio ganado» en cada relación."
+},
+{
+"key": "part03.html#475",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#476",
+"es": "Frecuencia de cuadro y ángulo de obturación"
+},
+{
+"key": "part03.html#477",
+"es": "En cuántos cuadros divides un segundo define la textura del movimiento; el ángulo de obturación define el desenfoque de movimiento. A 180°, la velocidad de obturación es siempre el doble de la frecuencia de cuadro."
+},
+{
+"key": "part03.html#478",
+"es": "<b>Fig. 34</b> Comparación de frecuencias de cuadro — cuántos cuadros por segundo"
+},
+{
+"key": "part03.html#479",
+"es": "Ángulo de obturación — la parte de cada cuadro en que el obturador está abierto"
+},
+{
+"key": "part03.html#480",
+"es": "<b>45° <small>1/192 s</small></b><span>Nitidez entrecortada — combate · explosiones · urgencia intensificada</span>"
+},
+{
+"key": "part03.html#481",
+"es": "<b>180° <small>1/48 s</small></b><span>Desenfoque de movimiento natural — el estándar del cine</span>"
+},
+{
+"key": "part03.html#482",
+"es": "<b>360° <small>1/24 s</small></b><span>Estelas largas y corridas — sueños · embriaguez · recuerdos</span>"
+},
+{
+"key": "part03.html#483",
+"es": "<b>El ángulo de obturación</b> es el ángulo en que el obturador giratorio está abierto. La luz entra durante esa parte de cada cuadro (1/24 s) y el movimiento se desenfoca en la misma medida. <b>Regla: velocidad de obturación = 1 ÷ (fps × 2)</b> → 1/48 a 24 fps, 1/120 a 60 fps. En video, el obturador no define el brillo, sino <b>la cantidad de desenfoque de movimiento</b>; el brillo se ajusta con filtros ND."
+},
+{
+"key": "part03.html#484",
+"es": "<b>Fig. 35</b> Ángulo de obturación y desenfoque de movimiento (a 24 fps) — la parte roja de cada círculo es el tiempo en que el obturador está abierto. Cuanto mayor es el ángulo, más largo es el movimiento captado en un cuadro."
+},
+{
+"key": "part03.html#485",
+"es": "<b>24<em>fps</em></b>Desenfoque cinematográfico — estándar en anuncios emotivos, obturador 1/48"
+},
+{
+"key": "part03.html#486",
+"es": "<b>30<em>fps</em></b>Nítido e informativo — anuncios con muchos rótulos"
+},
+{
+"key": "part03.html#487",
+"es": "<b>60<em>fps</em></b>Demostraciones de producto, cámara lenta ×2 — obturador 1/120"
+},
+{
+"key": "part03.html#488",
+"es": "<b>120<em>fps</em></b>Macro de producto, cámara lenta ×5 — obturador 1/240"
+},
+{
+"key": "part03.html#489",
+"es": "Frecuencia de cuadro"
+},
+{
+"key": "part03.html#490",
+"es": "Sensación de movimiento"
+},
+{
+"key": "part03.html#491",
+"es": "Usos principales"
+},
+{
+"key": "part03.html#492",
+"es": "En publicidad"
+},
+{
+"key": "part03.html#493",
+"es": "24 fps"
+},
+{
+"key": "part03.html#494",
+"es": "Desenfoque cinematográfico, emotivo"
+},
+{
+"key": "part03.html#495",
+"es": "Largometrajes, videos de marca"
+},
+{
+"key": "part03.html#496",
+"es": "Estándar en anuncios emotivos"
+},
+{
+"key": "part03.html#497",
+"es": "25 fps"
+},
+{
+"key": "part03.html#498",
+"es": "Estándar de televisión europeo"
+},
+{
+"key": "part03.html#499",
+"es": "Televisión en regiones PAL"
+},
+{
+"key": "part03.html#500",
+"es": "Comprobar en entregas al extranjero"
+},
+{
+"key": "part03.html#501",
+"es": "30 fps"
+},
+{
+"key": "part03.html#502",
+"es": "Nítido, informativo"
+},
+{
+"key": "part03.html#503",
+"es": "Televisión, anuncios web"
+},
+{
+"key": "part03.html#504",
+"es": "Informativo, con muchos rótulos"
+},
+{
+"key": "part03.html#505",
+"es": "60 fps"
+},
+{
+"key": "part03.html#506",
+"es": "Fluido, realista"
+},
+{
+"key": "part03.html#507",
+"es": "Deportes, videojuegos, demostraciones"
+},
+{
+"key": "part03.html#508",
+"es": "Demostraciones de producto, lenta ×2"
+},
+{
+"key": "part03.html#509",
+"es": "120 fps"
+},
+{
+"key": "part03.html#510",
+"es": "Ultralento, táctil"
+},
+{
+"key": "part03.html#511",
+"es": "Macro de producto, líquidos"
+},
+{
+"key": "part03.html#512",
+"es": "Insertos en lenta ×5"
+},
+{
+"key": "part03.html#513",
+"es": "240 fps o más"
+},
+{
+"key": "part03.html#514",
+"es": "Cámara lenta extrema"
+},
+{
+"key": "part03.html#515",
+"es": "Impactos, estallidos, salpicaduras"
+},
+{
+"key": "part03.html#516",
+"es": "1–2 planos de acento"
+},
+{
+"key": "part03.html#517",
+"es": "Fórmula de la cámara lenta"
+},
+{
+"key": "part03.html#518",
+"es": "Los fps de rodaje divididos entre los fps de la línea de tiempo dan el factor de ralentización. El material a 120 fps en una línea de tiempo de 24 fps se reproduce 5 veces más lento. Pero 120 fps necesita unas 5 veces más luz que 24 fps, así que probarlo sin un plan de iluminación acaba en ruido."
+},
+{
+"key": "part03.html#519",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part03.html#520",
+"es": "Para mantener la regla de los 180 grados del obturador en exteriores de día necesitas filtros ND. Si en su lugar cierras el diafragma, pierdes el desenfoque de fondo que buscabas."
+},
+{
+"key": "part03.html#521",
+"es": "Ángulo de obturación y regla de los 180 grados"
+},
+{
+"key": "part03.html#522",
+"es": "Ángulo de obturación"
+},
+{
+"key": "part03.html#523",
+"es": "Velocidad de obturación (24 fps)"
+},
+{
+"key": "part03.html#524",
+"es": "Desenfoque de movimiento"
+},
+{
+"key": "part03.html#525",
+"es": "Efecto buscado"
+},
+{
+"key": "part03.html#526",
+"es": "Muy bajo"
+},
+{
+"key": "part03.html#527",
+"es": "Urgencia, impacto"
+},
+{
+"key": "part03.html#528",
+"es": "Bajo"
+},
+{
+"key": "part03.html#529",
+"es": "Acción nítida, deportes"
+},
+{
+"key": "part03.html#530",
+"es": "Estándar"
+},
+{
+"key": "part03.html#531",
+"es": "Natural, opción base"
+},
+{
+"key": "part03.html#532",
+"es": "Alto"
+},
+{
+"key": "part03.html#533",
+"es": "Onírico, ebrio, recuerdo"
+},
+{
+"key": "part03.html#534",
+"es": "Muy alto"
+},
+{
+"key": "part03.html#535",
+"es": "Sueños, alucinación, distorsión"
+},
+{
+"key": "part03.html#536",
+"es": "<b>Fotos de referencia 3.8A</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part03.html#537",
+"es": "<b>a</b>Obturador a 360° — desenfoque largo"
+},
+{
+"key": "part03.html#538",
+"es": "<b>b</b>Obturador a 45° — nitidez entrecortada"
+},
+{
+"key": "part03.html#539",
+"es": "<b>c</b>Rodaje a alta velocidad — gotas congeladas"
+},
+{
+"key": "part03.html#540",
+"es": "<b>G-08</b> Velocidad de obturación y movimiento — obturador a 180° frente a obturador rápido"
+},
+{
+"key": "part03.html#541",
+"es": "<small>Ejercicio</small>3.8"
+},
+{
+"key": "part03.html#542",
+"es": "Tarea"
+},
+{
+"key": "part03.html#543",
+"es": "Rueda la misma acción a 24 fps (1/50), 60 fps (1/120) y 120 fps, y compara la cámara lenta y la textura del movimiento."
+},
+{
+"key": "part03.html#544",
+"es": "Consejo"
+},
+{
+"key": "part03.html#545",
+"es": "Como base, pon en el denominador del obturador el doble de la frecuencia de cuadro."
+},
+{
+"key": "part03.html#546",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#547",
+"es": "Comprensión del obturador a 180°; uso oportuno de la cámara lenta"
+},
+{
+"key": "part03.html#548",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#549",
+"es": "Usa la cámara lenta solo en el clímax emocional, para estirar el tiempo."
+},
+{
+"key": "part03.html#550",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#551",
+"es": "Temperatura de color y balance de blancos"
+},
+{
+"key": "part03.html#552",
+"es": "El papel blanco se registra blanco cuando el ajuste de la cámara coincide con la temperatura de color de la luz. Si un desajuste es un error o una elección debe quedar resuelto en preproducción."
+},
+{
+"key": "part03.html#553",
+"es": "La luz tiene color — léelo en kelvin (K)"
+},
+{
+"key": "part03.html#554",
+"es": "<span>Cálido — naranja · número más bajo</span><span>Frío — azul · número más alto</span>"
+},
+{
+"key": "part03.html#555",
+"es": "<b>1900 K</b><span>Vela</span>"
+},
+{
+"key": "part03.html#556",
+"es": "<b>3200 K</b><span>Tungsteno · incandescente</span>"
+},
+{
+"key": "part03.html#557",
+"es": "<b>4200 K</b><span>Fluorescente</span>"
+},
+{
+"key": "part03.html#558",
+"es": "<b>5600 K</b><span>Sol de mediodía · LED luz día</span>"
+},
+{
+"key": "part03.html#559",
+"es": "<b>6500 K</b><span>Nublado</span>"
+},
+{
+"key": "part03.html#560",
+"es": "<b>8000 K</b><span>Sombra · luz azul del cielo</span>"
+},
+{
+"key": "part03.html#561",
+"es": "<b>Fig. 36</b> Temperatura de color según la fuente — incluso la «luz blanca» cambia de color de una fuente a otra. Los números bajos son más rojos; los altos, más azules."
+},
+{
+"key": "part03.html#562",
+"es": "El blanco sale blanco solo cuando la cámara coincide con la luz"
+},
+{
+"key": "part03.html#563",
+"es": "<span></span><b>WB 3200 K</b><b>WB 5600 K</b><b>WB 7500 K</b>"
+},
+{
+"key": "part03.html#564",
+"es": "<b>Con tungsteno</b><span>Fuente de 3200 K</span>"
+},
+{
+"key": "part03.html#565",
+"es": "<em>Correcto</em><span>El blanco sigue blanco</span>"
+},
+{
+"key": "part03.html#566",
+"es": "<span>Se vuelve naranja</span>"
+},
+{
+"key": "part03.html#567",
+"es": "<span>Se vuelve más naranja</span>"
+},
+{
+"key": "part03.html#568",
+"es": "<b>Con luz día</b><span>Fuente de 5600 K</span>"
+},
+{
+"key": "part03.html#569",
+"es": "<span>Se vuelve azul</span>"
+},
+{
+"key": "part03.html#570",
+"es": "<em>Correcto</em><span>El blanco sigue blanco</span>"
+},
+{
+"key": "part03.html#571",
+"es": "<span>Se vuelve naranja</span>"
+},
+{
+"key": "part03.html#572",
+"es": "Pon el WB de la cámara <b>por debajo de la fuente y sale azul</b>; <b>por encima, y sale naranja</b>. Usa el desajuste a propósito: el azul del amanecer, la calidez de la noche. Pero dentro de una misma escena, mantén siempre un solo valor."
+},
+{
+"key": "part03.html#573",
+"es": "<b>Fig. 37</b> Balance de blancos — el papel blanco sale blanco solo cuando el ajuste de la cámara coincide con la temperatura de color de la fuente. La misma foto cambiando solo el valor de WB."
+},
+{
+"key": "part03.html#574",
+"es": "<b>Fotos de referencia 3.9A</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part03.html#575",
+"es": "<b>a</b>WB a 3200 K con luz día — azul"
+},
+{
+"key": "part03.html#576",
+"es": "<b>b</b>WB a 5600 K con luz día — normal"
+},
+{
+"key": "part03.html#577",
+"es": "<b>c</b>WB a 7500 K con luz día — amarillento"
+},
+{
+"key": "part03.html#578",
+"es": "Ajusta la cámara por debajo de la fuente y la imagen tira a azul; por encima, y tira a naranja. Dale la vuelta y puedes poner 3200 K con luz día para crear a propósito el ánimo frío del amanecer o de la noche."
+},
+{
+"key": "part03.html#579",
+"es": "Fuente de luz"
+},
+{
+"key": "part03.html#580",
+"es": "Temperatura de color"
+},
+{
+"key": "part03.html#581",
+"es": "Impresión en pantalla"
+},
+{
+"key": "part03.html#582",
+"es": "Vela"
+}
+]

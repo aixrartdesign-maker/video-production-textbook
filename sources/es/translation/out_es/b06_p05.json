@@ -1,0 +1,626 @@
+[
+{
+"key": "part05.html#0",
+"es": "PARTE"
+},
+{
+"key": "part05.html#1",
+"es": "<small>PARTE</small>05"
+},
+{
+"key": "part05.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part05.html#3",
+"es": "Una edición de 1 minuto recortada con cortes con propósito"
+},
+{
+"key": "part05.html#4",
+"es": "Una animación de logo de 5 segundos con easing"
+},
+{
+"key": "part05.html#5",
+"es": "Un máster de entrega con composición · etalonaje · especificaciones de salida"
+},
+{
+"key": "part05.html#6",
+"es": "Edición y posproducción"
+},
+{
+"key": "part05.html#7",
+"es": "El rodaje reúne material; la edición crea significado. Cambia el orden y la duración, y el mismo material se convierte en otro video. Esta PARTE va de la historia y los principios de la edición a un mapa de Premiere Pro, After Effects y DaVinci Resolve. La pregunta que abre este capítulo: ¿qué hace que la gente mire hasta el final?"
+},
+{
+"key": "part05.html#8",
+"es": "Foto P-05 Sala de edición de noche — línea de tiempo y monitor de etalonaje · imagen generada"
+},
+{
+"key": "part05.html#9",
+"es": "<b>P-05</b> Sala de edición de noche — línea de tiempo y monitor de etalonaje"
+},
+{
+"key": "part05.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part05.html#11",
+"es": "Corta con un motivo y aplica easing"
+},
+{
+"key": "part05.html#12",
+"es": "<b>Materiales</b>Programa de edición instalado, carpeta de material de práctica, 1 pista de música"
+},
+{
+"key": "part05.html#13",
+"es": "<b>10 min</b><i>Inicio</i><span>Proyectar ediciones con la música puesta primero vs. al final</span>"
+},
+{
+"key": "part05.html#14",
+"es": "<b>15 min</b><i>Concepto</i><span>8 principios de edición, cortes en acción y por correspondencia, funciones de Premiere vs. After Effects</span>"
+},
+{
+"key": "part05.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>Explicar el easing con la pelota que rebota y los diagramas de tiempos</span>"
+},
+{
+"key": "part05.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Mismo material, dos ediciones de 30 segundos</span>"
+},
+{
+"key": "part05.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Acordar los nombres de las carpetas del proyecto</span>"
+},
+{
+"key": "part05.html#18",
+"es": "<b>Punto de control</b>Puedes decir en una línea por qué hiciste cada corte"
+},
+{
+"key": "part05.html#19",
+"es": "PARTE 05"
+},
+{
+"key": "part05.html#20",
+"es": "Introducción"
+},
+{
+"key": "part05.html#21",
+"es": "El rodaje reúne material; la edición crea significado. Cambia el orden y la duración, y el mismo material da un video totalmente distinto. Kuleshov lo demostró hace 100 años, y funciona con más fuerza aún en la era del video corto, de planos cada vez más breves."
+},
+{
+"key": "part05.html#22",
+"es": "Esta parte arranca en la historia de la tecnología de edición y ordena de forma sistemática las funciones de Premiere Pro y After Effects. Las listas de funciones son un mapa, no algo que memorizar. Si sabes a qué zona de qué herramienta pertenece un problema, una búsqueda lo resuelve; sin mapa, vagas durante horas."
+},
+{
+"key": "part05.html#23",
+"es": "After Effects, en particular, piensa distinto de Premiere. Premiere maneja el tiempo en horizontal; After Effects maneja las capas en vertical. Intentar cortar en After Effects sin saberlo es el clásico error de principiante. Solo con repartir las funciones de las dos herramientas, tu tiempo de trabajo se reduce a la mitad."
+},
+{
+"key": "part05.html#24",
+"es": "Contexto 7"
+},
+{
+"key": "part05.html#25",
+"es": "La edición invisible"
+},
+{
+"key": "part05.html#26",
+"es": "La buena edición impide que el público note la edición. Un corte rebana el tiempo y el espacio, pero el público debe sentirlo como un flujo natural."
+},
+{
+"key": "part05.html#27",
+"es": "In the Blink of an Eye (1995), del editor Walter Murch, compara un parpadeo con un corte. Parpadeamos cuando cambia un pensamiento o se desplaza la mirada. Un buen corte cae, igualmente, donde termina un párrafo del pensamiento del espectador. Por eso el editor mira primero no la pantalla, sino hasta dónde ha llegado la mente del público."
+},
+{
+"key": "part05.html#28",
+"es": "Murch jerarquizó los criterios de un corte: emoción 51 %, historia 23 %, ritmo 10 %, recorrido de la mirada 7 %, plano bidimensional de la pantalla 5 %, continuidad espacial tridimensional 4 %. El orden importa más que las cifras: elige el corte con la emoción correcta aunque la continuidad falle un poco. Los trabajos de estudiantes suelen invertir este orden: se aferran al raccord de acción y pierden el flujo emocional."
+},
+{
+"key": "part05.html#29",
+"es": "Las técnicas de continuidad (corte en acción, raccord de mirada, regla de los 180°) evitan que el público se pierda en el espacio y el tiempo. La tradición del montaje de Eisenstein hizo lo contrario: exponer las costuras para crear choque y significado. El editor elige, caso por caso, entre ocultar las costuras o mostrarlas."
+},
+{
+"key": "part05.html#30",
+"es": "La edición es también un arte del tiempo. Los planos más cortos elevan la tensión; los más largos dan al público espacio para pensar. En los anuncios y el video corto los cortes se aceleran no solo para meter más información, sino para volver a captar una y otra vez la atención del espectador."
+},
+{
+"key": "part05.html#31",
+"es": "La edición digital no lineal hizo que todo pudiera deshacerse, pero no aporta criterio. Incluso mientras aprendes el software, acostúmbrate a preguntarte en cada corte: «¿Qué siente el público ahora?». Lecturas recomendadas: Walter Murch, In the Blink of an Eye; Ken Dancyger, The Technique of Film and Video Editing."
+},
+{
+"key": "part05.html#32",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#33",
+"es": "Historia de las herramientas de edición"
+},
+{
+"key": "part05.html#34",
+"es": "Las herramientas pasaron de las tijeras para película a la IA generativa; el esqueleto del trabajo apenas cambió."
+},
+{
+"key": "part05.html#35",
+"es": "<b>Fotos de referencia 5.1A</b>Imágenes generadas — la era del empalme"
+},
+{
+"key": "part05.html#36",
+"es": "<span class=\"ph-id\">P05-SPLICER</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Cuando la película se cortaba y se empalmaba</b>Manos de un editor en una empalmadora, tiras de película cortadas y cinta</span>"
+},
+{
+"key": "part05.html#37",
+"es": "<b>a</b>Empalmadora — una herramienta que corta físicamente la película y la une con cinta o cemento. Aún llamamos «corte» a la unidad de edición por este acto físico de cortar película con tijeras."
+},
+{
+"key": "part05.html#38",
+"es": "<span class=\"ph-id\">P05-FLATBED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Mesa de montaje horizontal</b>Mesa de edición horizontal con bobinas y una pequeña pantalla, sala de edición a oscuras</span>"
+},
+{
+"key": "part05.html#39",
+"es": "<b>b</b>Mesa de montaje horizontal — una mesa como la Steenbeck, donde la película se bobinaba adelante y atrás para hallar el punto de corte. Aquí se entrenaba el tacto para contar cuadros con la yema de los dedos."
+},
+{
+"key": "part05.html#40",
+"es": "<b>EDL</b>"
+},
+{
+"key": "part05.html#41",
+"es": "Lista de decisiones de edición. El documento de referencia para reconstruir en alta calidad, en la fase online, las decisiones de la edición offline."
+},
+{
+"key": "part05.html#42",
+"es": "Época"
+},
+{
+"key": "part05.html#43",
+"es": "Qué cambió"
+},
+{
+"key": "part05.html#44",
+"es": "Edición física: cortar y empalmar película a mano. Los editores bobinaban la película en la Moviola y la Steenbeck para hallar los puntos y contaban cuadros con la yema de los dedos."
+},
+{
+"key": "part05.html#45",
+"es": "Llega la cinta de video. La edición pasa al ensamblaje lineal, copiando entre dos magnetoscopios."
+},
+{
+"key": "part05.html#46",
+"es": "Se estandariza el código de tiempo y se introduce la EDL. Se asienta el método en 2 etapas: decidir en offline, reconstruir en alta calidad en online."
+},
+{
+"key": "part05.html#47",
+"es": "Los sistemas de edición no lineal se comercializan. Con el acceso aleatorio, editar pasa a ser un trabajo mental de reordenar material."
+},
+{
+"key": "part05.html#48",
+"es": "El software de edición de escritorio llega en oleadas. La computadora personal se vuelve sala de edición y el costo de entrada se desploma."
+},
+{
+"key": "part05.html#49",
+"es": "Transición a HD, más códecs. La edición con proxies se generaliza."
+},
+{
+"key": "part05.html#50",
+"es": "Colaboración en la nube, igualación automática de color, aceleración por GPU. Una herramienta profesional de etalonaje (color grading) pasa a ser gratuita y la corrección de color se vuelve una destreza común."
+},
+{
+"key": "part05.html#51",
+"es": "Apps de edición móvil, subtítulos automáticos, corte automático. La IA generativa se suma como asistente de edición; el primer montaje se está automatizando mientras las personas se centran en el criterio."
+},
+{
+"key": "part05.html#52",
+"es": "Hábitos heredados de la historia"
+},
+{
+"key": "part05.html#53",
+"es": "La vieja división entre offline y online pervive en la edición con proxies de hoy. Las EDL y el código de tiempo siguen siendo la base de la colaboración, y el tacto para los cuadros de la era de la Moviola aún distingue a un buen editor."
+},
+{
+"key": "part05.html#54",
+"es": "<small>Ejercicio</small>5.1"
+},
+{
+"key": "part05.html#55",
+"es": "Tarea"
+},
+{
+"key": "part05.html#56",
+"es": "Haz dos versiones de la misma escena: unida estrictamente en orden, como en la era de la Moviola, y editada de forma no lineal."
+},
+{
+"key": "part05.html#57",
+"es": "Consejo"
+},
+{
+"key": "part05.html#58",
+"es": "Pon una regla: sin deshacer en la versión en orden."
+},
+{
+"key": "part05.html#59",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#60",
+"es": "Cómo influye el método en la actitud de trabajo"
+},
+{
+"key": "part05.html#61",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#62",
+"es": "Registra el tiempo de trabajo y los resultados de ambos métodos."
+},
+{
+"key": "part05.html#63",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#64",
+"es": "Principios básicos de edición"
+},
+{
+"key": "part05.html#65",
+"es": "Corta no porque aburra, sino cuando el plano siguiente ofrece mejor información."
+},
+{
+"key": "part05.html#66",
+"es": "<span class=\"ph-id\">P05-NLE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Edición no lineal</b>Una sala de edición con dos monitores, una línea de tiempo con clips codificados por color y un monitor de referencia</span>"
+},
+{
+"key": "part05.html#67",
+"es": "<b>Nota</b>Edición no lineal — con acceso instantáneo a cualquier punto, editar pasó de «cortar» a «pensar eligiendo y ordenando»"
+},
+{
+"key": "part05.html#68",
+"es": "Lee la línea de tiempo en cuatro filas"
+},
+{
+"key": "part05.html#69",
+"es": "V2 Títulos"
+},
+{
+"key": "part05.html#70",
+"es": "V1 Video"
+},
+{
+"key": "part05.html#71",
+"es": "A1 Diálogo"
+},
+{
+"key": "part05.html#72",
+"es": "A2 Música · SFX"
+},
+{
+"key": "part05.html#73",
+"es": "Corte en L"
+},
+{
+"key": "part05.html#74",
+"es": "El sonido del plano anterior continúa"
+},
+{
+"key": "part05.html#75",
+"es": "Corte en J"
+},
+{
+"key": "part05.html#76",
+"es": "El sonido del plano siguiente entra antes"
+},
+{
+"key": "part05.html#77",
+"es": "Cabezal de reproducción"
+},
+{
+"key": "part05.html#78",
+"es": "Desfasa los cortes de imagen y de sonido y el corte fluye. Corta ambos en un mismo punto y «golpea»."
+},
+{
+"key": "part05.html#79",
+"es": "<b>Fig. 46</b> Estructura de una línea de tiempo de edición — las dos filas de arriba son «lo que ves»; las dos de abajo, «lo que oyes». Los cortes en J y en L sitúan el corte de sonido antes o después del de imagen."
+},
+{
+"key": "part05.html#80",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part05.html#81",
+"es": "Pon primero el sonido. Fija los tiempos de la música y el diálogo, coloca luego la imagen encima, y el acabado mejora."
+},
+{
+"key": "part05.html#82",
+"es": "<b>01</b><span>Corta solo con un motivo: cuando el plano siguiente da mejor información.</span>"
+},
+{
+"key": "part05.html#83",
+"es": "<b>02</b><span>Corta en plena acción. Si cortas cuando la acción termina, el ritmo decae.</span>"
+},
+{
+"key": "part05.html#84",
+"es": "<b>03</b><span>Pon primero el sonido. Fija los tiempos de la música y el diálogo, y luego añade la imagen.</span>"
+},
+{
+"key": "part05.html#85",
+"es": "<b>04</b><span>Cambia tamaño y ángulo a la vez. Si cambias solo uno, parece un salto.</span>"
+},
+{
+"key": "part05.html#86",
+"es": "<b>05</b><span>Mantén las miradas. Si un personaje que mira a la izquierda mira a la derecha en el plano siguiente, la relación se rompe.</span>"
+},
+{
+"key": "part05.html#87",
+"es": "<b>06</b><span>Descarta sin miedo. Si conservas un plano solo porque costó conseguirlo, el video se alarga.</span>"
+},
+{
+"key": "part05.html#88",
+"es": "<b>07</b><span>Fija primero el inicio y el final. Una vez decididos, el centro se ordena solo.</span>"
+},
+{
+"key": "part05.html#89",
+"es": "<b>08</b><span>Vuelve a verlo un día después de terminar. Aparecerá lo que sobraba y ese día no veías.</span>"
+},
+{
+"key": "part05.html#90",
+"es": "Conserva los planos que necesitas, no los buenos.<small>5.2 Principios básicos de edición</small>"
+},
+{
+"key": "part05.html#91",
+"es": "<small>Ejercicio</small>5.2"
+},
+{
+"key": "part05.html#92",
+"es": "Tarea"
+},
+{
+"key": "part05.html#93",
+"es": "Reduce 3 minutos de material a 1 minuto. Enumera lo que descartaste."
+},
+{
+"key": "part05.html#94",
+"es": "Consejo"
+},
+{
+"key": "part05.html#95",
+"es": "Conserva los planos que necesitas, no los buenos. Empieza cada plano en plena acción."
+},
+{
+"key": "part05.html#96",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#97",
+"es": "Claridad de la historia, puntos de corte naturales"
+},
+{
+"key": "part05.html#98",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#99",
+"es": "Prioridades de edición de Walter Murch (emoción, historia, ritmo). Una línea sobre por qué se descartó cada plano."
+},
+{
+"key": "part05.html#100",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#101",
+"es": "Comparación de software de edición"
+},
+{
+"key": "part05.html#102",
+"es": "Para conseguir empleo, conocer dos herramientas a fondo vale más que conocer tres por encima."
+},
+{
+"key": "part05.html#103",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part05.html#104",
+"es": "Revisa antes: las condiciones de uso comercial de CapCut, y que Final Cut es solo para Mac y limita la colaboración."
+},
+{
+"key": "part05.html#105",
+"es": "Herramienta"
+},
+{
+"key": "part05.html#106",
+"es": "Puntos fuertes"
+},
+{
+"key": "part05.html#107",
+"es": "Puntos débiles"
+},
+{
+"key": "part05.html#108",
+"es": "Ideal para"
+},
+{
+"key": "part05.html#109",
+"es": "Precio"
+},
+{
+"key": "part05.html#110",
+"es": "Premiere Pro"
+},
+{
+"key": "part05.html#111",
+"es": "Versatilidad, enlace con After Effects, estándar de contratación en Corea"
+},
+{
+"key": "part05.html#112",
+"es": "Estabilidad irregular, proyectos dañados"
+},
+{
+"key": "part05.html#113",
+"es": "Anuncios, video web, casi todo el trabajo profesional"
+},
+{
+"key": "part05.html#114",
+"es": "Suscripción"
+},
+{
+"key": "part05.html#115",
+"es": "Final Cut Pro"
+},
+{
+"key": "part05.html#116",
+"es": "Velocidad, estabilidad, línea de tiempo magnética"
+},
+{
+"key": "part05.html#117",
+"es": "Solo Mac, colaboración limitada"
+},
+{
+"key": "part05.html#118",
+"es": "Creadores en solitario, usuarios de Mac"
+},
+{
+"key": "part05.html#119",
+"es": "Pago único"
+},
+{
+"key": "part05.html#120",
+"es": "DaVinci Resolve"
+},
+{
+"key": "part05.html#121",
+"es": "Etalonaje de primer nivel, versión gratuita potente"
+},
+{
+"key": "part05.html#122",
+"es": "Curva de aprendizaje, exige equipo potente"
+},
+{
+"key": "part05.html#123",
+"es": "Trabajos centrados en color o sin presupuesto"
+},
+{
+"key": "part05.html#124",
+"es": "Gratis + edición de pago"
+},
+{
+"key": "part05.html#125",
+"es": "After Effects"
+},
+{
+"key": "part05.html#126",
+"es": "Composición, motion graphics, espacio 3D"
+},
+{
+"key": "part05.html#127",
+"es": "No apto para cortar"
+},
+{
+"key": "part05.html#128",
+"es": "Títulos, VFX, infografías"
+},
+{
+"key": "part05.html#129",
+"es": "Suscripción"
+},
+{
+"key": "part05.html#130",
+"es": "CapCut"
+},
+{
+"key": "part05.html#131",
+"es": "Subtítulos automáticos, plantillas, sincronía con el teléfono"
+},
+{
+"key": "part05.html#132",
+"es": "Revisa las condiciones de uso comercial"
+},
+{
+"key": "part05.html#133",
+"es": "Video corto, trabajos rápidos"
+},
+{
+"key": "part05.html#134",
+"es": "Gratis + de pago"
+},
+{
+"key": "part05.html#135",
+"es": "Vrew"
+},
+{
+"key": "part05.html#136",
+"es": "Subtítulos por voz a texto, elimina silencios"
+},
+{
+"key": "part05.html#137",
+"es": "Precisión limitada"
+},
+{
+"key": "part05.html#138",
+"es": "Clases, entrevistas, videos explicativos"
+},
+{
+"key": "part05.html#139",
+"es": "Gratis + de pago"
+},
+{
+"key": "part05.html#140",
+"es": "Avid Media Composer"
+},
+{
+"key": "part05.html#141",
+"es": "Equipos grandes, estándar en televisión"
+},
+{
+"key": "part05.html#142",
+"es": "Barrera de entrada alta"
+},
+{
+"key": "part05.html#143",
+"es": "Series de TV, cadenas de televisión"
+},
+{
+"key": "part05.html#144",
+"es": "Suscripción"
+},
+{
+"key": "part05.html#145",
+"es": "Qué aprender primero"
+},
+{
+"key": "part05.html#146",
+"es": "Las ofertas de empleo coreanas piden sobre todo Premiere Pro más After Effects. Añade DaVinci Resolve para profundizar en el color, o CapCut si produces mucho video corto."
+},
+{
+"key": "part05.html#147",
+"es": "<small>Ejercicio</small>5.3"
+},
+{
+"key": "part05.html#148",
+"es": "Tarea"
+},
+{
+"key": "part05.html#149",
+"es": "Haz la misma edición de 10 planos en dos programas de edición y compara los flujos de trabajo."
+},
+{
+"key": "part05.html#150",
+"es": "Consejo"
+},
+{
+"key": "part05.html#151",
+"es": "Centra la comparación en los atajos y la estructura del proyecto."
+},
+{
+"key": "part05.html#152",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#153",
+"es": "Puntos de comparación concretos, razones de tu elección"
+},
+{
+"key": "part05.html#154",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#155",
+"es": "Tabula las herramientas recomendadas según el uso (video corto, anuncios, largometrajes)."
+}
+]

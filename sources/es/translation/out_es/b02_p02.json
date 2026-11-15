@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#484",
+"es": "<b>Dolly de avance</b>"
+},
+{
+"key": "part02.html#485",
+"es": "Fondo"
+},
+{
+"key": "part02.html#486",
+"es": "<b>Dolly zoom</b>"
+},
+{
+"key": "part02.html#487",
+"es": "<b>Encuadre de referencia</b><span>Persona pequeña, fondo amplio</span>"
+},
+{
+"key": "part02.html#488",
+"es": "<b>Persona y fondo crecen a la vez</b><span>La perspectiva se aplana</span>"
+},
+{
+"key": "part02.html#489",
+"es": "<b>La persona crece, el fondo se mantiene</b><span>La profundidad cobra vida</span>"
+},
+{
+"key": "part02.html#490",
+"es": "<b>La persona se mantiene, el fondo se acerca</b><span>Vértigo — dolly zoom</span>"
+},
+{
+"key": "part02.html#491",
+"es": "<b>Fig. 21</b> Zoom frente a dolly — mismo tamaño, distinto espacio. Fila superior: posición de cámara y ángulo de visión vistos desde arriba; fila inferior: el encuadre resultante."
+},
+{
+"key": "part02.html#492",
+"es": "<b>G-05</b> Equipos y trayectorias de movimiento de cámara — dolly · grúa · gimbal · arco"
+},
+{
+"key": "part02.html#493",
+"es": "<b>Término</b>"
+},
+{
+"key": "part02.html#494",
+"es": "Dolly zoom: dolly y zoom en sentidos opuestos a la vez, de modo que la persona conserva su tamaño y solo el fondo se estira o se encoge. Desde Vértigo (1958), de Hitchcock, se conoce también como efecto Vértigo."
+},
+{
+"key": "part02.html#495",
+"es": "Dolly"
+},
+{
+"key": "part02.html#496",
+"es": "La cámara se desplaza físicamente"
+},
+{
+"key": "part02.html#497",
+"es": "El sujeto cercano cambia mucho; el fondo lejano, apenas"
+},
+{
+"key": "part02.html#498",
+"es": "La profundidad espacial cobra vida"
+},
+{
+"key": "part02.html#499",
+"es": "Zoom"
+},
+{
+"key": "part02.html#500",
+"es": "Solo cambia el ángulo de visión del objetivo"
+},
+{
+"key": "part02.html#501",
+"es": "Sujeto y fondo crecen por igual; la perspectiva se aplana"
+},
+{
+"key": "part02.html#502",
+"es": "Asomarse, no acercarse"
+},
+{
+"key": "part02.html#503",
+"es": "Movimiento"
+},
+{
+"key": "part02.html#504",
+"es": "Acción"
+},
+{
+"key": "part02.html#505",
+"es": "Significado"
+},
+{
+"key": "part02.html#506",
+"es": "Notación"
+},
+{
+"key": "part02.html#507",
+"es": "Panorámica"
+},
+{
+"key": "part02.html#508",
+"es": "Giro horizontal sobre un eje fijo"
+},
+{
+"key": "part02.html#509",
+"es": "Barrer el espacio, enlazar sujetos"
+},
+{
+"key": "part02.html#510",
+"es": "PAN L / PAN R"
+},
+{
+"key": "part02.html#511",
+"es": "Panorámica vertical"
+},
+{
+"key": "part02.html#512",
+"es": "Giro vertical sobre un eje fijo"
+},
+{
+"key": "part02.html#513",
+"es": "Resaltar la altura, presentar a un personaje"
+},
+{
+"key": "part02.html#514",
+"es": "TILT U / TILT D"
+},
+{
+"key": "part02.html#515",
+"es": "Dolly"
+},
+{
+"key": "part02.html#516",
+"es": "La propia cámara avanza o retrocede"
+},
+{
+"key": "part02.html#517",
+"es": "Inmersión o distanciamiento"
+},
+{
+"key": "part02.html#518",
+"es": "DOLLY IN / OUT"
+},
+{
+"key": "part02.html#519",
+"es": "Seguimiento"
+},
+{
+"key": "part02.html#520",
+"es": "Se mueve junto al sujeto"
+},
+{
+"key": "part02.html#521",
+"es": "Acompañar, perseguir"
+},
+{
+"key": "part02.html#522",
+"es": "TRACK L / R"
+},
+{
+"key": "part02.html#523",
+"es": "Zoom"
+},
+{
+"key": "part02.html#524",
+"es": "Cambia la distancia focal"
+},
+{
+"key": "part02.html#525",
+"es": "Énfasis artificial"
+},
+{
+"key": "part02.html#526",
+"es": "ZOOM I / O"
+},
+{
+"key": "part02.html#527",
+"es": "Arco"
+},
+{
+"key": "part02.html#528",
+"es": "Rodea al sujeto"
+},
+{
+"key": "part02.html#529",
+"es": "Muestra un producto en todo su volumen"
+},
+{
+"key": "part02.html#530",
+"es": "ARC L / R"
+},
+{
+"key": "part02.html#531",
+"es": "Grúa"
+},
+{
+"key": "part02.html#532",
+"es": "Gran movimiento vertical"
+},
+{
+"key": "part02.html#533",
+"es": "Mostrar la escala, cerrar"
+},
+{
+"key": "part02.html#534",
+"es": "CRANE U / D"
+},
+{
+"key": "part02.html#535",
+"es": "Cámara en mano"
+},
+{
+"key": "part02.html#536",
+"es": "Se lleva en la mano"
+},
+{
+"key": "part02.html#537",
+"es": "Tensión, realismo"
+},
+{
+"key": "part02.html#538",
+"es": "HH"
+},
+{
+"key": "part02.html#539",
+"es": "Steadicam"
+},
+{
+"key": "part02.html#540",
+"es": "Se mueve con estabilizador"
+},
+{
+"key": "part02.html#541",
+"es": "Acompañar deslizándose"
+},
+{
+"key": "part02.html#542",
+"es": "STEADI"
+},
+{
+"key": "part02.html#543",
+"es": "Cámara fija"
+},
+{
+"key": "part02.html#544",
+"es": "Totalmente inmóvil"
+},
+{
+"key": "part02.html#545",
+"es": "Base para composición, observación"
+},
+{
+"key": "part02.html#546",
+"es": "LOCKED"
+},
+{
+"key": "part02.html#547",
+"es": "Elegir el movimiento según la emoción"
+},
+{
+"key": "part02.html#548",
+"es": "Emoción"
+},
+{
+"key": "part02.html#549",
+"es": "Movimiento sugerido"
+},
+{
+"key": "part02.html#550",
+"es": "Velocidad"
+},
+{
+"key": "part02.html#551",
+"es": "Objetivo"
+},
+{
+"key": "part02.html#552",
+"es": "Nota"
+},
+{
+"key": "part02.html#553",
+"es": "Ilusión, expectación"
+},
+{
+"key": "part02.html#554",
+"es": "Dolly de avance lento"
+},
+{
+"key": "part02.html#555",
+"es": "Muy lenta"
+},
+{
+"key": "part02.html#556",
+"es": "50–85 mm"
+},
+{
+"key": "part02.html#557",
+"es": "Mantén 0,5 s al final"
+},
+{
+"key": "part02.html#558",
+"es": "Inquietud, tensión"
+},
+{
+"key": "part02.html#559",
+"es": "Cámara en mano sutil"
+},
+{
+"key": "part02.html#560",
+"es": "Irregular"
+},
+{
+"key": "part02.html#561",
+"es": "35 mm"
+},
+{
+"key": "part02.html#562",
+"es": "En exceso, marea"
+},
+{
+"key": "part02.html#563",
+"es": "Confianza, dignidad"
+},
+{
+"key": "part02.html#564",
+"es": "Contrapicado fijo o arco"
+},
+{
+"key": "part02.html#565",
+"es": "Constante"
+},
+{
+"key": "part02.html#566",
+"es": "24–35 mm"
+},
+{
+"key": "part02.html#567",
+"es": "Debe estar nivelado"
+},
+{
+"key": "part02.html#568",
+"es": "Liberación"
+},
+{
+"key": "part02.html#569",
+"es": "Grúa ascendente o dron en ascenso"
+},
+{
+"key": "part02.html#570",
+"es": "Aceleración gradual"
+},
+{
+"key": "part02.html#571",
+"es": "Angular"
+},
+{
+"key": "part02.html#572",
+"es": "Colócalo en el último plano"
+},
+{
+"key": "part02.html#573",
+"es": "Concentración, decisión"
+},
+{
+"key": "part02.html#574",
+"es": "Dolly de avance rápido, zoom brusco"
+},
+{
+"key": "part02.html#575",
+"es": "Rápida"
+},
+{
+"key": "part02.html#576",
+"es": "85 mm o más"
+},
+{
+"key": "part02.html#577",
+"es": "Solo 1 por pieza"
+},
+{
+"key": "part02.html#578",
+"es": "Cotidianidad, empatía"
+},
+{
+"key": "part02.html#579",
+"es": "Cámara fija o panorámica lenta"
+},
+{
+"key": "part02.html#580",
+"es": "Muy lenta"
+},
+{
+"key": "part02.html#581",
+"es": "35–50 mm"
+},
+{
+"key": "part02.html#582",
+"es": "La quietud también vale"
+},
+{
+"key": "part02.html#583",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part02.html#584",
+"es": "Por norma, los planos previstos para composición son fijos o usan solo movimientos rectos y simples, para facilitar el rastreo de movimiento."
+},
+{
+"key": "part02.html#585",
+"es": "Usa un solo movimiento por plano. Si haces panorámica, zoom y desplazamiento a la vez, la mirada del público se pierde."
+},
+{
+"key": "part02.html#586",
+"es": "<small>Ejercicio</small>1.9"
+},
+{
+"key": "part02.html#587",
+"es": "Tarea"
+},
+{
+"key": "part02.html#588",
+"es": "Rueda 5 segundos de cada movimiento (panorámica, panorámica vertical, dolly, seguimiento, arco y zoom) y anota el efecto emocional de cada uno."
+},
+{
+"key": "part02.html#589",
+"es": "Consejo"
+},
+{
+"key": "part02.html#590",
+"es": "Mantén la cámara quieta 1 segundo al principio y al final del movimiento; facilita la edición."
+},
+{
+"key": "part02.html#591",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#592",
+"es": "Estabilidad del movimiento, motivación (por qué se mueve)"
+},
+{
+"key": "part02.html#593",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#594",
+"es": "El dolly zoom de Vértigo, de Hitchcock. Motiva cada movimiento con un cambio en la emoción del personaje."
+},
+{
+"key": "part02.html#595",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#596",
+"es": "Tipos de corte y transiciones"
+},
+{
+"key": "part02.html#597",
+"es": "El trabajo de un editor profesional son, sobre todo, cortes directos. El pulido viene del orden de los planos, no del número de efectos."
+},
+{
+"key": "part02.html#598",
+"es": "Tres maneras de unir planos"
+},
+{
+"key": "part02.html#599",
+"es": "<b>Corte en movimiento</b><span>Corta en mitad de un movimiento</span>"
+},
+{
+"key": "part02.html#600",
+"es": "Misma posición · mismo tamaño"
+},
+{
+"key": "part02.html#601",
+"es": "<b>Corte por analogía</b><span>Una forma parecida une tiempo y espacio</span>"
+},
+{
+"key": "part02.html#602",
+"es": "<b>Corte con salto</b><span>Salta el tiempo dentro del mismo encuadre</span>"
+},
+{
+"key": "part02.html#603",
+"es": "<b>Fig. 22</b> Tres maneras de unir planos. La línea vertical roja marca el punto de corte."
+},
+{
+"key": "part02.html#604",
+"es": "Maneras de unir planos"
+},
+{
+"key": "part02.html#605",
+"es": "<small>Por defecto</small>Corte en movimiento"
+},
+{
+"key": "part02.html#606",
+"es": "Corta en pleno movimiento"
+},
+{
+"key": "part02.html#607",
+"es": "Abrir una puerta, sentarse, levantar un objeto — el más fluido"
+},
+{
+"key": "part02.html#608",
+"es": "<small>Memoria</small>Corte por analogía"
+},
+{
+"key": "part02.html#609",
+"es": "Une dos encuadres de forma · color · movimiento parecidos"
+},
+{
+"key": "part02.html#610",
+"es": "Un salto potente en el tiempo y el espacio"
+},
+{
+"key": "part02.html#611",
+"es": "<small>Velocidad</small>Corte con salto"
+},
+{
+"key": "part02.html#612",
+"es": "Salta el tiempo dentro del mismo encuadre"
+},
+{
+"key": "part02.html#613",
+"es": "La gramática básica del video corto"
+},
+{
+"key": "part02.html#614",
+"es": "<small>Sonido</small>Corte en J / corte en L"
+},
+{
+"key": "part02.html#615",
+"es": "El sonido entra antes: J; el sonido anterior se prolonga: L"
+},
+{
+"key": "part02.html#616",
+"es": "Conecta las escenas"
+},
+{
+"key": "part02.html#617",
+"es": "<small>Contraste</small>Montaje alterno"
+},
+{
+"key": "part02.html#618",
+"es": "Alterna dos hechos en lugares distintos"
+},
+{
+"key": "part02.html#619",
+"es": "Tensión y contraste; anuncios comparativos"
+},
+{
+"key": "part02.html#620",
+"es": "<small>Plano secuencia</small>Corte invisible"
+},
+{
+"key": "part02.html#621",
+"es": "Corta cuando algo tapa el encuadre o en pleno barrido"
+},
+{
+"key": "part02.html#622",
+"es": "Se completa con composición en posproducción"
+},
+{
+"key": "part02.html#623",
+"es": "<small>Mirada</small>Corte de mirada"
+},
+{
+"key": "part02.html#624",
+"es": "Una mirada y, después, lo que se ve"
+},
+{
+"key": "part02.html#625",
+"es": "La unión más antigua; la base del raccord de mirada"
+},
+{
+"key": "part02.html#626",
+"es": "Efectos de transición"
+},
+{
+"key": "part02.html#627",
+"es": "Transición"
+},
+{
+"key": "part02.html#628",
+"es": "Notación"
+},
+{
+"key": "part02.html#629",
+"es": "Sensación"
+},
+{
+"key": "part02.html#630",
+"es": "Buen uso"
+},
+{
+"key": "part02.html#631",
+"es": "Mal uso frecuente"
+},
+{
+"key": "part02.html#632",
+"es": "Corte directo"
+},
+{
+"key": "part02.html#633",
+"es": "CUT TO"
+}
+]

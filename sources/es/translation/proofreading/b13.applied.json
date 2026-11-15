@@ -1,0 +1,8 @@
+[
+{"key": "part12.html#221", "find": "Arreglo en pos", "replace": "Arreglo en posproducción", "why": "other: 'pos' alone is not a standard abbreviation"},
+{"key": "part12.html#227", "find": "el mejor trato que harás", "replace": "el mejor negocio que harás", "why": "other: calque of 'best deal'"},
+{"key": "part12.html#464", "find": "temen que la IA reduzca", "replace": "temen que «la IA reduzca", "why": "typography: opening quote as in source"},
+{"key": "part12.html#465", "find": "de crecer (FKI)", "replace": "de crecer» (FKI)", "why": "typography: closing quote as in source"},
+{"key": "part12.html#662", "find": "Cuanto más fácil hacen las imágenes las herramientas generativas", "replace": "Cuanto más fácilmente generan imágenes las herramientas generativas", "why": "other: unnatural, ambiguous phrasing"},
+{"key": "part12.html#806", "find": "Curvas de fotogramas clave, horas", "replace": "Curvas de fotogramas clave, horas invertidas", "why": "meaning: 'hours spent' lost"}
+]

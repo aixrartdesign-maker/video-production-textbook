@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#357",
+"es": "<b>04</b><span>Comparte el acta <b>el mismo día</b>. Al día siguiente, los recuerdos ya no coinciden.</span>"
+},
+{
+"key": "feature_ppm.html#358",
+"es": "<b>05</b><span>Solo hay una condición de salida: <b>cada asistente debe poder decir qué hará el día de rodaje</b>.</span>"
+},
+{
+"key": "feature_ppm.html#359",
+"es": "<b>06</b><span>Después de la PPM, acepta cambios solo mediante una <b>solicitud de cambio</b>. Indica el impacto en costo · calendario y la firma quien aprueba.</span>"
+},
+{
+"key": "feature_ppm.html#360",
+"es": "<small>Ejercicio</small>2.2"
+},
+{
+"key": "feature_ppm.html#361",
+"es": "Tarea"
+},
+{
+"key": "feature_ppm.html#362",
+"es": "Prepara un dossier de PPM simulado (doce páginas), reparte entre los equipos los papeles de anunciante · productora y celebra la reunión."
+},
+{
+"key": "feature_ppm.html#363",
+"es": "Consejo"
+},
+{
+"key": "feature_ppm.html#364",
+"es": "Incluye todo esto: tablero de tono y estilo, ficha de locación, ficha de casting, mapa de vestuario · puesta en escena, plan de rodaje, orden de rodaje, tablas de presupuesto · riesgos. No olvides la viñeta de antirreferencia."
+},
+{
+"key": "feature_ppm.html#365",
+"es": "Evaluación"
+},
+{
+"key": "feature_ppm.html#366",
+"es": "Acuerdos registrados, preguntas atendidas, responsable · plazo indicados en los puntos en espera"
+},
+{
+"key": "feature_ppm.html#367",
+"es": "Respuesta modelo"
+},
+{
+"key": "feature_ppm.html#368",
+"es": "Comparte el acta y la lista de decisiones en la hora siguiente al final de la reunión."
+},
+{
+"key": "feature_ppm.html#369",
+"es": "<small>Ejercicio</small>2.2"
+},
+{
+"key": "feature_ppm.html#370",
+"es": "Tarea"
+},
+{
+"key": "feature_ppm.html#371",
+"es": "Redacta un plan de rodaje de dos días, un horario de rodaje de un día (bloques de 15 minutos), una orden de rodaje y una hoja de presupuesto."
+},
+{
+"key": "feature_ppm.html#372",
+"es": "Consejo"
+},
+{
+"key": "feature_ppm.html#373",
+"es": "Agrupa por locación → luz → actor. No subestimes el tiempo de traslados y montaje. Guarda un 10 % de imprevistos y un día de reserva."
+},
+{
+"key": "feature_ppm.html#374",
+"es": "Evaluación"
+},
+{
+"key": "feature_ppm.html#375",
+"es": "Plan realista, ninguna partida olvidada, alternativas concretas ante los riesgos"
+},
+{
+"key": "feature_ppm.html#376",
+"es": "Respuesta modelo"
+},
+{
+"key": "feature_ppm.html#377",
+"es": "Tras el rodaje real, dibuja las barras reales junto a las previstas, anota la diferencia y la incorpora al siguiente plan."
+},
+{
+"key": "part06.html#0",
+"es": "PARTE"
+},
+{
+"key": "part06.html#1",
+"es": "<small>PARTE</small>06"
+},
+{
+"key": "part06.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part06.html#3",
+"es": "Un concepto en una frase"
+},
+{
+"key": "part06.html#4",
+"es": "Un storyboard de 6 planos y su animática"
+},
+{
+"key": "part06.html#5",
+"es": "Un documento de PPM de 12 apartados"
+},
+{
+"key": "part06.html#6",
+"es": "Planificación y preproducción"
+},
+{
+"key": "part06.html#7",
+"es": "Si en el set todavía estás decidiendo, ya llegas tarde. Los sets profesionales son silenciosos porque las decisiones ya están tomadas sobre el papel. Esta PARTE arranca de la pregunta «¿qué le parecerá divertido a la gente?» y sigue el camino que va del concepto en una frase al storyboard y la PPM."
+},
+{
+"key": "part06.html#8",
+"es": "Foto P-06 Storyboard y lista de planos sobre la mesa de una reunión de producción · imagen generativa"
+},
+{
+"key": "part06.html#9",
+"es": "<b>P-06</b> Storyboard y lista de planos sobre la mesa de una reunión de producción"
+},
+{
+"key": "part06.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part06.html#11",
+"es": "Del concepto en una frase al storyboard"
+},
+{
+"key": "part06.html#12",
+"es": "<b>Materiales</b>Hojas de trabajo 1 · 2 · 3 impresas, bolígrafos, temporizador"
+},
+{
+"key": "part06.html#13",
+"es": "<b>10 min</b><i>Apertura</i><span>Compartir dónde falló un rodaje sin plan</span>"
+},
+{
+"key": "part06.html#14",
+"es": "<b>15 min</b><i>Conceptos</i><span>Leer el brief, 6 tipos de concepto, el costo del cambio</span>"
+},
+{
+"key": "part06.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>Explicar la disposición de viñetas y la notación del storyboard</span>"
+},
+{
+"key": "part06.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Obtener un concepto con los 6 sombreros para pensar en versión breve</span>"
+},
+{
+"key": "part06.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Encargar un storyboard terminado de 6 planos para la próxima sesión</span>"
+},
+{
+"key": "part06.html#18",
+"es": "<b>Punto de control</b>¿Se puede demostrar en pantalla el concepto en una frase?"
+},
+{
+"key": "part06.html#19",
+"es": "PARTE 06"
+},
+{
+"key": "part06.html#20",
+"es": "Introducción"
+},
+{
+"key": "part06.html#21",
+"es": "Si en el set todavía estás decidiendo, ya llegas tarde. Un set quema cientos de miles de wones por hora, y diez personas esperan la decisión de una sola. Por eso los sets profesionales son silenciosos: las decisiones ya están tomadas sobre el papel."
+},
+{
+"key": "part06.html#22",
+"es": "Los documentos de planificación no son papeleo: son la promesa de que nadie tendrá que volver a preguntar en el set. Un storyboard es un dispositivo que hace que diez personas imaginen el mismo encuadre, y la PPM es el procedimiento que cierra todas las decisiones en el último momento en que cambiar aún es barato. También en los proyectos estudiantiles, las diferencias de comprensión entre los miembros del equipo deben aflorar antes del día de rodaje, no durante."
+},
+{
+"key": "part06.html#23",
+"es": "Lo que más quiero subrayar es el concepto en una frase: este anuncio hace que quién sienta qué, y de qué manera. Si esa frase no sale, no dibujes el storyboard. Un plan que empieza por las imágenes siempre se derrumba a mitad de camino. Cuando la frase queda fijada, todo se deriva de ella: qué planos descartar, qué música elegir, cuántos subtítulos usar."
+},
+{
+"key": "part06.html#24",
+"es": "Contexto 9"
+},
+{
+"key": "part06.html#25",
+"es": "Arquetipos del relato — de la Poética al viaje del héroe"
+},
+{
+"key": "part06.html#26",
+"es": "Del anuncio de 15 segundos a la película de 90 minutos, las historias que atrapan comparten estructuras recurrentes. En la Poética, Aristóteles señaló la trama, la disposición de los hechos, como el elemento más importante de la tragedia. Una historia debe ser una acción completa, con principio, medio y fin, y sus hechos deben enlazarse por necesidad o verosimilitud. La «peripecia», en la que la suerte del personaje da un vuelco, y la «anagnórisis», en la que sale a la luz una verdad desconocida, son lo que más conmueve al público. Los anuncios de hoy con giro final siguen el mismo principio."
+},
+{
+"key": "part06.html#27",
+"es": "En 1863, el escritor alemán del siglo XIX Gustav Freytag ordenó la estructura dramática en cinco etapas: exposición, acción ascendente, clímax, acción descendente y catástrofe. La «pirámide de Freytag» describe la historia como una curva de tensión que sube y baja. En Asia oriental, el gi-seung-jeon-gyeol, la forma en cuatro partes nacida del cuarteto clásico chino, ha cumplido un papel parecido. Como la dirección cambia en la tercera parte, el «giro», se adapta especialmente bien a los videos cortos."
+},
+{
+"key": "part06.html#28",
+"es": "En el siglo XX, el mitólogo Joseph Campbell sostuvo en El héroe de las mil caras (1949) que los mitos de todo el mundo siguen un viaje parecido: un héroe abandona el mundo cotidiano, supera pruebas y regresa transformado. Christopher Vogler lo reelaboró como método de escritura de guiones en El viaje del escritor, y Syd Field popularizó la estructura en 3 actos y los puntos de giro en Screenplay (1979)."
+},
+{
+"key": "part06.html#29",
+"es": "Si usas estas estructuras como fórmulas, la historia se vuelve previsible. Pero si entiendes por qué funcionan, podrás usarlas de otro modo. El público entra en una historia cuando sabe qué quiere el personaje, se tensa cuando ese deseo encuentra un obstáculo y se conmueve cuando el personaje toma una decisión. Deja claras tres cosas (deseo, obstáculo, elección) y la historia vive, sea en cuatro partes o en 3 actos."
+},
+{
+"key": "part06.html#30",
+"es": "Lo mismo vale para las películas de marca. El público acepta una historia cuando el protagonista es una persona, no el producto, y el producto es el ayudante que le hace superar el obstáculo. La planificación de esta PARTE se reduce a decidir el deseo de quién, y qué deseo, poner ante qué obstáculo."
+},
+{
+"key": "part06.html#31",
+"es": "Para leer más: Aristóteles, Poética · Joseph Campbell, El héroe de las mil caras · Robert McKee, El guion"
+},
+{
+"key": "part06.html#32",
+"es": "<b>PARTE 06</b>Planificación y preproducción"
+},
+{
+"key": "part06.html#33",
+"es": "Mapa de todo el proceso de producción"
+},
+{
+"key": "part06.html#34",
+"es": "Los profesionales dedican la mitad del tiempo a preparar. El costo de una mala preparación crece de forma exponencial."
+},
+{
+"key": "part06.html#35",
+"es": "<b>Fig. 56</b> Mapa de todo el proceso de producción de video"
+},
+{
+"key": "part06.html#36",
+"es": "<b>01</b><i>Preproducción</i>Brief › investigación › concepto › sinopsis › propuesta › bocetos › storyboard › PPM › locaciones"
+},
+{
+"key": "part06.html#37",
+"es": "<b>02</b><i>Producción</i>Rodaje"
+},
+{
+"key": "part06.html#38",
+"es": "<b>03</b><i>Posproducción</i>Primer montaje › composición › color › sonido › entrega"
+},
+{
+"key": "part06.html#39",
+"es": "<b>50<em>%</em></b>Preproducción — propuesta, storyboard, documento de PPM"
+},
+{
+"key": "part06.html#40",
+"es": "<b>20<em>%</em></b>Producción — originales de cámara, registros de set"
+},
+{
+"key": "part06.html#41",
+"es": "<b>30<em>%</em></b>Posproducción — máster final, exportaciones por versión"
+},
+{
+"key": "part06.html#42",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part06.html#43",
+"es": "Cada etapa tiene su fallo más común: entrar al rodaje con el concepto sin cerrar, rodar muy poca cobertura y querer arreglar en posproducción lo que no se hizo en el set."
+},
+{
+"key": "part06.html#44",
+"es": "Qué significa el 50 por ciento — el costo del cambio"
+},
+{
+"key": "part06.html#45",
+"es": "Si un cambio cuesta 1 en la etapa de concepto, cuesta 3 veces más en la de storyboard, 5 veces en la PPM, 20 veces el día de rodaje y más de 50 veces en posproducción. Los proyectos estudiantiles no son la excepción."
+},
+{
+"key": "part06.html#46",
+"es": "<small>Ejercicio</small>2.3"
+},
+{
+"key": "part06.html#47",
+"es": "Tarea"
+},
+{
+"key": "part06.html#48",
+"es": "Dibuja como calendario el proceso de producción de un anuncio hipotético de 30 segundos, de la planificación a la entrega."
+},
+{
+"key": "part06.html#49",
+"es": "Consejo"
+},
+{
+"key": "part06.html#50",
+"es": "Anota el entregable de cada etapa (propuesta, storyboard, material grabado, edición)."
+},
+{
+"key": "part06.html#51",
+"es": "Evaluación"
+},
+{
+"key": "part06.html#52",
+"es": "Etapas omitidas, realismo del calendario"
+},
+{
+"key": "part06.html#53",
+"es": "Respuesta modelo"
+},
+{
+"key": "part06.html#54",
+"es": "Indica quién aprueba y cuántas rondas de comentarios hay en cada etapa."
+},
+{
+"key": "part06.html#55",
+"es": "<b>PARTE 06</b>Planificación y preproducción"
+},
+{
+"key": "part06.html#56",
+"es": "Leer el brief y la intención del proyecto"
+},
+{
+"key": "part06.html#57",
+"es": "La clave para leer un brief es distinguir lo que se pidió de lo que de verdad se necesita."
+},
+{
+"key": "part06.html#58",
+"es": "<span class=\"ph-id\">P06-BRIEF</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Cómo leer un brief — donde se detiene el resaltador empieza el concepto</b></span>"
+},
+{
+"key": "part06.html#59",
+"es": "<b>Nota</b>Cómo leer un brief — donde se detiene el resaltador empieza el concepto"
+},
+{
+"key": "part06.html#60",
+"es": "<b>Brief</b>"
+},
+{
+"key": "part06.html#61",
+"es": "El encargo de un cliente, las bases de un concurso y las condiciones de un trabajo de clase son todos briefs."
+},
+{
+"key": "part06.html#62",
+"es": "Todo video nace de la necesidad de alguien. Cada punto de un brief tiene sus preguntas que hacer y sus cosas que dejar fijadas."
+},
+{
+"key": "part06.html#63",
+"es": "Punto del brief"
+},
+{
+"key": "part06.html#64",
+"es": "Qué preguntar"
+},
+{
+"key": "part06.html#65",
+"es": "Qué fijar"
+},
+{
+"key": "part06.html#66",
+"es": "Objetivo"
+},
+{
+"key": "part06.html#67",
+"es": "Reconocimiento, conversión o marca"
+},
+{
+"key": "part06.html#68",
+"es": "Una métrica"
+},
+{
+"key": "part06.html#69",
+"es": "Público"
+},
+{
+"key": "part06.html#70",
+"es": "Si comprador y usuario son el mismo"
+},
+{
+"key": "part06.html#71",
+"es": "El perfil concreto de una persona"
+},
+{
+"key": "part06.html#72",
+"es": "Mensaje clave"
+},
+{
+"key": "part06.html#73",
+"es": "Varios o solo uno"
+},
+{
+"key": "part06.html#74",
+"es": "Una frase, máx. 15 sílabas"
+},
+{
+"key": "part06.html#75",
+"es": "Diferenciador"
+},
+{
+"key": "part06.html#76",
+"es": "Algo que la competencia no pueda afirmar"
+},
+{
+"key": "part06.html#77",
+"es": "Una forma demostrable en imagen"
+},
+{
+"key": "part06.html#78",
+"es": "Medios"
+},
+{
+"key": "part06.html#79",
+"es": "Dónde se emite, y cuánto"
+},
+{
+"key": "part06.html#80",
+"es": "Especificaciones, duración, con o sin sonido"
+},
+{
+"key": "part06.html#81",
+"es": "Restricciones"
+},
+{
+"key": "part06.html#82",
+"es": "Límites legales de redacción"
+},
+{
+"key": "part06.html#83",
+"es": "Lista de palabras y afirmaciones prohibidas"
+},
+{
+"key": "part06.html#84",
+"es": "Presupuesto y calendario"
+},
+{
+"key": "part06.html#85",
+"es": "Cuántos días de rodaje"
+},
+{
+"key": "part06.html#86",
+"es": "Sesiones de rodaje y plazo de posproducción"
+},
+{
+"key": "part06.html#87",
+"es": "Referencias"
+},
+{
+"key": "part06.html#88",
+"es": "Lo que le gusta al cliente"
+},
+{
+"key": "part06.html#89",
+"es": "3 videos de tono y estilo acordados"
+},
+{
+"key": "part06.html#90",
+"es": "El resultado final de leer un brief es una sola frase"
+},
+{
+"key": "part06.html#91",
+"es": "Este anuncio hace que [quién] sienta [qué] [de qué manera]. Si no puedes escribir esta frase, no dibujes el storyboard."
+},
+{
+"key": "part06.html#92",
+"es": "Un plan que empieza por las imágenes siempre se derrumba a mitad de camino.<small>2.4 Leer el brief y la intención del proyecto</small>"
+},
+{
+"key": "part06.html#93",
+"es": "<small>Ejercicio</small>2.4"
+},
+{
+"key": "part06.html#94",
+"es": "Tarea"
+},
+{
+"key": "part06.html#95",
+"es": "Elige el brief de un concurso real y resume en una página su tarea central, público objetivo, mensaje y restricciones."
+},
+{
+"key": "part06.html#96",
+"es": "Consejo"
+},
+{
+"key": "part06.html#97",
+"es": "No copies la redacción del brief; reescríbela como una «tarea en una frase»."
+},
+{
+"key": "part06.html#98",
+"es": "Evaluación"
+},
+{
+"key": "part06.html#99",
+"es": "Claridad en la definición del problema"
+},
+{
+"key": "part06.html#100",
+"es": "Respuesta modelo"
+},
+{
+"key": "part06.html#101",
+"es": "Descubre tareas ocultas que el brief no menciona."
+},
+{
+"key": "part06.html#102",
+"es": "<b>PARTE 06</b>Planificación y preproducción"
+},
+{
+"key": "part06.html#103",
+"es": "Generar ideas: los 6 sombreros para pensar"
+},
+{
+"key": "part06.html#104",
+"es": "Todos se ponen el sombrero del mismo color y piensan en la misma dirección; luego pasan al siguiente."
+},
+{
+"key": "part06.html#105",
+"es": "<span class=\"ph-id\">P06-BRAINSTORM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Las ideas nacen en la pared — los Post-it sirven porque se tiran sin pena</b></span>"
+},
+{
+"key": "part06.html#106",
+"es": "<b>Nota</b>Las ideas nacen en la pared — los Post-it sirven porque se tiran sin pena"
+},
+{
+"key": "part06.html#107",
+"es": "<b>6 sombreros para pensar</b>"
+},
+{
+"key": "part06.html#108",
+"es": "Técnica de pensamiento propuesta por Edward de Bono. Evita la confusión de que una persona maneje varias perspectivas a la vez."
+},
+{
+"key": "part06.html#109",
+"es": "<small>Sombrero blanco</small>Hechos y datos"
+},
+{
+"key": "part06.html#110",
+"es": "¿Tiempo real de visionado del público?"
+},
+{
+"key": "part06.html#111",
+"es": "¿Visualizaciones de la competencia? ¿Presupuesto?"
+},
+{
+"key": "part06.html#112",
+"es": "<small>Sombrero rojo</small>Sentimientos e intuición"
+},
+{
+"key": "part06.html#113",
+"es": "¿Qué te hace sentir esta idea?"
+},
+{
+"key": "part06.html#114",
+"es": "¿Emocionante o aburrida?"
+},
+{
+"key": "part06.html#115",
+"es": "<small>Sombrero negro</small>Riesgos y crítica"
+},
+{
+"key": "part06.html#116",
+"es": "¿Qué puede salir mal?"
+},
+{
+"key": "part06.html#117",
+"es": "¿Escenas imposibles de rodar?"
+},
+{
+"key": "part06.html#118",
+"es": "<small>Sombrero amarillo</small>Valor y optimismo"
+},
+{
+"key": "part06.html#119",
+"es": "¿La mayor fortaleza?"
+},
+{
+"key": "part06.html#120",
+"es": "Si triunfa, ¿por qué?"
+},
+{
+"key": "part06.html#121",
+"es": "<small>Sombrero verde</small>Creatividad y alternativas"
+},
+{
+"key": "part06.html#122",
+"es": "¿Otra forma de hacerlo?"
+},
+{
+"key": "part06.html#123",
+"es": "¿Y si le damos la vuelta?"
+},
+{
+"key": "part06.html#124",
+"es": "<small>Sombrero azul</small>Control del proceso"
+},
+{
+"key": "part06.html#125",
+"es": "¿Dónde estamos ahora?"
+},
+{
+"key": "part06.html#126",
+"es": "¿Qué tenemos que decidir?"
+},
+{
+"key": "part06.html#127",
+"es": "Orden del día de ejemplo (60 min)"
+},
+{
+"key": "part06.html#128",
+"es": "<b>01</b><span>Sombrero azul 5 min — expón qué hay que decidir hoy.</span>"
+}
+]

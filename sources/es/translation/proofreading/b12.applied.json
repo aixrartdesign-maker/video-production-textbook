@@ -1,0 +1,6 @@
+[
+{"key": "part11.html#592", "find": "Pasa la escena", "replace": "Pasar la escena", "why": "other: infinitive like the rest of the Fix column"},
+{"key": "part11.html#595", "find": "Deja uno, quita el resto", "replace": "Dejar uno, quitar el resto", "why": "other: infinitive like the rest of the Fix column"},
+{"key": "part11.html#688", "find": "Interviene al menos", "replace": "Intervén al menos", "why": "grammar: imperative of intervenir (tú)"},
+{"key": "part12.html#143", "find": "redujo o frenó", "replace": "redujo o suspendió", "why": "meaning: stopped, not slowed"}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part06.html#584",
+"es": "2.1 Storyboard"
+},
+{
+"key": "part06.html#585",
+"es": "No es destreza de dibujo, sino un recurso para que diez personas imaginen el mismo cuadro. En video corto, llévalo hasta la animática."
+},
+{
+"key": "part06.html#586",
+"es": "2.2 PPM"
+},
+{
+"key": "part06.html#587",
+"es": "Materiales enviados 48 horas antes; acta compartida el mismo día. Está lista cuando todos saben decir qué harán el día de rodaje."
+},
+{
+"key": "part06.html#588",
+"es": "2.9 Roles del equipo"
+},
+{
+"key": "part06.html#589",
+"es": "Una sola persona decide. Reglas de archivos y carpeta compartida el primer día; plazos internos un día antes."
+},
+{
+"key": "part06.html#590",
+"es": "2.11 Entrevistas"
+},
+{
+"key": "part06.html#591",
+"es": "2 cámaras, doble grabación, 30 segundos de tono de sala. Que las respuestas incluyan la pregunta; cubre los cortes de salto con planos de recurso."
+},
+{
+"key": "part06.html#592",
+"es": "2.12 Siete conceptos"
+},
+{
+"key": "part06.html#593",
+"es": "La estructura es orden; la siembra, una promesa; la puesta en escena, colocación; la actuación, acción; la emoción, la parte del público."
+},
+{
+"key": "part06.html#594",
+"es": "2.13 Adjetivos clave"
+},
+{
+"key": "part06.html#595",
+"es": "Define el mundo con 3 adjetivos en tensión y tradúcelos a color · luz · objetivo · ritmo · sonido."
+},
+{
+"key": "part06.html#596",
+"es": "Preguntas para pensar"
+},
+{
+"key": "part06.html#597",
+"es": "¿Cuál es el concepto en una frase de mi proyecto? ¿Seguiría funcionando con el logotipo de un rival?"
+},
+{
+"key": "part06.html#598",
+"es": "Si es así, no has logrado diferenciarte. Busca de nuevo lo que los rivales no pueden decir, en una forma que puedas demostrar visualmente."
+},
+{
+"key": "part06.html#599",
+"es": "¿Has aplazado alguna decisión hasta el día de rodaje? ¿Qué cambia si la tomas ahora?"
+},
+{
+"key": "part06.html#600",
+"es": "Un cambio el día de rodaje cuesta 20 veces más que en la fase de concepto. Envía los materiales de la reunión 48 horas antes, comparte las decisiones por escrito el mismo día y asegura siempre un 10 % para imprevistos y un día de rodaje de reserva."
+},
+{
+"key": "part03.html#0",
+"es": "PARTE"
+},
+{
+"key": "part03.html#1",
+"es": "<small>PARTE</small>03"
+},
+{
+"key": "part03.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part03.html#3",
+"es": "Orden de ajuste de la exposición manual"
+},
+{
+"key": "part03.html#4",
+"es": "Tabla de ajustes por situación"
+},
+{
+"key": "part03.html#5",
+"es": "Entrevista de 1 minuto con smartphone"
+},
+{
+"key": "part03.html#6",
+"es": "Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#7",
+"es": "Una cámara es un aparato que registra luz. ¿Cuánta luz, durante cuánto tiempo y con qué sensibilidad? Entiende estas tres cosas y el orden de manejo es el mismo en cualquier modelo. Esta PARTE responde a la pregunta «¿Cómo ruedo un buen video?» no con números, sino con un orden de decisiones."
+},
+{
+"key": "part03.html#8",
+"es": "Foto P-03 Anillos de diafragma y de enfoque en una cámara de cine · imagen generativa"
+},
+{
+"key": "part03.html#9",
+"es": "<b>P-03</b> Anillos de diafragma y de enfoque en una cámara de cine"
+},
+{
+"key": "part03.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part03.html#11",
+"es": "Entender el triángulo de exposición y ajustar la exposición a mano"
+},
+{
+"key": "part03.html#12",
+"es": "<b>Materiales</b>Cámara sin espejo o modo profesional del smartphone, filtro ND, aplicación de fotómetro"
+},
+{
+"key": "part03.html#13",
+"es": "<b>10 min</b><i>Introducción</i><span>Comparar la misma escena rodada en automático y en manual</span>"
+},
+{
+"key": "part03.html#14",
+"es": "<b>15 min</b><i>Conceptos</i><span>Fijar el obturador, poner el ISO base, dirigir con el diafragma. Por qué este orden</span>"
+},
+{
+"key": "part03.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>Recorrer la pila de frecuencias de cuadro y el disco del ángulo de obturación</span>"
+},
+{
+"key": "part03.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Rodar una escena a F2,0 y a F8, anotar los ajustes</span>"
+},
+{
+"key": "part03.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Repartir la tabla de ajustes</span>"
+},
+{
+"key": "part03.html#18",
+"es": "<b>Punto de control</b>Saben explicar qué fijaron primero al cambiar la exposición"
+},
+{
+"key": "part03.html#19",
+"es": "PARTE 03"
+},
+{
+"key": "part03.html#20",
+"es": "Introducción"
+},
+{
+"key": "part03.html#21",
+"es": "Una cámara es un aparato que registra luz. Asimila esta frase y el orden de manejo es el mismo en cualquier modelo. Cuánta luz dejar entrar, durante cuánto tiempo y con qué sensibilidad recibirla. Todas las demás funciones sirven a estas tres."
+},
+{
+"key": "part03.html#22",
+"es": "El error más común al empezar es dejarlo todo en automático. La exposición automática cambia el brillo cada vez que pasa una nube y el balance de blancos automático da a cada plano un color distinto. El material rodado tiene que empalmar plano con plano, así que la coherencia va antes que el acabado de un plano suelto."
+},
+{
+"key": "part03.html#23",
+"es": "Esta parte está llena de números, pero no hace falta memorizarlos. Lo que necesitas es intuir qué ganas y qué pierdes al girar cada dial. Abre el diafragma y el fondo se desenfoca, pero aumentan los fallos de foco; sube la sensibilidad y la imagen se aclara, pero crece el ruido. Toda elección tiene un precio, y el DP es quien conoce ese precio y lo paga."
+},
+{
+"key": "part03.html#24",
+"es": "Contexto 4"
+},
+{
+"key": "part03.html#25",
+"es": "Objetivo y ojo — visión de la máquina y visión humana"
+},
+{
+"key": "part03.html#26",
+"es": "Se suele comparar la cámara con el ojo, pero no ven el mundo igual. El ojo humano solo ve con nitidez en una zona diminuta llamada fóvea; los ojos saltan de un punto a otro y el cerebro une los fragmentos en una sola escena. Por eso sentimos que vemos igual de bien, a la vez, una ventana luminosa y una habitación oscura."
+},
+{
+"key": "part03.html#27",
+"es": "El sensor de una cámara registra todo el cuadro en las mismas condiciones y en un instante, así que el exterior se quema en blanco o el interior se hunde en negro. Estudiamos la exposición y el rango dinámico porque ahora quien crea debe decidir lo que el ojo hacía de forma automática."
+},
+{
+"key": "part03.html#28",
+"es": "La distancia focal también suele entenderse mal. En rigor, lo que cambia la perspectiva no es la distancia focal, sino la distancia entre la cámara y el sujeto. Para llenar el cuadro con un rostro usando un gran angular hay que acercarse, y esa distancia agranda la nariz. Para lograr el mismo tamaño con un teleobjetivo hay que alejarse mucho, y esa distancia acerca el fondo. La perspectiva la cambia la posición de la cámara, no el objetivo."
+},
+{
+"key": "part03.html#29",
+"es": "El «objetivo normal» también es más bien una convención. La diagonal de un sensor de formato completo mide unos 43 mm, así que las focales cercanas a esa cifra se consideran las más próximas a la perspectiva natural y, por costumbre, se llama normal al de 50 mm. Más que el número importa si el público vive la escena como «verla de cerca» o como «espiarla de lejos»."
+},
+{
+"key": "part03.html#30",
+"es": "El número f es la relación entre la distancia focal y el diámetro de la abertura del diafragma. f/2 tiene una abertura mayor que f/4 y deja pasar cuatro veces más luz, y cuanto mayor es la abertura, menor es la profundidad de campo. Esta también varía con la distancia focal, la distancia al sujeto y el tamaño del sensor, así que para reducirla también puedes acercarte al sujeto o alejar el fondo. Los términos técnicos forman un solo sistema conectado."
+},
+{
+"key": "part03.html#31",
+"es": "Al final, una cámara no es un aparato que imita al ojo, sino uno que muestra el mundo como el ojo no puede. Congela 0,1 segundos, estira 1 segundo hasta 10 y ve desde alturas y distancias imposibles. Los números de este capítulo son el lenguaje para usar esa nueva visión como tú quieras."
+},
+{
+"key": "part03.html#32",
+"es": "Lecturas recomendadas — Blain Brown, Cinematography: Theory and Practice · Gustavo Mercado, The Filmmaker's Eye"
+},
+{
+"key": "part03.html#33",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#34",
+"es": "Genealogía del equipo de cámara"
+},
+{
+"key": "part03.html#35",
+"es": "Cada vez que el equipo se aligeró, nació un nuevo lenguaje visual. Pregúntate primero qué hacen posible los rasgos físicos del equipo que tienes en las manos."
+},
+{
+"key": "part03.html#36",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part03.html#37",
+"es": "En la década de 2020, el resultado lo decide la diferencia de criterio, no la de equipo."
+},
+{
+"key": "part03.html#38",
+"es": "Época"
+},
+{
+"key": "part03.html#39",
+"es": "Equipo"
+},
+{
+"key": "part03.html#40",
+"es": "Qué cambió"
+},
+{
+"key": "part03.html#41",
+"es": "Cámara de cine de manivela"
+},
+{
+"key": "part03.html#42",
+"es": "La velocidad dependía de la mano; aún sin frecuencia de cuadro estándar"
+},
+{
+"key": "part03.html#43",
+"es": "Cámaras insonorizadas para sonido sincrónico, sistema de estudios"
+},
+{
+"key": "part03.html#44",
+"es": "El equipo pesado mantuvo el rodaje en interiores"
+},
+{
+"key": "part03.html#45",
+"es": "Cámaras ligeras de 16 mm, grabadoras portátiles"
+},
+{
+"key": "part03.html#46",
+"es": "La cámara en la calle hizo el documental y la Nouvelle Vague"
+},
+{
+"key": "part03.html#47",
+"es": "Cámaras ENG, Steadicam"
+},
+{
+"key": "part03.html#48",
+"es": "Se asientan el estilo de reportaje y el lenguaje de cámara en movimiento"
+},
+{
+"key": "part03.html#49",
+"es": "Videocámaras domésticas, formato DV"
+},
+{
+"key": "part03.html#50",
+"es": "Empieza la era en que cada persona posee y hace video"
+},
+{
+"key": "part03.html#51",
+"es": "Réflex digitales con video (DSLR)"
+},
+{
+"key": "part03.html#52",
+"es": "Poca profundidad de campo de sensor grande, a bajo costo. La llamada revolución DSLR"
+},
+{
+"key": "part03.html#53",
+"es": "Sin espejo, 4K, Log, gimbal"
+},
+{
+"key": "part03.html#54",
+"es": "Calidad comercial incluso con equipo de 1 persona"
+},
+{
+"key": "part03.html#55",
+"es": "Log en smartphone, cámaras de cine compactas, monitorización inalámbrica"
+},
+{
+"key": "part03.html#56",
+"es": "Pesa más el criterio que el equipo"
+},
+{
+"key": "part03.html#57",
+"es": "Qué leer en la genealogía"
+},
+{
+"key": "part03.html#58",
+"es": "El 16 mm hizo el documental; la DSLR, el video web de poca profundidad de campo; el gimbal, el punto de vista flotante; y el smartphone, el video corto vertical. Los rasgos físicos del equipo dan forma al lenguaje visual."
+},
+{
+"key": "part03.html#59",
+"es": "<small>Ejercicio</small>3.1"
+},
+{
+"key": "part03.html#60",
+"es": "Tarea"
+},
+{
+"key": "part03.html#61",
+"es": "Rueda la misma escena con dos de estos medios: película · videocámara · DSLR · smartphone, y compara sus características de imagen."
+},
+{
+"key": "part03.html#62",
+"es": "Consejo"
+},
+{
+"key": "part03.html#63",
+"es": "Iguala todo lo posible la exposición y el balance de blancos antes de comparar; si no, no se verán las diferencias entre aparatos."
+},
+{
+"key": "part03.html#64",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#65",
+"es": "Condiciones controladas, observaciones concretas"
+},
+{
+"key": "part03.html#66",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#67",
+"es": "Evalúa punto por punto el rango dinámico, el ruido y la reproducción del color."
+},
+{
+"key": "part03.html#68",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#69",
+"es": "Tipos de cámara y cómo elegir"
+},
+{
+"key": "part03.html#70",
+"es": "Elegir cámara se reduce a tres preguntas: si el plano se mueve, si falta luz y si la imagen se ampliará mucho en posproducción."
+},
+{
+"key": "part03.html#71",
+"es": "Tipo"
+},
+{
+"key": "part03.html#72",
+"es": "Ventajas"
+},
+{
+"key": "part03.html#73",
+"es": "Desventajas"
+},
+{
+"key": "part03.html#74",
+"es": "Ideal para"
+},
+{
+"key": "part03.html#75",
+"es": "Costo inicial aprox."
+},
+{
+"key": "part03.html#76",
+"es": "Cámara de cine"
+},
+{
+"key": "part03.html#77",
+"es": "Gran latitud, ND integrado, códecs robustos"
+},
+{
+"key": "part03.html#78",
+"es": "Pesada; requiere accesorios"
+},
+{
+"key": "part03.html#79",
+"es": "Rodajes principales de publicidad, ficción"
+},
+{
+"key": "part03.html#80",
+"es": "Muy alto"
+},
+{
+"key": "part03.html#81",
+"es": "Sin espejo"
+},
+{
+"key": "part03.html#82",
+"es": "Buen precio, Log de 10 bits, 4K 60p"
+},
+{
+"key": "part03.html#83",
+"es": "Sobrecalentamiento, límite de grabación"
+},
+{
+"key": "part03.html#84",
+"es": "Proyectos de estudiantes, casi todo el video web comercial"
+},
+{
+"key": "part03.html#85",
+"es": "Medio"
+},
+{
+"key": "part03.html#86",
+"es": "Smartphone"
+},
+{
+"key": "part03.html#87",
+"es": "Siempre a mano, macro, subida inmediata"
+},
+{
+"key": "part03.html#88",
+"es": "Flojo con poca luz, límites ópticos"
+},
+{
+"key": "part03.html#89",
+"es": "Video corto, vida diaria, 1.ª persona"
+},
+{
+"key": "part03.html#90",
+"es": "Bajo"
+},
+{
+"key": "part03.html#91",
+"es": "Cámara de acción"
+},
+{
+"key": "part03.html#92",
+"es": "Ultra gran angular, gran estabilización, sumergible"
+},
+{
+"key": "part03.html#93",
+"es": "Calidad de imagen floja, poca luz"
+},
+{
+"key": "part03.html#94",
+"es": "Velocidad, POV montado, sitios de riesgo"
+},
+{
+"key": "part03.html#95",
+"es": "Bajo"
+},
+{
+"key": "part03.html#96",
+"es": "Dron"
+},
+{
+"key": "part03.html#97",
+"es": "Vista aérea, muestra la escala"
+},
+{
+"key": "part03.html#98",
+"es": "Permisos, límites por el clima"
+},
+{
+"key": "part03.html#99",
+"es": "Un plano de apertura o de cierre"
+},
+{
+"key": "part03.html#100",
+"es": "Medio"
+},
+{
+"key": "part03.html#101",
+"es": "Cámara con gimbal"
+},
+{
+"key": "part03.html#102",
+"es": "Planos de seguimiento sin ayuda"
+},
+{
+"key": "part03.html#103",
+"es": "Sensor pequeño, objetivo fijo"
+},
+{
+"key": "part03.html#104",
+"es": "Planos en movimiento con equipo de 1 persona"
+},
+{
+"key": "part03.html#105",
+"es": "Bajo–medio"
+},
+{
+"key": "part03.html#106",
+"es": "Videocámara de televisión"
+},
+{
+"key": "part03.html#107",
+"es": "Grabación larga, zoom óptico, entradas de audio"
+},
+{
+"key": "part03.html#108",
+"es": "Difícil lograr poca profundidad"
+},
+{
+"key": "part03.html#109",
+"es": "Eventos, conferencias, directos"
+},
+{
+"key": "part03.html#110",
+"es": "Medio"
+},
+{
+"key": "part03.html#111",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part03.html#112",
+"es": "No elijas «las mejores prestaciones»; elige «prestaciones suficientes para el resultado»."
+},
+{
+"key": "part03.html#113",
+"es": "Tres preguntas decisivas"
+},
+{
+"key": "part03.html#114",
+"es": "<b>01</b><span>¿Se mueve el plano? Si es así, necesitas equipo de estabilización.</span>"
+},
+{
+"key": "part03.html#115",
+"es": "<b>02</b><span>¿Falta luz? Si está oscuro, necesitas un sensor grande.</span>"
+},
+{
+"key": "part03.html#116",
+"es": "<b>03</b><span>¿Se ampliará mucho en posproducción? Si es así, necesitas alta resolución.</span>"
+},
+{
+"key": "part03.html#117",
+"es": "<small>Ejercicio</small>3.2"
+},
+{
+"key": "part03.html#118",
+"es": "Tarea"
+},
+{
+"key": "part03.html#119",
+"es": "Propón paquetes de cámara, con presupuesto, para 3 trabajos hipotéticos (entrevista para YouTube, video de marca, videoclip)."
+},
+{
+"key": "part03.html#120",
+"es": "Consejo"
+},
+{
+"key": "part03.html#121",
+"es": "Consulta las tarifas de alquiler y calcula el costo por día."
+},
+{
+"key": "part03.html#122",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#123",
+"es": "Justificación sólida (calidad de imagen, movilidad, presupuesto)"
+},
+{
+"key": "part03.html#124",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#125",
+"es": "No elige «las mejores prestaciones», sino «prestaciones suficientes para el resultado»."
+},
+{
+"key": "part03.html#126",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#127",
+"es": "Tamaño del sensor y ángulo de visión"
+},
+{
+"key": "part03.html#128",
+"es": "Cuanto menor es el sensor, menos abarca el mismo objetivo; cuanto mayor, menor es la profundidad de campo. El factor de recorte expresa esta diferencia en un número."
+},
+{
+"key": "part03.html#129",
+"es": "<b>Fig. 28</b> Comparación de tamaños de sensor"
+},
+{
+"key": "part03.html#130",
+"es": "Sensor"
+},
+{
+"key": "part03.html#131",
+"es": "Tamaño aprox."
+},
+{
+"key": "part03.html#132",
+"es": "Factor de recorte"
+}
+]

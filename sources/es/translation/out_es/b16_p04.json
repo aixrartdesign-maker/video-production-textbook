@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#40",
+"es": "Diagrama de patrones polares de micrófono"
+},
+{
+"key": "part14b.html#41",
+"es": "Diagrama de ilusión anamórfica"
+},
+{
+"key": "part14b.html#42",
+"es": "<b>Apéndice</b>Hojas de trabajo"
+},
+{
+"key": "part14b.html#43",
+"es": "Hojas de trabajo"
+},
+{
+"key": "part14b.html#44",
+"es": "6 formularios para imprimir y usar tal cual. En clase, fotocópialos y repártelos; si estudias por tu cuenta, cópialos en tu cuaderno."
+},
+{
+"key": "part14b.html#45",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part14b.html#46",
+"es": "Guarda juntas las hojas de trabajo de un semestre y serán a la vez un registro de tu trabajo y un respaldo para tu portafolio."
+},
+{
+"key": "part14b.html#47",
+"es": "Hoja de trabajo 1 · Propuesta en una página"
+},
+{
+"key": "part14b.html#48",
+"es": "Título"
+},
+{
+"key": "part14b.html#49",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#50",
+"es": "Concepto en una frase"
+},
+{
+"key": "part14b.html#51",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#52",
+"es": "Público objetivo (una persona)"
+},
+{
+"key": "part14b.html#53",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#54",
+"es": "Mensaje clave"
+},
+{
+"key": "part14b.html#55",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#56",
+"es": "Tipo de concepto"
+},
+{
+"key": "part14b.html#57",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#58",
+"es": "Tono y estilo"
+},
+{
+"key": "part14b.html#59",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#60",
+"es": "Estructura (0–3 s / desarrollo / cierre)"
+},
+{
+"key": "part14b.html#61",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#62",
+"es": "Locación y calendario"
+},
+{
+"key": "part14b.html#63",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#64",
+"es": "Reparto y utilería"
+},
+{
+"key": "part14b.html#65",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#66",
+"es": "Presupuesto"
+},
+{
+"key": "part14b.html#67",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#68",
+"es": "Canal y especificaciones"
+},
+{
+"key": "part14b.html#69",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#70",
+"es": "Indicadores de éxito"
+},
+{
+"key": "part14b.html#71",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#72",
+"es": "Hoja de trabajo 2 · Lista de planos"
+},
+{
+"key": "part14b.html#73",
+"es": "Plano"
+},
+{
+"key": "part14b.html#74",
+"es": "Tiempo"
+},
+{
+"key": "part14b.html#75",
+"es": "Tamaño"
+},
+{
+"key": "part14b.html#76",
+"es": "Ángulo"
+},
+{
+"key": "part14b.html#77",
+"es": "Mov."
+},
+{
+"key": "part14b.html#78",
+"es": "Contenido"
+},
+{
+"key": "part14b.html#79",
+"es": "Sonido"
+},
+{
+"key": "part14b.html#80",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#81",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#82",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#83",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#84",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#85",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#86",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#87",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#88",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#89",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#90",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#91",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#92",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#93",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#94",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#95",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#96",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#97",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#98",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#99",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#100",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#101",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#102",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#103",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#104",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#105",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#106",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#107",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#108",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#109",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#110",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#111",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#112",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#113",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#114",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#115",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#116",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#117",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#118",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#119",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#120",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#121",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#122",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#123",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#124",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#125",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#126",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#127",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#128",
+"es": "<b>Apéndice</b>Hojas de trabajo"
+},
+{
+"key": "part14b.html#129",
+"es": "Hoja de trabajo 3 · Storyboard de 6 viñetas"
+},
+{
+"key": "part14b.html#130",
+"es": "En cada viñeta anota SIZE · ANGLE · MOVE y, debajo, la nota de acción y la narración/efectos de sonido (N / SE)."
+},
+{
+"key": "part14b.html#131",
+"es": "CUT 01 · TIEMPO"
+},
+{
+"key": "part14b.html#132",
+"es": "CUT 02 · TIEMPO"
+},
+{
+"key": "part14b.html#133",
+"es": "CUT 03 · TIEMPO"
+},
+{
+"key": "part14b.html#134",
+"es": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#135",
+"es": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#136",
+"es": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#137",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#138",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#139",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#140",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#141",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#142",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#143",
+"es": "Nota de acción"
+},
+{
+"key": "part14b.html#144",
+"es": "Nota de acción"
+},
+{
+"key": "part14b.html#145",
+"es": "Nota de acción"
+},
+{
+"key": "part14b.html#146",
+"es": "N / SE"
+},
+{
+"key": "part14b.html#147",
+"es": "N / SE"
+},
+{
+"key": "part14b.html#148",
+"es": "N / SE"
+},
+{
+"key": "part14b.html#149",
+"es": "CUT 04 · TIEMPO"
+},
+{
+"key": "part14b.html#150",
+"es": "CUT 05 · TIEMPO"
+},
+{
+"key": "part14b.html#151",
+"es": "CUT 06 · TIEMPO"
+},
+{
+"key": "part14b.html#152",
+"es": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#153",
+"es": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#154",
+"es": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#155",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#156",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#157",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#158",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#159",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#160",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#161",
+"es": "Nota de acción"
+},
+{
+"key": "part14b.html#162",
+"es": "Nota de acción"
+},
+{
+"key": "part14b.html#163",
+"es": "Nota de acción"
+},
+{
+"key": "part14b.html#164",
+"es": "N / SE"
+},
+{
+"key": "part14b.html#165",
+"es": "N / SE"
+},
+{
+"key": "part14b.html#166",
+"es": "N / SE"
+},
+{
+"key": "part14b.html#167",
+"es": "<b>Apéndice</b>Hojas de trabajo"
+},
+{
+"key": "part14b.html#168",
+"es": "Hojas de trabajo 4 · 5 · 6"
+},
+{
+"key": "part14b.html#169",
+"es": "Lista de control de PPM, análisis de planos de referencia y autoevaluación del portafolio."
+},
+{
+"key": "part14b.html#170",
+"es": "Hoja de trabajo 4 · Lista de control de PPM"
+},
+{
+"key": "part14b.html#171",
+"es": "Apartado"
+},
+{
+"key": "part14b.html#172",
+"es": "Decidido"
+},
+{
+"key": "part14b.html#173",
+"es": "Pendiente"
+},
+{
+"key": "part14b.html#174",
+"es": "Responsable y plazo"
+},
+{
+"key": "part14b.html#175",
+"es": "Apartado"
+},
+{
+"key": "part14b.html#176",
+"es": "Decidido"
+},
+{
+"key": "part14b.html#177",
+"es": "Pendiente"
+},
+{
+"key": "part14b.html#178",
+"es": "Responsable y plazo"
+},
+{
+"key": "part14b.html#179",
+"es": "Intención del proyecto"
+},
+{
+"key": "part14b.html#180",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#181",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#182",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#183",
+"es": "Vestuario y estilismo"
+},
+{
+"key": "part14b.html#184",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#185",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#186",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#187",
+"es": "Storyboard"
+},
+{
+"key": "part14b.html#188",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#189",
+"es": "&nbsp;"
+}
+]

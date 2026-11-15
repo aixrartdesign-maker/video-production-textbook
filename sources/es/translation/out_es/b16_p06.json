@@ -1,0 +1,666 @@
+[
+{
+"key": "part14b.html#340",
+"es": "Entrevistas y clases"
+},
+{
+"key": "part14b.html#341",
+"es": "Lavalier, 2 luces, fondo ordenado"
+},
+{
+"key": "part14b.html#342",
+"es": "Slider, dron"
+},
+{
+"key": "part14b.html#343",
+"es": "Anuncios de producto"
+},
+{
+"key": "part14b.html#344",
+"es": "Trípode, slider, luz difusa"
+},
+{
+"key": "part14b.html#345",
+"es": "Micro inalámbrico"
+},
+{
+"key": "part14b.html#346",
+"es": "Serie de videos cortos"
+},
+{
+"key": "part14b.html#347",
+"es": "Soporte para teléfono, luz, edición automática"
+},
+{
+"key": "part14b.html#348",
+"es": "Objetivo de cine"
+},
+{
+"key": "part14b.html#349",
+"es": "Cobertura de eventos"
+},
+{
+"key": "part14b.html#350",
+"es": "Micro inalámbrico, baterías de repuesto, tarjetas de gran capacidad"
+},
+{
+"key": "part14b.html#351",
+"es": "Gimbal"
+},
+{
+"key": "part14b.html#352",
+"es": "<b>Apéndice</b>Plantillas de documentos de trabajo"
+},
+{
+"key": "part14b.html#353",
+"es": "Plantillas de documentos de trabajo"
+},
+{
+"key": "part14b.html#354",
+"es": "Plantillas mínimas para la orden de rodaje que se reparte el día de rodaje y para el presupuesto de un encargo. Si recortas apartados, conserva los que van en negrita."
+},
+{
+"key": "part14b.html#355",
+"es": "Plantilla 1 · Orden de rodaje"
+},
+{
+"key": "part14b.html#356",
+"es": "<b>Título del proyecto</b>"
+},
+{
+"key": "part14b.html#357",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#358",
+"es": "<b>Fecha de rodaje y clima</b>"
+},
+{
+"key": "part14b.html#359",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#360",
+"es": "<b>Hora de citación y lugar</b>"
+},
+{
+"key": "part14b.html#361",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#362",
+"es": "<b>Contactos de dirección / DP / producción</b>"
+},
+{
+"key": "part14b.html#363",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#364",
+"es": "<b>Reparto y horas de llegada</b>"
+},
+{
+"key": "part14b.html#365",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#366",
+"es": "<b>Orden de los planos y tiempos estimados</b>"
+},
+{
+"key": "part14b.html#367",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#368",
+"es": "Responsables de equipo y ruta de carga"
+},
+{
+"key": "part14b.html#369",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#370",
+"es": "Comidas y descansos"
+},
+{
+"key": "part14b.html#371",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#372",
+"es": "Estacionamiento y baños"
+},
+{
+"key": "part14b.html#373",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#374",
+"es": "<b>Plan alternativo por lluvia</b>"
+},
+{
+"key": "part14b.html#375",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#376",
+"es": "<b>Contactos de emergencia y hospital más cercano</b>"
+},
+{
+"key": "part14b.html#377",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#378",
+"es": "Plantilla 2 · Presupuesto"
+},
+{
+"key": "part14b.html#379",
+"es": "Categoría"
+},
+{
+"key": "part14b.html#380",
+"es": "Concepto"
+},
+{
+"key": "part14b.html#381",
+"es": "Cant."
+},
+{
+"key": "part14b.html#382",
+"es": "Precio unit."
+},
+{
+"key": "part14b.html#383",
+"es": "Importe"
+},
+{
+"key": "part14b.html#384",
+"es": "Notas"
+},
+{
+"key": "part14b.html#385",
+"es": "Planificación"
+},
+{
+"key": "part14b.html#386",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#387",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#388",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#389",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#390",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#391",
+"es": "Rodaje"
+},
+{
+"key": "part14b.html#392",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#393",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#394",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#395",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#396",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#397",
+"es": "Pos."
+},
+{
+"key": "part14b.html#398",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#399",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#400",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#401",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#402",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#403",
+"es": "Otros"
+},
+{
+"key": "part14b.html#404",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#405",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#406",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#407",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#408",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#409",
+"es": "Total"
+},
+{
+"key": "part14b.html#410",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#411",
+"es": "&nbsp;"
+},
+{
+"key": "part14b.html#412",
+"es": "Cinco cosas que todo presupuesto debe indicar"
+},
+{
+"key": "part14b.html#413",
+"es": "Alcance del trabajo (número de piezas · duración · versiones), número de revisiones, titularidad de los derechos de autor, derechos de uso (medios · plazo · territorio) y condiciones de pago. Un presupuesto al que le falte alguna de las cinco genera disputas más adelante. Indica también si el trabajo puede incluirse en tu portafolio."
+},
+{
+"key": "part14b.html#414",
+"es": "<b>Apéndice</b>Guía de colocación de láminas fotográficas"
+},
+{
+"key": "part14b.html#415",
+"es": "Guía de colocación de láminas fotográficas"
+},
+{
+"key": "part14b.html#416",
+"es": "Todos los diagramas de este libro son vectoriales y monocromos. Los doce elementos siguientes se entienden mucho más rápido con una foto real, así que fotografíalos tú o créalos con herramientas generativas y colócalos donde se indica. Los prompts en inglés se conservan en los archivos del manuscrito."
+},
+{
+"key": "part14b.html#417",
+"es": "LÁMINA"
+},
+{
+"key": "part14b.html#418",
+"es": "Contenido"
+},
+{
+"key": "part14b.html#419",
+"es": "Ubicación"
+},
+{
+"key": "part14b.html#420",
+"es": "LÁMINA"
+},
+{
+"key": "part14b.html#421",
+"es": "Contenido"
+},
+{
+"key": "part14b.html#422",
+"es": "Ubicación"
+},
+{
+"key": "part14b.html#423",
+"es": "Estudio real con iluminación de 3 puntos"
+},
+{
+"key": "part14b.html#424",
+"es": "PARTE 4 · junto al diagrama de 4.2"
+},
+{
+"key": "part14b.html#425",
+"es": "Videomapping de noche"
+},
+{
+"key": "part14b.html#426",
+"es": "PARTE 7 · 6.8"
+},
+{
+"key": "part14b.html#427",
+"es": "Comparación de 6 esquemas de iluminación de retrato"
+},
+{
+"key": "part14b.html#428",
+"es": "PARTE 4 · 4.3"
+},
+{
+"key": "part14b.html#429",
+"es": "LED exterior anamórfico"
+},
+{
+"key": "part14b.html#430",
+"es": "PARTE 7 · 6.9"
+},
+{
+"key": "part14b.html#431",
+"es": "Comparación de 4 distancias focales"
+},
+{
+"key": "part14b.html#432",
+"es": "PARTE 3 · 3.4"
+},
+{
+"key": "part14b.html#433",
+"es": "Uso de un dispositivo XR"
+},
+{
+"key": "part14b.html#434",
+"es": "PARTE 7 · 6.13"
+},
+{
+"key": "part14b.html#435",
+"es": "Estudio real de chroma key"
+},
+{
+"key": "part14b.html#436",
+"es": "PARTE 4 · 4.6"
+},
+{
+"key": "part14b.html#437",
+"es": "Espacio de exposición inmersiva"
+},
+{
+"key": "part14b.html#438",
+"es": "PARTE 7 · 6.7"
+},
+{
+"key": "part14b.html#439",
+"es": "Plano macro real de producto"
+},
+{
+"key": "part14b.html#440",
+"es": "PARTE 4 · 4.5"
+},
+{
+"key": "part14b.html#441",
+"es": "Sala de etalonaje"
+},
+{
+"key": "part14b.html#442",
+"es": "PARTE 5 · 5.8"
+},
+{
+"key": "part14b.html#443",
+"es": "Rodaje de video corto"
+},
+{
+"key": "part14b.html#444",
+"es": "PARTE 7 · 6.2"
+},
+{
+"key": "part14b.html#445",
+"es": "Rodaje con dron"
+},
+{
+"key": "part14b.html#446",
+"es": "PARTE 3 · 3.14"
+},
+{
+"key": "part14b.html#447",
+"es": "Reglas para las láminas fotográficas"
+},
+{
+"key": "part14b.html#448",
+"es": "<b>01</b><span>Las imágenes generadas que parecen personas reales pueden causar malentendidos sobre el derecho de imagen, así que haz que los rostros no sean identificables.</span>"
+},
+{
+"key": "part14b.html#449",
+"es": "<b>02</b><span>Nunca pidas en un prompt recrear fotogramas de una película o un anuncio concretos.</span>"
+},
+{
+"key": "part14b.html#450",
+"es": "<b>03</b><span>Para imprimir, calcula la resolución necesaria a 300 dpi y luego amplía la imagen.</span>"
+},
+{
+"key": "part14b.html#451",
+"es": "<b>04</b><span>Baja la saturación para que las fotos armonicen con el tono de los diagramas; así el libro se percibe unitario.</span>"
+},
+{
+"key": "part14b.html#452",
+"es": "<b>Apéndice</b>Comentarios de revisores y cambios"
+},
+{
+"key": "part14b.html#453",
+"es": "Comentarios de revisores y cambios"
+},
+{
+"key": "part14b.html#454",
+"es": "Terminado el primer borrador, se revisó en cinco áreas. Cada observación se incorporó al texto o, en caso contrario, se dejó constancia del motivo."
+},
+{
+"key": "part14b.html#455",
+"es": "Área"
+},
+{
+"key": "part14b.html#456",
+"es": "Comentario"
+},
+{
+"key": "part14b.html#457",
+"es": "Cambio"
+},
+{
+"key": "part14b.html#458",
+"es": "01 DP · jefe de eléctricos — viabilidad en el set"
+},
+{
+"key": "part14b.html#459",
+"es": "Cámara · iluminación"
+},
+{
+"key": "part14b.html#460",
+"es": "Hay que decir pronto que la frecuencia de cuadro y el nivel de luz van unidos. La gente insiste en probar 120 fps sin un plan de iluminación y fracasa."
+},
+{
+"key": "part14b.html#461",
+"es": "La advertencia sobre la luz adicional pasó al texto principal en la sección de frecuencia de cuadro de la PARTE 3 y se añadió al resumen de la parte"
+},
+{
+"key": "part14b.html#462",
+"es": "Cámara · iluminación"
+},
+{
+"key": "part14b.html#463",
+"es": "Si se enseña primero la iluminación de 3 puntos, el alumnado concluye que sin tres luces no se puede rodar."
+},
+{
+"key": "part14b.html#464",
+"es": "El resumen de la luz principal de 4.3 pasó a ser una sección propia, con el principio de la luz principal sola en primer lugar"
+},
+{
+"key": "part14b.html#465",
+"es": "Cámara · iluminación"
+},
+{
+"key": "part14b.html#466",
+"es": "Los fallos de chroma key se repiten. Hace falta una tabla de causas y soluciones por síntoma."
+},
+{
+"key": "part14b.html#467",
+"es": "Se añadieron a 4.6 una tabla de cuatro columnas (síntoma · causa · solución en el set · solución en posproducción) y una lámina de disposición"
+},
+{
+"key": "part14b.html#468",
+"es": "Cámara · iluminación"
+},
+{
+"key": "part14b.html#469",
+"es": "Hay que distinguir lux, lúmenes y nits. Sin las unidades de luz no se pueden leer presupuestos ni fichas técnicas."
+},
+{
+"key": "part14b.html#470",
+"es": "Se añadió 3.6, sobre unidades de iluminancia y flujo luminoso, con una tabla de iluminancia recomendada por situación"
+},
+{
+"key": "part14b.html#471",
+"es": "02 Director de montaje · motion graphics — herramientas y flujo de trabajo"
+},
+{
+"key": "part14b.html#472",
+"es": "Montaje · motion graphics"
+},
+{
+"key": "part14b.html#473",
+"es": "Antes de enumerar funciones, hay que explicar por qué una composición se ve falsa."
+},
+{
+"key": "part14b.html#474",
+"es": "En 5.7, tres causas (nivel de negro, perspectiva atmosférica, grano) quedaron en apartados separados"
+},
+{
+"key": "part14b.html#475",
+"es": "Montaje · motion graphics"
+},
+{
+"key": "part14b.html#476",
+"es": "Muchos estudiantes confunden Premiere con After Effects e intentan montar en After Effects."
+},
+{
+"key": "part14b.html#477",
+"es": "La introducción de 5.5 indica que lo horizontal es el tiempo y lo vertical, las capas; se añadió una lámina de la pila de capas"
+},
+{
+"key": "part14b.html#478",
+"es": "Montaje · motion graphics"
+},
+{
+"key": "part14b.html#479",
+"es": "Los 12 principios de la animación no se pueden transmitir con palabras. Necesitan imágenes."
+},
+{
+"key": "part14b.html#480",
+"es": "Los 12 principios se dibujaron en un solo diagrama, colocado en 5.6"
+},
+{
+"key": "part14b.html#481",
+"es": "Montaje · motion graphics"
+},
+{
+"key": "part14b.html#482",
+"es": "Los atajos solo se usan si están reunidos en un apéndice."
+},
+{
+"key": "part14b.html#483",
+"es": "Los atajos de Premiere y After Effects figuran por separado en el Apéndice G"
+},
+{
+"key": "part14b.html#484",
+"es": "03 Planificador publicitario — documentos de trabajo y cómo persuaden"
+},
+{
+"key": "part14b.html#485",
+"es": "Planificación publicitaria"
+},
+{
+"key": "part14b.html#486",
+"es": "El alumnado prepara la PPM como un mero trámite. Si se muestra en cifras el costo de los cambios en cada fase, se convence."
+},
+{
+"key": "part14b.html#487",
+"es": "Se añadieron a 2.2 una tabla de multiplicadores del costo de los cambios y una lámina con la curva"
+},
+{
+"key": "part14b.html#488",
+"es": "Planificación publicitaria"
+},
+{
+"key": "part14b.html#489",
+"es": "Con solo una plantilla de propuesta, el alumnado no sabe rellenarla. Necesita un ejemplo ya rellenado."
+},
+{
+"key": "part14b.html#490",
+"es": "En 2.8 se incluyó una propuesta de muestra completa para un video corto promocional de una universidad"
+},
+{
+"key": "part14b.html#491",
+"es": "Planificación publicitaria"
+},
+{
+"key": "part14b.html#492",
+"es": "Si el gancho se explica como cuestión de instinto, nadie puede repetirlo. Hace falta una tipología."
+},
+{
+"key": "part14b.html#493",
+"es": "Se añadió a 7.2 una tabla con seis tipos de gancho y lo que no hay que hacer"
+},
+{
+"key": "part14b.html#494",
+"es": "Planificación publicitaria"
+},
+{
+"key": "part14b.html#495",
+"es": "Si nadie enseña a estudiar las referencias, todo acaba en imitación."
+},
+{
+"key": "part14b.html#496",
+"es": "Se añadieron a 7.6 un proceso de investigación en seis pasos, de definir el objetivo a diferenciarse, y al apéndice una hoja de trabajo de análisis"
+},
+{
+"key": "part14b.html#497",
+"es": "04 Planificador de contenido inmersivo · exposiciones — espacio y operación"
+},
+{
+"key": "part14b.html#498",
+"es": "Planificación de exposiciones"
+},
+{
+"key": "part14b.html#499",
+"es": "Sin los términos de las especificaciones LED no se puede hablar con los proveedores. El paso de píxel y la luminancia son imprescindibles."
+},
+{
+"key": "part14b.html#500",
+"es": "Se añadió 7.10, una tabla de seis términos clave con criterios para valorar cada uno"
+},
+{
+"key": "part14b.html#501",
+"es": "Planificación de exposiciones"
+},
+{
+"key": "part14b.html#502",
+"es": "El mareo en el contenido 360 se confunde con un problema técnico. Hay que dejar claro que es un problema de dirección."
+},
+{
+"key": "part14b.html#503",
+"es": "En 6.5 se describieron desde la dirección los principios de no aceleración y de referencia fija; se añadió una lámina sobre el cosido de imágenes"
+},
+{
+"key": "part14b.html#504",
+"es": "Planificación de exposiciones"
+},
+{
+"key": "part14b.html#505",
+"es": "Si el cálculo del tiempo de permanencia falta en la propuesta de una exposición, habrá colas en el lugar."
+}
+]

@@ -1,0 +1,8 @@
+[
+ {"key": "part00.html#55", "find": "Sirven de lista para el autoestudio", "replace": "También sirven de lista de control para el autoestudio", "why": "meaning: 'also' and 'checklist' dropped"},
+ {"key": "part00.html#150", "find": "¿Hasta dónde llega el etalonaje", "replace": "¿Hasta dónde debe llegar el etalonaje", "why": "meaning: 'should' lost"},
+ {"key": "prologue.html#107", "find": "Área tapada por UI", "replace": "Área tapada por la interfaz", "why": "untranslated: UI (interfaz elsewhere)"},
+ {"key": "part02.html#69", "find": "Ordenados por la distancia entre la cámara y el sujeto, es la primera clasificación que hay que memorizar.", "replace": "La clasificación según la distancia entre la cámara y el sujeto es la primera que hay que memorizar.", "why": "grammar: dangling participle without referent"},
+ {"key": "part02.html#143", "find": "De cabeza a pies", "replace": "De la cabeza a los pies", "why": "term: same label as neighbouring items"},
+ {"key": "part02.html#289", "find": "Inmaduro si se abusa", "replace": "Inmaduro si se abusa de él", "why": "grammar: abusar requires 'de' complement"}
+]

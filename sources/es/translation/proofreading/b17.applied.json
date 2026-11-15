@@ -1,0 +1,7 @@
+[
+{"key": "part14b.html#622", "find": "gotas congeladas", "replace": "una gota congelada", "why": "meaning: singular droplet"},
+{"key": "part14b.html#654", "find": "personajes en un espacio", "replace": "un personaje en un espacio", "why": "meaning: singular character"},
+{"key": "part14b.html#655", "find": "línea y plano", "replace": "línea y forma", "why": "meaning: shape → forma (plano = shot)"},
+{"key": "part14b.html#783", "find": "Montaje estándar de entrevista", "replace": "Disposición estándar de entrevista", "why": "term: setup ≠ montaje; matches Fig. 60 title"},
+{"key": "part14b.html#786", "find": "marco dentro del marco", "replace": "marco dentro del encuadre", "why": "term: consistent with #600"}
+]

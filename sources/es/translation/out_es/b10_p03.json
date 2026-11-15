@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#187",
+"es": "Tendencias y participación"
+},
+{
+"key": "part09.html#188",
+"es": "Tipo de contenido"
+},
+{
+"key": "part09.html#189",
+"es": "Triunfan la información y los resúmenes"
+},
+{
+"key": "part09.html#190",
+"es": "Se valora el pulido estético"
+},
+{
+"key": "part09.html#191",
+"es": "Triunfan los memes y los retos"
+},
+{
+"key": "part09.html#192",
+"es": "Tono de montaje"
+},
+{
+"key": "part09.html#193",
+"es": "Explicativos guiados por subtítulos"
+},
+{
+"key": "part09.html#194",
+"es": "Color y ritmo ante todo"
+},
+{
+"key": "part09.html#195",
+"es": "Transiciones rápidas y sonido"
+},
+{
+"key": "part09.html#196",
+"es": "Uso de la música"
+},
+{
+"key": "part09.html#197",
+"es": "Sobre todo música de fondo"
+},
+{
+"key": "part09.html#198",
+"es": "Crea la atmósfera"
+},
+{
+"key": "part09.html#199",
+"es": "Los sonidos en tendencia impulsan la difusión"
+},
+{
+"key": "part09.html#200",
+"es": "Recepción de anuncios"
+},
+{
+"key": "part09.html#201",
+"es": "Se acepta lo informativo"
+},
+{
+"key": "part09.html#202",
+"es": "Si parece un anuncio, se van"
+},
+{
+"key": "part09.html#203",
+"es": "Admite que es un anuncio y gana por diversión"
+},
+{
+"key": "part09.html#204",
+"es": "Duración segura"
+},
+{
+"key": "part09.html#205",
+"es": "Vía de difusión"
+},
+{
+"key": "part09.html#206",
+"es": "Feed de recomendados y búsqueda"
+},
+{
+"key": "part09.html#207",
+"es": "Pestaña Explorar y compartidos"
+},
+{
+"key": "part09.html#208",
+"es": "Feed Para ti"
+},
+{
+"key": "part09.html#209",
+"es": "Obras derivadas"
+},
+{
+"key": "part09.html#210",
+"es": "Remix, remix de Shorts"
+},
+{
+"key": "part09.html#211",
+"es": "Remix, plantillas"
+},
+{
+"key": "part09.html#212",
+"es": "Dúo, Stitch, remix"
+},
+{
+"key": "part09.html#213",
+"es": "Principios del encuadre vertical"
+},
+{
+"key": "part09.html#214",
+"es": "<b>12<em>%</em></b>Parte superior tapada por la UI"
+},
+{
+"key": "part09.html#215",
+"es": "<b>20<em>%</em></b>Parte inferior tapada por la UI"
+},
+{
+"key": "part09.html#216",
+"es": "<b>1/3<em>inferior</em></b>Subtítulos centrados, en el tercio inferior de la pantalla"
+},
+{
+"key": "part09.html#217",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part09.html#218",
+"es": "Las comparaciones entre plataformas solo valen si se igualan las horas de publicación y los hashtags."
+},
+{
+"key": "part09.html#219",
+"es": "Sitúa al sujeto en el eje vertical central del cuadro."
+},
+{
+"key": "part09.html#220",
+"es": "Aumenta mucho la proporción de primeros planos. En los planos generales, la información se vuelve una mancha."
+},
+{
+"key": "part09.html#221",
+"es": "Da por hecho que se reproducirá en bucle y haz que el primer y el último cuadro enlacen."
+},
+{
+"key": "part09.html#222",
+"es": "<small>Ejercicio</small>8.3"
+},
+{
+"key": "part09.html#223",
+"es": "Tarea"
+},
+{
+"key": "part09.html#224",
+"es": "Publica el mismo video de 30 segundos en Shorts, Reels y TikTok y compara las métricas durante una semana."
+},
+{
+"key": "part09.html#225",
+"es": "Consejo"
+},
+{
+"key": "part09.html#226",
+"es": "Iguala las horas de publicación y los hashtags."
+},
+{
+"key": "part09.html#227",
+"es": "Evaluación"
+},
+{
+"key": "part09.html#228",
+"es": "Control de las condiciones de comparación, interpretación de las métricas"
+},
+{
+"key": "part09.html#229",
+"es": "Respuesta modelo"
+},
+{
+"key": "part09.html#230",
+"es": "Formula hipótesis sobre qué cambió según la plataforma y ponlas a prueba en la siguiente publicación."
+},
+{
+"key": "part09.html#231",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#232",
+"es": "Gestionar Instagram"
+},
+{
+"key": "part09.html#233",
+"es": "Instagram funciona con guardados y compartidos. El primer cuadro es la miniatura, y la primera línea del pie de publicación es lo único que se ve antes de «más»."
+},
+{
+"key": "part09.html#234",
+"es": "<span class=\"ph-id\">P09-GRID</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Diseñar la cuadrícula del feed</b>Una persona dispone sobre una mesa nueve fotos cuadradas impresas, en 3×3, para planificar el feed</span>"
+},
+{
+"key": "part09.html#235",
+"es": "<b>Nota</b>Diseñar la cuadrícula del feed — no una publicación: las nueve casillas deben leerse como un solo mundo"
+},
+{
+"key": "part09.html#236",
+"es": "Formato"
+},
+{
+"key": "part09.html#237",
+"es": "Especificación recomendada"
+},
+{
+"key": "part09.html#238",
+"es": "Rasgos"
+},
+{
+"key": "part09.html#239",
+"es": "Regla de producción"
+},
+{
+"key": "part09.html#240",
+"es": "Feed"
+},
+{
+"key": "part09.html#241",
+"es": "4:5 o 1:1"
+},
+{
+"key": "part09.html#242",
+"es": "Detiene el desplazamiento"
+},
+{
+"key": "part09.html#243",
+"es": "El primer cuadro es la miniatura"
+},
+{
+"key": "part09.html#244",
+"es": "Reels"
+},
+{
+"key": "part09.html#245",
+"es": "Se difunde por la pestaña Explorar"
+},
+{
+"key": "part09.html#246",
+"es": "Inicio y final pensados para el bucle"
+},
+{
+"key": "part09.html#247",
+"es": "Historias"
+},
+{
+"key": "part09.html#248",
+"es": "Desaparecen en 24 horas, pantalla completa"
+},
+{
+"key": "part09.html#249",
+"es": "Añadir elementos que inviten a tocar"
+},
+{
+"key": "part09.html#250",
+"es": "Carrusel"
+},
+{
+"key": "part09.html#251",
+"es": "Alta tasa de guardado"
+},
+{
+"key": "part09.html#252",
+"es": "1 idea por diapositiva"
+},
+{
+"key": "part09.html#253",
+"es": "En vivo"
+},
+{
+"key": "part09.html#254",
+"es": "Interacción en tiempo real"
+},
+{
+"key": "part09.html#255",
+"es": "Luz fija, sonido estable"
+},
+{
+"key": "part09.html#256",
+"es": "Pies de publicación y hashtags"
+},
+{
+"key": "part09.html#257",
+"es": "<b>Tamaño del hashtag</b>"
+},
+{
+"key": "part09.html#258",
+"es": "Considera grandes las etiquetas con cientos de miles de publicaciones o más; medianas, las de decenas de miles; pequeñas, las de miles."
+},
+{
+"key": "part09.html#259",
+"es": "<small>Primera línea</small>Empieza por la conclusión"
+},
+{
+"key": "part09.html#260",
+"es": "Es lo único que se ve antes de «más»"
+},
+{
+"key": "part09.html#261",
+"es": "Terminar con una pregunta trae más comentarios"
+},
+{
+"key": "part09.html#262",
+"es": "<small>Hashtags</small>10–15, mezclando grandes · medianos · pequeños"
+},
+{
+"key": "part09.html#263",
+"es": "Solo con grandes, quedas enterrado; solo con pequeños, el alcance es bajo"
+},
+{
+"key": "part09.html#264",
+"es": "Pon en cada publicación un hashtag propio de la marca, a modo de archivo"
+},
+{
+"key": "part09.html#265",
+"es": "<small>Etiquetas</small>Ubicación · etiquetas de cuenta"
+},
+{
+"key": "part09.html#266",
+"es": "Suman alcance de verdad"
+},
+{
+"key": "part09.html#267",
+"es": "Gestionar los comentarios y la comunidad"
+},
+{
+"key": "part09.html#268",
+"es": "Las reacciones de la primera hora tras publicar influyen en el alcance posterior. Responde a los comentarios durante esa hora."
+},
+{
+"key": "part09.html#269",
+"es": "Responder en público a los comentarios negativos es mejor que borrarlos. Los insultos evidentes y el spam son la excepción."
+},
+{
+"key": "part09.html#270",
+"es": "Los guardados y los compartidos pesan más que los «me gusta» para el algoritmo. Incluye información que valga la pena guardar."
+},
+{
+"key": "part09.html#271",
+"es": "<small>Ejercicio</small>8.4"
+},
+{
+"key": "part09.html#272",
+"es": "Tarea"
+},
+{
+"key": "part09.html#273",
+"es": "Planifica la cuadrícula de 9 casillas de una cuenta de Instagram con una sola estética."
+},
+{
+"key": "part09.html#274",
+"es": "Consejo"
+},
+{
+"key": "part09.html#275",
+"es": "Crea un ritmo en series de 3 publicaciones (foto, video, texto)."
+},
+{
+"key": "part09.html#276",
+"es": "Evaluación"
+},
+{
+"key": "part09.html#277",
+"es": "Coherencia visual, plan de gestión"
+},
+{
+"key": "part09.html#278",
+"es": "Respuesta modelo"
+},
+{
+"key": "part09.html#279",
+"es": "Toda la cuadrícula se lee como un solo mundo de marca."
+},
+{
+"key": "part09.html#280",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#281",
+"es": "TikTok y la cultura del remix"
+},
+{
+"key": "part09.html#282",
+"es": "TikTok no consiste en mostrar contenido terminado, sino en dejar espacio para sumarse. Dúo, Stitch y remix son recursos que permiten a otros usar tu video como material, y son la principal vía de difusión."
+},
+{
+"key": "part09.html#283",
+"es": "Función"
+},
+{
+"key": "part09.html#284",
+"es": "Cómo funciona"
+},
+{
+"key": "part09.html#285",
+"es": "Cómo planificarlo"
+},
+{
+"key": "part09.html#286",
+"es": "Dúo"
+},
+{
+"key": "part09.html#287",
+"es": "El video de otra persona se reproduce junto al tuyo"
+},
+{
+"key": "part09.html#288",
+"es": "Dejar momentos a los que otros puedan reaccionar"
+},
+{
+"key": "part09.html#289",
+"es": "Stitch"
+},
+{
+"key": "part09.html#290",
+"es": "Otros recortan parte de tu video para abrir el suyo"
+},
+{
+"key": "part09.html#291",
+"es": "Terminar con una pregunta o una frase inacabada"
+},
+{
+"key": "part09.html#292",
+"es": "Remix"
+},
+{
+"key": "part09.html#293",
+"es": "El original se reedita en un video nuevo"
+},
+{
+"key": "part09.html#294",
+"es": "Una estructura simple y fácil de editar"
+},
+{
+"key": "part09.html#295",
+"es": "Sonidos en tendencia"
+},
+{
+"key": "part09.html#296",
+"es": "Los videos con el mismo sonido se agrupan"
+},
+{
+"key": "part09.html#297",
+"es": "Subirse pronto a los sonidos en alza"
+},
+{
+"key": "part09.html#298",
+"es": "Retos"
+},
+{
+"key": "part09.html#299",
+"es": "La gente copia el mismo paso o formato"
+},
+{
+"key": "part09.html#300",
+"es": "Un paso simple que cualquiera copie en 3 segundos"
+},
+{
+"key": "part09.html#301",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part09.html#302",
+"es": "Respeta las reglas del formato original y altera un solo elemento."
+},
+{
+"key": "part09.html#303",
+"es": "Principios del diseño para la participación"
+},
+{
+"key": "part09.html#304",
+"es": "La difusión nace de dejar un hueco que dé ganas de copiar, rebatir o añadir. Lo mismo vale para los anuncios."
+},
+{
+"key": "part09.html#305",
+"es": "Hazlo perfecto y nadie lo tocará.<small>8.5 TikTok y la cultura del remix</small>"
+},
+{
+"key": "part09.html#306",
+"es": "<small>Ejercicio</small>8.5"
+},
+{
+"key": "part09.html#307",
+"es": "Tarea"
+},
+{
+"key": "part09.html#308",
+"es": "Elige un formato en tendencia y haz un video de TikTok que le dé tu propio giro."
+},
+{
+"key": "part09.html#309",
+"es": "Consejo"
+},
+{
+"key": "part09.html#310",
+"es": "Respeta las reglas del formato original y altera un solo elemento."
+},
+{
+"key": "part09.html#311",
+"es": "Evaluación"
+},
+{
+"key": "part09.html#312",
+"es": "Dominio del formato, originalidad del giro"
+},
+{
+"key": "part09.html#313",
+"es": "Respuesta modelo"
+},
+{
+"key": "part09.html#314",
+"es": "Participa de maneras que respeten al creador original (dúos, mención de autoría)."
+},
+{
+"key": "part09.html#315",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#316",
+"es": "Threads y los medios basados en texto"
+},
+{
+"key": "part09.html#317",
+"es": "El texto breve es el protagonista; las imágenes y el video acompañan. La propia frase hace de gancho."
+},
+{
+"key": "part09.html#318",
+"es": "<span class=\"ph-id\">P09-TEXT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Medios basados en texto</b>Una persona escribe una publicación breve en el teléfono en un café, una taza de café, composición minimalista</span>"
+},
+{
+"key": "part09.html#319",
+"es": "<b>Nota</b>Medios basados en texto — la propia frase es el gancho. El video viene después"
+},
+{
+"key": "part09.html#320",
+"es": "<small>Threads</small>Frases que abren una conversación"
+},
+{
+"key": "part09.html#321",
+"es": "Rinden los videos cortos con autorreproducción"
+},
+{
+"key": "part09.html#322",
+"es": "El algoritmo favorece las frases que invitan a conversar"
+},
+{
+"key": "part09.html#323",
+"es": "<small>X (antes Twitter)</small>Última hora y memes"
+},
+{
+"key": "part09.html#324",
+"es": "Los enlaces se difunden rápido"
+},
+{
+"key": "part09.html#325",
+"es": "Video de menos de 30 s, subtítulos obligatorios"
+},
+{
+"key": "part09.html#326",
+"es": "<small>LinkedIn</small>Trabajo y carrera profesional"
+},
+{
+"key": "part09.html#327",
+"es": "Centrado en información laboral"
+},
+{
+"key": "part09.html#328",
+"es": "Útil de forma directa para mostrar portafolios y buscar empleo"
+},
+{
+"key": "part09.html#329",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part09.html#330",
+"es": "Haz una pregunta en la primera frase y deja el enlace del video para el final."
+},
+{
+"key": "part09.html#331",
+"es": "Incluso una publicación que promociona un video sigue la gramática del medio. Threads premia la conversación; X, la rapidez; LinkedIn, el contexto profesional."
+},
+{
+"key": "part09.html#332",
+"es": "<small>Ejercicio</small>8.6"
+},
+{
+"key": "part09.html#333",
+"es": "Tarea"
+},
+{
+"key": "part09.html#334",
+"es": "Escribe 5 publicaciones de texto que promocionen un video, al estilo de Threads."
+},
+{
+"key": "part09.html#335",
+"es": "Consejo"
+},
+{
+"key": "part09.html#336",
+"es": "Haz una pregunta en la primera frase y deja el enlace del video para el final."
+}
+]

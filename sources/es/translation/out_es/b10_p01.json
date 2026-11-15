@@ -1,0 +1,602 @@
+[
+{
+"key": "part08.html#807",
+"es": "<b>29 s</b><i>Microcorto</i>En concursos de menos de 30 segundos, como el Festival de Cine de 29 Segundos, un solo giro lo es todo. Planteamiento en un plano, giro en los últimos 5 segundos."
+},
+{
+"key": "part08.html#808",
+"es": "<b>1 min</b><i>Video corto</i>El estándar de anuncios y videos promocionales. Renueva el gancho cada 8–10 segundos para dar una nueva razón para ver hasta el final (véase 7.17)."
+},
+{
+"key": "part08.html#809",
+"es": "Formatos largos"
+},
+{
+"key": "part08.html#810",
+"es": "<b>3 min</b><i>Película de marca</i>Duración habitual de los videos institucionales. Una persona, un conflicto, una resolución. Las historias de la gente van antes que el producto."
+},
+{
+"key": "part08.html#811",
+"es": "<b>10–30 s</b><i>Bucle para LED exterior</i>Se repite sin sonido. El final debe enlazar con el inicio y debe leerse de lejos en 3 segundos (véase 7.19)."
+},
+{
+"key": "part08.html#812",
+"es": "<b>25 min</b><i>Cortometraje</i>Duración típica en festivales. Un suceso en 3 actos, un cambio en el protagonista. Lo más seguro es un reparto de 3–4 como máximo."
+},
+{
+"key": "part08.html#813",
+"es": "<b>90 min</b><i>Largometraje</i>La trama principal y las subtramas se entrelazan, y el cambio interior avanza con los hechos exteriores. La referencia es un guion de unas 90–110 páginas."
+},
+{
+"key": "part08.html#814",
+"es": "<b>Fotos de referencia 7.16A</b>De la televisión al OTT — la unidad de visionado pasa de la programación a la miniatura, de la sala de estar a la pantalla personal"
+},
+{
+"key": "part08.html#815",
+"es": "<span class=\"ph-id\">P08-CRT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>La sala del televisor CRT</b>Una sala de estar de los años 90, una familia reunida ante un televisor CRT, luz cálida de lámpara</span>"
+},
+{
+"key": "part08.html#816",
+"es": "<b>Nota</b>La sala del televisor CRT — cuando la programación fijaba la duración"
+},
+{
+"key": "part08.html#817",
+"es": "<span class=\"ph-id\">P08-OTT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>OTT — de la programación a la miniatura</b>Mosaico de una app de streaming en un televisor colgado en la pared de la sala, una mano con el control remoto</span>"
+},
+{
+"key": "part08.html#818",
+"es": "<b>Nota</b>OTT — de la programación a la miniatura. La unidad de visionado ha cambiado"
+},
+{
+"key": "part08.html#819",
+"es": "<span class=\"ph-id\">P08-BINGE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>La pantalla personal</b>Una joven ve una serie en una tableta, en la cama y de noche, con el resplandor azul de la pantalla</span>"
+},
+{
+"key": "part08.html#820",
+"es": "<b>Nota</b>La pantalla personal — un visionado en el que el siguiente episodio empieza solo"
+},
+{
+"key": "part08.html#821",
+"es": "<b>G-24</b> Pantallas de distinta duración — de los bumpers a los largometrajes (imagen generada con GPT — solo conceptual)"
+},
+{
+"key": "part08.html#822",
+"es": "Una frase para usar en el set"
+},
+{
+"key": "part08.html#823",
+"es": "Al rodar una pieza principal larga, planifica de antemano de dónde saldrán las versiones cortas. La pieza de 3 minutos debe contener las versiones de 1 min · 15 s · 6 s para que un solo rodaje cubra varios medios."
+},
+{
+"key": "part08.html#824",
+"es": "<small>Ejercicio</small>7.16"
+},
+{
+"key": "part08.html#825",
+"es": "Tarea"
+},
+{
+"key": "part08.html#826",
+"es": "Planifica versiones de 6 segundos (bumper), 15 segundos, 1 minuto y 3 minutos para una misma marca y haz un esquema de estructura de cada una."
+},
+{
+"key": "part08.html#827",
+"es": "Consejo"
+},
+{
+"key": "part08.html#828",
+"es": "Recorta el mensaje a medida que se acorta; añade personajes e historia a medida que se alarga."
+},
+{
+"key": "part08.html#829",
+"es": "Evaluación"
+},
+{
+"key": "part08.html#830",
+"es": "Ajuste de la estructura a la duración, coherencia entre versiones"
+},
+{
+"key": "part08.html#831",
+"es": "Respuesta modelo"
+},
+{
+"key": "part08.html#832",
+"es": "Antes de rodar, planifica de dónde saldrán las versiones de 6 y 15 segundos dentro de la pieza de 3 minutos."
+},
+{
+"key": "part08.html#833",
+"es": "<b>PARTE 08</b>Producción publicitaria y estudio de casos"
+},
+{
+"key": "part08.html#834",
+"es": "Anuncios que se ven hasta el final"
+},
+{
+"key": "part08.html#835",
+"es": "Diseño de un anuncio de 1 minuto. La curva de retención cae con el tiempo. Justo antes de la caída, coloca un recurso que recupere al espectador, de modo que cada momento cree una nueva «razón para ver qué viene después»."
+},
+{
+"key": "part08.html#836",
+"es": "<b>Fig. 82</b> Diseño de nuevos ganchos para un anuncio de 1 minuto — recupera al espectador justo antes de que se vaya"
+},
+{
+"key": "part08.html#837",
+"es": "<b>01</b><span><b>Pregunta abierta</b> En los primeros 3 segundos, plantea una pregunta y guarda la respuesta. Dala en los últimos 10 segundos.</span>"
+},
+{
+"key": "part08.html#838",
+"es": "<b>02</b><span><b>Ruptura del patrón</b> Cada 8–10 segundos, cambia una cosa: tamaño de plano, lugar, sonido o velocidad. Si el mismo ritmo pasa de 20 segundos, sube el abandono.</span>"
+},
+{
+"key": "part08.html#839",
+"es": "<b>03</b><span><b>Personas y rostros</b> Los rostros y las reacciones retienen la atención más que los productos. Despierta curiosidad por la decisión del personaje.</span>"
+},
+{
+"key": "part08.html#840",
+"es": "<b>04</b><span><b>Pruebas y cifras</b> Pon hacia la mitad una demostración, cifras o un antes y después: prometen una recompensa por ver hasta el final.</span>"
+},
+{
+"key": "part08.html#841",
+"es": "<b>05</b><span><b>Marca pronto y a menudo</b> Muéstrala una vez en los primeros 5 segundos, otra de forma natural dentro de la historia y otra al final.</span>"
+},
+{
+"key": "part08.html#842",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part08.html#843",
+"es": "Introduce un recurso nuevo 3 segundos antes de la caída más pronunciada."
+},
+{
+"key": "part08.html#844",
+"es": "«Unskippable» (2015), de GEICO, daba el anuncio por terminado y seguía rodando: la familia se quedaba inmóvil mientras el perro devoraba la comida de la mesa. El propio botón de omitir se convertía en la historia."
+},
+{
+"key": "part08.html#845",
+"es": "Conoce las reglas de un formato y las propias reglas se vuelven la idea.<small>7.17 Anuncios que se ven hasta el final</small>"
+},
+{
+"key": "part08.html#846",
+"es": "<small>Ejercicio</small>7.17"
+},
+{
+"key": "part08.html#847",
+"es": "Tarea"
+},
+{
+"key": "part08.html#848",
+"es": "Diseña al menos 5 recursos que mantengan al espectador hasta el final de un anuncio de 1 minuto y márcalos en una línea de tiempo."
+},
+{
+"key": "part08.html#849",
+"es": "Consejo"
+},
+{
+"key": "part08.html#850",
+"es": "Cada 8–10 segundos, coloca una pregunta, un giro, información nueva o un cambio de sonido."
+},
+{
+"key": "part08.html#851",
+"es": "Evaluación"
+},
+{
+"key": "part08.html#852",
+"es": "Intervalo entre ganchos, diseño de razones para seguir viendo"
+},
+{
+"key": "part08.html#853",
+"es": "Respuesta modelo"
+},
+{
+"key": "part08.html#854",
+"es": "GEICO, «Unskippable» (2015). Convierte el propio botón de omitir en material narrativo."
+},
+{
+"key": "part08.html#855",
+"es": "<b>PARTE 08</b>Producción publicitaria y estudio de casos"
+},
+{
+"key": "part08.html#856",
+"es": "Hacer que la marca se quede"
+},
+{
+"key": "part08.html#857",
+"es": "Diseñar para que tanto el efecto como la marca perduren. A menudo el espectador recuerda un anuncio, pero olvida de qué marca era. El diseño debe dejar las dos cosas: «qué tenía de bueno» y «de quién era»."
+},
+{
+"key": "part08.html#858",
+"es": "Activos distintivos de marca"
+},
+{
+"key": "part08.html#859",
+"es": "Color"
+},
+{
+"key": "part08.html#860",
+"es": "Un solo color, usado con constancia y durante mucho tiempo"
+},
+{
+"key": "part08.html#861",
+"es": "Para que el color por sí solo evoque la marca, incluso sin logo"
+},
+{
+"key": "part08.html#862",
+"es": "Sonido"
+},
+{
+"key": "part08.html#863",
+"es": "Un logo sonoro breve, un motivo musical recurrente"
+},
+{
+"key": "part08.html#864",
+"es": "Llega incluso a quien no mira la pantalla"
+},
+{
+"key": "part08.html#865",
+"es": "Forma y personaje"
+},
+{
+"key": "part08.html#866",
+"es": "Silueta del producto, mascota, gesto característico"
+},
+{
+"key": "part08.html#867",
+"es": "Une muchos anuncios en un solo recuerdo"
+},
+{
+"key": "part08.html#868",
+"es": "Palabras"
+},
+{
+"key": "part08.html#869",
+"es": "Eslóganes cortos y con ritmo"
+},
+{
+"key": "part08.html#870",
+"es": "No lo cambies con cada anuncio; consolídalo"
+},
+{
+"key": "part08.html#871",
+"es": "Una dirección que hace perdurar el efecto"
+},
+{
+"key": "part08.html#872",
+"es": "<b>ABCD</b>"
+},
+{
+"key": "part08.html#873",
+"es": "Principios de Google para los anuncios en YouTube: atraer, marca, conectar, dirigir. Un marco para revisar anuncios cortos."
+},
+{
+"key": "part08.html#874",
+"es": "Demuéstralo con una escena, no con palabras"
+},
+{
+"key": "part08.html#875",
+"es": "Volvo Trucks, «The Epic Split» (2013)"
+},
+{
+"key": "part08.html#876",
+"es": "Un solo plano de una apertura de piernas entre dos camiones demuestra la precisión de la dirección"
+},
+{
+"key": "part08.html#877",
+"es": "La marca en el clímax emocional"
+},
+{
+"key": "part08.html#878",
+"es": "La marca debe estar presente en el momento de mayor emoción para que el recuerdo se fije"
+},
+{
+"key": "part08.html#879",
+"es": "Revisa con ABCD"
+},
+{
+"key": "part08.html#880",
+"es": "Atraer · Marca · Conectar · Dirigir"
+},
+{
+"key": "part08.html#881",
+"es": "Una lista sencilla para revisar anuncios cortos"
+},
+{
+"key": "part08.html#882",
+"es": "Una frase para usar en el set"
+},
+{
+"key": "part08.html#883",
+"es": "Tapa el logo en el montaje. Si aún se reconoce de qué marca es, la identidad de marca ha calado."
+},
+{
+"key": "part08.html#884",
+"es": "<small>Ejercicio</small>7.18"
+},
+{
+"key": "part08.html#885",
+"es": "Tarea"
+},
+{
+"key": "part08.html#886",
+"es": "Define 5 activos distintivos (color, sonido, forma, personaje, palabras) de una marca ficticia y colócalos todos en un anuncio de 15 segundos."
+},
+{
+"key": "part08.html#887",
+"es": "Consejo"
+},
+{
+"key": "part08.html#888",
+"es": "Por norma, muestra la marca en los primeros 5 segundos y pon el logo sonoro al final."
+},
+{
+"key": "part08.html#889",
+"es": "Evaluación"
+},
+{
+"key": "part08.html#890",
+"es": "Coherencia de los activos, claridad del vínculo con la marca"
+},
+{
+"key": "part08.html#891",
+"es": "Respuesta modelo"
+},
+{
+"key": "part08.html#892",
+"es": "Haz un anuncio cuya marca se reconozca incluso con el logo tapado."
+},
+{
+"key": "part08.html#893",
+"es": "<b>PARTE 08</b>Producción publicitaria y estudio de casos"
+},
+{
+"key": "part08.html#894",
+"es": "Diseñar bucles para LED exterior"
+},
+{
+"key": "part08.html#895",
+"es": "Las pantallas LED exteriores las ve sin sonido gente que camina o conduce, de lejos y una y otra vez. Exigen un diseño totalmente distinto al del cine o el teléfono."
+},
+{
+"key": "part08.html#896",
+"es": "<b>Fig. 83</b> Un bucle de 15 segundos para LED exterior — silencio, distancia, repetición sin costuras"
+},
+{
+"key": "part08.html#897",
+"es": "<span class=\"ph-id\">P08-LEDLOOP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Bucle para LED exterior</b>Un cruce céntrico de noche, una animación abstracta en bucle en una pantalla LED gigante sobre la fachada de un edificio, multitudes</span>"
+},
+{
+"key": "part08.html#898",
+"es": "<b>Nota</b>Bucle para LED exterior — lo ve gente que camina, sin sonido, de lejos, una y otra vez"
+},
+{
+"key": "part08.html#899",
+"es": "<b>10–30<em>s</em></b>Unidad de bucle — el final enlaza con el inicio"
+},
+{
+"key": "part08.html#900",
+"es": "<b>3<em>s</em></b>Tiempo para leer una línea de texto"
+},
+{
+"key": "part08.html#901",
+"es": "<b>5–10<em>%</em></b>Tamaño mínimo del texto respecto a la altura de pantalla"
+},
+{
+"key": "part08.html#902",
+"es": "<b>1–2<em>min</em></b>Tiempo máximo que se queda un espectador"
+},
+{
+"key": "part08.html#903",
+"es": "Cinco comprobaciones"
+},
+{
+"key": "part08.html#904",
+"es": "<b>01</b><i>¿Funciona sin sonido?</i>El mensaje debe entenderse sin sonido. Texto: una frase, legible en 3 segundos."
+},
+{
+"key": "part08.html#905",
+"es": "<b>02</b><i>¿Se ve de lejos?</i>Texto de al menos el 5–10 % de la altura de pantalla, alto contraste, formas simples. Las líneas finas y la letra pequeña desaparecen."
+},
+{
+"key": "part08.html#906",
+"es": "<b>03</b><i>¿Cada momento es un inicio?</i>El espectador entra a mitad del bucle. Muestra la marca cada pocos segundos y haz que el último cuadro lleve al primero."
+},
+{
+"key": "part08.html#907",
+"es": "<b>04</b><i>¿Aprovecha la forma de la pantalla?</i>Pantallas en esquina: ilusión anamórfica; verticales: movimiento de arriba abajo; gigantes: movimiento lento que dé escala (véase 6.9)."
+},
+{
+"key": "part08.html#908",
+"es": "<b>05</b><i>Seguridad y normativa</i>Consulta las normas de emisión del gobierno local y del operador del soporte para que el brillo y el parpadeo no distraigan a los conductores. Evita destellos bruscos y parpadeos rápidos."
+},
+{
+"key": "part08.html#909",
+"es": "Una frase para usar en el set"
+},
+{
+"key": "part08.html#910",
+"es": "Reproduce el montaje final en tu teléfono a un brazo de distancia, sin sonido, solo 3 segundos. Lo que quede entonces es todo lo que quedará en una pantalla exterior."
+},
+{
+"key": "part08.html#911",
+"es": "<small>Ejercicio</small>7.19"
+},
+{
+"key": "part08.html#912",
+"es": "Tarea"
+},
+{
+"key": "part08.html#913",
+"es": "Haz un bucle mudo de 15 segundos para una pantalla LED exterior y pruébalo al tamaño con que se ve desde la distancia real de la calle."
+},
+{
+"key": "part08.html#914",
+"es": "Consejo"
+},
+{
+"key": "part08.html#915",
+"es": "Haz que el primer y el último cuadro enlacen, y usa solo el texto que pueda leerse en 3 segundos."
+},
+{
+"key": "part08.html#916",
+"es": "Evaluación"
+},
+{
+"key": "part08.html#917",
+"es": "Claridad sin sonido, continuidad del bucle, legibilidad a distancia"
+},
+{
+"key": "part08.html#918",
+"es": "Respuesta modelo"
+},
+{
+"key": "part08.html#919",
+"es": "Estudia las condiciones de visionado, como el tiempo de espera en los semáforos, para decidir la duración y la cantidad de información."
+},
+{
+"key": "part09.html#0",
+"es": "PARTE"
+},
+{
+"key": "part09.html#1",
+"es": "<small>PARTE</small>09"
+},
+{
+"key": "part09.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part09.html#3",
+"es": "Un plan de canal de YouTube (descripción · banner · listas de reproducción · 3 primeros videos)"
+},
+{
+"key": "part09.html#4",
+"es": "Un calendario de contenidos de un mes y un registro de gestión de 2 semanas"
+},
+{
+"key": "part09.html#5",
+"es": "Un proceso de producción con herramientas de IA en cada etapa y un video de 1 minuto"
+},
+{
+"key": "part09.html#6",
+"es": "Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#7",
+"es": "Hacer un buen video y lograr que lo descubran son habilidades distintas. Cada plataforma premia conductas diferentes, y el título y la miniatura ya forman parte de la dirección. Esta PARTE responde a la pregunta «¿Cómo consigo más visualizaciones?» con la gramática de las plataformas, la lectura de métricas y el lugar de la IA generativa."
+},
+{
+"key": "part09.html#8",
+"es": "Foto P-09 Una mesa de trabajo con un soporte de grabación vertical y un panel de resultados · imagen generada"
+},
+{
+"key": "part09.html#9",
+"es": "<b>P-09</b> Una mesa de trabajo con un soporte de grabación vertical y un panel de resultados"
+},
+{
+"key": "part09.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part09.html#11",
+"es": "Distinguir las gramáticas de las plataformas y situar la IA en el proceso"
+},
+{
+"key": "part09.html#12",
+"es": "<b>Materiales</b>Cuenta propia o de prueba de cada estudiante, acceso a un modelo de lenguaje"
+},
+{
+"key": "part09.html#13",
+"es": "<b>10 min</b><i>Introducción</i><span>Predecir el CTR de dos títulos para un mismo video</span>"
+},
+{
+"key": "part09.html#14",
+"es": "<b>15 min</b><i>Concepto</i><span>Qué premia cada plataforma, en qué orden leer las métricas</span>"
+},
+{
+"key": "part09.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>El proceso de IA en 6 etapas y el panorama de herramientas</span>"
+},
+{
+"key": "part09.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Generar 20 ideas, reducirlas a 3, anotar los motivos</span>"
+},
+{
+"key": "part09.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Presentar el formulario de registro de uso de IA</span>"
+},
+{
+"key": "part09.html#18",
+"es": "<b>Punto de control</b>Explica en qué etapa entró la IA y por qué"
+},
+{
+"key": "part09.html#19",
+"es": "PARTE 09"
+},
+{
+"key": "part09.html#20",
+"es": "Introducción"
+},
+{
+"key": "part09.html#21",
+"es": "Hacer un buen video y lograr que lo descubran son habilidades distintas. Desde que YouTube eliminó las barreras de la distribución, el punto de partida de la planificación pasó de la idea a la capacidad de ser descubierto. Por eso el título y la miniatura se han vuelto parte de la dirección."
+},
+{
+"key": "part09.html#22",
+"es": "Cada plataforma tiene su gramática. YouTube funciona con búsqueda y tiempo de visualización; Instagram, con guardados y compartidos; TikTok, con participación y obras derivadas. Publicar el mismo video sin cambios y luego comentar que los resultados difieren solo demuestra que no sabes qué premia cada plataforma."
+},
+{
+"key": "part09.html#23",
+"es": "Esta parte abarca desde redactar títulos hasta armar hashtags, responder comentarios, interpretar métricas de rendimiento y los fundamentos de la gestión de anuncios. ¿Por qué lo necesita quien hace videos? Porque el perfil más demandado hoy en el mercado laboral es el de quien hace, publica y lee los números."
+},
+{
+"key": "part09.html#24",
+"es": "Contexto 16"
+},
+{
+"key": "part09.html#25",
+"es": "La economía de la atención y el público algorítmico"
+},
+{
+"key": "part09.html#26",
+"es": "En la era de las plataformas, el video no va directo al público: llega a través de algoritmos de recomendación. Para entender las visualizaciones, primero hay que entender un recurso escaso: la atención. En una charla de 1971, Herbert Simon dijo que «la abundancia de información crea pobreza de atención», y a finales de los años 90 Michael Goldhaber y otros llamaron a esta situación «economía de la atención». Hoy cada video compite por unos segundos del tiempo de la gente en la misma pantalla."
+},
+{
+"key": "part09.html#27",
+"es": "Las plataformas dejan el arbitraje de esta competencia a los algoritmos. En 2012 YouTube anunció que su criterio de recomendación pasaría de los clics al tiempo de visualización, y desde entonces muchas plataformas ponderan señales de conducta como la retención, la tasa de finalización, las repeticiones y los compartidos. El mecanismo no es público y cambia a menudo, pero el principio es claro: los videos que la gente ve hasta el final, vuelve a ver y envía a otros se muestran a más personas."
+},
+{
+"key": "part09.html#28",
+"es": "Hay dos lecciones para quien crea. Primera: aunque la miniatura y el título ganen el clic, si el contenido incumple la promesa, la retención cae y las recomendaciones se reducen. Los títulos exagerados ganan clics a corto plazo y pierden confianza a largo plazo. Segunda: lo que importa es el ciclo de revisar en los datos los puntos de abandono, al inicio y a la mitad, y aplicar lo aprendido al siguiente video. La lectura de métricas del capítulo 9 es una herramienta para ese ciclo."
+},
+{
+"key": "part09.html#29",
+"es": "También hay una estructura común. El sistema muestra primero el video a un grupo pequeño de usuarios como prueba y luego amplía o reduce su alcance según la respuesta. Las señales que lee son cuánto tiempo se vio y si se llegó al final, si se guardó o compartió y si la gente volvió. Las visualizaciones son un resultado, no una causa. Las variables que un creador puede trabajar no son las visualizaciones, sino la retención y las tasas de respuesta."
+},
+{
+"key": "part09.html#30",
+"es": "Hay una trampa. La observación de que una métrica deja de servir cuando se convierte en objetivo se conoce como ley de Goodhart. Las miniaturas sensacionalistas y los títulos exagerados suben el CTR a corto plazo, pero aumentan el abandono y erosionan la confianza en todo el canal. Las métricas son una ventana a la respuesta del público, no el público mismo."
+},
+{
+"key": "part09.html#31",
+"es": "En la era del algoritmo también crece la responsabilidad de quien crea. La desinformación, la vulneración del derecho a la imagen de otras personas y hacer pasar por reales imágenes de IA generativa no valen ninguna cifra de visualizaciones a corto plazo. Un buen canal no engaña al algoritmo; aporta valor de forma constante a un público concreto. Al final, el algoritmo sigue la conducta de las personas que encuentran ese valor."
+},
+{
+"key": "part09.html#32",
+"es": "Lecturas recomendadas — Tim Wu, The Attention Merchants · Michael Goldhaber, «The Attention Economy and the Net»"
+},
+{
+"key": "part09.html#33",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#34",
+"es": "Mapa de plataformas"
+},
+{
+"key": "part09.html#35",
+"es": "¿El espectador vino a ver este video o vino por otra cosa y se lo encontró? Este único juicio cambia por completo tu estrategia de los primeros 3 segundos."
+},
+{
+"key": "part09.html#36",
+"es": "<span class=\"ph-id\">P09-FEED</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Un pulgar que recorre el feed</b>Primer plano de un pulgar que desliza un feed vertical de videos cortos, cuadros de colores desenfocados</span>"
+}
+]

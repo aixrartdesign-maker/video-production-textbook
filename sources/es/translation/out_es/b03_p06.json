@@ -1,0 +1,622 @@
+[
+{
+"key": "part06.html#129",
+"es": "<b>02</b><span>Sombrero blanco 10 min — comparte solo datos y hechos. Sin opiniones.</span>"
+},
+{
+"key": "part06.html#130",
+"es": "<b>03</b><span>Sombrero verde 15 min — suelta ideas en cantidad. Sin críticas.</span>"
+},
+{
+"key": "part06.html#131",
+"es": "<b>04</b><span>Sombrero amarillo 10 min — nombra solo los puntos fuertes de cada idea.</span>"
+},
+{
+"key": "part06.html#132",
+"es": "<b>05</b><span>Sombrero negro 10 min — revisa los riesgos.</span>"
+},
+{
+"key": "part06.html#133",
+"es": "<b>06</b><span>Sombrero rojo 5 min — vota por la opción que te dicte el instinto.</span>"
+},
+{
+"key": "part06.html#134",
+"es": "<b>07</b><span>Sombrero azul 5 min — anota las decisiones y los próximos pasos.</span>"
+},
+{
+"key": "part06.html#135",
+"es": "Técnicas de ideación de apoyo"
+},
+{
+"key": "part06.html#136",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part06.html#137",
+"es": "Usa la expansión con IA solo para ampliar el abanico de ideas. Obtén 20; luego una persona las reduce a 3."
+},
+{
+"key": "part06.html#138",
+"es": "<small>Conexión forzada</small>Vincula al producto dos palabras sin relación"
+},
+{
+"key": "part06.html#139",
+"es": "Las combinaciones al azar rompen convenciones"
+},
+{
+"key": "part06.html#140",
+"es": "<small>Inversión</small>Dale la vuelta a cada convención de la categoría"
+},
+{
+"key": "part06.html#141",
+"es": "La diferenciación es inmediata"
+},
+{
+"key": "part06.html#142",
+"es": "<small>Escala extrema</small>Una escena que exagera el beneficio 100 veces"
+},
+{
+"key": "part06.html#143",
+"es": "Punto de partida de los anuncios de metáfora exagerada"
+},
+{
+"key": "part06.html#144",
+"es": "<small>Un día con el usuario</small>Registra las 24 horas del público, hora a hora"
+},
+{
+"key": "part06.html#145",
+"es": "Encuentra el momento en que el producto puede intervenir"
+},
+{
+"key": "part06.html#146",
+"es": "<small>Lista de molestias</small>De 20 molestias, las que el producto resuelve"
+},
+{
+"key": "part06.html#147",
+"es": "El método más seguro"
+},
+{
+"key": "part06.html#148",
+"es": "<small>Expansión con IA</small>Fija condiciones, obtén 20 → una persona deja 3"
+},
+{
+"key": "part06.html#149",
+"es": "Solo para ampliar el abanico"
+},
+{
+"key": "part06.html#150",
+"es": "<small>Ejercicio</small>2.5"
+},
+{
+"key": "part06.html#151",
+"es": "Tarea"
+},
+{
+"key": "part06.html#152",
+"es": "Dirige una reunión de equipo con los 6 sombreros para pensar y reúne 30 ideas o más."
+},
+{
+"key": "part06.html#153",
+"es": "Consejo"
+},
+{
+"key": "part06.html#154",
+"es": "Limita cada sombrero a 5 minutos."
+},
+{
+"key": "part06.html#155",
+"es": "Evaluación"
+},
+{
+"key": "part06.html#156",
+"es": "Cantidad y variedad de ideas, criterios de selección"
+},
+{
+"key": "part06.html#157",
+"es": "Respuesta modelo"
+},
+{
+"key": "part06.html#158",
+"es": "Toma una debilidad surgida con el sombrero negro y, con el verde, le da la vuelta hasta convertirla en una idea nueva."
+},
+{
+"key": "part06.html#159",
+"es": "<b>PARTE 06</b>Planificación y preproducción"
+},
+{
+"key": "part06.html#160",
+"es": "Tipos de concepto y pruebas"
+},
+{
+"key": "part06.html#161",
+"es": "Un concepto parte de uno de seis tipos y se pone a prueba con cinco preguntas."
+},
+{
+"key": "part06.html#162",
+"es": "<small>Problema primero</small>Primero el problema, después la solución"
+},
+{
+"key": "part06.html#163",
+"es": "El más seguro y rápido de entender"
+},
+{
+"key": "part06.html#164",
+"es": "<small>Metáfora exagerada</small>Infla el beneficio hasta una metáfora irreal"
+},
+{
+"key": "part06.html#165",
+"es": "Memorable, pero puede tapar el producto"
+},
+{
+"key": "part06.html#166",
+"es": "<small>Demostración</small>Prueba físicamente el rendimiento"
+},
+{
+"key": "part06.html#167",
+"es": "Muy creíble; exige destreza de rodaje"
+},
+{
+"key": "part06.html#168",
+"es": "<small>Historia emotiva</small>Una historia breve y luego la marca"
+},
+{
+"key": "part06.html#169",
+"es": "El más difícil de lograr en 15 segundos"
+},
+{
+"key": "part06.html#170",
+"es": "<small>Giro</small>Capta la atención con un final inesperado"
+},
+{
+"key": "part06.html#171",
+"es": "Más fuerte si se combina con un gancho de 3 segundos"
+},
+{
+"key": "part06.html#172",
+"es": "<small>Ruptura de convenciones</small>Rompe las imágenes tópicas de la categoría"
+},
+{
+"key": "part06.html#173",
+"es": "Diferenciación inmediata"
+},
+{
+"key": "part06.html#174",
+"es": "Preguntas para probar el concepto"
+},
+{
+"key": "part06.html#175",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part06.html#176",
+"es": "Una buena pregunta de prueba pide «lo único que recuerdas»."
+},
+{
+"key": "part06.html#177",
+"es": "Pregunta de prueba"
+},
+{
+"key": "part06.html#178",
+"es": "Criterio de aprobación"
+},
+{
+"key": "part06.html#179",
+"es": "Se entiende sin sonido"
+},
+{
+"key": "part06.html#180",
+"es": "Imprescindible en video corto y redes sociales"
+},
+{
+"key": "part06.html#181",
+"es": "Sigue funcionando con el logo de un competidor"
+},
+{
+"key": "part06.html#182",
+"es": "Si es así, la diferenciación ha fallado"
+},
+{
+"key": "part06.html#183",
+"es": "La marca se reconoce solo con los últimos 3 segundos"
+},
+{
+"key": "part06.html#184",
+"es": "Si no, rediseña cómo aparece el logo"
+},
+{
+"key": "part06.html#185",
+"es": "Se explica en una frase"
+},
+{
+"key": "part06.html#186",
+"es": "Si la explicación es larga, el público no lo entenderá"
+},
+{
+"key": "part06.html#187",
+"es": "Se puede rodar con el presupuesto y el calendario"
+},
+{
+"key": "part06.html#188",
+"es": "Si no, es una fantasía, no una idea"
+},
+{
+"key": "part06.html#189",
+"es": "<small>Ejercicio</small>2.6"
+},
+{
+"key": "part06.html#190",
+"es": "Tarea"
+},
+{
+"key": "part06.html#191",
+"es": "Para un producto, escribe conceptos de una línea de tipo informativo, emotivo, humorístico y de solución de problemas; luego pruébalos con 5 personas del público objetivo."
+},
+{
+"key": "part06.html#192",
+"es": "Consejo"
+},
+{
+"key": "part06.html#193",
+"es": "Una buena pregunta de prueba pide «lo único que recuerdas»."
+},
+{
+"key": "part06.html#194",
+"es": "Evaluación"
+},
+{
+"key": "part06.html#195",
+"es": "Diferenciación entre conceptos, uso de los resultados de la prueba"
+},
+{
+"key": "part06.html#196",
+"es": "Respuesta modelo"
+},
+{
+"key": "part06.html#197",
+"es": "Muestra cómo se revisó el concepto una vez a partir de los resultados de la prueba."
+},
+{
+"key": "part06.html#198",
+"es": "<b>PARTE 06</b>Planificación y preproducción"
+},
+{
+"key": "part06.html#199",
+"es": "Sinopsis, tratamiento, guion"
+},
+{
+"key": "part06.html#200",
+"es": "Una historia toma forma en cinco pasos, de una frase a una lista de planos."
+},
+{
+"key": "part06.html#201",
+"es": "<span class=\"ph-id\">P06-SCRIPT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Una página de guion — las notas al margen se convierten en notas de dirección</b></span>"
+},
+{
+"key": "part06.html#202",
+"es": "<b>Nota</b>Una página de guion — las notas al margen se convierten en notas de dirección"
+},
+{
+"key": "part06.html#203",
+"es": "<b>01</b><i>Logline</i>Un esqueleto en una o dos frases. Protagonista, objetivo, obstáculo"
+},
+{
+"key": "part06.html#204",
+"es": "<b>02</b><i>Sinopsis</i>Toda la historia en una página aprox. Revela el final"
+},
+{
+"key": "part06.html#205",
+"es": "<b>03</b><i>Tratamiento</i>Prosa desarrollada escena por escena. Flujo y atmósfera, sin diálogo"
+},
+{
+"key": "part06.html#206",
+"es": "<b>04</b><i>Guion</i>El texto formal, con números de escena, lugares, horas, notas de acción y diálogo"
+},
+{
+"key": "part06.html#207",
+"es": "<b>05</b><i>Lista de planos</i>Escenas divididas en planos. Tamaño, ángulo, movimiento de cámara, objetivo, tiempo est."
+},
+{
+"key": "part06.html#208",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part06.html#209",
+"es": "En un guion, 1 página equivale a cerca de 1 minuto en pantalla. Las notas de acción recogen solo lo que se ve y se oye."
+},
+{
+"key": "part06.html#210",
+"es": "Ejemplo de formato de guion para un anuncio de 15 segundos"
+},
+{
+"key": "part06.html#211",
+"es": "S#1. Cocina por la mañana / INT / Mañana — Entra luz por la ventana. El producto está sobre la mesa. Minseo (24) entra, todavía medio dormida, y toma el producto. N(V.O.) Tu día empieza distinto. Minseo da un sorbo; cierra los ojos y los abre. SE tapa de botella que se abre / M entra piano"
+},
+{
+"key": "part06.html#212",
+"es": "<small>Ejercicio</small>2.7"
+},
+{
+"key": "part06.html#213",
+"es": "Tarea"
+},
+{
+"key": "part06.html#214",
+"es": "Para un corto de 3 minutos, escribe sinopsis (5 líneas), tratamiento (1 página) y guion (3 páginas), en ese orden."
+},
+{
+"key": "part06.html#215",
+"es": "Consejo"
+},
+{
+"key": "part06.html#216",
+"es": "En un guion, 1 página equivale a cerca de 1 minuto en pantalla. En las notas de acción, escribe solo lo que se ve y se oye."
+},
+{
+"key": "part06.html#217",
+"es": "Evaluación"
+},
+{
+"key": "part06.html#218",
+"es": "Respeto del formato, desarrollo en cada paso"
+},
+{
+"key": "part06.html#219",
+"es": "Respuesta modelo"
+},
+{
+"key": "part06.html#220",
+"es": "Escribe de modo que el deseo del personaje se vea en la acción, incluso sin diálogo."
+},
+{
+"key": "part06.html#221",
+"es": "<b>PARTE 06</b>Planificación y preproducción"
+},
+{
+"key": "part06.html#222",
+"es": "Redactar una propuesta"
+},
+{
+"key": "part06.html#223",
+"es": "Una propuesta es un documento persuasivo. El objetivo es que el lector reproduzca en su cabeza un video que todavía no existe."
+},
+{
+"key": "part06.html#224",
+"es": "<span class=\"ph-id\">P06-PROPOSAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Presentar una propuesta — si no se explica en una página, todavía no es un plan</b></span>"
+},
+{
+"key": "part06.html#225",
+"es": "<b>Nota</b>Presentar una propuesta — si no se explica en una página, todavía no es un plan"
+},
+{
+"key": "part06.html#226",
+"es": "Contenido estándar de una propuesta"
+},
+{
+"key": "part06.html#227",
+"es": "N.º"
+},
+{
+"key": "part06.html#228",
+"es": "Sección"
+},
+{
+"key": "part06.html#229",
+"es": "Qué incluye"
+},
+{
+"key": "part06.html#230",
+"es": "Extensión"
+},
+{
+"key": "part06.html#231",
+"es": "Portada"
+},
+{
+"key": "part06.html#232",
+"es": "Título, subtítulo, autores, fecha, 1 imagen clave"
+},
+{
+"key": "part06.html#233",
+"es": "1 página"
+},
+{
+"key": "part06.html#234",
+"es": "Contexto"
+},
+{
+"key": "part06.html#235",
+"es": "Por qué este video, por qué ahora. El mercado y la situación del público"
+},
+{
+"key": "part06.html#236",
+"es": "1 página"
+},
+{
+"key": "part06.html#237",
+"es": "Objetivo"
+},
+{
+"key": "part06.html#238",
+"es": "Uno entre reconocimiento, conversión o marca, más una métrica"
+},
+{
+"key": "part06.html#239",
+"es": "Media página"
+},
+{
+"key": "part06.html#240",
+"es": "Público"
+},
+{
+"key": "part06.html#241",
+"es": "Una sola persona tipo. Rutina diaria y hábitos de medios"
+},
+{
+"key": "part06.html#242",
+"es": "1 página"
+},
+{
+"key": "part06.html#243",
+"es": "Mensaje clave"
+},
+{
+"key": "part06.html#244",
+"es": "Concepto en una frase y su fundamento"
+},
+{
+"key": "part06.html#245",
+"es": "Media página"
+},
+{
+"key": "part06.html#246",
+"es": "Tono y estilo"
+},
+{
+"key": "part06.html#247",
+"es": "Moodboard, paleta de color, 3 referencias y por qué se eligieron"
+},
+{
+"key": "part06.html#248",
+"es": "1–2 páginas"
+},
+{
+"key": "part06.html#249",
+"es": "Sinopsis"
+},
+{
+"key": "part06.html#250",
+"es": "Historia completa y estructura (gancho, desarrollo, cierre)"
+},
+{
+"key": "part06.html#251",
+"es": "1 página"
+},
+{
+"key": "part06.html#252",
+"es": "Storyboard"
+},
+{
+"key": "part06.html#253",
+"es": "Imagen, notas de acción y sonido de cada plano"
+},
+{
+"key": "part06.html#254",
+"es": "1–3 páginas"
+},
+{
+"key": "part06.html#255",
+"es": "Plan de producción"
+},
+{
+"key": "part06.html#256",
+"es": "Calendario, locaciones, reparto, equipo técnico, funciones del equipo"
+},
+{
+"key": "part06.html#257",
+"es": "1 página"
+},
+{
+"key": "part06.html#258",
+"es": "Presupuesto"
+},
+{
+"key": "part06.html#259",
+"es": "Costos desglosados y total"
+},
+{
+"key": "part06.html#260",
+"es": "1 página"
+},
+{
+"key": "part06.html#261",
+"es": "Plan de distribución"
+},
+{
+"key": "part06.html#262",
+"es": "Versiones por plataforma, calendario de publicación, estrategia de hashtags"
+},
+{
+"key": "part06.html#263",
+"es": "1 página"
+},
+{
+"key": "part06.html#264",
+"es": "Impacto esperado y riesgos"
+},
+{
+"key": "part06.html#265",
+"es": "Resultados previstos y planes de contingencia"
+},
+{
+"key": "part06.html#266",
+"es": "Media página"
+},
+{
+"key": "part06.html#267",
+"es": "Cinco formas de reforzar una propuesta"
+},
+{
+"key": "part06.html#268",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part06.html#269",
+"es": "Para el tono y estilo, tres imágenes son más precisas que diez adjetivos."
+},
+{
+"key": "part06.html#270",
+"es": "<b>01</b><span>Pon la conclusión primero. Coloca el concepto en una frase y un fotograma clave en la página que sigue a la portada.</span>"
+},
+{
+"key": "part06.html#271",
+"es": "<b>02</b><span>Habla con imágenes antes que con palabras.</span>"
+},
+{
+"key": "part06.html#272",
+"es": "<b>03</b><span>Incluye números. Cifras concretas como 15 segundos, 6 planos, 1 día de rodaje y 2 intérpretes generan confianza.</span>"
+},
+{
+"key": "part06.html#273",
+"es": "<b>04</b><span>Escribe de entrada lo que es imposible. Presentar los riesgos con alternativas, de hecho, aumenta la confianza.</span>"
+},
+{
+"key": "part06.html#274",
+"es": "<b>05</b><span>Reduce las opciones a dos. Tres o más retrasan la decisión; una sola parece un ultimátum.</span>"
+},
+{
+"key": "part06.html#275",
+"es": "Ejemplo: un video corto de 1 minuto para promocionar una universidad"
+},
+{
+"key": "part06.html#276",
+"es": "Sección"
+},
+{
+"key": "part06.html#277",
+"es": "Ejemplo"
+},
+{
+"key": "part06.html#278",
+"es": "Título"
+},
+{
+"key": "part06.html#279",
+"es": "¿Qué se aprende aquí? - un vlog de 1 minuto del departamento"
+},
+{
+"key": "part06.html#280",
+"es": "Contexto"
+},
+{
+"key": "part06.html#281",
+"es": "Los estudiantes de secundaria buscan información sobre la universidad en videos cortos, no en las webs de los departamentos. Los videos promocionales actuales se limitan a enumerar instalaciones, así que nadie los ve hasta el final."
+},
+{
+"key": "part06.html#282",
+"es": "Objetivo"
+},
+{
+"key": "part06.html#283",
+"es": "Aumentar el reconocimiento. Métrica: retención media de visualización del 60 % o más"
+}
+]

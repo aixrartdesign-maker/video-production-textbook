@@ -1,0 +1,622 @@
+[
+{
+"key": "feature_lighting.html#106",
+"es": "Flood"
+},
+{
+"key": "feature_lighting.html#107",
+"es": "Difuso"
+},
+{
+"key": "feature_lighting.html#108",
+"es": "Fondos · pared de chroma key · grupos"
+},
+{
+"key": "feature_lighting.html#109",
+"es": "Foco abierto, panel LED, Fresnel en flood"
+},
+{
+"key": "feature_lighting.html#110",
+"es": "Spot · Cone 70 · Feather 80"
+},
+{
+"key": "feature_lighting.html#111",
+"es": "Sujeto y fondo igual de brillantes"
+},
+{
+"key": "feature_lighting.html#112",
+"es": "Suave"
+},
+{
+"key": "feature_lighting.html#113",
+"es": "Fuente de área"
+},
+{
+"key": "feature_lighting.html#114",
+"es": "Casi ninguno"
+},
+{
+"key": "feature_lighting.html#115",
+"es": "Principal · relleno de retrato, belleza, productos mate"
+},
+{
+"key": "feature_lighting.html#116",
+"es": "Softbox 60–120, difusión 216/250, rebote"
+},
+{
+"key": "feature_lighting.html#117",
+"es": "Spot · Cone 90 · Feather 100 · Shadow Diffusion 20+"
+},
+{
+"key": "feature_lighting.html#118",
+"es": "Fuente demasiado lejos; vuelve a ser dura"
+},
+{
+"key": "feature_lighting.html#119",
+"es": "Ambiente"
+},
+{
+"key": "feature_lighting.html#120",
+"es": "No direccional"
+},
+{
+"key": "feature_lighting.html#121",
+"es": "Ninguno"
+},
+{
+"key": "feature_lighting.html#122",
+"es": "Suelo de exposición, aspecto de día nublado"
+},
+{
+"key": "feature_lighting.html#123",
+"es": "Rebote en el techo, book light grande, ventana difusa"
+},
+{
+"key": "feature_lighting.html#124",
+"es": "Ambient · Intensity 10–30 %"
+},
+{
+"key": "feature_lighting.html#125",
+"es": "Usa solo ambiente y luego se pregunta por qué se ve «plano»"
+},
+{
+"key": "feature_lighting.html#126",
+"es": "<small>PLIEGO 03</small>Herramientas que cambian la luz — tamaño · distancia · dirección · intensidad · color, cinco mandos de control"
+},
+{
+"key": "feature_lighting.html#127",
+"es": "Suavidad = tamaño aparente de la fuente"
+},
+{
+"key": "feature_lighting.html#128",
+"es": "<b>Izquierda dura · derecha suave</b><span>Mismo rostro, misma exposición. Izquierda: una bombilla desnuda; derecha: un softbox de 2 m</span>"
+},
+{
+"key": "feature_lighting.html#129",
+"es": "Fuente pequeña · lejos → dura"
+},
+{
+"key": "feature_lighting.html#130",
+"es": "Borde de sombra afiladísimo"
+},
+{
+"key": "feature_lighting.html#131",
+"es": "Fuente grande · cerca → suave"
+},
+{
+"key": "feature_lighting.html#132",
+"es": "La sombra se extiende y se desvanece"
+},
+{
+"key": "feature_lighting.html#133",
+"es": "<b>Qué separa lo duro de lo suave</b><span>No el tipo de lámpara, sino el <b>tamaño</b> de la fuente vista desde el sujeto. Agrándala (difusión · rebote) o acércala, y se suaviza</span>"
+},
+{
+"key": "feature_lighting.html#134",
+"es": "<b>Modificadores — qué controla cada uno</b><span>Softbox · difusión → tamaño (suavidad)</span><span>Rebote (techo · pared · cartón pluma) → tamaño + dirección</span><span>Rejilla · viseras → cortan el derrame</span><span>Bandera → bloquea la luz</span><span>Gelatina (CTO · CTB) → color</span><span>ND → solo brillo</span>"
+},
+{
+"key": "feature_lighting.html#135",
+"es": "<b>Lámina LT-3</b> Dura y suave — lo deciden el «tamaño aparente» de la fuente y la distancia. Los modificadores son los mandos que cambian ambos."
+},
+{
+"key": "feature_lighting.html#136",
+"es": "<b>2<em>x</em></b>Distancia → 1/4 de brillo (−2 pasos)"
+},
+{
+"key": "feature_lighting.html#137",
+"es": "<b>216<em>/ 250</em></b>Difusión completa / media — aprox. −1,5 / −0,8 pasos"
+},
+{
+"key": "feature_lighting.html#138",
+"es": "<b>5600<em>K</em></b>Luz día · <b>3200<em>K</em></b>tungsteno · CTO = 5600→3200"
+},
+{
+"key": "feature_lighting.html#139",
+"es": "<b>1<em> sola</em></b>Dirección de sombra por encuadre"
+},
+{
+"key": "feature_lighting.html#140",
+"es": "<small>PLIEGO 04</small>Ocho montajes de iluminación — apréndelos en planta"
+},
+{
+"key": "feature_lighting.html#141",
+"es": "Ocho montajes — vistos desde arriba"
+},
+{
+"key": "feature_lighting.html#142",
+"es": "<b>01 3 puntos básico</b><span>Principal 45° + relleno + contraluz · donde empiezan las entrevistas</span>"
+},
+{
+"key": "feature_lighting.html#143",
+"es": "<b>02 Rembrandt</b><span>Principal 45° alta + cartón negro · triángulo de luz en la mejilla</span>"
+},
+{
+"key": "feature_lighting.html#144",
+"es": "<b>03 Mariposa</b><span>Principal frontal y alta + reflector bajo el mentón · belleza</span>"
+},
+{
+"key": "feature_lighting.html#145",
+"es": "<b>04 Dividida</b><span>Una principal a 90° · el rostro partido en dos</span>"
+},
+{
+"key": "feature_lighting.html#146",
+"es": "<b>05 Loop</b><span>Principal 35° + relleno débil · la opción más segura</span>"
+},
+{
+"key": "feature_lighting.html#147",
+"es": "<b>06 Book light</b><span>Principal → rebote → difusión · la luz más suave</span>"
+},
+{
+"key": "feature_lighting.html#148",
+"es": "<b>07 Contraluz · contorno</b><span>Dos lámparas detrás, a ambos lados + rebote frontal · solo la silueta</span>"
+},
+{
+"key": "feature_lighting.html#149",
+"es": "<b>08 Cenital de producto</b><span>Gran luz suave arriba + strip detrás + cartones blancos a ambos lados</span>"
+},
+{
+"key": "feature_lighting.html#150",
+"es": "<b>Lámina LT-4</b> Ocho montajes de iluminación — el mismo estudio y el mismo sujeto en el mismo lugar; en este montaje 3D solo cambia la posición de las lámparas. En foto se recuerdan como un «ambiente»; en planta, como «ángulos»."
+},
+{
+"key": "feature_lighting.html#151",
+"es": "<small>PLIEGO 05</small>La luz en el software — cuatro luces 3D de After Effects y herramientas de efectos de luz"
+},
+{
+"key": "feature_lighting.html#152",
+"es": "Las luces 3D de After Effects son una maqueta de la iluminación de set. Usan el mismo vocabulario (spot · point · ambient) y controlan las mismas propiedades (intensidad · color · ángulo de cono · caída · sombra). Si sabes manejar la luz en el set, tomarás las mismas decisiones en el software."
+},
+{
+"key": "feature_lighting.html#153",
+"es": "La luz en el software — cuatro luces"
+},
+{
+"key": "feature_lighting.html#154",
+"es": "<b>Parallel</b><span class=\"deg\">En el set · sol · HMI</span><span>Paralela y uniforme — todas las sombras caen igual, sea cual sea la distancia</span>"
+},
+{
+"key": "feature_lighting.html#155",
+"es": "<b>Spot</b><span class=\"deg\">En el set · Fresnel · softbox</span><span>Cono — la luz principal por defecto. Cone Angle · Feather · Falloff</span>"
+},
+{
+"key": "feature_lighting.html#156",
+"es": "<b>Point</b><span class=\"deg\">En el set · bombilla · vela · tubo</span><span>En todas direcciones — se atenúa con la distancia (Falloff)</span>"
+},
+{
+"key": "feature_lighting.html#157",
+"es": "<b>Ambient</b><span class=\"deg\">En el set · rebote en el techo · día nublado</span><span>Nivel base sin sombras — solo 10–30 %; con más, queda plano</span>"
+},
+{
+"key": "feature_lighting.html#158",
+"es": "<b>Orden de montaje</b><span>① Ambient al 10–20 % como nivel base</span><span>② Un Spot como principal (Shadow on)</span><span>③ Point o Spot débil como relleno (Shadow off)</span><span>④ Spot desde atrás como contorno</span><span>⑤ Opciones de material: Accepts Shadows · Casts Shadows</span>"
+},
+{
+"key": "feature_lighting.html#159",
+"es": "<b>Lámina LT-5</b> Cuatro luces 3D de After Effects y sus equivalentes en el set — la misma esfera y la misma caja, iluminadas por cada una de las cuatro luces por separado. La luz en el software es una maqueta de la iluminación de set."
+},
+{
+"key": "feature_lighting.html#160",
+"es": "Tarea en el set"
+},
+{
+"key": "feature_lighting.html#161",
+"es": "After Effects"
+},
+{
+"key": "feature_lighting.html#162",
+"es": "Premiere Pro / Resolve"
+},
+{
+"key": "feature_lighting.html#163",
+"es": "Parámetros clave · consejos"
+},
+{
+"key": "feature_lighting.html#164",
+"es": "Iluminar un solo punto con un spot"
+},
+{
+"key": "feature_lighting.html#165",
+"es": "3D Spot Light · o un Solid blanco con Mask + Feather, fusión Add/Overlay"
+},
+{
+"key": "feature_lighting.html#166",
+"es": "Lumetri Vignette (invertida) · Curves con máscara"
+},
+{
+"key": "feature_lighting.html#167",
+"es": "Calado de máscara 200+ · opacidad 20–40 % · un toque de color en el borde (cálido)"
+},
+{
+"key": "feature_lighting.html#168",
+"es": "Patrones de gobo: rejas de ventana · hojas"
+},
+{
+"key": "feature_lighting.html#169",
+"es": "Fractal Noise → Levels → Track Matte / Light Transmission"
+},
+{
+"key": "feature_lighting.html#170",
+"es": "2 Lumetri con máscara (claro/oscuro)"
+},
+{
+"key": "feature_lighting.html#171",
+"es": "Anima Evolution despacio para lograr «sombras que se mecen con el viento»"
+},
+{
+"key": "feature_lighting.html#172",
+"es": "Contorno a contraluz · bloom"
+},
+{
+"key": "feature_lighting.html#173",
+"es": "Light Wrap (con Keylight) · Glow (Threshold 70–85) · CC Light Rays"
+},
+{
+"key": "feature_lighting.html#174",
+"es": "Lumetri Highlights↑ + Glow (plugin)"
+},
+{
+"key": "feature_lighting.html#175",
+"es": "Pon Composite Original de Glow en «Behind» para que sea sutil · sitúa Light Rays en la posición de la fuente"
+},
+{
+"key": "feature_lighting.html#176",
+"es": "Destello de lente"
+},
+{
+"key": "feature_lighting.html#177",
+"es": "Lens Flare (integrado) · Optical Flares (plugin) · CC Light Burst 2.5"
+},
+{
+"key": "feature_lighting.html#178",
+"es": "Lens Flare (integrado)"
+},
+{
+"key": "feature_lighting.html#179",
+"es": "Vincula la posición de la fuente a los datos de tracking · brillo 60–80 % · fusión Screen"
+},
+{
+"key": "feature_lighting.html#180",
+"es": "Barrido de luz sobre un logo"
+},
+{
+"key": "feature_lighting.html#181",
+"es": "CC Light Sweep · Shine(Trapcode)"
+},
+{
+"key": "feature_lighting.html#182",
+"es": "Light Sweep (Legacy) · animación de máscara"
+},
+{
+"key": "feature_lighting.html#183",
+"es": "Width 30–60 · Sweep Intensity 20–40 · una vez en 1 segundo, nunca dos"
+},
+{
+"key": "feature_lighting.html#184",
+"es": "Proyectar una sombra (composición)"
+},
+{
+"key": "feature_lighting.html#185",
+"es": "Drop Shadow(2D) · Radial Shadow · 3D Light Casts Shadows · Shadow Catcher"
+},
+{
+"key": "feature_lighting.html#186",
+"es": "Drop Shadow (integrado)"
+},
+{
+"key": "feature_lighting.html#187",
+"es": "Softness 20–40 · Opacity 40–60 · la dirección coincide con la luz principal"
+},
+{
+"key": "feature_lighting.html#188",
+"es": "Afinar exposición general · contraste"
+},
+{
+"key": "feature_lighting.html#189",
+"es": "Lumetri Color · Curves · Exposure · Levels"
+},
+{
+"key": "feature_lighting.html#190",
+"es": "Lumetri Basic: Exposure · Contrast · Highlights · Shadows · Whites · Blacks"
+},
+{
+"key": "feature_lighting.html#191",
+"es": "Orden: exposición → balance de blancos → contraste → altas luces/sombras → solo entonces el look"
+},
+{
+"key": "feature_lighting.html#192",
+"es": "Relleno negativo (oscurecer)"
+},
+{
+"key": "feature_lighting.html#193",
+"es": "Solid negro + Mask + Multiply · Vignette"
+},
+{
+"key": "feature_lighting.html#194",
+"es": "Lumetri Vignette Amount −1 a −2 · Curves con máscara"
+},
+{
+"key": "feature_lighting.html#195",
+"es": "Oscurece los bordes 1 paso y la mirada va al centro"
+},
+{
+"key": "feature_lighting.html#196",
+"es": "Gelatina de temperatura de color"
+},
+{
+"key": "feature_lighting.html#197",
+"es": "Tint · Color Balance · Lumetri Temperature"
+},
+{
+"key": "feature_lighting.html#198",
+"es": "Lumetri Temperature / Tint"
+},
+{
+"key": "feature_lighting.html#199",
+"es": "Look CTO: Temperature +10–20 · altas luces cálidas/sombras frías con Color Wheels"
+},
+{
+"key": "feature_lighting.html#200",
+"es": "Parpadeo de luz práctica · luz de vela"
+},
+{
+"key": "feature_lighting.html#201",
+"es": "Expresión wiggle(4, 20) en Intensity de Point Light"
+},
+{
+"key": "feature_lighting.html#202",
+"es": "Fotogramas clave de opacidad · plugins"
+},
+{
+"key": "feature_lighting.html#203",
+"es": "Frecuencia 2–5 Hz, amplitud 10–20 % — con más, parece un fluorescente roto"
+},
+{
+"key": "feature_lighting.html#204",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "feature_lighting.html#205",
+"es": "La luz de software «se suma» a la luz del set; no la «crea». Acierta en el rodaje con la única dirección de sombra y en posproducción podrás superponer lo que quieras."
+},
+{
+"key": "feature_lighting.html#206",
+"es": "Los nombres cambian (versiones · plugins). Lo que no cambia es el orden <b>intensidad → dirección → tamaño → color</b>, y la regla de que hay una sola dirección de sombra."
+},
+{
+"key": "feature_lighting.html#207",
+"es": "<small>PLIEGO 06</small>Guía rápida de iluminación en el set — un orden para montar en 10 minutos"
+},
+{
+"key": "feature_lighting.html#208",
+"es": "<b>01</b><i>Apagar</i>Apaga todos los fluorescentes · la luz parásita de la sala. Empieza a oscuras."
+},
+{
+"key": "feature_lighting.html#209",
+"es": "<b>02</b><i>Una principal</i>Principal a 45°/45° del sujeto. Expón para la principal (base: f/2,8, ISO 800)."
+},
+{
+"key": "feature_lighting.html#210",
+"es": "<b>03</b><i>Relleno</i>Un reflector en el lado opuesto, o una luz suave a 1/3 de intensidad. Esto fija el ratio de contraste."
+},
+{
+"key": "feature_lighting.html#211",
+"es": "<b>04</b><i>Separar</i>Contraluz/contorno o luz de fondo. El fondo, 1 paso más oscuro que el sujeto."
+},
+{
+"key": "feature_lighting.html#212",
+"es": "<b>05</b><i>Color · orden</i>Unifica la temperatura de color, corta el derrame con viseras · banderas, seguridad (sacos de arena · cables)."
+},
+{
+"key": "feature_lighting.html#213",
+"es": "<small>Ratio de contraste</small>Principal : relleno"
+},
+{
+"key": "feature_lighting.html#214",
+"es": "2:1 (1 paso) — luminoso, comercial, belleza"
+},
+{
+"key": "feature_lighting.html#215",
+"es": "4:1 (2 pasos) — drama estándar, entrevistas"
+},
+{
+"key": "feature_lighting.html#216",
+"es": "8:1 o más (3 pasos+) — cine negro, thriller"
+},
+{
+"key": "feature_lighting.html#217",
+"es": "Sin relleno — silueta, dividida"
+},
+{
+"key": "feature_lighting.html#218",
+"es": "<small>Temperatura de color</small>Si mezclas, que sea adrede"
+},
+{
+"key": "feature_lighting.html#219",
+"es": "Luz día 5600 K · tungsteno 3200 K · fluorescente 4000–4500 K"
+},
+{
+"key": "feature_lighting.html#220",
+"es": "Ventana + tungsteno → CTO en la ventana o CTB en la lámpara"
+},
+{
+"key": "feature_lighting.html#221",
+"es": "Mezcla en un solo sentido: «ventana=fría, interior=cálido»"
+},
+{
+"key": "feature_lighting.html#222",
+"es": "Ajusta el balance de blancos de la cámara a la luz principal"
+},
+{
+"key": "feature_lighting.html#223",
+"es": "<small>Seguridad</small>Los accidentes empiezan en la iluminación"
+},
+{
+"key": "feature_lighting.html#224",
+"es": "Un saco de arena en cada trípode, cables fijados al suelo con cinta"
+},
+{
+"key": "feature_lighting.html#225",
+"es": "Ni gelatinas · ni telas a menos de 30 cm del tungsteno (fuego)"
+},
+{
+"key": "feature_lighting.html#226",
+"es": "Suma la carga: 1 circuito doméstico ≈ 3 kW"
+},
+{
+"key": "feature_lighting.html#227",
+"es": "Por encima de 2 m, trabajo de 2 personas"
+},
+{
+"key": "feature_lighting.html#228",
+"es": "Síntoma"
+},
+{
+"key": "feature_lighting.html#229",
+"es": "Causa"
+},
+{
+"key": "feature_lighting.html#230",
+"es": "Solución"
+},
+{
+"key": "feature_lighting.html#231",
+"es": "El rostro se ve plano"
+},
+{
+"key": "feature_lighting.html#232",
+"es": "Principal muy cerca del eje de cámara, o demasiada luz ambiente"
+},
+{
+"key": "feature_lighting.html#233",
+"es": "Mueve la principal 30° al lado · arriba, elimina la luz parásita, relleno negativo"
+},
+{
+"key": "feature_lighting.html#234",
+"es": "Dos sombras"
+},
+{
+"key": "feature_lighting.html#235",
+"es": "Principal y relleno, ambas duras"
+},
+{
+"key": "feature_lighting.html#236",
+"es": "Suaviza el relleno (rebote), 1/3 de intensidad"
+},
+{
+"key": "feature_lighting.html#237",
+"es": "Piel brillante"
+},
+{
+"key": "feature_lighting.html#238",
+"es": "Fuente pequeña y dura, de frente"
+},
+{
+"key": "feature_lighting.html#239",
+"es": "Difusión · softbox, polvos de maquillaje, sube el ángulo"
+},
+{
+"key": "feature_lighting.html#240",
+"es": "Fondo tan brillante como el sujeto"
+},
+{
+"key": "feature_lighting.html#241",
+"es": "El flood llega al fondo"
+},
+{
+"key": "feature_lighting.html#242",
+"es": "Viseras · banderas, acerca la principal al sujeto (cuadrado inverso)"
+},
+{
+"key": "feature_lighting.html#243",
+"es": "Reflejos en las gafas"
+},
+{
+"key": "feature_lighting.html#244",
+"es": "Fuente de frente a la altura de los ojos"
+},
+{
+"key": "feature_lighting.html#245",
+"es": "Principal más alta y al lado; levanta un poco las patillas de las gafas"
+},
+{
+"key": "feature_lighting.html#246",
+"es": "Dominante verde"
+},
+{
+"key": "feature_lighting.html#247",
+"es": "Fluorescentes mezclados"
+},
+{
+"key": "feature_lighting.html#248",
+"es": "Apaga los fluorescentes, o ajusta el balance de blancos a fluorescente y pon gelatina plus green en la principal"
+},
+{
+"key": "feature_lighting.html#249",
+"es": "Parpadeo"
+},
+{
+"key": "feature_lighting.html#250",
+"es": "Obturador desincronizado con LED · HMI"
+},
+{
+"key": "feature_lighting.html#251",
+"es": "Obturador 1/50 (50 Hz), focos sin parpadeo, prueba de rodaje"
+},
+{
+"key": "feature_lighting.html#252",
+"es": "<small>Ejercicio</small>4.7+"
+},
+{
+"key": "feature_lighting.html#253",
+"es": "Tarea"
+},
+{
+"key": "feature_lighting.html#254",
+"es": "Mantén el mismo sujeto · el mismo lugar y rueda un plano con cada una de las cinco luces: spot puntual / spot / flood / suave / ambiente. Dibuja una planta de iluminación (vista cenital) de cada plano. Recrea uno de ellos en After Effects con luces 3D Spot · Point · Ambient."
+},
+{
+"key": "feature_lighting.html#255",
+"es": "Consejo"
+},
+{
+"key": "feature_lighting.html#256",
+"es": "¿No tienes equipo? Sustitúyelo por una linterna (spot puntual), una lámpara de escritorio (spot), una ventana (suave) y un día nublado (ambiente). Lo que importa es ver con tus propios ojos la diferencia en los bordes de sombra."
+},
+{
+"key": "feature_lighting.html#257",
+"es": "Evaluación"
+},
+{
+"key": "feature_lighting.html#258",
+"es": "Diferencia en los bordes de sombra entre los cinco planos, ángulos marcados en las plantas, dirección de sombra coincidente en la recreación en software"
+},
+{
+"key": "feature_lighting.html#259",
+"es": "Respuesta modelo"
+},
+{
+"key": "feature_lighting.html#260",
+"es": "Coloca los cinco planos lado a lado en una pantalla y añade a cada uno una frase sobre qué emoción encaja con su luz."
+}
+]

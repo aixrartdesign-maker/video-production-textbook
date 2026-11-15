@@ -1,0 +1,498 @@
+[
+{
+"key": "part07.html#907",
+"es": "Aprovechamiento de los rasgos del medio"
+},
+{
+"key": "part07.html#908",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#909",
+"es": "Convierte los límites técnicos en restricciones creativas."
+},
+{
+"key": "part07.html#910",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+},
+{
+"key": "part07.html#911",
+"es": "Dimensiones de la forma"
+},
+{
+"key": "part07.html#912",
+"es": "Punto · línea · plano · volumen · tiempo. El contenido inmersivo va más allá de la pantalla y trata todo el espacio como material de la forma. Del punto al tiempo, el movimiento añade una dimensión cada vez."
+},
+{
+"key": "part07.html#913",
+"es": "El movimiento añade una dimensión cada vez"
+},
+{
+"key": "part07.html#914",
+"es": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Punto</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">0D</tspan>"
+},
+{
+"key": "part07.html#915",
+"es": "Solo posición"
+},
+{
+"key": "part07.html#916",
+"es": "Kandinsky 1926"
+},
+{
+"key": "part07.html#917",
+"es": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Línea</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">1D</tspan>"
+},
+{
+"key": "part07.html#918",
+"es": "Trayectoria de un punto en movimiento"
+},
+{
+"key": "part07.html#919",
+"es": "Paul Klee 1925"
+},
+{
+"key": "part07.html#920",
+"es": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Plano</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">2D</tspan>"
+},
+{
+"key": "part07.html#921",
+"es": "Trayectoria de una línea en movimiento"
+},
+{
+"key": "part07.html#922",
+"es": "Malévich 1915"
+},
+{
+"key": "part07.html#923",
+"es": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Volumen</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">3D</tspan>"
+},
+{
+"key": "part07.html#924",
+"es": "Trayectoria de un plano en movimiento"
+},
+{
+"key": "part07.html#925",
+"es": "Picasso · Braque 1907"
+},
+{
+"key": "part07.html#926",
+"es": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Tiempo</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">4D</tspan>"
+},
+{
+"key": "part07.html#927",
+"es": "Volumen que se mueve en el tiempo"
+},
+{
+"key": "part07.html#928",
+"es": "Hnos. Lumière 1895"
+},
+{
+"key": "part07.html#929",
+"es": "El contenido inmersivo añade el «moverse por el lugar» — de una pantalla que miras a un espacio en el que entra tu cuerpo"
+},
+{
+"key": "part07.html#930",
+"es": "<b>Fig. 75</b> Dimensiones de la forma — el movimiento añade una dimensión cada vez. Un punto en movimiento crea una línea; una línea, un plano; un plano, un volumen; y un volumen que se mueve en el tiempo se convierte en video."
+},
+{
+"key": "part07.html#931",
+"es": "<b>Fotos de referencia 6.14A · 6.14B</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part07.html#932",
+"es": "<b>a</b>Punto — una sola luz en la oscuridad"
+},
+{
+"key": "part07.html#933",
+"es": "<b>b</b>Línea — una estela dibujada con luz"
+},
+{
+"key": "part07.html#934",
+"es": "<b>c</b>Plano — una pantalla que recibe la luz"
+},
+{
+"key": "part07.html#935",
+"es": "<b>d</b>Volumen — una forma hecha de luz"
+},
+{
+"key": "part07.html#936",
+"es": "<b>e</b>Tiempo — la huella del movimiento"
+},
+{
+"key": "part07.html#937",
+"es": "<b>f</b>Moverse por el espacio — las escenas cambian al caminar"
+},
+{
+"key": "part07.html#938",
+"es": "<b>Contar las dimensiones</b>"
+},
+{
+"key": "part07.html#939",
+"es": "El punto empieza en 0D, así que el volumen es 3D y al añadir el tiempo se llega a 4D. Recuerda que punto, línea, plano, volumen y tiempo añaden cada uno un movimiento, en ese orden, y no te confundirás."
+},
+{
+"key": "part07.html#940",
+"es": "En geometría, un punto tiene posición pero no tamaño y es 0D; una línea, la trayectoria de un punto en movimiento, es 1D; un plano, la trayectoria de una línea en movimiento, es 2D; y un volumen, la trayectoria de un plano en movimiento, es 3D. Añade el tiempo y pasa a ser 4D, y cuando el espectador camina por dentro, se suma el movimiento por el lugar."
+},
+{
+"key": "part07.html#941",
+"es": "Cómo usa cada dimensión el contenido inmersivo"
+},
+{
+"key": "part07.html#942",
+"es": "<b>0</b><i>Punto</i>Una sola luz en la oscuridad, una sola partícula. El recurso más potente para llevar la mirada a un lugar"
+},
+{
+"key": "part07.html#943",
+"es": "<b>1</b><i>Línea</i>Estelas de luz, láseres, líneas LED. Indican dirección y velocidad y guían el desplazamiento"
+},
+{
+"key": "part07.html#944",
+"es": "<b>2</b><i>Plano</i>Pantallas, paredes, suelos, gasas translúcidas. El videomapping convierte en pantallas los planos de un edificio"
+},
+{
+"key": "part07.html#945",
+"es": "<b>3</b><i>Volumen</i>Iluminación volumétrica, efectos de holograma, ilusión anamórfica. Haz aparecer volumen en un plano o créalo en el aire"
+},
+{
+"key": "part07.html#946",
+"es": "<b>4</b><i>Tiempo</i>Cambio y movimiento. El mismo espacio se vuelve una escena totalmente distinta con el tiempo"
+},
+{
+"key": "part07.html#947",
+"es": "<b>+</b><i>Moverse por el lugar</i>La escena cambia a medida que caminan los visitantes. El cine cambia de lugar con cortes; en el espacio inmersivo, es el cuerpo del visitante el que cambia de lugar"
+},
+{
+"key": "part07.html#948",
+"es": "Cuanto más pasa el video del plano al espacio, más diseña quien planifica la posición del espectador en lugar de la de la cámara.<small>6.14 El video es espacio-tiempo en movimiento</small>"
+},
+{
+"key": "part07.html#949",
+"es": "El video registra el espacio 3D en una pantalla 2D y le añade tiempo para ponerlo en movimiento. La edición corta y une ese espacio-tiempo (1.20); el contenido inmersivo mete dentro el cuerpo del espectador."
+},
+{
+"key": "part07.html#950",
+"es": "Artistas y teoría para leer en paralelo"
+},
+{
+"key": "part07.html#951",
+"es": "Wassily Kandinsky, Punto y línea sobre el plano (1926): expone la tensión entre punto · línea · plano como gramática básica de la forma."
+},
+{
+"key": "part07.html#952",
+"es": "Paul Klee, Bosquejos pedagógicos (1925): describe la línea como un punto que sale a pasear; la idea de que el movimiento crea la dimensión."
+},
+{
+"key": "part07.html#953",
+"es": "Kazimir Malévich, Piet Mondrian: Cuadrado negro (1915) y divisiones horizontales · verticales del plano; una pintura hecha solo de plano y color."
+},
+{
+"key": "part07.html#954",
+"es": "El cubismo de Picasso y Braque: superponer muchos puntos de vista en un mismo cuadro para llevar el volumen al plano."
+},
+{
+"key": "part07.html#955",
+"es": "Marcel Duchamp, Étienne-Jules Marey: Desnudo bajando una escalera n.º 2 (1912) y la cronofotografía ponen tiempo y movimiento en una sola imagen."
+},
+{
+"key": "part07.html#956",
+"es": "Nam June Paik: videoarte que usó televisores como material escultórico y convirtió la pantalla en un objeto en el espacio."
+},
+{
+"key": "part07.html#957",
+"es": "Yayoi Kusama, James Turrell, teamLab: obras de puntos, luz y espacio en las que el espectador entra. Las primeras referencias para planificar exposiciones inmersivas."
+},
+{
+"key": "part07.html#958",
+"es": "Una frase para usar en el set"
+},
+{
+"key": "part07.html#959",
+"es": "En una propuesta de contenido inmersivo, escribe primero dónde se sitúan los visitantes, por dónde caminan y junto a qué pasan, antes que lo que vas a mostrar."
+},
+{
+"key": "part07.html#960",
+"es": "<small>Ejercicio</small>6.14"
+},
+{
+"key": "part07.html#961",
+"es": "Tarea"
+},
+{
+"key": "part07.html#962",
+"es": "Expresa cada una de las cinco dimensiones, punto · línea · plano · volumen · tiempo, en un video de 5 segundos."
+},
+{
+"key": "part07.html#963",
+"es": "Consejo"
+},
+{
+"key": "part07.html#964",
+"es": "Varía un mismo sujeto (p. ej., una pelota) a lo largo de las cinco dimensiones y las diferencias quedarán claras."
+},
+{
+"key": "part07.html#965",
+"es": "Evaluación"
+},
+{
+"key": "part07.html#966",
+"es": "Comprensión exacta de la dimensión, expresión coherente"
+},
+{
+"key": "part07.html#967",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#968",
+"es": "Une los cinco videos en un solo flujo en el que las dimensiones se van sumando."
+},
+{
+"key": "part07.html#969",
+"es": "Cierre de la PARTE 07"
+},
+{
+"key": "part07.html#970",
+"es": "Ejercicios y repaso"
+},
+{
+"key": "part07.html#971",
+"es": "<b>Tres relaciones de aspecto</b>Crea versiones 16:9, 9:16 y 1:1 del mismo material, colocando los subtítulos de forma distinta en cada una."
+},
+{
+"key": "part07.html#972",
+"es": "<b>Mide las zonas tapadas por la UI</b>Mide, a partir de capturas de pantalla reales, las zonas que tapa la UI en las plataformas de video corto que usas, y elabora una guía."
+},
+{
+"key": "part07.html#973",
+"es": "<b>Plano de recorrido y gráfico de permanencia</b>Elige un espacio del campus o cercano que pueda acoger una exposición, y dibuja un diagrama de recorrido sobre el plano y un gráfico de permanencia."
+},
+{
+"key": "part07.html#974",
+"es": "<b>Busca una esquina anamórfica</b>Busca una esquina de edificio donde la ilusión pueda funcionar, y esboza el punto de vista de referencia y una idea de contenido."
+},
+{
+"key": "part07.html#975",
+"es": "Resumen en una página"
+},
+{
+"key": "part07.html#976",
+"es": "6.1 Especificaciones de producción por medio"
+},
+{
+"key": "part07.html#977",
+"es": "Un proyecto que empieza sin plataforma definida siempre se rehace. Vuelve a consultar las guías oficiales antes de empezar."
+},
+{
+"key": "part07.html#978",
+"es": "6.2 Horizontal y vertical"
+},
+{
+"key": "part07.html#979",
+"es": "El vertical no es otro medio, sino otro idioma. Los planos generales no sobreviven."
+},
+{
+"key": "part07.html#980",
+"es": "6.3 Zonas seguras"
+},
+{
+"key": "part07.html#981",
+"es": "Comprueba con una subida real, no con las guías del programa de edición."
+},
+{
+"key": "part07.html#982",
+"es": "6.5 360 y VR"
+},
+{
+"key": "part07.html#983",
+"es": "Si el espectador nunca miró hacia atrás, el plan fracasó. Prevenir el mareo va antes que la calidad de imagen."
+},
+{
+"key": "part07.html#984",
+"es": "6.7 Salas de exposición XR"
+},
+{
+"key": "part07.html#985",
+"es": "Divide 3600 segundos entre la duración de la experiencia, multiplica por el aforo simultáneo y toma el 70 % como cifra realista."
+},
+{
+"key": "part07.html#986",
+"es": "6.9 Publicidad exterior"
+},
+{
+"key": "part07.html#987",
+"es": "La publicidad exterior es muda por defecto. Un plan que depende del sonido ha fracasado al elegir el medio."
+},
+{
+"key": "part07.html#988",
+"es": "6.10 Señalización LED"
+},
+{
+"key": "part07.html#989",
+"es": "Términos como paso de píxel y nits hacen más precisos los presupuestos. En el LED transparente, el negro es transparente."
+},
+{
+"key": "part07.html#990",
+"es": "6.11 Entornos de visionado"
+},
+{
+"key": "part07.html#991",
+"es": "Si abarcas varios medios, construye primero para el más restringido. Ampliar es fácil; reducir es difícil."
+},
+{
+"key": "part07.html#992",
+"es": "6.14 Dimensiones de la forma"
+},
+{
+"key": "part07.html#993",
+"es": "En una propuesta, escribe dónde se sitúan los visitantes y por dónde caminan antes que lo que vas a mostrar."
+},
+{
+"key": "part07.html#994",
+"es": "Preguntas para pensar"
+},
+{
+"key": "part07.html#995",
+"es": "¿Qué tamaño tiene la pantalla en la que se verá mi video y a qué distancia está el público?"
+},
+{
+"key": "part07.html#996",
+"es": "Anota cómo cambian esas condiciones tus tamaños de plano."
+},
+{
+"key": "part07.html#997",
+"es": "¿Qué queda cuando veo mi video sin sonido?"
+},
+{
+"key": "part07.html#998",
+"es": "Observa por qué los subtítulos y los gráficos pasan a ser los principales portadores del mensaje en los medios que están en silencio por defecto."
+},
+{
+"key": "part07.html#999",
+"es": "Autoevaluación"
+},
+{
+"key": "part07.html#1000",
+"es": "Comprueba que sabes explicar por qué el video vertical evita los planos generales · cómo se relaciona el paso de píxel con la distancia mínima de visión · tres formas de reducir el mareo en el video 360 · cómo calcular la capacidad por hora · cómo cambian los tamaños de plano según el entorno de visionado."
+},
+{
+"key": "part08.html#0",
+"es": "PARTE"
+},
+{
+"key": "part08.html#1",
+"es": "<small>PARTE</small>08"
+},
+{
+"key": "part08.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part08.html#3",
+"es": "Un análisis de la estructura de un anuncio de 15 segundos"
+},
+{
+"key": "part08.html#4",
+"es": "Un tablero de referencias (de 20 a 5)"
+},
+{
+"key": "part08.html#5",
+"es": "1 anuncio de 15 segundos y un bucle exterior sin sonido"
+},
+{
+"key": "part08.html#6",
+"es": "Producción publicitaria y estudio de casos"
+},
+{
+"key": "part08.html#7",
+"es": "¿Cómo se consigue que un anuncio funcione y deje grabada una marca? El público no vino a ver anuncios. Aprende la estructura que gana atención, comprensión y recuerdo en estas condiciones hostiles, y desmonta las técnicas de directores y productoras preguntándote por qué lo hicieron así."
+},
+{
+"key": "part08.html#8",
+"es": "Foto P-08 Set de anuncio de producto con softboxes de tira · imagen generada"
+},
+{
+"key": "part08.html#9",
+"es": "<b>P-08</b> Set de anuncio de producto con softboxes de tira"
+},
+{
+"key": "part08.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part08.html#11",
+"es": "Diseñar una estructura de 15 segundos y diseccionar referencias"
+},
+{
+"key": "part08.html#12",
+"es": "<b>Materiales</b>3 anuncios para analizar, Hoja de trabajo 5 impresa"
+},
+{
+"key": "part08.html#13",
+"es": "<b>10 min</b><i>Apertura</i><span>Mostrar solo los 3 primeros segundos y preguntar si seguirían viendo</span>"
+},
+{
+"key": "part08.html#14",
+"es": "<b>15 min</b><i>Conceptos</i><span>Estructura de 15 segundos, 6 tipos de gancho, embudo y mensaje</span>"
+},
+{
+"key": "part08.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>Elegir una obra de la tabla de casos y diseccionarla en grupo</span>"
+},
+{
+"key": "part08.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Rellenar una hoja de análisis de planos de referencia</span>"
+},
+{
+"key": "part08.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Explicar cómo seguir acumulando notas de análisis</span>"
+},
+{
+"key": "part08.html#18",
+"es": "<b>Punto de control</b>Una nota en cada corte sobre por qué se cortó ahí"
+},
+{
+"key": "part08.html#19",
+"es": "PARTE 08"
+},
+{
+"key": "part08.html#20",
+"es": "Introducción"
+},
+{
+"key": "part08.html#21",
+"es": "La publicidad es la forma más difícil: debe conmover a un desconocido en muy poco tiempo. El público no vino por el anuncio, y la mayoría espera a que termine. Tener que dejar algo en estas condiciones hostiles es lo que distingue a la publicidad de los demás videos."
+},
+{
+"key": "part08.html#22",
+"es": "Por eso la publicidad tiene una estructura estricta: captar la atención, hacer que se entienda, hacer que se recuerde. En 15 segundos, estas tres etapas reciben 3, 8 y 4 segundos. Debe haber un solo mensaje; si pones dos, ambos se esfuman. No es cuestión de gusto, sino una regla práctica comprobada una y otra vez."
+},
+{
+"key": "part08.html#23",
+"es": "La segunda mitad de esta PARTE analiza las técnicas de directores y productoras. No para copiarlas, sino para entender por qué hicieron lo que hicieron. El aprendizaje empieza en el momento en que pausas un anuncio que te gusta y anotas por qué cortó ahí. Dar «me gusta» no es investigar."
+},
+{
+"key": "part08.html#24",
+"es": "Contexto 13"
+},
+{
+"key": "part08.html#25",
+"es": "Cómo se recuerdan los anuncios"
+},
+{
+"key": "part08.html#26",
+"es": "El objetivo de un anuncio no es la admiración en el momento de verlo, sino un recuerdo que aflora cuando hace falta. Diseñar un anuncio es, al final, diseñar la atención y la memoria del público."
+},
+{
+"key": "part08.html#27",
+"es": "Uno de los modelos más antiguos es AIDA, atribuido al publicista estadounidense Elias St. Elmo Lewis a finales del siglo XIX: atención, interés, deseo, acción. Muchos objetan que los consumidores no siguen estos pasos en orden, pero algo sigue en pie: en un anuncio corto, si no ganas primero la atención, las demás etapas no llegan a empezar."
+},
+{
+"key": "part08.html#28",
+"es": "Sobre la memoria se cita a menudo la curva del olvido del psicólogo alemán Hermann Ebbinghaus. Sus experimentos de la década de 1880 mostraron que la información recién aprendida se desvanece rápido, pero que la repetición frena el olvido. Por eso los anuncios se repiten en muchos medios. El efecto de mera exposición que Robert Zajonc describió en 1968, la tendencia a que nos guste lo que vemos a menudo, forma parte del mismo cuadro."
+},
+{
+"key": "part08.html#29",
+"es": "En How Brands Grow (2010), el especialista en marketing Byron Sharp describió la clave del crecimiento de una marca como «disponibilidad mental»: la facilidad con que una marca viene a la mente en una situación de compra. Los activos distintivos, como el color, el logotipo, el sonido, el personaje y el eslogan, deben repetirse con coherencia, y la marca debe quedar claramente vinculada dentro del anuncio. Si un anuncio fue divertido pero nadie recuerda de quién era, puede que haya ayudado a otra marca."
+}
+]

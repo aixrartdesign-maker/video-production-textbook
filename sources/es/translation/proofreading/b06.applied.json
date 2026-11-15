@@ -1,0 +1,9 @@
+[
+ {"key": "part04.html#722", "find": "Incluso 0,1 segundos de retraso se nota raro.", "replace": "Incluso un retraso de 0,1 segundos resulta extraño.", "why": "grammar: plural subject with singular verb"},
+ {"key": "part04.html#802", "find": "¿Debías haber añadido luz entonces, o quitarla?", "replace": "¿Debiste añadir luz entonces, o quitarla?", "why": "grammar: non-parallel verb forms"},
+ {"key": "feature_lighting.html#71", "find": "otra bombilla · dimmers", "replace": "otra bombilla · reguladores", "why": "untranslated: dimmers"},
+ {"key": "part05.html#8", "find": "imagen generativa", "replace": "imagen generada", "why": "term: generated image (as in b07+)"},
+ {"key": "part05.html#23", "find": "piensa distinto que Premiere", "replace": "piensa distinto de Premiere", "why": "grammar: distinto de"},
+ {"key": "part05.html#113", "find": "casi todo trabajo profesional", "replace": "casi todo el trabajo profesional", "why": "grammar: missing article"},
+ {"key": "part05.html#234", "find": "Planos cámara en mano", "replace": "Planos con cámara en mano", "why": "grammar: missing preposition"}
+]

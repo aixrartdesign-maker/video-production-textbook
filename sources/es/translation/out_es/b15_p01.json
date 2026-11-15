@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#663",
+"es": "Consejos de rodaje"
+},
+{
+"key": "part01.html#664",
+"es": "En las reuniones, no describas una referencia con palabras: envía el enlace con el tramo de tiempo. Con solo escribir «de 3:45 a 4:10», la reunión dura la mitad."
+},
+{
+"key": "part01.html#665",
+"es": "Al aprender una herramienta nueva, averigua primero no su lista de funciones, sino el proceso existente al que sustituye. Si conoces su lugar, aprendes más rápido."
+},
+{
+"key": "part01.html#666",
+"es": "Si no conoces un término del sector, pregunta en el momento. El término que fingiste conocer causa los accidentes más graves."
+},
+{
+"key": "part13.html#0",
+"es": "PARTE"
+},
+{
+"key": "part13.html#1",
+"es": "<small>PARTE</small>13"
+},
+{
+"key": "part13.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part13.html#3",
+"es": "Un bucle de exposición que se entiende en 30 segundos desde cualquier punto"
+},
+{
+"key": "part13.html#4",
+"es": "Una pieza en tiempo real que responde a un solo gesto del espectador"
+},
+{
+"key": "part13.html#5",
+"es": "Plano de montaje · lista de equipos · plan de operación"
+},
+{
+"key": "part13.html#6",
+"es": "Texto de obra de 250 caracteres, portafolio de una página, calendario de convocatorias"
+},
+{
+"key": "part13.html#7",
+"es": "Arte multimedia y cine expandido"
+},
+{
+"key": "part13.html#8",
+"es": "Si un video solo está completo cuando el público se mueve, ¿quién lo hizo? Esta PARTE vuelve a plantear, desde donde estamos hoy, la pregunta que abrió Nam June Paik. Cuando la pantalla abandona el rectángulo, el público pasa de mirar a participar y la obra debe funcionar sola en una sala durante un mes, casi todo lo que ha aprendido quien hace video sigue sirviendo. Solo cambia la manera de usarlo."
+},
+{
+"key": "part13.html#9",
+"es": "Foto OPEN-13 Portadilla de PARTE, foto a toda página · imagen generada"
+},
+{
+"key": "part13.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part13.html#11",
+"es": "Entender en qué difieren las premisas del video convencional y del arte multimedia, crear con herramientas en tiempo real una pieza que responda al público, montarla · operarla · documentarla para que funcione un mes en una sala, y presentarse a una convocatoria."
+},
+{
+"key": "part13.html#12",
+"es": "<b>Materiales</b>Portátil con cámara web, una herramienta gratuita en tiempo real (TouchDesigner no comercial o p5.js), 1 video propio, cinta métrica, convocatoria impresa de arte multimedia público de Seúl"
+},
+{
+"key": "part13.html#13",
+"es": "<b>10 min</b><i>Introducción</i><span>Reproducir 30 segundos de un video propio desde un punto al azar y preguntar de qué trata</span>"
+},
+{
+"key": "part13.html#14",
+"es": "<b>20 min</b><i>Nuevas premisas</i><span>13.2 Comparar con la tabla posición del espectador · inicio y final · relación de aspecto · repetición; esbozar un bucle</span>"
+},
+{
+"key": "part13.html#15",
+"es": "<b>40 min</b><i>Creación</i><span>13.4 Crear una pieza reactiva a la cámara web a partir de una regla de una línea, como «se ilumina cuando alguien se acerca»</span>"
+},
+{
+"key": "part13.html#16",
+"es": "<b>30 min</b><i>Cálculo de montaje</i><span>13.5 Para una sala de 6 m de ancho × 4 m de fondo × 3 m de alto, calcular relación de tiro · tamaño de imagen · tendido eléctrico</span>"
+},
+{
+"key": "part13.html#17",
+"es": "<b>20 min</b><i>Cierre</i><span>13.6 Escribir un texto de obra de 150 caracteres que empiece por «Esta obra es…» y leer los de los demás</span>"
+},
+{
+"key": "part13.html#18",
+"es": "<b>Punto de control</b>¿Puedes decir en una frase qué ocurre cuando el espectador hace qué, y funciona 10 minutos sin detenerse?"
+},
+{
+"key": "part13.html#19",
+"es": "Contexto 23"
+},
+{
+"key": "part13.html#20",
+"es": "El hombre que le dio la vuelta a la televisión"
+},
+{
+"key": "part13.html#21",
+"es": "<span class=\"ph-id\">P13-CRTTOWER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>El origen del videoarte — una torre de televisores</b>Instalación de decenas de televisores CRT apilados que emiten video abstracto en una sala oscura</span>"
+},
+{
+"key": "part13.html#22",
+"es": "<b>Nota</b>Homenaje a las torres de televisores al estilo de Paik — una forma que apiló la caja que solo recibía y la convirtió en un medio para crear. «The More, the Better» usó 1003 aparatos"
+},
+{
+"key": "part13.html#23",
+"es": "En 1963 se inauguró «Exposition of Music — Electronic Television» en una pequeña galería de Wuppertal (Alemania). En la sala había trece televisores. Algunos mostraban imágenes distorsionadas; en otros, la imagen cambiaba cuando los visitantes pisaban un pedal o hacían ruido ante un micrófono. Fue la primera exposición individual de Nam June Paik, nacido en Seúl en 1932, y hoy se considera el punto de partida del videoarte."
+},
+{
+"key": "part13.html#24",
+"es": "La televisión era entonces un aparato para recibir en casa lo que enviara la emisora. Paik se propuso invertir ese flujo de sentido único. Dejó que los espectadores intervinieran en la imagen y más tarde construyó su propio sintetizador de video para modelar la señal a mano. Convirtió un medio de recepción en un medio de creación."
+},
+{
+"key": "part13.html#25",
+"es": "En 1962 se unió a Fluxus, parte de un movimiento que borraba la frontera entre la vida cotidiana y el arte, y tras conocer a John Cage en 1958 incorporó a su obra un sentido oriental del tiempo. En «TV Buddha» (1974), una estatua de Buda está sentada ante un televisor y contempla su propia imagen, transmitida por una cámara. La meditación y el circuito cerrado, el tiempo cíclico de Oriente y la electrónica de Occidente se encuentran en una sola pantalla."
+},
+{
+"key": "part13.html#26",
+"es": "Su visión también iba más allá de la obra. En una propuesta de 1974 a la Fundación Rockefeller usó por primera vez el término «superautopista electrónica», 20 años antes de que internet se popularizara. El 1 de enero de 1984 emitió «Good Morning Mr. Orwell», una transmisión en directo que enlazaba Nueva York, París y Seúl por satélite. Donde Orwell había imaginado 1984 como el año de la vigilancia, Paik quiso mostrar ese mismo año la otra cara: la tecnología también podía conectar a las personas."
+},
+{
+"key": "part13.html#27",
+"es": "«The More, the Better», construida en el MMCA de Gwacheon para los Juegos Olímpicos de Seúl de 1988, es una torre de 1003 televisores apilados hasta 18,5 metros de altura. Se apagó en 2018 y volvió a encenderse en 2022, tras 4 años y 7 meses de trabajos de conservación. La restauración dejó al descubierto el problema más difícil del arte multimedia. Si sus piezas dejan de fabricarse, ¿como qué sobrevive la obra? Las cuestiones de conservación que se tratan más adelante empiezan aquí."
+},
+{
+"key": "part13.html#28",
+"es": "Lecturas recomendadas — Centro de Arte Nam June Paik, The Return of Nam June Paik · MMCA, My Nam June Paik: Memory, Conservation, Expansion (2023) · Lev Manovich, The Language of New Media"
+},
+{
+"key": "part13.html#29",
+"es": "<b>PARTE 13</b>Arte multimedia y cine expandido"
+},
+{
+"key": "part13.html#30",
+"es": "¿Qué es el arte multimedia?"
+},
+{
+"key": "part13.html#31",
+"es": "El arte multimedia es menos un género que una actitud. Es el término general para las obras que toman como material los nuevos medios de su época y exploran cómo esos medios cambian a las personas y al mundo. En los años sesenta fue la televisión; en los noventa, internet; hoy, los sensores, los datos y los modelos generativos."
+},
+{
+"key": "part13.html#32",
+"es": "<span class=\"ph-id\">P13-INTERACTIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Arte multimedia interactivo</b>Instalación en la que partículas de luz que cubren la pared se arremolinan siguiendo los gestos de las manos de los visitantes, con sus siluetas</span>"
+},
+{
+"key": "part13.html#33",
+"es": "<b>Nota</b>Arte multimedia interactivo — las acciones del espectador cambian el estado de la obra. Los materiales de hoy son los sensores y los datos"
+},
+{
+"key": "part13.html#34",
+"es": "Por qué hay tantos nombres"
+},
+{
+"key": "part13.html#35",
+"es": "<small>Videoarte</small>Finales de los 60"
+},
+{
+"key": "part13.html#36",
+"es": "Surgió al difundirse los equipos de video portátiles"
+},
+{
+"key": "part13.html#37",
+"es": "Retorcer el lenguaje de la tele o mostrar al espectador a sí mismo en circuito cerrado"
+},
+{
+"key": "part13.html#38",
+"es": "<small>Arte multimedia</small>Un nombre más amplio"
+},
+{
+"key": "part13.html#39",
+"es": "Se empezó a usar cuando los materiales se ampliaron del video a computadoras, redes y sensores"
+},
+{
+"key": "part13.html#40",
+"es": "<small>Arte de los nuevos medios</small>Desde los 90"
+},
+{
+"key": "part13.html#41",
+"es": "Obras que parten de lo digital e internet"
+},
+{
+"key": "part13.html#42",
+"es": "Punto débil: lo «nuevo» envejece con el tiempo"
+},
+{
+"key": "part13.html#43",
+"es": "<small>Arte posinternet</small>Cuando internet ya era como el aire"
+},
+{
+"key": "part13.html#44",
+"es": "Término discutido, sin definición académica acordada"
+},
+{
+"key": "part13.html#45",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part13.html#46",
+"es": "No hace falta memorizar los términos. Pero si tomas uno prestado para describir tu obra sin saber qué significa, el jurado lo notará enseguida."
+},
+{
+"key": "part13.html#47",
+"es": "Conceptos para poder leer los textos"
+},
+{
+"key": "part13.html#48",
+"es": "Término"
+},
+{
+"key": "part13.html#49",
+"es": "Significado"
+},
+{
+"key": "part13.html#50",
+"es": "Quién lo dijo"
+},
+{
+"key": "part13.html#51",
+"es": "Arte generativo"
+},
+{
+"key": "part13.html#52",
+"es": "Obra creada por un sistema de reglas fijado de antemano, casi siempre con algo de azar"
+},
+{
+"key": "part13.html#53",
+"es": "Definición del glosario de la Tate"
+},
+{
+"key": "part13.html#54",
+"es": "Interactividad"
+},
+{
+"key": "part13.html#55",
+"es": "Las acciones del espectador cambian el estado de la obra"
+},
+{
+"key": "part13.html#56",
+"es": "Condición central del arte multimedia"
+},
+{
+"key": "part13.html#57",
+"es": "De sitio específico"
+},
+{
+"key": "part13.html#58",
+"es": "Obra ligada a las condiciones de un lugar"
+},
+{
+"key": "part13.html#59",
+"es": "También es categoría en convocatorias internacionales"
+},
+{
+"key": "part13.html#60",
+"es": "Posmedia"
+},
+{
+"key": "part13.html#61",
+"es": "Estado en el que ningún medio domina y todos se influyen entre sí"
+},
+{
+"key": "part13.html#62",
+"es": "Peter Weibel (2006)"
+},
+{
+"key": "part13.html#63",
+"es": "La condición posmedial"
+},
+{
+"key": "part13.html#64",
+"es": "Ve la especificidad del medio como capas de convenciones"
+},
+{
+"key": "part13.html#65",
+"es": "Rosalind Krauss (1999)"
+},
+{
+"key": "part13.html#66",
+"es": "No te atormentes pensando si tu obra es arte multimedia. Comprueba solo que puedes decir en una frase por qué tiene que ser en este medio.<small>13.1 ¿Qué es el arte multimedia?</small>"
+},
+{
+"key": "part13.html#67",
+"es": "<small>Ejercicio</small>13.1"
+},
+{
+"key": "part13.html#68",
+"es": "Tarea"
+},
+{
+"key": "part13.html#69",
+"es": "Elige tres obras de arte multimedia que hayas visto en los últimos 5 años y anota, para cada una, qué medio usó como material y por qué no funcionaría en ningún otro."
+},
+{
+"key": "part13.html#70",
+"es": "Consejo"
+},
+{
+"key": "part13.html#71",
+"es": "Si no sabes cuál elegir, empieza por las listas de exposiciones anteriores del Centro de Arte Nam June Paik, el MMCA y el Museo de Arte de Seúl."
+},
+{
+"key": "part13.html#72",
+"es": "Evaluación"
+},
+{
+"key": "part13.html#73",
+"es": "¿Explica cómo se relacionan medio y tema? ¿Va más allá de la mera descripción?"
+},
+{
+"key": "part13.html#74",
+"es": "Respuesta modelo"
+},
+{
+"key": "part13.html#75",
+"es": "Un análisis que llegó a señalar qué se perdería si el mismo tema pasara a otro medio."
+},
+{
+"key": "part13.html#76",
+"es": "<b>PARTE 13</b>Arte multimedia y cine expandido"
+},
+{
+"key": "part13.html#77",
+"es": "En qué difieren el video y el arte multimedia"
+},
+{
+"key": "part13.html#78",
+"es": "¿Qué cambia? Si has leído hasta aquí, ya tienes casi todas las destrezas que necesitas. Leer un encuadre, construir la luz, unir planos y manejar el sonido siguen valiendo. Lo que cambia no son las destrezas, sino las premisas."
+},
+{
+"key": "part13.html#79",
+"es": "Dos cosas son iguales. Ambos son medios basados en el tiempo, de modo que duración · ritmo · repetición · quietud son medios de expresión, y sigue haciendo falta el proceso de producción: rodaje · iluminación · edición · etalonaje (color grading) · sonido. Cuanto mayor es la pantalla, más se notan tus fundamentos."
+},
+{
+"key": "part13.html#80",
+"es": "Video convencional"
+},
+{
+"key": "part13.html#81",
+"es": "Posición del espectador — sentado frente a la pantalla"
+},
+{
+"key": "part13.html#82",
+"es": "Inicio y final — fijos"
+},
+{
+"key": "part13.html#83",
+"es": "Relación de aspecto — puede cambiar según el medio"
+},
+{
+"key": "part13.html#84",
+"es": "Equipo — un medio para mostrar el resultado"
+},
+{
+"key": "part13.html#85",
+"es": "Finalización — termina con la entrega"
+},
+{
+"key": "part13.html#86",
+"es": "Repetición — supone un solo visionado"
+},
+{
+"key": "part13.html#87",
+"es": "Arte multimedia"
+},
+{
+"key": "part13.html#88",
+"es": "Posición del espectador — entra en el espacio y lo recorre"
+},
+{
+"key": "part13.html#89",
+"es": "Inicio y final — el público entra y sale cuando quiere"
+},
+{
+"key": "part13.html#90",
+"es": "Relación de aspecto — condición de la obra; cambiarla es dañarla"
+},
+{
+"key": "part13.html#91",
+"es": "Equipo — a menudo forma parte de la obra"
+},
+{
+"key": "part13.html#92",
+"es": "Finalización — solo tras operar toda la exposición"
+},
+{
+"key": "part13.html#93",
+"es": "Repetición — supone cientos de bucles al día"
+},
+{
+"key": "part13.html#94",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part13.html#95",
+"es": "Si trasladas tal cual una estructura en cuatro partes, la mayoría del público solo ve el «giro» y se va. Tiene que entenderse en 30 segundos desde donde empiecen a mirar."
+},
+{
+"key": "part13.html#96",
+"es": "Lo que más se le escapa al alumnado: el inicio y el final"
+},
+{
+"key": "part13.html#97",
+"es": "<small>Diseño del bucle</small>Que el final enlace con el inicio"
+},
+{
+"key": "part13.html#98",
+"es": "Si el último cuadro se parece al primero, la unión desaparece"
+},
+{
+"key": "part13.html#99",
+"es": "<small>Puntos de entrada</small>Legible entren por donde entren"
+},
+{
+"key": "part13.html#100",
+"es": "Repite periódicamente la imagen clave"
+},
+{
+"key": "part13.html#101",
+"es": "<small>Duración</small>Entre 2 y 7 minutos"
+},
+{
+"key": "part13.html#102",
+"es": "Si dura más, muchos menos la ven hasta el final"
+},
+{
+"key": "part13.html#103",
+"es": "Por qué hay que mantener la relación de aspecto"
+},
+{
+"key": "part13.html#104",
+"es": "Las pautas de instalación de los organismos de conservación de arte multimedia especifican que se preserve la relación de aspecto de la obra, y señalan que ampliarla o recortarla para ajustarla a una pantalla no es una práctica correcta. En la producción de video, remontar para vertical es rutina; con una obra de arte, ese mismo acto cambia la obra. Aquí debes abandonar el hábito de reencuadrar cada vez que cambias de medio."
+},
+{
+"key": "part13.html#105",
+"es": "Haz el video de exposición partiendo de que nadie lo ve desde el principio. Hacerlo legible desde cualquier punto de entrada es el diseño.<small>13.2 En qué difieren el video y el arte multimedia</small>"
+},
+{
+"key": "part13.html#106",
+"es": "<small>Ejercicio</small>13.2"
+},
+{
+"key": "part13.html#107",
+"es": "Tarea"
+},
+{
+"key": "part13.html#108",
+"es": "Reedita uno de tus videos como bucle de exposición. Que dure menos de 3 minutos y estructúralo para que el tema se entienda en 30 segundos desde cualquier punto de inicio."
+},
+{
+"key": "part13.html#109",
+"es": "Consejo"
+},
+{
+"key": "part13.html#110",
+"es": "Muéstrale a un amigo 30 segundos desde un punto al azar y pregúntale de qué trata la obra. Si dos de cada tres lo entienden, apruebas."
+},
+{
+"key": "part13.html#111",
+"es": "Evaluación"
+},
+{
+"key": "part13.html#112",
+"es": "¿Es invisible la unión? ¿Están diseñados los puntos de entrada?"
+},
+{
+"key": "part13.html#113",
+"es": "Respuesta modelo"
+},
+{
+"key": "part13.html#114",
+"es": "Un montaje que hizo coincidir inicio y final en la misma imagen y repitió el motivo clave cada 40 segundos para que se entendiera desde cualquier punto."
+},
+{
+"key": "part13.html#115",
+"es": "<b>PARTE 13</b>Arte multimedia y cine expandido"
+},
+{
+"key": "part13.html#116",
+"es": "El panorama actual del arte multimedia en Corea"
+},
+{
+"key": "part13.html#117",
+"es": "El arte multimedia coreano avanza por tres vías: los museos e instituciones públicos, las pantallas públicas de la ciudad y los espacios inmersivos comerciales. Cada una pide cosas distintas y cada una tiene una puerta diferente para los estudiantes."
+},
+{
+"key": "part13.html#118",
+"es": "<b>Fotos de referencia 13.3A</b>Imágenes generadas — dos escenarios del arte multimedia coreano"
+},
+{
+"key": "part13.html#119",
+"es": "<span class=\"ph-id\">P13-MUSEUM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Obra de video en un museo</b>Visitantes sentados en el suelo ante un enorme muro de video en una sala blanca</span>"
+},
+{
+"key": "part13.html#120",
+"es": "<b>a</b>Museos — donde siguen colección · conservación · crítica. Se selecciona por texto y fotos"
+},
+{
+"key": "part13.html#121",
+"es": "<span class=\"ph-id\">P13-OUTDOOR</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Festival de arte multimedia al aire libre</b>Instalaciones de luz y multitudes junto a un río de noche</span>"
+},
+{
+"key": "part13.html#122",
+"es": "<b>b</b>Festivales al aire libre y pantallas urbanas — umbral bajo y mucho público. Donde los estudiantes pueden estrenarse"
+},
+{
+"key": "part13.html#123",
+"es": "Instituciones"
+},
+{
+"key": "part13.html#124",
+"es": "<small>Centro de Arte Nam June Paik</small>Yongin"
+},
+{
+"key": "part13.html#125",
+"es": "283 obras en la colección, 2285 piezas en el archivo de video"
+},
+{
+"key": "part13.html#126",
+"es": "Jul. 2026–feb. 2027: 1.er Festival de Arte Multimedia Nam June Paik, a 20 años de su muerte, «Nam June Paik's Planet» — presenta la serie «Planet» de los años 90"
+},
+{
+"key": "part13.html#127",
+"es": "<small>MMCA</small>40.º aniversario de Gwacheon"
+},
+{
+"key": "part13.html#128",
+"es": "Exposición de 2026 «Imaginations of Light»"
+},
+{
+"key": "part13.html#129",
+"es": "Primera apertura de 100 000 de unos 520 000 documentos del archivo digital (incl. el archivo Paik)"
+},
+{
+"key": "part13.html#130",
+"es": "Nuevo programa de formación de conservadores, con nuevos medios"
+},
+{
+"key": "part13.html#131",
+"es": "<small>Museo de Arte de Seúl</small>Seoul Mediacity Biennale (2000–)"
+},
+{
+"key": "part13.html#132",
+"es": "2026: primera individual en un museo de Asia de Lynn Hershman Leeson; una exposición de arte sonoro"
+},
+{
+"key": "part13.html#133",
+"es": "Museo de Arte Seo-Seoul — prepara su apertura con una colección de nuevos medios y un estudio juvenil"
+},
+{
+"key": "part13.html#134",
+"es": "<small>Art Center Nabi</small>Desde 2000"
+},
+{
+"key": "part13.html#135",
+"es": "Junio de 2026: reapertura en edificio propio en Sagan-dong, Jongno-gu"
+},
+{
+"key": "part13.html#136",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part13.html#137",
+"es": "Las convocatorias indican que el horario de proyección puede cambiar por la política de ahorro energético. No son pantallas de 24 horas."
+},
+{
+"key": "part13.html#138",
+"es": "Pantallas urbanas — donde los estudiantes pueden estrenarse"
+},
+{
+"key": "part13.html#139",
+"es": "Gran parte de las obras de las plataformas públicas de arte multimedia que gestiona la ciudad de Seúl se selecciona mediante convocatorias para artistas emergentes. El umbral es más bajo que el de un museo y puedes ver tu obra proyectada en el espacio urbano real."
+},
+{
+"key": "part13.html#140",
+"es": "Plataforma"
+},
+{
+"key": "part13.html#141",
+"es": "Ubicación"
+},
+{
+"key": "part13.html#142",
+"es": "Horario"
+},
+{
+"key": "part13.html#143",
+"es": "Seoullo Media Canvas"
+},
+{
+"key": "part13.html#144",
+"es": "Mallijae-ro, Jung-gu (junto a Seoullo)"
+},
+{
+"key": "part13.html#145",
+"es": "Atelier Gwanghwa"
+}
+]

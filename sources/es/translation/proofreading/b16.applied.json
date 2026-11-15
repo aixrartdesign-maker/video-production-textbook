@@ -1,0 +1,4 @@
+[
+ {"key": "part14a.html#442", "find": "hasta que el equipo se bloquea", "replace": "hasta que el equipo se bloquee", "why": "grammar: subjunctive after hasta que (non-past)"},
+ {"key": "part14b.html#503", "find": "una lámina sobre la unión", "replace": "una lámina sobre el cosido de imágenes", "why": "meaning: stitching (360) unclear as 'unión'"}
+]

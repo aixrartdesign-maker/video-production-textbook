@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#664",
+"es": "Estándar de facto del sector"
+},
+{
+"key": "part03.html#665",
+"es": "ProRes 4444"
+},
+{
+"key": "part03.html#666",
+"es": "Admite canal alfa"
+},
+{
+"key": "part03.html#667",
+"es": "Muy grande"
+},
+{
+"key": "part03.html#668",
+"es": "Intermedios de motion graphics"
+},
+{
+"key": "part03.html#669",
+"es": "Aconsejado para renders de AE"
+},
+{
+"key": "part03.html#670",
+"es": "DNxHR"
+},
+{
+"key": "part03.html#671",
+"es": "Alternativa a ProRes"
+},
+{
+"key": "part03.html#672",
+"es": "Grande"
+},
+{
+"key": "part03.html#673",
+"es": "Edición en Windows"
+},
+{
+"key": "part03.html#674",
+"es": "Compatible con Avid"
+},
+{
+"key": "part03.html#675",
+"es": "RAW"
+},
+{
+"key": "part03.html#676",
+"es": "Datos brutos del sensor"
+},
+{
+"key": "part03.html#677",
+"es": "Enorme"
+},
+{
+"key": "part03.html#678",
+"es": "Publicidad de gama alta"
+},
+{
+"key": "part03.html#679",
+"es": "Requiere procesado aparte"
+},
+{
+"key": "part03.html#680",
+"es": "<small>Profundidad de bits</small>10 bits es la base"
+},
+{
+"key": "part03.html#681",
+"es": "8 bits: 256 niveles por canal, unos 16,7 millones de colores"
+},
+{
+"key": "part03.html#682",
+"es": "10 bits: 1024 niveles por canal, más de 1000 millones de colores"
+},
+{
+"key": "part03.html#683",
+"es": "En 8 bits aparecen bandas en cielos y degradados"
+},
+{
+"key": "part03.html#684",
+"es": "Cuanto más intenso el etalonaje, más necesitas 10 bits"
+},
+{
+"key": "part03.html#685",
+"es": "Graba en 10 bits incluso en proyectos de clase"
+},
+{
+"key": "part03.html#686",
+"es": "<small>Submuestreo de croma</small>4:2:2 o superior para chroma key"
+},
+{
+"key": "part03.html#687",
+"es": "4:4:4 sin pérdida de color, ideal para composición"
+},
+{
+"key": "part03.html#688",
+"es": "4:2:2 la mitad del color, estándar publicitario"
+},
+{
+"key": "part03.html#689",
+"es": "4:2:0 1/4 del color, códecs de consumo"
+},
+{
+"key": "part03.html#690",
+"es": "Un chroma key en 4:2:0 deja siempre bordes dentados"
+},
+{
+"key": "part03.html#691",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part03.html#692",
+"es": "El Log no se recomienda en rodajes con chroma key. Su bajo contraste le quita saturación al verde y los bordes del recorte se deshacen."
+},
+{
+"key": "part03.html#693",
+"es": "Grabación en Log"
+},
+{
+"key": "part03.html#694",
+"es": "El Log comprime el amplio rango de luminosidad que capta el sensor. La imagen se ve lavada y plana, pero el detalle de luces y sombras sobrevive y deja mucho margen en posproducción. Eso sí, es vulnerable a la subexposición: grabar algo más claro y bajarlo en posproducción reduce el ruido."
+},
+{
+"key": "part03.html#695",
+"es": "Pon una LUT de look en el monitor del set para que el equipo imagine el resultado, pero graba siempre el Log original."
+},
+{
+"key": "part03.html#696",
+"es": "Graba algo más claro y bájalo en posproducción.<small>3.10 Grabación en Log</small>"
+},
+{
+"key": "part03.html#697",
+"es": "Flujo de trabajo en Log"
+},
+{
+"key": "part03.html#698",
+"es": "<b>01</b><span>Grabar en Log</span>"
+},
+{
+"key": "part03.html#699",
+"es": "<b>02</b><span>Crear proxies</span>"
+},
+{
+"key": "part03.html#700",
+"es": "<b>03</b><span>Primer montaje</span>"
+},
+{
+"key": "part03.html#701",
+"es": "<b>04</b><span>Conversión con LUT técnica</span>"
+},
+{
+"key": "part03.html#702",
+"es": "<b>05</b><span>Corrección primaria</span>"
+},
+{
+"key": "part03.html#703",
+"es": "<b>06</b><span>Igualar la composición</span>"
+},
+{
+"key": "part03.html#704",
+"es": "<b>07</b><span>Etalonaje final</span>"
+},
+{
+"key": "part03.html#705",
+"es": "Un contenedor no es un códec"
+},
+{
+"key": "part03.html#706",
+"es": "<b>Término</b>"
+},
+{
+"key": "part03.html#707",
+"es": "El <b>contenedor</b> es el recipiente (MP4 · MOV), el <b>códec</b> es cómo se comprime el contenido (H.264 · ProRes) y la <b>tasa de bits</b> son los datos por segundo (Mbps). Dos archivos .mp4 pueden llevar códecs distintos."
+},
+{
+"key": "part03.html#708",
+"es": "Tipo"
+},
+{
+"key": "part03.html#709",
+"es": "Nombre"
+},
+{
+"key": "part03.html#710",
+"es": "Uso"
+},
+{
+"key": "part03.html#711",
+"es": "Ventajas"
+},
+{
+"key": "part03.html#712",
+"es": "Nota"
+},
+{
+"key": "part03.html#713",
+"es": "Contenedor"
+},
+{
+"key": "part03.html#714",
+"es": "MP4"
+},
+{
+"key": "part03.html#715",
+"es": "Estándar de entrega · web · redes"
+},
+{
+"key": "part03.html#716",
+"es": "Máxima compatibilidad, poco peso"
+},
+{
+"key": "part03.html#717",
+"es": "Muy comprimido para editar (long-GOP)"
+},
+{
+"key": "part03.html#718",
+"es": "Contenedor"
+},
+{
+"key": "part03.html#719",
+"es": "MOV"
+},
+{
+"key": "part03.html#720",
+"es": "Originales · edición · entrega (TV)"
+},
+{
+"key": "part03.html#721",
+"es": "Admite códecs de calidad como ProRes"
+},
+{
+"key": "part03.html#722",
+"es": "Pesado; revisar compatibilidad en Windows"
+},
+{
+"key": "part03.html#723",
+"es": "Contenedor"
+},
+{
+"key": "part03.html#724",
+"es": "AVI"
+},
+{
+"key": "part03.html#725",
+"es": "Windows antiguo · algunos equipos"
+},
+{
+"key": "part03.html#726",
+"es": "Sencillo"
+},
+{
+"key": "part03.html#727",
+"es": "Pocos metadatos; hoy casi no se usa"
+},
+{
+"key": "part03.html#728",
+"es": "Contenedor"
+},
+{
+"key": "part03.html#729",
+"es": "MXF"
+},
+{
+"key": "part03.html#730",
+"es": "TV · originales de cámara de cine"
+},
+{
+"key": "part03.html#731",
+"es": "Código de tiempo · metadatos ricos"
+},
+{
+"key": "part03.html#732",
+"es": "No se abre en reproductores comunes"
+},
+{
+"key": "part03.html#733",
+"es": "Contenedor"
+},
+{
+"key": "part03.html#734",
+"es": "MKV · WebM"
+},
+{
+"key": "part03.html#735",
+"es": "Web · archivo"
+},
+{
+"key": "part03.html#736",
+"es": "Subtítulos · varias pistas"
+},
+{
+"key": "part03.html#737",
+"es": "Poco soporte en programas de edición"
+},
+{
+"key": "part03.html#738",
+"es": "Códec"
+},
+{
+"key": "part03.html#739",
+"es": "H.264 (AVC)"
+},
+{
+"key": "part03.html#740",
+"es": "Rodaje (XAVC-S) · entrega"
+},
+{
+"key": "part03.html#741",
+"es": "Se reproduce en todas partes"
+},
+{
+"key": "part03.html#742",
+"es": "Casi siempre 8 bits 4:2:0 → poco margen de etalonaje"
+},
+{
+"key": "part03.html#743",
+"es": "Códec"
+},
+{
+"key": "part03.html#744",
+"es": "HEVC (H.265)"
+},
+{
+"key": "part03.html#745",
+"es": "Rodaje 4K · 10 bits (XAVC-HS) · streaming"
+},
+{
+"key": "part03.html#746",
+"es": "La mitad de peso con igual calidad"
+},
+{
+"key": "part03.html#747",
+"es": "Pesado de editar → proxies"
+},
+{
+"key": "part03.html#748",
+"es": "Códec"
+},
+{
+"key": "part03.html#749",
+"es": "ProRes · DNxHR"
+},
+{
+"key": "part03.html#750",
+"es": "Edición · másteres · entrega (TV)"
+},
+{
+"key": "part03.html#751",
+"es": "Compresión cuadro a cuadro, ágil de editar"
+},
+{
+"key": "part03.html#752",
+"es": "10–20× el peso del archivo"
+},
+{
+"key": "part03.html#753",
+"es": "Códec"
+},
+{
+"key": "part03.html#754",
+"es": "AV1"
+},
+{
+"key": "part03.html#755",
+"es": "YouTube · Netflix, en servidor"
+},
+{
+"key": "part03.html#756",
+"es": "Eficiencia de nueva generación"
+},
+{
+"key": "part03.html#757",
+"es": "El creador casi nunca lo codifica"
+},
+{
+"key": "part03.html#758",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part03.html#759",
+"es": "Una regla: <b>graba con la máxima calidad, edita con lo más ligero (proxies) y entrega lo que pida el cliente.</b> Sin especificación, MP4 / H.264 / 1080p / 20–30 Mbps."
+},
+{
+"key": "part03.html#760",
+"es": "<small>Ejercicio</small>3.10"
+},
+{
+"key": "part03.html#761",
+"es": "Tarea"
+},
+{
+"key": "part03.html#762",
+"es": "Graba la misma escena con un perfil estándar y con un perfil Log, y compáralos antes y después del etalonaje."
+},
+{
+"key": "part03.html#763",
+"es": "Consejo"
+},
+{
+"key": "part03.html#764",
+"es": "El Log suele exponerse aprox. 1 paso más claro. Consulta el valor que recomienda tu cámara."
+},
+{
+"key": "part03.html#765",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#766",
+"es": "Comprensión de profundidad de bits · códecs; comprobación del margen de etalonaje"
+},
+{
+"key": "part03.html#767",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#768",
+"es": "Demuestra la diferencia de rango dinámico con una escena a contraluz que tenga cielo y sombra."
+},
+{
+"key": "part03.html#769",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#770",
+"es": "Soporte y movimiento de cámara"
+},
+{
+"key": "part03.html#771",
+"es": "Equípate en este orden, trípode → slider → gimbal, y cubrirás casi todos los planos de un anuncio de 15 segundos. Un trípode con iluminación siempre gana a un gimbal sin ella."
+},
+{
+"key": "part03.html#772",
+"es": "<b>Fotos de referencia 3.11A</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part03.html#773",
+"es": "<b>a</b>Trípode y cabezal fluido"
+},
+{
+"key": "part03.html#774",
+"es": "<b>b</b>Slider"
+},
+{
+"key": "part03.html#775",
+"es": "<b>c</b>Gimbal de 3 ejes"
+},
+{
+"key": "part03.html#776",
+"es": "<b>d</b>Cámara 360 — dos ojos de pez captan todas las direcciones a la vez; se encuadra en la edición"
+},
+{
+"key": "part03.html#777",
+"es": "<small>Trípode</small>El equipo más importante"
+},
+{
+"key": "part03.html#778",
+"es": "Panorámicas · inclinaciones suaves: base niveladora y cabezal fluido"
+},
+{
+"key": "part03.html#779",
+"es": "Esencial en planos base de composición"
+},
+{
+"key": "part03.html#780",
+"es": "<small>Slider</small>Movimientos horizontales cortos y precisos"
+},
+{
+"key": "part03.html#781",
+"es": "Equipo estándar en anuncios de producto"
+},
+{
+"key": "part03.html#782",
+"es": "La mejor relación calidad-precio"
+},
+{
+"key": "part03.html#783",
+"es": "<small>Gimbal</small>Estabilización en 3 ejes"
+},
+{
+"key": "part03.html#784",
+"es": "Planos de seguimiento en solitario"
+},
+{
+"key": "part03.html#785",
+"es": "El equilibrado y la calibración deciden el resultado"
+},
+{
+"key": "part03.html#786",
+"es": "<small>Dolly y vías</small>Movimientos rectos y largos"
+},
+{
+"key": "part03.html#787",
+"es": "Sensación de espacio y de peso"
+},
+{
+"key": "part03.html#788",
+"es": "Montaje lento"
+},
+{
+"key": "part03.html#789",
+"es": "<small>Grúa, jib</small>Grandes movimientos verticales"
+},
+{
+"key": "part03.html#790",
+"es": "Lucir la escala"
+},
+{
+"key": "part03.html#791",
+"es": "Se reserva para el plano final"
+},
+{
+"key": "part03.html#792",
+"es": "<small>Dron</small>Punto de vista aéreo"
+},
+{
+"key": "part03.html#793",
+"es": "Autorización de vuelo y seguridad, antes que el rodaje"
+},
+{
+"key": "part03.html#794",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part03.html#795",
+"es": "Con gimbal, camina con las rodillas flexionadas, a «paso ninja», para reducir el rebote vertical."
+},
+{
+"key": "part03.html#796",
+"es": "Prioridades para estudiantes y creadores en solitario"
+},
+{
+"key": "part03.html#797",
+"es": "<b>01</b><i>Trípode</i>Planos fijos y planos base de composición"
+},
+{
+"key": "part03.html#798",
+"es": "<b>02</b><i>Slider</i>Movimientos horizontales precisos sobre producto"
+},
+{
+"key": "part03.html#799",
+"es": "<b>03</b><i>Gimbal</i>Planos de seguimiento"
+},
+{
+"key": "part03.html#800",
+"es": "Un trípode con luz siempre gana a un gimbal sin luz.<small>3.11 Soporte y movimiento de cámara</small>"
+},
+{
+"key": "part03.html#801",
+"es": "<b>G-10</b> Soporte de cámara — trípode · slider · gimbal · soporte de hombro · dron"
+},
+{
+"key": "part03.html#802",
+"es": "Cómo elegir un trípode"
+},
+{
+"key": "part03.html#803",
+"es": "<b>Fotos de referencia 3.11B</b>Imágenes generadas — soporte de cámara"
+},
+{
+"key": "part03.html#804",
+"es": "<span class=\"ph-id\">P03-TRIPOD</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Trípode de cabezal fluido — la resistencia (drag) de panorámica · inclinación lo hace trípode de video</b></span>"
+},
+{
+"key": "part03.html#805",
+"es": "<b>Nota</b>Trípode de cabezal fluido — la resistencia (drag) de panorámica · inclinación lo hace trípode de video"
+},
+{
+"key": "part03.html#806",
+"es": "<span class=\"ph-id\">P03-GIMBAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Gimbal — el estándar para planos caminando. Primero el equilibrado, luego los motores</b></span>"
+},
+{
+"key": "part03.html#807",
+"es": "<b>Nota</b>Gimbal — el estándar para planos caminando. Primero el equilibrado, luego los motores"
+},
+{
+"key": "part03.html#808",
+"es": "<small>Para video</small>Trípode de cabezal fluido"
+},
+{
+"key": "part03.html#809",
+"es": "Resistencia fluida en panorámica · inclinación → arranques · paradas suaves"
+},
+{
+"key": "part03.html#810",
+"es": "Imprescindible la base niveladora (semiesfera)"
+},
+{
+"key": "part03.html#811",
+"es": "Carga nominal de 1,5× o más (cámara+objetivo+monitor)"
+},
+{
+"key": "part03.html#812",
+"es": "<small>Para foto · viaje</small>Trípode de rótula de bola"
+},
+{
+"key": "part03.html#813",
+"es": "Ligero y rápido, pero las panorámicas salen bruscas"
+}
+]

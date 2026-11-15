@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#600",
+"es": "Gain"
+},
+{
+"key": "part05.html#601",
+"es": "Altas luces"
+},
+{
+"key": "part05.html#602",
+"es": "Se queman con facilidad"
+},
+{
+"key": "part05.html#603",
+"es": "Curvas"
+},
+{
+"key": "part05.html#604",
+"es": "Control preciso por rangos"
+},
+{
+"key": "part05.html#605",
+"es": "La curva en S es el refuerzo básico de contraste"
+},
+{
+"key": "part05.html#606",
+"es": "Secundaria HSL"
+},
+{
+"key": "part05.html#607",
+"es": "Ajusta solo los colores seleccionados"
+},
+{
+"key": "part05.html#608",
+"es": "Imprescindible para corregir la piel"
+},
+{
+"key": "part05.html#609",
+"es": "Ruedas de color"
+},
+{
+"key": "part05.html#610",
+"es": "Tiñe por rango tonal"
+},
+{
+"key": "part05.html#611",
+"es": "Sombras frías, altas luces cálidas: el look básico"
+},
+{
+"key": "part05.html#612",
+"es": "<b>G-17</b> Etalonaje (color grading) — original en Log y dos looks · imagen generada con GPT, solo conceptual"
+},
+{
+"key": "part05.html#613",
+"es": "<small>Ejercicio</small>5.8"
+},
+{
+"key": "part05.html#614",
+"es": "Tarea"
+},
+{
+"key": "part05.html#615",
+"es": "Crea dos looks distintos para el mismo material y explica la emoción de cada uno."
+},
+{
+"key": "part05.html#616",
+"es": "Consejo"
+},
+{
+"key": "part05.html#617",
+"es": "Termina la corrección primaria (exposición, balance de blancos) antes de pasar a las secundarias. Vigila los monitores de señal."
+},
+{
+"key": "part05.html#618",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#619",
+"es": "Tonos de piel preservados, look coherente"
+},
+{
+"key": "part05.html#620",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#621",
+"es": "Iguala el look a un fotograma de referencia y adjunta capturas de los monitores de señal."
+},
+{
+"key": "part05.html#622",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#623",
+"es": "Herramientas de edición móvil y automatizada"
+},
+{
+"key": "part05.html#624",
+"es": "El resultado automático es un borrador. Entrégalo sin revisar y pierdes la confianza de un golpe."
+},
+{
+"key": "part05.html#625",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part05.html#626",
+"es": "Para uso comercial, comprueba el alcance de la licencia de plantillas y música, y nunca clones la voz de una persona real sin permiso."
+},
+{
+"key": "part05.html#627",
+"es": "<small>Video corto</small>CapCut"
+},
+{
+"key": "part05.html#628",
+"es": "Plantillas, subtítulos automáticos, sincronía con el ritmo, quitar fondo"
+},
+{
+"key": "part05.html#629",
+"es": "Eficaz para producir video corto en volumen"
+},
+{
+"key": "part05.html#630",
+"es": "Uso comercial: revisa licencias de plantillas · música"
+},
+{
+"key": "part05.html#631",
+"es": "<small>Subtítulos</small>Vrew"
+},
+{
+"key": "part05.html#632",
+"es": "Subtítulos automáticos desde la voz, quitar silencios por lotes"
+},
+{
+"key": "part05.html#633",
+"es": "Primer corte de clases, entrevistas y videos explicativos"
+},
+{
+"key": "part05.html#634",
+"es": "Una persona revisa los errores en nombres propios"
+},
+{
+"key": "part05.html#635",
+"es": "<small>Voz</small>Typecast"
+},
+{
+"key": "part05.html#636",
+"es": "Texto a voz"
+},
+{
+"key": "part05.html#637",
+"es": "Borrador de locución, doblaje multilingüe"
+},
+{
+"key": "part05.html#638",
+"es": "Prohibido clonar voces reales sin autorización"
+},
+{
+"key": "part05.html#639",
+"es": "<small>Generativa</small>Runway y similares"
+},
+{
+"key": "part05.html#640",
+"es": "Video a partir de texto e imágenes, eliminación de fondo"
+},
+{
+"key": "part05.html#641",
+"es": "Sustitutos de insertos que no puedes rodar"
+},
+{
+"key": "part05.html#642",
+"es": "<small>3D</small>Meshy"
+},
+{
+"key": "part05.html#643",
+"es": "Convierte imágenes en modelos 3D"
+},
+{
+"key": "part05.html#644",
+"es": "Prototipos de utilería · personajes, vistas previas de rigging y animación"
+},
+{
+"key": "part05.html#645",
+"es": "<small>Imagen</small>Photoroom y similares"
+},
+{
+"key": "part05.html#646",
+"es": "Eliminación automática de fondo, retoque"
+},
+{
+"key": "part05.html#647",
+"es": "Limpieza de fotos de producto"
+},
+{
+"key": "part05.html#648",
+"es": "Reglas para las herramientas automáticas"
+},
+{
+"key": "part05.html#649",
+"es": "Los nombres propios en los subtítulos automáticos, el ritmo de los cortes automáticos, los dedos y los rótulos en el video generado: eso lo revisa siempre una persona."
+},
+{
+"key": "part05.html#650",
+"es": "<small>Ejercicio</small>5.9"
+},
+{
+"key": "part05.html#651",
+"es": "Tarea"
+},
+{
+"key": "part05.html#652",
+"es": "Con una app de edición móvil y funciones automáticas, convierte el mismo material en un video corto en menos de 15 minutos."
+},
+{
+"key": "part05.html#653",
+"es": "Consejo"
+},
+{
+"key": "part05.html#654",
+"es": "Corrige siempre los subtítulos automáticos."
+},
+{
+"key": "part05.html#655",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#656",
+"es": "Equilibrio entre rapidez y calidad, correcciones al resultado automático"
+},
+{
+"key": "part05.html#657",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#658",
+"es": "Enumera lo que una persona corrigió en la edición automática."
+},
+{
+"key": "part05.html#659",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#660",
+"es": "Especificaciones de salida y entrega"
+},
+{
+"key": "part05.html#661",
+"es": "Los códecs varían según el uso, y los problemas de salida habituales tienen causas conocidas."
+},
+{
+"key": "part05.html#662",
+"es": "<span class=\"ph-id\">P05-DELIVER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Entrega y copia de seguridad</b>Dos SSD portátiles etiquetados, una lista de comprobación en papel, un portátil con la barra de progreso de una exportación</span>"
+},
+{
+"key": "part05.html#663",
+"es": "<b>Nota</b>Entrega y copia de seguridad — guarda las exportaciones en dos soportes distintos y marca las especificaciones en una lista"
+},
+{
+"key": "part05.html#664",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part05.html#665",
+"es": "Antes de exportar, tabula resolución, tasa de bits, sonoridad (LUFS) y reglas de nombres de archivo."
+},
+{
+"key": "part05.html#666",
+"es": "Especificaciones de salida por uso"
+},
+{
+"key": "part05.html#667",
+"es": "Uso"
+},
+{
+"key": "part05.html#668",
+"es": "Códec / formato"
+},
+{
+"key": "part05.html#669",
+"es": "Ajustes clave"
+},
+{
+"key": "part05.html#670",
+"es": "A un software de edición"
+},
+{
+"key": "part05.html#671",
+"es": "ProRes 422 HQ"
+},
+{
+"key": "part05.html#672",
+"es": "Opción por defecto si no hace falta alfa"
+},
+{
+"key": "part05.html#673",
+"es": "Intermedio con alfa"
+},
+{
+"key": "part05.html#674",
+"es": "ProRes 4444 o secuencia PNG"
+},
+{
+"key": "part05.html#675",
+"es": "Activa el canal alfa"
+},
+{
+"key": "part05.html#676",
+"es": "Subida en línea"
+},
+{
+"key": "part05.html#677",
+"es": "H.264 mp4"
+},
+{
+"key": "part05.html#678",
+"es": "40–60 Mbps en 4K"
+},
+{
+"key": "part05.html#679",
+"es": "Proyección, exposición"
+},
+{
+"key": "part05.html#680",
+"es": "ProRes 422 HQ o sin compresión"
+},
+{
+"key": "part05.html#681",
+"es": "Revisa los cuadros inicial y final del bucle"
+},
+{
+"key": "part05.html#682",
+"es": "LED exterior"
+},
+{
+"key": "part05.html#683",
+"es": "Especificación del operador"
+},
+{
+"key": "part05.html#684",
+"es": "Confirma antes resolución y frecuencia de cuadro"
+},
+{
+"key": "part05.html#685",
+"es": "Archivo"
+},
+{
+"key": "part05.html#686",
+"es": "Conserva el códec original"
+},
+{
+"key": "part05.html#687",
+"es": "Guarda los archivos de proyecto con los originales"
+},
+{
+"key": "part05.html#688",
+"es": "Soluciones por síntoma"
+},
+{
+"key": "part05.html#689",
+"es": "Síntoma"
+},
+{
+"key": "part05.html#690",
+"es": "Causa"
+},
+{
+"key": "part05.html#691",
+"es": "Solución"
+},
+{
+"key": "part05.html#692",
+"es": "Render muy lento"
+},
+{
+"key": "part05.html#693",
+"es": "Originales de alta resolución, efectos apilados"
+},
+{
+"key": "part05.html#694",
+"es": "Proxies, prerrenders, menos efectos"
+},
+{
+"key": "part05.html#695",
+"es": "Bordes de texto ásperos"
+},
+{
+"key": "part05.html#696",
+"es": "Rasterización continua desactivada"
+},
+{
+"key": "part05.html#697",
+"es": "Activa esa opción"
+},
+{
+"key": "part05.html#698",
+"es": "Los colores se ven distintos"
+},
+{
+"key": "part05.html#699",
+"es": "Gestión de color discordante"
+},
+{
+"key": "part05.html#700",
+"es": "Fija el espacio de color del proyecto"
+},
+{
+"key": "part05.html#701",
+"es": "La composición tiembla"
+},
+{
+"key": "part05.html#702",
+"es": "Datos de seguimiento inestables"
+},
+{
+"key": "part05.html#703",
+"es": "Repite el seguimiento y suaviza"
+},
+{
+"key": "part05.html#704",
+"es": "El archivo no se abre"
+},
+{
+"key": "part05.html#705",
+"es": "Códec no instalado"
+},
+{
+"key": "part05.html#706",
+"es": "Vuelve a exportar en un códec común"
+},
+{
+"key": "part05.html#707",
+"es": "Audio demasiado bajo"
+},
+{
+"key": "part05.html#708",
+"es": "Sonoridad sin ajustar"
+},
+{
+"key": "part05.html#709",
+"es": "Normaliza a la sonoridad de la plataforma"
+},
+{
+"key": "part05.html#710",
+"es": "<small>Ejercicio</small>5.10"
+},
+{
+"key": "part05.html#711",
+"es": "Tarea"
+},
+{
+"key": "part05.html#712",
+"es": "Exporta el mismo video con tres especificaciones: YouTube, Instagram Reels y proyección en sala."
+},
+{
+"key": "part05.html#713",
+"es": "Consejo"
+},
+{
+"key": "part05.html#714",
+"es": "Tabula antes resolución, tasa de bits, sonoridad (LUFS) y reglas de nombres de archivo."
+},
+{
+"key": "part05.html#715",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#716",
+"es": "Cumplimiento de especificaciones, gestión de archivos"
+},
+{
+"key": "part05.html#717",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#718",
+"es": "Elabora tu propia lista de comprobación de entrega y adjunta los resultados de cada exportación."
+},
+{
+"key": "part05.html#719",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#720",
+"es": "Expresiones y automatización"
+},
+{
+"key": "part05.html#721",
+"es": "After Effects avanzado. Las expresiones calculan valores sin fotogramas clave. No hace falta dominar la sintaxis: aprende solo cinco y tu tiempo de trabajo se reduce de forma drástica."
+},
+{
+"key": "part05.html#722",
+"es": "<b>Fig. 53</b> 5 curvas de easing"
+},
+{
+"key": "part05.html#723",
+"es": "Expresión"
+},
+{
+"key": "part05.html#724",
+"es": "Función"
+},
+{
+"key": "part05.html#725",
+"es": "Ejemplos"
+},
+{
+"key": "part05.html#726",
+"es": "wiggle(frec, amp)"
+},
+{
+"key": "part05.html#727",
+"es": "Temblor aleatorio"
+},
+{
+"key": "part05.html#728",
+"es": "Cámara en mano, glitches, vibración"
+},
+{
+"key": "part05.html#729",
+"es": "loopOut()"
+},
+{
+"key": "part05.html#730",
+"es": "Repite sin fin un tramo con fotogramas clave"
+},
+{
+"key": "part05.html#731",
+"es": "Logos giratorios, fondos en bucle"
+},
+{
+"key": "part05.html#732",
+"es": "time * value"
+},
+{
+"key": "part05.html#733",
+"es": "El valor cambia con el tiempo"
+},
+{
+"key": "part05.html#734",
+"es": "Rotación constante, desplazamiento"
+},
+{
+"key": "part05.html#735",
+"es": "linear(t, a, b, c, d)"
+},
+{
+"key": "part05.html#736",
+"es": "Traslada el cambio de un valor a otro"
+},
+{
+"key": "part05.html#737",
+"es": "Un deslizador controla varias propiedades"
+},
+{
+"key": "part05.html#738",
+"es": "Emparentado (pick whip)"
+},
+{
+"key": "part05.html#739",
+"es": "Toma tal cual el valor de otra propiedad"
+},
+{
+"key": "part05.html#740",
+"es": "Controla muchos elementos como uno solo"
+},
+{
+"key": "part05.html#741",
+"es": "Hábitos que aceleran tu trabajo"
+},
+{
+"key": "part05.html#742",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part05.html#743",
+"es": "Precompón con libertad, pero a partir de 3 niveles de anidamiento la gestión se complica."
+},
+{
+"key": "part05.html#744",
+"es": "Guarda como ajustes preestablecidos de animación lo que usas a menudo y reutilízalo."
+},
+{
+"key": "part05.html#745",
+"es": "Convierte un objeto nulo en controlador para que un solo deslizador ajuste varios valores."
+},
+{
+"key": "part05.html#746",
+"es": "Ponles siempre nombre a tus capas. Ni tú entenderás 40 capas sin nombre al día siguiente."
+},
+{
+"key": "part05.html#747",
+"es": "Ordena las capas por etiqueta de color. Texto, fondo, efectos, cámara: cada uno de un color distinto."
+},
+{
+"key": "part05.html#748",
+"es": "Usa las herramientas de limpieza del proyecto para eliminar con regularidad el metraje sin usar."
+},
+{
+"key": "part05.html#749",
+"es": "Vincular Premiere y After Effects"
+}
+]

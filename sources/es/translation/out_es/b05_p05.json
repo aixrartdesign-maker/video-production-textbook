@@ -1,0 +1,602 @@
+[
+{
+"key": "part04.html#92",
+"es": "<b>Fig. 39</b> Iluminación de tres puntos — planta y montaje real. Resultados: Fotos de referencia 4.2A, abajo (solo principal → principal+relleno → principal+relleno+contraluz → solo contraluz)."
+},
+{
+"key": "part04.html#93",
+"es": "<b>Fotos de referencia 4.2A</b>Imágenes generadas — referencia de puesta en escena"
+},
+{
+"key": "part04.html#94",
+"es": "<b>a</b>Solo luz principal"
+},
+{
+"key": "part04.html#95",
+"es": "<b>b</b>Principal + relleno"
+},
+{
+"key": "part04.html#96",
+"es": "<b>c</b>Principal + relleno + contraluz"
+},
+{
+"key": "part04.html#97",
+"es": "<b>d</b>Solo contraluz — queda el contorno, una silueta"
+},
+{
+"key": "part04.html#98",
+"es": "<small>Luz base</small>Luz principal"
+},
+{
+"key": "part04.html#99",
+"es": "La luz más importante; define forma y sombra"
+},
+{
+"key": "part04.html#100",
+"es": "Empieza a 45° a un lado de la cámara y 45° de altura"
+},
+{
+"key": "part04.html#101",
+"es": "<small>Luz de apoyo</small>Luz de relleno"
+},
+{
+"key": "part04.html#102",
+"es": "Controla la densidad de las sombras de la principal"
+},
+{
+"key": "part04.html#103",
+"es": "Debe ser más débil que la principal — sin sombras tampoco hay volumen"
+},
+{
+"key": "part04.html#104",
+"es": "<small>Luz trasera</small>Contraluz"
+},
+{
+"key": "part04.html#105",
+"es": "Perfila al sujeto para separarlo del fondo"
+},
+{
+"key": "part04.html#106",
+"es": "También llamada luz de contorno · luz de pelo"
+},
+{
+"key": "part04.html#107",
+"es": "<small>Cuarta luz</small>Luz de fondo"
+},
+{
+"key": "part04.html#108",
+"es": "Ilumina el fondo aparte para dar profundidad"
+},
+{
+"key": "part04.html#109",
+"es": "La iluminación de tres puntos, ampliada"
+},
+{
+"key": "part04.html#110",
+"es": "<small>Reflejo en los ojos</small>Luz de ojos"
+},
+{
+"key": "part04.html#111",
+"es": "Unos ojos sin brillo parecen sin vida"
+},
+{
+"key": "part04.html#112",
+"es": "Un reflector lo resuelve"
+},
+{
+"key": "part04.html#113",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part04.html#114",
+"es": "El relleno no tiene por qué ser otra luz. Un reflector blanco suele bastar."
+},
+{
+"key": "part04.html#115",
+"es": "Reflectores y rebote — relleno sin luz"
+},
+{
+"key": "part04.html#116",
+"es": "<b>01</b><span>El color de la superficie es el carácter de la luz. El blanco da un relleno suave y natural; el plateado, uno brillante y duro; el dorado, luz cálida de atardecer; el negro es relleno negativo, que quita luz.</span>"
+},
+{
+"key": "part04.html#117",
+"es": "<b>02</b><span>La distancia decide la suavidad. Cuanto más cerca del sujeto está el reflector, mayor es la fuente y más suave el borde de la sombra.</span>"
+},
+{
+"key": "part04.html#118",
+"es": "<b>03</b><span>El relleno negativo resta luz en vez de sumarla. Un tablero negro en el lado de sombra devuelve el contraste y afina el rostro.</span>"
+},
+{
+"key": "part04.html#119",
+"es": "<b>04</b><span>Revisa el brillo de los ojos. Inclina el reflector hacia arriba desde debajo de la altura de los ojos y aparecerá un puntito de luz en las pupilas.</span>"
+},
+{
+"key": "part04.html#120",
+"es": "<b>05</b><span>Corrige el contraluz en exteriores. Pon el sol detrás del sujeto y rellena el rostro con un reflector: obtienes a la vez una luz de contorno en el pelo y un rostro bien expuesto.</span>"
+},
+{
+"key": "part04.html#121",
+"es": "<b>06</b><span>Con dos personas, pon el reflector en medio. En una entrevista cara a cara, un tablero blanco en el centro, frente a la principal, rellena ambos rostros a la vez.</span>"
+},
+{
+"key": "part04.html#122",
+"es": "<b>Fotos de referencia 4.2C</b>Imágenes generadas — reflectores y relleno negativo"
+},
+{
+"key": "part04.html#123",
+"es": "<span class=\"ph-id\">P04-BOUNCE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Rebote — la luz de relleno más barata</b>Un técnico rellena el rostro de un actor con un tablero blanco bajo el sol de la tarde</span>"
+},
+{
+"key": "part04.html#124",
+"es": "<b>a</b>Rebote — la luz de relleno más barata"
+},
+{
+"key": "part04.html#125",
+"es": "<span class=\"ph-id\">P04-NEGFILL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Relleno negativo</b>Una bandera negra en un C-stand oscurece el lado de sombra</span>"
+},
+{
+"key": "part04.html#126",
+"es": "<b>b</b>Relleno negativo — contraste quitando luz"
+},
+{
+"key": "part04.html#127",
+"es": "Relación de iluminación — brillo principal/relleno"
+},
+{
+"key": "part04.html#128",
+"es": "<b>2<em>:1</em></b>Anuncios claros y sencillos"
+},
+{
+"key": "part04.html#129",
+"es": "<b>4<em>:1</em></b>Drama estándar"
+},
+{
+"key": "part04.html#130",
+"es": "<b>8<em>:1 o más</em></b>Ambiente dramático y denso"
+},
+{
+"key": "part04.html#131",
+"es": "<b>G-11</b> Iluminación de tres puntos en el set — principal · relleno · contraluz y cámara"
+},
+{
+"key": "part04.html#132",
+"es": "<small>Ejercicio</small>4.2"
+},
+{
+"key": "part04.html#133",
+"es": "Tarea"
+},
+{
+"key": "part04.html#134",
+"es": "Graba 3 etapas en orden, principal → principal+relleno → principal+relleno+contraluz, y muestra la diferencia."
+},
+{
+"key": "part04.html#135",
+"es": "Consejo"
+},
+{
+"key": "part04.html#136",
+"es": "Empieza con el relleno a la mitad del brillo de la principal o menos. Anota la relación."
+},
+{
+"key": "part04.html#137",
+"es": "Evaluación"
+},
+{
+"key": "part04.html#138",
+"es": "Relación anotada, separación con el contraluz"
+},
+{
+"key": "part04.html#139",
+"es": "Respuesta modelo"
+},
+{
+"key": "part04.html#140",
+"es": "Obtiene clave alta y clave baja con el mismo montaje cambiando solo el relleno."
+},
+{
+"key": "part04.html#141",
+"es": "<b>PARTE 04</b>Iluminación y sonido"
+},
+{
+"key": "part04.html#142",
+"es": "La luz principal en breve"
+},
+{
+"key": "part04.html#143",
+"es": "Seis reglas para cuando falta tiempo. Intenta terminar el encuadre solo con la luz principal. Si ahora no se ve bien, añadir luz no lo mejorará."
+},
+{
+"key": "part04.html#144",
+"es": "Dónde pones la luz principal decide cómo se lee el rostro"
+},
+{
+"key": "part04.html#145",
+"es": "<b>PLANA</b>"
+},
+{
+"key": "part04.html#146",
+"es": "Junto a la cámara · altura de los ojos"
+},
+{
+"key": "part04.html#147",
+"es": "<span>Sin sombra — clara y plana, noticias · belleza</span>"
+},
+{
+"key": "part04.html#148",
+"es": "<b>BUCLE</b>"
+},
+{
+"key": "part04.html#149",
+"es": "35° · algo por encima"
+},
+{
+"key": "part04.html#150",
+"es": "<span>Pequeña sombra en bucle junto a la nariz — la más segura</span>"
+},
+{
+"key": "part04.html#151",
+"es": "<b>REMBRANDT</b>"
+},
+{
+"key": "part04.html#152",
+"es": "45° · 45° de altura"
+},
+{
+"key": "part04.html#153",
+"es": "<span>Triángulo de luz en la mejilla — volumen, drama</span>"
+},
+{
+"key": "part04.html#154",
+"es": "<b>DIVIDIDA</b>"
+},
+{
+"key": "part04.html#155",
+"es": "90° · altura de los ojos"
+},
+{
+"key": "part04.html#156",
+"es": "<span>Rostro partido en dos — conflicto, dualidad</span>"
+},
+{
+"key": "part04.html#157",
+"es": "<b>MARIPOSA</b>"
+},
+{
+"key": "part04.html#158",
+"es": "Frontal · muy arriba"
+},
+{
+"key": "part04.html#159",
+"es": "<span>Sombra de mariposa bajo la nariz — pómulos, glamur</span>"
+},
+{
+"key": "part04.html#160",
+"es": "<b>CONTORNO</b>"
+},
+{
+"key": "part04.html#161",
+"es": "Detrás · arriba"
+},
+{
+"key": "part04.html#162",
+"es": "<span>Solo el contorno — silueta, misterio</span>"
+},
+{
+"key": "part04.html#163",
+"es": "<b>Fig. 40</b> 6 esquemas de iluminación de retrato según la posición de la luz principal — solo se mueve esa luz. En las plantas de abajo, el punto rojo es la luz principal y el cuadrado gris, la cámara."
+},
+{
+"key": "part04.html#164",
+"es": "<b>01</b><span>Coloca primero la luz principal. Apaga todas las demás e intenta terminar el encuadre solo con ella.</span>"
+},
+{
+"key": "part04.html#165",
+"es": "<b>02</b><span>Empieza a 45° y 45°. El punto de referencia es donde la sombra de la nariz forma un pequeño triángulo en la mejilla opuesta.</span>"
+},
+{
+"key": "part04.html#166",
+"es": "<b>03</b><span>Mantén la fuente grande y cerca. Agrándala con un softbox o un difusor y acércala al sujeto todo lo que puedas.</span>"
+},
+{
+"key": "part04.html#167",
+"es": "<b>04</b><span>No borres las sombras. La luz de relleno sirve para controlar el volumen, no para eliminar la sombra.</span>"
+},
+{
+"key": "part04.html#168",
+"es": "<b>05</b><span>Separa con un contraluz. Si sujeto y fondo se funden, añade uno alto, opuesto a la principal.</span>"
+},
+{
+"key": "part04.html#169",
+"es": "<b>06</b><span>Pon luz en los ojos. Es lo que más se olvida en anuncios con personas, y un reflector lo resuelve.</span>"
+},
+{
+"key": "part04.html#170",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part04.html#171",
+"es": "Rembrandt, a 45° lateral y en alto, es el esquema por defecto para personas. Los demás mueven la fuente desde ese punto."
+},
+{
+"key": "part04.html#172",
+"es": "El rostro según el ángulo de la luz principal"
+},
+{
+"key": "part04.html#173",
+"es": "Ángulo"
+},
+{
+"key": "part04.html#174",
+"es": "Nombre"
+},
+{
+"key": "part04.html#175",
+"es": "Forma de la sombra"
+},
+{
+"key": "part04.html#176",
+"es": "Impresión"
+},
+{
+"key": "part04.html#177",
+"es": "Uso"
+},
+{
+"key": "part04.html#178",
+"es": "Frontal 0°"
+},
+{
+"key": "part04.html#179",
+"es": "Luz plana"
+},
+{
+"key": "part04.html#180",
+"es": "Casi sin sombra"
+},
+{
+"key": "part04.html#181",
+"es": "Plana, juvenil, clara"
+},
+{
+"key": "part04.html#182",
+"es": "Anuncios de belleza, comedia"
+},
+{
+"key": "part04.html#183",
+"es": "45° lateral alto"
+},
+{
+"key": "part04.html#184",
+"es": "Rembrandt"
+},
+{
+"key": "part04.html#185",
+"es": "Triángulo en la mejilla opuesta"
+},
+{
+"key": "part04.html#186",
+"es": "Clásica, con volumen"
+},
+{
+"key": "part04.html#187",
+"es": "Retrato por defecto"
+},
+{
+"key": "part04.html#188",
+"es": "90° lateral"
+},
+{
+"key": "part04.html#189",
+"es": "Dividida"
+},
+{
+"key": "part04.html#190",
+"es": "Medio rostro a oscuras"
+},
+{
+"key": "part04.html#191",
+"es": "Dualidad, conflicto"
+},
+{
+"key": "part04.html#192",
+"es": "Planos dramáticos"
+},
+{
+"key": "part04.html#193",
+"es": "Centro, arriba"
+},
+{
+"key": "part04.html#194",
+"es": "Mariposa"
+},
+{
+"key": "part04.html#195",
+"es": "Mariposa bajo la nariz"
+},
+{
+"key": "part04.html#196",
+"es": "Glamurosa, comercial"
+},
+{
+"key": "part04.html#197",
+"es": "Moda, belleza"
+},
+{
+"key": "part04.html#198",
+"es": "Trasera 135°"
+},
+{
+"key": "part04.html#199",
+"es": "Luz de contorno"
+},
+{
+"key": "part04.html#200",
+"es": "Solo bordes iluminados"
+},
+{
+"key": "part04.html#201",
+"es": "Misterio, silueta"
+},
+{
+"key": "part04.html#202",
+"es": "Teasers, aperturas"
+},
+{
+"key": "part04.html#203",
+"es": "Desde abajo"
+},
+{
+"key": "part04.html#204",
+"es": "Luz inferior"
+},
+{
+"key": "part04.html#205",
+"es": "Sombras hacia arriba"
+},
+{
+"key": "part04.html#206",
+"es": "Inquietante, amenazante"
+},
+{
+"key": "part04.html#207",
+"es": "Terror, giros"
+},
+{
+"key": "part04.html#208",
+"es": "45°, más baja"
+},
+{
+"key": "part04.html#209",
+"es": "Bucle"
+},
+{
+"key": "part04.html#210",
+"es": "Sombra de la nariz en bucle"
+},
+{
+"key": "part04.html#211",
+"es": "Suave, natural"
+},
+{
+"key": "part04.html#212",
+"es": "Entrevistas"
+},
+{
+"key": "part04.html#213",
+"es": "<small>Ejercicio</small>4.3"
+},
+{
+"key": "part04.html#214",
+"es": "Tarea"
+},
+{
+"key": "part04.html#215",
+"es": "Haz un simulacro de «emergencia»: sin equipo de iluminación, consigue una luz principal en 10 minutos y haz un retrato."
+},
+{
+"key": "part04.html#216",
+"es": "Consejo"
+},
+{
+"key": "part04.html#217",
+"es": "Busca primero ventanas, monitores y el rebote de paredes blancas."
+},
+{
+"key": "part04.html#218",
+"es": "Evaluación"
+},
+{
+"key": "part04.html#219",
+"es": "Criterio dentro del límite de tiempo, exposición estable del rostro"
+},
+{
+"key": "part04.html#220",
+"es": "Respuesta modelo"
+},
+{
+"key": "part04.html#221",
+"es": "Hace un mapa de las fuentes de luz del entorno y explica la elección."
+},
+{
+"key": "part04.html#222",
+"es": "<b>PARTE 04</b>Iluminación y sonido"
+},
+{
+"key": "part04.html#223",
+"es": "Clave alta y clave baja"
+},
+{
+"key": "part04.html#224",
+"es": "La clave baja no consiste en rodar oscuro. Consiste en exponer con precisión las partes claras y llevar el resto a la oscuridad de forma controlada."
+},
+{
+"key": "part04.html#225",
+"es": "<b>Fotos de referencia 4.4A</b>Imágenes generadas — referencia de puesta en escena"
+},
+{
+"key": "part04.html#226",
+"es": "<b>a</b>Clave alta — luz clara y favorecedora"
+},
+{
+"key": "part04.html#227",
+"es": "<b>b</b>Retrato en clave baja — manda la oscuridad"
+},
+{
+"key": "part04.html#228",
+"es": "<b>c</b>Producto en clave baja — lujo y foco"
+},
+{
+"key": "part04.html#229",
+"es": "<b>d</b>Producto en clave alta — fondo blanco · sin sombra · limpio"
+},
+{
+"key": "part04.html#230",
+"es": "La diferencia principal–relleno marca el volumen y el tono del rostro"
+},
+{
+"key": "part04.html#231",
+"es": "<b>2 : 1 <small>1 paso de diferencia</small></b><span>Claro, amable — anuncios · belleza · información</span>"
+},
+{
+"key": "part04.html#232",
+"es": "<b>4 : 1 <small>2 pasos de diferencia</small></b><span>Retrato estándar — por defecto en entrevistas · drama</span>"
+},
+{
+"key": "part04.html#233",
+"es": "<b>8 : 1 <small>3 pasos de diferencia</small></b><span>Dramático — tensión · confesión · al borde del cine negro</span>"
+},
+{
+"key": "part04.html#234",
+"es": "<b>16 : 1 <small>4 pasos de diferencia</small></b><span>Clave baja — la oscuridad domina el rostro</span>"
+},
+{
+"key": "part04.html#235",
+"es": "Relación de iluminación = lado claro : lado oscuro. La principal no se toca; solo cambia <b>la intensidad del relleno</b>. Apaga el relleno y la relación crece; iguálalo a la principal y obtienes 1:1: la sombra desaparece."
+},
+{
+"key": "part04.html#236",
+"es": "<b>Fig. 41</b> Contraste según la relación de iluminación — mismo modelo, misma principal, solo el relleno en cuatro niveles."
+},
+{
+"key": "part04.html#237",
+"es": "Iluminación en clave alta"
+},
+{
+"key": "part04.html#238",
+"es": "Claridad general, sombras tenues"
+},
+{
+"key": "part04.html#239",
+"es": "Relación 2:1 o menos; fondo también iluminado"
+},
+{
+"key": "part04.html#240",
+"es": "Tono: claro, limpio, seguro, alegre"
+},
+{
+"key": "part04.html#241",
+"es": "Uso: alimentación, infancia, hogar, salud"
+}
+]

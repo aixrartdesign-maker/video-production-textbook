@@ -1,0 +1,442 @@
+[
+{
+"key": "part02.html#1234",
+"es": "1.18 · 1.20 Mirada, tiempo y espacio"
+},
+{
+"key": "part02.html#1235",
+"es": "Pon el plano siguiente donde cae la mirada y decide primero cuánto tiempo y cuánta distancia hay entre dos planos."
+},
+{
+"key": "part02.html#1236",
+"es": "Preguntas para pensar"
+},
+{
+"key": "part02.html#1237",
+"es": "¿Qué tamaños de plano uso más? ¿Es costumbre o elección?"
+},
+{
+"key": "part02.html#1238",
+"es": "En la tabla de 8 planos, marca el tamaño que más has rodado y el que nunca has rodado."
+},
+{
+"key": "part02.html#1239",
+"es": "¿Cuál es el plano más memorable de algo que hayas visto hace poco y por qué se te quedó grabado?"
+},
+{
+"key": "part02.html#1240",
+"es": "Desglósalo por tamaño, ángulo y duración."
+},
+{
+"key": "part02.html#1241",
+"es": "¿Cómo expresas en el set las indicaciones de encuadre?"
+},
+{
+"key": "part02.html#1242",
+"es": "Usa términos del oficio como «un poco más cerrado»: «hazlo un poco más pequeño» recibe tres lecturas de tres personas."
+},
+{
+"key": "feature_storyboard.html#0",
+"es": "Especial · STORYBOARD"
+},
+{
+"key": "feature_storyboard.html#1",
+"es": "El storyboard,<br>una promesa hecha en imágenes"
+},
+{
+"key": "feature_storyboard.html#2",
+"es": "Un storyboard es cuestión de diseño de la información, no de saber dibujar. Este especial reúne en un solo lugar qué debe decir una viñeta para que diez personas rueden la misma escena y cómo cambia la viñeta según el medio: horizontal · vertical · ultrapanorámico · 360 · curvo · fachada · AR/VR/MR/XR."
+},
+{
+"key": "feature_storyboard.html#3",
+"es": "<b>G-18</b> Hacer el storyboard — anota plano · movimiento · tiempo en cada viñeta. El dibujo puede ser tosco; la información, no."
+},
+{
+"key": "feature_storyboard.html#4",
+"es": "<b>01</b><i>Continuidad</i>La dirección ordena sus ideas. Dibujos toscos, varias versiones comparadas, para reuniones internas. 1–2 horas."
+},
+{
+"key": "feature_storyboard.html#5",
+"es": "<b>02</b><i>Storyboard</i>La hoja de ruta de todo el equipo. Encuadre · tiempos · sonido exactos. Cambios mínimos tras la aprobación en la PPM. 1–2 días."
+},
+{
+"key": "feature_storyboard.html#6",
+"es": "<b>03</b><i>Animática</i>El storyboard sobre una línea de tiempo con música · narración provisionales. Los problemas de ritmo y duración saltan a la vista. 2–3 días."
+},
+{
+"key": "feature_storyboard.html#7",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "feature_storyboard.html#8",
+"es": "Para un anuncio de 15 segundos o un video corto de 1 minuto, llega hasta la animática. Los problemas de ritmo no se ven en imágenes fijas."
+},
+{
+"key": "feature_storyboard.html#9",
+"es": "El storyboard es el último punto del proceso de producción en el que los errores salen baratos de corregir. Si un cambio en la fase de concepto cuesta 1, cuesta 3 en la de storyboard, 20 el día de rodaje y 50 en posproducción. Por eso un storyboard no es un documento para dibujar bonito, sino <b>un documento para equivocarse rápido</b>."
+},
+{
+"key": "feature_storyboard.html#10",
+"es": "<b>Fotos de referencia 1.1A</b>Imagen generada — cuatro caras del storyboard"
+},
+{
+"key": "feature_storyboard.html#11",
+"es": "<span class=\"ph-id\">P06-SB-HAND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard a mano — viñetas · flechas · notas de tiempo en una hoja</b></span>"
+},
+{
+"key": "feature_storyboard.html#12",
+"es": "<b>Nota</b>Storyboard a mano — viñetas · flechas · notas de tiempo en una hoja"
+},
+{
+"key": "feature_storyboard.html#13",
+"es": "<span class=\"ph-id\">P06-SB-VERT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard de video vertical — las viñetas se vuelven estrechas y altas</b></span>"
+},
+{
+"key": "feature_storyboard.html#14",
+"es": "<b>Nota</b>Storyboard de video vertical — las viñetas se vuelven estrechas y altas"
+},
+{
+"key": "feature_storyboard.html#15",
+"es": "<span class=\"ph-id\">P06-SB-DIGITAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard digital — dibujado en tableta, directo a la animática</b></span>"
+},
+{
+"key": "feature_storyboard.html#16",
+"es": "<b>Nota</b>Storyboard digital — dibujado en tableta, directo a la animática"
+},
+{
+"key": "feature_storyboard.html#17",
+"es": "<span class=\"ph-id\">P06-ANIMATIC</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Animática — pon el storyboard en una línea de tiempo para probar el ritmo</b></span>"
+},
+{
+"key": "feature_storyboard.html#18",
+"es": "<b>Nota</b>Animática — pon el storyboard en una línea de tiempo para probar el ritmo"
+},
+{
+"key": "feature_storyboard.html#19",
+"es": "<b>Fotos de referencia 1.1B</b>Imagen generada — referencias de dirección"
+},
+{
+"key": "feature_storyboard.html#20",
+"es": "<b>a</b>Storyboard a mano"
+},
+{
+"key": "feature_storyboard.html#21",
+"es": "<b>b</b>Pantalla de edición de la animática"
+},
+{
+"key": "feature_storyboard.html#22",
+"es": "<b>c</b>Búsqueda de locaciones"
+},
+{
+"key": "feature_storyboard.html#23",
+"es": "<small>DOBLE PÁGINA 01</small>Anatomía de una viñeta — los nueve elementos, o nadie más podrá rodarla"
+},
+{
+"key": "feature_storyboard.html#24",
+"es": "Anatomía de una viñeta — nueve elementos"
+},
+{
+"key": "feature_storyboard.html#25",
+"es": "<span>CUT 02</span><span class=\"sc\">S#1 Café · Día · INT</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#26",
+"es": "MCU · EYE · 50 mm · DOLLY IN lento · CUT TO"
+},
+{
+"key": "feature_storyboard.html#27",
+"es": "Nota de acción: toma el producto · la mirada va al producto"
+},
+{
+"key": "feature_storyboard.html#28",
+"es": "N Tu día empieza distinto · SE tapón · M entra piano"
+},
+{
+"key": "feature_storyboard.html#29",
+"es": "<i>1</i><b>Número de plano · escena</b><span>Base del orden y la referencia</span>"
+},
+{
+"key": "feature_storyboard.html#30",
+"es": "<i>2</i><b>Tiempo</b><span>Duración en segundos + código de tiempo acumulado</span>"
+},
+{
+"key": "feature_storyboard.html#31",
+"es": "<i>3</i><b>Imagen (encuadre)</b><span>Composición · posición · mirada · flechas</span>"
+},
+{
+"key": "feature_storyboard.html#32",
+"es": "<i>4</i><b>Tamaño de plano · ángulo · objetivo</b><span>ELS–ECU · EYE/HIGH/LOW</span>"
+},
+{
+"key": "feature_storyboard.html#33",
+"es": "<i>5</i><b>Movimiento de cámara</b><span>Dirección + una palabra para la velocidad</span>"
+},
+{
+"key": "feature_storyboard.html#34",
+"es": "<i>6</i><b>Nota de acción</b><span>El hecho, con un verbo</span>"
+},
+{
+"key": "feature_storyboard.html#35",
+"es": "<i>7</i><b>Narración · diálogo</b><span>N / V.O. / SYNC</span>"
+},
+{
+"key": "feature_storyboard.html#36",
+"es": "<i>8</i><b>Sonido</b><span>M · SE · ATM</span>"
+},
+{
+"key": "feature_storyboard.html#37",
+"es": "<i>9</i><b>Transición</b><span>CUT / DIS / FI / FO</span>"
+},
+{
+"key": "feature_storyboard.html#38",
+"es": "<b>Fig. 57</b> Elementos de una viñeta de storyboard. Solo cuando están escritos los nueve puede otra persona rodar la misma imagen."
+},
+{
+"key": "feature_storyboard.html#39",
+"es": "<small>Dentro de la viñeta</small>Solo lo que se ve"
+},
+{
+"key": "feature_storyboard.html#40",
+"es": "Posición y tamaño de personas · objetos (el tamaño de plano es el tamaño del dibujo)"
+},
+{
+"key": "feature_storyboard.html#41",
+"es": "Dirección de la mirada, flechas de movimiento (sujeto = negro, cámara = granate)"
+},
+{
+"key": "feature_storyboard.html#42",
+"es": "Zonas de rótulo · logo que entran en cuadro, como recuadros punteados"
+},
+{
+"key": "feature_storyboard.html#43",
+"es": "Línea punteada de zona segura — rótulos solo dentro de ella"
+},
+{
+"key": "feature_storyboard.html#44",
+"es": "<small>Fuera de la viñeta</small>Lo que se oye y las medidas"
+},
+{
+"key": "feature_storyboard.html#45",
+"es": "Tiempo: duración en segundos y código de tiempo acumulado"
+},
+{
+"key": "feature_storyboard.html#46",
+"es": "Abreviaturas: SIZE / ANGLE / LENS / MOVE / TR"
+},
+{
+"key": "feature_storyboard.html#47",
+"es": "Notas de acción con verbos, emociones con adjetivos, por separado"
+},
+{
+"key": "feature_storyboard.html#48",
+"es": "N · V.O. · SYNC · M · SE — cuatro capas de sonido en una línea"
+},
+{
+"key": "feature_storyboard.html#49",
+"es": "<small>DOBLE PÁGINA 02</small>Plantillas de viñeta por relación de aspecto — cambia la relación y cambia la gramática de la composición"
+},
+{
+"key": "feature_storyboard.html#50",
+"es": "Dibuja siempre las viñetas del storyboard <b>en la relación de aspecto exacta de entrega</b>. Un storyboard dibujado en 16:9 y luego recortado a vertical no es un storyboard. Cada plantilla siguiente vuelve a plantear la misma escena (persona · producto · fondo) para su relación. Las líneas punteadas son la zona segura de acción (90 %) y la zona segura de títulos (80 %)."
+},
+{
+"key": "feature_storyboard.html#51",
+"es": "Plantillas de viñeta por relación de aspecto"
+},
+{
+"key": "feature_storyboard.html#52",
+"es": "<b>4:3</b><span>1440×1080 · estética retro</span>"
+},
+{
+"key": "feature_storyboard.html#53",
+"es": "<b>16:9</b><span>1920×1080 · estándar</span>"
+},
+{
+"key": "feature_storyboard.html#54",
+"es": "<b>21:9</b><span>3840×1608 · cine</span>"
+},
+{
+"key": "feature_storyboard.html#55",
+"es": "<b>1:1</b><span>1080×1080 · para feed</span>"
+},
+{
+"key": "feature_storyboard.html#56",
+"es": "<b>4:5</b><span>1080×1350 · máx. en feed</span>"
+},
+{
+"key": "feature_storyboard.html#57",
+"es": "<b>9:16</b><span>1080×1920 · video corto</span>"
+},
+{
+"key": "feature_storyboard.html#58",
+"es": "<b>9:21</b><span>1080×2520 · LED vertical</span>"
+},
+{
+"key": "feature_storyboard.html#59",
+"es": "<b>2:1 equirrectangular</b><span>4096×2048 · 360/VR — el marco rojo son los 90° frontales</span>"
+},
+{
+"key": "feature_storyboard.html#60",
+"es": "<b>Lámina SB-1</b> Una escena, nueve relaciones de aspecto. Cambia la relación y cambian el tamaño del sujeto y el peso del fondo — dibuja el storyboard en la relación exacta de entrega."
+},
+{
+"key": "feature_storyboard.html#61",
+"es": "Relación"
+},
+{
+"key": "feature_storyboard.html#62",
+"es": "Resolución típica"
+},
+{
+"key": "feature_storyboard.html#63",
+"es": "Dónde"
+},
+{
+"key": "feature_storyboard.html#64",
+"es": "Regla de composición en una línea"
+},
+{
+"key": "feature_storyboard.html#65",
+"es": "Cuidado al dibujar"
+},
+{
+"key": "feature_storyboard.html#66",
+"es": "YouTube, TV, monitores, presentaciones"
+},
+{
+"key": "feature_storyboard.html#67",
+"es": "Ojos y producto en las líneas de tercios"
+},
+{
+"key": "feature_storyboard.html#68",
+"es": "Rodar en 4K → margen para extraer vertical"
+},
+{
+"key": "feature_storyboard.html#69",
+"es": "Cine, películas de marca"
+},
+{
+"key": "feature_storyboard.html#70",
+"es": "El vacío horizontal es emoción; dos personas en un plano"
+},
+{
+"key": "feature_storyboard.html#71",
+"es": "Se entrega con bandas en 16:9; revisa la posición de los rótulos"
+},
+{
+"key": "feature_storyboard.html#72",
+"es": "Reels · Shorts · TikTok"
+},
+{
+"key": "feature_storyboard.html#73",
+"es": "60 % central, rostro en el tercio superior"
+},
+{
+"key": "feature_storyboard.html#74",
+"es": "La interfaz tapa 14 % arriba · 25 % abajo"
+},
+{
+"key": "feature_storyboard.html#75",
+"es": "LED vertical, ascensores · columnas"
+},
+{
+"key": "feature_storyboard.html#76",
+"es": "Flujo arriba→abajo, eje central vertical"
+},
+{
+"key": "feature_storyboard.html#77",
+"es": "Distancia de visión 2 m+ → texto de al menos 60 px"
+},
+{
+"key": "feature_storyboard.html#78",
+"es": "Anuncios en feed"
+},
+{
+"key": "feature_storyboard.html#79",
+"es": "Centrado, márgenes iguales"
+},
+{
+"key": "feature_storyboard.html#80",
+"es": "El original 16:9 pierde un 44 % por los lados"
+},
+{
+"key": "feature_storyboard.html#81",
+"es": "Visores VR, reproductores 360"
+},
+{
+"key": "feature_storyboard.html#82",
+"es": "Acción en los 90° frontales, sonido detrás"
+},
+{
+"key": "feature_storyboard.html#83",
+"es": "Distorsión en cenit · nadir, borrar el trípode"
+},
+{
+"key": "feature_storyboard.html#84",
+"es": "Relación libre"
+},
+{
+"key": "feature_storyboard.html#85",
+"es": "N.º de módulos LED × paso de píxel"
+},
+{
+"key": "feature_storyboard.html#86",
+"es": "Curvo · fachada · cúpula"
+},
+{
+"key": "feature_storyboard.html#87",
+"es": "La referencia es la «posición de visión», no la superficie"
+},
+{
+"key": "feature_storyboard.html#88",
+"es": "Vista desplegada + vista superior, dos hojas juntas"
+},
+{
+"key": "feature_storyboard.html#89",
+"es": "<small>DOBLE PÁGINA 03</small>Horizontal y vertical no son medios distintos, sino lenguajes distintos — diseña el mismo plano dos veces"
+},
+{
+"key": "feature_storyboard.html#90",
+"es": "Diseña el mismo plano dos veces"
+},
+{
+"key": "feature_storyboard.html#91",
+"es": "<b>✕ Vertical recortado del centro de un 16:9</b><span>Media persona, media ventana — recortar no es diseñar</span>"
+},
+{
+"key": "feature_storyboard.html#92",
+"es": "<b>○ Plano rediseñado para vertical</b><span>Rostro en el tercio superior, producto centrado, menos fondo</span>"
+},
+{
+"key": "feature_storyboard.html#93",
+"es": "<b>Al pasar a vertical</b><span>Planos un tamaño más cerrados</span><span>El fondo va en un plano aparte</span><span>Mirada y movimiento van de arriba abajo</span><span>Rótulos dentro de la franja central del 60 %</span><span>El número de planos sube un 20–30 %</span>"
+},
+{
+"key": "feature_storyboard.html#94",
+"es": "<b>Lámina SB-2</b> Horizontal y vertical son lenguajes distintos. La diferencia entre un recorte central (izquierda) y un rediseño (centro)."
+},
+{
+"key": "feature_storyboard.html#95",
+"es": "Muestra de storyboard vertical — anuncio en video corto de 15 segundos (9:16, 6 planos)"
+},
+{
+"key": "feature_storyboard.html#96",
+"es": "Muestra de storyboard vertical"
+},
+{
+"key": "feature_storyboard.html#97",
+"es": "<b>CU · LOCKED</b><span>Bostezo · rótulo «¿Cada mañana, esto?»</span>"
+},
+{
+"key": "feature_storyboard.html#98",
+"es": "<b>ECU · HIGH · avance</b><span>La mano toma la botella · SE tapón</span>"
+},
+{
+"key": "feature_storyboard.html#99",
+"es": "<b>MCU · HH</b><span>Un sorbo, abre los ojos · «Oh.»</span>"
+},
+{
+"key": "feature_storyboard.html#100",
+"es": "<b>LS · LOW · TILT UP</b><span>La ciudad tras la ventana · N Antes que la ciudad</span>"
+}
+]

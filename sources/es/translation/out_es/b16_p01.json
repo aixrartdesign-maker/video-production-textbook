@@ -1,0 +1,602 @@
+[
+{
+"key": "part14a.html#347",
+"es": "<small>Grosor de línea</small>Fino y uniforme"
+},
+{
+"key": "part14a.html#348",
+"es": "grosor de línea fino y uniforme"
+},
+{
+"key": "part14a.html#349",
+"es": "<small>Texto</small>Ninguno"
+},
+{
+"key": "part14a.html#350",
+"es": "sin texto, sin rótulos"
+},
+{
+"key": "part14a.html#351",
+"es": "<small>Personas</small>Siluetas o figuras neutras"
+},
+{
+"key": "part14a.html#352",
+"es": "figura neutra en silueta"
+},
+{
+"key": "part14a.html#353",
+"es": "<small>Proporción</small>Diagramas apaisados 16:9, comparaciones de personas 4:3"
+},
+{
+"key": "part14a.html#354",
+"es": "relación de aspecto 16:9 o 4:3"
+},
+{
+"key": "part14a.html#355",
+"es": "Precauciones al crear láminas"
+},
+{
+"key": "part14a.html#356",
+"es": "El texto dentro de las imágenes generadas suele salir ilegible. Añade tú cualquier texto en la fase de edición."
+},
+{
+"key": "part14a.html#357",
+"es": "En las láminas con personas, pide siluetas o formas neutras para que no parezcan personas reales."
+},
+{
+"key": "part14a.html#358",
+"es": "No pidas recrear fotogramas de películas o anuncios concretos. Eso vulnera tanto los derechos de autor como la ética."
+},
+{
+"key": "part14a.html#359",
+"es": "Consulta las condiciones de uso comercial de la herramienta y revisa el alcance de la licencia antes de imprimir y distribuir."
+},
+{
+"key": "part14a.html#360",
+"es": "Para imprimir, calcula la resolución necesaria a 300 dpi y luego amplía la imagen."
+},
+{
+"key": "part14a.html#361",
+"es": "<b>Apéndice</b>Documentos de trabajo"
+},
+{
+"key": "part14a.html#362",
+"es": "Referencias y fuentes"
+},
+{
+"key": "part14a.html#363",
+"es": "Las cifras y normas del texto se basan en fuentes públicas de las categorías siguientes y en la práctica del sector."
+},
+{
+"key": "part14a.html#364",
+"es": "<b>Sobre las fuentes</b>"
+},
+{
+"key": "part14a.html#365",
+"es": "Las especificaciones técnicas y las políticas de las plataformas cambian a menudo. Consulta siempre los documentos oficiales más recientes antes de producir y entregar. Las obras de los directores y estudios citados se mencionan solo para analizar la técnica; no se ha reproducido ningún fotograma."
+},
+{
+"key": "part14a.html#366",
+"es": "<small>Teoría e historia</small>De la percepción a los manuales de iluminación"
+},
+{
+"key": "part14a.html#367",
+"es": "Bibliografía clásica de psicología sobre el movimiento aparente y el fenómeno phi"
+},
+{
+"key": "part14a.html#368",
+"es": "Historias generales del cine e introducciones a la teoría cinematográfica (teoría del montaje, gramática clásica del montaje)"
+},
+{
+"key": "part14a.html#369",
+"es": "Traducciones de textos originales del montaje soviético (efecto Kuleshov, montaje de choque)"
+},
+{
+"key": "part14a.html#370",
+"es": "Manuales de dirección de fotografía e iluminación (iluminación de 3 puntos, ratios de iluminación, esquemas de iluminación de retrato)"
+},
+{
+"key": "part14a.html#371",
+"es": "<small>Normas técnicas</small>Normas y documentos de fabricantes"
+},
+{
+"key": "part14a.html#372",
+"es": "Normas internacionales de televisión y cine (resolución, frecuencia de cuadro, espacio de color)"
+},
+{
+"key": "part14a.html#373",
+"es": "Manuales oficiales y libros blancos de los fabricantes de cámaras"
+},
+{
+"key": "part14a.html#374",
+"es": "Ayuda oficial de Adobe Premiere Pro y After Effects"
+},
+{
+"key": "part14a.html#375",
+"es": "Manual oficial de DaVinci Resolve, de Blackmagic Design"
+},
+{
+"key": "part14a.html#376",
+"es": "Fichas técnicas de fabricantes de pantallas LED (paso de píxel, luminancia, frecuencia de refresco)"
+},
+{
+"key": "part14a.html#377",
+"es": "<small>Guías de plataformas</small>Las pautas oficiales de cada servicio"
+},
+{
+"key": "part14a.html#378",
+"es": "Guías de YouTube Creator Academy y del Centro de Ayuda oficial"
+},
+{
+"key": "part14a.html#379",
+"es": "Especificaciones de anuncios del Meta Business Help Center"
+},
+{
+"key": "part14a.html#380",
+"es": "Guías de TikTok Creator Portal y Business Center"
+},
+{
+"key": "part14a.html#381",
+"es": "Guías oficiales de Naver sobre búsqueda y blogs"
+},
+{
+"key": "part14a.html#382",
+"es": "<small>Sector y legislación</small>Estadísticas · derechos de autor · contratos"
+},
+{
+"key": "part14a.html#383",
+"es": "Estadísticas y estudios sectoriales de la Agencia de Contenidos Creativos de Corea"
+},
+{
+"key": "part14a.html#384",
+"es": "Datos del mercado publicitario de la Corporación de Publicidad en Radiodifusión de Corea"
+},
+{
+"key": "part14a.html#385",
+"es": "Materiales de consulta y orientación de la Comisión de Derechos de Autor de Corea"
+},
+{
+"key": "part14a.html#386",
+"es": "Normativa sobre drones del Ministerio de Territorio, Infraestructura y Transporte y de las autoridades competentes"
+},
+{
+"key": "part14a.html#387",
+"es": "Modelos de contrato tipo del Ministerio de Cultura, Deportes y Turismo"
+},
+{
+"key": "part14a.html#388",
+"es": "<b>Apéndice</b>Documentos de trabajo"
+},
+{
+"key": "part14a.html#389",
+"es": "Formularios de hojas de trabajo"
+},
+{
+"key": "part14a.html#390",
+"es": "Imprímelos y úsalos tal cual. En clase, fotocópialos y repártelos; si estudias por tu cuenta, cópialos en tu cuaderno."
+},
+{
+"key": "part14a.html#391",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part14a.html#392",
+"es": "Las hojas de trabajo rellenadas durante un semestre son, por sí solas, un registro completo de tu trabajo."
+},
+{
+"key": "part14a.html#393",
+"es": "Hoja"
+},
+{
+"key": "part14a.html#394",
+"es": "Formulario"
+},
+{
+"key": "part14a.html#395",
+"es": "Propuesta en una página"
+},
+{
+"key": "part14a.html#396",
+"es": "Lista de planos"
+},
+{
+"key": "part14a.html#397",
+"es": "Storyboard de 6 viñetas"
+},
+{
+"key": "part14a.html#398",
+"es": "Lista de control de PPM"
+},
+{
+"key": "part14a.html#399",
+"es": "Análisis de planos de referencia"
+},
+{
+"key": "part14a.html#400",
+"es": "Autoevaluación del portafolio"
+},
+{
+"key": "part14a.html#401",
+"es": "<b>Apéndice</b>Documentos de trabajo"
+},
+{
+"key": "part14a.html#402",
+"es": "50 errores frecuentes"
+},
+{
+"key": "part14a.html#403",
+"es": "Repásalos una vez la víspera del rodaje y otra justo antes de la entrega. La mayoría de los fracasos no vienen de la falta de talento, sino de pasos que nadie comprobó."
+},
+{
+"key": "part14a.html#404",
+"es": "Fase de planificación"
+},
+{
+"key": "part14a.html#405",
+"es": "<b>01</b><span>Empezar a planificar antes de elegir la plataforma</span>"
+},
+{
+"key": "part14a.html#406",
+"es": "<b>02</b><span>Meter dos o más mensajes</span>"
+},
+{
+"key": "part14a.html#407",
+"es": "<b>03</b><span>Dirigirse a todo el mundo</span>"
+},
+{
+"key": "part14a.html#408",
+"es": "<b>04</b><span>Quedarse solo con la sensación de las referencias, sin desglosarlas</span>"
+},
+{
+"key": "part14a.html#409",
+"es": "<b>05</b><span>Aferrarse a ideas que no caben en el presupuesto ni en el calendario</span>"
+},
+{
+"key": "part14a.html#410",
+"es": "<b>06</b><span>Ir al rodaje sin haber dibujado un storyboard</span>"
+},
+{
+"key": "part14a.html#411",
+"es": "<b>07</b><span>No prever espacio para subtítulos y logotipos</span>"
+},
+{
+"key": "part14a.html#412",
+"es": "<b>08</b><span>Seguir adelante solo con el acuerdo del equipo, sin PPM</span>"
+},
+{
+"key": "part14a.html#413",
+"es": "<b>09</b><span>No conseguir las autorizaciones de imagen ni los permisos de locación</span>"
+},
+{
+"key": "part14a.html#414",
+"es": "<b>10</b><span>Ocuparse de las licencias de música después del rodaje</span>"
+},
+{
+"key": "part14a.html#415",
+"es": "Fase de rodaje"
+},
+{
+"key": "part14a.html#416",
+"es": "<b>11</b><span>Rodar con exposición y balance de blancos automáticos</span>"
+},
+{
+"key": "part14a.html#417",
+"es": "<b>12</b><span>Usar la velocidad de obturación para controlar la exposición</span>"
+},
+{
+"key": "part14a.html#418",
+"es": "<b>13</b><span>Rodar a plena abertura de día sin filtros ND</span>"
+},
+{
+"key": "part14a.html#419",
+"es": "<b>14</b><span>No rodar un plano máster ni insertos</span>"
+},
+{
+"key": "part14a.html#420",
+"es": "<b>15</b><span>Rodar sin comprobar la regla de los 180°</span>"
+},
+{
+"key": "part14a.html#421",
+"es": "<b>16</b><span>Rodar muchos planos con el mismo tamaño y ángulo</span>"
+},
+{
+"key": "part14a.html#422",
+"es": "<b>17</b><span>Grabar el audio principal con el micro integrado de la cámara</span>"
+},
+{
+"key": "part14a.html#423",
+"es": "<b>18</b><span>No grabar el tono de sala</span>"
+},
+{
+"key": "part14a.html#424",
+"es": "<b>19</b><span>Llevar baterías y tarjetas de memoria sin repuestos</span>"
+},
+{
+"key": "part14a.html#425",
+"es": "<b>20</b><span>Formatear tarjetas en pleno rodaje sin copia de seguridad</span>"
+},
+{
+"key": "part14a.html#426",
+"es": "<b>21</b><span>Dejar los trípodes de luz sin sacos de arena</span>"
+},
+{
+"key": "part14a.html#427",
+"es": "<b>22</b><span>Colocar a los actores pegados al fondo de chroma key</span>"
+},
+{
+"key": "part14a.html#428",
+"es": "<b>23</b><span>Vestuario del mismo color que el fondo</span>"
+},
+{
+"key": "part14a.html#429",
+"es": "<b>24</b><span>Logotipos de otras marcas visibles en cuadro</span>"
+},
+{
+"key": "part14a.html#430",
+"es": "<b>25</b><span>Recoger sin comprobar que se rodaron todos los planos del storyboard</span>"
+},
+{
+"key": "part14a.html#431",
+"es": "Montaje y posproducción"
+},
+{
+"key": "part14a.html#432",
+"es": "<b>26</b><span>Montar primero la imagen, sin música</span>"
+},
+{
+"key": "part14a.html#433",
+"es": "<b>27</b><span>Dar la misma duración a todos los planos</span>"
+},
+{
+"key": "part14a.html#434",
+"es": "<b>28</b><span>Cortar cuando la acción ya ha terminado</span>"
+},
+{
+"key": "part14a.html#435",
+"es": "<b>29</b><span>Poner una transición en cada corte</span>"
+},
+{
+"key": "part14a.html#436",
+"es": "<b>30</b><span>Colocar subtítulos fuera de la zona segura</span>"
+},
+{
+"key": "part14a.html#437",
+"es": "<b>31</b><span>No corregir los subtítulos</span>"
+},
+{
+"key": "part14a.html#438",
+"es": "<b>32</b><span>Entregar con un color que cambia de plano a plano</span>"
+},
+{
+"key": "part14a.html#439",
+"es": "<b>33</b><span>Dejar las composiciones sin sombras ni grano</span>"
+},
+{
+"key": "part14a.html#440",
+"es": "<b>34</b><span>Niveles de audio que saltan de un tramo a otro</span>"
+},
+{
+"key": "part14a.html#441",
+"es": "<b>35</b><span>Cuadros negros olvidados al principio y al final</span>"
+},
+{
+"key": "part14a.html#442",
+"es": "<b>36</b><span>Editar 4K nativo sin proxies hasta que el equipo se bloquee</span>"
+},
+{
+"key": "part14a.html#443",
+"es": "<b>37</b><span>Llamar a los archivos final, really_final</span>"
+},
+{
+"key": "part14a.html#444",
+"es": "<b>38</b><span>Enlazar materiales fuera de la carpeta del proyecto</span>"
+},
+{
+"key": "part14a.html#445",
+"es": "<b>39</b><span>Revisar el color en un solo monitor</span>"
+},
+{
+"key": "part14a.html#446",
+"es": "<b>40</b><span>No revisar los nombres propios en los subtítulos automáticos</span>"
+},
+{
+"key": "part14a.html#447",
+"es": "Entrega y publicación"
+},
+{
+"key": "part14a.html#448",
+"es": "<b>41</b><span>Exportar sin comprobar las especificaciones exigidas</span>"
+},
+{
+"key": "part14a.html#449",
+"es": "<b>42</b><span>No comprobar la reproducción en otros dispositivos</span>"
+},
+{
+"key": "part14a.html#450",
+"es": "<b>43</b><span>No revisarlo con el sonido apagado</span>"
+},
+{
+"key": "part14a.html#451",
+"es": "<b>44</b><span>Hacer la versión vertical recortando sin más la horizontal</span>"
+},
+{
+"key": "part14a.html#452",
+"es": "<b>45</b><span>Olvidar que el primer cuadro es la miniatura</span>"
+},
+{
+"key": "part14a.html#453",
+"es": "<b>46</b><span>Improvisar el título a última hora</span>"
+},
+{
+"key": "part14a.html#454",
+"es": "<b>47</b><span>Usar solo hashtags masivos</span>"
+},
+{
+"key": "part14a.html#455",
+"es": "<b>48</b><span>No revisar las métricas después de publicar</span>"
+},
+{
+"key": "part14a.html#456",
+"es": "<b>49</b><span>No comprobar los permisos del enlace al portafolio</span>"
+},
+{
+"key": "part14a.html#457",
+"es": "<b>50</b><span>No hacer copia de seguridad de los archivos de proyecto y los originales</span>"
+},
+{
+"key": "part14a.html#458",
+"es": "Evita aunque sea la mitad de estos 50 y la calidad de tu trabajo cambiará de forma visible.<small>Apéndice P 50 errores frecuentes</small>"
+},
+{
+"key": "part14a.html#459",
+"es": "<b>Apéndice</b>Documentos de trabajo"
+},
+{
+"key": "part14a.html#460",
+"es": "Términos de rodaje"
+},
+{
+"key": "part14a.html#461",
+"es": "Las palabras que de verdad se usan en el set. Si no las entiendes, tendrás menos ocasiones de aprender."
+},
+{
+"key": "part14a.html#462",
+"es": "<b>Reglas del lenguaje de set</b>"
+},
+{
+"key": "part14a.html#463",
+"es": "Habla de forma breve y clara. Cuando recibas una instrucción, repítela siempre en voz alta. Las instrucciones que fingiste entender causan los peores accidentes."
+},
+{
+"key": "part14a.html#464",
+"es": "Término"
+},
+{
+"key": "part14a.html#465",
+"es": "Significado"
+},
+{
+"key": "part14a.html#466",
+"es": "Cuándo se usa"
+},
+{
+"key": "part14a.html#467",
+"es": "Motor"
+},
+{
+"key": "part14a.html#468",
+"es": "Señal para empezar a grabar"
+},
+{
+"key": "part14a.html#469",
+"es": "Primero sonido, luego cámara"
+},
+{
+"key": "part14a.html#470",
+"es": "Corten"
+},
+{
+"key": "part14a.html#471",
+"es": "Señal para parar"
+},
+{
+"key": "part14a.html#472",
+"es": "Solo la da dirección"
+},
+{
+"key": "part14a.html#473",
+"es": "OK"
+},
+{
+"key": "part14a.html#474",
+"es": "Toma aprobada"
+},
+{
+"key": "part14a.html#475",
+"es": "La anota continuidad"
+},
+{
+"key": "part14a.html#476",
+"es": "Reserva"
+},
+{
+"key": "part14a.html#477",
+"es": "Se guarda por ahora"
+},
+{
+"key": "part14a.html#478",
+"es": "Dudosa, pero no se descarta"
+},
+{
+"key": "part14a.html#479",
+"es": "NG"
+},
+{
+"key": "part14a.html#480",
+"es": "Toma fallida"
+},
+{
+"key": "part14a.html#481",
+"es": "Se repite"
+},
+{
+"key": "part14a.html#482",
+"es": "Toma"
+},
+{
+"key": "part14a.html#483",
+"es": "Cada repetición de un plano"
+},
+{
+"key": "part14a.html#484",
+"es": "Toma 3, vamos"
+},
+{
+"key": "part14a.html#485",
+"es": "Claqueta"
+},
+{
+"key": "part14a.html#486",
+"es": "Pizarra con los datos del plano"
+},
+{
+"key": "part14a.html#487",
+"es": "Referencia de sincronía"
+},
+{
+"key": "part14a.html#488",
+"es": "Prevenidos"
+},
+{
+"key": "part14a.html#489",
+"es": "Listos y a la espera"
+},
+{
+"key": "part14a.html#490",
+"es": "Silencio, todos"
+},
+{
+"key": "part14a.html#491",
+"es": "Ensayo"
+},
+{
+"key": "part14a.html#492",
+"es": "Pasada sin grabar"
+},
+{
+"key": "part14a.html#493",
+"es": "Revisar posiciones y tiempos"
+},
+{
+"key": "part14a.html#494",
+"es": "Preparación"
+},
+{
+"key": "part14a.html#495",
+"es": "Instalar y ajustar el equipo"
+},
+{
+"key": "part14a.html#496",
+"es": "Preparación de cámara, de luces"
+}
+]

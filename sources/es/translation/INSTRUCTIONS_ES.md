@@ -1,0 +1,48 @@
+# Translation English → Spanish (español, international neutral: understood equally in Spain and Latin America; follow RAE/Ortografía 2010): textbook «Producción de video: manual práctico»
+
+Source: the published English edition of a Korean university textbook on video production ("Video Production: A Practical Textbook", author Jia Ahn). You translate it into Spanish for a printed book. The text will be printed as it is, so it must be **free of typos and grammar errors**. Quality over speed. Write as a native professional translator of film/video textbooks would: natural, idiomatic Spanish, not word-for-word.
+
+## Input / output
+- Input: a JSON array of objects `{"key": "...", "en": "<html fragment>"}`.
+- Output: the same items in the same order as `{"key": "...", "es": "<html fragment>"}`.
+- Write the output as consecutive chunk files with the Write tool: `out_es/bNN_p01.json`, `out_es/bNN_p02.json`, … (NN = your batch number, two digits), each a valid JSON array covering the next ~150 input items, in input order, no gaps, no overlaps. Concatenating the chunks in file-name order must reproduce the full input length and key order exactly. Output only valid JSON (no markdown fences; escape `"` inside strings as `\"`). Do not write any other files.
+- Before writing each chunk, re-read it once for typos, accents (tildes), agreement (género y número), verb forms, prepositions, opening ¿ ¡ marks and terminology.
+
+## Hard rules (the build breaks if violated)
+1. Every inline HTML tag in "en" must appear in "es" **unchanged and in the same order** (`<b>`, `</b>`, `<br>`, `<em>`, `<small>`, `<span class="…" style="…">`, `<tspan …>`, `<i>` …). Translate only the text between/around tags. Never add, drop, reorder or edit tags or attributes. If the target word order differs, move the words, not the tags' order.
+2. Keep HTML entities as they are (`&amp;`, `&lt;`, `&nbsp;`). Keep `[[MK:…]]` tokens untouched.
+3. Translate **all** English prose, headings, labels, table cells, captions and uppercase kickers. Nothing English may remain except: established acronyms and codes (ISO, LUT, PPM, OTS, ELS, LS, FS, KS, MS, BS, CU, ECU, DP, AD, LED, XR, AR, VR, MR, RGB, CMYK, HDR, SDR, 4K, HD, UHD, fps, ND8, SNS, CTA, KPI, OTT), product/brand/software names (Premiere Pro, After Effects, DaVinci Resolve, YouTube Shorts, Instagram Reels, TikTok, Higgsfield, Kling …), titles of works, file names, and the storyboard template labels SIZE, MOVE, N, SE, CUT, REF, SYNC, M, CAP, MUSIC, MUTE.
+4. A run that is only a letter, number or acronym (e.g. "A", "CU", "4K") stays unchanged.
+5. Length: Spanish runs about 15–20 % longer than English. Keep it tight — this book is typeset to the page. Prose may grow by at most ~15 %. **Labels, table cells, figure labels and headings must stay as short as the English or shorter** (use standard abbreviations: p. ej., aprox., máx., mín., min, h, fig., n.º).
+6. Write part references as "PARTE 07" (uppercase PARTE + space + the two-digit number of the source) wherever the source has "PART 07". Write figure references exactly as "Fig. 12" / "Fig. 3-2" (capital F, full stop, one space).
+
+## Typography
+- Quotation marks: «…» (inner “…”). Replace English “…” / '…' accordingly. Always open questions and exclamations with ¿ ¡.
+- Dashes: in running prose do not copy the English " — "; use a colon, a comma, parentheses, or paired rayas attached to the inserted text (—así—). In headings, labels, captions and table cells keep the source separator exactly as it is (" — ", " · ", "→", "+", "/"). Ranges with an en dash and no spaces: 1–2, 50–85 mm, 2019–2024.
+- Decimal comma for numbers in prose, measurements and settings: 1,5 m · 2,39:1 · f/2,8 · 0,04–0,1 s · 23,976 fps · ×1,5. **Exceptions that keep the dot:** section numbers and cross-references (3.2, 12.14A, «véase 8.13»), exercise numbers (ejercicio 8.12), version numbers, time codes (00:01:12:05), file names, URLs.
+- Thousands: no separator for four digits (5600 K, 2024), a no-break or normal space from five digits on (12 000); never 12,000 or 12.000. Percent with a space: 50 %. Degrees: 180°.
+- Units with a space: 50 mm, 3 m, 15 s, 2 min, 10 h. Keep "fps" and "K".
+- Capitalisation: sentence case in headings and labels (only the first word and proper nouns capitalised); no Title Case; days, months and languages in lower case.
+- Address the reader with **tú** (imperative: «Planifica…»; infinitive in lists/checklists: «Revisar la iluminación»). Be consistent within a list. No voseo, no vosotros (use ustedes for the plural).
+- Vocabulary: prefer words common to Spain and Latin America (video without accent, computadora → equipo/computadora, móvil/celular → teléfono or smartphone, cámara, guion, rodaje, toma, plano). Spell guion, rio, fue without accent (Ortografía 2010); solo and demonstratives without accent.
+- Gender: the author is a woman (la autora). For roles use the generic masculine or neutral nouns (dirección, cámara, el equipo, el alumnado); no @, x or e endings.
+
+## Fixed terms (use exactly; keep consistent across the whole book)
+Figure N → Fig. N · Figures N–M → Fig. N–M · Plate X → Lámina X · Reference photos X → Fotos de referencia X · Table N → Tabla N
+PART 01 → PARTE 01 · chapter → capítulo · section → sección · Feature → Especial · Background N → Contexto N · Introduction → Introducción
+Exercise → Ejercicio · Task → Tarea · Tip → Consejo · Assessment / Assessment points → Evaluación / Criterios de evaluación · Model answer → Respuesta modelo · Materials → Materiales · Check point → Punto de control
+Questions to consider → Preguntas para pensar · One-page summary → Resumen en una página · Self-check → Autoevaluación · Field tips → Consejos de rodaje · Exercises and review → Ejercicios y repaso · Using this chapter in class → Cómo usar este capítulo en clase · Wrap-up → Cierre
+Term → Término · Note → Nota · Key point → Punto clave · Case → Caso · Memo / NOTES → Notas · Spotlight → En foco
+Contents → Índice · Colophon → Créditos · Preface → Prefacio · Author's note → Nota de la autora · How to read this book → Cómo leer este libro · How to use this book → Cómo usar este libro · Learning roadmap → Ruta de aprendizaje · Afterword → Epílogo · Appendix → Apéndice · List of figures → Índice de figuras · Front matter → Páginas preliminares · Prologue → Prólogo
+Author → Autora · Jia Ahn → Jia Ahn · Video Production: A Practical Textbook → Producción de video: manual práctico · Kyungbok University → Universidad Kyungbok
+shot (unit of filming/editing) → plano · cut (edit point) → corte · scene → escena · sequence → secuencia · take → toma · storyboard → storyboard (masc.) · panel → viñeta · action note → nota de acción · dialogue → diálogo
+the line / 180° rule → eje de acción / regla de los 180° · over-the-shoulder (OTS) → plano sobre el hombro (OTS) · two-shot → plano de dos · shot sizes: extreme long shot → gran plano general (ELS), long shot → plano general (LS), full shot → plano entero (FS), knee shot → plano americano (KS), medium shot → plano medio (MS), bust shot → plano medio corto (BS), close-up → primer plano (CU), extreme close-up → primerísimo primer plano (ECU)
+eye level / high angle / low angle / bird's-eye / worm's-eye → a la altura de los ojos / picado / contrapicado / cenital / nadir · headroom / noseroom / lead room → aire sobre la cabeza / aire de mirada / aire de movimiento · rule of thirds → regla de los tercios · golden ratio → proporción áurea · leading lines → líneas guía
+pre-production / production / post-production → preproducción / rodaje (producción) / posproducción · delivery → entrega · set / on location → set / en locación · director → director(a), as a role: dirección · DP → director de fotografía (DP) · AD → ayudante de dirección (AD) · client → cliente · call sheet → orden de rodaje · PPM (pre-production meeting) → PPM (reunión de preproducción) · proposal / treatment → propuesta · script → guion
+depth of field → profundidad de campo · exposure triangle → triángulo de exposición · aperture → diafragma (apertura) · shutter speed → velocidad de obturación · shutter angle → ángulo de obturación · ISO → ISO · focal length → distancia focal · sensor / crop factor → sensor / factor de recorte · color temperature → temperatura de color · white balance → balance de blancos · codec → códec · log recording → grabación en Log · color grading → etalonaje (color grading) on first mention in an item, then etalonaje · color correction → corrección de color · frame rate → frecuencia de cuadro (fps) · aspect ratio → relación de aspecto · safe zone / title safe / action safe → zona segura / zona segura de títulos / zona segura de acción
+key / fill / back (rim) light → luz principal / luz de relleno / contraluz (luz de contorno) · bounce → rebote (reflector) · softbox → softbox · chroma key / green screen → chroma key / pantalla verde · LED wall → pared LED · media facade → fachada mediática · anamorphic illusion → ilusión anamórfica · media art → arte multimedia · immersive content → contenido inmersivo · expanded cinema → cine expandido
+short-form (video) → video corto · showreel → showreel · portfolio → portafolio · thumbnail → miniatura · hook → gancho · retention → retención · reach → alcance · engagement → interacción · click rate → tasa de clics · generative AI → IA generativa · prompt → prompt · AI (in prose) → IA
+Keep Korean names and places in the English romanization used by the source (Seoul → Seúl).
+
+## Voice
+A seasoned practitioner teaching undergraduates: direct, plain, occasionally aphoristic. Short sentences. No filler. Keep sentence-final punctuation as in the source (no full stop where the English has none).

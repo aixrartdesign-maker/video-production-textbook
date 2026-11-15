@@ -1,0 +1,506 @@
+[
+{
+"key": "part07.html#391",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+},
+{
+"key": "part07.html#392",
+"es": "Planificación de exposiciones MR y XR"
+},
+{
+"key": "part07.html#393",
+"es": "El plan de una exposición debe calcular la capacidad por hora. Un plan sin esa cifra provocará problemas de colas en el lugar."
+},
+{
+"key": "part07.html#394",
+"es": "<b>Fig. 66</b> AR, MR y VR en el continuo entre lo real y lo virtual"
+},
+{
+"key": "part07.html#395",
+"es": "Diseña el recorrido como una sola línea de la entrada a la salida"
+},
+{
+"key": "part07.html#396",
+"es": "Entrada · cola"
+},
+{
+"key": "part07.html#397",
+"es": "Visor · instrucciones 2 min"
+},
+{
+"key": "part07.html#398",
+"es": "Zona A"
+},
+{
+"key": "part07.html#399",
+"es": "Zona B"
+},
+{
+"key": "part07.html#400",
+"es": "Zona C"
+},
+{
+"key": "part07.html#401",
+"es": "Desinfección · devolución"
+},
+{
+"key": "part07.html#402",
+"es": "Zona de fotos"
+},
+{
+"key": "part07.html#403",
+"es": "Foto · compartir 60 s"
+},
+{
+"key": "part07.html#404",
+"es": "Salida · tienda"
+},
+{
+"key": "part07.html#405",
+"es": "ENTRADA"
+},
+{
+"key": "part07.html#406",
+"es": "SALIDA →"
+},
+{
+"key": "part07.html#407",
+"es": "De la entrada a la salida en <b>una sola línea</b>. Si el recorrido vuelve sobre sí mismo, quienes llevan visor chocan con quienes no. Experiencia de 90 s × 3 + 60 s de foto + cola = unos 8 min por persona, unas 40 personas por hora."
+},
+{
+"key": "part07.html#408",
+"es": "<b>Fig. 67</b> Plano de una exposición XR — la línea roja de puntos es el recorrido de los visitantes; los números indican el orden."
+},
+{
+"key": "part07.html#409",
+"es": "8 etapas de planificación"
+},
+{
+"key": "part07.html#410",
+"es": "<b>01</b><i>Tema</i>La idea que queda tras la visita, en una frase"
+},
+{
+"key": "part07.html#411",
+"es": "<b>02</b><i>Estudio del lugar</i>Planos acotados, altura de techo, potencia eléctrica, lux"
+},
+{
+"key": "part07.html#412",
+"es": "<b>03</b><i>Guion</i>Gráfico de permanencia por sección"
+},
+{
+"key": "part07.html#413",
+"es": "<b>04</b><i>Recorrido</i>Plano de sentido único o de libre circulación"
+},
+{
+"key": "part07.html#414",
+"es": "<b>05</b><i>Tecnología</i>Especificaciones del equipo, equipo de respaldo"
+},
+{
+"key": "part07.html#415",
+"es": "<b>06</b><i>Contenido</i>Lista de contenidos por espacio"
+},
+{
+"key": "part07.html#416",
+"es": "<b>07</b><i>Instalación</i>Registro de calibración in situ"
+},
+{
+"key": "part07.html#417",
+"es": "<b>08</b><i>Operación</i>Manual del personal, respuesta ante fallos"
+},
+{
+"key": "part07.html#418",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part07.html#419",
+"es": "Lo que suele pasarse por alto: elegir la tecnología antes que el mensaje, la altura de techo y la potencia eléctrica, la falta de un plan para los tiempos de espera."
+},
+{
+"key": "part07.html#420",
+"es": "Lo que se pasa por alto en cada etapa"
+},
+{
+"key": "part07.html#421",
+"es": "<small>Planificación</small>Tema · espacio · guion"
+},
+{
+"key": "part07.html#422",
+"es": "Elegir la tecnología antes que el mensaje"
+},
+{
+"key": "part07.html#423",
+"es": "Altura de techo y potencia eléctrica"
+},
+{
+"key": "part07.html#424",
+"es": "Sin plan para los tiempos de espera"
+},
+{
+"key": "part07.html#425",
+"es": "<small>Ejecución</small>Recorrido · tecnología · instalación · operación"
+},
+{
+"key": "part07.html#426",
+"es": "Cuellos de botella y contraflujo"
+},
+{
+"key": "part07.html#427",
+"es": "Mantenimiento y repuestos"
+},
+{
+"key": "part07.html#428",
+"es": "Tiempo de instalación subestimado"
+},
+{
+"key": "part07.html#429",
+"es": "Sin procedimiento de reinicio"
+},
+{
+"key": "part07.html#430",
+"es": "<b>90<em>s</em></b>Duración de 1 sesión"
+},
+{
+"key": "part07.html#431",
+"es": "<b>4<em>personas</em></b>Aforo simultáneo"
+},
+{
+"key": "part07.html#432",
+"es": "<b>160<em>pers./h</em></b>Máximo teórico"
+},
+{
+"key": "part07.html#433",
+"es": "<b>70<em>%</em></b>Realista, con relevo · instrucciones"
+},
+{
+"key": "part07.html#434",
+"es": "Cálculo de la permanencia"
+},
+{
+"key": "part07.html#435",
+"es": "Combina la duración de 1 sesión con el aforo simultáneo para obtener la capacidad por hora. Una experiencia de 90 segundos para 4 personas a la vez llega, en teoría, a 160 personas por hora; en la operación real, suma el tiempo de relevo y de instrucciones y cuenta con un 70 % de esa cifra."
+},
+{
+"key": "part07.html#436",
+"es": "MR en los museos"
+},
+{
+"key": "part07.html#437",
+"es": "<span class=\"ph-id\">P07-MR-MUSEUM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Museo MR — un holograma de restauración sobre la pieza</b>Un visitante con visor, una forma restaurada translúcida que flota sobre una piedra labrada rota</span>"
+},
+{
+"key": "part07.html#438",
+"es": "<b>Nota</b>Deja el original tal cual; rellena con luz solo lo que falta"
+},
+{
+"key": "part07.html#439",
+"es": "Los museos son donde la MR resulta más convincente, porque la restricción de que los originales no se pueden tocar ni mover se convierte en la gran ventaja de la MR."
+},
+{
+"key": "part07.html#440",
+"es": "El Museo Nacional de Corea tiene una galería digital inmersiva dentro de su exposición permanente, con contenidos como una tumba con murales de Goguryeo en VR, grandes películas panorámicas y una Estela de Gwanggaeto digital; también los grandes museos nacionales de otros países ofrecen recorridos de AR y MR con restauración de piezas. Sus montajes se reducen, en general, a tres elementos."
+},
+{
+"key": "part07.html#441",
+"es": "Hologramas de restauración: los fragmentos que faltan de una cerámica rota, o los colores originales de una estatua de Buda desgastada, superpuestos al objeto real. Conserva algo de transparencia para que se vea el límite entre original y restauración."
+},
+{
+"key": "part07.html#442",
+"es": "Avatares guía: leen la mirada y la posición del visitante para explicar la pieza que está mirando. Limita la explicación a menos de 30 segundos por pieza; el visitante decide si quiere oír más."
+},
+{
+"key": "part07.html#443",
+"es": "Control por seguimiento de manos: tomar, girar y ampliar piezas con la mano, sin mandos. Coloca los objetos al alcance del brazo (unos 0,5–0,7 m) y haz que vuelvan a su sitio al terminar la manipulación."
+},
+{
+"key": "part07.html#444",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part07.html#445",
+"es": "En la MR de museo, la higiene y la rotación son la mitad del plan. Incluye en el gráfico de permanencia el tiempo de desinfección del visor entre usuarios y el de instrucciones."
+},
+{
+"key": "part07.html#446",
+"es": "<span class=\"ph-id\">P07-LEDWALL</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Escenario XR</b>Una autopista nocturna en un volumen LED curvo, un auto real y una cámara en grúa en el set</span>"
+},
+{
+"key": "part07.html#447",
+"es": "<b>Nota</b>Escenario XR — con seguimiento de cámara y un motor en tiempo real, el fondo LED sigue los movimientos de la cámara. Las zonas XR de exposición y la producción virtual de cine usan la misma tecnología"
+},
+{
+"key": "part07.html#448",
+"es": "<small>Ejercicio</small>6.7"
+},
+{
+"key": "part07.html#449",
+"es": "Tarea"
+},
+{
+"key": "part07.html#450",
+"es": "Elabora un plano de recorrido y una lista de contenidos por espacio para una exposición XR ficticia."
+},
+{
+"key": "part07.html#451",
+"es": "Consejo"
+},
+{
+"key": "part07.html#452",
+"es": "Fija un tiempo de permanencia del visitante para cada espacio."
+},
+{
+"key": "part07.html#453",
+"es": "Evaluación"
+},
+{
+"key": "part07.html#454",
+"es": "Flujo de visitantes, ajuste entre espacio y contenido"
+},
+{
+"key": "part07.html#455",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#456",
+"es": "Contrasta las experiencias de entrada y de salida para construir una estructura memorable."
+},
+{
+"key": "part07.html#457",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+},
+{
+"key": "part07.html#458",
+"es": "Videomapping"
+},
+{
+"key": "part07.html#459",
+"es": "Construye el contenido sobre una plantilla desplegada del objeto. Funciona mejor cuando los bordes de las estructuras reales, como ventanas y columnas, se convierten en la estructura del contenido."
+},
+{
+"key": "part07.html#460",
+"es": "<b>G-22</b> Videomapping — la superficie del edificio se convierte en pantalla (imagen generada con GPT — solo conceptual)"
+},
+{
+"key": "part07.html#461",
+"es": "<span class=\"ph-id\">P07-PROJECTION</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Videomapping</b>Fachada de piedra de noche, luz geométrica que recorre los bordes de ventanas y columnas, siluetas del público</span>"
+},
+{
+"key": "part07.html#462",
+"es": "<b>Nota</b>Los bordes de ventanas y columnas pasan a ser las viñetas del contenido — por eso se construye sobre la plantilla"
+},
+{
+"key": "part07.html#463",
+"es": "<small>Principio</small>Medir → ajustar → corregir → calibrar"
+},
+{
+"key": "part07.html#464",
+"es": "Mide la forma 3D del objeto y reconstrúyela como modelo virtual"
+},
+{
+"key": "part07.html#465",
+"es": "Haz coincidir la posición del proyector con la cámara virtual"
+},
+{
+"key": "part07.html#466",
+"es": "Corrige la distorsión de cada superficie y renderiza el video"
+},
+{
+"key": "part07.html#467",
+"es": "Afina con una calibración in situ tras la instalación"
+},
+{
+"key": "part07.html#468",
+"es": "<small>Factores de planificación</small>Superficie · luz ambiente · distancia · solape"
+},
+{
+"key": "part07.html#469",
+"es": "Las superficies oscuras y rugosas pierden mucho brillo"
+},
+{
+"key": "part07.html#470",
+"es": "Exige noche u oscurecimiento total"
+},
+{
+"key": "part07.html#471",
+"es": "Calcula la distancia de proyección y el brillo (lúmenes ANSI)"
+},
+{
+"key": "part07.html#472",
+"es": "Con varios proyectores, deja zonas de solape"
+},
+{
+"key": "part07.html#473",
+"es": "<b>Término</b>"
+},
+{
+"key": "part07.html#474",
+"es": "Lúmenes ANSI: la unidad de brillo de un proyector. La cantidad necesaria crece con el área de proyección y la luz ambiente."
+},
+{
+"key": "part07.html#475",
+"es": "Factor"
+},
+{
+"key": "part07.html#476",
+"es": "Criterio"
+},
+{
+"key": "part07.html#477",
+"es": "Cifras típicas"
+},
+{
+"key": "part07.html#478",
+"es": "Brillo"
+},
+{
+"key": "part07.html#479",
+"es": "Aumenta con el área y la luz ambiente"
+},
+{
+"key": "part07.html#480",
+"es": "20 000 ANSI o más en edificios al aire libre"
+},
+{
+"key": "part07.html#481",
+"es": "Distancia de proyección"
+},
+{
+"key": "part07.html#482",
+"es": "La fija la relación de tiro del objetivo"
+},
+{
+"key": "part07.html#483",
+"es": "Un objetivo de tiro corto ahorra espacio"
+},
+{
+"key": "part07.html#484",
+"es": "Resolución"
+},
+{
+"key": "part07.html#485",
+"es": "Según la distancia de visión más corta"
+},
+{
+"key": "part07.html#486",
+"es": "4K o más para ver de cerca"
+},
+{
+"key": "part07.html#487",
+"es": "Formato del contenido"
+},
+{
+"key": "part07.html#488",
+"es": "Plantilla desplegada del objeto"
+},
+{
+"key": "part07.html#489",
+"es": "Nada que ver con el 16:9 estándar"
+},
+{
+"key": "part07.html#490",
+"es": "Montaje"
+},
+{
+"key": "part07.html#491",
+"es": "Resistir vibraciones y cambios térmicos"
+},
+{
+"key": "part07.html#492",
+"es": "Exige plan de anclaje y de refrigeración"
+},
+{
+"key": "part07.html#493",
+"es": "<small>Ejercicio</small>6.8"
+},
+{
+"key": "part07.html#494",
+"es": "Tarea"
+},
+{
+"key": "part07.html#495",
+"es": "Proyecta un videomapping sencillo sobre una caja o una pared."
+},
+{
+"key": "part07.html#496",
+"es": "Consejo"
+},
+{
+"key": "part07.html#497",
+"es": "Divide primero las superficies con máscaras y luego dale a cada una su propio movimiento."
+},
+{
+"key": "part07.html#498",
+"es": "Evaluación"
+},
+{
+"key": "part07.html#499",
+"es": "Ajuste a las superficies, sensación de profundidad"
+},
+{
+"key": "part07.html#500",
+"es": "Respuesta modelo"
+},
+{
+"key": "part07.html#501",
+"es": "Usa la estructura del edificio para crear la ilusión de que se derrumba o se abre."
+},
+{
+"key": "part07.html#502",
+"es": "<b>PARTE 07</b>Especificaciones de medios y contenido inmersivo"
+},
+{
+"key": "part07.html#503",
+"es": "Publicidad exterior e ilusión anamórfica"
+},
+{
+"key": "part07.html#504",
+"es": "El punto de vista es la condición de diseño. Fija la cámara virtual donde se sitúa la mayoría de los espectadores y crea una escena que la gente grabe y comparta desde ese lugar."
+},
+{
+"key": "part07.html#505",
+"es": "Una imagen dividida y deformada en dos caras se funde en una sola desde un único punto"
+},
+{
+"key": "part07.html#506",
+"es": "<b>Desde el punto de vista de referencia — la caja sobresale</b><span>Las imágenes de las dos caras se funden en una desde un punto</span>"
+},
+{
+"key": "part07.html#507",
+"es": "<b>Desde un lado — dos imágenes deformadas</b><span>Sal del punto de vista de referencia y la ilusión se rompe</span>"
+},
+{
+"key": "part07.html#508",
+"es": "Las imágenes dibujadas <b>deliberadamente deformadas</b> en dos caras se funden en una solo desde un único punto. Por eso la primera pregunta de diseño es «¿dónde se sitúa el espectador?». Ese lugar es el punto de foto (donde empieza la difusión en línea). Mide primero el ancho de la acera · los pasos de peatones · la acera de enfrente."
+},
+{
+"key": "part07.html#509",
+"es": "<b>Fig. 68</b> Cómo funciona la ilusión anamórfica — una caja desde el punto de vista de referencia, dos imágenes deformadas desde un lado."
+},
+{
+"key": "part07.html#510",
+"es": "<b>Fotos de referencia 6.9A</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part07.html#511",
+"es": "<b>a</b>LED anamórfico en esquina"
+},
+{
+"key": "part07.html#512",
+"es": "<b>b</b>Producción virtual con pared LED"
+},
+{
+"key": "part07.html#513",
+"es": "<b>c</b>Escaparate con LED transparente"
+},
+{
+"key": "part07.html#514",
+"es": "<small>Principio anamórfico</small>Profundidad desde un solo punto de vista"
+},
+{
+"key": "part07.html#515",
+"es": "Video deformado en una pantalla LED en ángulo"
+},
+{
+"key": "part07.html#516",
+"es": "El punto de vista es la condición de diseño"
+}
+]

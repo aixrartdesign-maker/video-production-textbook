@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#934",
+"es": "Mantén el PDV coherente dentro de una película"
+},
+{
+"key": "part02.html#935",
+"es": "Si un PDV subjetivo irrumpe de pronto en uno objetivo, el público lo lee como algo con sentido. Sin sentido es un error; con sentido, un recurso poderoso. Debes poder explicar cuál de los dos es."
+},
+{
+"key": "part02.html#936",
+"es": "<small>Ejercicio</small>1.15"
+},
+{
+"key": "part02.html#937",
+"es": "Tarea"
+},
+{
+"key": "part02.html#938",
+"es": "Rueda el mismo hecho en PDV en 1.ª persona, de observador y omnisciente."
+},
+{
+"key": "part02.html#939",
+"es": "Consejo"
+},
+{
+"key": "part02.html#940",
+"es": "El PDV lo fijan la posición de la cámara y la cantidad de información."
+},
+{
+"key": "part02.html#941",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#942",
+"es": "Diseño deliberado de lo que sabe el público"
+},
+{
+"key": "part02.html#943",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#944",
+"es": "La explicación del suspense de Hitchcock (la bomba bajo la mesa). Que el público sepa más que los personajes crea tensión."
+},
+{
+"key": "part02.html#945",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#946",
+"es": "El recorte"
+},
+{
+"key": "part02.html#947",
+"es": "Esta sección trata del significado que se crea fuera del encuadre. En video, lo que no se ve no está ausente: ha sido recortado. Lo que dejas fuera del encuadre importa tanto como lo que mantienes dentro."
+},
+{
+"key": "part02.html#948",
+"es": "Punto de recorte"
+},
+{
+"key": "part02.html#949",
+"es": "Impresión en pantalla"
+},
+{
+"key": "part02.html#950",
+"es": "Por qué usarlo"
+},
+{
+"key": "part02.html#951",
+"es": "Cuándo evitarlo"
+},
+{
+"key": "part02.html#952",
+"es": "Parte alta de la cabeza"
+},
+{
+"key": "part02.html#953",
+"es": "Intimidad, inmersión, emoción"
+},
+{
+"key": "part02.html#954",
+"es": "Estándar en primeros planos"
+},
+{
+"key": "part02.html#955",
+"es": "Para un aire de foto de identidad"
+},
+{
+"key": "part02.html#956",
+"es": "En una articulación"
+},
+{
+"key": "part02.html#957",
+"es": "Inestable, incómodo"
+},
+{
+"key": "part02.html#958",
+"es": "Incomodidad deliberada"
+},
+{
+"key": "part02.html#959",
+"es": "Evítalo casi siempre"
+},
+{
+"key": "part02.html#960",
+"es": "Entre articulaciones"
+},
+{
+"key": "part02.html#961",
+"es": "Estable"
+},
+{
+"key": "part02.html#962",
+"es": "Por defecto en planos de personas"
+},
+{
+"key": "part02.html#963",
+"es": "Manos y pies"
+},
+{
+"key": "part02.html#964",
+"es": "La acción desaparece"
+},
+{
+"key": "part02.html#965",
+"es": "Centrarse en la expresión"
+},
+{
+"key": "part02.html#966",
+"es": "Escenas de manejo del producto"
+},
+{
+"key": "part02.html#967",
+"es": "El interlocutor"
+},
+{
+"key": "part02.html#968",
+"es": "Aislamiento, unilateralidad"
+},
+{
+"key": "part02.html#969",
+"es": "Ruptura psicológica"
+},
+{
+"key": "part02.html#970",
+"es": "Mostrar una relación"
+},
+{
+"key": "part02.html#971",
+"es": "Núcleo del hecho"
+},
+{
+"key": "part02.html#972",
+"es": "Imaginación, tensión"
+},
+{
+"key": "part02.html#973",
+"es": "Violencia · presupuesto · censura"
+},
+{
+"key": "part02.html#974",
+"es": "Anuncios que deben demostrar algo"
+},
+{
+"key": "part02.html#975",
+"es": "Borde del espacio"
+},
+{
+"key": "part02.html#976",
+"es": "Expansión, continuidad"
+},
+{
+"key": "part02.html#977",
+"es": "Sugiere escala"
+},
+{
+"key": "part02.html#978",
+"es": "Cuando el espacio es el mensaje"
+},
+{
+"key": "part02.html#979",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part02.html#980",
+"es": "No cortes a las personas por las articulaciones. Cortar por la muñeca, el codo, la rodilla o el tobillo da la sensación de que la parte cortada se ha quedado fuera del encuadre."
+},
+{
+"key": "part02.html#981",
+"es": "El sonido fuera de campo construye un mundo más allá del encuadre. La voz de un personaje que no se ve le da una presencia mayor."
+},
+{
+"key": "part02.html#982",
+"es": "Recortar parte del producto en un anuncio de producto es arriesgado. Si el consumidor no distingue su forma, no lo compra."
+},
+{
+"key": "part02.html#983",
+"es": "Si piensas reutilizar el material en vertical, rueda dando por hecho que se cortarán los lados. Mantén lo importante en el eje vertical central."
+},
+{
+"key": "part02.html#984",
+"es": "<small>Ejercicio</small>1.16"
+},
+{
+"key": "part02.html#985",
+"es": "Tarea"
+},
+{
+"key": "part02.html#986",
+"es": "Haz una escena de 20 segundos que transmita un hecho solo con sonido fuera de campo o con miradas."
+},
+{
+"key": "part02.html#987",
+"es": "Consejo"
+},
+{
+"key": "part02.html#988",
+"es": "Decide primero lo que no vas a mostrar."
+},
+{
+"key": "part02.html#989",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#990",
+"es": "Revelación medida que despierta la imaginación"
+},
+{
+"key": "part02.html#991",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#992",
+"es": "El tiburón que no se ve en Tiburón. El sonido fuera de campo basta para crear el miedo."
+},
+{
+"key": "part02.html#993",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#994",
+"es": "Ángulos sobre el rostro"
+},
+{
+"key": "part02.html#995",
+"es": "Un rostro visto desde arriba y otro visto desde abajo pertenecen a personas distintas. En un primer plano, hasta un leve cambio en la altura de la cámara altera las proporciones del rostro, y esas proporciones se leen como carácter. El público capta la forma de un rostro antes que su expresión."
+},
+{
+"key": "part02.html#996",
+"es": "<b>Plano holandés sobre el rostro</b>El horizonte se inclina — inquietud · embriaguez · locura. Una señal de thriller"
+},
+{
+"key": "part02.html#997",
+"es": "<b>Fotos de referencia 1.17A</b>Imagen generada — referencia de dirección"
+},
+{
+"key": "part02.html#998",
+"es": "<b>Contrapicado sobre el rostro</b>Mentón y fosas nasales, autoridad — la frente y la coronilla se reducen y el rostro parece imponente. Primera aparición de un villano, discursos"
+},
+{
+"key": "part02.html#999",
+"es": "<b>Rostro a la altura de los ojos</b>Diálogo y empatía — las proporciones se conservan e igualan a público y personaje. Lo habitual en entrevistas"
+},
+{
+"key": "part02.html#1000",
+"es": "<b>Picado sobre el rostro</b>Frente mayor, mentón menor — un personaje joven y débil que necesita protección. El ángulo del selfi"
+},
+{
+"key": "part02.html#1001",
+"es": "La altura de la cámara cambia las proporciones y la impresión de un rostro"
+},
+{
+"key": "part02.html#1002",
+"es": "<b>Picado</b><span>La frente crece, el mentón se reduce — débil, necesitado de protección</span>"
+},
+{
+"key": "part02.html#1003",
+"es": "<b>A la altura de los ojos</b><span>Proporciones reales — neutro, lo habitual en entrevistas</span>"
+},
+{
+"key": "part02.html#1004",
+"es": "<b>Contrapicado</b><span>Se ven mentón y fosas nasales — autoridad, amenaza</span>"
+},
+{
+"key": "part02.html#1005",
+"es": "<b>Fig. 25</b> La altura de la cámara basta para cambiar el carácter de una misma persona. Las entrevistas usan por defecto la altura de los ojos."
+},
+{
+"key": "part02.html#1006",
+"es": "Reglas en el set"
+},
+{
+"key": "part02.html#1007",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part02.html#1008",
+"es": "El ángulo de un rostro se lee antes que su expresión. Antes de cambiar la interpretación, prueba a cambiar la altura de la cámara."
+},
+{
+"key": "part02.html#1009",
+"es": "Mide la altura de la cámara respecto a los ojos del sujeto. Un objetivo apenas un palmo por debajo de los ojos ya es un contrapicado."
+},
+{
+"key": "part02.html#1010",
+"es": "Cuanto más angular es el objetivo, más fuerte es el efecto del ángulo. Un contrapicado con 24 mm se vuelve exageración; con 85 mm, autoridad contenida."
+},
+{
+"key": "part02.html#1011",
+"es": "Cambiar el ángulo de un personaje dentro de una escena marca un cambio de poder. Empieza, por ejemplo, con un picado y pasa a un contrapicado cuando haya tomado su decisión."
+},
+{
+"key": "part02.html#1012",
+"es": "<small>Ejercicio</small>1.17"
+},
+{
+"key": "part02.html#1013",
+"es": "Tarea"
+},
+{
+"key": "part02.html#1014",
+"es": "Rueda primeros planos de la misma persona a la altura de los ojos ±30 cm y compara cómo cambia la impresión."
+},
+{
+"key": "part02.html#1015",
+"es": "Consejo"
+},
+{
+"key": "part02.html#1016",
+"es": "Repite con objetivos de 24 mm y 85 mm para ver cuánto varía el efecto del ángulo."
+},
+{
+"key": "part02.html#1017",
+"es": "Evaluación"
+},
+{
+"key": "part02.html#1018",
+"es": "Alturas de cámara anotadas, cambios de proporción observados"
+},
+{
+"key": "part02.html#1019",
+"es": "Respuesta modelo"
+},
+{
+"key": "part02.html#1020",
+"es": "Cambia gradualmente el ángulo del rostro dentro de una escena para seguir el cambio psicológico del personaje."
+},
+{
+"key": "part02.html#1021",
+"es": "<b>PARTE 02</b>El lenguaje del video"
+},
+{
+"key": "part02.html#1022",
+"es": "Dirección de la mirada: encuentro y seguimiento"
+},
+{
+"key": "part02.html#1023",
+"es": "El público mira hacia donde mira la persona en pantalla. La mirada es la línea direccional más fuerte de una composición y, en la edición, el hilo que une un plano con el siguiente."
+},
+{
+"key": "part02.html#1024",
+"es": "<b>Diferencia de altura de los ojos</b>Mirar hacia abajo y mirar hacia arriba — la altura de la mirada expresa la relación de poder"
+},
+{
+"key": "part02.html#1025",
+"es": "<b>Fotos de referencia 1.18A</b>Imagen generada — referencia de dirección"
+},
+{
+"key": "part02.html#1026",
+"es": "<b>Miradas que se encuentran</b>El eje de una relación — si A mira a la derecha, B debe mirar a la izquierda para que parezca que se miran"
+},
+{
+"key": "part02.html#1027",
+"es": "<b>Seguir la mirada hasta un objeto</b>Raccord de mirada — cuando un personaje mira fuera de campo, el público espera ver el objeto en el plano siguiente"
+},
+{
+"key": "part02.html#1028",
+"es": "<b>El brillo y la nitidez guían la mirada</b>Brillo, nitidez, movimiento y rostros, por ese orden — colócalos donde mira el personaje"
+},
+{
+"key": "part02.html#1029",
+"es": "La mirada es el hilo más fuerte entre planos"
+},
+{
+"key": "part02.html#1030",
+"es": "Encuentro — dos miradas coinciden en una línea"
+},
+{
+"key": "part02.html#1031",
+"es": "<b>A — mira a la derecha</b>"
+},
+{
+"key": "part02.html#1032",
+"es": "<b>B — mira a la izquierda</b>"
+},
+{
+"key": "part02.html#1033",
+"es": "Seguimiento — la mirada convoca el plano siguiente"
+},
+{
+"key": "part02.html#1034",
+"es": "<b><i>①</i>Mirada</b><span>La mirada sale del encuadre</span>"
+},
+{
+"key": "part02.html#1035",
+"es": "<b><i>②</i>Lo que se ve</b><span>El público también lo ve</span>"
+},
+{
+"key": "part02.html#1036",
+"es": "<b><i>③</i>Reacción</b><span>El sentido se completa</span>"
+},
+{
+"key": "part02.html#1037",
+"es": "<b>Fig. 26</b> Dos usos de la mirada — el raccord de mirada del encuentro y el enlace de miradas del seguimiento (el efecto Kuleshov). Quien mira · lo que se ve · reacción es el conjunto más usado de la gramática del cine."
+},
+{
+"key": "part02.html#1038",
+"es": "Cinco tipos de mirada"
+},
+{
+"key": "part02.html#1039",
+"es": "<b>Fotos de referencia 1.18B</b>Imagen generada — cinco tipos de mirada"
+},
+{
+"key": "part02.html#1040",
+"es": "<span class=\"ph-id\">P02-GAZE-MUTUAL</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Encuentro — dos miradas coinciden</b>Dos personas de perfil, contraluz de ventana, simetría izquierda-derecha</span>"
+},
+{
+"key": "part02.html#1041",
+"es": "<b>Encuentro</b>El público lee la tensión entre dos personas — cerca es intimidad, lejos es conflicto. Confesiones, negociaciones, enfrentamientos"
+},
+{
+"key": "part02.html#1042",
+"es": "<span class=\"ph-id\">P02-GAZE-CAMERA</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Mirar a cámara — dirigirse al público</b>Un rostro sereno que mira directo al objetivo, pared gris</span>"
+},
+{
+"key": "part02.html#1043",
+"es": "<b>Mirada a cámara</b>La cuarta pared se rompe y el público se siente interpelado. CTA publicitarios, entrevistas, saludos de vlog, presentadores de noticias"
+},
+{
+"key": "part02.html#1044",
+"es": "<span class=\"ph-id\">P02-GAZE-AWAY</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Mirar fuera de campo — aire de mirada</b>Un hombre que mira lejos hacia la izquierda, espacio amplio en el lado al que mira</span>"
+},
+{
+"key": "part02.html#1045",
+"es": "<b>Mirada fuera de campo</b>El público se pregunta «¿Qué estará mirando?» — deja aire de mirada en el lado de la mirada y que responda el plano siguiente. Esperas, recuerdos, el instante previo a un descubrimiento"
+},
+{
+"key": "part02.html#1046",
+"es": "<span class=\"ph-id\">P02-GAZE-BACK</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Seguimiento — una figura de espaldas guía la mirada</b>Una figura vista de espaldas ante una ventana, la ciudad al anochecer</span>"
+},
+{
+"key": "part02.html#1047",
+"es": "<b>De espaldas</b>El público se convierte en los ojos del personaje — el rostro queda oculto, pero compartimos el mundo que ve. Planos de espaldas en videos de viajes, partidas, momentos de decisión"
+},
+{
+"key": "part02.html#1048",
+"es": "<span class=\"ph-id\">P02-GAZE-SHARED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Mirar lo mismo — mirada compartida</b>Dos colegas que miran la pantalla de una misma computadora portátil</span>"
+},
+{
+"key": "part02.html#1049",
+"es": "<b>Mirada compartida</b>El público ve a los dos como aliados y se pregunta en qué convergen sus miradas. Trabajo en equipo, explicaciones, demostraciones de producto, familias que miran algo juntas"
+},
+{
+"key": "part02.html#1050",
+"es": "Tipo de mirada"
+},
+{
+"key": "part02.html#1051",
+"es": "Regla del aire de mirada"
+},
+{
+"key": "part02.html#1052",
+"es": "Plano siguiente esperado"
+},
+{
+"key": "part02.html#1053",
+"es": "Encuentro"
+},
+{
+"key": "part02.html#1054",
+"es": "Espacio hacia la otra persona; direcciones opuestas en los dos planos"
+},
+{
+"key": "part02.html#1055",
+"es": "El rostro del otro (contraplano)"
+},
+{
+"key": "part02.html#1056",
+"es": "Mirada a cámara"
+},
+{
+"key": "part02.html#1057",
+"es": "Lados iguales, ojos en el tercio superior"
+},
+{
+"key": "part02.html#1058",
+"es": "La expectativa se cierra — rótulo, producto, escena siguiente"
+},
+{
+"key": "part02.html#1059",
+"es": "Mirada fuera de campo"
+},
+{
+"key": "part02.html#1060",
+"es": "Espacio amplio en el lado de la mirada"
+},
+{
+"key": "part02.html#1061",
+"es": "El objeto de la mirada (raccord de mirada)"
+},
+{
+"key": "part02.html#1062",
+"es": "De espaldas"
+},
+{
+"key": "part02.html#1063",
+"es": "Deja espacio abierto hacia donde mira"
+},
+{
+"key": "part02.html#1064",
+"es": "La vista que contempla, o el rostro al volverse"
+},
+{
+"key": "part02.html#1065",
+"es": "Mirada compartida"
+},
+{
+"key": "part02.html#1066",
+"es": "Espacio donde convergen las dos miradas"
+},
+{
+"key": "part02.html#1067",
+"es": "Lo que miran los dos"
+},
+{
+"key": "part02.html#1068",
+"es": "<b>Conexión</b>"
+},
+{
+"key": "part02.html#1069",
+"es": "El raccord de mirada es la promesa de que el plano siguiente muestra hacia dónde apunta la mirada. La regla de los 180° de 1.8 es la que mantiene esa dirección, y las tres comprobaciones de 1.8 valen tal cual para estas cinco miradas."
+},
+{
+"key": "part02.html#1070",
+"es": "Encuentro: pon las dos miradas en una línea"
+},
+{
+"key": "part02.html#1071",
+"es": "Si A mira a la derecha de pantalla, B mira a la izquierda. El eje de la regla de los 180° es la línea que une las dos miradas"
+},
+{
+"key": "part02.html#1072",
+"es": "Iguala la altura de los ojos y el ángulo de la mirada en los dos planos. Si solo uno está cerca del objetivo, parece un monólogo"
+},
+{
+"key": "part02.html#1073",
+"es": "Un plano de dos frente a frente significa conflicto o intimidad; un plano de dos que miran hacia el mismo lado, compañía y empatía"
+},
+{
+"key": "part02.html#1074",
+"es": "Seguimiento: la mirada convoca el plano siguiente"
+},
+{
+"key": "part02.html#1075",
+"es": "Mirada, lo que se ve, reacción: tres planos, el enlace de miradas más básico"
+},
+{
+"key": "part02.html#1076",
+"es": "El efecto Kuleshov: el mismo rostro inexpresivo cambia de sentido según el plano siguiente. La edición, más que la actuación, da sentido a un plano de reacción"
+},
+{
+"key": "part02.html#1077",
+"es": "Pon brillo · nitidez · movimiento · rostros hacia donde apunta la mirada y los ojos del público la seguirán"
+},
+{
+"key": "part02.html#1078",
+"es": "Deja espacio en el lado hacia el que apunta la mirada y pon el plano siguiente donde esta cae.<small>1.18 Dirección de la mirada</small>"
+},
+{
+"key": "part02.html#1079",
+"es": "<small>Ejercicio</small>1.18"
+},
+{
+"key": "part02.html#1080",
+"es": "Tarea"
+},
+{
+"key": "part02.html#1081",
+"es": "Rueda una conversación cara a cara entre dos personas que mantenga el raccord de mirada y luego une 3 planos de seguimiento en los que la mirada convoque el plano siguiente."
+},
+{
+"key": "part02.html#1082",
+"es": "Consejo"
+},
+{
+"key": "part02.html#1083",
+"es": "Si el otro actor no está, pega una marca de mirada junto a la cámara."
+}
+]

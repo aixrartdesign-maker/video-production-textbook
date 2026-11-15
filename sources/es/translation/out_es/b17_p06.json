@@ -1,0 +1,374 @@
+[
+{
+"key": "templates.html#402",
+"es": "0° frente"
+},
+{
+"key": "templates.html#403",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#404",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#405",
+"es": "Acción"
+},
+{
+"key": "templates.html#406",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#407",
+"es": "M · SE"
+},
+{
+"key": "templates.html#408",
+"es": "CUT 06"
+},
+{
+"key": "templates.html#409",
+"es": "0° frente"
+},
+{
+"key": "templates.html#410",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#411",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#412",
+"es": "Acción"
+},
+{
+"key": "templates.html#413",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#414",
+"es": "M · SE"
+},
+{
+"key": "templates.html#415",
+"es": "CUT 07"
+},
+{
+"key": "templates.html#416",
+"es": "0° frente"
+},
+{
+"key": "templates.html#417",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#418",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#419",
+"es": "Acción"
+},
+{
+"key": "templates.html#420",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#421",
+"es": "M · SE"
+},
+{
+"key": "templates.html#422",
+"es": "CUT 08"
+},
+{
+"key": "templates.html#423",
+"es": "0° frente"
+},
+{
+"key": "templates.html#424",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#425",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#426",
+"es": "Acción"
+},
+{
+"key": "templates.html#427",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#428",
+"es": "M · SE"
+},
+{
+"key": "templates.html#429",
+"es": "Recuadro vino = 90° frontales (una vista del visor). Mantén los hechos dentro de ±30°; cubre lo de atrás con sonido. Dibuja al lado el mapa del punto de vista."
+},
+{
+"key": "templates.html#430",
+"es": "Plantilla de storyboard · LED curvo·envolvente"
+},
+{
+"key": "templates.html#431",
+"es": "Desarrollo cilíndrico — sala de exposición inmersiva · longitud de arco : altura (p. ej. 9400×2000)"
+},
+{
+"key": "templates.html#432",
+"es": "Proyecto ____________  Escena ____  Pág. ___/___"
+},
+{
+"key": "templates.html#433",
+"es": "Dirección ________  Fecha ________  Versión v___"
+},
+{
+"key": "templates.html#434",
+"es": "CUT 01"
+},
+{
+"key": "templates.html#435",
+"es": "Banda de mirada"
+},
+{
+"key": "templates.html#436",
+"es": "Ext. izq."
+},
+{
+"key": "templates.html#437",
+"es": "Frente"
+},
+{
+"key": "templates.html#438",
+"es": "Ext. der."
+},
+{
+"key": "templates.html#439",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#440",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#441",
+"es": "Acción"
+},
+{
+"key": "templates.html#442",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#443",
+"es": "M · SE"
+},
+{
+"key": "templates.html#444",
+"es": "CUT 02"
+},
+{
+"key": "templates.html#445",
+"es": "Banda de mirada"
+},
+{
+"key": "templates.html#446",
+"es": "Ext. izq."
+},
+{
+"key": "templates.html#447",
+"es": "Frente"
+},
+{
+"key": "templates.html#448",
+"es": "Ext. der."
+},
+{
+"key": "templates.html#449",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#450",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#451",
+"es": "Acción"
+},
+{
+"key": "templates.html#452",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#453",
+"es": "M · SE"
+},
+{
+"key": "templates.html#454",
+"es": "CUT 03"
+},
+{
+"key": "templates.html#455",
+"es": "Banda de mirada"
+},
+{
+"key": "templates.html#456",
+"es": "Ext. izq."
+},
+{
+"key": "templates.html#457",
+"es": "Frente"
+},
+{
+"key": "templates.html#458",
+"es": "Ext. der."
+},
+{
+"key": "templates.html#459",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#460",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#461",
+"es": "Acción"
+},
+{
+"key": "templates.html#462",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#463",
+"es": "M · SE"
+},
+{
+"key": "templates.html#464",
+"es": "CUT 04"
+},
+{
+"key": "templates.html#465",
+"es": "Banda de mirada"
+},
+{
+"key": "templates.html#466",
+"es": "Ext. izq."
+},
+{
+"key": "templates.html#467",
+"es": "Frente"
+},
+{
+"key": "templates.html#468",
+"es": "Ext. der."
+},
+{
+"key": "templates.html#469",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#470",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#471",
+"es": "Acción"
+},
+{
+"key": "templates.html#472",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#473",
+"es": "M · SE"
+},
+{
+"key": "templates.html#474",
+"es": "CUT 05"
+},
+{
+"key": "templates.html#475",
+"es": "Banda de mirada"
+},
+{
+"key": "templates.html#476",
+"es": "Ext. izq."
+},
+{
+"key": "templates.html#477",
+"es": "Frente"
+},
+{
+"key": "templates.html#478",
+"es": "Ext. der."
+},
+{
+"key": "templates.html#479",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#480",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#481",
+"es": "Acción"
+},
+{
+"key": "templates.html#482",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#483",
+"es": "M · SE"
+},
+{
+"key": "templates.html#484",
+"es": "CUT 06"
+},
+{
+"key": "templates.html#485",
+"es": "Banda de mirada"
+},
+{
+"key": "templates.html#486",
+"es": "Ext. izq."
+},
+{
+"key": "templates.html#487",
+"es": "Frente"
+},
+{
+"key": "templates.html#488",
+"es": "Ext. der."
+},
+{
+"key": "templates.html#489",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#490",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#491",
+"es": "Acción"
+},
+{
+"key": "templates.html#492",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#493",
+"es": "M · SE"
+},
+{
+"key": "templates.html#494",
+"es": "Líneas de puntos = juntas de módulos (sin texto). Texto·rostros solo en la banda de mirada (1,4–1,8 m sobre el suelo)."
+}
+]

@@ -1,0 +1,326 @@
+[
+{
+"key": "part03.html#583",
+"es": "Aprox. 1800 K"
+},
+{
+"key": "part03.html#584",
+"es": "Muy cálida, naranja"
+},
+{
+"key": "part03.html#585",
+"es": "Incandescente"
+},
+{
+"key": "part03.html#586",
+"es": "Aprox. 2800–3200 K"
+},
+{
+"key": "part03.html#587",
+"es": "Cálida, ambiente de interior"
+},
+{
+"key": "part03.html#588",
+"es": "Luz de tungsteno"
+},
+{
+"key": "part03.html#589",
+"es": "Luz estándar de interior"
+},
+{
+"key": "part03.html#590",
+"es": "Fluorescente"
+},
+{
+"key": "part03.html#591",
+"es": "Aprox. 4000–5000 K"
+},
+{
+"key": "part03.html#592",
+"es": "Cuidado con la dominante verde"
+},
+{
+"key": "part03.html#593",
+"es": "Luz día"
+},
+{
+"key": "part03.html#594",
+"es": "Estándar de exterior"
+},
+{
+"key": "part03.html#595",
+"es": "Nublado"
+},
+{
+"key": "part03.html#596",
+"es": "Aprox. 6500 K"
+},
+{
+"key": "part03.html#597",
+"es": "Matiz azulado"
+},
+{
+"key": "part03.html#598",
+"es": "Sombra, cielo azul"
+},
+{
+"key": "part03.html#599",
+"es": "7500 K o más"
+},
+{
+"key": "part03.html#600",
+"es": "Fría, sensación de amanecer"
+},
+{
+"key": "part03.html#601",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part03.html#602",
+"es": "Desactiva el balance de blancos automático e introduce tú mismo el valor en kelvin."
+},
+{
+"key": "part03.html#603",
+"es": "Reglas en el set"
+},
+{
+"key": "part03.html#604",
+"es": "El balance de blancos automático cambia el color de un plano a otro, y los planos no empalman. Fíjalo siempre a mano."
+},
+{
+"key": "part03.html#605",
+"es": "En locaciones con luz mixta, pon gelatinas en las ventanas o cambia las luces interiores para que todas las fuentes tengan un solo color."
+},
+{
+"key": "part03.html#606",
+"es": "Hacer un balance de blancos personalizado con una carta gris o blanca facilita la corrección de color en posproducción."
+},
+{
+"key": "part03.html#607",
+"es": "Decide los cambios de color deliberados en el set, no en posproducción. Incluso en Log, fija una referencia antes de rodar."
+},
+{
+"key": "part03.html#608",
+"es": "<b>Fotos de referencia 3.9B</b>Imágenes generadas — referencia de dirección"
+},
+{
+"key": "part03.html#609",
+"es": "<b>a</b>Luz mixta — luz día de ventana y tungsteno interior"
+},
+{
+"key": "part03.html#610",
+"es": "<b>b</b>Fijar una referencia con una carta gris"
+},
+{
+"key": "part03.html#611",
+"es": "<b>c</b>Cambio de color deliberado — el azul del amanecer"
+},
+{
+"key": "part03.html#612",
+"es": "Espacio de color"
+},
+{
+"key": "part03.html#613",
+"es": "Espacio de color"
+},
+{
+"key": "part03.html#614",
+"es": "Gama"
+},
+{
+"key": "part03.html#615",
+"es": "Uso principal"
+},
+{
+"key": "part03.html#616",
+"es": "Nota"
+},
+{
+"key": "part03.html#617",
+"es": "Rec.709"
+},
+{
+"key": "part03.html#618",
+"es": "Estrecha"
+},
+{
+"key": "part03.html#619",
+"es": "Televisión, estándar web"
+},
+{
+"key": "part03.html#620",
+"es": "Base de casi todas las entregas finales"
+},
+{
+"key": "part03.html#621",
+"es": "sRGB"
+},
+{
+"key": "part03.html#622",
+"es": "Similar a Rec.709"
+},
+{
+"key": "part03.html#623",
+"es": "Gráficos web"
+},
+{
+"key": "part03.html#624",
+"es": "Revisar al mezclar video y gráficos"
+},
+{
+"key": "part03.html#625",
+"es": "DCI-P3"
+},
+{
+"key": "part03.html#626",
+"es": "Media"
+},
+{
+"key": "part03.html#627",
+"es": "Cine, teléfonos recientes"
+},
+{
+"key": "part03.html#628",
+"es": "Requiere una versión SDR aparte"
+},
+{
+"key": "part03.html#629",
+"es": "Rec.2020"
+},
+{
+"key": "part03.html#630",
+"es": "Muy amplia"
+},
+{
+"key": "part03.html#631",
+"es": "8K, HDR"
+},
+{
+"key": "part03.html#632",
+"es": "Compatibilidad de reproducción limitada"
+},
+{
+"key": "part03.html#633",
+"es": "<b>G-09</b> Balance de blancos — una escena, cuatro ajustes de temperatura de color"
+},
+{
+"key": "part03.html#634",
+"es": "<small>Ejercicio</small>3.9"
+},
+{
+"key": "part03.html#635",
+"es": "Tarea"
+},
+{
+"key": "part03.html#636",
+"es": "Con luz incandescente, fluorescente y de ventana, haz el balance de blancos con una hoja de papel blanco y registra el proceso."
+},
+{
+"key": "part03.html#637",
+"es": "Consejo"
+},
+{
+"key": "part03.html#638",
+"es": "Desactiva el balance de blancos automático e introduce tú mismo el valor en kelvin."
+},
+{
+"key": "part03.html#639",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#640",
+"es": "Acierto en los valores kelvin; manejo de la luz mixta"
+},
+{
+"key": "part03.html#641",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#642",
+"es": "Añade un plano que desvíe a propósito la temperatura de color para crear emoción (frío, calidez)."
+},
+{
+"key": "part03.html#643",
+"es": "<b>PARTE 03</b>Cámaras y técnica de rodaje"
+},
+{
+"key": "part03.html#644",
+"es": "Códecs · profundidad de bits · Log"
+},
+{
+"key": "part03.html#645",
+"es": "Elige un códec distinto para cada etapa; rueda en 10 bits si vas a hacer etalonaje (color grading) y en 4:2:2 o superior si vas a componer. El Log compra latitud en posproducción y la paga en margen de exposición."
+},
+{
+"key": "part03.html#646",
+"es": "Códec"
+},
+{
+"key": "part03.html#647",
+"es": "Carácter"
+},
+{
+"key": "part03.html#648",
+"es": "Tamaño de archivo"
+},
+{
+"key": "part03.html#649",
+"es": "Etapa ideal"
+},
+{
+"key": "part03.html#650",
+"es": "Observaciones"
+},
+{
+"key": "part03.html#651",
+"es": "Comprimido para entrega"
+},
+{
+"key": "part03.html#652",
+"es": "Muy pequeño"
+},
+{
+"key": "part03.html#653",
+"es": "Entrega final, subida a la web"
+},
+{
+"key": "part03.html#654",
+"es": "Malo como material de edición"
+},
+{
+"key": "part03.html#655",
+"es": "H.265 (HEVC)"
+},
+{
+"key": "part03.html#656",
+"es": "Compresión eficiente"
+},
+{
+"key": "part03.html#657",
+"es": "Pequeño"
+},
+{
+"key": "part03.html#658",
+"es": "Originales de cámara en 4K"
+},
+{
+"key": "part03.html#659",
+"es": "Edita con proxies"
+},
+{
+"key": "part03.html#660",
+"es": "ProRes 422 HQ"
+},
+{
+"key": "part03.html#661",
+"es": "Apto para edición"
+},
+{
+"key": "part03.html#662",
+"es": "Grande"
+},
+{
+"key": "part03.html#663",
+"es": "Estándar para edición y composición"
+}
+]

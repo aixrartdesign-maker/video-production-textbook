@@ -1,0 +1,9 @@
+[
+{"key": "part09.html#823", "find": "la completa con", "replace": "lo completa con", "why": "grammar: pronoun refers to el plan (masc.)"},
+{"key": "part09.html#879", "find": "Todo plano en el que se vea bien un rostro es más seguro rodarlo", "replace": "Es más seguro resolver con rodaje real todo plano en el que se vea bien un rostro", "why": "meaning: 'shot live' lost; broken construction"},
+{"key": "part09.html#945", "find": "Listas para usar", "replace": "Listos para usar", "why": "grammar: agreement with subtítulos + eliminación (masc. pl.)"},
+{"key": "part09.html#956", "find": "Cierre · PARTE 08–09", "replace": "Cierre de las PARTES 08–09", "why": "term: consistent with «Cierre de la PARTE NN»"},
+{"key": "part09.html#968", "find": "se lo haya topado", "replace": "se haya topado con él", "why": "grammar: toparse con"},
+{"key": "part11.html#8", "find": "imagen generativa", "replace": "imagen generada", "why": "meaning: 'generated image' (as in other parts)"},
+{"key": "part11.html#18", "find": "Cada obra indica tu función y los resultados", "replace": "¿Indica cada obra tu función y los resultados?", "why": "typography: question needs ¿?"}
+]

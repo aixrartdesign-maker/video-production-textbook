@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#637",
+"es": "Muy baja"
+},
+{
+"key": "part09.html#638",
+"es": "Conexión directa"
+},
+{
+"key": "part09.html#639",
+"es": "Material en bruto"
+},
+{
+"key": "part09.html#640",
+"es": "Video corto de detrás de cámaras"
+},
+{
+"key": "part09.html#641",
+"es": "Muy baja"
+},
+{
+"key": "part09.html#642",
+"es": "Cercanía"
+},
+{
+"key": "part09.html#643",
+"es": "Reutilizar no es pereza, sino estrategia.<small>8.10 Gestionar un canal y el calendario de contenidos</small>"
+},
+{
+"key": "part09.html#644",
+"es": "La IA generativa no dibuja: despeja el ruido"
+},
+{
+"key": "part09.html#645",
+"es": "<b>Modelos de difusión — «despejar» una imagen a partir del ruido</b><span>En el entrenamiento, el modelo aprende cómo se arruina una foto al añadirle ruido poco a poco; en la generación hace lo contrario: quita el ruido paso a paso partiendo de ruido puro. El prompt es la brújula que marca hacia dónde despejar</span>"
+},
+{
+"key": "part09.html#646",
+"es": "<b>① Prompt</b><span>El texto se convierte en un vector de números — «sol de la mañana, taza blanca»</span>"
+},
+{
+"key": "part09.html#647",
+"es": "<b>② Ruido</b><span>Se parte de una pantalla de puntos aleatorios</span>"
+},
+{
+"key": "part09.html#648",
+"es": "<b>③ 20–50 pasos de eliminación de ruido</b><span>Cada paso predice «qué borrar para acercar esta imagen al prompt»</span>"
+},
+{
+"key": "part09.html#649",
+"es": "<b>④ Resultado</b><span>Mismo prompt, distinto ruido inicial (semilla), distinta imagen</span>"
+},
+{
+"key": "part09.html#650",
+"es": "<b>Fig. 83-1</b> Cómo funciona la IA generativa — el modelo de difusión. Los modelos de generación de video extienden el mismo principio a lo largo del eje temporal. Por eso se les da mejor «este tipo de atmósfera» que «exactamente esta escena», y fallan en detalles como el número de dedos."
+},
+{
+"key": "part09.html#651",
+"es": "<small>Ejercicio</small>8.10"
+},
+{
+"key": "part09.html#652",
+"es": "Tarea"
+},
+{
+"key": "part09.html#653",
+"es": "Haz un calendario de contenidos de un mes y aplícalo de verdad durante 2 semanas."
+},
+{
+"key": "part09.html#654",
+"es": "Consejo"
+},
+{
+"key": "part09.html#655",
+"es": "Elige un ritmo que puedas mantener, como 2 publicaciones por semana."
+},
+{
+"key": "part09.html#656",
+"es": "Evaluación"
+},
+{
+"key": "part09.html#657",
+"es": "Ejecución frente al plan, retrospectiva"
+},
+{
+"key": "part09.html#658",
+"es": "Respuesta modelo"
+},
+{
+"key": "part09.html#659",
+"es": "Deja constancia de cómo revisó el calendario según las métricas durante la ejecución."
+},
+{
+"key": "part09.html#660",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#661",
+"es": "Redactar títulos y ganchos"
+},
+{
+"key": "part09.html#662",
+"es": "El mismo video puede lograr varias veces más visualizaciones según su título. El texto es una habilidad aparte, y todo creador de video debe aprenderla."
+},
+{
+"key": "part09.html#663",
+"es": "Los primeros 12 caracteres deciden el título — lo que muestra la pantalla de un teléfono"
+},
+{
+"key": "part09.html#664",
+"es": "¿10 kg en 3 días? "
+},
+{
+"key": "part09.html#665",
+"es": "Por qué los médicos dicen que no"
+},
+{
+"key": "part09.html#666",
+"es": "12 car."
+},
+{
+"key": "part09.html#667",
+"es": "<b style=\"color:#7A1C2B\">○ Cifra + pregunta — lo esencial en los primeros 12</b><span>¿10 kg en 3 días? Por qué los médicos dicen que no</span>"
+},
+{
+"key": "part09.html#668",
+"es": "El nuevo programa"
+},
+{
+"key": "part09.html#669",
+"es": "de salud de nuestra empresa…"
+},
+{
+"key": "part09.html#670",
+"es": "12 car."
+},
+{
+"key": "part09.html#671",
+"es": "<b style=\"color:#7A7A80\">✕ Solo el sujeto en los primeros 12 — lo esencial después</b><span>El nuevo programa de salud de nuestra empresa: video de presentación</span>"
+},
+{
+"key": "part09.html#672",
+"es": "Microondas en la residencia"
+},
+{
+"key": "part09.html#673",
+"es": ": no hagas esto"
+},
+{
+"key": "part09.html#674",
+"es": "12 car."
+},
+{
+"key": "part09.html#675",
+"es": "<b style=\"color:#7A1C2B\">○ Público + prohibición — se decide en la primera línea</b><span>Microondas en la residencia: no hagas esto</span>"
+},
+{
+"key": "part09.html#676",
+"es": "Presentación de la nueva "
+},
+{
+"key": "part09.html#677",
+"es": "línea de primavera 2024…"
+},
+{
+"key": "part09.html#678",
+"es": "12 car."
+},
+{
+"key": "part09.html#679",
+"es": "<b style=\"color:#7A7A80\">✕ Fecha · presentación · compartir — palabras sin información</b><span>Presentación de la nueva línea de primavera 2024 y reseñas de usuarios compartidas</span>"
+},
+{
+"key": "part09.html#680",
+"es": "<b>Cinco fórmulas de gancho — en títulos reales</b><span><b>Cifra</b> Etalonaje (color grading) listo en 30 segundos</span><span><b>Pregunta</b> Por qué mis videos no tienen visualizaciones</span><span><b>Prohibición</b> Objetivos que un principiante nunca debe comprar</span><span><b>Antes y después</b> La diferencia que marca una luz de 50 000 ₩</span><span><b>Secreto</b> El orden de planos que los productores publicitarios no te cuentan</span>"
+},
+{
+"key": "part09.html#681",
+"es": "<b>Fig. 85-1</b> Los primeros 12 caracteres deciden el título — el número de caracteres que muestra un feed móvil. La línea roja marca el límite de 12 caracteres; sin una palabra clave antes de ella, el resto no se lee. Elige solo una de las cinco fórmulas."
+},
+{
+"key": "part09.html#682",
+"es": "12 tipos de título"
+},
+{
+"key": "part09.html#683",
+"es": "Tipo"
+},
+{
+"key": "part09.html#684",
+"es": "Estructura"
+},
+{
+"key": "part09.html#685",
+"es": "Ejemplo"
+},
+{
+"key": "part09.html#686",
+"es": "Cifra"
+},
+{
+"key": "part09.html#687",
+"es": "N cosas + público"
+},
+{
+"key": "part09.html#688",
+"es": "5 cosas que todo principiante en video debe saber"
+},
+{
+"key": "part09.html#689",
+"es": "Resultado primero"
+},
+{
+"key": "part09.html#690",
+"es": "Resultado + método"
+},
+{
+"key": "part09.html#691",
+"es": "El montaje que logró 10× más visualizaciones"
+},
+{
+"key": "part09.html#692",
+"es": "A contracorriente"
+},
+{
+"key": "part09.html#693",
+"es": "Desafiar la creencia común"
+},
+{
+"key": "part09.html#694",
+"es": "Por qué no necesitas una cámara cara"
+},
+{
+"key": "part09.html#695",
+"es": "Pregunta"
+},
+{
+"key": "part09.html#696",
+"es": "Despertar curiosidad"
+},
+{
+"key": "part09.html#697",
+"es": "Por qué pasan de largo mis videos a los 3 segundos"
+},
+{
+"key": "part09.html#698",
+"es": "Nombrar al público"
+},
+{
+"key": "part09.html#699",
+"es": "Decir para quién es"
+},
+{
+"key": "part09.html#700",
+"es": "Fundamentos de rodaje para estudiantes de primero"
+},
+{
+"key": "part09.html#701",
+"es": "Comparación"
+},
+{
+"key": "part09.html#702",
+"es": "A frente a B"
+},
+{
+"key": "part09.html#703",
+"es": "Premiere o Final Cut: cuál aprender"
+},
+{
+"key": "part09.html#704",
+"es": "Límite de tiempo"
+},
+{
+"key": "part09.html#705",
+"es": "Indicar un plazo"
+},
+{
+"key": "part09.html#706",
+"es": "Un anuncio de 15 segundos hecho en una semana"
+},
+{
+"key": "part09.html#707",
+"es": "Historia de fracaso"
+},
+{
+"key": "part09.html#708",
+"es": "Compartir experiencia"
+},
+{
+"key": "part09.html#709",
+"es": "7 cosas que salieron mal en mi primer rodaje"
+},
+{
+"key": "part09.html#710",
+"es": "Nombrar la herramienta"
+},
+{
+"key": "part09.html#711",
+"es": "Una herramienta concreta"
+},
+{
+"key": "part09.html#712",
+"es": "Un anuncio rodado solo con un smartphone"
+},
+{
+"key": "part09.html#713",
+"es": "Antes y después"
+},
+{
+"key": "part09.html#714",
+"es": "Destacar el cambio"
+},
+{
+"key": "part09.html#715",
+"es": "La diferencia que marca una sola luz"
+},
+{
+"key": "part09.html#716",
+"es": "Secreto"
+},
+{
+"key": "part09.html#717",
+"es": "Información escasa"
+},
+{
+"key": "part09.html#718",
+"es": "Notación de rodaje que solo se usa en el set"
+},
+{
+"key": "part09.html#719",
+"es": "Lista de comprobación"
+},
+{
+"key": "part09.html#720",
+"es": "Utilidad práctica"
+},
+{
+"key": "part09.html#721",
+"es": "Qué revisar el día antes de un rodaje"
+},
+{
+"key": "part09.html#722",
+"es": "Reglas para escribir ganchos"
+},
+{
+"key": "part09.html#723",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part09.html#724",
+"es": "En el video corto, el primer rótulo hace de título. Que sea tan breve que se lea en 0,5 segundos."
+},
+{
+"key": "part09.html#725",
+"es": "<b>01</b><span>Pon primero la palabra más importante. En el teléfono, el final se corta.</span>"
+},
+{
+"key": "part09.html#726",
+"es": "<b>02</b><span>Las palabras concretas ganan a las abstractas: «en 3 segundos», no «una buena manera».</span>"
+},
+{
+"key": "part09.html#727",
+"es": "<b>03</b><span>Nombrar al público sube la tasa de clics. Un título dirigido a todos no llega a nadie.</span>"
+},
+{
+"key": "part09.html#728",
+"es": "<b>04</b><span>El ciberanzuelo exagerado gana clics al principio, pero baja la retención y, al final, caen las impresiones.</span>"
+},
+{
+"key": "part09.html#729",
+"es": "<b>05</b><span>Pon el nombre de la marca al final. Al principio parece un anuncio.</span>"
+},
+{
+"key": "part09.html#730",
+"es": "Redactar descripciones y pies de publicación"
+},
+{
+"key": "part09.html#731",
+"es": "Plataforma"
+},
+{
+"key": "part09.html#732",
+"es": "Primera línea"
+},
+{
+"key": "part09.html#733",
+"es": "Extensión"
+},
+{
+"key": "part09.html#734",
+"es": "Cierre"
+},
+{
+"key": "part09.html#735",
+"es": "Descripción de YouTube"
+},
+{
+"key": "part09.html#736",
+"es": "Resumen del video y enlaces clave"
+},
+{
+"key": "part09.html#737",
+"es": "2–3 líneas + detalles"
+},
+{
+"key": "part09.html#738",
+"es": "Capítulos y videos relacionados"
+},
+{
+"key": "part09.html#739",
+"es": "Pie de Instagram"
+},
+{
+"key": "part09.html#740",
+"es": "Conclusión o pregunta"
+},
+{
+"key": "part09.html#741",
+"es": "1–3 líneas"
+},
+{
+"key": "part09.html#742",
+"es": "Invitar a comentar con una pregunta"
+},
+{
+"key": "part09.html#743",
+"es": "Pie de TikTok"
+},
+{
+"key": "part09.html#744",
+"es": "Gancho breve"
+},
+{
+"key": "part09.html#745",
+"es": "1 línea"
+},
+{
+"key": "part09.html#746",
+"es": "De 3 a 5 hashtags"
+},
+{
+"key": "part09.html#747",
+"es": "Threads"
+},
+{
+"key": "part09.html#748",
+"es": "Una frase que abra conversación"
+},
+{
+"key": "part09.html#749",
+"es": "2–4 líneas"
+},
+{
+"key": "part09.html#750",
+"es": "Pedir opiniones"
+},
+{
+"key": "part09.html#751",
+"es": "Blog"
+},
+{
+"key": "part09.html#752",
+"es": "Resumen con términos de búsqueda"
+},
+{
+"key": "part09.html#753",
+"es": "3–5 líneas"
+},
+{
+"key": "part09.html#754",
+"es": "Enlace a la siguiente entrada"
+},
+{
+"key": "part09.html#755",
+"es": "<small>Ejercicio</small>8.11"
+},
+{
+"key": "part09.html#756",
+"es": "Tarea"
+},
+{
+"key": "part09.html#757",
+"es": "Haz 5 títulos y 5 miniaturas para un mismo video y pregunta a 20 amigos en cuál harían clic."
+},
+{
+"key": "part09.html#758",
+"es": "Consejo"
+},
+{
+"key": "part09.html#759",
+"es": "Escribe cada título en una sola clave: curiosidad, beneficio, cifra o contraste. La exageración y el ciberanzuelo te cuestan confianza."
+},
+{
+"key": "part09.html#760",
+"es": "Evaluación"
+},
+{
+"key": "part09.html#761",
+"es": "Claridad del texto, uso de los resultados de la prueba"
+},
+{
+"key": "part09.html#762",
+"es": "Respuesta modelo"
+},
+{
+"key": "part09.html#763",
+"es": "Comprueba además si la combinación más elegida corresponde al contenido real."
+},
+{
+"key": "part09.html#764",
+"es": "<b>PARTE 09</b>Gestión de plataformas e IA generativa"
+},
+{
+"key": "part09.html#765",
+"es": "Fundamentos de la publicidad en SNS"
+},
+{
+"key": "part09.html#766",
+"es": "Poner dinero para impulsar un video terminado también se ha vuelto parte del trabajo del creador. Sin saber cómo funciona, ni siquiera una buena pieza rinde."
+},
+{
+"key": "part09.html#767",
+"es": "<span class=\"ph-id\">P09-LIVECOM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Comercio en vivo</b>Una presentadora muestra un producto de cuidado facial a un teléfono frente a un aro de luz; burbujas de comentarios abstraídas en esquirlas de luz</span>"
+},
+{
+"key": "part09.html#768",
+"es": "<b>Nota</b>Comercio en vivo — la emisión y la tienda son ya una sola pantalla. El creador hace el anuncio y también lo gestiona"
+},
+{
+"key": "part09.html#769",
+"es": "Cómo las SNS se volvieron una tienda"
+},
+{
+"key": "part09.html#770",
+"es": "<b>01</b><i>Mercados abiertos</i>Listas de productos y búsqueda. El video apoya la página de detalle"
+},
+{
+"key": "part09.html#771",
+"es": "<b>02</b><i>Comercio social</i>Compras en grupo y ofertas. Los productos empiezan a aparecer en las cronologías"
+},
+{
+"key": "part09.html#772",
+"es": "<b>03</b><i>Etiquetas de compra · comercio en vivo</i>Compra directa desde una publicación o durante una emisión. El video se vuelve la tienda"
+},
+{
+"key": "part09.html#773",
+"es": "<b>04</b><i>Comercio en video corto · anuncios automatizados</i>Enlaces de producto dentro de los videos. La puja con aprendizaje automático y la creatividad automatizada combinan los recursos"
+},
+{
+"key": "part09.html#774",
+"es": "<b>Fotos de referencia 8.12A</b>Gestión y automatización"
+},
+{
+"key": "part09.html#775",
+"es": "<span class=\"ph-id\">P09-ECOM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Gestionar una tienda en línea</b>El dueño de una pequeña tienda en línea empaqueta pedidos en un escritorio, una computadora portátil con un panel de pedidos, cajas de envío</span>"
+},
+{
+"key": "part09.html#776",
+"es": "<b>Nota</b>Gestionar una tienda en línea — un solo video lleva a la pantalla de pedido"
+},
+{
+"key": "part09.html#777",
+"es": "<span class=\"ph-id\">P09-AUTOMATION</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Automatización de anuncios</b>Dos monitores con el panel de una campaña publicitaria automatizada, gráficos abstractos y segmentos de público, una oficina oscura</span>"
+},
+{
+"key": "part09.html#778",
+"es": "<b>Nota</b>Automatización de anuncios — las máquinas se ocupan de pujas y combinaciones; las personas, de la creatividad y el mensaje"
+},
+{
+"key": "part09.html#779",
+"es": "Cómo se estructura una cuenta publicitaria"
+},
+{
+"key": "part09.html#780",
+"es": "Nivel"
+},
+{
+"key": "part09.html#781",
+"es": "Qué define"
+},
+{
+"key": "part09.html#782",
+"es": "Dónde entra el creador"
+},
+{
+"key": "part09.html#783",
+"es": "Campaña"
+},
+{
+"key": "part09.html#784",
+"es": "Objetivo (notoriedad, tráfico, conversión)"
+},
+{
+"key": "part09.html#785",
+"es": "Duración y estructura de la pieza acordes al objetivo"
+},
+{
+"key": "part09.html#786",
+"es": "Conjunto de anuncios"
+}
+]

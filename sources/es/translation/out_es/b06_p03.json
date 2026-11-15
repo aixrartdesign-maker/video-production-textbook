@@ -1,0 +1,670 @@
+[
+{
+"key": "part04.html#744",
+"es": "<b>Fotos de referencia 4.10A</b>Imágenes generadas — contenido hecho solo de sonido"
+},
+{
+"key": "part04.html#745",
+"es": "<span class=\"ph-id\">P04-ASMR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Grabación de ASMR</b>Una cabeza artificial con un par de micros binaurales y una mano que da golpecitos en una caja de madera</span>"
+},
+{
+"key": "part04.html#746",
+"es": "<b>a</b>Grabación de ASMR — el modelo de cabeza del centro es un <b>micrófono binaural de cabeza artificial</b>. Lleva dos micros donde estarían los oídos humanos y capta un «susurro en el oído izquierdo» tal como se oye. Solo funciona con auriculares"
+},
+{
+"key": "part04.html#747",
+"es": "<span class=\"ph-id\">P04-FOLEY</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Trabajo de Foley</b>Un artista de Foley pisa una bandeja de grava mientras mira la imagen</span>"
+},
+{
+"key": "part04.html#748",
+"es": "<b>b</b>Trabajo de Foley"
+},
+{
+"key": "part04.html#749",
+"es": "<span class=\"ph-id\">P04-AMBIENT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Grabación del crepitar del fuego</b>Una grabadora de mano con paravientos junto a una chimenea</span>"
+},
+{
+"key": "part04.html#750",
+"es": "<b>c</b>Grabación del crepitar del fuego"
+},
+{
+"key": "part04.html#751",
+"es": "<span class=\"ph-id\">P04-SLEEP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>8 horas de lluvia — un video de audio para dormir</b>Un video de lluvia en la ventana reproducido en un teléfono junto a la cama</span>"
+},
+{
+"key": "part04.html#752",
+"es": "<b>d</b>8 horas de lluvia — un video de audio para dormir"
+},
+{
+"key": "part04.html#753",
+"es": "Cuando sientas que tu nivel con el video se ha estancado, trabajar el sonido es el arreglo más rápido.<small>4.10 Efectos de sonido y Foley</small>"
+},
+{
+"key": "part04.html#754",
+"es": "Salir a recoger sonido y textura"
+},
+{
+"key": "part04.html#755",
+"es": "<b>Salir por sonido — grabación de campo</b><span>Un bosque real al amanecer, olas reales. Todos usan sonidos de biblioteca, así que graba «el tuyo». Cañón + paravientos + grabadora portátil, de 4 a 6 de la mañana, viento de 3 m/s o menos</span>"
+},
+{
+"key": "part04.html#756",
+"es": "<b>Salir por textura — escaneos de fotogrametría</b><span>Fotografía roca · corteza · muros decenas de veces para obtener texturas 3D. Día nublado, una carta de color, 70 % de solape. Lo que la IA generativa no puede crear es «el grano de ese lugar»</span>"
+},
+{
+"key": "part04.html#757",
+"es": "<b>Fig. 44-1</b> El sonido y la textura están ahí fuera — gente que recoge sus fuentes en lugar de comprarlas. La firma de un artista sale del trabajo de campo, no de las bibliotecas."
+},
+{
+"key": "part04.html#758",
+"es": "<small>Ejercicio</small>4.10"
+},
+{
+"key": "part04.html#759",
+"es": "Tarea"
+},
+{
+"key": "part04.html#760",
+"es": "Crea 5 efectos de Foley con objetos de casa, como pasos, una puerta y lluvia, y colócalos en una escena."
+},
+{
+"key": "part04.html#761",
+"es": "Consejo"
+},
+{
+"key": "part04.html#762",
+"es": "Graba en una habitación silenciosa con el micro cerca y ajusta las acciones a la imagen."
+},
+{
+"key": "part04.html#763",
+"es": "Evaluación"
+},
+{
+"key": "part04.html#764",
+"es": "Precisión de la sincronía, realismo del sonido"
+},
+{
+"key": "part04.html#765",
+"es": "Respuesta modelo"
+},
+{
+"key": "part04.html#766",
+"es": "Encuentra sonidos «más convincentes» que los reales y revela los materiales usados."
+},
+{
+"key": "part04.html#767",
+"es": "Cierre de la PARTE 04"
+},
+{
+"key": "part04.html#768",
+"es": "Ejercicios y repaso"
+},
+{
+"key": "part04.html#769",
+"es": "<b>Cuatro esquemas con una luz</b>Con una sola luz o una ventana, rueda primeros planos de retrato con luz Rembrandt, dividida, mariposa y de contorno, y compara los cuatro."
+},
+{
+"key": "part04.html#770",
+"es": "<b>Clave alta vs. clave baja</b>Rueda el mismo producto en clave alta y en clave baja, y pregunta a diez personas cuál parece más caro."
+},
+{
+"key": "part04.html#771",
+"es": "<b>Distancia y calidad de sonido</b>Graba la misma frase con un smartphone a 30 cm, 1 m y 3 m y compara. Escucha cómo afecta la distancia a la calidad."
+},
+{
+"key": "part04.html#772",
+"es": "<b>Rehazlo solo con efectos</b>Quita todo el sonido de un material que hayas rodado y ponle solo efectos nuevos. Notarás cómo el sonido cambia la textura de la imagen."
+},
+{
+"key": "part04.html#773",
+"es": "Resumen en una página"
+},
+{
+"key": "part04.html#774",
+"es": "4.1 Cinco propiedades de la luz"
+},
+{
+"key": "part04.html#775",
+"es": "Con la ley del cuadrado inverso puedes oscurecer el fondo sin comprar más focos."
+},
+{
+"key": "part04.html#776",
+"es": "4.2 Iluminación de 3 puntos y sus variantes"
+},
+{
+"key": "part04.html#777",
+"es": "Ratio de iluminación 2:1 para anuncios luminosos, 4:1 para drama estándar, 8:1 o más para un tono dramático."
+},
+{
+"key": "part04.html#778",
+"es": "4.3 Seis esquemas de luz principal"
+},
+{
+"key": "part04.html#779",
+"es": "Prueba a resolver el encuadre solo con la luz principal. La suavidad viene del tamaño y la distancia."
+},
+{
+"key": "part04.html#780",
+"es": "4.4 Clave alta y clave baja"
+},
+{
+"key": "part04.html#781",
+"es": "La clave baja no es rodar a oscuras; es exponer con precisión las zonas claras y controlar el resto."
+},
+{
+"key": "part04.html#782",
+"es": "4.5 Iluminación para anuncios de producto"
+},
+{
+"key": "part04.html#783",
+"es": "El material decide el método. Se quita tanta luz como se añade."
+},
+{
+"key": "part04.html#784",
+"es": "4.6 Iluminación para chroma key"
+},
+{
+"key": "part04.html#785",
+"es": "Separa sujeto y fondo 2 m e ilumínalos por separado."
+},
+{
+"key": "part04.html#786",
+"es": "4.7 Iluminación de bajo presupuesto"
+},
+{
+"key": "part04.html#787",
+"es": "Ventana · cartón pluma · papel de calco · tela negra. Cuidado con el calor y los vuelcos."
+},
+{
+"key": "part04.html#788",
+"es": "4.8 Micrófonos y grabación"
+},
+{
+"key": "part04.html#789",
+"es": "Un micro barato de cerca gana a uno caro de lejos. Picos de −12 a −6 dBFS, tono de sala 30 segundos."
+},
+{
+"key": "part04.html#790",
+"es": "4.9 Las cuatro capas del diseño de sonido"
+},
+{
+"key": "part04.html#791",
+"es": "Decide primero la música; el logo sonoro va en los últimos 2–3 segundos. Guarda las pruebas de las licencias musicales."
+},
+{
+"key": "part04.html#792",
+"es": "4.10 Efectos de sonido y Foley"
+},
+{
+"key": "part04.html#793",
+"es": "Los efectos se sincronizan al cuadro. Trabajar el sonido es el arreglo más rápido."
+},
+{
+"key": "part04.html#794",
+"es": "Autoevaluación"
+},
+{
+"key": "part04.html#795",
+"es": "¿Puedes aplicar la ley del cuadrado inverso para controlar el brillo del fondo?"
+},
+{
+"key": "part04.html#796",
+"es": "¿Puedes explicar qué significa un ratio de iluminación 4:1?"
+},
+{
+"key": "part04.html#797",
+"es": "¿Puedes explicar por qué en chroma key sujeto y fondo deben estar separados?"
+},
+{
+"key": "part04.html#798",
+"es": "¿Puedes dar en cifras la zona segura de los niveles de grabación?"
+},
+{
+"key": "part04.html#799",
+"es": "¿Puedes explicar por qué hace falta el tono de sala?"
+},
+{
+"key": "part04.html#800",
+"es": "Preguntas para pensar"
+},
+{
+"key": "part04.html#801",
+"es": "¿Alguna vez ha salido oscura una cara en un video tuyo?"
+},
+{
+"key": "part04.html#802",
+"es": "¿Debiste añadir luz entonces, o quitarla?"
+},
+{
+"key": "part04.html#803",
+"es": "¿Cuál apagas antes: un video con mal sonido o uno con mala imagen?"
+},
+{
+"key": "part04.html#804",
+"es": "¿Por qué?"
+},
+{
+"key": "feature_lighting.html#0",
+"es": "Especial · HERRAMIENTAS DE LUZ"
+},
+{
+"key": "feature_lighting.html#1",
+"es": "Herramientas de la luz —<br>focos, haces y luz en el software"
+},
+{
+"key": "feature_lighting.html#2",
+"es": "Aprender iluminación no es memorizar nombres de focos; es saber qué herramienta controla el <b>tamaño · distancia · ángulo · intensidad · color</b> de la luz. Este especial reúne en un solo mapa los focos y modificadores reales del set, los haces que van del spot puntual a la luz ambiente y las funciones de After Effects · Premiere que reconstruyen esa misma luz."
+},
+{
+"key": "feature_lighting.html#3",
+"es": "<small>PLIEGO 01</small>Mapa de fuentes de luz — doce focos y la luz que da cada uno"
+},
+{
+"key": "feature_lighting.html#4",
+"es": "<b>Fotos de referencia 4.7A</b>Imagen generada — doce fuentes de luz"
+},
+{
+"key": "feature_lighting.html#5",
+"es": "<span class=\"ph-id\">P04-FRESNEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Fresnel</b></span>"
+},
+{
+"key": "feature_lighting.html#6",
+"es": "<b>Fresnel</b>Tungsteno 650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#7",
+"es": "<span class=\"ph-id\">P04-OPENFACE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Foco abierto · redhead</b></span>"
+},
+{
+"key": "feature_lighting.html#8",
+"es": "<b>Foco abierto · redhead</b>800 W–2K, tungsteno"
+},
+{
+"key": "feature_lighting.html#9",
+"es": "<span class=\"ph-id\">P04-HMI</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>HMI · PAR</b></span>"
+},
+{
+"key": "feature_lighting.html#10",
+"es": "<b>HMI · PAR</b>575 W–18K · 5600 K"
+},
+{
+"key": "feature_lighting.html#11",
+"es": "<span class=\"ph-id\">P04-LEDPANEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Panel LED (bicolor)</b></span>"
+},
+{
+"key": "feature_lighting.html#12",
+"es": "<b>Panel LED (bicolor)</b>30–200 W · 2700–6500 K"
+},
+{
+"key": "feature_lighting.html#13",
+"es": "<span class=\"ph-id\">P04-COBSOFT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LED COB con softbox</b></span>"
+},
+{
+"key": "feature_lighting.html#14",
+"es": "<b>LED COB con softbox</b>100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#15",
+"es": "<span class=\"ph-id\">P04-TUBE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tubo LED RGBWW</b></span>"
+},
+{
+"key": "feature_lighting.html#16",
+"es": "<b>Tubo LED RGBWW</b>30–120 cm · todo color"
+},
+{
+"key": "feature_lighting.html#17",
+"es": "<span class=\"ph-id\">P04-KINO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Kino · panel fluorescente</b></span>"
+},
+{
+"key": "feature_lighting.html#18",
+"es": "<b>Kino · panel fluorescente</b>4 pies, 4 tubos"
+},
+{
+"key": "feature_lighting.html#19",
+"es": "<span class=\"ph-id\">P04-RING</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Aro de luz</b></span>"
+},
+{
+"key": "feature_lighting.html#20",
+"es": "<b>Aro de luz</b>10–60 W"
+},
+{
+"key": "feature_lighting.html#21",
+"es": "<span class=\"ph-id\">P04-CHINABALL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Globo chino · farol</b></span>"
+},
+{
+"key": "feature_lighting.html#22",
+"es": "<b>Globo chino · farol</b>Bombilla + globo de papel/tela"
+},
+{
+"key": "feature_lighting.html#23",
+"es": "<span class=\"ph-id\">P04-DEDO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Dedolight · spot puntual</b></span>"
+},
+{
+"key": "feature_lighting.html#24",
+"es": "<b>Dedolight · spot puntual</b>40–150 W · 4–50°"
+},
+{
+"key": "feature_lighting.html#25",
+"es": "<span class=\"ph-id\">P04-PRACTICAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Luz práctica (en cuadro)</b></span>"
+},
+{
+"key": "feature_lighting.html#26",
+"es": "<b>Luz práctica (en cuadro)</b>Lámpara · neón · vela · TV"
+},
+{
+"key": "feature_lighting.html#27",
+"es": "<span class=\"ph-id\">P04-REFLECTOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Reflector · tela negra</b></span>"
+},
+{
+"key": "feature_lighting.html#28",
+"es": "<b>Reflector · tela negra</b>Luz sin corriente"
+},
+{
+"key": "feature_lighting.html#29",
+"es": "Foco"
+},
+{
+"key": "feature_lighting.html#30",
+"es": "Potencia · temp. de color"
+},
+{
+"key": "feature_lighting.html#31",
+"es": "Calidad y uso"
+},
+{
+"key": "feature_lighting.html#32",
+"es": "Equivalente 3D en AE"
+},
+{
+"key": "feature_lighting.html#33",
+"es": "Fresnel"
+},
+{
+"key": "feature_lighting.html#34",
+"es": "Tungsteno 650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#35",
+"es": "Dura→media, spot/flood 10–60°. Estándar para principal · contraluz"
+},
+{
+"key": "feature_lighting.html#36",
+"es": "Spot · cono 30–60 · calado 50"
+},
+{
+"key": "feature_lighting.html#37",
+"es": "Foco abierto · redhead"
+},
+{
+"key": "feature_lighting.html#38",
+"es": "800 W–2K, tungsteno"
+},
+{
+"key": "feature_lighting.html#39",
+"es": "Sin lente → luz dura, amplia y cruda. Fuente para difusión · rebote"
+},
+{
+"key": "feature_lighting.html#40",
+"es": "Point · intensidad↑ · caída brusca"
+},
+{
+"key": "feature_lighting.html#41",
+"es": "HMI · PAR"
+},
+{
+"key": "feature_lighting.html#42",
+"es": "Recrea la luz solar. Revisa balasto · generador · parpadeo"
+},
+{
+"key": "feature_lighting.html#43",
+"es": "Parallel · sombras nítidas"
+},
+{
+"key": "feature_lighting.html#44",
+"es": "Panel LED (bicolor)"
+},
+{
+"key": "feature_lighting.html#45",
+"es": "Fuente de área · ligero · a batería. Relleno · apoyo a menos de 1,5 m"
+},
+{
+"key": "feature_lighting.html#46",
+"es": "Spot grande, calado 100 / Ambient"
+},
+{
+"key": "feature_lighting.html#47",
+"es": "LED COB con softbox"
+},
+{
+"key": "feature_lighting.html#48",
+"es": "100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#49",
+"es": "Principal estándar en sets pequeños. Tamaño de la caja = suavidad"
+},
+{
+"key": "feature_lighting.html#50",
+"es": "Spot · cono 90 · calado 100"
+},
+{
+"key": "feature_lighting.html#51",
+"es": "Tubo LED RGBWW"
+},
+{
+"key": "feature_lighting.html#52",
+"es": "30–120 cm · todo color"
+},
+{
+"key": "feature_lighting.html#53",
+"es": "Fuente lineal → brillos alargados. Tonos de neón · luz práctica"
+},
+{
+"key": "feature_lighting.html#54",
+"es": "Solid alargado + Glow / Light Sweep"
+},
+{
+"key": "feature_lighting.html#55",
+"es": "Kino · panel fluorescente"
+},
+{
+"key": "feature_lighting.html#56",
+"es": "4 pies, 4 tubos"
+},
+{
+"key": "feature_lighting.html#57",
+"es": "Luz suave, amplia y uniforme. Entrevistas · fondos de chroma key"
+},
+{
+"key": "feature_lighting.html#58",
+"es": "Ambient + 2 Spot anchos"
+},
+{
+"key": "feature_lighting.html#59",
+"es": "Aro de luz"
+},
+{
+"key": "feature_lighting.html#60",
+"es": "Luz frontal sin sombras. Solo belleza · charlas"
+},
+{
+"key": "feature_lighting.html#61",
+"es": "Point en la cámara + contraste bajo"
+},
+{
+"key": "feature_lighting.html#62",
+"es": "Globo chino · farol"
+},
+{
+"key": "feature_lighting.html#63",
+"es": "Bombilla + globo de papel/tela"
+},
+{
+"key": "feature_lighting.html#64",
+"es": "Suave en todas direcciones. «Luz de habitación» cenital, luz en pértiga"
+},
+{
+"key": "feature_lighting.html#65",
+"es": "Point · caída Smooth"
+},
+{
+"key": "feature_lighting.html#66",
+"es": "Dedolight · spot puntual"
+},
+{
+"key": "feature_lighting.html#67",
+"es": "Haz nítido. Acento de producto · brillo en los ojos · proyección de gobos"
+},
+{
+"key": "feature_lighting.html#68",
+"es": "Spot · cono 5–10 · calado 10–20"
+},
+{
+"key": "feature_lighting.html#69",
+"es": "Luz práctica (en cuadro)"
+},
+{
+"key": "feature_lighting.html#70",
+"es": "Lámpara · neón · vela · TV"
+},
+{
+"key": "feature_lighting.html#71",
+"es": "La «excusa» de la luz. Ajusta la exposición con otra bombilla · reguladores"
+},
+{
+"key": "feature_lighting.html#72",
+"es": "Glow + Point en la misma posición"
+},
+{
+"key": "feature_lighting.html#73",
+"es": "Reflector · tela negra"
+},
+{
+"key": "feature_lighting.html#74",
+"es": "Luz sin corriente"
+},
+{
+"key": "feature_lighting.html#75",
+"es": "Blanco=suave, plata=dura, oro=cálida, negro=resta"
+},
+{
+"key": "feature_lighting.html#76",
+"es": "Ambient↓ / máscara de Solid oscuro"
+},
+{
+"key": "feature_lighting.html#77",
+"es": "Antes del nombre del foco, comprueba: dura o suave, estrecha o ancha, cuántos K. La última columna es la luz 3D de After Effects que recrea esa misma luz."
+},
+{
+"key": "feature_lighting.html#78",
+"es": "<small>PLIEGO 02</small>Del spot puntual a la luz ambiente — cinco luces según el ángulo del haz"
+},
+{
+"key": "feature_lighting.html#79",
+"es": "Del spot puntual a la luz ambiente — cinco luces según el ángulo del haz"
+},
+{
+"key": "feature_lighting.html#80",
+"es": "<b>SPOT PUNTUAL</b><span class=\"deg\">4–10° · muy estrecho</span><span>Solo un rostro — solista en escena, brillo de producto</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"es": "<b>SPOT</b><span class=\"deg\">15–30° · estrecho</span><span>Un círculo de borde visible — Fresnel, Leko · acento y separación</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"es": "<b>FLOOD</b><span class=\"deg\">45–70° · ancho</span><span>Amplia y uniforme — foco abierto, panel LED · luz base</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"es": "<b>SUAVE</b><span class=\"deg\">difusa · sin borde</span><span>Luz envolvente — softbox, book light · piel · entrevistas</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"es": "<b>AMBIENTE</b><span class=\"deg\">no direccional · envolvente</span><span>Nivel base sin sombras — rebote en el techo, día nublado</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"es": "<span>← estrecha · dura · borde nítido · dramática</span><span>ancha · suave · sin borde · general →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"es": "<b>Lámina LT-2</b> Cinco luces según el ángulo del haz — misma persona, mismo lugar; solo cambió la herramienta ante la lámpara. Hacia la izquierda decides «qué mostrar»; hacia la derecha, «cuánto brillo»."
+},
+{
+"key": "feature_lighting.html#87",
+"es": "Haz"
+},
+{
+"key": "feature_lighting.html#88",
+"es": "Ángulo"
+},
+{
+"key": "feature_lighting.html#89",
+"es": "Borde de sombra"
+},
+{
+"key": "feature_lighting.html#90",
+"es": "Uso"
+},
+{
+"key": "feature_lighting.html#91",
+"es": "Focos · accesorios típicos"
+},
+{
+"key": "feature_lighting.html#92",
+"es": "Ajustes de 3D Light en AE"
+},
+{
+"key": "feature_lighting.html#93",
+"es": "Error común"
+},
+{
+"key": "feature_lighting.html#94",
+"es": "Spot puntual"
+},
+{
+"key": "feature_lighting.html#95",
+"es": "Afiladísimo"
+},
+{
+"key": "feature_lighting.html#96",
+"es": "Acento de un producto, brillo en los ojos, patrón de gobo"
+},
+{
+"key": "feature_lighting.html#97",
+"es": "Dedolight, snoot, accesorio de proyección"
+},
+{
+"key": "feature_lighting.html#98",
+"es": "Spot · Cone 5–10 · Feather 10"
+},
+{
+"key": "feature_lighting.html#99",
+"es": "Spot puntual en un rostro → manchas"
+},
+{
+"key": "feature_lighting.html#100",
+"es": "Spot"
+},
+{
+"key": "feature_lighting.html#101",
+"es": "Definido"
+},
+{
+"key": "feature_lighting.html#102",
+"es": "Principal de retrato (dramática), escenario, contraluz"
+},
+{
+"key": "feature_lighting.html#103",
+"es": "Fresnel en spot, reflector estándar de COB, viseras"
+},
+{
+"key": "feature_lighting.html#104",
+"es": "Spot · Cone 30 · Feather 40"
+},
+{
+"key": "feature_lighting.html#105",
+"es": "Sin viseras; se derrama en la pared"
+}
+]

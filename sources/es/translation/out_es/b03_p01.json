@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#101",
+"es": "<b>2S · LOCKED</b><span>Chocan las botellas · SYNC risa</span>"
+},
+{
+"key": "feature_storyboard.html#102",
+"es": "<b>MS · acercamiento</b><span>Producto centrado · logo en CG · N Hoy también</span>"
+},
+{
+"key": "feature_storyboard.html#103",
+"es": "<b>Lámina SB-9</b> Muestra de storyboard vertical — anuncio en video corto de 15 segundos (9:16, 6 planos). Las viñetas verticales son estrechas: una línea de nota de acción, una palabra de sonido."
+},
+{
+"key": "feature_storyboard.html#104",
+"es": "Un storyboard vertical se sigue leyendo bien con hasta 6 viñetas por fila. Las viñetas verticales son estrechas, así que la información se alarga debajo; escribe <b>una línea de nota de acción, una palabra de sonido</b>. Dibuja los subtítulos solo en la franja central, fuera de las zonas de la interfaz (gris)."
+},
+{
+"key": "feature_storyboard.html#105",
+"es": "<small>DOBLE PÁGINA 04</small>Storyboards 360 · VR — diseña un «eje de atención», no una línea de tiempo"
+},
+{
+"key": "feature_storyboard.html#106",
+"es": "El storyboard de un video plano registra «qué se ve en este plano». El de un video 360 registra <b>hacia dónde mirará el público</b> y <b>qué lo hará girarse</b>. La viñeta es un desarrollo equirrectangular 2:1, siempre con una vista superior dibujada encima."
+},
+{
+"key": "feature_storyboard.html#107",
+"es": "Storyboard 360 · VR — diseñar el eje de atención"
+},
+{
+"key": "feature_storyboard.html#108",
+"es": "<b><i>01</i>0–8 s · frente fijo</b><span>Monólogo de A; el espectador reconoce el espacio</span>"
+},
+{
+"key": "feature_storyboard.html#109",
+"es": "<b><i>02</i>8–14 s · el sonido llama</b><span>Ruido de puerta, atrás a la izquierda → A se gira → el público también</span>"
+},
+{
+"key": "feature_storyboard.html#110",
+"es": "<b><i>03</i>14–22 s · nuevo frente</b><span>−130° pasa a ser el nuevo frente. Entra B</span>"
+},
+{
+"key": "feature_storyboard.html#111",
+"es": "Cámara = público"
+},
+{
+"key": "feature_storyboard.html#112",
+"es": "Frente 90°"
+},
+{
+"key": "feature_storyboard.html#113",
+"es": "<b>Vista superior</b><span>Marca en ángulos dónde ocurre cada hecho. Si los giros de una escena suman más de 180°, hay mareo.</span><span>En cada viñeta: ángulo frontal previsto · señales de atención (sonido · luz · mirada) · tiempo de giro (2 s o más por cada 90°)</span>"
+},
+{
+"key": "feature_storyboard.html#114",
+"es": "<b>Lámina SB-3</b> Storyboard 360 · VR — tres viñetas desarrolladas y una vista superior. Lo que ocurre detrás del espectador se anuncia con sonido, no con imagen."
+},
+{
+"key": "feature_storyboard.html#115",
+"es": "<span class=\"ph-id\">P06-SB-360</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Boceto de storyboard 360 — marca ángulos y posiciones del sonido sobre el desarrollo</b></span>"
+},
+{
+"key": "feature_storyboard.html#116",
+"es": "<b>Nota</b>Boceto de storyboard 360 — marca ángulos y posiciones del sonido sobre el desarrollo"
+},
+{
+"key": "feature_storyboard.html#117",
+"es": "<small>Video 360</small>El público se gira"
+},
+{
+"key": "feature_storyboard.html#118",
+"es": "Cámara fija, altura de ojos 1,2–1,6 m"
+},
+{
+"key": "feature_storyboard.html#119",
+"es": "Planos largos (8 s o más), transiciones por fundido"
+},
+{
+"key": "feature_storyboard.html#120",
+"es": "Sujetos cercanos a 1,5 m como mínimo — distorsión estéreo"
+},
+{
+"key": "feature_storyboard.html#121",
+"es": "<small>VR (visor)</small>El público está dentro de la escena"
+},
+{
+"key": "feature_storyboard.html#122",
+"es": "FOV 90–110°; el escenario principal está a 2–5 m de los ojos"
+},
+{
+"key": "feature_storyboard.html#123",
+"es": "Sin UI · subtítulos fijos a la cabeza; ánclalos al mundo"
+},
+{
+"key": "feature_storyboard.html#124",
+"es": "Regla antimareo: sin movimientos de cámara, o solo rectos y a velocidad constante"
+},
+{
+"key": "feature_storyboard.html#125",
+"es": "<small>Entregables del storyboard</small>Un juego de tres hojas"
+},
+{
+"key": "feature_storyboard.html#126",
+"es": "Desarrollo equirrectangular (viñetas)"
+},
+{
+"key": "feature_storyboard.html#127",
+"es": "Vista superior (ángulos · movimiento)"
+},
+{
+"key": "feature_storyboard.html#128",
+"es": "Línea de tiempo de la atención (gráfico segundos × ángulo frontal)"
+},
+{
+"key": "feature_storyboard.html#129",
+"es": "<small>DOBLE PÁGINA 05</small>LED curva · cúpula · fachada mediática — dibuja «desde dónde se mira», no «la pantalla»"
+},
+{
+"key": "feature_storyboard.html#130",
+"es": "LED curva · fachada mediática — dibuja la posición del espectador"
+},
+{
+"key": "feature_storyboard.html#131",
+"es": "<b>LED curva · cilíndrica — planta + desarrollo</b><span>Fija primero el radio sin distorsión desde el punto de visión · texto y rostros solo en la franja de la mirada (1,4–1,8 m sobre el suelo) · nunca pongas texto sobre una junta · movimiento horizontal a 15° por segundo o menos</span>"
+},
+{
+"key": "feature_storyboard.html#132",
+"es": "<b>Fachada mediática — mapa de píxeles en alzado + distancia de visión</b><span>Distancia mínima de visión (m) ≈ paso de píxel (mm) · la altura del texto es 1/250 de la distancia → en la práctica, sin texto: solo forma y color · simula en tres puntos: a pie 20 m / al otro lado de la calle 60 m / vista lejana 150 m</span>"
+},
+{
+"key": "feature_storyboard.html#133",
+"es": "<b>Lámina SB-4</b> Storyboards para LED curva y fachadas mediáticas. La primera viñeta no es «la pantalla», sino «desde dónde mira el público y durante cuánto tiempo»."
+},
+{
+"key": "feature_storyboard.html#134",
+"es": "Medio"
+},
+{
+"key": "feature_storyboard.html#135",
+"es": "Forma de la viñeta"
+},
+{
+"key": "feature_storyboard.html#136",
+"es": "Dibujar además"
+},
+{
+"key": "feature_storyboard.html#137",
+"es": "Unidad de tiempo"
+},
+{
+"key": "feature_storyboard.html#138",
+"es": "Prohibido"
+},
+{
+"key": "feature_storyboard.html#139",
+"es": "LED curva · cilíndrica"
+},
+{
+"key": "feature_storyboard.html#140",
+"es": "Desarrollo (longitud de arco : altura)"
+},
+{
+"key": "feature_storyboard.html#141",
+"es": "Planta + punto de visión + franja de la mirada"
+},
+{
+"key": "feature_storyboard.html#142",
+"es": "Escenas de 20–40 s"
+},
+{
+"key": "feature_storyboard.html#143",
+"es": "Texto en juntas, movimientos horizontales de más de 15° por segundo"
+},
+{
+"key": "feature_storyboard.html#144",
+"es": "Cúpula (fulldome)"
+},
+{
+"key": "feature_storyboard.html#145",
+"es": "Círculo ojo de pez (dome master 4096×4096)"
+},
+{
+"key": "feature_storyboard.html#146",
+"es": "Sección + inclinación de butacas"
+},
+{
+"key": "feature_storyboard.html#147",
+"es": "Escenas de 30 s o más"
+},
+{
+"key": "feature_storyboard.html#148",
+"es": "Acción bajo el horizonte, rotación rápida"
+},
+{
+"key": "feature_storyboard.html#149",
+"es": "Fachada mediática"
+},
+{
+"key": "feature_storyboard.html#150",
+"es": "Mapa de píxeles en alzado"
+},
+{
+"key": "feature_storyboard.html#151",
+"es": "Simular a tres distancias de visión"
+},
+{
+"key": "feature_storyboard.html#152",
+"es": "Bucle de 8–30 s"
+},
+{
+"key": "feature_storyboard.html#153",
+"es": "Texto corrido, pantalla completa en blanco al 100 %"
+},
+{
+"key": "feature_storyboard.html#154",
+"es": "Videomapping"
+},
+{
+"key": "feature_storyboard.html#155",
+"es": "Máscara UV sobre foto del edificio"
+},
+{
+"key": "feature_storyboard.html#156",
+"es": "Posición del proyector · distancia de proyección · zonas de solape"
+},
+{
+"key": "feature_storyboard.html#157",
+"es": "Escenas de 15–60 s"
+},
+{
+"key": "feature_storyboard.html#158",
+"es": "Confiar en fondos negros (ignorar la textura de la superficie)"
+},
+{
+"key": "feature_storyboard.html#159",
+"es": "Exterior anamórfico"
+},
+{
+"key": "feature_storyboard.html#160",
+"es": "Dos caras de esquina desarrolladas + 1 punto de visión"
+},
+{
+"key": "feature_storyboard.html#161",
+"es": "Marca el «punto exacto»; simula otras posiciones"
+},
+{
+"key": "feature_storyboard.html#162",
+"es": "Contenido que necesita explicación fuera del punto exacto"
+},
+{
+"key": "feature_storyboard.html#163",
+"es": "<small>DOBLE PÁGINA 06</small>Storyboards AR · MR · XR — la viñeta se divide en «capas»"
+},
+{
+"key": "feature_storyboard.html#164",
+"es": "Una viñeta de AR · MR no es un único dibujo plano: se descompone en <b>capa de realidad / superficie rastreada / capa de objetos virtuales / capa de UI</b>. Y «qué debe hacer el público para llegar a la siguiente viñeta (interacción)» sustituye a la marca de transición. Un set XR (producción virtual con pared LED) funciona al revés: el storyboard se divide en cuatro pistas: cámara · fondo LED · set físico · iluminación."
+},
+{
+"key": "feature_storyboard.html#165",
+"es": "Storyboards AR · MR · XR"
+},
+{
+"key": "feature_storyboard.html#166",
+"es": "<b>AR — la viñeta se divide en capas</b><span>Dibuja cuatro capas por separado: realidad / superficie rastreada / objeto virtual / UI · en lugar de marcas de transición, «qué debe ocurrir para llegar a la siguiente viñeta» (tocar · girar · acercarse) · una viñeta de rama de fallo es obligatoria</span>"
+},
+{
+"key": "feature_storyboard.html#167",
+"es": "<b>MR — dibuja sobre un mapa de la habitación</b><span>Los objetos virtuales se anclan a pared · suelo · mesa · los muebles reales deben ocultar los objetos virtuales para que resulten creíbles · radio de movimiento 2 m; nunca lleves al usuario fuera del límite de seguridad</span>"
+},
+{
+"key": "feature_storyboard.html#168",
+"es": "<b>Set XR — un storyboard de cuatro pistas</b><span>Set físico · actores / fondo LED (Unreal) / tracking de cámara / sincronía de luces: cuatro líneas por plano · anota frustum interior/exterior, versión del fondo, brillo de la pared</span>"
+},
+{
+"key": "feature_storyboard.html#169",
+"es": "<b>Lámina SB-5</b> AR por capas, MR sobre un mapa de la habitación, XR por pistas — cambia el medio y cambia la definición de «una viñeta». Lo que comparten: dibujar primero dónde está el público (o la cámara)."
+},
+{
+"key": "feature_storyboard.html#170",
+"es": "<small>DOBLE PÁGINA 07</small>El lenguaje de cámara dentro de la viñeta — símbolos de plano · ángulo · movimiento · composición"
+},
+{
+"key": "feature_storyboard.html#171",
+"es": "Lenguaje de cámara en la viñeta — 8 símbolos de movimiento"
+},
+{
+"key": "feature_storyboard.html#172",
+"es": "<b>PAN</b><span>Flecha doble izquierda-derecha</span>"
+},
+{
+"key": "feature_storyboard.html#173",
+"es": "<b>TILT</b><span>Flecha vertical</span>"
+},
+{
+"key": "feature_storyboard.html#174",
+"es": "<b>ZOOM IN</b><span>Cuatro flechas que convergen hacia dentro</span>"
+},
+{
+"key": "feature_storyboard.html#175",
+"es": "<b>ZOOM OUT</b><span>Cuatro flechas que se abren hacia fuera</span>"
+},
+{
+"key": "feature_storyboard.html#176",
+"es": "<b>DOLLY IN</b><span>Flecha que avanza por el suelo</span>"
+},
+{
+"key": "feature_storyboard.html#177",
+"es": "<b>TRACK</b><span>Flecha larga paralela al sujeto</span>"
+},
+{
+"key": "feature_storyboard.html#178",
+"es": "<b>CRANE</b><span>Flecha grande que se curva hacia arriba</span>"
+},
+{
+"key": "feature_storyboard.html#179",
+"es": "<b>HANDHELD</b><span>Zigzag en las esquinas</span>"
+},
+{
+"key": "feature_storyboard.html#180",
+"es": "<b>Lámina SB-6</b> Cómo dibujar el movimiento de cámara en un storyboard — el movimiento del sujeto en negro; solo el de la cámara en rojo. Guarda los símbolos en una leyenda en la primera viñeta."
+},
+{
+"key": "feature_storyboard.html#181",
+"es": "Cuatro estilos de storyboard"
+},
+{
+"key": "feature_storyboard.html#182",
+"es": "<b>Miniatura — dibujar para pensar</b><span>Una viñeta en 10 segundos, solo para los ojos de dirección. Sirve porque se tira sin pena</span>"
+},
+{
+"key": "feature_storyboard.html#183",
+"es": "<b>Línea limpia — dibujar para el set</b><span>Información clara. El estándar para publicidad · entregas de PPM</span>"
+},
+{
+"key": "feature_storyboard.html#184",
+"es": "<b>Storyboard tonal — dibujar la luz</b><span>Tres valores de sombreado, hasta la dirección de la luz. Largometrajes · películas de marca</span>"
+},
+{
+"key": "feature_storyboard.html#185",
+"es": "<b>Boceto en color — justo antes de la animática</b><span>Prueba color y ritmo a la vez. Motion graphics · animación</span>"
+},
+{
+"key": "feature_storyboard.html#186",
+"es": "<b>Lámina SB-6′</b> Cuatro estilos de storyboard. El propósito fija la precisión — un dibujo para ti no es un dibujo para diez personas."
+},
+{
+"key": "feature_storyboard.html#187",
+"es": "<small>DOBLE PÁGINA 08</small>Hacer «visibles» la narración y el sonido — el storyboard de 3 carriles y un anuncio de 15 segundos terminado"
+},
+{
+"key": "feature_storyboard.html#188",
+"es": "El sonido es la información que más falta en un storyboard. Escrito en una línea bajo la imagen, su duración no se ve. Coloca <b>carril de imagen / carril de voz / carril de sonido</b> en paralelo sobre una línea de tiempo y verás, como con una regla, si la narración dura más que el plano y si los cambios de música caen en los cortes."
+},
+{
+"key": "feature_storyboard.html#189",
+"es": "Hacer visibles la narración y el sonido — el storyboard de 3 carriles"
+},
+{
+"key": "feature_storyboard.html#190",
+"es": "IMAGEN"
+},
+{
+"key": "feature_storyboard.html#191",
+"es": "<span>ECU · gotas</span>"
+},
+{
+"key": "feature_storyboard.html#192",
+"es": "<span>MCU · toma la botella</span>"
+},
+{
+"key": "feature_storyboard.html#193",
+"es": "<span>CU · un sorbo</span>"
+},
+{
+"key": "feature_storyboard.html#194",
+"es": "<span>LS · mañana en la ciudad</span>"
+},
+{
+"key": "feature_storyboard.html#195",
+"es": "<span>ECU · sobre la mesa</span>"
+},
+{
+"key": "feature_storyboard.html#196",
+"es": "<span>MS · logo en CG</span>"
+},
+{
+"key": "feature_storyboard.html#197",
+"es": "VOZ"
+},
+{
+"key": "feature_storyboard.html#198",
+"es": "N Tu día empieza distinto"
+},
+{
+"key": "feature_storyboard.html#199",
+"es": "SYNC «Mmm.»"
+},
+{
+"key": "feature_storyboard.html#200",
+"es": "N Antes de que la ciudad despierte"
+},
+{
+"key": "feature_storyboard.html#201",
+"es": "N Hoy también, Nombre de marca"
+},
+{
+"key": "feature_storyboard.html#202",
+"es": "MUSIC"
+},
+{
+"key": "feature_storyboard.html#203",
+"es": "MUTE"
+},
+{
+"key": "feature_storyboard.html#204",
+"es": "♪ entra piano"
+},
+{
+"key": "feature_storyboard.html#205",
+"es": "ritmo"
+},
+{
+"key": "feature_storyboard.html#206",
+"es": "golpe final · fundido"
+},
+{
+"key": "feature_storyboard.html#207",
+"es": "SE"
+},
+{
+"key": "feature_storyboard.html#208",
+"es": "gotas"
+},
+{
+"key": "feature_storyboard.html#209",
+"es": "tapa"
+},
+{
+"key": "feature_storyboard.html#210",
+"es": "ATM ciudad"
+},
+{
+"key": "feature_storyboard.html#211",
+"es": "barrido"
+},
+{
+"key": "feature_storyboard.html#212",
+"es": "CAP"
+},
+{
+"key": "feature_storyboard.html#213",
+"es": "inicio del día"
+},
+{
+"key": "feature_storyboard.html#214",
+"es": "SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#215",
+"es": "<b>Lámina SB-7</b> Storyboard de tres carriles para un anuncio de 15 segundos en 6 planos. El ancho de la viñeta es tiempo — si la narración dura más que la viñeta, recórtala ahí mismo. Alinea los cambios de música con los límites de los planos."
+},
+{
+"key": "feature_storyboard.html#216",
+"es": "<b>3<em>car./s</em></b>Ritmo de la narración en coreano"
+},
+{
+"key": "feature_storyboard.html#217",
+"es": "<b>35–45<em>car.</em></b>Tope para un anuncio completo de 15 segundos"
+},
+{
+"key": "feature_storyboard.html#218",
+"es": "<b>150–180<em>car.</em></b>Tope para un video de 1 minuto"
+},
+{
+"key": "feature_storyboard.html#219",
+"es": "<b>0,5<em>s</em></b>Del inicio del plano a la primera sílaba"
+},
+{
+"key": "feature_storyboard.html#220",
+"es": "<small>DOBLE PÁGINA 09</small>Dibujar para que se lea — el set está oscuro y el lector, ocupado"
+},
+{
+"key": "feature_storyboard.html#221",
+"es": "Dibujar para que se lea"
+},
+{
+"key": "feature_storyboard.html#222",
+"es": "<b>✕ Una viñeta ilegible</b><span>Líneas grises finas · flechas de cuatro colores · texto diminuto · sin números</span>"
+},
+{
+"key": "feature_storyboard.html#223",
+"es": "<span>CUT 02</span><span class=\"sc\">S#1 Café · Día · INT</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#224",
+"es": "MCU · EYE · 50 mm · DOLLY IN lento · CUT TO"
+},
+{
+"key": "feature_storyboard.html#225",
+"es": "Acción: toma el producto · mirada al producto"
+},
+{
+"key": "feature_storyboard.html#226",
+"es": "N Tu día empieza distinto · SE tapa · M entra piano"
+},
+{
+"key": "feature_storyboard.html#227",
+"es": "<b>○ Una viñeta legible a 3 m</b><span>Tres tonos · flechas de un solo color · número y tiempo grandes · texto en dos líneas bajo la viñeta</span>"
+},
+{
+"key": "feature_storyboard.html#228",
+"es": "<b>Lámina SB-8</b> Misma información, distinta legibilidad. Un storyboard no es para un monitor: se clava en una pared del set y se lee a 3 m."
+},
+{
+"key": "feature_storyboard.html#229",
+"es": "<b>01</b><span><b>Dibuja en tres tonos.</b> Fondo (claro), segundo término (medio), personas/producto (oscuro). Tres valores muestran la forma; cinco hacen un cuadro: un storyboard no es un cuadro.</span>"
+},
+{
+"key": "feature_storyboard.html#230",
+"es": "<b>02</b><span><b>Solo dos grosores de línea.</b> Grueso para los contornos, fino para el detalle. Si todas las líneas pesan lo mismo, nada destaca.</span>"
+},
+{
+"key": "feature_storyboard.html#231",
+"es": "<b>03</b><span><b>Un color para las flechas; negro para el movimiento de los personajes.</b> Los movimientos de cámara, en un solo color: vino (o rojo). Con más de tres colores, la gente empieza a buscar la leyenda.</span>"
+},
+{
+"key": "feature_storyboard.html#232",
+"es": "<b>04</b><span><b>El número de plano y la duración son el texto más grande de la viñeta.</b> Lo que más se grita en el set es «¿qué plano?, ¿cuántos segundos?».</span>"
+},
+{
+"key": "feature_storyboard.html#233",
+"es": "<b>05</b><span><b>Nada de texto dentro del dibujo.</b> Marca subtítulos y logos solo con un recuadro punteado. Todo el texto va debajo de la viñeta.</span>"
+},
+{
+"key": "feature_storyboard.html#234",
+"es": "<b>06</b><span><b>Dos líneas de información bajo la viñeta.</b> Primera línea: medidas (SIZE · ANGLE · LENS · MOVE). Segunda: palabras y sonido (N · SYNC · M · SE). Nadie lee una tercera línea.</span>"
+},
+{
+"key": "feature_storyboard.html#235",
+"es": "<b>07</b><span><b>Texto de 11 pt como mínimo (en A4), 1/40 del ancho de la viñeta.</b> Dibuja pensando que se ampliará a A3 y se clavará en la pared.</span>"
+},
+{
+"key": "feature_storyboard.html#236",
+"es": "<b>08</b><span><b>Tamaño de la figura en el encuadre = tamaño de plano.</b> Si el tamaño de la figura cambia entre viñetas rotuladas MS, el storyboard miente. Hazte una regla de siluetas y úsala.</span>"
+},
+{
+"key": "feature_storyboard.html#237",
+"es": "<b>09</b><span><b>3–6 viñetas por fila, izquierda→derecha, arriba→abajo.</b> Las disposiciones en zigzag o en vertical siempre se leen en desorden en el set.</span>"
+},
+{
+"key": "feature_storyboard.html#238",
+"es": "<b>10</b><span><b>La leyenda ocupa la primera viñeta.</b> Relación de aspecto, resolución, clave de símbolos, versión y fecha van en la viñeta uno. En cuanto circulan dos versiones del storyboard, el rodaje está perdido.</span>"
+},
+{
+"key": "feature_storyboard.html#239",
+"es": "Buenas indicaciones de actuación"
+},
+{
+"key": "feature_storyboard.html#240",
+"es": "Separa la acción (verbos) de la emoción (adjetivos)"
+},
+{
+"key": "feature_storyboard.html#241",
+"es": "Escribe la conducta, no el resultado"
+},
+{
+"key": "feature_storyboard.html#242",
+"es": "Indica siempre la dirección de la mirada"
+},
+{
+"key": "feature_storyboard.html#243",
+"es": "p. ej. Levanta el producto y lleva la mirada a cámara"
+},
+{
+"key": "feature_storyboard.html#244",
+"es": "p. ej. Inspira una vez y sube solo las comisuras de los labios"
+},
+{
+"key": "feature_storyboard.html#245",
+"es": "Malas indicaciones de actuación"
+},
+{
+"key": "feature_storyboard.html#246",
+"es": "Pon cara de felicidad (sin criterio claro)"
+},
+{
+"key": "feature_storyboard.html#247",
+"es": "Sé natural (la indicación más irresponsable)"
+},
+{
+"key": "feature_storyboard.html#248",
+"es": "No te pongas nervioso (indicación en negativo)"
+},
+{
+"key": "feature_storyboard.html#249",
+"es": "Más sentimiento (nadie sabe qué significa)"
+},
+{
+"key": "feature_storyboard.html#250",
+"es": "Tú hazlo a tu manera (renunciar a dirigir)"
+}
+]

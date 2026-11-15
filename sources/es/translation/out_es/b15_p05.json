@@ -1,0 +1,602 @@
+[
+{
+"key": "part14a.html#84",
+"es": "Día de rodaje / plano / toma"
+},
+{
+"key": "part14a.html#85",
+"es": "02_AUDIO"
+},
+{
+"key": "part14a.html#86",
+"es": "D01_SC01_ROOMTONE.wav"
+},
+{
+"key": "part14a.html#87",
+"es": "Tono de sala separado del diálogo"
+},
+{
+"key": "part14a.html#88",
+"es": "03_GRAPHICS"
+},
+{
+"key": "part14a.html#89",
+"es": "LOGOTIPO_3D_v03.aep"
+},
+{
+"key": "part14a.html#90",
+"es": "Número de versión obligatorio"
+},
+{
+"key": "part14a.html#91",
+"es": "04_MUSIC"
+},
+{
+"key": "part14a.html#92",
+"es": "BGM_principal_licenciada.wav"
+},
+{
+"key": "part14a.html#93",
+"es": "Estado de la licencia en el nombre"
+},
+{
+"key": "part14a.html#94",
+"es": "05_EXPORT"
+},
+{
+"key": "part14a.html#95",
+"es": "SPOT15_v05_20260315.mp4"
+},
+{
+"key": "part14a.html#96",
+"es": "Versión y fecha"
+},
+{
+"key": "part14a.html#97",
+"es": "06_DOCS"
+},
+{
+"key": "part14a.html#98",
+"es": "PPM_final_firmado.pdf"
+},
+{
+"key": "part14a.html#99",
+"es": "Guardar los documentos de aprobación"
+},
+{
+"key": "part14a.html#100",
+"es": "<b>Apéndice</b>Documentos de rodaje"
+},
+{
+"key": "part14a.html#101",
+"es": "Lista de comprobación legal y de seguridad"
+},
+{
+"key": "part14a.html#102",
+"es": "Los accidentes y las disputas solo pueden evitarse antes del rodaje."
+},
+{
+"key": "part14a.html#103",
+"es": "<b>Nota</b>"
+},
+{
+"key": "part14a.html#104",
+"es": "Las normas de vuelo de drones y los trámites de permisos de rodaje varían según la zona y con el tiempo. Al planificar, consulta tú mismo los requisitos vigentes de la autoridad competente."
+},
+{
+"key": "part14a.html#105",
+"es": "Ámbito"
+},
+{
+"key": "part14a.html#106",
+"es": "Qué comprobar"
+},
+{
+"key": "part14a.html#107",
+"es": "Seguridad eléctrica"
+},
+{
+"key": "part14a.html#108",
+"es": "Comprobar la carga de las regletas, alejar las luces de materiales inflamables, no manipular con las manos mojadas, fijar con cinta los cables que cruzan zonas de paso"
+},
+{
+"key": "part14a.html#109",
+"es": "Seguridad del equipo"
+},
+{
+"key": "part14a.html#110",
+"es": "Sacos de arena en cada trípode de luz, doble sujeción del equipo montado en altura, patas del trípode bien abiertas"
+},
+{
+"key": "part14a.html#111",
+"es": "Seguridad del elenco y el equipo"
+},
+{
+"key": "part14a.html#112",
+"es": "Descansos en rodajes largos, mínima espera bajo focos calientes, nada de acrobacias peligrosas"
+},
+{
+"key": "part14a.html#113",
+"es": "Uso de drones"
+},
+{
+"key": "part14a.html#114",
+"es": "Comprobar el espacio aéreo permitido, obtener autorización previa, no volar sobre multitudes, confirmar la licencia del piloto"
+},
+{
+"key": "part14a.html#115",
+"es": "Derechos de imagen"
+},
+{
+"key": "part14a.html#116",
+"es": "Cesiones de imagen por escrito, difuminar rostros de transeúntes, consentimiento del tutor para menores"
+},
+{
+"key": "part14a.html#117",
+"es": "Locaciones y marcas"
+},
+{
+"key": "part14a.html#118",
+"es": "Obtener permisos de locación, controlar logotipos y letreros de otras marcas en cuadro, gestionar los derechos de la música que suene en interiores"
+},
+{
+"key": "part14a.html#119",
+"es": "<b>Apéndice</b>Documentos de rodaje"
+},
+{
+"key": "part14a.html#120",
+"es": "Lista de comprobación de posproducción y entrega"
+},
+{
+"key": "part14a.html#121",
+"es": "Comprueba dos veces: antes de exportar y antes de enviar."
+},
+{
+"key": "part14a.html#122",
+"es": "Comprobaciones de posproducción"
+},
+{
+"key": "part14a.html#123",
+"es": "Comprobaciones de entrega"
+},
+{
+"key": "part14a.html#124",
+"es": "Color y brillo igualados en todos los planos"
+},
+{
+"key": "part14a.html#125",
+"es": "Cumple las especificaciones exigidas (resolución, fps, códec)"
+},
+{
+"key": "part14a.html#126",
+"es": "Los elementos compuestos tienen grano y sombras"
+},
+{
+"key": "part14a.html#127",
+"es": "Duración exacta"
+},
+{
+"key": "part14a.html#128",
+"es": "Subtítulos revisados: erratas y ortografía"
+},
+{
+"key": "part14a.html#129",
+"es": "Reglas de nombres de archivo cumplidas"
+},
+{
+"key": "part14a.html#130",
+"es": "Subtítulos dentro de la zona segura"
+},
+{
+"key": "part14a.html#131",
+"es": "Reproducción comprobada en otro dispositivo"
+},
+{
+"key": "part14a.html#132",
+"es": "Sonoridad uniforme, sin picos"
+},
+{
+"key": "part14a.html#133",
+"es": "Justificante de licencias de música y fuentes adjunto"
+},
+{
+"key": "part14a.html#134",
+"es": "Sin cuadros negros al principio ni al final"
+},
+{
+"key": "part14a.html#135",
+"es": "Archivos de proyecto y originales con copia de seguridad"
+},
+{
+"key": "part14a.html#136",
+"es": "Métodos de revisión final"
+},
+{
+"key": "part14a.html#137",
+"es": "Método"
+},
+{
+"key": "part14a.html#138",
+"es": "Qué comprueba"
+},
+{
+"key": "part14a.html#139",
+"es": "Reproducir en un smartphone"
+},
+{
+"key": "part14a.html#140",
+"es": "Legibilidad de subtítulos y logotipo en pantalla pequeña"
+},
+{
+"key": "part14a.html#141",
+"es": "Reproducir sin sonido"
+},
+{
+"key": "part14a.html#142",
+"es": "El mensaje llega sin sonido"
+},
+{
+"key": "part14a.html#143",
+"es": "1 pase para alguien que lo ve por primera vez"
+},
+{
+"key": "part14a.html#144",
+"es": "Sabe decir enseguida de qué trata"
+},
+{
+"key": "part14a.html#145",
+"es": "Reproducir a velocidad ×1,5"
+},
+{
+"key": "part14a.html#146",
+"es": "Detectar dónde decae el ritmo"
+},
+{
+"key": "part14a.html#147",
+"es": "Reproducir en blanco y negro"
+},
+{
+"key": "part14a.html#148",
+"es": "Comprobar el contraste y el recorrido de la mirada"
+},
+{
+"key": "part14a.html#149",
+"es": "<b>Apéndice</b>Documentos de rodaje"
+},
+{
+"key": "part14a.html#150",
+"es": "Glosario de términos de video"
+},
+{
+"key": "part14a.html#151",
+"es": "Términos clave del texto, en orden alfabético coreano."
+},
+{
+"key": "part14a.html#152",
+"es": "Término"
+},
+{
+"key": "part14a.html#153",
+"es": "Significado"
+},
+{
+"key": "part14a.html#154",
+"es": "Máscara de descarte (garbage matte)"
+},
+{
+"key": "part14a.html#155",
+"es": "Enmascarar las zonas innecesarias antes de la incrustación"
+},
+{
+"key": "part14a.html#156",
+"es": "Gamma"
+},
+{
+"key": "part14a.html#157",
+"es": "Valor que ajusta el brillo de los tonos medios"
+},
+{
+"key": "part14a.html#158",
+"es": "Ganancia"
+},
+{
+"key": "part14a.html#159",
+"es": "Brillo de las altas luces, o grado de amplificación de la señal"
+},
+{
+"key": "part14a.html#160",
+"es": "Grano"
+},
+{
+"key": "part14a.html#161",
+"es": "Ruido que imita el grano de la película"
+},
+{
+"key": "part14a.html#162",
+"es": "Rango dinámico"
+},
+{
+"key": "part14a.html#163",
+"es": "Rango de brillo que se puede registrar"
+},
+{
+"key": "part14a.html#164",
+"es": "Fundido encadenado"
+},
+{
+"key": "part14a.html#165",
+"es": "Transición en la que dos imágenes se superponen"
+},
+{
+"key": "part14a.html#166",
+"es": "Log"
+},
+{
+"key": "part14a.html#167",
+"es": "Grabación que comprime un rango de brillo amplio"
+},
+{
+"key": "part14a.html#168",
+"es": "Rotoscopia"
+},
+{
+"key": "part14a.html#169",
+"es": "Trazar contornos cuadro a cuadro para separar un sujeto"
+},
+{
+"key": "part14a.html#170",
+"es": "Tabla de consulta (LUT)"
+},
+{
+"key": "part14a.html#171",
+"es": "Tabla de conversión de color"
+},
+{
+"key": "part14a.html#172",
+"es": "Tono de sala"
+},
+{
+"key": "part14a.html#173",
+"es": "Grabación del silencio de una locación"
+},
+{
+"key": "part14a.html#174",
+"es": "Aire de movimiento"
+},
+{
+"key": "part14a.html#175",
+"es": "Espacio por delante de un sujeto en movimiento"
+},
+{
+"key": "part14a.html#176",
+"es": "Máster"
+},
+{
+"key": "part14a.html#177",
+"es": "Archivo original final"
+},
+{
+"key": "part14a.html#178",
+"es": "Matchmoving"
+},
+{
+"key": "part14a.html#179",
+"es": "Recuperar el movimiento de cámara para integrar elementos 3D"
+},
+{
+"key": "part14a.html#180",
+"es": "Puesta en escena"
+},
+{
+"key": "part14a.html#181",
+"es": "Disposición de todo lo que hay en el cuadro"
+},
+{
+"key": "part14a.html#182",
+"es": "Contraluz"
+},
+{
+"key": "part14a.html#183",
+"es": "Luz desde detrás del sujeto que lo perfila"
+},
+{
+"key": "part14a.html#184",
+"es": "Bokeh"
+},
+{
+"key": "part14a.html#185",
+"es": "El aspecto del desenfoque"
+},
+{
+"key": "part14a.html#186",
+"es": "Zona segura"
+},
+{
+"key": "part14a.html#187",
+"es": "Parte del cuadro que no se recortará"
+},
+{
+"key": "part14a.html#188",
+"es": "Ángulo de obturación"
+},
+{
+"key": "part14a.html#189",
+"es": "Tiempo de exposición por cuadro expresado como ángulo"
+},
+{
+"key": "part14a.html#190",
+"es": "Derrame (spill)"
+},
+{
+"key": "part14a.html#191",
+"es": "Color de la incrustación que contamina al sujeto"
+},
+{
+"key": "part14a.html#192",
+"es": "Secuencia"
+},
+{
+"key": "part14a.html#193",
+"es": "Grupo de escenas con un mismo propósito"
+},
+{
+"key": "part14a.html#194",
+"es": "Ambisonics"
+},
+{
+"key": "part14a.html#195",
+"es": "Formato de grabación de audio espacial de 360 grados"
+},
+{
+"key": "part14a.html#196",
+"es": "Plano de situación"
+},
+{
+"key": "part14a.html#197",
+"es": "Plano inicial que muestra dónde ocurre una escena y qué pasa"
+},
+{
+"key": "part14a.html#198",
+"es": "Overcranking"
+},
+{
+"key": "part14a.html#199",
+"es": "Rodaje a alta velocidad, para cámara lenta"
+},
+{
+"key": "part14a.html#200",
+"es": "Inserto"
+},
+{
+"key": "part14a.html#201",
+"es": "Plano de apoyo que muestra un detalle de cerca"
+},
+{
+"key": "part14a.html#202",
+"es": "Corte en salto (jump cut)"
+},
+{
+"key": "part14a.html#203",
+"es": "Corte que salta en el tiempo dentro del mismo encuadre"
+},
+{
+"key": "part14a.html#204",
+"es": "Relación de iluminación"
+},
+{
+"key": "part14a.html#205",
+"es": "Relación de brillo entre la luz principal y la de relleno"
+},
+{
+"key": "part14a.html#206",
+"es": "Cobertura"
+},
+{
+"key": "part14a.html#207",
+"es": "Grado en que una escena se rueda en varios tamaños y ángulos"
+},
+{
+"key": "part14a.html#208",
+"es": "Continuidad"
+},
+{
+"key": "part14a.html#209",
+"es": "Coherencia de un plano a otro"
+},
+{
+"key": "part14a.html#210",
+"es": "Submuestreo de croma"
+},
+{
+"key": "part14a.html#211",
+"es": "Compresión que registra menos información de color"
+},
+{
+"key": "part14a.html#212",
+"es": "Fotograma clave"
+},
+{
+"key": "part14a.html#213",
+"es": "Marca el punto en que cambia un valor"
+},
+{
+"key": "part14a.html#214",
+"es": "Código de tiempo"
+},
+{
+"key": "part14a.html#215",
+"es": "Posición escrita como horas:minutos:segundos:cuadros"
+},
+{
+"key": "part14a.html#216",
+"es": "Mate de seguimiento"
+},
+{
+"key": "part14a.html#217",
+"es": "Recorta una capa con la forma de otra"
+},
+{
+"key": "part14a.html#218",
+"es": "Fenómeno phi"
+},
+{
+"key": "part14a.html#219",
+"es": "El cerebro rellena con movimiento los huecos entre imágenes fijas"
+},
+{
+"key": "part14a.html#220",
+"es": "Proxy"
+},
+{
+"key": "part14a.html#221",
+"es": "Archivo ligero sustituto para editar"
+},
+{
+"key": "part14a.html#222",
+"es": "Precomponer"
+},
+{
+"key": "part14a.html#223",
+"es": "Agrupa varias capas en una"
+},
+{
+"key": "part14a.html#224",
+"es": "Luz de relleno"
+},
+{
+"key": "part14a.html#225",
+"es": "Luz secundaria que controla la profundidad de las sombras"
+},
+{
+"key": "part14a.html#226",
+"es": "Aire sobre la cabeza"
+},
+{
+"key": "part14a.html#227",
+"es": "Espacio por encima de la cabeza"
+},
+{
+"key": "part14a.html#228",
+"es": "Balance de blancos"
+},
+{
+"key": "part14a.html#229",
+"es": "Ajuste de la referencia de temperatura de color"
+},
+{
+"key": "part14a.html#230",
+"es": "<b>Apéndice</b>Documentos de rodaje"
+},
+{
+"key": "part14a.html#231",
+"es": "Atajos de teclado"
+},
+{
+"key": "part14a.html#232",
+"es": "Pégalo junto al monitor hasta que tus manos lo recuerden."
+},
+{
+"key": "part14a.html#233",
+"es": "Premiere Pro"
+}
+]

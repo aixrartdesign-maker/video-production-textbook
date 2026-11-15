@@ -1,0 +1,7 @@
+[
+{"key": "part07.html#297", "find": "Mantén lo importante a ±60° del frente", "replace": "Mantén lo importante dentro de ±60° del frente", "why": "meaning: 'within ±60°', not 'at ±60°'"},
+{"key": "part07.html#329", "find": "Reconoce una imagen fijada y reproduce", "replace": "Reconoce una imagen predefinida y reproduce", "why": "other: unnatural calque of 'set image'"},
+{"key": "part07.html#754", "find": "Fija primero el tipo y el perfil", "replace": "Fija primero el tipo, y el perfil", "why": "grammar: comma avoids misreading 'fix the type and the outline'"},
+{"key": "part07.html#899", "find": "abren aulas magnas ·", "replace": "abren aulas ·", "why": "meaning: 'lecture halls' are not 'aulas magnas' (ceremonial halls)"},
+{"key": "part08.html#8", "find": "imagen generativa", "replace": "imagen generada", "why": "term: consistent with 'Imágenes generadas' elsewhere"}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#1114",
+"es": "<b>REVELACIÓN</b><span>Subir desde detrás de una loma · un edificio para descubrir la vista — aperturas</span>"
+},
+{
+"key": "part03.html#1115",
+"es": "<b>CENITAL</b><span>Vertical a 90°, desde arriba — patrones y gráfica, escala</span>"
+},
+{
+"key": "part03.html#1116",
+"es": "<b>DRONIE</b><span>Alejarse hacia atrás · arriba de una persona — «estoy aquí»</span>"
+},
+{
+"key": "part03.html#1117",
+"es": "<b>VUELO A TRAVÉS FPV</b><span>Atravesar arcos · ventanas · huecos — velocidad, primera persona</span>"
+},
+{
+"key": "part03.html#1118",
+"es": "<b>SEGUIMIENTO</b><span>Volar junto a un coche · una persona en marcha — persecución, viaje</span>"
+},
+{
+"key": "part03.html#1119",
+"es": "Un dron no es un «trípode alto». Se vuela por los seis movimientos que una cámara en tierra no puede hacer. <b>Un</b> movimiento por plano, a velocidad constante y con 2 segundos de pausa al principio y al final."
+},
+{
+"key": "part03.html#1120",
+"es": "<b>Fig. 29-1</b> Seis movimientos de cámara exclusivos del dron — órbita · revelación · cenital · dronie · vuelo a través · seguimiento."
+},
+{
+"key": "part03.html#1121",
+"es": "<small>Ejercicio</small>3.14"
+},
+{
+"key": "part03.html#1122",
+"es": "Tarea"
+},
+{
+"key": "part03.html#1123",
+"es": "Planifica un retrato a contraluz con filtro ND y un plano de apertura desde un dron (o desde un punto elevado)."
+},
+{
+"key": "part03.html#1124",
+"es": "Consejo"
+},
+{
+"key": "part03.html#1125",
+"es": "Con drones, comprueba siempre primero las zonas de exclusión aérea y los permisos necesarios."
+},
+{
+"key": "part03.html#1126",
+"es": "Evaluación"
+},
+{
+"key": "part03.html#1127",
+"es": "Propósito del uso del filtro; registro de las comprobaciones de seguridad · legales"
+},
+{
+"key": "part03.html#1128",
+"es": "Respuesta modelo"
+},
+{
+"key": "part03.html#1129",
+"es": "Diseña el plano de dron para mostrar la escala del lugar y luego ciérralo sobre la persona."
+},
+{
+"key": "part03.html#1130",
+"es": "Cierre de la PARTE 03"
+},
+{
+"key": "part03.html#1131",
+"es": "Ejercicios y repaso"
+},
+{
+"key": "part03.html#1132",
+"es": "<b>F2,0 y F8</b>Graba la misma escena con ambos diafragmas, compara el desenfoque del fondo y anota qué ajustaste para igualar la exposición."
+},
+{
+"key": "part03.html#1133",
+"es": "<b>WB automático y fijo en 5600 K</b>Graba 1 minuto de cada uno junto a una ventana interior y observa cómo cambia el color."
+},
+{
+"key": "part03.html#1134",
+"es": "<b>24 · 60 · 120 fps</b>Graba la misma acción, ponla en una línea de tiempo de 24 fps y compara las velocidades."
+},
+{
+"key": "part03.html#1135",
+"es": "<b>El ISO base de tu cámara</b>Busca el ISO base y el ISO base dual en la documentación del fabricante y anótalos."
+},
+{
+"key": "part03.html#1136",
+"es": "Resumen en una página"
+},
+{
+"key": "part03.html#1137",
+"es": "3.2 Elegir una cámara"
+},
+{
+"key": "part03.html#1138",
+"es": "Si se mueve, estabilización; si está oscuro, sensor grande; si vas a recortar, alta resolución."
+},
+{
+"key": "part03.html#1139",
+"es": "3.3 Sensor y ángulo de visión"
+},
+{
+"key": "part03.html#1140",
+"es": "50 mm en APS-C equivalen a 75 mm en formato completo. Cuanto mayor el sensor, menor la profundidad de campo."
+},
+{
+"key": "part03.html#1141",
+"es": "3.4 La psicología de los objetivos"
+},
+{
+"key": "part03.html#1142",
+"es": "La perspectiva la cambia la posición de la cámara, no el objetivo."
+},
+{
+"key": "part03.html#1143",
+"es": "3.5 El triángulo de exposición"
+},
+{
+"key": "part03.html#1144",
+"es": "Bloquea la obturación, bloquea el ISO en el valor base, modela con el diafragma y resuelve el brillo sobrante con ND e iluminación."
+},
+{
+"key": "part03.html#1145",
+"es": "3.7 Resolución"
+},
+{
+"key": "part03.html#1146",
+"es": "Graba en 4K aunque la salida final sea FHD. Los píxeles de sobra son libertad en la edición."
+},
+{
+"key": "part03.html#1147",
+"es": "3.8 Ángulo de obturación"
+},
+{
+"key": "part03.html#1148",
+"es": "Una obturación de 180° es el doble de la frecuencia de cuadro: 1/120 a 60p, 1/240 a 120p. Las frecuencias altas exigen más luz en proporción."
+},
+{
+"key": "part03.html#1149",
+"es": "3.9 Balance de blancos"
+},
+{
+"key": "part03.html#1150",
+"es": "La exposición y el balance de blancos automáticos hacen imposible unir los planos. Bloquéalos siempre a mano."
+},
+{
+"key": "part03.html#1151",
+"es": "3.10 Códecs y Log"
+},
+{
+"key": "part03.html#1152",
+"es": "Los bordes del chroma key aguantan con 4:2:2 o superior. Es el único rodaje en el que no se aconseja el Log."
+},
+{
+"key": "part03.html#1153",
+"es": "3.11 Soporte de cámara"
+},
+{
+"key": "part03.html#1154",
+"es": "Trípode → slider → gimbal. Un trípode con luz gana a un gimbal sin luz."
+},
+{
+"key": "part03.html#1155",
+"es": "3.13 Smartphones"
+},
+{
+"key": "part03.html#1156",
+"es": "Estabiliza, acércate, busca la luz, limpia el objetivo, graba el sonido aparte."
+},
+{
+"key": "part03.html#1157",
+"es": "Preguntas para pensar"
+},
+{
+"key": "part03.html#1158",
+"es": "¿Por qué en video no debe usarse la obturación para controlar la exposición?"
+},
+{
+"key": "part03.html#1159",
+"es": "La obturación está ligada a la regla de los 180° y define la textura del desenfoque de movimiento; trátala como un valor fijo."
+},
+{
+"key": "part03.html#1160",
+"es": "¿Cuál es la diferencia en pasos entre ND8 y ND64?"
+},
+{
+"key": "part03.html#1161",
+"es": "ND8 reduce 3 pasos; ND64, 6 pasos, y ND1000, 10 pasos."
+},
+{
+"key": "part03.html#1162",
+"es": "¿Por qué un códec 4:2:0 es malo para el chroma key?"
+},
+{
+"key": "part03.html#1163",
+"es": "Con solo 1/4 de la información de color, los bordes recortados salen dentados."
+},
+{
+"key": "part03.html#1164",
+"es": "¿Por qué grabar el Log algo más claro?"
+},
+{
+"key": "part03.html#1165",
+"es": "El Log es vulnerable a la subexposición: grabar más claro y bajarlo en posproducción reduce el ruido."
+},
+{
+"key": "part03.html#1166",
+"es": "¿Cuándo es obligatorio grabar en 4K para una salida final en FHD y cuándo no?"
+},
+{
+"key": "part03.html#1167",
+"es": "Si prevés reencuadre, estabilización o una versión vertical, el 4K es obligatorio. Deduce por tu cuenta los casos en que no lo es."
+},
+{
+"key": "part03.html#1168",
+"es": "Consejos de rodaje"
+},
+{
+"key": "part03.html#1169",
+"es": "El día antes del rodaje, cuenta las tarjetas y las baterías y fotografíalas. Es tu prueba cuando alguien diga en el set que falta algo."
+},
+{
+"key": "part03.html#1170",
+"es": "Comprueba el foco con la ampliación antes de que dirección revise el encuadre. Un plano desenfocado solo se arregla repitiéndolo."
+},
+{
+"key": "part03.html#1171",
+"es": "Cuando alquiles equipo, fotografía su estado al devolverlo. El 90 % de las disputas por daños terminan con esa foto."
+},
+{
+"key": "part04.html#0",
+"es": "PARTE"
+},
+{
+"key": "part04.html#1",
+"es": "<small>PARTE</small>04"
+},
+{
+"key": "part04.html#2",
+"es": "<b>Lo que harás en esta PARTE</b>"
+},
+{
+"key": "part04.html#3",
+"es": "Un retrato iluminado con una sola luz principal"
+},
+{
+"key": "part04.html#4",
+"es": "2 carteles: clave alta · clave baja"
+},
+{
+"key": "part04.html#5",
+"es": "Una grabación limpia con 30 segundos de tono de sala"
+},
+{
+"key": "part04.html#6",
+"es": "Iluminación y sonido"
+},
+{
+"key": "part04.html#7",
+"es": "¿Cómo nos conmueven la luz y el sonido? La iluminación y el sonido son las dos áreas más infravaloradas y, sin embargo, las que más determinan el resultado. Una ventana, un cartón pluma blanco y un micrófono a menos de 30 centímetros de la boca hacen desaparecer la mitad de los problemas. Esta PARTE enseña no solo a añadir luz, sino también a quitarla."
+},
+{
+"key": "part04.html#8",
+"es": "Foto P-04 Un jefe de eléctricos monta las luces y un técnico de sonido sostiene un micrófono de pértiga · imagen generativa"
+},
+{
+"key": "part04.html#9",
+"es": "<b>P-04</b> Un jefe de eléctricos monta las luces y un técnico de sonido sostiene un micrófono de pértiga"
+},
+{
+"key": "part04.html#10",
+"es": "Cómo usar este capítulo en clase"
+},
+{
+"key": "part04.html#11",
+"es": "Iluminar a una persona con una sola luz principal y grabar un sonido limpio"
+},
+{
+"key": "part04.html#12",
+"es": "<b>Materiales</b>Una luz LED o una ventana, reflector, bandera negra, micrófono externo"
+},
+{
+"key": "part04.html#13",
+"es": "<b>10 min</b><i>Inicio</i><span>Comparar un plano sin iluminar con otro con una luz principal</span>"
+},
+{
+"key": "part04.html#14",
+"es": "<b>15 min</b><i>Conceptos</i><span>5 propiedades de la luz, 6 principios de la luz principal, relación de iluminación</span>"
+},
+{
+"key": "part04.html#15",
+"es": "<b>10 min</b><i>Láminas</i><span>Leer la forma de las sombras en los 6 esquemas de iluminación de retrato</span>"
+},
+{
+"key": "part04.html#16",
+"es": "<b>10 min</b><i>Ejercicio</i><span>Crear iluminación Rembrandt y dividida con una sola luz; grabar 30 segundos de tono de sala</span>"
+},
+{
+"key": "part04.html#17",
+"es": "<b>5 min</b><i>Cierre</i><span>Normas de seguridad y materiales de chroma key para la próxima sesión</span>"
+},
+{
+"key": "part04.html#18",
+"es": "<b>Punto de control</b>Dirección y densidad de la sombra controladas a propósito"
+},
+{
+"key": "part04.html#19",
+"es": "PARTE 04"
+},
+{
+"key": "part04.html#20",
+"es": "Introducción"
+},
+{
+"key": "part04.html#21",
+"es": "La iluminación y el sonido son las dos áreas más infravaloradas y, sin embargo, las que más determinan el resultado. El espectador aguanta hasta el final una imagen algo blanda, pero abandona en 3 segundos un video que suena turbio. Una entrevista con el rostro oscuro parece trabajo de aficionado, por bueno que sea el contenido."
+},
+{
+"key": "part04.html#22",
+"es": "Por suerte, en ambas áreas cuenta más entender que gastar. Una ventana y un cartón pluma blanco resuelven la mitad de la iluminación de retrato, y acercar el micrófono a menos de 30 centímetros de la boca elimina casi todos los problemas de sonido. El equipo barato de cerca siempre gana al equipo caro de lejos."
+},
+{
+"key": "part04.html#23",
+"es": "Esta parte enseña no solo a añadir luz, sino también a quitarla. La mitad de la iluminación en clave baja consiste en robar luz con tela negra, y la mitad de una buena grabación, en apagar las fuentes de ruido. Diseñar la iluminación no es el oficio de aclarar, sino el de decidir dónde dejar la oscuridad."
+},
+{
+"key": "part04.html#24",
+"es": "Contexto 5"
+},
+{
+"key": "part04.html#25",
+"es": "Historia estética de la luz — del claroscuro a la luz natural"
+},
+{
+"key": "part04.html#26",
+"es": "El lenguaje de la iluminación cinematográfica nació en los lienzos de los pintores. En la Italia de finales del siglo XVI, Caravaggio pintó escenas dramáticas revelando solo una parte de la figura con una luz intensa sobre la oscuridad. Ese fuerte contraste de luz y sombra se llama claroscuro, y su forma extrema, tenebrismo. En la Holanda del siglo XVII, Rembrandt amaba los retratos en los que la luz lateral deja un pequeño triángulo en la mejilla en sombra, y en los sets de hoy esa iluminación lleva su nombre."
+},
+{
+"key": "part04.html#27",
+"es": "La película expresionista alemana de 1920 El gabinete del doctor Caligari trató la luz y la sombra como un lenguaje de la psique, hasta pintar las sombras directamente en los decorados. Con la emigración de los cineastas alemanes en las décadas de 1930 y 1940, esta estética cruzó a Hollywood y pasó a la iluminación en clave baja del cine negro y a sus sombras de persiana que caen como barrotes de cárcel. En 1949, el director de fotografía John Alton describió la iluminación en Painting with Light como un medio de expresión y no como una técnica."
+},
+{
+"key": "part04.html#28",
+"es": "Al mismo tiempo, el sistema de estudios fijó el estándar para embellecer a las estrellas. La iluminación de tres puntos (luz principal, luz de relleno y contraluz) se convirtió en la fórmula para separar a la persona del fondo y modelar el rostro con fiabilidad, y sigue siendo la base de entrevistas y rodajes publicitarios. El neorrealismo italiano y la Nouvelle Vague francesa, en cambio, sacaron a la calle cámaras ligeras y película rápida, rodaron con luz natural y prefirieron el realismo a la belleza artificial."
+},
+{
+"key": "part04.html#29",
+"es": "Los directores de fotografía de hoy construyen su propio lenguaje entre estas dos tradiciones. Vittorio Storaro dio a la luz y al color un significado simbólico, mientras que a Roger Deakins se le conoce por un naturalismo que diseña la luz a partir de fuentes que podrían existir en la escena, como ventanas o lámparas. Los sensores digitales y las luces LED permiten rodar con menos luz, pero los principios que rigen la dirección, la calidad y el contraste no han cambiado."
+},
+{
+"key": "part04.html#30",
+"es": "Al aprender iluminación, recuerda que toda luz tiene una motivación. ¿De dónde viene esta luz? ¿Por qué esta dirección? ¿Qué siente el público con ella? Los esquemas de iluminación y el equipo del capítulo 4 son herramientas para responder a estas preguntas."
+},
+{
+"key": "part04.html#31",
+"es": "Lecturas recomendadas — John Alton, Painting with Light · Blain Brown, Motion Picture and Video Lighting · E. H. Gombrich, The Story of Art"
+},
+{
+"key": "part04.html#32",
+"es": "<b>PARTE 04</b>Iluminación y sonido"
+},
+{
+"key": "part04.html#33",
+"es": "Cinco propiedades de la luz"
+},
+{
+"key": "part04.html#34",
+"es": "Para trabajar con la luz, primero hay que saber nombrarla con cinco palabras. Calidad · dirección · color · intensidad · contraste, y movimiento."
+},
+{
+"key": "part04.html#35",
+"es": "Al doble de distancia, la luz cubre cuatro veces el área"
+},
+{
+"key": "part04.html#36",
+"es": "<b>Escenario — bajo un foco</b><span>Blanco a los pies, oscuro a dos pasos. Si el actor se desvía medio paso, el rostro se oscurece</span>"
+},
+{
+"key": "part04.html#37",
+"es": "<b>Carretera de noche — los faros</b><span>Los primeros 10 m se ven claros; después la luz cae deprisa. La luz cercana decae con brusquedad</span>"
+},
+{
+"key": "part04.html#38",
+"es": "<b>Habitación — luz de ventana</b><span>Varios pasos de diferencia entre la ventana y el fondo de la habitación. Pon a la persona junto a la ventana y el fondo se oscurece</span>"
+},
+{
+"key": "part04.html#39",
+"es": "Fuente"
+},
+{
+"key": "part04.html#40",
+"es": "<b>Doble distancia → 1/4 del brillo</b><span>Porque la misma luz cubre cuatro veces el área</span><span>La luz cercana decae con brusquedad; la lejana, con suavidad</span><b>Cómo usarlo en el set</b><span>Fondo oscuro: luz cerca de la persona (el fondo cae deprisa)</span><span>Persona y fondo iguales: luz lejos, más potencia</span><span>Sujeto en movimiento: luz lejos; un paso o dos no harán saltar el brillo</span>"
+},
+{
+"key": "part04.html#41",
+"es": "<b>Fig. 38</b> La ley del inverso del cuadrado — al doble de distancia, la luz cubre cuatro veces el área y baja a 1/4. La misma ley que ves en escenarios · carreteras · junto a las ventanas."
+},
+{
+"key": "part04.html#42",
+"es": "<b>Término</b>"
+},
+{
+"key": "part04.html#43",
+"es": "La luz dura proyecta sombras de borde nítido; la luz suave, sombras delicadas. Cuanto más grande y cercana la fuente, más suave la luz."
+},
+{
+"key": "part04.html#44",
+"es": "<small>Quality</small>Calidad"
+},
+{
+"key": "part04.html#45",
+"es": "Dura: nítida y dramática"
+},
+{
+"key": "part04.html#46",
+"es": "Suave: delicada y favorecedora"
+},
+{
+"key": "part04.html#47",
+"es": "Las fuentes grandes y cercanas son más suaves"
+},
+{
+"key": "part04.html#48",
+"es": "<small>Direction</small>Dirección"
+},
+{
+"key": "part04.html#49",
+"es": "Frontal · lateral · trasera · cenital · inferior"
+},
+{
+"key": "part04.html#50",
+"es": "La dirección crea la forma"
+},
+{
+"key": "part04.html#51",
+"es": "La luz lateral es la que mejor revela la textura"
+},
+{
+"key": "part04.html#52",
+"es": "<small>Color</small>Color"
+},
+{
+"key": "part04.html#53",
+"es": "Temperatura de color y tinte"
+},
+{
+"key": "part04.html#54",
+"es": "Cálido · frío marcan la hora del día y el ambiente"
+},
+{
+"key": "part04.html#55",
+"es": "Unifica siempre la luz mixta"
+},
+{
+"key": "part04.html#56",
+"es": "<small>Intensity</small>Intensidad"
+},
+{
+"key": "part04.html#57",
+"es": "Cantidad de luz"
+},
+{
+"key": "part04.html#58",
+"es": "Inversamente proporcional al cuadrado de la distancia"
+},
+{
+"key": "part04.html#59",
+"es": "Al doble de distancia, 1/4 de la luz"
+},
+{
+"key": "part04.html#60",
+"es": "<small>Contrast</small>Contraste"
+},
+{
+"key": "part04.html#61",
+"es": "Proporción entre claro y oscuro"
+},
+{
+"key": "part04.html#62",
+"es": "La relación de iluminación marca el género y la emoción"
+},
+{
+"key": "part04.html#63",
+"es": "<small>Movement</small>Movimiento"
+},
+{
+"key": "part04.html#64",
+"es": "Si la luz cambia o no"
+},
+{
+"key": "part04.html#65",
+"es": "Parpadeo · paso · reflejo en movimiento dan vida al encuadre"
+},
+{
+"key": "part04.html#66",
+"es": "La ley del inverso del cuadrado en la práctica"
+},
+{
+"key": "part04.html#67",
+"es": "Pon la luz cerca de la persona y el fondo se oscurece de golpe; ponla lejos y persona y fondo quedan con un brillo parecido. Para hundir el fondo en la oscuridad no compres más luces: acerca la fuente a la persona."
+},
+{
+"key": "part04.html#68",
+"es": "<small>Ejercicio</small>4.1"
+},
+{
+"key": "part04.html#69",
+"es": "Tarea"
+},
+{
+"key": "part04.html#70",
+"es": "Fotografía el mismo rostro con luz dura y suave, y con la fuente alta y baja, y compara las propiedades de la luz."
+},
+{
+"key": "part04.html#71",
+"es": "Consejo"
+},
+{
+"key": "part04.html#72",
+"es": "El tamaño de la fuente (en relación con el sujeto) determina la suavidad."
+},
+{
+"key": "part04.html#73",
+"es": "Evaluación"
+},
+{
+"key": "part04.html#74",
+"es": "Distinguir y explicar dirección · calidad · color · intensidad · movimiento de la luz"
+},
+{
+"key": "part04.html#75",
+"es": "Respuesta modelo"
+},
+{
+"key": "part04.html#76",
+"es": "Dibuja un esquema de iluminación junto a cada foto para vincular causa y efecto."
+},
+{
+"key": "part04.html#77",
+"es": "<b>PARTE 04</b>Iluminación y sonido"
+},
+{
+"key": "part04.html#78",
+"es": "Iluminación de tres puntos y sus variantes"
+},
+{
+"key": "part04.html#79",
+"es": "Conoce el papel de las tres luces (principal · relleno · contraluz) y verás la fórmula para iluminar personas. Las luces de fondo y de ojos la amplían."
+},
+{
+"key": "part04.html#80",
+"es": "Primero la principal, el relleno doma la sombra, el contraluz separa"
+},
+{
+"key": "part04.html#81",
+"es": "Fondo"
+},
+{
+"key": "part04.html#82",
+"es": "Sujeto"
+},
+{
+"key": "part04.html#83",
+"es": "Cámara"
+},
+{
+"key": "part04.html#84",
+"es": "PRINCIPAL"
+},
+{
+"key": "part04.html#85",
+"es": "45° · algo por encima de los ojos"
+},
+{
+"key": "part04.html#86",
+"es": "RELLENO"
+},
+{
+"key": "part04.html#87",
+"es": "Frente a la principal · ½–¼ de ella"
+},
+{
+"key": "part04.html#88",
+"es": "CONTRALUZ"
+},
+{
+"key": "part04.html#89",
+"es": "Alta y detrás, perfila cabeza·hombros"
+},
+{
+"key": "part04.html#90",
+"es": "<b>Vista cenital</b><span>Primero la principal, el relleno doma la sombra, el contraluz separa: la iluminación es orden, no cantidad</span>"
+},
+{
+"key": "part04.html#91",
+"es": "<b>En el set — misma disposición</b><span>El softbox de la izquierda es la principal; la lámpara pequeña de la derecha, el relleno; la lámpara alta de atrás, el contraluz</span>"
+}
+]

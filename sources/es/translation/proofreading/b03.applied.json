@@ -1,0 +1,4 @@
+[
+{"key": "part06.html#16", "find": "con unos 6 sombreros para pensar abreviados", "replace": "con los 6 sombreros para pensar en versión breve", "why": "other: unnatural phrasing"},
+{"key": "part06.html#283", "find": "del 60 % o más.", "replace": "del 60 % o más", "why": "typography: no final period in source"}
+]

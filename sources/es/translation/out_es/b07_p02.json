@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#450",
+"es": "Antes de memorizar los principios, adquiere el hábito de observar el movimiento que te rodea. Tener ojo para el orden en que una persona se levanta de una silla o una pelota rueda escaleras abajo convierte los principios en herramientas vivas. Lecturas recomendadas: Frank Thomas · Ollie Johnston, The Illusion of Life; Richard Williams, The Animator's Survival Kit."
+},
+{
+"key": "part05.html#451",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#452",
+"es": "Los 12 principios de la animación"
+},
+{
+"key": "part05.html#453",
+"es": "Doce principios, aplicados a la publicidad. La mitad es física; la otra mitad, interpretación. Corrige easing · anticipación · acción continuada · exageración, en ese orden, y el aire de principiante desaparece."
+},
+{
+"key": "part05.html#454",
+"es": "Los 12 principios — el movimiento en un solo personaje"
+},
+{
+"key": "part05.html#455",
+"es": "<b><i>01</i>Aplastar y estirar</b><span>Se aplasta y se estira sin perder volumen — peso y elasticidad</span>"
+},
+{
+"key": "part05.html#456",
+"es": "<b><i>02</i>Anticipación</b><span>Se mueve en sentido contrario antes de una acción grande</span>"
+},
+{
+"key": "part05.html#457",
+"es": "<b><i>03</i>Puesta en escena</b><span>La silueta sola deja leer la intención</span>"
+},
+{
+"key": "part05.html#458",
+"es": "<b><i>04</i>Pose a pose</b><span>Primero las poses clave; luego, los intermedios</span>"
+},
+{
+"key": "part05.html#459",
+"es": "<b><i>05</i>Acción continuada · superpuesta</b><span>El cuerpo se detiene; el pelo y la ropa, después</span>"
+},
+{
+"key": "part05.html#460",
+"es": "<b><i>06</i>Entrada lenta · salida lenta</b><span>Agrupa cuadros al inicio y al final del movimiento</span>"
+},
+{
+"key": "part05.html#461",
+"es": "<b><i>07</i>Arcos</b><span>Las articulaciones se mueven en arcos, no en rectas</span>"
+},
+{
+"key": "part05.html#462",
+"es": "<b><i>08</i>Acción secundaria</b><span>Las acciones pequeñas que apoyan la principal dan carácter</span>"
+},
+{
+"key": "part05.html#463",
+"es": "<b><i>09</i>Timing</b><span>Misma distancia — el n.º de cuadros fija peso y velocidad</span>"
+},
+{
+"key": "part05.html#464",
+"es": "<b><i>10</i>Exageración</b><span>Un paso más allá de la realidad — afina la intención</span>"
+},
+{
+"key": "part05.html#465",
+"es": "<b><i>11</i>Dibujo sólido</b><span>Dibuja formas con volumen · peso · equilibrio</span>"
+},
+{
+"key": "part05.html#466",
+"es": "<b><i>12</i>Atractivo</b><span>Formas simples y un carácter claro crean encanto</span>"
+},
+{
+"key": "part05.html#467",
+"es": "<b>Fig. 48</b> Los 12 principios de la animación — doce reglas del movimiento en un solo personaje (Disney, 1981). Las líneas rojas marcan el «movimiento» que señala cada principio."
+},
+{
+"key": "part05.html#468",
+"es": "Una pelota que rebota reúne cuatro principios"
+},
+{
+"key": "part05.html#469",
+"es": "Cima — espaciado estrecho (lento · entrada/salida lenta)"
+},
+{
+"key": "part05.html#470",
+"es": "Pelota roja = impacto, achatada (aplastar)"
+},
+{
+"key": "part05.html#471",
+"es": "Caída — espaciado amplio, alargada (estirar)"
+},
+{
+"key": "part05.html#472",
+"es": "Cada rebote es más bajo y más corto (timing)"
+},
+{
+"key": "part05.html#473",
+"es": "<b>Fig. 49</b> La pelota que rebota — arcos · timing · espaciado · aplastar y estirar, todo en una pelota. Las pelotas se dibujan a intervalos de tiempo iguales: lentas y juntas en la cima, rápidas y separadas cerca del suelo. La pelota roja es el instante en que toca el suelo (aplastar)."
+},
+{
+"key": "part05.html#474",
+"es": "Misma distancia y mismos cuadros — solo el espaciado crea otro movimiento"
+},
+{
+"key": "part05.html#475",
+"es": "Espaciado uniforme — mecánico"
+},
+{
+"key": "part05.html#476",
+"es": "Robots · cintas transportadoras. Sin vida"
+},
+{
+"key": "part05.html#477",
+"es": "Ease in·out — lo natural"
+},
+{
+"key": "part05.html#478",
+"es": "Arranque y llegada suaves. Casi todo movimiento"
+},
+{
+"key": "part05.html#479",
+"es": "Rápido → lento — acentúa la llegada"
+},
+{
+"key": "part05.html#480",
+"es": "Sale disparado y se detiene. Pop-ups · énfasis · UI"
+},
+{
+"key": "part05.html#481",
+"es": "Lento → rápido — acentúa la partida"
+},
+{
+"key": "part05.html#482",
+"es": "Duda y luego arranca. Saltos · lanzamientos"
+},
+{
+"key": "part05.html#483",
+"es": "Misma distancia · mismos 11 cuadros — solo cambia el espaciado. <tspan font-weight=\"500\">Timing</tspan> = n.º de cuadros, <tspan font-weight=\"500\">espaciado</tspan> = separación entre cuadros"
+},
+{
+"key": "part05.html#484",
+"es": "<b>Fig. 50</b> Timing y espaciado — cada fila recorre la misma distancia en el mismo número de cuadros. Donde los círculos están más separados, el movimiento es rápido."
+},
+{
+"key": "part05.html#485",
+"es": "<b>CONSEJO</b>"
+},
+{
+"key": "part05.html#486",
+"es": "Primero las poses clave; luego, los intermedios. Dibuja antes la carta de espaciado."
+},
+{
+"key": "part05.html#487",
+"es": "Los doce principios — como escenas de un corto en stop motion"
+},
+{
+"key": "part05.html#488",
+"es": "<small>01</small>Aplastar y estirar"
+},
+{
+"key": "part05.html#489",
+"es": "Se aplasta y se estira sin perder volumen — peso y elasticidad"
+},
+{
+"key": "part05.html#490",
+"es": "<small>02</small>Anticipación"
+},
+{
+"key": "part05.html#491",
+"es": "Se mueve en sentido contrario antes de una acción grande"
+},
+{
+"key": "part05.html#492",
+"es": "<small>03</small>Puesta en escena"
+},
+{
+"key": "part05.html#493",
+"es": "La silueta sola deja leer la intención"
+},
+{
+"key": "part05.html#494",
+"es": "<small>04</small>Pose a pose"
+},
+{
+"key": "part05.html#495",
+"es": "Primero las poses clave; luego, los intermedios"
+},
+{
+"key": "part05.html#496",
+"es": "<small>05</small>Acción continuada · superpuesta"
+},
+{
+"key": "part05.html#497",
+"es": "El cuerpo se detiene; el pelo y la ropa, después"
+},
+{
+"key": "part05.html#498",
+"es": "<small>06</small>Entrada lenta · salida lenta"
+},
+{
+"key": "part05.html#499",
+"es": "Agrupa cuadros al inicio y al final del movimiento"
+},
+{
+"key": "part05.html#500",
+"es": "<small>07</small>Arcos"
+},
+{
+"key": "part05.html#501",
+"es": "Las articulaciones se mueven en arcos, no en rectas"
+},
+{
+"key": "part05.html#502",
+"es": "<small>08</small>Acción secundaria"
+},
+{
+"key": "part05.html#503",
+"es": "Las acciones pequeñas que apoyan la principal dan carácter"
+},
+{
+"key": "part05.html#504",
+"es": "<small>09</small>Timing"
+},
+{
+"key": "part05.html#505",
+"es": "Misma distancia — el n.º de cuadros fija peso y velocidad"
+},
+{
+"key": "part05.html#506",
+"es": "<small>10</small>Exageración"
+},
+{
+"key": "part05.html#507",
+"es": "Un paso más allá de la realidad — afina la intención"
+},
+{
+"key": "part05.html#508",
+"es": "<small>11</small>Dibujo sólido"
+},
+{
+"key": "part05.html#509",
+"es": "Dibuja formas con volumen · peso · equilibrio"
+},
+{
+"key": "part05.html#510",
+"es": "<small>12</small>Atractivo"
+},
+{
+"key": "part05.html#511",
+"es": "Formas simples y un carácter claro crean encanto"
+},
+{
+"key": "part05.html#512",
+"es": "Aplastar y estirar — una pelota que rebota, en secuencia"
+},
+{
+"key": "part05.html#513",
+"es": "Cima — redonda, lenta (espaciado estrecho)"
+},
+{
+"key": "part05.html#514",
+"es": "Contacto — aplastada"
+},
+{
+"key": "part05.html#515",
+"es": "Contacto — aplastada otra vez"
+},
+{
+"key": "part05.html#516",
+"es": "Más rápida = más estirada en la trayectoria"
+},
+{
+"key": "part05.html#517",
+"es": "Espaciado amplio = rápido"
+},
+{
+"key": "part05.html#518",
+"es": "Regla: al estirar adelgaza, al aplastar ensancha — el volumen (área) nunca cambia. Todas las pelotas, a intervalos de tiempo iguales."
+},
+{
+"key": "part05.html#519",
+"es": "<b>G-15</b> Aplastar y estirar — una parábola de una pelota que rebota. Redonda y con espaciado estrecho en la cima, más larga y con espaciado amplio al caer, plana en el instante del impacto. El área de la pelota es la misma en los quince dibujos."
+},
+{
+"key": "part05.html#520",
+"es": "<small>Ejercicio</small>5.6"
+},
+{
+"key": "part05.html#521",
+"es": "Tarea"
+},
+{
+"key": "part05.html#522",
+"es": "Anima, en este orden: una pelota que rebota, una pelota pesada · una ligera, el salto de un personaje."
+},
+{
+"key": "part05.html#523",
+"es": "Consejo"
+},
+{
+"key": "part05.html#524",
+"es": "Primero las poses clave; luego, los intermedios. Dibuja antes la carta de espaciado."
+},
+{
+"key": "part05.html#525",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#526",
+"es": "Uso de aplastar · timing · arcos"
+},
+{
+"key": "part05.html#527",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#528",
+"es": "Los 12 principios de The Illusion of Life, de Disney. Compara el mismo salto en dos personajes de distinto peso."
+},
+{
+"key": "part05.html#529",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#530",
+"es": "Composición e incrustación en la práctica"
+},
+{
+"key": "part05.html#531",
+"es": "Evalúa la incrustación en seis pasos; cuando una composición se nota, busca tres causas: nivel de negro · perspectiva atmosférica · grano."
+},
+{
+"key": "part05.html#532",
+"es": "<b>Fig. 51</b> Los 6 pasos de la incrustación — mate de descarte › incrustación principal › limpieza del mate › eliminación del derrame › tratamiento de bordes › igualación de color"
+},
+{
+"key": "part05.html#533",
+"es": "Paso"
+},
+{
+"key": "part05.html#534",
+"es": "Qué hacer"
+},
+{
+"key": "part05.html#535",
+"es": "Criterio"
+},
+{
+"key": "part05.html#536",
+"es": "Mate de descarte"
+},
+{
+"key": "part05.html#537",
+"es": "Enmascara lo que queda fuera del verde"
+},
+{
+"key": "part05.html#538",
+"es": "Sin trípodes de luz ni borde del suelo"
+},
+{
+"key": "part05.html#539",
+"es": "Incrustación principal"
+},
+{
+"key": "part05.html#540",
+"es": "Elimina el color de la pantalla"
+},
+{
+"key": "part05.html#541",
+"es": "El pelo sigue intacto"
+},
+{
+"key": "part05.html#542",
+"es": "Limpieza del mate"
+},
+{
+"key": "part05.html#543",
+"es": "Limpia viendo el alfa en blanco y negro"
+},
+{
+"key": "part05.html#544",
+"es": "Sujeto blanco puro, fondo negro puro"
+},
+{
+"key": "part05.html#545",
+"es": "Eliminación del derrame"
+},
+{
+"key": "part05.html#546",
+"es": "Quita el verde de la piel y la ropa"
+},
+{
+"key": "part05.html#547",
+"es": "La piel no se ha vuelto gris"
+},
+{
+"key": "part05.html#548",
+"es": "Tratamiento de bordes"
+},
+{
+"key": "part05.html#549",
+"es": "Contrae y difumina los bordes"
+},
+{
+"key": "part05.html#550",
+"es": "Sin dientes de sierra al ampliar"
+},
+{
+"key": "part05.html#551",
+"es": "Igualación de color"
+},
+{
+"key": "part05.html#552",
+"es": "Iguala el color y el brillo del fondo"
+},
+{
+"key": "part05.html#553",
+"es": "Coinciden dirección de luz y temp. de color"
+},
+{
+"key": "part05.html#554",
+"es": "Tres causas de que una composición se note"
+},
+{
+"key": "part05.html#555",
+"es": "<small>Causa 1</small>Nivel de negro"
+},
+{
+"key": "part05.html#556",
+"es": "Si los negros de un elemento son más oscuros que los de la imagen real, choca al instante"
+},
+{
+"key": "part05.html#557",
+"es": "Sube un poco los negros"
+},
+{
+"key": "part05.html#558",
+"es": "<small>Causa 2</small>Perspectiva atmosférica"
+},
+{
+"key": "part05.html#559",
+"es": "La distancia reduce el contraste y mezcla el color del fondo"
+},
+{
+"key": "part05.html#560",
+"es": "Baja saturación y contraste con la distancia"
+},
+{
+"key": "part05.html#561",
+"es": "<small>Causa 3</small>Grano y ruido"
+},
+{
+"key": "part05.html#562",
+"es": "La imagen real tiene ruido; el CG, no"
+},
+{
+"key": "part05.html#563",
+"es": "Añade a los elementos un grano equivalente"
+},
+{
+"key": "part05.html#564",
+"es": "<b>Comprobación final</b>"
+},
+{
+"key": "part05.html#565",
+"es": "Reduce la imagen o pásala a blanco y negro. Los desajustes se ven más en pantalla pequeña y en blanco y negro."
+},
+{
+"key": "part05.html#566",
+"es": "<b>G-16</b> Antes y después de la composición — original con chroma key y cuadro final · imagen generada con GPT, solo conceptual"
+},
+{
+"key": "part05.html#567",
+"es": "<small>Ejercicio</small>5.7"
+},
+{
+"key": "part05.html#568",
+"es": "Tarea"
+},
+{
+"key": "part05.html#569",
+"es": "Compón una escena a partir de un original con chroma key y una imagen de fondo."
+},
+{
+"key": "part05.html#570",
+"es": "Consejo"
+},
+{
+"key": "part05.html#571",
+"es": "Tras la incrustación, afina en este orden: bordes, derrame, sombras, igualación de color."
+},
+{
+"key": "part05.html#572",
+"es": "Evaluación"
+},
+{
+"key": "part05.html#573",
+"es": "Calidad de los bordes, luz y color igualados"
+},
+{
+"key": "part05.html#574",
+"es": "Respuesta modelo"
+},
+{
+"key": "part05.html#575",
+"es": "Entrega una comparación del antes y el después junto con la estructura de capas."
+},
+{
+"key": "part05.html#576",
+"es": "<b>PARTE 05</b>Edición y posproducción"
+},
+{
+"key": "part05.html#577",
+"es": "Etalonaje (color grading)"
+},
+{
+"key": "part05.html#578",
+"es": "Ordena el brillo antes de tocar el color. El look empieza solo después de la corrección primaria."
+},
+{
+"key": "part05.html#579",
+"es": "<span class=\"ph-id\">P05-COLOR</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Sala de etalonaje</b>Un colorista ante una consola con trackballs, los monitores de señal en una pantalla y la imagen etalonada en un monitor calibrado</span>"
+},
+{
+"key": "part05.html#580",
+"es": "<b>Nota</b>Sala de etalonaje — ajusta primero el brillo con los monitores de señal, no a ojo, y luego aplica el look"
+},
+{
+"key": "part05.html#581",
+"es": "<b>Fig. 52</b> Cambio tonal en cada etapa del etalonaje"
+},
+{
+"key": "part05.html#582",
+"es": "Orden de trabajo"
+},
+{
+"key": "part05.html#583",
+"es": "<b>01</b><i>Exposición · contraste</i>El brillo antes que el color"
+},
+{
+"key": "part05.html#584",
+"es": "<b>02</b><i>Balance de blancos</i>Que el gris se vea gris"
+},
+{
+"key": "part05.html#585",
+"es": "<b>03</b><i>Igualar planos</i>Una escena, una hora del día"
+},
+{
+"key": "part05.html#586",
+"es": "<b>04</b><i>Look</i>Solo ahora se decide el color"
+},
+{
+"key": "part05.html#587",
+"es": "<b>05</b><i>Secundarias</i>Solo caras, cielo, producto"
+},
+{
+"key": "part05.html#588",
+"es": "<b>06</b><i>Revisar la salida</i>En monitor, smartphone y TV"
+},
+{
+"key": "part05.html#589",
+"es": "<b>Look básico</b>"
+},
+{
+"key": "part05.html#590",
+"es": "Sombras frías, altas luces cálidas. Los tonos de piel son los más sensibles a Gamma."
+},
+{
+"key": "part05.html#591",
+"es": "Herramienta"
+},
+{
+"key": "part05.html#592",
+"es": "Qué ajusta"
+},
+{
+"key": "part05.html#593",
+"es": "Nota"
+},
+{
+"key": "part05.html#594",
+"es": "Lift"
+},
+{
+"key": "part05.html#595",
+"es": "Sombras"
+},
+{
+"key": "part05.html#596",
+"es": "En exceso, la imagen se vuelve lechosa"
+},
+{
+"key": "part05.html#597",
+"es": "Gamma"
+},
+{
+"key": "part05.html#598",
+"es": "Tonos medios"
+},
+{
+"key": "part05.html#599",
+"es": "La piel es lo que más reacciona"
+}
+]

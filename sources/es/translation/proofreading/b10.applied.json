@@ -1,0 +1,56 @@
+[
+ {
+  "key": "part08.html#808",
+  "find": "para dar una razón nueva de ver hasta el final",
+  "replace": "para dar una nueva razón para ver hasta el final",
+  "why": "grammar: preposition (razón para)"
+ },
+ {
+  "key": "part08.html#895",
+  "find": "se ven sin sonido, caminando o conduciendo, de lejos y una y otra vez",
+  "replace": "las ve sin sonido gente que camina o conduce, de lejos y una y otra vez",
+  "why": "grammar: gerund with wrong implied subject (screens walking)"
+ },
+ {
+  "key": "part09.html#325",
+  "find": "subtítulos obligados",
+  "replace": "subtítulos obligatorios",
+  "why": "grammar: obligatorios, not obligados"
+ },
+ {
+  "key": "part09.html#463",
+  "find": "sirve menos para crear el resultado final que como herramienta",
+  "replace": "sirve menos como creadora del resultado final que como herramienta",
+  "why": "grammar: broken comparison parallelism"
+ },
+ {
+  "key": "part09.html#477",
+  "find": "Artículo de las redes adversarias",
+  "replace": "Artículo sobre las redes adversarias",
+  "why": "grammar: preposition"
+ },
+ {
+  "key": "part09.html#479",
+  "find": "columna vertebral de los modelos",
+  "replace": "columna vertebral de todos los modelos",
+  "why": "meaning: 'all' missing"
+ },
+ {
+  "key": "part09.html#489",
+  "find": "Carrera de modelos de video,",
+  "replace": "Arranca la carrera de modelos de video,",
+  "why": "meaning: 'begins' missing"
+ },
+ {
+  "key": "part09.html#665",
+  "find": "los médicos dicen no",
+  "replace": "los médicos dicen que no",
+  "why": "grammar: decir que no"
+ },
+ {
+  "key": "part09.html#667",
+  "find": "los médicos dicen no",
+  "replace": "los médicos dicen que no",
+  "why": "grammar: decir que no"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "key": "part05.html#519",
+  "find": "Redonda y junta en la cima, más larga y separada al caer",
+  "replace": "Redonda y con espaciado estrecho en la cima, más larga y con espaciado amplio al caer",
+  "why": "other: unnatural phrasing (spacing, not the ball, is tight/wide)"
+ },
+ {
+  "key": "part05.html#633",
+  "find": "entrevistas y explicativos",
+  "replace": "entrevistas y videos explicativos",
+  "why": "other: adjective used as noun"
+ },
+ {
+  "key": "part05.html#729",
+  "find": "loopOut('cycle')",
+  "replace": "loopOut()",
+  "why": "meaning: code differs from source"
+ },
+ {
+  "key": "part05.html#732",
+  "find": "time * valor",
+  "replace": "time * value",
+  "why": "meaning: AE expression keyword must not be translated"
+ },
+ {
+  "key": "part05.html#735",
+  "find": "linear(t, tMín, tMáx, valor1, valor2)",
+  "replace": "linear(t, a, b, c, d)",
+  "why": "meaning: code differs from source, label longer than English"
+ },
+ {
+  "key": "part07.html#22",
+  "find": "Sin encuadre, igual hay que guiar la mirada; con un público que camina, igual hay que diseñar el ritmo; sin sonido, igual hace falta dinámica.",
+  "replace": "Sin encuadre, hay que seguir guiando la mirada; con un público que camina, hay que seguir diseñando el ritmo; sin sonido, sigue haciendo falta dinámica.",
+  "why": "meaning: regional «igual» (= «quizá» in Spain)"
+ },
+ {
+  "key": "part07.html#60",
+  "find": "subtítulos obligados",
+  "replace": "subtítulos obligatorios",
+  "why": "other: wrong word"
+ },
+ {
+  "key": "part07.html#207",
+  "find": "rompe la presencia es la latencia",
+  "replace": "rompe la presencia son la latencia",
+  "why": "grammar: agreement with compound subject"
+ }
+]

@@ -1,0 +1,5 @@
+[
+{"key": "part01.html#152", "find": "Color saturado de tres tiras", "replace": "Color saturado de tres bandas", "why": "term: three-strip Technicolor = tres bandas"},
+{"key": "part01.html#271", "find": "Inicios de 2010", "replace": "Inicios de los 2010", "why": "meaning: early 2010s (decade), not the year 2010"},
+{"key": "part01.html#611", "find": "frente a un TV CRT", "replace": "frente a un televisor CRT", "why": "grammar: TV is feminine elsewhere (la TV); use televisor"}
+]

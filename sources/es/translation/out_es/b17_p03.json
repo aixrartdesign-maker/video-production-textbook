@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#806",
+"es": "Dos usos de la mirada — raccord de mirada en el encuentro, enlace de miradas en el seguimiento"
+},
+{
+"key": "part14b.html#807",
+"es": "Distancia de proyección y tamaño de imagen del proyector"
+},
+{
+"key": "part14b.html#808",
+"es": "Tiempo de la historia y tiempo en pantalla — seis desplazamientos por el tiempo y el espacio"
+},
+{
+"key": "part14b.html#809",
+"es": "Comparación de 4 dispositivos XR"
+},
+{
+"key": "part14b.html#810",
+"es": "Comparación de tamaños de sensor"
+},
+{
+"key": "part14b.html#811",
+"es": "Grabación binocular en el video espacial"
+},
+{
+"key": "part14b.html#812",
+"es": "Ángulo de visión según la distancia focal"
+},
+{
+"key": "part14b.html#813",
+"es": "Dimensiones de la forma — el movimiento añade una dimensión cada vez"
+},
+{
+"key": "part14b.html#814",
+"es": "El triángulo de exposición — cómo se compensan diafragma, velocidad de obturación e ISO"
+},
+{
+"key": "part14b.html#815",
+"es": "Estructura estándar de un anuncio de 15 segundos"
+},
+{
+"key": "part14b.html#816",
+"es": "Profundidad de campo según el diafragma — misma escena, distinto fondo"
+},
+{
+"key": "part14b.html#817",
+"es": "Seis recursos para el gancho de 3 segundos"
+},
+{
+"key": "part14b.html#818",
+"es": "Comparación de estándares de resolución"
+},
+{
+"key": "part14b.html#819",
+"es": "Correspondencia entre formatos de video y embudo de marketing"
+},
+{
+"key": "part14b.html#820",
+"es": "Comparación de relaciones de aspecto habituales"
+},
+{
+"key": "part14b.html#821",
+"es": "Línea de acción — una sola curva que recorre la pose"
+},
+{
+"key": "part14b.html#822",
+"es": "Comparación de frecuencias de cuadro — en cuántas imágenes se divide 1 segundo"
+},
+{
+"key": "part14b.html#823",
+"es": "8 poses de un ciclo de caminata"
+},
+{
+"key": "part14b.html#824",
+"es": "Ángulo de obturación y tiempo de exposición (a 24 fps)"
+},
+{
+"key": "part14b.html#825",
+"es": "Formatos de video por duración — más corto, un solo mensaje; más largo, personajes más profundos"
+},
+{
+"key": "part14b.html#826",
+"es": "Escala de temperatura de color por fuente de luz"
+},
+{
+"key": "part14b.html#827",
+"es": "Reenganchar en un anuncio de 1 minuto — vuelve a captar al espectador justo antes de que abandone"
+},
+{
+"key": "part14b.html#828",
+"es": "Ajustes de balance de blancos y fuentes de luz — el papel blanco es la referencia"
+},
+{
+"key": "part14b.html#829",
+"es": "Bucle de 15 segundos para LED exterior — sin sonido, visto de lejos, repetición sin cortes"
+},
+{
+"key": "part14b.html#830",
+"es": "La ley del inverso del cuadrado — al doble de distancia, 1/4 del brillo"
+},
+{
+"key": "part14b.html#831",
+"es": "Proceso de producción con IA"
+},
+{
+"key": "part14b.html#832",
+"es": "Iluminación de tres puntos — planta y efecto de cada paso"
+},
+{
+"key": "part14b.html#833",
+"es": "Mapa de herramientas generativas"
+},
+{
+"key": "part14b.html#834",
+"es": "6 esquemas de iluminación de retrato según la posición de la luz principal"
+},
+{
+"key": "part14b.html#835",
+"es": "El orden para leer las métricas de rendimiento"
+},
+{
+"key": "part14b.html#836",
+"es": "Cómo la relación de iluminación cambia el contraste"
+},
+{
+"key": "part14b.html#837",
+"es": "Trayectorias profesionales por puesto"
+},
+{
+"key": "part14b.html#838",
+"es": "Distribución de un estudio de chroma key y 3 pasos de composición"
+},
+{
+"key": "part14b.html#839",
+"es": "Mapa de profesiones del video"
+},
+{
+"key": "part14b.html#840",
+"es": "Rango seguro de los niveles de grabación"
+},
+{
+"key": "part14b.html#841",
+"es": "Maquetación estándar de una página de portafolio"
+},
+{
+"key": "part14b.html#842",
+"es": "4 patrones polares de micrófono"
+},
+{
+"key": "part14b.html#843",
+"es": "Matriz de preparación laboral por puesto"
+},
+{
+"key": "part14b.html#844",
+"es": "Línea de tiempo sonora de un anuncio de 15 segundos en 4 capas"
+},
+{
+"key": "part14b.html#845",
+"es": "Hoja de ruta de portafolio a 6 meses"
+},
+{
+"key": "part14b.html#846",
+"es": "Anatomía de una línea de tiempo de edición"
+},
+{
+"key": "part14b.html#847",
+"es": "Epílogo"
+},
+{
+"key": "part14b.html#848",
+"es": "15 segundos no es poco tiempo"
+},
+{
+"key": "part14b.html#849",
+"es": "Un buen video no nace del equipo. Lo hace alguien que ha decidido qué mostrar."
+},
+{
+"key": "part14b.html#850",
+"es": "Cada lámina, tabla y lista de comprobación de este libro es una herramienta para acortar el momento de decidir. Cuanto más rápido decides, más pruebas, y mejoras en la medida en que pruebas."
+},
+{
+"key": "part14b.html#851",
+"es": "Lo que lees se desvanece; lo que haces permanece. Rueda hoy al menos un plano."
+},
+{
+"key": "part14b.html#852",
+"es": "Quien logra los primeros 3 segundos se gana el derecho a los otros 12."
+},
+{
+"key": "part14b.html#853",
+"es": "Quien logra los primeros 3 segundos se gana el derecho a los otros 12.<small>Jia Ahn</small>"
+},
+{
+"key": "templates.html#0",
+"es": "<b>Apéndice</b>Plantillas"
+},
+{
+"key": "templates.html#1",
+"es": "8 plantillas de storyboard"
+},
+{
+"key": "templates.html#2",
+"es": "Plantillas de 9 viñetas (o de 8 · 6) para cada relación de aspecto. Cópialas en A4 o amplíalas a A3 y fíjalas en la pared. Las cinco líneas fuera de las viñetas son iguales en todas las plantillas: medidas, movimiento, nota de acción, palabras, sonido."
+},
+{
+"key": "templates.html#3",
+"es": "<small>Cómo usarlas</small>La viñeta uno es la leyenda"
+},
+{
+"key": "templates.html#4",
+"es": "Relación · resolución · versión · fecha van en la viñeta uno"
+},
+{
+"key": "templates.html#5",
+"es": "Flechas: negro para personas, vino para la cámara"
+},
+{
+"key": "templates.html#6",
+"es": "Tiempo: duración en segundos + código de tiempo acumulado"
+},
+{
+"key": "templates.html#7",
+"es": "<small>Plantillas verticales</small>Evita la UI superpuesta"
+},
+{
+"key": "templates.html#8",
+"es": "Sin subtítulos · logos dentro de las bandas grises"
+},
+{
+"key": "templates.html#9",
+"es": "Rostros en el 1/3 superior, productos en el centro"
+},
+{
+"key": "templates.html#10",
+"es": "20–30 % más de planos que en horizontal"
+},
+{
+"key": "templates.html#11",
+"es": "<small>360 · curvo</small>Desarrollo + mapa del punto de vista"
+},
+{
+"key": "templates.html#12",
+"es": "Anota el ángulo frontal en cada viñeta"
+},
+{
+"key": "templates.html#13",
+"es": "Mantén la rotación total por debajo de 180° por escena"
+},
+{
+"key": "templates.html#14",
+"es": "Deja vacíos juntas · suelo · techo"
+},
+{
+"key": "templates.html#15",
+"es": "Plantilla de storyboard · 16:9"
+},
+{
+"key": "templates.html#16",
+"es": "Horizontal estándar — YouTube·TV·presentaciones · 1920×1080 · 3840×2160"
+},
+{
+"key": "templates.html#17",
+"es": "Proyecto ____________  Escena ____  Pág. ___/___"
+},
+{
+"key": "templates.html#18",
+"es": "Dirección ________  Fecha ________  Versión v___"
+},
+{
+"key": "templates.html#19",
+"es": "CUT 01"
+},
+{
+"key": "templates.html#20",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#21",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#22",
+"es": "Acción"
+},
+{
+"key": "templates.html#23",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#24",
+"es": "M · SE"
+},
+{
+"key": "templates.html#25",
+"es": "CUT 02"
+},
+{
+"key": "templates.html#26",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#27",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#28",
+"es": "Acción"
+},
+{
+"key": "templates.html#29",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#30",
+"es": "M · SE"
+},
+{
+"key": "templates.html#31",
+"es": "CUT 03"
+},
+{
+"key": "templates.html#32",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#33",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#34",
+"es": "Acción"
+},
+{
+"key": "templates.html#35",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#36",
+"es": "M · SE"
+},
+{
+"key": "templates.html#37",
+"es": "CUT 04"
+},
+{
+"key": "templates.html#38",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#39",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#40",
+"es": "Acción"
+},
+{
+"key": "templates.html#41",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#42",
+"es": "M · SE"
+},
+{
+"key": "templates.html#43",
+"es": "CUT 05"
+},
+{
+"key": "templates.html#44",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#45",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#46",
+"es": "Acción"
+},
+{
+"key": "templates.html#47",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#48",
+"es": "M · SE"
+},
+{
+"key": "templates.html#49",
+"es": "CUT 06"
+},
+{
+"key": "templates.html#50",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#51",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#52",
+"es": "Acción"
+},
+{
+"key": "templates.html#53",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#54",
+"es": "M · SE"
+},
+{
+"key": "templates.html#55",
+"es": "CUT 07"
+},
+{
+"key": "templates.html#56",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#57",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#58",
+"es": "Acción"
+},
+{
+"key": "templates.html#59",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#60",
+"es": "M · SE"
+},
+{
+"key": "templates.html#61",
+"es": "CUT 08"
+},
+{
+"key": "templates.html#62",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#63",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#64",
+"es": "Acción"
+},
+{
+"key": "templates.html#65",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#66",
+"es": "M · SE"
+},
+{
+"key": "templates.html#67",
+"es": "CUT 09"
+},
+{
+"key": "templates.html#68",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#69",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#70",
+"es": "Acción"
+},
+{
+"key": "templates.html#71",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#72",
+"es": "M · SE"
+},
+{
+"key": "templates.html#73",
+"es": "Línea de puntos = zona segura de acción 90 % · líneas finas = división en tercios. Cinco líneas fuera de cada viñeta: SIZE/ANGLE/LENS · MOVE/TR · nota de acción · palabras · sonido."
+},
+{
+"key": "templates.html#74",
+"es": "Plantilla de storyboard · 21:9"
+},
+{
+"key": "templates.html#75",
+"es": "CinemaScope — películas de marca·cine · 2048×858 · 3840×1608"
+},
+{
+"key": "templates.html#76",
+"es": "Proyecto ____________  Escena ____  Pág. ___/___"
+},
+{
+"key": "templates.html#77",
+"es": "Dirección ________  Fecha ________  Versión v___"
+},
+{
+"key": "templates.html#78",
+"es": "CUT 01"
+},
+{
+"key": "templates.html#79",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#80",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#81",
+"es": "Acción"
+},
+{
+"key": "templates.html#82",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#83",
+"es": "M · SE"
+},
+{
+"key": "templates.html#84",
+"es": "CUT 02"
+},
+{
+"key": "templates.html#85",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#86",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#87",
+"es": "Acción"
+},
+{
+"key": "templates.html#88",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#89",
+"es": "M · SE"
+},
+{
+"key": "templates.html#90",
+"es": "CUT 03"
+},
+{
+"key": "templates.html#91",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#92",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#93",
+"es": "Acción"
+},
+{
+"key": "templates.html#94",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#95",
+"es": "M · SE"
+},
+{
+"key": "templates.html#96",
+"es": "CUT 04"
+},
+{
+"key": "templates.html#97",
+"es": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#98",
+"es": "MOVE / TR"
+},
+{
+"key": "templates.html#99",
+"es": "Acción"
+},
+{
+"key": "templates.html#100",
+"es": "N · SYNC"
+},
+{
+"key": "templates.html#101",
+"es": "M · SE"
+}
+]
