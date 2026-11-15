@@ -1,0 +1,20 @@
+[
+ {
+  "key": "part14a.html#403",
+  "find": "Parcourez-la une fois",
+  "replace": "Parcourez cette liste une fois",
+  "why": "grammar: pronoun 'la' has no antecedent (heading is plural)"
+ },
+ {
+  "key": "part14b.html#284",
+  "find": "les goulots apparaissent",
+  "replace": "les goulots d’étranglement apparaissent",
+  "why": "other: 'goulots' alone unnatural for bottlenecks"
+ },
+ {
+  "key": "part14b.html#471",
+  "find": "02 Réalisateur montage · motion design",
+  "replace": "02 Monteur · réalisateur motion design",
+  "why": "meaning: editor · motion graphics director, not 'editing director'"
+ }
+]

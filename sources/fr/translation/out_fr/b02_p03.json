@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#634",
+"fr": "Immédiat"
+},
+{
+"key": "part02.html#635",
+"fr": "Cas général"
+},
+{
+"key": "part02.html#636",
+"fr": "Fondu enchaîné"
+},
+{
+"key": "part02.html#637",
+"fr": "DIS"
+},
+{
+"key": "part02.html#638",
+"fr": "Temps qui passe, douceur"
+},
+{
+"key": "part02.html#639",
+"fr": "Flashbacks, sauts dans le temps"
+},
+{
+"key": "part02.html#640",
+"fr": "Abus sur chaque coupe"
+},
+{
+"key": "part02.html#641",
+"fr": "Fondu d’ouverture/de fermeture"
+},
+{
+"key": "part02.html#642",
+"fr": "FI / FO"
+},
+{
+"key": "part02.html#643",
+"fr": "Début et fin"
+},
+{
+"key": "part02.html#644",
+"fr": "Ouvrir et clore un film"
+},
+{
+"key": "part02.html#645",
+"fr": "Ouvrir une vidéo courte"
+},
+{
+"key": "part02.html#646",
+"fr": "Volet"
+},
+{
+"key": "part02.html#647",
+"fr": "WIPE"
+},
+{
+"key": "part02.html#648",
+"fr": "Ludique, rétro"
+},
+{
+"key": "part02.html#649",
+"fr": "Comédie, changements de chapitre"
+},
+{
+"key": "part02.html#650",
+"fr": "Dans une publicité sérieuse"
+},
+{
+"key": "part02.html#651",
+"fr": "Flash blanc"
+},
+{
+"key": "part02.html#652",
+"fr": "FLASH"
+},
+{
+"key": "part02.html#653",
+"fr": "Choc, bascule"
+},
+{
+"key": "part02.html#654",
+"fr": "Souligner l’impact"
+},
+{
+"key": "part02.html#655",
+"fr": "Lassant s’il se répète"
+},
+{
+"key": "part02.html#656",
+"fr": "Transition filée"
+},
+{
+"key": "part02.html#657",
+"fr": "WHIP"
+},
+{
+"key": "part02.html#658",
+"fr": "Vitesse, liaison"
+},
+{
+"key": "part02.html#659",
+"fr": "Rythme des vidéos courtes"
+},
+{
+"key": "part02.html#660",
+"fr": "Directions discordantes"
+},
+{
+"key": "part02.html#661",
+"fr": "L’erreur de débutant la plus fréquente"
+},
+{
+"key": "part02.html#662",
+"fr": "Mettre un fondu enchaîné ou une transition tape-à-l’œil sur chaque coupe. Le travail d’un monteur professionnel, ce sont surtout des coupes franches ; les transitions n’apparaissent que si elles ont un sens."
+},
+{
+"key": "part02.html#663",
+"fr": "Rythme de montage selon l’émotion"
+},
+{
+"key": "part02.html#664",
+"fr": "Même durée, mais la longueur des plans fixe l’émotion"
+},
+{
+"key": "part02.html#665",
+"fr": "Les mêmes 18 s"
+},
+{
+"key": "part02.html#666",
+"fr": "Urgence"
+},
+{
+"key": "part02.html#667",
+"fr": "36 plans · poursuite · accident · alerte"
+},
+{
+"key": "part02.html#668",
+"fr": "Entrain"
+},
+{
+"key": "part02.html#669",
+"fr": "15 plans · présentation produit · vlog"
+},
+{
+"key": "part02.html#670",
+"fr": "Empathie"
+},
+{
+"key": "part02.html#671",
+"fr": "7 plans · interview · documentaire"
+},
+{
+"key": "part02.html#672",
+"fr": "Émerveillement"
+},
+{
+"key": "part02.html#673",
+"fr": "4 plans · paysage · ambiance de marque"
+},
+{
+"key": "part02.html#674",
+"fr": "Coupez court, le pouls s’accélère ; tenez longtemps, la réflexion a de la place."
+},
+{
+"key": "part02.html#675",
+"fr": "<b>Fig. 23</b> Longueur des plans selon l’émotion – dans les mêmes 18 secondes, le nombre de plans fixe l’émotion."
+},
+{
+"key": "part02.html#676",
+"fr": "Ton émotionnel"
+},
+{
+"key": "part02.html#677",
+"fr": "Durée moyenne des plans"
+},
+{
+"key": "part02.html#678",
+"fr": "Stratégie de valeurs de plan"
+},
+{
+"key": "part02.html#679",
+"fr": "Raccords"
+},
+{
+"key": "part02.html#680",
+"fr": "Son"
+},
+{
+"key": "part02.html#681",
+"fr": "Urgence, excitation"
+},
+{
+"key": "part02.html#682",
+"fr": "Changements rapides, surtout des gros plans"
+},
+{
+"key": "part02.html#683",
+"fr": "Jump cuts, coupes franches"
+},
+{
+"key": "part02.html#684",
+"fr": "Impacts sonores synchronisés"
+},
+{
+"key": "part02.html#685",
+"fr": "Entrain, plaisir"
+},
+{
+"key": "part02.html#686",
+"fr": "Valeurs alternées"
+},
+{
+"key": "part02.html#687",
+"fr": "Raccords mouvement + tempo"
+},
+{
+"key": "part02.html#688",
+"fr": "Montage sur le tempo"
+},
+{
+"key": "part02.html#689",
+"fr": "Chaleur, empathie"
+},
+{
+"key": "part02.html#690",
+"fr": "Surtout des plans taille"
+},
+{
+"key": "part02.html#691",
+"fr": "L-cuts, fondus enchaînés"
+},
+{
+"key": "part02.html#692",
+"fr": "Musique à longue réverbération"
+},
+{
+"key": "part02.html#693",
+"fr": "Confiance, expertise"
+},
+{
+"key": "part02.html#694",
+"fr": "Plans taille stables et inserts"
+},
+{
+"key": "part02.html#695",
+"fr": "Raccords mouvement"
+},
+{
+"key": "part02.html#696",
+"fr": "Portée par la narration"
+},
+{
+"key": "part02.html#697",
+"fr": "Émerveillement, admiration"
+},
+{
+"key": "part02.html#698",
+"fr": "3 s ou plus"
+},
+{
+"key": "part02.html#699",
+"fr": "Plans d’ensemble, mouvements lents"
+},
+{
+"key": "part02.html#700",
+"fr": "Fondus enchaînés"
+},
+{
+"key": "part02.html#701",
+"fr": "Musique seule, sans dialogue"
+},
+{
+"key": "part02.html#702",
+"fr": "Éveiller la curiosité"
+},
+{
+"key": "part02.html#703",
+"fr": "Insert de détail, puis l’ensemble"
+},
+{
+"key": "part02.html#704",
+"fr": "Coupe franche, puis plan tenu"
+},
+{
+"key": "part02.html#705",
+"fr": "Jouer du silence"
+},
+{
+"key": "part02.html#706",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part02.html#707",
+"fr": "Fixer d’abord le tempo de la musique, puis y caler la durée des plans : c’est ce qui échoue le moins."
+},
+{
+"key": "part02.html#708",
+"fr": "On assimile un rythme régulier, puis on remarque sa rupture. Donnez la même durée à tous les plans : l’information passe, mais on ne la retient pas."
+},
+{
+"key": "part02.html#709",
+"fr": "<small>Exercice</small>1.10"
+},
+{
+"key": "part02.html#710",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#711",
+"fr": "Réalisez une vidéo de 1 minute avec coupes franches, raccords de forme, jump cuts, J · L-cuts et fondus enchaînés."
+},
+{
+"key": "part02.html#712",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#713",
+"fr": "Un raccord de forme commence par la recherche de deux plans qui partagent une forme ou une direction de mouvement."
+},
+{
+"key": "part02.html#714",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#715",
+"fr": "Raison de chaque transition ; rythme"
+},
+{
+"key": "part02.html#716",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#717",
+"fr": "Le raccord de l’os au vaisseau spatial dans 2001 : l’Odyssée de l’espace. Concevez un saut dans le temps · l’espace à chaque transition."
+},
+{
+"key": "part02.html#718",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#719",
+"fr": "Mise en scène et montage"
+},
+{
+"key": "part02.html#720",
+"fr": "Ce ne sont pas deux contraires, mais deux mains. Décidez d’abord de quel côté penche votre vidéo : la densité de votre plan de tournage en sera toute changée."
+},
+{
+"key": "part02.html#721",
+"fr": "Mise en scène – concevoir à l’intérieur d’un plan"
+},
+{
+"key": "part02.html#722",
+"fr": "Que placer dans le cadre"
+},
+{
+"key": "part02.html#723",
+"fr": "Déplacements, accessoires, couleur, lumière, costumes, espace"
+},
+{
+"key": "part02.html#724",
+"fr": "Pour rythmes lents et plans-séquences"
+},
+{
+"key": "part02.html#725",
+"fr": "Le public explore le cadre par lui-même"
+},
+{
+"key": "part02.html#726",
+"fr": "Dense en informations ; invite à revoir"
+},
+{
+"key": "part02.html#727",
+"fr": "Ex. : la symétrie de Park Chan-wook, les palettes de Wes Anderson"
+},
+{
+"key": "part02.html#728",
+"fr": "Montage – la collision entre les plans"
+},
+{
+"key": "part02.html#729",
+"fr": "Que raccorder, dans quel ordre"
+},
+{
+"key": "part02.html#730",
+"fr": "Durée des plans, ordre, contraste, rythme"
+},
+{
+"key": "part02.html#731",
+"fr": "Pour rythmes rapides et publicité"
+},
+{
+"key": "part02.html#732",
+"fr": "Guide étroitement la perception"
+},
+{
+"key": "part02.html#733",
+"fr": "Informe vite, marque fort"
+},
+{
+"key": "part02.html#734",
+"fr": "Ex. : Eisenstein, la plupart des publicités"
+},
+{
+"key": "part02.html#735",
+"fr": "<b>15<em> s de publicité</em></b>Le montage domine"
+},
+{
+"key": "part02.html#736",
+"fr": "<b>Film <em>de marque</em></b>La mise en scène domine"
+},
+{
+"key": "part02.html#737",
+"fr": "<small>Exercice</small>1.11"
+},
+{
+"key": "part02.html#738",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#739",
+"fr": "Tournez une scène deux fois : une version mise en scène en plan-séquence et une version montage."
+},
+{
+"key": "part02.html#740",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#741",
+"fr": "Pour le plan-séquence, concevez d’abord les déplacements ; pour le montage, l’ordre des plans."
+},
+{
+"key": "part02.html#742",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#743",
+"fr": "Avez-vous expliqué la différence d’émotion entre les deux ?"
+},
+{
+"key": "part02.html#744",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#745",
+"fr": "La scène du couloir d’Old Boy et Le Cuirassé Potemkine. Réalisez les deux versions à partir du même scénario."
+},
+{
+"key": "part02.html#746",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#747",
+"fr": "Couleur et direction artistique"
+},
+{
+"key": "part02.html#748",
+"fr": "La couleur dans le cadre est une information, non un ornement. Un cadre aux couleurs non maîtrisées fait amateur, si bonne que soit la composition."
+},
+{
+"key": "part02.html#749",
+"fr": "<b>Fig. 24</b> Structure de valeurs de quatre harmonies de couleurs"
+},
+{
+"key": "part02.html#750",
+"fr": "Couleur"
+},
+{
+"key": "part02.html#751",
+"fr": "Associations courantes"
+},
+{
+"key": "part02.html#752",
+"fr": "Usage en vidéo"
+},
+{
+"key": "part02.html#753",
+"fr": "Note"
+},
+{
+"key": "part02.html#754",
+"fr": "Rouge"
+},
+{
+"key": "part02.html#755",
+"fr": "Passion, danger, appétit"
+},
+{
+"key": "part02.html#756",
+"fr": "Accents, mise en avant de la marque, tension"
+},
+{
+"key": "part02.html#757",
+"fr": "5 % du cadre au plus"
+},
+{
+"key": "part02.html#758",
+"fr": "Orange"
+},
+{
+"key": "part02.html#759",
+"fr": "Chaleur, énergie, soir"
+},
+{
+"key": "part02.html#760",
+"fr": "Tons chair, couchers de soleil, convivialité"
+},
+{
+"key": "part02.html#761",
+"fr": "Puissant associé au bleu canard"
+},
+{
+"key": "part02.html#762",
+"fr": "Jaune"
+},
+{
+"key": "part02.html#763",
+"fr": "Alerte, gaieté, soleil"
+},
+{
+"key": "part02.html#764",
+"fr": "Capter l’attention, cibler les enfants"
+},
+{
+"key": "part02.html#765",
+"fr": "Fatigant en grande surface"
+},
+{
+"key": "part02.html#766",
+"fr": "Vert"
+},
+{
+"key": "part02.html#767",
+"fr": "Nature, calme, santé"
+},
+{
+"key": "part02.html#768",
+"fr": "Écologie, alimentation, apaisement"
+},
+{
+"key": "part02.html#769",
+"fr": "Interdit en costume sur fond vert"
+},
+{
+"key": "part02.html#770",
+"fr": "Bleu"
+},
+{
+"key": "part02.html#771",
+"fr": "Confiance, fraîcheur, technologie"
+},
+{
+"key": "part02.html#772",
+"fr": "Finance, informatique, nuit"
+},
+{
+"key": "part02.html#773",
+"fr": "Trop froid, il met à distance"
+},
+{
+"key": "part02.html#774",
+"fr": "Violet"
+},
+{
+"key": "part02.html#775",
+"fr": "Luxe, mystère, créativité"
+},
+{
+"key": "part02.html#776",
+"fr": "Beauté, art, haut de gamme"
+},
+{
+"key": "part02.html#777",
+"fr": "Difficile à reproduire"
+},
+{
+"key": "part02.html#778",
+"fr": "Neutres"
+},
+{
+"key": "part02.html#779",
+"fr": "Retenue, raffinement, sérieux"
+},
+{
+"key": "part02.html#780",
+"fr": "Produits de luxe, rendus noir et blanc"
+},
+{
+"key": "part02.html#781",
+"fr": "Exige une couleur d’accent"
+},
+{
+"key": "part02.html#782",
+"fr": "Stratégies d’harmonie des couleurs"
+},
+{
+"key": "part02.html#783",
+"fr": "<small>Standard commercial</small>Contraste complémentaire"
+}
+]

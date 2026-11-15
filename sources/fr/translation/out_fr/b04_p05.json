@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#283",
+"fr": "<b>01</b><i>Verrouiller l’obturateur</i>Le double de la cadence"
+},
+{
+"key": "part03.html#284",
+"fr": "<b>02</b><i>Verrouiller l’ISO</i>L’ISO natif du modèle"
+},
+{
+"key": "part03.html#285",
+"fr": "<b>03</b><i>Mettre en scène avec l’ouverture</i>Décider la profondeur de champ"
+},
+{
+"key": "part03.html#286",
+"fr": "<b>04</b><i>Luminosité restante</i>Corriger par le ND et l’éclairage"
+},
+{
+"key": "part03.html#287",
+"fr": "En vidéo, considérez l’obturateur comme une valeur fixe.<small>3.5 Le triangle d’exposition</small>"
+},
+{
+"key": "part03.html#288",
+"fr": "Outils de contrôle de l’exposition"
+},
+{
+"key": "part03.html#289",
+"fr": "Outil"
+},
+{
+"key": "part03.html#290",
+"fr": "Ce qu’il montre"
+},
+{
+"key": "part03.html#291",
+"fr": "Repère de travail"
+},
+{
+"key": "part03.html#292",
+"fr": "Histogramme"
+},
+{
+"key": "part03.html#293",
+"fr": "Répartition des luminosités"
+},
+{
+"key": "part03.html#294",
+"fr": "Vérifier que rien n’est écrêté aux deux extrémités"
+},
+{
+"key": "part03.html#295",
+"fr": "Forme d’onde"
+},
+{
+"key": "part03.html#296",
+"fr": "Luminosité selon la position horizontale"
+},
+{
+"key": "part03.html#297",
+"fr": "Garder les tons chair vers 55–70 IRE"
+},
+{
+"key": "part03.html#298",
+"fr": "Zébras"
+},
+{
+"key": "part03.html#299",
+"fr": "Zones au-dessus d’un seuil donné"
+},
+{
+"key": "part03.html#300",
+"fr": "Régler sur 95–100 % pour surveiller les hautes lumières brûlées"
+},
+{
+"key": "part03.html#301",
+"fr": "Fausses couleurs"
+},
+{
+"key": "part03.html#302",
+"fr": "Traduit la luminosité en couleurs"
+},
+{
+"key": "part03.html#303",
+"fr": "Le plus précis pour surveiller à la fois la peau et les hautes lumières"
+},
+{
+"key": "part03.html#304",
+"fr": "Posemètre"
+},
+{
+"key": "part03.html#305",
+"fr": "Niveau de lumière incidente"
+},
+{
+"key": "part03.html#306",
+"fr": "Mesurer chaque source séparément lors de l’éclairage"
+},
+{
+"key": "part03.html#307",
+"fr": "<b>Photos de référence 3.5A</b>Image générée – référence de mise en scène"
+},
+{
+"key": "part03.html#308",
+"fr": "<b>a</b>F1,4 – faible profondeur de champ"
+},
+{
+"key": "part03.html#309",
+"fr": "<b>b</b>F8 – grande profondeur de champ"
+},
+{
+"key": "part03.html#310",
+"fr": "<b>c</b>ISO élevé – bruit"
+},
+{
+"key": "part03.html#311",
+"fr": "<b>G-07</b> Le triangle d’exposition – traces laissées par ouverture · obturateur · ISO"
+},
+{
+"key": "part03.html#312",
+"fr": "<span class=\"ph-id\">P03-MONITOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Outils d’exposition – fausses couleurs · forme d’onde · zébras sont plus précis que l’œil</b></span>"
+},
+{
+"key": "part03.html#313",
+"fr": "<b>Note</b>Outils d’exposition – fausses couleurs · forme d’onde · zébras sont plus précis que l’œil"
+},
+{
+"key": "part03.html#314",
+"fr": "<small>Exercice</small>3.5"
+},
+{
+"key": "part03.html#315",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#316",
+"fr": "En gardant la même luminosité, tournez avec trois combinaisons différentes ouverture · obturateur · ISO."
+},
+{
+"key": "part03.html#317",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#318",
+"fr": "Quand vous montez une valeur d’1 IL, baissez-en une autre d’1 IL."
+},
+{
+"key": "part03.html#319",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#320",
+"fr": "Exactitude du calcul en IL ; observation des effets secondaires de chaque combinaison (profondeur de champ, flou, bruit)"
+},
+{
+"key": "part03.html#321",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#322",
+"fr": "Présente les résultats en tableau pour prouver « même exposition, image différente »."
+},
+{
+"key": "part03.html#323",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#324",
+"fr": "Unités d’éclairement et de lumière"
+},
+{
+"key": "part03.html#325",
+"fr": "Ne décrivez la lumière qu’en termes de clair ou de sombre, et les choses tourneront mal sur le plateau. Parler en chiffres permet de reproduire l’éclairage de quelqu’un d’autre."
+},
+{
+"key": "part03.html#326",
+"fr": "<b>100 000<em>lux</em></b>Extérieur à midi par grand soleil – ND indispensable"
+},
+{
+"key": "part03.html#327",
+"fr": "<b>300–500<em>lux</em></b>Bureau ordinaire – lumière d’appoint conseillée"
+},
+{
+"key": "part03.html#328",
+"fr": "<b>10<em>lux</em></b>Autour d’une bougie – ISO élevé ou éclairage indispensable"
+},
+{
+"key": "part03.html#329",
+"fr": "Unité"
+},
+{
+"key": "part03.html#330",
+"fr": "Signification"
+},
+{
+"key": "part03.html#331",
+"fr": "Où on l’emploie"
+},
+{
+"key": "part03.html#332",
+"fr": "Repères"
+},
+{
+"key": "part03.html#333",
+"fr": "Lux (lx)"
+},
+{
+"key": "part03.html#334",
+"fr": "Lumière reçue par une surface (éclairement)"
+},
+{
+"key": "part03.html#335",
+"fr": "Mesure de la lumière sur le plateau"
+},
+{
+"key": "part03.html#336",
+"fr": "Extérieur ensoleillé 100 000, couvert 10 000"
+},
+{
+"key": "part03.html#337",
+"fr": "Lumens (lm)"
+},
+{
+"key": "part03.html#338",
+"fr": "Flux lumineux total émis par une source"
+},
+{
+"key": "part03.html#339",
+"fr": "Comparer les caractéristiques des projecteurs"
+},
+{
+"key": "part03.html#340",
+"fr": "Ampoule domestique : env. 800 lm"
+},
+{
+"key": "part03.html#341",
+"fr": "Candelas (cd)"
+},
+{
+"key": "part03.html#342",
+"fr": "Intensité lumineuse dans une direction"
+},
+{
+"key": "part03.html#343",
+"fr": "Caractéristiques des spots"
+},
+{
+"key": "part03.html#344",
+"fr": "Nits (cd/m2)"
+},
+{
+"key": "part03.html#345",
+"fr": "Luminosité de la surface d’un écran"
+},
+{
+"key": "part03.html#346",
+"fr": "Moniteurs et affichage LED"
+},
+{
+"key": "part03.html#347",
+"fr": "Intérieur 500–1500, extérieur 5000 et plus"
+},
+{
+"key": "part03.html#348",
+"fr": "Diaphs (IL)"
+},
+{
+"key": "part03.html#349",
+"fr": "Paliers de doublement de la lumière"
+},
+{
+"key": "part03.html#350",
+"fr": "La langue commune de l’exposition"
+},
+{
+"key": "part03.html#351",
+"fr": "1 IL = 2 fois la lumière"
+},
+{
+"key": "part03.html#352",
+"fr": "Kelvins (K)"
+},
+{
+"key": "part03.html#353",
+"fr": "Température de couleur"
+},
+{
+"key": "part03.html#354",
+"fr": "Balance des blancs"
+},
+{
+"key": "part03.html#355",
+"fr": "Bougie 1800 K, lumière du jour 5600 K"
+},
+{
+"key": "part03.html#356",
+"fr": "IRC / TLCI"
+},
+{
+"key": "part03.html#357",
+"fr": "Indice de rendu des couleurs"
+},
+{
+"key": "part03.html#358",
+"fr": "Qualité des projecteurs"
+},
+{
+"key": "part03.html#359",
+"fr": "95 ou plus pour le tournage"
+},
+{
+"key": "part03.html#360",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part03.html#361",
+"fr": "Mesurez toujours à hauteur du visage du sujet."
+},
+{
+"key": "part03.html#362",
+"fr": "Situation"
+},
+{
+"key": "part03.html#363",
+"fr": "Éclairement approx."
+},
+{
+"key": "part03.html#364",
+"fr": "Difficulté"
+},
+{
+"key": "part03.html#365",
+"fr": "Extérieur à midi, grand soleil"
+},
+{
+"key": "part03.html#366",
+"fr": "Env. 100 000 lux"
+},
+{
+"key": "part03.html#367",
+"fr": "ND indispensable"
+},
+{
+"key": "part03.html#368",
+"fr": "Extérieur, temps couvert"
+},
+{
+"key": "part03.html#369",
+"fr": "Env. 10 000 lux"
+},
+{
+"key": "part03.html#370",
+"fr": "Facile"
+},
+{
+"key": "part03.html#371",
+"fr": "Près d’une fenêtre, de jour"
+},
+{
+"key": "part03.html#372",
+"fr": "Env. 1000 lux"
+},
+{
+"key": "part03.html#373",
+"fr": "Modérée"
+},
+{
+"key": "part03.html#374",
+"fr": "Bureau ordinaire"
+},
+{
+"key": "part03.html#375",
+"fr": "Env. 300–500 lux"
+},
+{
+"key": "part03.html#376",
+"fr": "Lumière d’appoint conseillée"
+},
+{
+"key": "part03.html#377",
+"fr": "Salon, le soir"
+},
+{
+"key": "part03.html#378",
+"fr": "Env. 100–150 lux"
+},
+{
+"key": "part03.html#379",
+"fr": "Éclairage nécessaire"
+},
+{
+"key": "part03.html#380",
+"fr": "Autour d’une bougie"
+},
+{
+"key": "part03.html#381",
+"fr": "Env. 10 lux"
+},
+{
+"key": "part03.html#382",
+"fr": "ISO élevé ou éclairage indispensable"
+},
+{
+"key": "part03.html#383",
+"fr": "Pleine lune, en extérieur"
+},
+{
+"key": "part03.html#384",
+"fr": "Env. 0,25 lux"
+},
+{
+"key": "part03.html#385",
+"fr": "Matériel spécial nécessaire"
+},
+{
+"key": "part03.html#386",
+"fr": "<small>Exercice</small>3.6"
+},
+{
+"key": "part03.html#387",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#388",
+"fr": "Avec une appli luxmètre, mesurez les lux dans une salle de cours, un couloir, à l’ombre en extérieur et en plein soleil, puis dressez un tableau."
+},
+{
+"key": "part03.html#389",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#390",
+"fr": "Gardez la même position de mesure (hauteur du visage du sujet)."
+},
+{
+"key": "part03.html#391",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#392",
+"fr": "Cohérence de la méthode de mesure, lien avec les réglages caméra"
+},
+{
+"key": "part03.html#393",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#394",
+"fr": "Indique pour chaque mesure l’ISO recommandé et le besoin éventuel d’éclairage d’appoint."
+},
+{
+"key": "part03.html#395",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#396",
+"fr": "Normes de résolution et format d’image"
+},
+{
+"key": "part03.html#397",
+"fr": "Tournez en 4K même si la livraison finale est en FHD. Les pixels en réserve sont une liberté de montage, et le format d’image change l’humeur dans laquelle le public reçoit une scène."
+},
+{
+"key": "part03.html#398",
+"fr": "La résolution, c’est « avec combien de points on dessine »"
+},
+{
+"key": "part03.html#399",
+"fr": "<i class=\"fhd\"></i><em class=\"l4k\">Cadre entier tourné en 4K</em><em class=\"lfhd\">Taille de livraison FHD – net même en zoom ×2</em>"
+},
+{
+"key": "part03.html#400",
+"fr": "4K UHD 3840×2160"
+},
+{
+"key": "part03.html#401",
+"fr": "FHD 1920×1080"
+},
+{
+"key": "part03.html#402",
+"fr": "HD 1280×720"
+},
+{
+"key": "part03.html#403",
+"fr": "<b>Résolution = points en largeur × en hauteur</b><span>La 4K, c’est 4 fois la FHD – ×2 en largeur, ×2 en hauteur</span><span>Sur un même moniteur, la 4K est plus dense ; à nombre de points égal, plus l’écran est grand, plus l’image paraît grossière</span><span>Tournez en 4K même pour une sortie FHD – les pixels en réserve deviennent la liberté de recadrer · zoomer · stabiliser au montage</span>"
+},
+{
+"key": "part03.html#404",
+"fr": "<b>Fig. 32</b> Normes de résolution – la FHD dans un cadre 4K. Le cadre rouge a la taille d’une image FHD ; dans l’original 4K, on peut le déplacer n’importe où."
+},
+{
+"key": "part03.html#405",
+"fr": "Format d’image – la largeur divisée par la hauteur"
+},
+{
+"key": "part03.html#406",
+"fr": "<b>4:3</b><span>1,33 · TV rétro · flashbacks</span>"
+},
+{
+"key": "part03.html#407",
+"fr": "<b>16:9</b><span>1,78 · YouTube · TV · standard</span>"
+},
+{
+"key": "part03.html#408",
+"fr": "<b>21:9</b><span>2,39 · cinéma · letterbox</span>"
+},
+{
+"key": "part03.html#409",
+"fr": "<b>1:1</b><span>Fils d’actualité · miniatures</span>"
+},
+{
+"key": "part03.html#410",
+"fr": "<b>9:16</b><span>Vidéos courtes · écran LED vertical</span>"
+},
+{
+"key": "part03.html#411",
+"fr": "Le format d’image, c’est « la largeur divisée par la hauteur ». Changez de format, et la même scène donne à la personne une autre taille et à l’arrière-plan une autre part – tournez dès le départ au format de livraison."
+},
+{
+"key": "part03.html#412",
+"fr": "<b>Fig. 33</b> Principaux formats d’image – la même scène découpée en cinq formats. Les formats horizontaux montrent l’espace ; les verticaux, les personnes."
+},
+{
+"key": "part03.html#413",
+"fr": "Nom"
+},
+{
+"key": "part03.html#414",
+"fr": "Pixels au total"
+},
+{
+"key": "part03.html#415",
+"fr": "Usage pratique"
+},
+{
+"key": "part03.html#416",
+"fr": "Points d’attention"
+},
+{
+"key": "part03.html#417",
+"fr": "HD (720p)"
+},
+{
+"key": "part03.html#418",
+"fr": "Env. 0,92 M"
+},
+{
+"key": "part03.html#419",
+"fr": "Web bas débit, anciens appareils"
+},
+{
+"key": "part03.html#420",
+"fr": "Inadapté en usage principal aujourd’hui"
+},
+{
+"key": "part03.html#421",
+"fr": "FHD (1080p)"
+},
+{
+"key": "part03.html#422",
+"fr": "Env. 2,07 M"
+},
+{
+"key": "part03.html#423",
+"fr": "Maquettes web, livraisons basse définition"
+},
+{
+"key": "part03.html#424",
+"fr": "Aucune marge de recadrage"
+},
+{
+"key": "part03.html#425",
+"fr": "Env. 4,11 M"
+},
+{
+"key": "part03.html#426",
+"fr": "Caméras d’action, caméras B"
+},
+{
+"key": "part03.html#427",
+"fr": "Faible en caméra principale"
+},
+{
+"key": "part03.html#428",
+"fr": "UHD 4K"
+},
+{
+"key": "part03.html#429",
+"fr": "Env. 8,29 M"
+},
+{
+"key": "part03.html#430",
+"fr": "Standard de tournage"
+},
+{
+"key": "part03.html#431",
+"fr": "Stockage ×4"
+},
+{
+"key": "part03.html#432",
+"fr": "DCI 4K"
+}
+]

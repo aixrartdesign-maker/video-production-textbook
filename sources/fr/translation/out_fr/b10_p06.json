@@ -1,0 +1,374 @@
+[
+{
+"key": "part09.html#637",
+"fr": "Très faible"
+},
+{
+"key": "part09.html#638",
+"fr": "Lien direct"
+},
+{
+"key": "part09.html#639",
+"fr": "Rushs bruts"
+},
+{
+"key": "part09.html#640",
+"fr": "Vidéo courte des coulisses"
+},
+{
+"key": "part09.html#641",
+"fr": "Très faible"
+},
+{
+"key": "part09.html#642",
+"fr": "Proximité"
+},
+{
+"key": "part09.html#643",
+"fr": "Réutiliser n’est pas de la paresse, mais une stratégie.<small>8.10 Gérer une chaîne et le calendrier éditorial</small>"
+},
+{
+"key": "part09.html#644",
+"fr": "L’IA générative ne dessine pas ; elle dissipe le bruit"
+},
+{
+"key": "part09.html#645",
+"fr": "<b>Modèles de diffusion – « dégager » une image du bruit</b><span>À l’entraînement, le modèle apprend comment une photo se dégrade quand on y ajoute du bruit peu à peu ; à la génération, il fait l’inverse et retire le bruit pas à pas, en partant de bruit pur. Le prompt est la boussole qui indique dans quel sens dégager</span>"
+},
+{
+"key": "part09.html#646",
+"fr": "<b>① Prompt</b><span>Le texte devient un vecteur de nombres – « soleil du matin, mug blanc »</span>"
+},
+{
+"key": "part09.html#647",
+"fr": "<b>② Bruit</b><span>On part d’un écran de points aléatoires</span>"
+},
+{
+"key": "part09.html#648",
+"fr": "<b>③ 20–50 étapes de débruitage</b><span>Chaque étape prédit « quoi effacer pour rapprocher cette image du prompt »</span>"
+},
+{
+"key": "part09.html#649",
+"fr": "<b>④ Résultat</b><span>Même prompt, bruit de départ (seed) différent, image différente</span>"
+},
+{
+"key": "part09.html#650",
+"fr": "<b>Fig. 83-1</b> Le fonctionnement de l’IA générative – le modèle de diffusion. Les modèles de génération vidéo étendent le même principe à l’axe du temps. C’est pourquoi ils réussissent mieux « ce genre d’ambiance » que « exactement cette scène », et se trompent sur des détails comme le nombre de doigts."
+},
+{
+"key": "part09.html#651",
+"fr": "<small>Exercice</small>8.10"
+},
+{
+"key": "part09.html#652",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#653",
+"fr": "Établissez un calendrier éditorial d’un mois et appliquez-le réellement pendant 2 semaines."
+},
+{
+"key": "part09.html#654",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#655",
+"fr": "Choisissez un rythme tenable, par exemple 2 publications par semaine."
+},
+{
+"key": "part09.html#656",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#657",
+"fr": "Exécution par rapport au plan, bilan rétrospectif"
+},
+{
+"key": "part09.html#658",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#659",
+"fr": "Garde une trace des révisions apportées au calendrier d’après les indicateurs, en cours de route."
+},
+{
+"key": "part09.html#660",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#661",
+"fr": "Rédiger titres et accroches"
+},
+{
+"key": "part09.html#662",
+"fr": "Selon son titre, la même vidéo peut obtenir plusieurs fois plus de vues. La rédaction est une compétence à part, que tout vidéaste doit acquérir."
+},
+{
+"key": "part09.html#663",
+"fr": "Les 12 premiers caractères décident du titre – ce qu’affiche un écran de téléphone"
+},
+{
+"key": "part09.html#664",
+"fr": "10 kg en 3 jours ? "
+},
+{
+"key": "part09.html#665",
+"fr": "Pourquoi les médecins disent non"
+},
+{
+"key": "part09.html#666",
+"fr": "12 car."
+},
+{
+"key": "part09.html#667",
+"fr": "<b style=\"color:#7A1C2B\">○ Chiffre + question – l’essentiel dans les 12 premiers</b><span>10 kg en 3 jours ? Pourquoi les médecins disent non</span>"
+},
+{
+"key": "part09.html#668",
+"fr": "Notre entreprise présente"
+},
+{
+"key": "part09.html#669",
+"fr": "son nouveau programme santé…"
+},
+{
+"key": "part09.html#670",
+"fr": "12 car."
+},
+{
+"key": "part09.html#671",
+"fr": "<b style=\"color:#7A7A80\">✕ Rien que le sujet dans les 12 premiers – l’essentiel vient après</b><span>Notre entreprise présente son nouveau programme santé en vidéo</span>"
+},
+{
+"key": "part09.html#672",
+"fr": "Repas micro-ondes en résidence"
+},
+{
+"key": "part09.html#673",
+"fr": " : à ne pas faire"
+},
+{
+"key": "part09.html#674",
+"fr": "12 car."
+},
+{
+"key": "part09.html#675",
+"fr": "<b style=\"color:#7A1C2B\">○ Public + interdit – tout se joue à la 1re ligne</b><span>Repas micro-ondes en résidence : à ne pas faire</span>"
+},
+{
+"key": "part09.html#676",
+"fr": "Printemps 2024 : présentation "
+},
+{
+"key": "part09.html#677",
+"fr": "de la nouvelle gamme…"
+},
+{
+"key": "part09.html#678",
+"fr": "12 car."
+},
+{
+"key": "part09.html#679",
+"fr": "<b style=\"color:#7A7A80\">✕ Date · présentation · partage – des mots sans information</b><span>Printemps 2024 : présentation de la nouvelle gamme et partage d’avis d’utilisateurs</span>"
+},
+{
+"key": "part09.html#680",
+"fr": "<b>Cinq formules d’accroche – dans de vrais titres</b><span><b>Chiffre</b> L’étalonnage bouclé en 30 secondes</span><span><b>Question</b> Pourquoi mes vidéos ne font aucune vue</span><span><b>Interdit</b> Les objectifs qu’un débutant ne doit jamais acheter</span><span><b>Avant-après</b> Ce que change un éclairage à 50 000 ₩</span><span><b>Secret</b> L’ordre des plans que les réalisateurs de pub ne vous diront pas</span>"
+},
+{
+"key": "part09.html#681",
+"fr": "<b>Fig. 85-1</b> Les 12 premiers caractères décident du titre – le nombre de caractères qu’affiche un fil mobile. Le trait rouge marque la limite des 12 caractères ; sans mot-clé avant lui, le reste n’est pas lu. Ne choisissez qu’une seule des cinq formules."
+},
+{
+"key": "part09.html#682",
+"fr": "12 types de titres"
+},
+{
+"key": "part09.html#683",
+"fr": "Type"
+},
+{
+"key": "part09.html#684",
+"fr": "Structure"
+},
+{
+"key": "part09.html#685",
+"fr": "Exemple"
+},
+{
+"key": "part09.html#686",
+"fr": "Chiffre"
+},
+{
+"key": "part09.html#687",
+"fr": "N choses + public"
+},
+{
+"key": "part09.html#688",
+"fr": "5 choses à savoir quand on débute en vidéo"
+},
+{
+"key": "part09.html#689",
+"fr": "Résultat d’abord"
+},
+{
+"key": "part09.html#690",
+"fr": "Résultat + méthode"
+},
+{
+"key": "part09.html#691",
+"fr": "Le montage qui a multiplié les vues par 10"
+},
+{
+"key": "part09.html#692",
+"fr": "Contre-pied"
+},
+{
+"key": "part09.html#693",
+"fr": "Contredire l’idée reçue"
+},
+{
+"key": "part09.html#694",
+"fr": "Pourquoi une caméra chère est inutile"
+},
+{
+"key": "part09.html#695",
+"fr": "Question"
+},
+{
+"key": "part09.html#696",
+"fr": "Éveiller la curiosité"
+},
+{
+"key": "part09.html#697",
+"fr": "Pourquoi on zappe mes vidéos à 3 secondes"
+},
+{
+"key": "part09.html#698",
+"fr": "Nommer le public"
+},
+{
+"key": "part09.html#699",
+"fr": "Dire à qui l’on s’adresse"
+},
+{
+"key": "part09.html#700",
+"fr": "Bases du tournage pour étudiants de 1re année"
+},
+{
+"key": "part09.html#701",
+"fr": "Comparaison"
+},
+{
+"key": "part09.html#702",
+"fr": "A contre B"
+},
+{
+"key": "part09.html#703",
+"fr": "Premiere ou Final Cut : lequel apprendre"
+},
+{
+"key": "part09.html#704",
+"fr": "Délai"
+},
+{
+"key": "part09.html#705",
+"fr": "Annoncer une durée"
+},
+{
+"key": "part09.html#706",
+"fr": "Une publicité de 15 secondes faite en une semaine"
+},
+{
+"key": "part09.html#707",
+"fr": "Récit d’échec"
+},
+{
+"key": "part09.html#708",
+"fr": "Partager l’expérience"
+},
+{
+"key": "part09.html#709",
+"fr": "7 ratés de mon premier tournage"
+},
+{
+"key": "part09.html#710",
+"fr": "Nommer l’outil"
+},
+{
+"key": "part09.html#711",
+"fr": "Un outil précis"
+},
+{
+"key": "part09.html#712",
+"fr": "Une publicité tournée au seul smartphone"
+},
+{
+"key": "part09.html#713",
+"fr": "Avant-après"
+},
+{
+"key": "part09.html#714",
+"fr": "Souligner le changement"
+},
+{
+"key": "part09.html#715",
+"fr": "Ce que change un seul éclairage"
+},
+{
+"key": "part09.html#716",
+"fr": "Secret"
+},
+{
+"key": "part09.html#717",
+"fr": "Information rare"
+},
+{
+"key": "part09.html#718",
+"fr": "Les notations de tournage réservées au plateau"
+},
+{
+"key": "part09.html#719",
+"fr": "Liste de contrôle"
+},
+{
+"key": "part09.html#720",
+"fr": "Utilité pratique"
+},
+{
+"key": "part09.html#721",
+"fr": "À vérifier la veille d’un tournage"
+},
+{
+"key": "part09.html#722",
+"fr": "Règles d’écriture des accroches"
+},
+{
+"key": "part09.html#723",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part09.html#724",
+"fr": "En vidéo courte, le premier texte à l’écran fait office de titre. Il doit pouvoir se lire en 0,5 seconde."
+},
+{
+"key": "part09.html#725",
+"fr": "<b>01</b><span>Placez le mot le plus important en premier. Sur mobile, la fin est tronquée.</span>"
+},
+{
+"key": "part09.html#726",
+"fr": "<b>02</b><span>Les mots concrets l’emportent sur l’abstrait : « en 3 secondes », pas « une bonne méthode ».</span>"
+},
+{
+"key": "part09.html#727",
+"fr": "<b>03</b><span>Nommer le public augmente le taux de clics. Un titre qui vise tout le monde n’atteint personne.</span>"
+},
+{
+"key": "part09.html#728",
+"fr": "<b>04</b><span>Le piège à clics outrancier gagne des clics au début, mais fait baisser la rétention ; au final, les impressions chutent.</span>"
+},
+{
+"key": "part09.html#729",
+"fr": "<b>05</b><span>Placez le nom de la marque en dernier. En tête, le titre passe pour une publicité.</span>"
+}
+]

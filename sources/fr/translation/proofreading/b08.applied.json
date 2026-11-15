@@ -1,0 +1,5 @@
+[
+{"key": "part07.html#528", "find": "Traits", "replace": "Particularités", "why": "other: calque, 'Traits' unnatural as column header; matches 'particularités' used for 'traits' in #907"},
+{"key": "part07.html#605", "find": "Trop basse, elle crée des bandes à l’image", "replace": "Trop faible : bandes à l’image", "why": "grammar: 'basse/elle' does not agree with row label 'Rafraîchissement' (m.)"},
+{"key": "part08.html#3", "find": "Une analyse de structure d’une", "replace": "Une analyse de la structure d’une", "why": "grammar: missing article"}
+]

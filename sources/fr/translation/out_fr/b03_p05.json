@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#357",
+"fr": "<b>04</b><span>Diffusez le compte rendu <b>le jour même</b>. Dès le lendemain, les souvenirs divergent.</span>"
+},
+{
+"key": "feature_ppm.html#358",
+"fr": "<b>05</b><span>Il n’y a qu’une condition de sortie : <b>chaque participant doit pouvoir dire ce qu’il fera le jour du tournage</b>.</span>"
+},
+{
+"key": "feature_ppm.html#359",
+"fr": "<b>06</b><span>Après la PPM, n’acceptez de changement que par une <b>demande de modification</b>. Elle précise l’incidence sur le coût · le planning et porte la signature de la personne qui valide.</span>"
+},
+{
+"key": "feature_ppm.html#360",
+"fr": "<small>Exercice</small>2.2"
+},
+{
+"key": "feature_ppm.html#361",
+"fr": "Tâche"
+},
+{
+"key": "feature_ppm.html#362",
+"fr": "Montez un dossier PPM fictif (douze pages), répartissez les équipes entre les rôles annonceur · société de production et tenez la réunion."
+},
+{
+"key": "feature_ppm.html#363",
+"fr": "Conseil"
+},
+{
+"key": "feature_ppm.html#364",
+"fr": "Incluez tout ceci : planche ton et style, fiche de repérage, fiche de casting, carte costumes · mise en scène, planning, feuille de service, tableaux budget · risques. N’oubliez pas l’unique case d’anti-référence."
+},
+{
+"key": "feature_ppm.html#365",
+"fr": "Évaluation"
+},
+{
+"key": "feature_ppm.html#366",
+"fr": "Accords consignés, questions traitées, responsable · échéance indiqués pour les points en suspens"
+},
+{
+"key": "feature_ppm.html#367",
+"fr": "Corrigé type"
+},
+{
+"key": "feature_ppm.html#368",
+"fr": "Diffuse le compte rendu et la liste des décisions dans l’heure qui suit la fin de la réunion."
+},
+{
+"key": "feature_ppm.html#369",
+"fr": "<small>Exercice</small>2.2"
+},
+{
+"key": "feature_ppm.html#370",
+"fr": "Tâche"
+},
+{
+"key": "feature_ppm.html#371",
+"fr": "Rédigez un plan de travail sur deux jours, un horaire de tournage d’une journée (blocs de 15 minutes), une feuille de service et un budget."
+},
+{
+"key": "feature_ppm.html#372",
+"fr": "Conseil"
+},
+{
+"key": "feature_ppm.html#373",
+"fr": "Regroupez par lieu → lumière → acteur. Ne sous-estimez pas les temps de trajet et d’installation. Gardez 10 % d’imprévus et un jour de réserve."
+},
+{
+"key": "feature_ppm.html#374",
+"fr": "Évaluation"
+},
+{
+"key": "feature_ppm.html#375",
+"fr": "Planning réaliste, aucun poste budgétaire oublié, solutions de repli concrètes"
+},
+{
+"key": "feature_ppm.html#376",
+"fr": "Corrigé type"
+},
+{
+"key": "feature_ppm.html#377",
+"fr": "Après le tournage réel, trace les barres réelles à côté des barres prévues, note l’écart et en tient compte dans le plan suivant."
+},
+{
+"key": "part06.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part06.html#1",
+"fr": "<small>PARTIE</small>06"
+},
+{
+"key": "part06.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part06.html#3",
+"fr": "Un concept en une phrase"
+},
+{
+"key": "part06.html#4",
+"fr": "Un storyboard de 6 plans et son animatique"
+},
+{
+"key": "part06.html#5",
+"fr": "Un document PPM en 12 rubriques"
+},
+{
+"key": "part06.html#6",
+"fr": "Conception et préproduction"
+},
+{
+"key": "part06.html#7",
+"fr": "Si vous décidez encore sur le plateau, il est déjà trop tard. Les plateaux professionnels sont calmes parce que les décisions sont déjà arrêtées sur le papier. Cette PARTIE part de la question « Qu’est-ce qui amusera les gens ? » et suit le chemin qui mène d’un concept en une phrase au storyboard et à la PPM."
+},
+{
+"key": "part06.html#8",
+"fr": "Photo P-06 Storyboard et liste de plans sur une table de réunion de production · image générée"
+},
+{
+"key": "part06.html#9",
+"fr": "<b>P-06</b> Storyboard et liste de plans sur une table de réunion de production"
+},
+{
+"key": "part06.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part06.html#11",
+"fr": "Passer d’un concept en une phrase à un storyboard"
+},
+{
+"key": "part06.html#12",
+"fr": "<b>Matériel</b>Fiches de travail imprimées 1 · 2 · 3, stylos, minuteur"
+},
+{
+"key": "part06.html#13",
+"fr": "<b>10 min</b><i>Ouverture</i><span>Raconter un tournage sans plan qui a mal tourné</span>"
+},
+{
+"key": "part06.html#14",
+"fr": "<b>15 min</b><i>Notions</i><span>Lire le brief, 6 types de concept, le coût du changement</span>"
+},
+{
+"key": "part06.html#15",
+"fr": "<b>10 min</b><i>Planches</i><span>Disposition des cases et notation du storyboard expliquées</span>"
+},
+{
+"key": "part06.html#16",
+"fr": "<b>10 min</b><i>Exercice</i><span>Dégager un concept avec une version condensée des 6 chapeaux de la réflexion</span>"
+},
+{
+"key": "part06.html#17",
+"fr": "<b>5 min</b><i>Bilan</i><span>Donner à terminer un storyboard de 6 plans pour la prochaine séance</span>"
+},
+{
+"key": "part06.html#18",
+"fr": "<b>Point de contrôle</b>Le concept en une phrase peut-il se prouver à l’écran ?"
+},
+{
+"key": "part06.html#19",
+"fr": "PARTIE 06"
+},
+{
+"key": "part06.html#20",
+"fr": "Introduction"
+},
+{
+"key": "part06.html#21",
+"fr": "Si vous décidez encore sur le plateau, il est déjà trop tard. Un plateau brûle des centaines de milliers de wons par heure, et dix personnes attendent la décision d’une seule. Voilà pourquoi les plateaux professionnels sont calmes : les décisions sont déjà arrêtées sur le papier."
+},
+{
+"key": "part06.html#22",
+"fr": "Les documents de préparation ne sont pas de la paperasse : ils sont la promesse que personne n’aura à reposer la question sur le plateau. Un storyboard est un dispositif qui fait imaginer le même cadre à dix personnes, et la PPM est la procédure qui arrête chaque décision au dernier moment où changer reste bon marché. Dans les projets étudiants aussi, les écarts de compréhension entre coéquipiers doivent apparaître avant le jour du tournage, pas le jour même."
+},
+{
+"key": "part06.html#23",
+"fr": "Ce sur quoi je veux le plus insister, c’est le concept en une phrase : cette pub fait ressentir quoi, à qui, et de quelle manière. Si cette phrase ne vient pas, ne dessinez pas le storyboard. Un projet qui commence par les images s’effondre toujours en chemin. Une fois la phrase arrêtée, tout en découle : quels plans supprimer, quelle musique choisir, combien de sous-titres employer."
+},
+{
+"key": "part06.html#24",
+"fr": "Contexte 9"
+},
+{
+"key": "part06.html#25",
+"fr": "Les archétypes du récit – de la Poétique au voyage du héros"
+},
+{
+"key": "part06.html#26",
+"fr": "D’une pub de 15 secondes à un film de 90 minutes, les histoires qui captivent partagent des structures récurrentes. Dans la Poétique, Aristote désigne l’intrigue, l’agencement des faits, comme l’élément le plus important de la tragédie. Une histoire doit être une action complète, avec un début, un milieu et une fin, et ses événements doivent s’enchaîner selon la nécessité ou la vraisemblance. La « péripétie », où le sort d’un personnage bascule, et la « reconnaissance », où une vérité ignorée éclate au grand jour, sont ce qui émeut le plus le public. Les pubs à chute d’aujourd’hui suivent le même principe."
+},
+{
+"key": "part06.html#27",
+"fr": "En 1863, l’écrivain allemand du XIXe siècle Gustav Freytag a ordonné la structure dramatique en cinq étapes : exposition, action montante, point culminant, action descendante et catastrophe. La « pyramide de Freytag » décrit une histoire comme une courbe de tension qui monte puis redescend. En Asie de l’Est, le gi-seung-jeon-gyeol, forme en quatre temps née du quatrain chinois classique, a joué un rôle comparable. Parce que la direction change au troisième temps, le « tournant », il convient particulièrement aux vidéos courtes."
+},
+{
+"key": "part06.html#28",
+"fr": "Au XXe siècle, le mythologue Joseph Campbell a soutenu dans Le Héros aux mille et un visages (1949) que les mythes du monde entier suivent un parcours semblable : un héros quitte le monde ordinaire, traverse des épreuves et revient transformé. Christopher Vogler en a tiré une méthode d’écriture de scénario dans Le Guide du scénariste, et Syd Field a popularisé la structure en 3 actes et les nœuds dramatiques dans Screenplay (1979)."
+},
+{
+"key": "part06.html#29",
+"fr": "Employées comme des formules, ces structures rendent l’histoire prévisible. Mais comprenez pourquoi elles fonctionnent, et vous pourrez les employer autrement. Le public entre dans une histoire quand il sait ce que veut le personnage, se tend quand ce désir est contrarié et s’émeut quand le personnage fait un choix. Rendez trois choses claires – désir, obstacle, choix – et l’histoire vit, en quatre temps comme en 3 actes."
+},
+{
+"key": "part06.html#30",
+"fr": "Il en va de même des films de marque. Le public accepte une histoire quand le protagoniste est une personne, non le produit, et que le produit est l’adjuvant qui aide cette personne à franchir l’obstacle. La conception, dans cette PARTIE, revient à décider le désir de qui, et quel désir, placer devant quel obstacle."
+},
+{
+"key": "part06.html#31",
+"fr": "Pour aller plus loin : Aristote, Poétique · Joseph Campbell, Le Héros aux mille et un visages · Robert McKee, Story"
+},
+{
+"key": "part06.html#32",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#33",
+"fr": "Une carte de toute la chaîne de production"
+},
+{
+"key": "part06.html#34",
+"fr": "Les professionnels passent la moitié de leur temps à préparer. Le coût d’une mauvaise préparation croît de façon exponentielle."
+},
+{
+"key": "part06.html#35",
+"fr": "<b>Fig. 56</b> Carte de toute la chaîne de production vidéo"
+},
+{
+"key": "part06.html#36",
+"fr": "<b>01</b><i>Préproduction</i>Brief › recherche › concept › synopsis › note d’intention › storyboard brouillon › storyboard › PPM › repérages"
+},
+{
+"key": "part06.html#37",
+"fr": "<b>02</b><i>Tournage (production)</i>Prises de vues"
+},
+{
+"key": "part06.html#38",
+"fr": "<b>03</b><i>Postproduction</i>Premier montage › compositing › étalonnage › son › livraison"
+},
+{
+"key": "part06.html#39",
+"fr": "<b>50<em>%</em></b>Préproduction – note d’intention, storyboard, document PPM"
+},
+{
+"key": "part06.html#40",
+"fr": "<b>20<em>%</em></b>Tournage – originaux caméra, rapports de plateau"
+},
+{
+"key": "part06.html#41",
+"fr": "<b>30<em>%</em></b>Postproduction – master final, exports par version"
+},
+{
+"key": "part06.html#42",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part06.html#43",
+"fr": "Chaque étape a son échec le plus courant : partir en tournage avec un concept flou, manquer de plans de couverture, et vouloir réparer en postproduction ce qui n’a pas été fait sur le plateau."
+},
+{
+"key": "part06.html#44",
+"fr": "Ce que veulent dire 50 % – le coût du changement"
+},
+{
+"key": "part06.html#45",
+"fr": "Si un changement coûte 1 au stade du concept, il coûte 3 fois plus au stade du storyboard, 5 fois plus à la PPM, 20 fois plus le jour du tournage et plus de 50 fois plus en postproduction. Les projets étudiants ne font pas exception."
+},
+{
+"key": "part06.html#46",
+"fr": "<small>Exercice</small>2.3"
+},
+{
+"key": "part06.html#47",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#48",
+"fr": "Tracez sous forme de planning la chaîne de production d’une pub fictive de 30 s, de la conception à la livraison."
+},
+{
+"key": "part06.html#49",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#50",
+"fr": "Notez le livrable de chaque étape (note d’intention, storyboard, rushes, montage)."
+},
+{
+"key": "part06.html#51",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#52",
+"fr": "Étapes oubliées, réalisme du planning"
+},
+{
+"key": "part06.html#53",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#54",
+"fr": "Indique, pour chaque étape, qui valide et le nombre de tours de retours."
+},
+{
+"key": "part06.html#55",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#56",
+"fr": "Lire le brief et l’intention du projet"
+},
+{
+"key": "part06.html#57",
+"fr": "La clé pour lire un brief : distinguer ce qui a été demandé de ce dont on a vraiment besoin."
+},
+{
+"key": "part06.html#58",
+"fr": "<span class=\"ph-id\">P06-BRIEF</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Comment lire un brief – là où le surligneur s’arrête, le concept commence</b></span>"
+},
+{
+"key": "part06.html#59",
+"fr": "<b>Note</b>Comment lire un brief – là où le surligneur s’arrête, le concept commence"
+},
+{
+"key": "part06.html#60",
+"fr": "<b>Brief</b>"
+},
+{
+"key": "part06.html#61",
+"fr": "La demande d’un client, le règlement d’un concours et les consignes d’un professeur sont tous des briefs."
+},
+{
+"key": "part06.html#62",
+"fr": "Toute vidéo naît du besoin de quelqu’un. Chaque rubrique d’un brief a ses questions à poser et ses points à arrêter."
+},
+{
+"key": "part06.html#63",
+"fr": "Rubrique du brief"
+},
+{
+"key": "part06.html#64",
+"fr": "À demander"
+},
+{
+"key": "part06.html#65",
+"fr": "À arrêter"
+},
+{
+"key": "part06.html#66",
+"fr": "Objectif"
+},
+{
+"key": "part06.html#67",
+"fr": "Notoriété, conversion ou image de marque"
+},
+{
+"key": "part06.html#68",
+"fr": "Un seul indicateur"
+},
+{
+"key": "part06.html#69",
+"fr": "Cible"
+},
+{
+"key": "part06.html#70",
+"fr": "Acheteur et utilisateur sont-ils la même personne"
+},
+{
+"key": "part06.html#71",
+"fr": "Le profil concret d’une seule personne"
+},
+{
+"key": "part06.html#72",
+"fr": "Message clé"
+},
+{
+"key": "part06.html#73",
+"fr": "Plusieurs, ou un seul"
+},
+{
+"key": "part06.html#74",
+"fr": "Une phrase, 15 syllabes max."
+},
+{
+"key": "part06.html#75",
+"fr": "Élément différenciant"
+},
+{
+"key": "part06.html#76",
+"fr": "Ce que les concurrents ne peuvent pas revendiquer"
+},
+{
+"key": "part06.html#77",
+"fr": "Une forme prouvable par l’image"
+},
+{
+"key": "part06.html#78",
+"fr": "Supports"
+},
+{
+"key": "part06.html#79",
+"fr": "Où c’est diffusé, et à quel volume"
+},
+{
+"key": "part06.html#80",
+"fr": "Formats, durée, avec ou sans le son"
+},
+{
+"key": "part06.html#81",
+"fr": "Restrictions"
+},
+{
+"key": "part06.html#82",
+"fr": "Limites légales éventuelles sur la formulation"
+},
+{
+"key": "part06.html#83",
+"fr": "Liste des mots et allégations interdits"
+},
+{
+"key": "part06.html#84",
+"fr": "Budget et planning"
+},
+{
+"key": "part06.html#85",
+"fr": "Combien de jours de tournage"
+},
+{
+"key": "part06.html#86",
+"fr": "Séances de tournage et durée de la postproduction"
+},
+{
+"key": "part06.html#87",
+"fr": "Références"
+},
+{
+"key": "part06.html#88",
+"fr": "Ce que le client aime"
+},
+{
+"key": "part06.html#89",
+"fr": "3 vidéos de ton et style validées"
+},
+{
+"key": "part06.html#90",
+"fr": "Le résultat final de la lecture d’un brief tient en une phrase"
+},
+{
+"key": "part06.html#91",
+"fr": "Cette pub fait ressentir [quoi] à [qui] [de quelle manière]. Si vous ne pouvez pas écrire cette phrase, ne dessinez pas le storyboard."
+},
+{
+"key": "part06.html#92",
+"fr": "Un projet qui commence par les images s’effondre toujours en chemin.<small>2.4 Lire le brief et l’intention du projet</small>"
+},
+{
+"key": "part06.html#93",
+"fr": "<small>Exercice</small>2.4"
+},
+{
+"key": "part06.html#94",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#95",
+"fr": "Choisissez le brief d’un vrai concours et résumez en une page sa mission centrale, sa cible, son message et ses contraintes."
+},
+{
+"key": "part06.html#96",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#97",
+"fr": "Ne recopiez pas les mots du brief ; reformulez-le en « mission en une phrase »."
+},
+{
+"key": "part06.html#98",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#99",
+"fr": "Clarté de la définition du problème"
+},
+{
+"key": "part06.html#100",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#101",
+"fr": "Dégage les missions cachées, non écrites dans le brief."
+},
+{
+"key": "part06.html#102",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#103",
+"fr": "Trouver des idées : les 6 chapeaux de la réflexion"
+},
+{
+"key": "part06.html#104",
+"fr": "Tout le monde porte un chapeau de la même couleur et pense dans la même direction, puis passe au chapeau suivant."
+},
+{
+"key": "part06.html#105",
+"fr": "<span class=\"ph-id\">P06-BRAINSTORM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Les idées naissent au mur – les Post-it sont précieux parce qu’ils se jettent facilement</b></span>"
+},
+{
+"key": "part06.html#106",
+"fr": "<b>Note</b>Les idées naissent au mur – les Post-it sont précieux parce qu’ils se jettent facilement"
+},
+{
+"key": "part06.html#107",
+"fr": "<b>Les 6 chapeaux de la réflexion</b>"
+},
+{
+"key": "part06.html#108",
+"fr": "Une technique de réflexion proposée par Edward de Bono. Elle évite la confusion d’une personne qui jongle avec plusieurs points de vue à la fois."
+},
+{
+"key": "part06.html#109",
+"fr": "<small>Chapeau blanc</small>Faits et données"
+},
+{
+"key": "part06.html#110",
+"fr": "Le temps de visionnage réel de la cible ?"
+},
+{
+"key": "part06.html#111",
+"fr": "Le nombre de vues des concurrents ? Le budget ?"
+},
+{
+"key": "part06.html#112",
+"fr": "<small>Chapeau rouge</small>Émotions et intuition"
+},
+{
+"key": "part06.html#113",
+"fr": "Que vous fait ressentir cette idée ?"
+},
+{
+"key": "part06.html#114",
+"fr": "Enthousiasmante ou ennuyeuse ?"
+},
+{
+"key": "part06.html#115",
+"fr": "<small>Chapeau noir</small>Risques et critiques"
+},
+{
+"key": "part06.html#116",
+"fr": "Qu’est-ce qui pourrait mal tourner ?"
+},
+{
+"key": "part06.html#117",
+"fr": "Des scènes impossibles à tourner ?"
+},
+{
+"key": "part06.html#118",
+"fr": "<small>Chapeau jaune</small>Valeur et optimisme"
+},
+{
+"key": "part06.html#119",
+"fr": "Le plus grand atout ?"
+},
+{
+"key": "part06.html#120",
+"fr": "Si ça réussit, pourquoi ?"
+},
+{
+"key": "part06.html#121",
+"fr": "<small>Chapeau vert</small>Créativité et alternatives"
+},
+{
+"key": "part06.html#122",
+"fr": "Une autre façon de faire ?"
+},
+{
+"key": "part06.html#123",
+"fr": "Et si on inversait ?"
+},
+{
+"key": "part06.html#124",
+"fr": "<small>Chapeau bleu</small>Pilotage du processus"
+},
+{
+"key": "part06.html#125",
+"fr": "Où en sommes-nous ?"
+},
+{
+"key": "part06.html#126",
+"fr": "Que devons-nous décider ?"
+},
+{
+"key": "part06.html#127",
+"fr": "Exemple d’ordre du jour (60 min)"
+},
+{
+"key": "part06.html#128",
+"fr": "<b>01</b><span>Chapeau bleu 5 min – énoncer ce qui doit être décidé aujourd’hui.</span>"
+}
+]

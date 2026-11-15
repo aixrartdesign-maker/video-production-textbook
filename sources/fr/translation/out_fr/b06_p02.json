@@ -1,0 +1,682 @@
+[
+{
+"key": "part04.html#581",
+"fr": "<b>-12<em>dBFS</em></b>Seuil bas des crêtes"
+},
+{
+"key": "part04.html#582",
+"fr": "<b>-6<em>dBFS</em></b>Plafond à ne pas dépasser"
+},
+{
+"key": "part04.html#583",
+"fr": "<b>30<em>s</em></b>Silence plateau avant de plier"
+},
+{
+"key": "part04.html#584",
+"fr": "Pointez la perche vers la bouche, d’en haut. D’en bas, elle capte aussi les réflexions du sol."
+},
+{
+"key": "part04.html#585",
+"fr": "En intérieur, évitez les angles parallèles aux murs pour réduire la réverbération."
+},
+{
+"key": "part04.html#586",
+"fr": "Après le tournage, enregistrez le silence du lieu, le silence plateau (room tone), pendant 30 secondes au moins. C’est lui qui comble naturellement les blancs entre les répliques."
+},
+{
+"key": "part04.html#587",
+"fr": "<b>G-14</b> Types de micros – canon · cravate · main · enregistreur"
+},
+{
+"key": "part04.html#588",
+"fr": "<small>Exercice</small>4.8"
+},
+{
+"key": "part04.html#589",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#590",
+"fr": "Enregistrez la même réplique avec le micro intégré de la caméra, un canon et une cravate, puis comparez."
+},
+{
+"key": "part04.html#591",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#592",
+"fr": "Visez des niveaux autour de -12 dB, avec des crêtes à -6 dB au plus."
+},
+{
+"key": "part04.html#593",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#594",
+"fr": "Niveaux, différences de bruit relevées"
+},
+{
+"key": "part04.html#595",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#596",
+"fr": "Dresse un tableau recommandant le meilleur micro pour chaque lieu (salle de cours, couloir, extérieur)."
+},
+{
+"key": "part04.html#597",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#598",
+"fr": "Les quatre couches de la conception sonore"
+},
+{
+"key": "part04.html#599",
+"fr": "Voix off, musique, effets sonores, logo sonore. Le son d’une publicité de 15 secondes est une conception qui dispose quatre couches dans le temps."
+},
+{
+"key": "part04.html#600",
+"fr": "Le son se construit en quatre couches"
+},
+{
+"key": "part04.html#601",
+"fr": "Accroche"
+},
+{
+"key": "part04.html#602",
+"fr": "Les arrêter dans les 3 premières secondes"
+},
+{
+"key": "part04.html#603",
+"fr": "Développement"
+},
+{
+"key": "part04.html#604",
+"fr": "Empiler information et émotion"
+},
+{
+"key": "part04.html#605",
+"fr": "Conclusion"
+},
+{
+"key": "part04.html#606",
+"fr": "Graver le nom"
+},
+{
+"key": "part04.html#607",
+"fr": "Voix off"
+},
+{
+"key": "part04.html#608",
+"fr": "Votre journée commence"
+},
+{
+"key": "part04.html#609",
+"fr": "avant la ville"
+},
+{
+"key": "part04.html#610",
+"fr": "Aujourd’hui encore, Marque"
+},
+{
+"key": "part04.html#611",
+"fr": "Musique"
+},
+{
+"key": "part04.html#612",
+"fr": "Piano 92 BPM – bas à l’accroche, monte au développement, coupé juste avant le logo"
+},
+{
+"key": "part04.html#613",
+"fr": "SFX"
+},
+{
+"key": "part04.html#614",
+"fr": "Gouttes"
+},
+{
+"key": "part04.html#615",
+"fr": "Capsule"
+},
+{
+"key": "part04.html#616",
+"fr": "Ville"
+},
+{
+"key": "part04.html#617",
+"fr": "souffle"
+},
+{
+"key": "part04.html#618",
+"fr": "Logo sonore"
+},
+{
+"key": "part04.html#619",
+"fr": "♪ Jingle"
+},
+{
+"key": "part04.html#620",
+"fr": "Quand la voix parle, la musique baisse ; quand elle se tait, les effets respirent. Si les quatre couches sont fortes en même temps, on n’entend rien."
+},
+{
+"key": "part04.html#621",
+"fr": "<b>Fig. 45</b> Timeline sonore à 4 couches d’une publicité de 15 secondes – voix off · musique · effets sonores · logo sonore. L’horizontale est le temps ; les blocs indiquent où le son « s’entend »."
+},
+{
+"key": "part04.html#622",
+"fr": "<small>Message</small>Voix off et dialogues"
+},
+{
+"key": "part04.html#623",
+"fr": "Env. 3 syllabes coréennes par seconde"
+},
+{
+"key": "part04.html#624",
+"fr": "Une pub de 15 secondes plafonne la voix off à 35–45 syllabes"
+},
+{
+"key": "part04.html#625",
+"fr": "<small>BGM</small>Musique"
+},
+{
+"key": "part04.html#626",
+"fr": "Fixe l’émotion et le tempo"
+},
+{
+"key": "part04.html#627",
+"fr": "Sert de base au montage : à décider en premier"
+},
+{
+"key": "part04.html#628",
+"fr": "<small>SFX</small>Effets sonores"
+},
+{
+"key": "part04.html#629",
+"fr": "Créent le réalisme physique"
+},
+{
+"key": "part04.html#630",
+"fr": "Ouvertures, pas et liquides doublent la texture de l’image"
+},
+{
+"key": "part04.html#631",
+"fr": "<small>Empreinte</small>Logo sonore"
+},
+{
+"key": "part04.html#632",
+"fr": "Grave la marque par le son"
+},
+{
+"key": "part04.html#633",
+"fr": "2–3 secondes, 3–5 notes, placé à la fin"
+},
+{
+"key": "part04.html#634",
+"fr": "Section"
+},
+{
+"key": "part04.html#635",
+"fr": "Temps"
+},
+{
+"key": "part04.html#636",
+"fr": "Musique"
+},
+{
+"key": "part04.html#637",
+"fr": "Voix off"
+},
+{
+"key": "part04.html#638",
+"fr": "SFX"
+},
+{
+"key": "part04.html#639",
+"fr": "Logo sonore"
+},
+{
+"key": "part04.html#640",
+"fr": "Accroche"
+},
+{
+"key": "part04.html#641",
+"fr": "Entrée forte ou silence"
+},
+{
+"key": "part04.html#642",
+"fr": "Déconseillée"
+},
+{
+"key": "part04.html#643",
+"fr": "1 seul impact"
+},
+{
+"key": "part04.html#644",
+"fr": "Aucun"
+},
+{
+"key": "part04.html#645",
+"fr": "Développement"
+},
+{
+"key": "part04.html#646",
+"fr": "Tenir le rythme"
+},
+{
+"key": "part04.html#647",
+"fr": "1 phrase clé"
+},
+{
+"key": "part04.html#648",
+"fr": "Calés sur l’action"
+},
+{
+"key": "part04.html#649",
+"fr": "Aucun"
+},
+{
+"key": "part04.html#650",
+"fr": "Conclusion"
+},
+{
+"key": "part04.html#651",
+"fr": "Résoudre, laisser résonner"
+},
+{
+"key": "part04.html#652",
+"fr": "Nom de marque, appel à l’action"
+},
+{
+"key": "part04.html#653",
+"fr": "Au minimum"
+},
+{
+"key": "part04.html#654",
+"fr": "2–3 s à la fin"
+},
+{
+"key": "part04.html#655",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part04.html#656",
+"fr": "Le silence aussi est un son. 0,5 seconde de silence total capte l’attention plus fort que n’importe quel effet sonore. Voilà pourquoi la vidéo courte coupe si souvent le son d’un coup."
+},
+{
+"key": "part04.html#657",
+"fr": "Comment régler les droits musicaux"
+},
+{
+"key": "part04.html#658",
+"fr": "Voie"
+},
+{
+"key": "part04.html#659",
+"fr": "Coût"
+},
+{
+"key": "part04.html#660",
+"fr": "Étendue"
+},
+{
+"key": "part04.html#661",
+"fr": "À vérifier"
+},
+{
+"key": "part04.html#662",
+"fr": "Bibliothèque par abonnement"
+},
+{
+"key": "part04.html#663",
+"fr": "Forfait mensuel"
+},
+{
+"key": "part04.html#664",
+"fr": "Usage commercial souvent inclus"
+},
+{
+"key": "part04.html#665",
+"fr": "Conditions après résiliation"
+},
+{
+"key": "part04.html#666",
+"fr": "Licence au titre"
+},
+{
+"key": "part04.html#667",
+"fr": "Paiement par titre"
+},
+{
+"key": "part04.html#668",
+"fr": "Dans le périmètre de la licence"
+},
+{
+"key": "part04.html#669",
+"fr": "Limites : supports, durée, territoire"
+},
+{
+"key": "part04.html#670",
+"fr": "Musique CC avec attribution"
+},
+{
+"key": "part04.html#671",
+"fr": "Gratuit"
+},
+{
+"key": "part04.html#672",
+"fr": "Usage avec mention"
+},
+{
+"key": "part04.html#673",
+"fr": "Conditions de modification et d’usage commercial"
+},
+{
+"key": "part04.html#674",
+"fr": "Audio de plateforme"
+},
+{
+"key": "part04.html#675",
+"fr": "Gratuit"
+},
+{
+"key": "part04.html#676",
+"fr": "Sur cette plateforme seulement"
+},
+{
+"key": "part04.html#677",
+"fr": "Pas d’autres supports"
+},
+{
+"key": "part04.html#678",
+"fr": "Créer ou commander"
+},
+{
+"key": "part04.html#679",
+"fr": "Coût de production"
+},
+{
+"key": "part04.html#680",
+"fr": "Usage illimité"
+},
+{
+"key": "part04.html#681",
+"fr": "Contrat de cession de droits"
+},
+{
+"key": "part04.html#682",
+"fr": "Musique générée par IA"
+},
+{
+"key": "part04.html#683",
+"fr": "Coût de l’outil"
+},
+{
+"key": "part04.html#684",
+"fr": "Selon les conditions de l’outil"
+},
+{
+"key": "part04.html#685",
+"fr": "Conditions d’usage commercial"
+},
+{
+"key": "part04.html#686",
+"fr": "Aucune règle n’autorise les extraits courts"
+},
+{
+"key": "part04.html#687",
+"fr": "Utiliser un extrait d’un titre du commerce, l’utiliser après l’avoir modifié, ou l’utiliser sans licence en citant la source : tout cela est de la contrefaçon. Concours et portfolios de candidature réclament de plus en plus la preuve des licences musicales : conservez les justificatifs d’achat et des captures d’écran des conditions dans le dossier du projet."
+},
+{
+"key": "part04.html#688",
+"fr": "<small>Exercice</small>4.9"
+},
+{
+"key": "part04.html#689",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#690",
+"fr": "Ajoutez tour à tour quatre couches à 30 secondes de vidéo muette : dialogues · effets · ambiance · musique."
+},
+{
+"key": "part04.html#691",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#692",
+"fr": "Posez d’abord l’ambiance pour créer l’espace ; mettez la musique en dernier."
+},
+{
+"key": "part04.html#693",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#694",
+"fr": "Rôle distinct de chaque couche, équilibre du mixage"
+},
+{
+"key": "part04.html#695",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#696",
+"fr": "Remet aussi des versions où chaque couche est activée puis coupée."
+},
+{
+"key": "part04.html#697",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#698",
+"fr": "Effets sonores et bruitage"
+},
+{
+"key": "part04.html#699",
+"fr": "Le son pris sur le plateau ne suffit pas : l’image reste maigre. La plupart des vidéos commerciales recréent le son en postproduction et l’y posent. C’est le bruitage (Foley)."
+},
+{
+"key": "part04.html#700",
+"fr": "Son"
+},
+{
+"key": "part04.html#701",
+"fr": "Comment il se fabrique"
+},
+{
+"key": "part04.html#702",
+"fr": "Usage"
+},
+{
+"key": "part04.html#703",
+"fr": "Pas"
+},
+{
+"key": "part04.html#704",
+"fr": "Recréer avec de vraies chaussures et un vrai sol"
+},
+{
+"key": "part04.html#705",
+"fr": "Déplacement, tension qui monte"
+},
+{
+"key": "part04.html#706",
+"fr": "Froissement de tissu"
+},
+{
+"key": "part04.html#707",
+"fr": "Frotter le tissu à la main"
+},
+{
+"key": "part04.html#708",
+"fr": "Réalisme des actions en gros plan"
+},
+{
+"key": "part04.html#709",
+"fr": "Ouverture du produit"
+},
+{
+"key": "part04.html#710",
+"fr": "Ouvrir et fermer le vrai produit de nombreuses fois"
+},
+{
+"key": "part04.html#711",
+"fr": "Moment décisif de la pub"
+},
+{
+"key": "part04.html#712",
+"fr": "Liquide versé"
+},
+{
+"key": "part04.html#713",
+"fr": "Répéter en variant récipients et hauteurs"
+},
+{
+"key": "part04.html#714",
+"fr": "Cœur des pubs de boissons"
+},
+{
+"key": "part04.html#715",
+"fr": "Feu, vent, pluie"
+},
+{
+"key": "part04.html#716",
+"fr": "Combiner des sons de bibliothèque"
+},
+{
+"key": "part04.html#717",
+"fr": "Installer l’ambiance"
+},
+{
+"key": "part04.html#718",
+"fr": "Impact"
+},
+{
+"key": "part04.html#719",
+"fr": "Coup grave plus réverbération"
+},
+{
+"key": "part04.html#720",
+"fr": "Transitions, apparition du logo"
+},
+{
+"key": "part04.html#721",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part04.html#722",
+"fr": "Calez les effets à l’image près. Même 0,1 seconde de retard sonne faux."
+},
+{
+"key": "part04.html#723",
+"fr": "La conception sonore, étape par étape"
+},
+{
+"key": "part04.html#724",
+"fr": "<b>01</b><span>Regardez l’image plusieurs fois sans le son. Listez les sons qu’elle devrait avoir.</span>"
+},
+{
+"key": "part04.html#725",
+"fr": "<b>02</b><span>Posez d’abord les dialogues et la voix off, puis verrouillez leurs niveaux.</span>"
+},
+{
+"key": "part04.html#726",
+"fr": "<b>03</b><span>Ajoutez la musique et calez-la sur les coupes et les temps.</span>"
+},
+{
+"key": "part04.html#727",
+"fr": "<b>04</b><span>Calez les effets sur l’action, image par image.</span>"
+},
+{
+"key": "part04.html#728",
+"fr": "<b>05</b><span>Posez l’ambiance pour créer l’espace. Plus la scène est calme, plus elle en a besoin.</span>"
+},
+{
+"key": "part04.html#729",
+"fr": "<b>06</b><span>Normalisez le niveau sonore global à la norme de la plateforme.</span>"
+},
+{
+"key": "part04.html#730",
+"fr": "<b>07</b><span>Vérifiez sur trois systèmes : écouteurs, enceintes et smartphone.</span>"
+},
+{
+"key": "part04.html#731",
+"fr": "Des contenus faits de son seul – ASMR · ambiance · audio pour dormir"
+},
+{
+"key": "part04.html#732",
+"fr": "<small>Stimulus de proximité</small>ASMR"
+},
+{
+"key": "part04.html#733",
+"fr": "Capter l’espace gauche-droite avec des micros binauraux ou une tête artificielle"
+},
+{
+"key": "part04.html#734",
+"fr": "Déclencheurs : tapotements, effleurements, chuchotements, papier"
+},
+{
+"key": "part04.html#735",
+"fr": "Niveau bas, env. −20 dBFS ; contenir les crêtes"
+},
+{
+"key": "part04.html#736",
+"fr": "<small>Le son d’un lieu</small>Ambiance"
+},
+{
+"key": "part04.html#737",
+"fr": "Enregistrer longuement feu · pluie · vent · vagues sur place"
+},
+{
+"key": "part04.html#738",
+"fr": "Cacher les points de boucle derrière les moments forts"
+},
+{
+"key": "part04.html#739",
+"fr": "Un format long de 8 heures se fait en bouclant 1 heure de source"
+},
+{
+"key": "part04.html#740",
+"fr": "<small>Méditation · sommeil</small>Audio pour dormir"
+},
+{
+"key": "part04.html#741",
+"fr": "Centré sur les graves ; aucune crête soudaine"
+},
+{
+"key": "part04.html#742",
+"fr": "Image : un plan fixe + un mouvement discret (pluie, flammes)"
+},
+{
+"key": "part04.html#743",
+"fr": "Droits : uniquement des sources sous licence ou vos propres enregistrements"
+},
+{
+"key": "part04.html#744",
+"fr": "<b>Photos de référence 4.10A</b>Images générées – des contenus faits de son seul"
+},
+{
+"key": "part04.html#745",
+"fr": "<span class=\"ph-id\">P04-ASMR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Enregistrement d’ASMR</b>Une tête artificielle avec une paire de micros binauraux, une main qui tapote une boîte en bois</span>"
+},
+{
+"key": "part04.html#746",
+"fr": "<b>a</b>Enregistrement d’ASMR – la tête au centre est un <b>micro binaural à tête artificielle</b>. Deux micros occupent la place des oreilles et captent un « chuchotement à l’oreille gauche » tel qu’on l’entend. Ne fonctionne qu’avec des écouteurs"
+},
+{
+"key": "part04.html#747",
+"fr": "<span class=\"ph-id\">P04-FOLEY</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Bruitage</b>Un bruiteur marche dans un bac de gravier en regardant l’image</span>"
+},
+{
+"key": "part04.html#748",
+"fr": "<b>b</b>Bruitage"
+},
+{
+"key": "part04.html#749",
+"fr": "<span class=\"ph-id\">P04-AMBIENT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Enregistrement d’un feu qui crépite</b>Un enregistreur portable avec bonnette près d’une cheminée</span>"
+},
+{
+"key": "part04.html#750",
+"fr": "<b>c</b>Enregistrement d’un feu qui crépite"
+}
+]

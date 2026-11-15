@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#487",
+"fr": "Sora dévoilé · Kling · Veo"
+},
+{
+"key": "part09.html#488",
+"fr": "Annonce de MCP (Model Context Protocol)"
+},
+{
+"key": "part09.html#489",
+"fr": "Début de la course aux modèles vidéo, protocole de liaison d’outils"
+},
+{
+"key": "part09.html#490",
+"fr": "Veo 3 · Seedance 1.0"
+},
+{
+"key": "part09.html#491",
+"fr": "Higgsfield · Nano Banana"
+},
+{
+"key": "part09.html#492",
+"fr": "Génération sonore, outils de cohérence des personnages"
+},
+{
+"key": "part09.html#493",
+"fr": "Seedance 2.0 et autres"
+},
+{
+"key": "part09.html#494",
+"fr": "Les modèles se renouvellent chaque trimestre"
+},
+{
+"key": "part09.html#495",
+"fr": "Clé de lecture – 2014–2020 fut l’ère des articles scientifiques ; l’image s’est démocratisée en 2022, la vidéo a suivi à partir de 2023."
+},
+{
+"key": "part09.html#496",
+"fr": "À partir de 2024, retenez les tendances, pas les noms de modèles : la course aux modèles vidéo, un protocole permettant aux agents de piloter directement les outils (MCP), la cohérence personnage·scène."
+},
+{
+"key": "part09.html#497",
+"fr": "Les années sont celles de sortie·annonce. Les noms de services changent, les catégories demeurent (voir la carte des outils 9.13)."
+},
+{
+"key": "part09.html#498",
+"fr": "<b>Fig. 83-1</b> 10 ans d’outils vidéo d’IA générative – du GAN (2014) au renouvellement de génération de 2026, en passant par le Transformer (2017), la démocratisation de l’image générée (2022), puis la course aux modèles vidéo et MCP (2024)"
+},
+{
+"key": "part09.html#499",
+"fr": "Tendances actuelles"
+},
+{
+"key": "part09.html#500",
+"fr": "<small>Tendance 1</small>La course aux modèles vidéo"
+},
+{
+"key": "part09.html#501",
+"fr": "Veo · Sora · Kling · Seedance · Runway : une nouvelle génération chaque trimestre"
+},
+{
+"key": "part09.html#502",
+"fr": "Comparés sur la durée, le son et la justesse physique"
+},
+{
+"key": "part09.html#503",
+"fr": "Plutôt que de choisir un outil, bâtir un pipeline où les outils sont interchangeables"
+},
+{
+"key": "part09.html#504",
+"fr": "<small>Tendance 2</small>Agents et MCP"
+},
+{
+"key": "part09.html#505",
+"fr": "Un protocole de connexion qui permet à des modèles de langage comme Claude de piloter directement les outils de génération"
+},
+{
+"key": "part09.html#506",
+"fr": "Le modèle appelle les outils ; plus personne ne copie-colle de prompts"
+},
+{
+"key": "part09.html#507",
+"fr": "Les photos de référence de ce livre ont été produites ainsi – un seul flux, du document de conception à la génération"
+},
+{
+"key": "part09.html#508",
+"fr": "<small>Tendance 3</small>Outils de cohérence"
+},
+{
+"key": "part09.html#509",
+"fr": "Des fonctions qui gardent personnages et scènes cohérents d’un plan à l’autre"
+},
+{
+"key": "part09.html#510",
+"fr": "Références multi-images – fixer visage, costume et décor avec plusieurs images"
+},
+{
+"key": "part09.html#511",
+"fr": "Le principal problème du Contexte 17 devient une fonction des produits"
+},
+{
+"key": "part09.html#512",
+"fr": "<span class=\"ph-id\">P09-MCP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Relier les outils – MCP</b>Illustration abstraite : des lignes lumineuses partent d’un ordinateur portable posé sur un bureau vers des panneaux de services translucides en suspension</span>"
+},
+{
+"key": "part09.html#513",
+"fr": "<b>Note</b>Relier les outils – MCP. Un modèle de langage appelle directement outils de génération, stockage et agendas"
+},
+{
+"key": "part09.html#514",
+"fr": "Domaine"
+},
+{
+"key": "part09.html#515",
+"fr": "Type d’outil"
+},
+{
+"key": "part09.html#516",
+"fr": "Rôle dans la pratique"
+},
+{
+"key": "part09.html#517",
+"fr": "Vigilance"
+},
+{
+"key": "part09.html#518",
+"fr": "Conception, écriture"
+},
+{
+"key": "part09.html#519",
+"fr": "Modèles de langage conversationnels"
+},
+{
+"key": "part09.html#520",
+"fr": "Développement d’idées, ébauches de scénario, variantes de texte"
+},
+{
+"key": "part09.html#521",
+"fr": "Vérifier les faits ; l’humain tranche"
+},
+{
+"key": "part09.html#522",
+"fr": "Image"
+},
+{
+"key": "part09.html#523",
+"fr": "Modèles de génération d’images"
+},
+{
+"key": "part09.html#524",
+"fr": "Planches d’ambiance, concept art, ébauches de storyboard"
+},
+{
+"key": "part09.html#525",
+"fr": "Vérifier les conditions d’usage commercial"
+},
+{
+"key": "part09.html#526",
+"fr": "Vidéo"
+},
+{
+"key": "part09.html#527",
+"fr": "Génération de vidéo depuis texte ou image"
+},
+{
+"key": "part09.html#528",
+"fr": "Inserts, arrière-plans, plans impossibles"
+},
+{
+"key": "part09.html#529",
+"fr": "La cohérence est le défi"
+},
+{
+"key": "part09.html#530",
+"fr": "Voix"
+},
+{
+"key": "part09.html#531",
+"fr": "Synthèse vocale"
+},
+{
+"key": "part09.html#532",
+"fr": "Narration témoin, doublage multilingue"
+},
+{
+"key": "part09.html#533",
+"fr": "Ne jamais cloner la voix d’une personne réelle"
+},
+{
+"key": "part09.html#534",
+"fr": "Sous-titres, bout-à-bout"
+},
+{
+"key": "part09.html#535",
+"fr": "Outils de montage à reconnaissance vocale"
+},
+{
+"key": "part09.html#536",
+"fr": "1er bout-à-bout, génération de sous-titres"
+},
+{
+"key": "part09.html#537",
+"fr": "Toujours vérifier les noms propres"
+},
+{
+"key": "part09.html#538",
+"fr": "Génération 3D depuis une image"
+},
+{
+"key": "part09.html#539",
+"fr": "Accessoires, prototypes de personnages"
+},
+{
+"key": "part09.html#540",
+"fr": "Nettoyage des polygones nécessaire"
+},
+{
+"key": "part09.html#541",
+"fr": "Traduction"
+},
+{
+"key": "part09.html#542",
+"fr": "Traduction automatique"
+},
+{
+"key": "part09.html#543",
+"fr": "Sous-titres étrangers, lecture de références étrangères"
+},
+{
+"key": "part09.html#544",
+"fr": "Vérifier les contresens sur le jargon"
+},
+{
+"key": "part09.html#545",
+"fr": "Bons et mauvais usages des modèles de langage"
+},
+{
+"key": "part09.html#546",
+"fr": "Usages efficaces"
+},
+{
+"key": "part09.html#547",
+"fr": "Développer des idées – fixer des conditions, en obtenir 20, en retenir 3"
+},
+{
+"key": "part09.html#548",
+"fr": "Ébauche de scénario – fixer d’abord la structure, puis demander la chair"
+},
+{
+"key": "part09.html#549",
+"fr": "Variantes de texte – demander 10 versions d’une phrase validée"
+},
+{
+"key": "part09.html#550",
+"fr": "Organiser la documentation – coller ce que vous avez réuni et demander une structure"
+},
+{
+"key": "part09.html#551",
+"fr": "Retour critique – coller votre note d’intention et demander ses points faibles"
+},
+{
+"key": "part09.html#552",
+"fr": "Traduction – fournir le contexte et un glossaire"
+},
+{
+"key": "part09.html#553",
+"fr": "À ne pas faire"
+},
+{
+"key": "part09.html#554",
+"fr": "Prendre la première réponse telle quelle"
+},
+{
+"key": "part09.html#555",
+"fr": "Lui demander de tout écrire à partir d’une page blanche"
+},
+{
+"key": "part09.html#556",
+"fr": "Lui confier le concept lui-même"
+},
+{
+"key": "part09.html#557",
+"fr": "Citer sans vérifier les faits"
+},
+{
+"key": "part09.html#558",
+"fr": "S’arrêter aux compliments"
+},
+{
+"key": "part09.html#559",
+"fr": "Employer du jargon sans le vérifier"
+},
+{
+"key": "part09.html#560",
+"fr": "Exemple de flux de travail IA"
+},
+{
+"key": "part09.html#561",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part09.html#562",
+"fr": "C’est une personne qui écrit le concept en une phrase. Cette étape ne se délègue jamais."
+},
+{
+"key": "part09.html#563",
+"fr": "<b>01</b><span>Avec un modèle de langage, générez un persona cible et 20 points de friction, puis réduisez-les vous-même à 3.</span>"
+},
+{
+"key": "part09.html#564",
+"fr": "<b>02</b><span>À partir des idées retenues, une personne écrit le concept en une phrase.</span>"
+},
+{
+"key": "part09.html#565",
+"fr": "<b>03</b><span>Créez planches d’ambiance et ébauches de storyboard avec un générateur d’images. L’accord sur le ton et le style va bien plus vite.</span>"
+},
+{
+"key": "part09.html#566",
+"fr": "<b>04</b><span>Ne générez que les inserts impossibles à tourner en réel. Remplissez tout le film d’images générées, et la cohérence s’effondre.</span>"
+},
+{
+"key": "part09.html#567",
+"fr": "<b>05</b><span>Créez une narration témoin par synthèse vocale pour tester durée et rythme. Pour la version finale, remplacez-la par un comédien voix ou par votre propre enregistrement.</span>"
+},
+{
+"key": "part09.html#568",
+"fr": "<b>06</b><span>Générez automatiquement une première passe de sous-titres, puis faites vérifier noms propres et orthographe par une personne.</span>"
+},
+{
+"key": "part09.html#569",
+"fr": "<b>07</b><span>Consignez l’usage de l’IA dans les documents de production. Concours et livraisons client exigent de plus en plus cette transparence.</span>"
+},
+{
+"key": "part09.html#570",
+"fr": "Ce que l’IA ne peut pas remplacer"
+},
+{
+"key": "part09.html#571",
+"fr": "Le jugement qui décide quoi tourner, le langage qui explique pourquoi il faut ce plan-là, la coordination qui mène à l’accord avec le client, les décisions qui gèrent les imprévus sur le plateau. Plus les outils sont puissants, plus le jugement a de valeur. Pour les débutants, le recrutement commence à valoriser l’explication du raisonnement plus que la maîtrise des outils."
+},
+{
+"key": "part09.html#572",
+"fr": "<small>Exercice</small>8.9"
+},
+{
+"key": "part09.html#573",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#574",
+"fr": "Réalisez le même plan avec 3 outils d’IA générative et comparez qualité, vitesse, coût et conditions de droits."
+},
+{
+"key": "part09.html#575",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#576",
+"fr": "Vérifiez la clause d’usage commercial dans les conditions d’utilisation."
+},
+{
+"key": "part09.html#577",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#578",
+"fr": "Équité des critères de comparaison, vérification des droits"
+},
+{
+"key": "part09.html#579",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#580",
+"fr": "Publie les prompts et les réglages avec les résultats pour qu’ils soient reproductibles."
+},
+{
+"key": "part09.html#581",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#582",
+"fr": "Gérer une chaîne et le calendrier éditorial"
+},
+{
+"key": "part09.html#583",
+"fr": "Dix vidéos régulières construisent une chaîne mieux qu’une seule vidéo réussie. Gérer une chaîne est une autre compétence que réaliser des vidéos, et c’est l’expérience que le recrutement de débutants valorise le plus."
+},
+{
+"key": "part09.html#584",
+"fr": "Concevoir une chaîne en 5 étapes"
+},
+{
+"key": "part09.html#585",
+"fr": "<b>01</b><i>Définition en une phrase</i>Ce que la chaîne apporte, et à qui"
+},
+{
+"key": "part09.html#586",
+"fr": "<b>02</b><i>2–3 formats fixes</i>Donner au public quelque chose à attendre"
+},
+{
+"key": "part09.html#587",
+"fr": "<b>03</b><i>Rythme de publication</i>Mieux vaut tenir 1 vidéo par semaine qu’en faire 3 puis s’arrêter"
+},
+{
+"key": "part09.html#588",
+"fr": "<b>04</b><i>Règles visuelles fixes</i>Mise en page des miniatures, police des sous-titres, intro ou non"
+},
+{
+"key": "part09.html#589",
+"fr": "<b>05</b><i>Un seul indicateur de performance</i>Pas les abonnés, mais un indicateur améliorable, comme la durée moyenne de visionnage"
+},
+{
+"key": "part09.html#590",
+"fr": "Exemple de calendrier éditorial mensuel"
+},
+{
+"key": "part09.html#591",
+"fr": "Semaine"
+},
+{
+"key": "part09.html#592",
+"fr": "Type de contenu"
+},
+{
+"key": "part09.html#593",
+"fr": "Objectif"
+},
+{
+"key": "part09.html#594",
+"fr": "Difficulté"
+},
+{
+"key": "part09.html#595",
+"fr": "Réutilisation"
+},
+{
+"key": "part09.html#596",
+"fr": "Semaine 1"
+},
+{
+"key": "part09.html#597",
+"fr": "1 vidéo longue informative"
+},
+{
+"key": "part09.html#598",
+"fr": "Trafic de recherche"
+},
+{
+"key": "part09.html#599",
+"fr": "Élevée"
+},
+{
+"key": "part09.html#600",
+"fr": "Découper en 3 vidéos courtes"
+},
+{
+"key": "part09.html#601",
+"fr": "Semaine 2"
+},
+{
+"key": "part09.html#602",
+"fr": "3 vidéos courtes"
+},
+{
+"key": "part09.html#603",
+"fr": "Nouvelle portée"
+},
+{
+"key": "part09.html#604",
+"fr": "Faible"
+},
+{
+"key": "part09.html#605",
+"fr": "Publier en même temps sur Instagram et TikTok"
+},
+{
+"key": "part09.html#606",
+"fr": "Semaine 3"
+},
+{
+"key": "part09.html#607",
+"fr": "Interview ou collaboration"
+},
+{
+"key": "part09.html#608",
+"fr": "Confiance et croissance"
+},
+{
+"key": "part09.html#609",
+"fr": "Moyenne"
+},
+{
+"key": "part09.html#610",
+"fr": "Décliner en article de blog"
+},
+{
+"key": "part09.html#611",
+"fr": "Semaine 4"
+},
+{
+"key": "part09.html#612",
+"fr": "Contenu communautaire"
+},
+{
+"key": "part09.html#613",
+"fr": "Entretien de la relation"
+},
+{
+"key": "part09.html#614",
+"fr": "Très faible"
+},
+{
+"key": "part09.html#615",
+"fr": "Idées pour le mois suivant"
+},
+{
+"key": "part09.html#616",
+"fr": "Une idée, plusieurs médias"
+},
+{
+"key": "part09.html#617",
+"fr": "<b>Une source, plusieurs usages</b>"
+},
+{
+"key": "part09.html#618",
+"fr": "Refaire le même message dans la grammaire de chaque média. C’est le moyen le plus sûr d’obtenir plus de portée pour un même budget de production."
+},
+{
+"key": "part09.html#619",
+"fr": "Source"
+},
+{
+"key": "part09.html#620",
+"fr": "Déclinaison"
+},
+{
+"key": "part09.html#621",
+"fr": "Charge de travail"
+},
+{
+"key": "part09.html#622",
+"fr": "Bénéfice"
+},
+{
+"key": "part09.html#623",
+"fr": "Vidéo longue de 10 min"
+},
+{
+"key": "part09.html#624",
+"fr": "3 vidéos courtes"
+},
+{
+"key": "part09.html#625",
+"fr": "Faible"
+},
+{
+"key": "part09.html#626",
+"fr": "Nouveaux spectateurs"
+},
+{
+"key": "part09.html#627",
+"fr": "Vidéo longue de 10 min"
+},
+{
+"key": "part09.html#628",
+"fr": "1 article de blog"
+},
+{
+"key": "part09.html#629",
+"fr": "Faible"
+},
+{
+"key": "part09.html#630",
+"fr": "Trafic de recherche"
+},
+{
+"key": "part09.html#631",
+"fr": "Vidéo longue de 10 min"
+},
+{
+"key": "part09.html#632",
+"fr": "1 carrousel"
+},
+{
+"key": "part09.html#633",
+"fr": "Faible"
+},
+{
+"key": "part09.html#634",
+"fr": "Enregistrements Instagram"
+},
+{
+"key": "part09.html#635",
+"fr": "Vidéo longue de 10 min"
+},
+{
+"key": "part09.html#636",
+"fr": "1 numéro de newsletter"
+}
+]

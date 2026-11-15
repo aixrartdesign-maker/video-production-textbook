@@ -1,0 +1,602 @@
+[
+{
+"key": "part00.html#0",
+"fr": "Achevé d’imprimer"
+},
+{
+"key": "part00.html#1",
+"fr": "Titre"
+},
+{
+"key": "part00.html#2",
+"fr": "Production vidéo : manuel pratique – 13 chapitres pour la salle de cours et le plateau"
+},
+{
+"key": "part00.html#3",
+"fr": "Autrice"
+},
+{
+"key": "part00.html#4",
+"fr": "Jia Ahn"
+},
+{
+"key": "part00.html#5",
+"fr": "Édition"
+},
+{
+"key": "part00.html#6",
+"fr": "Première édition"
+},
+{
+"key": "part00.html#7",
+"fr": "Contenu"
+},
+{
+"key": "part00.html#8",
+"fr": "13 chapitres · 23 textes « Contexte » · 91 schémas · 24 planches explicatives · 56 dessins de personnages · 29 dessins de matériel · 135 photos de référence · 170 exercices de section"
+},
+{
+"key": "part00.html#9",
+"fr": "Usage"
+},
+{
+"key": "part00.html#10",
+"fr": "Manuel universitaire, formation professionnelle, référence pratique"
+},
+{
+"key": "part00.html#11",
+"fr": "Prix"
+},
+{
+"key": "part00.html#12",
+"fr": "25 000 KRW"
+},
+{
+"key": "part00.html#13",
+"fr": "Tous les schémas de ce livre ont été conçus par l’autrice. Les dessins de personnages et de matériel, les planches explicatives et les photos de référence ont été réalisés avec des modèles génératifs d’images ; les conditions de génération figurent à l’annexe S. Les photos de référence du texte sont des images mises en scène, produites par IA générative, et non des photographies de personnes réelles ou d’œuvres précises. Réalisateurs et sociétés de production ne sont cités qu’à des fins d’analyse technique."
+},
+{
+"key": "part00.html#14",
+"fr": "À propos de l’autrice"
+},
+{
+"key": "part00.html#15",
+"fr": "Jia Ahn <small>AHN JIA</small>"
+},
+{
+"key": "part00.html#16",
+"fr": "Née en Allemagne. Licence, master et doctorat en design des médias à l’Université féminine Ewha ; a suivi le Global Executive Program de l’Université nationale de Séoul."
+},
+{
+"key": "part00.html#17",
+"fr": "Actuellement"
+},
+{
+"key": "part00.html#18",
+"fr": "Professeure assistante, dép. de contenus vidéo et médias, Université Kyungbok · Directrice du Centre de design de communication"
+},
+{
+"key": "part00.html#19",
+"fr": "Auparavant"
+},
+{
+"key": "part00.html#20",
+"fr": "Designer d’image, équipe RP, service de l’information publique de la mairie de Seongnam"
+},
+{
+"key": "part00.html#21",
+"fr": "Auparavant"
+},
+{
+"key": "part00.html#22",
+"fr": "PDG, Doshim Co., Ltd."
+},
+{
+"key": "part00.html#23",
+"fr": "<b>Livres</b> <i>What Is UX?</i> · <i>ChatGPT in the Classroom: code &amp; play</i> &nbsp;<b>Albums illustrés</b> <i>The Robot That Wakes the Brain</i> · <i>From Soil to AI</i> · <i>Dreams with Sion</i> · <i>Why Do We Wear Masks?</i>"
+},
+{
+"key": "part00.html#24",
+"fr": "Préface – pourquoi ce livre, pourquoi maintenant"
+},
+{
+"key": "part00.html#25",
+"fr": "L’environnement de la production vidéo de 2026 est, à tous égards, plus riche qu’il y a dix ans. L’appareil que vous avez en poche filme en 4K, des logiciels de montage gratuits donnent des résultats professionnels, et quelques phrases font surgir des scènes qui n’ont jamais existé. Ce qu’il faut aujourd’hui à qui apprend, ce n’est ni du matériel ni de l’information. C’est de l’ordre."
+},
+{
+"key": "part00.html#26",
+"fr": "C’est précisément là que le problème commence. Quand l’information est dispersée à l’infini, on ne sait plus par quoi commencer. On aborde l’étalonnage avant l’ouverture, on télécharge des effets de transition avant d’avoir compris la coupe. Plus d’outils, moins d’œuvres achevées : le paradoxe vient de là. La recherche en ligne donne le savoir, pas son agencement."
+},
+{
+"key": "part00.html#27",
+"fr": "L’IA générative a creusé l’écart. Le seuil de la production a baissé ; celui du jugement a monté. La vieille idée selon laquelle des outils plus puissants augmentent la valeur de ceux qui connaissent les principes n’a jamais été confirmée aussi nettement."
+},
+{
+"key": "part00.html#28",
+"fr": "Ce livre tente de fournir cet agencement. De ce qu’est la vidéo aux médias, au marché et à la carrière, en passant par le langage, la technique et la conception, il trace un chemin que l’on peut parcourir d’un bout à l’autre. Chaque partie se suffit à elle-même, pour que vous puissiez commencer au milieu ; lues dans l’ordre, elles forment un seul récit."
+},
+{
+"key": "part00.html#29",
+"fr": "En même temps, ce livre est résolument pratique. Après avoir expliqué pourquoi la vitesse d’obturation est fixe, le chapitre donne des réglages types par modèle de caméra ; après avoir expliqué ce que signifie un storyboard, il donne le jeu complet de notations et des gabarits vierges. Appris séparément, le principe et l’exécution ne valent chacun que la moitié d’eux-mêmes. Les tableaux et les listes de contrôle de ce livre ne sont pas faits pour être lus, mais pour être ouverts sur le plateau."
+},
+{
+"key": "part00.html#30",
+"fr": "Enfin, l’emploi a droit à une partie entière. La plupart de ceux qui ouvrent ce livre veulent vivre de la vidéo. Savoir quelles entreprises recrutent qui, ce qu’un portfolio doit prouver et comment survivre aux trois premiers mois, c’est aussi une compétence. Un manuel qui ne l’enseigne pas n’est honnête qu’à moitié."
+},
+{
+"key": "part00.html#31",
+"fr": "Note de l’autrice – un modèle pour enseigner"
+},
+{
+"key": "part00.html#32",
+"fr": "La production vidéo s’est développée comme industrie avant de s’établir comme discipline. Le terrain a accumulé un immense corpus de pratiques, mais les textes qui l’organisent en système sont rares. La prise de vues vit dans les modes d’emploi des caméras, le montage dans les guides des logiciels, la carrière dans les brochures de recherche d’emploi, et c’est à l’apprenant de recoudre seul les morceaux. Ce travail est le plus dur pour le débutant, car savoir par quoi commencer exige déjà des connaissances considérables."
+},
+{
+"key": "part00.html#33",
+"fr": "Du côté de l’enseignement, il en va de même. Dans un domaine sans manuel de référence, les cours reposent sur l’expérience personnelle. L’expérience est vivante, mais non reproductible. Or la reproductibilité est l’exigence minimale de l’enseignement, et elle commence par un texte commun."
+},
+{
+"key": "part00.html#34",
+"fr": "Ce livre tente d’établir ce texte une première fois. Le but n’est pas un canon achevé, mais un socle sur lequel révisions et réfutations pourront s’appuyer. Le contenu a donc été retenu selon un seul critère : tiendra-t-il encore dans cinq ans ? L’emplacement des menus de tel logiciel et les caractéristiques de telle caméra n’apparaissent qu’au minimum ; les pages vont à l’ordre du jugement. Les outils se remplacent ; l’ordre, non."
+},
+{
+"key": "part00.html#35",
+"fr": "La structure s’adresse à la fois à celui qui apprend pour la première fois et à celui qui lui enseigne. Chaque partie s’ouvre sur une introduction narrative qui pose le contexte, déroule les connaissances point par point et se clôt sur l’essentiel en une page, prêt pour le cours. Toutes les planches sont monochromes : un choix pratique, pour que rien ne se perde en photocopie noir et blanc ni sur un projecteur à basse résolution."
+},
+{
+"key": "part00.html#36",
+"fr": "La même raison gouverne la partie sur l’IA générative : elle porte sur ce qu’il faut placer, et où, dans la chaîne de production, non sur le maniement de tel ou tel service. Les outils vivent peu ; les structures, longtemps. Quand n’importe qui peut fabriquer une image plausible, la part de l’enseignement n’est pas de transmettre des fonctions, mais de former le jugement."
+},
+{
+"key": "part00.html#37",
+"fr": "Un mot sur le traitement des exemples. Ce livre ne reproduit aucune image d’une œuvre existante. Tous les schémas ont été conçus de zéro ; les dessins de personnages et de matériel ainsi que les images de référence ont été réalisés avec des modèles génératifs d’images, dont les conditions de génération figurent en annexe. Un texte qui enseigne à faire de bonnes vidéos ne devrait pas se bâtir sur le travail des autres."
+},
+{
+"key": "part00.html#38",
+"fr": "Si ce livre devient le premier manuel de quelqu’un, le programme d’un cours, ou reste ouvert sur un bureau de plateau, il aura rempli son rôle. Dites-moi où l’explication cale et où elle ne colle pas au terrain ; c’est là que commence la prochaine édition."
+},
+{
+"key": "part00.html#39",
+"fr": "Printemps 2026, Jia Ahn"
+},
+{
+"key": "part00.html#40",
+"fr": "Comment lire ce livre"
+},
+{
+"key": "part00.html#41",
+"fr": "<b>À QUI S’ADRESSE CE LIVRE</b>"
+},
+{
+"key": "part00.html#42",
+"fr": "Vous pouvez n’avoir jamais touché une caméra. Mais en refermant ce livre, vous devriez savoir mener seul, de la conception à la livraison, une pub de 15 secondes, une vidéo courte de 1 minute et un film de marque de 3 minutes. Le contenu a été choisi selon ce critère."
+},
+{
+"key": "part00.html#43",
+"fr": "Ce livre est conçu pour servir, pas seulement pour être lu. Chacun des 13 chapitres correspond à une séance de cours autonome, et tous disposent les mêmes éléments dans le même ordre : plan de cours, introduction narrative, notions, planches, missions pratiques, l’essentiel en une page. Prenez seulement les chapitres utiles, ou suivez l’ordre pour un semestre complet."
+},
+{
+"key": "part00.html#44",
+"fr": "<small>Début</small>L’utiliser en cours"
+},
+{
+"key": "part00.html#45",
+"fr": "Répartition d’une séance de 50 min, matériel, points de contrôle"
+},
+{
+"key": "part00.html#46",
+"fr": "À utiliser tel quel comme plan de cours"
+},
+{
+"key": "part00.html#47",
+"fr": "<small>Planches</small>Regarder d’abord l’image"
+},
+{
+"key": "part00.html#48",
+"fr": "Toutes les planches sont dans le texte"
+},
+{
+"key": "part00.html#49",
+"fr": "La plupart des notions tiennent en un seul schéma"
+},
+{
+"key": "part00.html#50",
+"fr": "<small>Tableaux</small>Tableaux de référence à copier"
+},
+{
+"key": "part00.html#51",
+"fr": "Tableaux de référence utilisables tels quels"
+},
+{
+"key": "part00.html#52",
+"fr": "Faits pour être ouverts sur le plateau"
+},
+{
+"key": "part00.html#53",
+"fr": "<small>Fin</small>Missions · Pistes de réflexion · Conseils de terrain"
+},
+{
+"key": "part00.html#54",
+"fr": "À donner tels quels en devoirs"
+},
+{
+"key": "part00.html#55",
+"fr": "Liste de contrôle pour l’autoformation"
+},
+{
+"key": "part00.html#56",
+"fr": "<small>Annexe</small>Fiches de travail et espace de notes"
+},
+{
+"key": "part00.html#57",
+"fr": "Imprimez les fiches de l’annexe et utilisez-les telles quelles"
+},
+{
+"key": "part00.html#58",
+"fr": "Question en première page du chapitre, notes de révision en dernière : 5 min avant et après le cours"
+},
+{
+"key": "part00.html#59",
+"fr": "<small>PARTIE</small>Question → Contexte → Points"
+},
+{
+"key": "part00.html#60",
+"fr": "Première page : une question et « Organisation de cette PARTIE »"
+},
+{
+"key": "part00.html#61",
+"fr": "Puis « Contexte » (2–3 pages) : théorie et histoire sous forme de récit"
+},
+{
+"key": "part00.html#62",
+"fr": "<small>Section</small>Toujours le même ordre"
+},
+{
+"key": "part00.html#63",
+"fr": "Chaque section s’ouvre sur un numéro bordeaux et un filet épais"
+},
+{
+"key": "part00.html#64",
+"fr": "Texte et schémas → phrase de terrain (encadré gris) → photos de référence (REF) → planche explicative (G) → encadré d’exercice (Tâche · Conseil · Critères d’évaluation · Corrigé type)"
+},
+{
+"key": "part00.html#65",
+"fr": "<small>Images · chiffres</small>Dessins génératifs, chiffres à la date de rédaction"
+},
+{
+"key": "part00.html#66",
+"fr": "Les personnes et le matériel des photos de référence et des planches sont des dessins au crayon réalisés pour ce livre avec des modèles génératifs d’images (conditions : annexe S)"
+},
+{
+"key": "part00.html#67",
+"fr": "Produits, prix et spécifications des plateformes changent ; chiffres à la date de rédaction"
+},
+{
+"key": "part00.html#68",
+"fr": "Comment utiliser ce livre"
+},
+{
+"key": "part00.html#69",
+"fr": "Un chapitre correspond à une séance de cours. Treize chapitres, une révision de mi-semestre et des semaines de projet remplissent un semestre de 15 semaines. Le calendrier hebdomadaire figure à l’annexe H. En autoformation, la répartition du temps indiquée dans le guide de cours de chaque chapitre peut servir de plan d’étude."
+},
+{
+"key": "part00.html#70",
+"fr": "Format"
+},
+{
+"key": "part00.html#71",
+"fr": "Structure conseillée"
+},
+{
+"key": "part00.html#72",
+"fr": "Lien avec l’évaluation"
+},
+{
+"key": "part00.html#73",
+"fr": "Cours axé sur la théorie"
+},
+{
+"key": "part00.html#74",
+"fr": "Lire le texte d’ouverture de la partie + parcourir les planches + exercice sur les tableaux"
+},
+{
+"key": "part00.html#75",
+"fr": "Auto-évaluation utilisée comme quiz"
+},
+{
+"key": "part00.html#76",
+"fr": "Cours axé sur la pratique"
+},
+{
+"key": "part00.html#77",
+"fr": "5 min d’explication sur une planche, puis tournage immédiat"
+},
+{
+"key": "part00.html#78",
+"fr": "Exercices à rendre chaque semaine"
+},
+{
+"key": "part00.html#79",
+"fr": "Projet d’équipe"
+},
+{
+"key": "part00.html#80",
+"fr": "Livrables : note d’intention (modèle PARTIE 6) et document de PPM"
+},
+{
+"key": "part00.html#81",
+"fr": "Rendre les fiches de l’annexe K"
+},
+{
+"key": "part00.html#82",
+"fr": "Classe inversée"
+},
+{
+"key": "part00.html#83",
+"fr": "Lire la partie à l’avance ; le cours sert à la critique et aux retours"
+},
+{
+"key": "part00.html#84",
+"fr": "Évaluation entre pairs avec les 50 erreurs de l’annexe P"
+},
+{
+"key": "part00.html#85",
+"fr": "Les planches sont monochromes pour passer directement dans les diapositives de cours. L’information n’est séparée que par les contrastes de valeur : elle reste lisible en impression noir et blanc et sur un projecteur à basse résolution."
+},
+{
+"key": "part00.html#86",
+"fr": "Parcours d’apprentissage"
+},
+{
+"key": "part00.html#87",
+"fr": "Objectif"
+},
+{
+"key": "part00.html#88",
+"fr": "Parcours conseillé"
+},
+{
+"key": "part00.html#89",
+"fr": "Durée est."
+},
+{
+"key": "part00.html#90",
+"fr": "Je dois faire une vidéo courte tout de suite"
+},
+{
+"key": "part00.html#91",
+"fr": "PARTIE 2 → 3 → 5 → 7 → 9"
+},
+{
+"key": "part00.html#92",
+"fr": "2 semaines"
+},
+{
+"key": "part00.html#93",
+"fr": "Manuel pour un cours universitaire"
+},
+{
+"key": "part00.html#94",
+"fr": "Dans l’ordre dès la PARTIE 1 ; voir annexe H"
+},
+{
+"key": "part00.html#95",
+"fr": "Un semestre"
+},
+{
+"key": "part00.html#96",
+"fr": "On me confie la conception d’une pub vidéo"
+},
+{
+"key": "part00.html#97",
+"fr": "PARTIE 6 → 8 → 7 → 9"
+},
+{
+"key": "part00.html#98",
+"fr": "3 semaines"
+},
+{
+"key": "part00.html#99",
+"fr": "Je veux passer au motion design"
+},
+{
+"key": "part00.html#100",
+"fr": "PARTIE 2 → 5, surtout le chapitre After Effects"
+},
+{
+"key": "part00.html#101",
+"fr": "6 semaines"
+},
+{
+"key": "part00.html#102",
+"fr": "Préparer un contenu immersif ou une exposition"
+},
+{
+"key": "part00.html#103",
+"fr": "PARTIE 7 → 8 → 10"
+},
+{
+"key": "part00.html#104",
+"fr": "3 semaines"
+},
+{
+"key": "part00.html#105",
+"fr": "La recherche d’emploi presse"
+},
+{
+"key": "part00.html#106",
+"fr": "PARTIE 11 d’abord, puis les parties faibles en ordre inverse"
+},
+{
+"key": "part00.html#107",
+"fr": "4 semaines"
+},
+{
+"key": "part00.html#108",
+"fr": "Étape"
+},
+{
+"key": "part00.html#109",
+"fr": "Durée"
+},
+{
+"key": "part00.html#110",
+"fr": "Ce que vous devez savoir produire"
+},
+{
+"key": "part00.html#111",
+"fr": "Critère"
+},
+{
+"key": "part00.html#112",
+"fr": "Initiation"
+},
+{
+"key": "part00.html#113",
+"fr": "1–2 mois"
+},
+{
+"key": "part00.html#114",
+"fr": "Vlog de 1 minute, vidéo courte informative sous-titrée"
+},
+{
+"key": "part00.html#115",
+"fr": "Exposition et son sont-ils constants ?"
+},
+{
+"key": "part00.html#116",
+"fr": "Bases"
+},
+{
+"key": "part00.html#117",
+"fr": "3–4 mois"
+},
+{
+"key": "part00.html#118",
+"fr": "Pub de 15 s, storyboard de 6 plans"
+},
+{
+"key": "part00.html#119",
+"fr": "Les plans s’enchaînent-ils à dessein ?"
+},
+{
+"key": "part00.html#120",
+"fr": "Intermédiaire"
+},
+{
+"key": "part00.html#121",
+"fr": "6–9 mois"
+},
+{
+"key": "part00.html#122",
+"fr": "Incrustation sur fond vert, titre 3D, version étalonnée"
+},
+{
+"key": "part00.html#123",
+"fr": "L’incrustation se fond-elle dans l’image ?"
+},
+{
+"key": "part00.html#124",
+"fr": "Professionnel"
+},
+{
+"key": "part00.html#125",
+"fr": "1 an +"
+},
+{
+"key": "part00.html#126",
+"fr": "Livrable à partir d’un brief client"
+},
+{
+"key": "part00.html#127",
+"fr": "Livré dans les délais et le budget ?"
+},
+{
+"key": "part00.html#128",
+"fr": "Expert"
+},
+{
+"key": "part00.html#129",
+"fr": "2 ans +"
+},
+{
+"key": "part00.html#130",
+"fr": "Diriger une équipe, fixer la direction créative"
+},
+{
+"key": "part00.html#131",
+"fr": "Savez-vous juger le travail des autres ?"
+},
+{
+"key": "part00.html#132",
+"fr": "30 questions à se poser d’abord"
+},
+{
+"key": "part00.html#133",
+"fr": "Parcourez cette liste avant le texte principal. Ce sont les questions qui reviennent sans cesse en cours et en entretien de conseil ; si l’une d’elles vous occupe en ce moment, allez droit au chapitre indiqué entre parenthèses. Le livre peut se lire dans l’ordre ou s’aborder par une question."
+},
+{
+"key": "part00.html#134",
+"fr": "<em>Q01</em>Acheter d’abord une caméra ou des éclairages ?"
+},
+{
+"key": "part00.html#135",
+"fr": "Les éclairages. À budget égal, une caméra d’entrée de gamme bien éclairée bat une caméra haut de gamme sans lumière. (PARTIE 4)"
+},
+{
+"key": "part00.html#136",
+"fr": "<em>Q02</em>Peut-on faire de la vidéo commerciale au smartphone ?"
+},
+{
+"key": "part00.html#137",
+"fr": "Oui, à condition de désactiver l’exposition et la balance des blancs automatiques et d’utiliser un micro externe. (3.13)"
+},
+{
+"key": "part00.html#138",
+"fr": "<em>Q03</em>24 fps ou 30 fps ?"
+},
+{
+"key": "part00.html#139",
+"fr": "24 pour les pubs à émotion et les films de marque ; 30 est le choix sûr pour les vidéos informatives ou très sous-titrées. (3.8)"
+},
+{
+"key": "part00.html#140",
+"fr": "<em>Q04</em>Ai-je vraiment besoin de la 4K ?"
+},
+{
+"key": "part00.html#141",
+"fr": "Tournez en 4K même si la version finale est en FHD. Cela laisse de la marge pour recadrer et extraire du vertical. (3.7)"
+},
+{
+"key": "part00.html#142",
+"fr": "<em>Q05</em>Le Log est-il toujours mieux ?"
+},
+{
+"key": "part00.html#143",
+"fr": "Seulement si vous étalonnez en postproduction. Pour un tournage sur fond vert, c’est même un handicap. (3.10)"
+},
+{
+"key": "part00.html#144",
+"fr": "<em>Q06</em>Quel logiciel de montage apprendre en premier ?"
+},
+{
+"key": "part00.html#145",
+"fr": "Au vu des offres d’emploi en Corée, le duo Premiere Pro et After Effects. (5.3)"
+},
+{
+"key": "part00.html#146",
+"fr": "<em>Q07</em>Peut-on monter dans After Effects ?"
+},
+{
+"key": "part00.html#147",
+"fr": "Déconseillé. Un outil qui traite le temps à l’horizontale et un outil qui traite les calques à la verticale n’ont pas le même métier. (5.5)"
+},
+{
+"key": "part00.html#148",
+"fr": "<em>Q08</em>Mes incrustations ont toujours l’air plaquées"
+},
+{
+"key": "part00.html#149",
+"fr": "Vérifiez trois choses : niveau des noirs, perspective atmosphérique, grain. (5.7)"
+}
+]

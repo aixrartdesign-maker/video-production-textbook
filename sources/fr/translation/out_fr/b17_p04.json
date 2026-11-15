@@ -1,0 +1,598 @@
+[
+{
+"key": "templates.html#102",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#103",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#104",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#105",
+"fr": "Action"
+},
+{
+"key": "templates.html#106",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#107",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#108",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#109",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#110",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#111",
+"fr": "Action"
+},
+{
+"key": "templates.html#112",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#113",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#114",
+"fr": "CUT 07"
+},
+{
+"key": "templates.html#115",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#116",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#117",
+"fr": "Action"
+},
+{
+"key": "templates.html#118",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#119",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#120",
+"fr": "CUT 08"
+},
+{
+"key": "templates.html#121",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#122",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#123",
+"fr": "Action"
+},
+{
+"key": "templates.html#124",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#125",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#126",
+"fr": "CUT 09"
+},
+{
+"key": "templates.html#127",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#128",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#129",
+"fr": "Action"
+},
+{
+"key": "templates.html#130",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#131",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#132",
+"fr": "Bandes noires pour une livraison en 16:9. Deux personnes dans un plan ; la largeur vide raconte l’histoire."
+},
+{
+"key": "templates.html#133",
+"fr": "Modèle de storyboard · 9:16"
+},
+{
+"key": "templates.html#134",
+"fr": "Reels·Shorts·TikTok – vertical par défaut · 1080×1920"
+},
+{
+"key": "templates.html#135",
+"fr": "Projet ____________  Scène ____  Page ___/___"
+},
+{
+"key": "templates.html#136",
+"fr": "Réalisation _____  Date ________  Version v___"
+},
+{
+"key": "templates.html#137",
+"fr": "CUT 01"
+},
+{
+"key": "templates.html#138",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#139",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#140",
+"fr": "Action"
+},
+{
+"key": "templates.html#141",
+"fr": "SE"
+},
+{
+"key": "templates.html#142",
+"fr": "CUT 02"
+},
+{
+"key": "templates.html#143",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#144",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#145",
+"fr": "Action"
+},
+{
+"key": "templates.html#146",
+"fr": "SE"
+},
+{
+"key": "templates.html#147",
+"fr": "CUT 03"
+},
+{
+"key": "templates.html#148",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#149",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#150",
+"fr": "Action"
+},
+{
+"key": "templates.html#151",
+"fr": "SE"
+},
+{
+"key": "templates.html#152",
+"fr": "CUT 04"
+},
+{
+"key": "templates.html#153",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#154",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#155",
+"fr": "Action"
+},
+{
+"key": "templates.html#156",
+"fr": "SE"
+},
+{
+"key": "templates.html#157",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#158",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#159",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#160",
+"fr": "Action"
+},
+{
+"key": "templates.html#161",
+"fr": "SE"
+},
+{
+"key": "templates.html#162",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#163",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#164",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#165",
+"fr": "Action"
+},
+{
+"key": "templates.html#166",
+"fr": "SE"
+},
+{
+"key": "templates.html#167",
+"fr": "CUT 07"
+},
+{
+"key": "templates.html#168",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#169",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#170",
+"fr": "Action"
+},
+{
+"key": "templates.html#171",
+"fr": "SE"
+},
+{
+"key": "templates.html#172",
+"fr": "CUT 08"
+},
+{
+"key": "templates.html#173",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#174",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#175",
+"fr": "Action"
+},
+{
+"key": "templates.html#176",
+"fr": "SE"
+},
+{
+"key": "templates.html#177",
+"fr": "CUT 09"
+},
+{
+"key": "templates.html#178",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#179",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#180",
+"fr": "Action"
+},
+{
+"key": "templates.html#181",
+"fr": "SE"
+},
+{
+"key": "templates.html#182",
+"fr": "Gris = interface de la plateforme (haut 14 %·bas 25 %·boutons à droite). Visages dans le 1/3 supérieur, sous-titres dans la bande centrale."
+},
+{
+"key": "templates.html#183",
+"fr": "Modèle de storyboard · 9:21"
+},
+{
+"key": "templates.html#184",
+"fr": "LED verticale·affichage – colonne · 1080×2520"
+},
+{
+"key": "templates.html#185",
+"fr": "Projet ____________  Scène ____  Page ___/___"
+},
+{
+"key": "templates.html#186",
+"fr": "Réalisation _____  Date ________  Version v___"
+},
+{
+"key": "templates.html#187",
+"fr": "CUT 01"
+},
+{
+"key": "templates.html#188",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#189",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#190",
+"fr": "Action"
+},
+{
+"key": "templates.html#191",
+"fr": "SE"
+},
+{
+"key": "templates.html#192",
+"fr": "CUT 02"
+},
+{
+"key": "templates.html#193",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#194",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#195",
+"fr": "Action"
+},
+{
+"key": "templates.html#196",
+"fr": "SE"
+},
+{
+"key": "templates.html#197",
+"fr": "CUT 03"
+},
+{
+"key": "templates.html#198",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#199",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#200",
+"fr": "Action"
+},
+{
+"key": "templates.html#201",
+"fr": "SE"
+},
+{
+"key": "templates.html#202",
+"fr": "CUT 04"
+},
+{
+"key": "templates.html#203",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#204",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#205",
+"fr": "Action"
+},
+{
+"key": "templates.html#206",
+"fr": "SE"
+},
+{
+"key": "templates.html#207",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#208",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#209",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#210",
+"fr": "Action"
+},
+{
+"key": "templates.html#211",
+"fr": "SE"
+},
+{
+"key": "templates.html#212",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#213",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#214",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#215",
+"fr": "Action"
+},
+{
+"key": "templates.html#216",
+"fr": "SE"
+},
+{
+"key": "templates.html#217",
+"fr": "CUT 07"
+},
+{
+"key": "templates.html#218",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#219",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#220",
+"fr": "Action"
+},
+{
+"key": "templates.html#221",
+"fr": "SE"
+},
+{
+"key": "templates.html#222",
+"fr": "CUT 08"
+},
+{
+"key": "templates.html#223",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#224",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#225",
+"fr": "Action"
+},
+{
+"key": "templates.html#226",
+"fr": "SE"
+},
+{
+"key": "templates.html#227",
+"fr": "CUT 09"
+},
+{
+"key": "templates.html#228",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#229",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#230",
+"fr": "Action"
+},
+{
+"key": "templates.html#231",
+"fr": "SE"
+},
+{
+"key": "templates.html#232",
+"fr": "La mise en scène se lit haut→bas. Vu à 2 m ou plus → texte d’au moins 60 px."
+},
+{
+"key": "templates.html#233",
+"fr": "Modèle de storyboard · carrousel 1:1"
+},
+{
+"key": "templates.html#234",
+"fr": "Fil·carrousel – carré · 1080×1080"
+},
+{
+"key": "templates.html#235",
+"fr": "Projet ____________  Scène ____  Page ___/___"
+},
+{
+"key": "templates.html#236",
+"fr": "Réalisation _____  Date ________  Version v___"
+},
+{
+"key": "templates.html#237",
+"fr": "CUT 01"
+},
+{
+"key": "templates.html#238",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#239",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#240",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#241",
+"fr": "Action"
+},
+{
+"key": "templates.html#242",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#243",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#244",
+"fr": "CUT 02"
+},
+{
+"key": "templates.html#245",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#246",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#247",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#248",
+"fr": "Action"
+},
+{
+"key": "templates.html#249",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#250",
+"fr": "M · SE"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part13.html#446",
+"fr": "Évaluation"
+},
+{
+"key": "part13.html#447",
+"fr": "Les documents exigés ont-ils été vérifiés dans l’avis lui-même ? Le calendrier est-il réaliste ?"
+},
+{
+"key": "part13.html#448",
+"fr": "Corrigé type"
+},
+{
+"key": "part13.html#449",
+"fr": "Un plan qui vise un appel coréen et un appel international avec la même œuvre, en préparant ensemble les documents en coréen et en anglais."
+},
+{
+"key": "part13.html#450",
+"fr": "<b>PARTIE 13</b>Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#451",
+"fr": "Trois débats"
+},
+{
+"key": "part13.html#452",
+"fr": "Immersion, IA, conservation. Étudiez l’art numérique et vous croiserez trois débats. Aucun n’a de réponse arrêtée : l’objectif est de connaître les arguments de chaque position et de choisir la vôtre."
+},
+{
+"key": "part13.html#453",
+"fr": "Premier débat – expositions immersives : art ou produit"
+},
+{
+"key": "part13.html#454",
+"fr": "Le point de vue « produit »"
+},
+{
+"key": "part13.html#455",
+"fr": "Une étude coréenne définit les expositions immersives comme « des contenus commerciaux visant l’expérience immersive elle-même, au-delà de la médiation artistique »"
+},
+{
+"key": "part13.html#456",
+"fr": "Entrée – à l’étranger, les expositions immersives coûtent aux adultes de plusieurs dizaines de milliers à plus de cent mille wons ; en Corée, les musées publics tournent surtout autour de 10 000 wons"
+},
+{
+"key": "part13.html#457",
+"fr": "Un dirigeant du secteur l’admet : « n’importe qui peut reprendre un thème comme les vagues, alors l’emprunt d’idées et la contrefaçon sont difficiles à prouver »"
+},
+{
+"key": "part13.html#458",
+"fr": "Le point de vue « nécessité »"
+},
+{
+"key": "part13.html#459",
+"fr": "Quand tout peut se regarder chez soi, l’expérience immersive donne une raison de se déplacer en personne"
+},
+{
+"key": "part13.html#460",
+"fr": "Les musées publics l’intègrent aussi – exposition 2026 du MMCA sur la lumière, antenne nouveaux médias du Seoul Museum of Art"
+},
+{
+"key": "part13.html#461",
+"fr": "Une question à méditer"
+},
+{
+"key": "part13.html#462",
+"fr": "Une œuvre réalisée avec 1,5 million de wons et diffusée quatre heures chaque soir sur un écran urbain relève-t-elle du même art numérique qu’un lieu payant qui attire des millions de visiteurs par an ? Qu’est-ce qui les sépare : le médium, l’origine de l’argent ou la place du public ?"
+},
+{
+"key": "part13.html#463",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part13.html#464",
+"fr": "Deux formes d’autorat – une œuvre qui utilise l’IA comme outil diffère d’une œuvre qui prend l’IA elle-même pour sujet. C’est la différence entre se servir d’un outil et l’interroger."
+},
+{
+"key": "part13.html#465",
+"fr": "Deuxième débat – IA générative et statut d’auteur"
+},
+{
+"key": "part13.html#466",
+"fr": "<small>Le vide de 2024</small>Aucune règle"
+},
+{
+"key": "part13.html#467",
+"fr": "Une œuvre en IA générative remporte le grand prix d’un concours de spots d’intérêt général, puis déclenche une polémique"
+},
+{
+"key": "part13.html#468",
+"fr": "L’organisateur déclare : « sans clause sur l’IA, nous ne pouvons ni l’interdire ni l’encourager », et le prix est maintenu"
+},
+{
+"key": "part13.html#469",
+"fr": "<small>Le tournant de 2026</small>Déclarer, pas interdire"
+},
+{
+"key": "part13.html#470",
+"fr": "JoongAng Media Art Competition – aide de l’IA encouragée, usage intensif jugé dans une catégorie à part, usage et ampleur à déclarer"
+},
+{
+"key": "part13.html#471",
+"fr": "Appel du ministère des Anciens combattants – demande les outils utilisés · l’ampleur · jusqu’aux sources de référence"
+},
+{
+"key": "part13.html#472",
+"fr": "Section artistique d’une conférence internationale – indiquer le rôle de l’IA est obligatoire"
+},
+{
+"key": "part13.html#473",
+"fr": "<small>Œuvres qui interrogent l’outil</small>Finaliste du Korea Artist Prize 2026"
+},
+{
+"key": "part13.html#474",
+"fr": "Restaure un film de 1946 par l’IA et révèle que « la technologie ne peut pas restaurer entièrement l’histoire »"
+},
+{
+"key": "part13.html#475",
+"fr": "Examine les biais inscrits dans les modèles de génération vidéo"
+},
+{
+"key": "part13.html#476",
+"fr": "En 2 ans, « usage de l’IA : aucune règle » est devenu « usage de l’IA : déclaration obligatoire ». L’habitude de noter dans votre journal de production quels outils vous avez utilisés, où et dans quelle mesure devient votre dossier de candidature."
+},
+{
+"key": "part13.html#477",
+"fr": "Troisième débat – comment une œuvre survit"
+},
+{
+"key": "part13.html#478",
+"fr": "<b>737<em>unités</em></b>Tubes cathodiques endommagés lors de la restauration de <i>The More, the Better</i>, réparés ou remplacés par des pièces d’occasion"
+},
+{
+"key": "part13.html#479",
+"fr": "<b>266<em>unités</em></b>Petits moniteurs du sommet, remplacés par des écrans plats qui gardent l’aspect d’origine. Huit vidéos converties en numérique"
+},
+{
+"key": "part13.html#480",
+"fr": "<b>4 jours par semaine, 2<em>heures</em></b>Durée de fonctionnement depuis la remise en marche de septembre 2022, pour protéger l’œuvre"
+},
+{
+"key": "part13.html#481",
+"fr": "<b>La question ouverte</b> – <i>The More, the Better</i>, dont les tubes ont été remplacés par des écrans plats, est-elle encore la même œuvre ? Les recommandations de conservation distinguent les installations où « le matériel fait partie de l’œuvre elle-même » de celles où il « sert seulement à montrer l’œuvre ». Dans le premier cas, remplacer le matériel, c’est changer l’œuvre."
+},
+{
+"key": "part13.html#482",
+"fr": "<b>Ce que les étudiants peuvent faire dès maintenant</b> – documentez logiciels et versions, matériel, réglages, ainsi que « ce qui peut changer et ce qui ne doit pas changer », et l’œuvre pourra être remontée des années plus tard."
+},
+{
+"key": "part13.html#483",
+"fr": "<b>La conservation comme métier</b> – en 2026, le MMCA a ouvert un programme de formation de restaurateurs, nouveaux médias compris. Non seulement créer des œuvres, mais aussi les maintenir devient une profession."
+},
+{
+"key": "part13.html#484",
+"fr": "Le jour où vous achevez une œuvre, rédigez une fiche technique d’une page. Elle sera la clé pour la rallumer 10 ans plus tard.<small>13.8 Trois débats</small>"
+},
+{
+"key": "part13.html#485",
+"fr": "<small>Exercice</small>13.8"
+},
+{
+"key": "part13.html#486",
+"fr": "Tâche"
+},
+{
+"key": "part13.html#487",
+"fr": "Choisissez l’un des trois débats et rédigez une tribune de 1000 caractères. Présentez les arguments de chaque camp, puis exposez votre position et vos raisons."
+},
+{
+"key": "part13.html#488",
+"fr": "Conseil"
+},
+{
+"key": "part13.html#489",
+"fr": "Cherchez et notez d’abord les arguments contre votre position. Si vous ignorez les objections, votre propre position est faible elle aussi."
+},
+{
+"key": "part13.html#490",
+"fr": "Évaluation"
+},
+{
+"key": "part13.html#491",
+"fr": "Les arguments des deux camps sont-ils présentés équitablement ? La conclusion est-elle étayée ?"
+},
+{
+"key": "part13.html#492",
+"fr": "Corrigé type"
+},
+{
+"key": "part13.html#493",
+"fr": "Un essai qui s’appuie sur une œuvre de son auteur pour transformer un débat abstrait en cas concret."
+},
+{
+"key": "part13.html#494",
+"fr": "Bilan de la PARTIE 13"
+},
+{
+"key": "part13.html#495",
+"fr": "L’essentiel en une page"
+},
+{
+"key": "part13.html#496",
+"fr": "13.1 Ce qu’est l’art numérique"
+},
+{
+"key": "part13.html#497",
+"fr": "Une attitude, pas un genre. Vérifiez seulement que vous pouvez dire en une phrase pourquoi l’œuvre exige ce médium."
+},
+{
+"key": "part13.html#498",
+"fr": "13.2 Ce qui distingue la vidéo de l’art numérique"
+},
+{
+"key": "part13.html#499",
+"fr": "Ce sont les prémisses qui diffèrent, pas la technique. Le public arrive en cours de route : concevez la boucle et les points d’entrée, et respectez le format d’image."
+},
+{
+"key": "part13.html#500",
+"fr": "13.3 Le paysage de l’art numérique coréen"
+},
+{
+"key": "part13.html#501",
+"fr": "Trois voies : institutions · écrans urbains · industrie immersive. Les étudiants passent d’abord par les écrans urbains et s’y forgent des références."
+},
+{
+"key": "part13.html#502",
+"fr": "13.4 Carte des outils"
+},
+{
+"key": "part13.html#503",
+"fr": "Séparez traitement · entrée · sortie. Écrivez ce qui se passe quand le visiteur fait quoi, puis choisissez les outils."
+},
+{
+"key": "part13.html#504",
+"fr": "13.5 Faire fonctionner l’œuvre en galerie"
+},
+{
+"key": "part13.html#505",
+"fr": "Calculez rapport de projection et luminosité, et faites tourner l’œuvre jusqu’au dernier jour avec démarrage automatique · veille désactivée · redémarrage quotidien · copie de secours."
+},
+{
+"key": "part13.html#506",
+"fr": "13.6 Textes de présentation et portfolios"
+},
+{
+"key": "part13.html#507",
+"fr": "Quoi · comment · pourquoi, en 150–300 caractères. N’omettez pas la ligne des matériaux · le schéma du système · les conditions d’installation · la contribution, et tournez la documentation."
+},
+{
+"key": "part13.html#508",
+"fr": "13.7 Appels à projets et aides"
+},
+{
+"key": "part13.html#509",
+"fr": "Commencez par les appels qui ont une catégorie étudiante. En un semestre, préparez les quatre pièces : texte d’artiste en coréen · note d’intention en anglais · temps forts de 30 s · film de 3 min."
+},
+{
+"key": "part13.html#510",
+"fr": "13.8 Trois débats"
+},
+{
+"key": "part13.html#511",
+"fr": "Nature des expositions immersives, règles de déclaration de l’IA, pièces qui ne sont plus fabriquées et conservation. Connaissez les arguments de chaque camp et choisissez votre position."
+},
+{
+"key": "part14a.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part14a.html#1",
+"fr": "<small>PARTIE</small>14"
+},
+{
+"key": "part14a.html#2",
+"fr": "<b>Ce que vous ouvrez dans cette PARTIE</b>"
+},
+{
+"key": "part14a.html#3",
+"fr": "Listes de contrôle avant tournage · jour J · livraison"
+},
+{
+"key": "part14a.html#4",
+"fr": "Glossaire et table des termes coréen-anglais"
+},
+{
+"key": "part14a.html#5",
+"fr": "Plan de cours · modèles de planning de production · fiches de travail"
+},
+{
+"key": "part14a.html#6",
+"fr": "Annexe"
+},
+{
+"key": "part14a.html#7",
+"fr": "L’annexe n’est pas faite pour être lue, mais pour être ouverte. À des moments précis, la veille d’un tournage, juste avant une livraison ou la veille d’un entretien, ouvrez la page concernée et vérifiez point par point ce qui est écrit, au lieu de vous fier à votre mémoire."
+},
+{
+"key": "part14a.html#8",
+"fr": "Photo OPEN-14 Ouverture de partie, photo pleine page · image générative"
+},
+{
+"key": "part14a.html#9",
+"fr": "<b>Annexe</b>Documents de terrain"
+},
+{
+"key": "part14a.html#10",
+"fr": "Liste de contrôle du matériel avant tournage"
+},
+{
+"key": "part14a.html#11",
+"fr": "Même les chefs opérateurs chevronnés oublient les batteries. Seul ce qui est écrit est fait."
+},
+{
+"key": "part14a.html#12",
+"fr": "<b>P-12</b> Matériel de production disposé avant un tournage"
+},
+{
+"key": "part14a.html#13",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part14a.html#14",
+"fr": "Vérifiez deux fois : la veille du départ et juste avant de partir."
+},
+{
+"key": "part14a.html#15",
+"fr": "Catégorie"
+},
+{
+"key": "part14a.html#16",
+"fr": "À vérifier"
+},
+{
+"key": "part14a.html#17",
+"fr": "Caméra"
+},
+{
+"key": "part14a.html#18",
+"fr": "Charge et batteries de rechange, cartes mémoire de rechange et état du formatage"
+},
+{
+"key": "part14a.html#19",
+"fr": "Caméra"
+},
+{
+"key": "part14a.html#20",
+"fr": "Filtres ND, trépied, exposition manuelle · balance des blancs manuelle réglées"
+},
+{
+"key": "part14a.html#21",
+"fr": "Son"
+},
+{
+"key": "part14a.html#22",
+"fr": "Micro externe, micro-cravate, contrôle du niveau d’enregistrement"
+},
+{
+"key": "part14a.html#23",
+"fr": "Éclairage"
+},
+{
+"key": "part14a.html#24",
+"fr": "Pieds de projecteur et sacs de sable, réflecteur, puissance électrique et capacité des multiprises"
+},
+{
+"key": "part14a.html#25",
+"fr": "Données"
+},
+{
+"key": "part14a.html#26",
+"fr": "2 disques de sauvegarde, un ordinateur portable pour vérifier les copies"
+},
+{
+"key": "part14a.html#27",
+"fr": "Documents"
+},
+{
+"key": "part14a.html#28",
+"fr": "Storyboard, liste des plans, plan de travail (feuille de service), autorisations des intervenants, autorisations de tournage"
+},
+{
+"key": "part14a.html#29",
+"fr": "Consommables"
+},
+{
+"key": "part14a.html#30",
+"fr": "Gaffer pour fixer les câbles, clap, stylos"
+},
+{
+"key": "part14a.html#31",
+"fr": "<b>Annexe</b>Documents de terrain"
+},
+{
+"key": "part14a.html#32",
+"fr": "Conduire la journée de tournage"
+},
+{
+"key": "part14a.html#33",
+"fr": "Décidez à l’avance qui vérifie quoi à chaque étape de la journée."
+},
+{
+"key": "part14a.html#34",
+"fr": "Heure"
+},
+{
+"key": "part14a.html#35",
+"fr": "Activité principale"
+},
+{
+"key": "part14a.html#36",
+"fr": "Responsable"
+},
+{
+"key": "part14a.html#37",
+"fr": "Contrôles"
+},
+{
+"key": "part14a.html#38",
+"fr": "2 h avant"
+},
+{
+"key": "part14a.html#39",
+"fr": "Vérifier matériel et charges"
+},
+{
+"key": "part14a.html#40",
+"fr": "Production"
+},
+{
+"key": "part14a.html#41",
+"fr": "Batteries, cartes, sauvegarde prêtes"
+},
+{
+"key": "part14a.html#42",
+"fr": "1 h avant"
+},
+{
+"key": "part14a.html#43",
+"fr": "Installer le décor, monter les lumières"
+},
+{
+"key": "part14a.html#44",
+"fr": "Image, éclairage"
+},
+{
+"key": "part14a.html#45",
+"fr": "Alimentation sûre, fixations solides"
+},
+{
+"key": "part14a.html#46",
+"fr": "30 min avant"
+},
+{
+"key": "part14a.html#47",
+"fr": "Répétition et essais"
+},
+{
+"key": "part14a.html#48",
+"fr": "Réalisation"
+},
+{
+"key": "part14a.html#49",
+"fr": "Exposition, balance des blancs, niveaux son"
+},
+{
+"key": "part14a.html#50",
+"fr": "Pendant le tournage"
+},
+{
+"key": "part14a.html#51",
+"fr": "Tourner et noter plan par plan"
+},
+{
+"key": "part14a.html#52",
+"fr": "Scripte"
+},
+{
+"key": "part14a.html#53",
+"fr": "N° de prise, prises OK cochées"
+},
+{
+"key": "part14a.html#54",
+"fr": "Entre les plans"
+},
+{
+"key": "part14a.html#55",
+"fr": "Sauvegarder, changer de batterie"
+},
+{
+"key": "part14a.html#56",
+"fr": "Production"
+},
+{
+"key": "part14a.html#57",
+"fr": "Formater après copie vérifiée"
+},
+{
+"key": "part14a.html#58",
+"fr": "Avant la fin"
+},
+{
+"key": "part14a.html#59",
+"fr": "Son d’ambiance, inserts en plus"
+},
+{
+"key": "part14a.html#60",
+"fr": "Réalisation"
+},
+{
+"key": "part14a.html#61",
+"fr": "Dernier contrôle des plans manquants"
+},
+{
+"key": "part14a.html#62",
+"fr": "Fin"
+},
+{
+"key": "part14a.html#63",
+"fr": "Ranger, remettre le lieu en état"
+},
+{
+"key": "part14a.html#64",
+"fr": "Tous"
+},
+{
+"key": "part14a.html#65",
+"fr": "Oublis, déchets, dégâts"
+},
+{
+"key": "part14a.html#66",
+"fr": "À vérifier avant d’annoncer la fin"
+},
+{
+"key": "part14a.html#67",
+"fr": "Chaque plan du storyboard est-il coché ? S’il en reste un seul en blanc, ne remballez pas."
+},
+{
+"key": "part14a.html#68",
+"fr": "<b>Annexe</b>Documents de terrain"
+},
+{
+"key": "part14a.html#69",
+"fr": "Gestion des médias et sauvegarde"
+},
+{
+"key": "part14a.html#70",
+"fr": "Vérifier la seule taille des fichiers ne détecte pas les fichiers corrompus."
+},
+{
+"key": "part14a.html#71",
+"fr": "<b>La règle 3-2-1</b>"
+},
+{
+"key": "part14a.html#72",
+"fr": "3 copies, 2 supports différents, 1 dans un lieu physiquement séparé."
+},
+{
+"key": "part14a.html#73",
+"fr": "Principes"
+},
+{
+"key": "part14a.html#74",
+"fr": "Faire au moins 2 copies le jour du tournage"
+},
+{
+"key": "part14a.html#75",
+"fr": "Copier dès qu’une carte est pleine. Ne jamais formater avant la fin de la copie"
+},
+{
+"key": "part14a.html#76",
+"fr": "Vérifier la lecture après la copie"
+},
+{
+"key": "part14a.html#77",
+"fr": "Jamais de final · vraiment_final · corrigé dans les noms de fichiers. Uniquement le format v01 v02 et des dates"
+},
+{
+"key": "part14a.html#78",
+"fr": "Arborescence et règles de nommage"
+},
+{
+"key": "part14a.html#79",
+"fr": "Dossier"
+},
+{
+"key": "part14a.html#80",
+"fr": "Exemple de nom"
+},
+{
+"key": "part14a.html#81",
+"fr": "Description"
+},
+{
+"key": "part14a.html#82",
+"fr": "01_FOOTAGE"
+},
+{
+"key": "part14a.html#83",
+"fr": "D01_C01_T02.mov"
+}
+]

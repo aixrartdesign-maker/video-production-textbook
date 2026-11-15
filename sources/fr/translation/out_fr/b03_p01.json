@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#101",
+"fr": "<b>2S · LOCKED</b><span>Les bouteilles trinquent · SYNC rire</span>"
+},
+{
+"key": "feature_storyboard.html#102",
+"fr": "<b>MS · trav. avant</b><span>Produit centré · logo CG · N Aujourd’hui aussi</span>"
+},
+{
+"key": "feature_storyboard.html#103",
+"fr": "<b>Planche SB-9</b> Exemple de storyboard vertical – pub en vidéo courte de 15 s (9:16, 6 plans). Les cases verticales sont étroites : une ligne d’indication d’action, un mot pour le son."
+},
+{
+"key": "feature_storyboard.html#104",
+"fr": "Un storyboard vertical reste lisible jusqu’à 6 cases par rangée. Les cases verticales sont étroites et les informations s’allongent en dessous : écrivez <b>une ligne d’indication d’action, un mot pour le son</b>. Ne dessinez les sous-titres que dans la bande centrale, hors des zones d’interface (en gris)."
+},
+{
+"key": "feature_storyboard.html#105",
+"fr": "<small>DOUBLE PAGE 04</small>Storyboards 360 · VR – concevoir un « axe d’attention », pas une chronologie"
+},
+{
+"key": "feature_storyboard.html#106",
+"fr": "Un storyboard de vidéo plane consigne « ce qu’on voit dans ce plan ». Un storyboard 360 consigne <b>où le public regardera</b> et <b>ce qui le fera se retourner</b>. La case est un déplié équirectangulaire 2:1, toujours surmonté d’une vue de dessus."
+},
+{
+"key": "feature_storyboard.html#107",
+"fr": "Storyboard 360 · VR – concevoir l’axe d’attention"
+},
+{
+"key": "feature_storyboard.html#108",
+"fr": "<b><i>01</i>0–8 s · avant fixe</b><span>Monologue de A ; le spectateur découvre l’espace</span>"
+},
+{
+"key": "feature_storyboard.html#109",
+"fr": "<b><i>02</i>8–14 s · le son appelle</b><span>Bruit de porte, arrière gauche → A se retourne → le public aussi</span>"
+},
+{
+"key": "feature_storyboard.html#110",
+"fr": "<b><i>03</i>14–22 s · nouvel avant</b><span>−130° devient le nouvel avant. B entre</span>"
+},
+{
+"key": "feature_storyboard.html#111",
+"fr": "Caméra = public"
+},
+{
+"key": "feature_storyboard.html#112",
+"fr": "Avant 90°"
+},
+{
+"key": "feature_storyboard.html#113",
+"fr": "<b>Vue de dessus</b><span>Notez en angles où se produisent les événements. Si les rotations d’une même scène dépassent 180° au total, c’est la cinétose.</span><span>Dans chaque case : angle avant prévu · signaux d’attention (son · lumière · regard) · temps de rotation (2 s min. par 90°)</span>"
+},
+{
+"key": "feature_storyboard.html#114",
+"fr": "<b>Planche SB-3</b> Storyboard 360 · VR – trois cases dépliées et une vue de dessus. Ce qui se passe derrière le spectateur s’annonce par le son, pas par l’image."
+},
+{
+"key": "feature_storyboard.html#115",
+"fr": "<span class=\"ph-id\">P06-SB-360</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Croquis de storyboard 360 – noter angles et positions sonores sur le déplié</b></span>"
+},
+{
+"key": "feature_storyboard.html#116",
+"fr": "<b>Note</b>Croquis de storyboard 360 – noter angles et positions sonores sur le déplié"
+},
+{
+"key": "feature_storyboard.html#117",
+"fr": "<small>Vidéo 360</small>Le public se retourne"
+},
+{
+"key": "feature_storyboard.html#118",
+"fr": "Caméra fixe, hauteur d’yeux 1,2–1,6 m"
+},
+{
+"key": "feature_storyboard.html#119",
+"fr": "Plans longs (8 s min.), transitions en fondu"
+},
+{
+"key": "feature_storyboard.html#120",
+"fr": "Sujets proches à 1,5 m au moins – distorsion stéréo"
+},
+{
+"key": "feature_storyboard.html#121",
+"fr": "<small>VR (casque)</small>Le public est dans la scène"
+},
+{
+"key": "feature_storyboard.html#122",
+"fr": "FOV 90–110° ; la scène principale se joue à 2–5 m des yeux"
+},
+{
+"key": "feature_storyboard.html#123",
+"fr": "Ni interface ni sous-titres fixés à la tête ; les ancrer dans l’espace"
+},
+{
+"key": "feature_storyboard.html#124",
+"fr": "Règle anti-cinétose : aucun mouvement de caméra, ou rectiligne à vitesse constante"
+},
+{
+"key": "feature_storyboard.html#125",
+"fr": "<small>Livrables du storyboard</small>Un jeu de trois feuilles"
+},
+{
+"key": "feature_storyboard.html#126",
+"fr": "Déplié équirectangulaire (cases)"
+},
+{
+"key": "feature_storyboard.html#127",
+"fr": "Vue de dessus (angles · déplacements)"
+},
+{
+"key": "feature_storyboard.html#128",
+"fr": "Chronologie de l’attention (graphique secondes × angle avant)"
+},
+{
+"key": "feature_storyboard.html#129",
+"fr": "<small>DOUBLE PAGE 05</small>LED courbe · dôme · façade média – dessiner « d’où l’on regarde », pas « l’écran »"
+},
+{
+"key": "feature_storyboard.html#130",
+"fr": "LED courbe · façade média – dessiner le point de vue"
+},
+{
+"key": "feature_storyboard.html#131",
+"fr": "<b>LED courbe · cylindrique – plan au sol + déplié</b><span>Fixer d’abord le rayon sans distorsion depuis le point de vue · texte et visages dans la seule bande du regard (1,4–1,8 m du sol) · jamais de texte sur un joint · mouvement horizontal de 15° par seconde au plus</span>"
+},
+{
+"key": "feature_storyboard.html#132",
+"fr": "<b>Façade média – carte de pixels en élévation + distance de vision</b><span>Distance de vision minimale (m) ≈ pas de pixel (mm) · hauteur du texte = 1/250 de la distance → en pratique pas de texte, seulement formes et couleurs · simuler en trois points : piéton 20 m / trottoir d’en face 60 m / vue lointaine 150 m</span>"
+},
+{
+"key": "feature_storyboard.html#133",
+"fr": "<b>Planche SB-4</b> Storyboards pour LED courbe et façades média. La première case n’est pas « l’écran » mais « d’où le public regarde, et pendant combien de temps »."
+},
+{
+"key": "feature_storyboard.html#134",
+"fr": "Support"
+},
+{
+"key": "feature_storyboard.html#135",
+"fr": "Forme de la case"
+},
+{
+"key": "feature_storyboard.html#136",
+"fr": "À joindre"
+},
+{
+"key": "feature_storyboard.html#137",
+"fr": "Unité de temps"
+},
+{
+"key": "feature_storyboard.html#138",
+"fr": "À proscrire"
+},
+{
+"key": "feature_storyboard.html#139",
+"fr": "LED courbe · cylindrique"
+},
+{
+"key": "feature_storyboard.html#140",
+"fr": "Déplié (longueur d’arc : hauteur)"
+},
+{
+"key": "feature_storyboard.html#141",
+"fr": "Plan au sol + point de vue + bande du regard"
+},
+{
+"key": "feature_storyboard.html#142",
+"fr": "Scènes de 20–40 s"
+},
+{
+"key": "feature_storyboard.html#143",
+"fr": "Texte sur les joints, mouvements horizontaux à plus de 15° par seconde"
+},
+{
+"key": "feature_storyboard.html#144",
+"fr": "Dôme (fulldome)"
+},
+{
+"key": "feature_storyboard.html#145",
+"fr": "Cercle fisheye (dome master 4096×4096)"
+},
+{
+"key": "feature_storyboard.html#146",
+"fr": "Coupe + inclinaison des sièges"
+},
+{
+"key": "feature_storyboard.html#147",
+"fr": "Scènes de 30 s min."
+},
+{
+"key": "feature_storyboard.html#148",
+"fr": "Action sous l’horizon, rotation rapide"
+},
+{
+"key": "feature_storyboard.html#149",
+"fr": "Façade média"
+},
+{
+"key": "feature_storyboard.html#150",
+"fr": "Carte de pixels en élévation"
+},
+{
+"key": "feature_storyboard.html#151",
+"fr": "Simuler à trois distances de vision"
+},
+{
+"key": "feature_storyboard.html#152",
+"fr": "Boucle de 8–30 s"
+},
+{
+"key": "feature_storyboard.html#153",
+"fr": "Texte courant, plein écran 100 % blanc"
+},
+{
+"key": "feature_storyboard.html#154",
+"fr": "Mapping vidéo"
+},
+{
+"key": "feature_storyboard.html#155",
+"fr": "Masque UV sur une photo du bâtiment"
+},
+{
+"key": "feature_storyboard.html#156",
+"fr": "Position du projecteur · distance de projection · zones de recouvrement"
+},
+{
+"key": "feature_storyboard.html#157",
+"fr": "Scènes de 15–60 s"
+},
+{
+"key": "feature_storyboard.html#158",
+"fr": "Compter sur les fonds noirs (en ignorant la texture du support)"
+},
+{
+"key": "feature_storyboard.html#159",
+"fr": "Illusion anamorphique en extérieur"
+},
+{
+"key": "feature_storyboard.html#160",
+"fr": "Deux faces d’angle dépliées + 1 point de vue"
+},
+{
+"key": "feature_storyboard.html#161",
+"fr": "Marquer le « bon endroit » ; simuler les autres positions"
+},
+{
+"key": "feature_storyboard.html#162",
+"fr": "Contenu à expliquer dès qu’on quitte le bon endroit"
+},
+{
+"key": "feature_storyboard.html#163",
+"fr": "<small>DOUBLE PAGE 06</small>Storyboards AR · MR · XR – la case se divise en « couches »"
+},
+{
+"key": "feature_storyboard.html#164",
+"fr": "Une case AR · MR n’est pas un dessin à plat : elle se décompose en <b>couche du réel / surface suivie / couche des objets virtuels / couche d’interface</b>. Et « ce que le public doit faire pour atteindre la case suivante (interaction) » remplace le signe de transition. Un plateau XR (production virtuelle sur mur LED) fonctionne à l’inverse : le storyboard se divise en quatre pistes, caméra · fond LED · décor physique · éclairage."
+},
+{
+"key": "feature_storyboard.html#165",
+"fr": "Storyboards AR · MR · XR"
+},
+{
+"key": "feature_storyboard.html#166",
+"fr": "<b>AR – la case se divise en couches</b><span>Dessiner quatre couches à part : réel / surface suivie / objet virtuel / interface · au lieu des signes de transition, « ce qui doit se passer pour atteindre la case suivante » (toucher · tourner · s’approcher) · une case de branche d’échec est indispensable</span>"
+},
+{
+"key": "feature_storyboard.html#167",
+"fr": "<b>MR – dessiner sur un plan de la pièce</b><span>Les objets virtuels s’ancrent au mur · au sol · à la table · les meubles réels doivent masquer les objets virtuels pour qu’on y croie · rayon de déplacement 2 m ; ne jamais mener l’utilisateur hors du périmètre de sécurité</span>"
+},
+{
+"key": "feature_storyboard.html#168",
+"fr": "<b>Plateau XR – un storyboard à quatre pistes</b><span>Décor physique · acteurs / fond LED (Unreal) / tracking caméra / synchro lumière, soit quatre lignes par plan · noter frustum intérieur/extérieur, version du fond, luminosité du mur</span>"
+},
+{
+"key": "feature_storyboard.html#169",
+"fr": "<b>Planche SB-5</b> L’AR en couches, la MR sur un plan de pièce, la XR en pistes – changez de support et la définition d’« une case » change. Leur point commun : dessiner d’abord où se trouve le public (ou la caméra)."
+},
+{
+"key": "feature_storyboard.html#170",
+"fr": "<small>DOUBLE PAGE 07</small>Le langage de la caméra dessiné dans la case – un jeu de symboles pour plan · angle · mouvement · composition"
+},
+{
+"key": "feature_storyboard.html#171",
+"fr": "Le langage de la caméra dans la case – 8 symboles de mouvement"
+},
+{
+"key": "feature_storyboard.html#172",
+"fr": "<b>PAN</b><span>Double flèche gauche-droite</span>"
+},
+{
+"key": "feature_storyboard.html#173",
+"fr": "<b>TILT</b><span>Flèche verticale</span>"
+},
+{
+"key": "feature_storyboard.html#174",
+"fr": "<b>ZOOM IN</b><span>Quatre flèches convergeant vers le centre</span>"
+},
+{
+"key": "feature_storyboard.html#175",
+"fr": "<b>ZOOM OUT</b><span>Quatre flèches s’écartant vers l’extérieur</span>"
+},
+{
+"key": "feature_storyboard.html#176",
+"fr": "<b>DOLLY IN</b><span>Flèche qui avance au sol</span>"
+},
+{
+"key": "feature_storyboard.html#177",
+"fr": "<b>TRACK</b><span>Longue flèche parallèle au sujet</span>"
+},
+{
+"key": "feature_storyboard.html#178",
+"fr": "<b>CRANE</b><span>Grande flèche courbée vers le haut</span>"
+},
+{
+"key": "feature_storyboard.html#179",
+"fr": "<b>HANDHELD</b><span>Zigzags dans les coins</span>"
+},
+{
+"key": "feature_storyboard.html#180",
+"fr": "<b>Planche SB-6</b> Dessiner les mouvements de caméra sur un storyboard – déplacements du sujet en noir, la caméra seule en rouge. Regroupez les symboles dans une légende en première case."
+},
+{
+"key": "feature_storyboard.html#181",
+"fr": "Quatre styles de storyboard"
+},
+{
+"key": "feature_storyboard.html#182",
+"fr": "<b>Vignette – dessiner pour réfléchir</b><span>Une case en 10 secondes, pour les seuls yeux du réalisateur. Utile parce que facile à jeter</span>"
+},
+{
+"key": "feature_storyboard.html#183",
+"fr": "<b>Trait net – dessiner pour le plateau</b><span>Information claire. Le standard pour les pubs · les dossiers PPM</span>"
+},
+{
+"key": "feature_storyboard.html#184",
+"fr": "<b>Planche en valeurs – dessiner la lumière</b><span>Trois valeurs d’ombrage, jusqu’à la direction de la lumière. Longs métrages · films de marque</span>"
+},
+{
+"key": "feature_storyboard.html#185",
+"fr": "<b>Maquette couleur – juste avant l’animatique</b><span>Teste ensemble la couleur et le rythme. Motion design · animation</span>"
+},
+{
+"key": "feature_storyboard.html#186",
+"fr": "<b>Planche SB-6′</b> Quatre styles de storyboard. L’objectif fixe la précision – un dessin pour soi n’est pas un dessin pour dix personnes."
+},
+{
+"key": "feature_storyboard.html#187",
+"fr": "<small>DOUBLE PAGE 08</small>Rendre « visibles » la narration et le son – le storyboard à 3 pistes et une pub de 15 s terminée"
+},
+{
+"key": "feature_storyboard.html#188",
+"fr": "Le son est l’information qui manque le plus souvent dans un storyboard. Écrit sur une ligne sous l’image, il ne laisse pas voir sa durée. Placez côte à côte, sur une ligne de temps, <b>piste image / piste voix / piste son</b> : vous verrez, comme à la règle, si la narration déborde du plan et si les changements de musique tombent sur les coupes."
+},
+{
+"key": "feature_storyboard.html#189",
+"fr": "Rendre visibles la narration et le son – le storyboard à 3 pistes"
+},
+{
+"key": "feature_storyboard.html#190",
+"fr": "IMAGE"
+},
+{
+"key": "feature_storyboard.html#191",
+"fr": "<span>ECU · gouttes</span>"
+},
+{
+"key": "feature_storyboard.html#192",
+"fr": "<span>MCU · prend la bouteille</span>"
+},
+{
+"key": "feature_storyboard.html#193",
+"fr": "<span>CU · une gorgée</span>"
+},
+{
+"key": "feature_storyboard.html#194",
+"fr": "<span>LS · matin en ville</span>"
+},
+{
+"key": "feature_storyboard.html#195",
+"fr": "<span>ECU · sur la table</span>"
+},
+{
+"key": "feature_storyboard.html#196",
+"fr": "<span>MS · logo en CG</span>"
+},
+{
+"key": "feature_storyboard.html#197",
+"fr": "VOIX"
+},
+{
+"key": "feature_storyboard.html#198",
+"fr": "N Votre journée commence autrement"
+},
+{
+"key": "feature_storyboard.html#199",
+"fr": "SYNC « Mm. »"
+},
+{
+"key": "feature_storyboard.html#200",
+"fr": "N Avant que la ville s’éveille"
+},
+{
+"key": "feature_storyboard.html#201",
+"fr": "N Aujourd’hui aussi, Nom de marque"
+},
+{
+"key": "feature_storyboard.html#202",
+"fr": "MUSIC"
+},
+{
+"key": "feature_storyboard.html#203",
+"fr": "MUTE"
+},
+{
+"key": "feature_storyboard.html#204",
+"fr": "♪ entrée piano"
+},
+{
+"key": "feature_storyboard.html#205",
+"fr": "pulsation"
+},
+{
+"key": "feature_storyboard.html#206",
+"fr": "accent final · fondu"
+},
+{
+"key": "feature_storyboard.html#207",
+"fr": "SE"
+},
+{
+"key": "feature_storyboard.html#208",
+"fr": "gouttes"
+},
+{
+"key": "feature_storyboard.html#209",
+"fr": "bouchon"
+},
+{
+"key": "feature_storyboard.html#210",
+"fr": "ATM ville"
+},
+{
+"key": "feature_storyboard.html#211",
+"fr": "souffle"
+},
+{
+"key": "feature_storyboard.html#212",
+"fr": "CAP"
+},
+{
+"key": "feature_storyboard.html#213",
+"fr": "début de journée"
+},
+{
+"key": "feature_storyboard.html#214",
+"fr": "SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#215",
+"fr": "<b>Planche SB-7</b> Storyboard à trois pistes pour une pub de 15 s en 6 plans. La largeur de la case, c’est le temps – si la narration dépasse la case, coupez-la à cet endroit. Calez les changements de musique sur les limites des plans."
+},
+{
+"key": "feature_storyboard.html#216",
+"fr": "<b>3<em>car./s</em></b>Débit de la narration en coréen"
+},
+{
+"key": "feature_storyboard.html#217",
+"fr": "<b>35–45<em>car.</em></b>Plafond pour une pub de 15 s"
+},
+{
+"key": "feature_storyboard.html#218",
+"fr": "<b>150–180<em>car.</em></b>Plafond pour une vidéo de 1 min"
+},
+{
+"key": "feature_storyboard.html#219",
+"fr": "<b>0,5<em>s</em></b>Du début du plan à la première syllabe"
+},
+{
+"key": "feature_storyboard.html#220",
+"fr": "<small>DOUBLE PAGE 09</small>Dessiner pour être lu – le plateau est sombre et le lecteur pressé"
+},
+{
+"key": "feature_storyboard.html#221",
+"fr": "Dessiner pour être lu"
+},
+{
+"key": "feature_storyboard.html#222",
+"fr": "<b>✕ Une case illisible</b><span>Traits gris fins · quatre couleurs de flèches · texte minuscule · pas de numéros</span>"
+},
+{
+"key": "feature_storyboard.html#223",
+"fr": "<span>CUT 02</span><span class=\"sc\">S#1 Café · Jour · INT</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#224",
+"fr": "MCU · EYE · 50 mm · DOLLY IN lent · CUT TO"
+},
+{
+"key": "feature_storyboard.html#225",
+"fr": "Action : prend le produit · regard sur le produit"
+},
+{
+"key": "feature_storyboard.html#226",
+"fr": "N Votre journée commence autrement · SE bouchon · M entrée piano"
+},
+{
+"key": "feature_storyboard.html#227",
+"fr": "<b>○ Une case lisible à 3 m</b><span>Trois tons · une couleur de flèche · numéro et durée en grand · texte sur deux lignes sous la case</span>"
+},
+{
+"key": "feature_storyboard.html#228",
+"fr": "<b>Planche SB-8</b> Même information, lisibilité différente. Un storyboard n’est pas fait pour un écran : on l’épingle au mur du plateau et on le lit à 3 m."
+},
+{
+"key": "feature_storyboard.html#229",
+"fr": "<b>01</b><span><b>Dessinez en trois tons.</b> Arrière-plan (clair), plan intermédiaire (moyen), personnes/produit (foncé). Trois valeurs montrent la forme ; cinq font un tableau – un storyboard n’est pas un tableau.</span>"
+},
+{
+"key": "feature_storyboard.html#230",
+"fr": "<b>02</b><span><b>Deux épaisseurs de trait seulement.</b> Épais pour les contours, fin pour les détails. Si tous les traits ont la même épaisseur, rien ne ressort.</span>"
+},
+{
+"key": "feature_storyboard.html#231",
+"fr": "<b>03</b><span><b>Une seule couleur pour les flèches ; noir pour les déplacements des personnages.</b> Mouvements de caméra en une couleur, bordeaux (ou rouge). Au-delà de trois couleurs, on se met à chercher la légende.</span>"
+},
+{
+"key": "feature_storyboard.html#232",
+"fr": "<b>04</b><span><b>Le numéro de plan et la durée sont le texte le plus gros de la case.</b> Ce qu’on crie le plus sur un plateau, c’est « quel plan, combien de secondes ».</span>"
+},
+{
+"key": "feature_storyboard.html#233",
+"fr": "<b>05</b><span><b>Pas de texte dans le dessin.</b> Signalez sous-titres et logos par un simple cadre en pointillé. Tout le texte va sous la case.</span>"
+},
+{
+"key": "feature_storyboard.html#234",
+"fr": "<b>06</b><span><b>Deux lignes d’information sous la case.</b> Ligne un : les mesures (SIZE · ANGLE · LENS · MOVE). Ligne deux : paroles et son (N · SYNC · M · SE). Personne ne lit une troisième ligne.</span>"
+},
+{
+"key": "feature_storyboard.html#235",
+"fr": "<b>07</b><span><b>Texte de 11 pt au moins (sur A4), soit 1/40 de la largeur de la case.</b> Dessinez en prévoyant un agrandissement en A3, épinglé au mur.</span>"
+},
+{
+"key": "feature_storyboard.html#236",
+"fr": "<b>08</b><span><b>Taille du personnage dans le cadre = valeur de plan.</b> Si la taille du personnage change entre des cases notées MS, le storyboard ment. Fabriquez une règle à silhouettes et servez-vous-en.</span>"
+},
+{
+"key": "feature_storyboard.html#237",
+"fr": "<b>09</b><span><b>3–6 cases par rangée, gauche→droite, haut→bas.</b> Les mises en page en zigzag ou verticales sont toujours lues dans le désordre sur le plateau.</span>"
+},
+{
+"key": "feature_storyboard.html#238",
+"fr": "<b>10</b><span><b>La légende occupe la première case.</b> Format d’image, résolution, légende des symboles, version et date vont dans la case un. Dès que deux versions du storyboard circulent, le tournage est perdu.</span>"
+},
+{
+"key": "feature_storyboard.html#239",
+"fr": "Bonnes indications de jeu"
+},
+{
+"key": "feature_storyboard.html#240",
+"fr": "Séparer l’action (verbes) de l’émotion (adjectifs)"
+},
+{
+"key": "feature_storyboard.html#241",
+"fr": "Écrire le comportement, pas le résultat"
+},
+{
+"key": "feature_storyboard.html#242",
+"fr": "Toujours préciser la direction du regard"
+},
+{
+"key": "feature_storyboard.html#243",
+"fr": "p. ex. Soulever le produit et porter le regard vers la caméra"
+},
+{
+"key": "feature_storyboard.html#244",
+"fr": "p. ex. Une inspiration, puis relever seulement les coins de la bouche"
+},
+{
+"key": "feature_storyboard.html#245",
+"fr": "Mauvaises indications de jeu"
+},
+{
+"key": "feature_storyboard.html#246",
+"fr": "Ayez l’air heureux (aucun critère clair)"
+},
+{
+"key": "feature_storyboard.html#247",
+"fr": "Soyez naturel (l’indication la plus irresponsable)"
+},
+{
+"key": "feature_storyboard.html#248",
+"fr": "Ne soyez pas nerveux (indication négative)"
+},
+{
+"key": "feature_storyboard.html#249",
+"fr": "Plus d’émotion (personne ne sait ce que cela veut dire)"
+},
+{
+"key": "feature_storyboard.html#250",
+"fr": "Faites comme vous le sentez (la direction démissionne)"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part08.html#807",
+"fr": "<b>29 s</b><i>Très court</i>Dans les concours de moins de 30 secondes, comme le 29-Second Film Festival, tout tient à une seule chute. Mise en place en un plan, chute dans les 5 dernières secondes."
+},
+{
+"key": "part08.html#808",
+"fr": "<b>1 min</b><i>Vidéo courte</i>Le standard des publicités et des vidéos promotionnelles. Relancez l’accroche toutes les 8–10 secondes pour donner une nouvelle raison de regarder jusqu’au bout (voir 7.17)."
+},
+{
+"key": "part08.html#809",
+"fr": "Formats longs"
+},
+{
+"key": "part08.html#810",
+"fr": "<b>3 min</b><i>Film de marque</i>Durée courante des films institutionnels. Une personne, un conflit, une résolution. L’histoire des gens passe avant le produit."
+},
+{
+"key": "part08.html#811",
+"fr": "<b>10–30 s</b><i>Boucle LED extérieure</i>Diffusée en boucle, sans son. La fin doit s’enchaîner avec le début, et le message se lire de loin en 3 secondes (voir 7.19)."
+},
+{
+"key": "part08.html#812",
+"fr": "<b>25 min</b><i>Court métrage</i>Durée type des films présentés en festival. Un événement en 3 actes, un changement chez le protagoniste. Le plus sûr : 3 ou 4 personnages au maximum."
+},
+{
+"key": "part08.html#813",
+"fr": "<b>90 min</b><i>Long métrage</i>Intrigue principale et intrigues secondaires s’entrelacent ; l’évolution intérieure avance avec les événements extérieurs. Repère : un scénario d’environ 90–110 pages."
+},
+{
+"key": "part08.html#814",
+"fr": "<b>Photos de référence 7.16A</b>De la télédiffusion à l’OTT – l’unité de visionnage passe de la grille à la miniature, du salon à l’écran personnel"
+},
+{
+"key": "part08.html#815",
+"fr": "<span class=\"ph-id\">P08-CRT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Le salon cathodique</b>Un salon des années 1990, une famille réunie autour d’un téléviseur cathodique, lumière chaude d’une lampe</span>"
+},
+{
+"key": "part08.html#816",
+"fr": "<b>Note</b>Le salon cathodique – quand la grille des programmes fixait la durée"
+},
+{
+"key": "part08.html#817",
+"fr": "<span class=\"ph-id\">P08-OTT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>OTT – de la grille à la miniature</b>Vignettes d’applications de streaming sur un téléviseur mural de salon, une main tenant la télécommande</span>"
+},
+{
+"key": "part08.html#818",
+"fr": "<b>Note</b>OTT – de la grille à la miniature. L’unité de visionnage a changé"
+},
+{
+"key": "part08.html#819",
+"fr": "<span class=\"ph-id\">P08-BINGE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>L’écran personnel</b>Une jeune femme regarde une série sur tablette, au lit, la nuit, dans la lueur bleue de l’écran</span>"
+},
+{
+"key": "part08.html#820",
+"fr": "<b>Note</b>L’écran personnel – un visionnage où l’épisode suivant se lance tout seul"
+},
+{
+"key": "part08.html#821",
+"fr": "<b>G-24</b> Des écrans de durées différentes – de la publicité bumper au long métrage (image générée par GPT – simple illustration du concept)"
+},
+{
+"key": "part08.html#822",
+"fr": "Une phrase pour le plateau"
+},
+{
+"key": "part08.html#823",
+"fr": "Quand vous tournez un long film principal, prévoyez à l’avance où seront prélevées les versions courtes. Le film de 3 minutes doit contenir les versions 1 min · 15 s · 6 s : un seul tournage alimente ainsi plusieurs médias."
+},
+{
+"key": "part08.html#824",
+"fr": "<small>Exercice</small>7.16"
+},
+{
+"key": "part08.html#825",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#826",
+"fr": "Planifiez pour une même marque des versions de 6 secondes (bumper), 15 secondes, 1 minute et 3 minutes, et dressez le schéma de structure de chacune."
+},
+{
+"key": "part08.html#827",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#828",
+"fr": "Plus c’est court, plus on retranche du message ; plus c’est long, plus on ajoute de personnages et de récit."
+},
+{
+"key": "part08.html#829",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#830",
+"fr": "Adéquation entre structure et durée, cohérence entre les versions"
+},
+{
+"key": "part08.html#831",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#832",
+"fr": "Avant le tournage, prévoyez où seront prélevées les versions de 6 et 15 secondes dans le film de 3 minutes."
+},
+{
+"key": "part08.html#833",
+"fr": "<b>PARTIE 08</b>Réalisation publicitaire et études de cas"
+},
+{
+"key": "part08.html#834",
+"fr": "Des publicités qu’on regarde jusqu’au bout"
+},
+{
+"key": "part08.html#835",
+"fr": "Concevoir une publicité d’une minute. La courbe de rétention baisse avec le temps. Juste avant qu’elle ne chute, placez un dispositif qui ramène le spectateur, pour que chaque instant crée une nouvelle « raison de voir la suite »."
+},
+{
+"key": "part08.html#836",
+"fr": "<b>Fig. 82</b> Les relances d’une publicité d’une minute – rattraper le spectateur juste avant qu’il ne décroche"
+},
+{
+"key": "part08.html#837",
+"fr": "<b>01</b><span><b>Question ouverte</b> Dans les 3 premières secondes, posez une question et retenez la réponse. Donnez-la dans les 10 dernières secondes.</span>"
+},
+{
+"key": "part08.html#838",
+"fr": "<b>02</b><span><b>Rupture de rythme</b> Toutes les 8–10 secondes, changez un élément : valeur de plan, lieu, son ou vitesse. Au-delà de 20 secondes sur le même rythme, les abandons augmentent.</span>"
+},
+{
+"key": "part08.html#839",
+"fr": "<b>03</b><span><b>Personnes et visages</b> Visages et réactions retiennent l’attention plus longtemps que les produits. Rendez le spectateur curieux du choix du personnage.</span>"
+},
+{
+"key": "part08.html#840",
+"fr": "<b>04</b><span><b>Preuves et chiffres</b> Placez au milieu une démonstration, des chiffres ou un avant-après : la promesse d’une récompense pour qui regarde jusqu’au bout.</span>"
+},
+{
+"key": "part08.html#841",
+"fr": "<b>05</b><span><b>La marque, tôt et souvent</b> Montrez-la une fois dans les 5 premières secondes, une fois naturellement dans le récit, une fois à la fin.</span>"
+},
+{
+"key": "part08.html#842",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part08.html#843",
+"fr": "Insérez un nouveau dispositif 3 secondes avant la chute la plus forte."
+},
+{
+"key": "part08.html#844",
+"fr": "Avec « Unskippable » (2015), GEICO annonçait la fin de la publicité, puis laissait tourner : la famille restait figée pendant que le chien dévorait le repas sur la table. Le bouton « Ignorer » devenait lui-même l’histoire."
+},
+{
+"key": "part08.html#845",
+"fr": "Connaissez les règles d’un format, et les règles elles-mêmes deviennent l’idée.<small>7.17 Des publicités qu’on regarde jusqu’au bout</small>"
+},
+{
+"key": "part08.html#846",
+"fr": "<small>Exercice</small>7.17"
+},
+{
+"key": "part08.html#847",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#848",
+"fr": "Concevez au moins 5 dispositifs qui retiennent le spectateur jusqu’à la fin d’une publicité d’une minute, et placez-les sur une ligne de temps."
+},
+{
+"key": "part08.html#849",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#850",
+"fr": "Toutes les 8–10 secondes, placez une question, un retournement, une information nouvelle ou un changement sonore."
+},
+{
+"key": "part08.html#851",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#852",
+"fr": "Espacement des relances, conception des raisons de continuer à regarder"
+},
+{
+"key": "part08.html#853",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#854",
+"fr": "GEICO, « Unskippable » (2015). Le bouton « Ignorer » y devient lui-même matière à récit."
+},
+{
+"key": "part08.html#855",
+"fr": "<b>PARTIE 08</b>Réalisation publicitaire et études de cas"
+},
+{
+"key": "part08.html#856",
+"fr": "Ancrer la marque"
+},
+{
+"key": "part08.html#857",
+"fr": "Concevoir pour que l’effet et la marque restent tous deux en mémoire. On se souvient souvent d’une publicité en oubliant de quelle marque il s’agissait. La conception doit laisser à la fois « ce qui était bien » et « de qui c’était »."
+},
+{
+"key": "part08.html#858",
+"fr": "Actifs de marque distinctifs"
+},
+{
+"key": "part08.html#859",
+"fr": "Couleur"
+},
+{
+"key": "part08.html#860",
+"fr": "Une seule couleur, utilisée longtemps et avec constance"
+},
+{
+"key": "part08.html#861",
+"fr": "Pour que la couleur seule évoque la marque, même sans logo"
+},
+{
+"key": "part08.html#862",
+"fr": "Son"
+},
+{
+"key": "part08.html#863",
+"fr": "Un logo sonore court, un motif musical récurrent"
+},
+{
+"key": "part08.html#864",
+"fr": "Touche même ceux qui ne regardent pas l’écran"
+},
+{
+"key": "part08.html#865",
+"fr": "Forme et personnage"
+},
+{
+"key": "part08.html#866",
+"fr": "Silhouette du produit, mascotte, geste signature"
+},
+{
+"key": "part08.html#867",
+"fr": "Relie de nombreuses publicités en un seul souvenir"
+},
+{
+"key": "part08.html#868",
+"fr": "Mots"
+},
+{
+"key": "part08.html#869",
+"fr": "Des slogans courts et rythmés"
+},
+{
+"key": "part08.html#870",
+"fr": "N’en changez pas à chaque publicité ; installez-le dans la durée"
+},
+{
+"key": "part08.html#871",
+"fr": "Une mise en scène qui ancre l’effet"
+},
+{
+"key": "part08.html#872",
+"fr": "<b>ABCD</b>"
+},
+{
+"key": "part08.html#873",
+"fr": "Les principes de Google pour les publicités YouTube : attirer, marquer, connecter, diriger. Une grille pour vérifier les publicités courtes."
+},
+{
+"key": "part08.html#874",
+"fr": "Prouver par une scène, pas par des mots"
+},
+{
+"key": "part08.html#875",
+"fr": "Volvo Trucks, « The Epic Split » (2013)"
+},
+{
+"key": "part08.html#876",
+"fr": "Un seul plan, un grand écart entre deux camions, prouve la précision de la direction"
+},
+{
+"key": "part08.html#877",
+"fr": "La marque au sommet de l’émotion"
+},
+{
+"key": "part08.html#878",
+"fr": "La marque doit être présente à l’instant d’émotion le plus fort pour que le souvenir s’y attache"
+},
+{
+"key": "part08.html#879",
+"fr": "Vérifier avec ABCD"
+},
+{
+"key": "part08.html#880",
+"fr": "Attirer · Marquer · Connecter · Diriger"
+},
+{
+"key": "part08.html#881",
+"fr": "Une liste de contrôle simple pour les publicités courtes"
+},
+{
+"key": "part08.html#882",
+"fr": "Une phrase pour le plateau"
+},
+{
+"key": "part08.html#883",
+"fr": "Au montage, masquez le logo. Si l’on reconnaît encore la marque, c’est qu’elle est ancrée."
+},
+{
+"key": "part08.html#884",
+"fr": "<small>Exercice</small>7.18"
+},
+{
+"key": "part08.html#885",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#886",
+"fr": "Définissez 5 actifs distinctifs (couleur, son, forme, personnage, mots) pour une marque fictive et placez-les tous dans une publicité de 15 secondes."
+},
+{
+"key": "part08.html#887",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#888",
+"fr": "En règle générale, montrez la marque dans les 5 premières secondes et placez le logo sonore à la fin."
+},
+{
+"key": "part08.html#889",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#890",
+"fr": "Cohérence des actifs, clarté du lien avec la marque"
+},
+{
+"key": "part08.html#891",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#892",
+"fr": "Réalisez une publicité dont la marque reste reconnaissable même une fois le logo masqué."
+},
+{
+"key": "part08.html#893",
+"fr": "<b>PARTIE 08</b>Réalisation publicitaire et études de cas"
+},
+{
+"key": "part08.html#894",
+"fr": "Concevoir des boucles LED extérieures"
+},
+{
+"key": "part08.html#895",
+"fr": "Les écrans LED extérieurs sont vus sans son, par des gens qui marchent ou conduisent, de loin, encore et encore. Ils exigent une conception sans rapport avec celle du cinéma ou du téléphone."
+},
+{
+"key": "part08.html#896",
+"fr": "<b>Fig. 83</b> Une boucle LED extérieure de 15 secondes – muette, vue de loin, répétée sans rupture"
+},
+{
+"key": "part08.html#897",
+"fr": "<span class=\"ph-id\">P08-LEDLOOP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Boucle LED extérieure</b>Un carrefour de centre-ville la nuit, une animation abstraite en boucle sur un écran LED géant couvrant une façade, la foule</span>"
+},
+{
+"key": "part08.html#898",
+"fr": "<b>Note</b>Boucle LED extérieure – vue par des passants, sans son, de loin, encore et encore"
+},
+{
+"key": "part08.html#899",
+"fr": "<b>10–30<em>s</em></b>Unité de boucle – la fin s’enchaîne avec le début"
+},
+{
+"key": "part08.html#900",
+"fr": "<b>3<em>s</em></b>Temps de lecture d’une ligne de texte"
+},
+{
+"key": "part08.html#901",
+"fr": "<b>5–10<em>%</em></b>Taille minimale du texte par rapport à la hauteur d’écran"
+},
+{
+"key": "part08.html#902",
+"fr": "<b>1–2<em>min</em></b>Durée maximale de présence d’un spectateur"
+},
+{
+"key": "part08.html#903",
+"fr": "Cinq vérifications"
+},
+{
+"key": "part08.html#904",
+"fr": "<b>01</b><i>Fonctionne-t-elle sans le son ?</i>Le message doit passer sans son. Texte : une phrase, lisible en 3 secondes."
+},
+{
+"key": "part08.html#905",
+"fr": "<b>02</b><i>Se voit-elle de loin ?</i>Texte d’au moins 5–10 % de la hauteur d’écran, contraste élevé, formes simples. Traits fins et petits caractères disparaissent."
+},
+{
+"key": "part08.html#906",
+"fr": "<b>03</b><i>Chaque instant est-il un début ?</i>Le spectateur arrive en cours de boucle. Montrez la marque à quelques secondes d’intervalle, et faites en sorte que la dernière image mène à la première."
+},
+{
+"key": "part08.html#907",
+"fr": "<b>04</b><i>Exploite-t-elle la forme de l’écran ?</i>Écran d’angle : illusion anamorphique ; écran vertical : mouvement haut-bas ; écran géant : mouvement lent pour l’échelle (voir 6.9)."
+},
+{
+"key": "part08.html#908",
+"fr": "<b>05</b><i>Sécurité et réglementation</i>Vérifiez les normes de diffusion des collectivités locales et des régies : luminosité et scintillement ne doivent pas distraire les conducteurs. Évitez flashs soudains et clignotements rapides."
+},
+{
+"key": "part08.html#909",
+"fr": "Une phrase pour le plateau"
+},
+{
+"key": "part08.html#910",
+"fr": "Lancez le montage final sur votre téléphone, à bout de bras, son coupé, pendant 3 secondes seulement. Ce qu’il en reste alors, c’est tout ce qu’il en restera sur un écran extérieur."
+},
+{
+"key": "part08.html#911",
+"fr": "<small>Exercice</small>7.19"
+},
+{
+"key": "part08.html#912",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#913",
+"fr": "Réalisez une boucle muette de 15 secondes pour un écran LED extérieur et testez-la à la taille où elle apparaît depuis la rue, à distance réelle."
+},
+{
+"key": "part08.html#914",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#915",
+"fr": "Faites se raccorder la première et la dernière image, et limitez le texte à ce qui se lit en 3 secondes."
+},
+{
+"key": "part08.html#916",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#917",
+"fr": "Clarté sans le son, continuité de la boucle, lisibilité à distance"
+},
+{
+"key": "part08.html#918",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#919",
+"fr": "Étudiez les conditions de visionnage, comme le temps d’attente aux feux, pour décider de la durée et de la quantité d’information."
+},
+{
+"key": "part09.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part09.html#1",
+"fr": "<small>PARTIE</small>09"
+},
+{
+"key": "part09.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part09.html#3",
+"fr": "Un plan de chaîne YouTube (description · bannière · playlists · 3 premières vidéos)"
+},
+{
+"key": "part09.html#4",
+"fr": "Un calendrier éditorial d’un mois et un journal de gestion de 2 semaines"
+},
+{
+"key": "part09.html#5",
+"fr": "Un pipeline de production avec des outils d’IA placés à chaque étape, et une vidéo d’une minute"
+},
+{
+"key": "part09.html#6",
+"fr": "Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#7",
+"fr": "Réussir une vidéo et la faire découvrir sont deux compétences distinctes. Chaque plateforme récompense des comportements différents, et titres et miniatures font déjà partie de la mise en scène. Cette PARTIE répond à la question « Comment obtenir plus de vues ? » par la grammaire des plateformes, la lecture des indicateurs et la place de l’IA générative."
+},
+{
+"key": "part09.html#8",
+"fr": "Photo P-09 Un bureau de travail avec un support de tournage vertical et un tableau de bord de performances · image générée"
+},
+{
+"key": "part09.html#9",
+"fr": "<b>P-09</b> Un bureau de travail avec un support de tournage vertical et un tableau de bord de performances"
+},
+{
+"key": "part09.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part09.html#11",
+"fr": "Distinguer les grammaires des plateformes et placer l’IA dans le pipeline"
+},
+{
+"key": "part09.html#12",
+"fr": "<b>Matériel</b>Le compte personnel de chaque étudiant ou un compte fictif, l’accès à un modèle de langage"
+},
+{
+"key": "part09.html#13",
+"fr": "<b>10 min</b><i>Intro</i><span>Prédire le CTR de deux titres pour une même vidéo</span>"
+},
+{
+"key": "part09.html#14",
+"fr": "<b>15 min</b><i>Notions</i><span>Ce que chaque plateforme récompense, l’ordre de lecture des indicateurs</span>"
+},
+{
+"key": "part09.html#15",
+"fr": "<b>10 min</b><i>Planches</i><span>Le pipeline IA en 6 étapes et le paysage des outils</span>"
+},
+{
+"key": "part09.html#16",
+"fr": "<b>10 min</b><i>Exercice</i><span>Générer 20 idées, en retenir 3, noter les raisons</span>"
+},
+{
+"key": "part09.html#17",
+"fr": "<b>5 min</b><i>Bilan</i><span>Présenter le formulaire du journal d’usage de l’IA</span>"
+},
+{
+"key": "part09.html#18",
+"fr": "<b>Point de contrôle</b>Explique à quelle étape l’IA est intervenue, et pourquoi"
+},
+{
+"key": "part09.html#19",
+"fr": "PARTIE 09"
+},
+{
+"key": "part09.html#20",
+"fr": "Introduction"
+},
+{
+"key": "part09.html#21",
+"fr": "Réussir une vidéo et la faire découvrir sont deux compétences distinctes. Depuis que YouTube a levé les barrières de la diffusion, le point de départ de la conception s’est déplacé de l’idée vers la découvrabilité. Voilà pourquoi titres et miniatures font désormais partie de la mise en scène."
+},
+{
+"key": "part09.html#22",
+"fr": "Chaque plateforme a sa grammaire. YouTube fonctionne à la recherche et à la durée de visionnage, Instagram aux enregistrements et aux partages, TikTok à la participation et aux œuvres dérivées. Publier la même vidéo telle quelle puis s’étonner que les résultats diffèrent, c’est seulement montrer qu’on ignore ce que chaque plateforme récompense."
+},
+{
+"key": "part09.html#23",
+"fr": "Cette partie va de l’écriture des titres à la construction des hashtags, aux réponses aux commentaires, à l’interprétation des indicateurs de performance et aux bases de la gestion publicitaire. Pourquoi un créateur en a-t-il besoin ? Parce que le profil le plus recherché sur le marché de l’emploi est aujourd’hui celui qui réalise, publie et sait lire les chiffres."
+},
+{
+"key": "part09.html#24",
+"fr": "Contexte 16"
+},
+{
+"key": "part09.html#25",
+"fr": "L’économie de l’attention et le public algorithmique"
+},
+{
+"key": "part09.html#26",
+"fr": "À l’ère des plateformes, la vidéo ne va pas droit au public ; elle lui parvient par les algorithmes de recommandation. Pour comprendre les vues, il faut d’abord comprendre une ressource rare : l’attention. Dans une conférence de 1971, Herbert Simon affirmait qu’« une abondance d’information crée une pénurie d’attention », et à la fin des années 1990 Michael Goldhaber, entre autres, a nommé cette situation « économie de l’attention ». Aujourd’hui, chaque vidéo dispute quelques secondes du temps des gens sur le même écran."
+},
+{
+"key": "part09.html#27",
+"fr": "Les plateformes confient l’arbitrage de cette compétition aux algorithmes. En 2012, YouTube a annoncé que ses critères de recommandation passeraient des clics à la durée de visionnage ; depuis, de nombreuses plateformes pondèrent des signaux comportementaux tels que la rétention, le taux de complétion, les revisionnages et les partages. Le fonctionnement n’est pas public et change souvent, mais le principe est clair : les vidéos qu’on regarde jusqu’au bout, qu’on revoit et qu’on envoie à d’autres sont montrées à davantage de monde."
+},
+{
+"key": "part09.html#28",
+"fr": "Deux leçons pour les créateurs. D’abord, même si la miniature et le titre remportent le clic, la rétention chute et les recommandations se réduisent quand le contenu trahit la promesse. Les titres exagérés gagnent des clics à court terme et perdent la confiance à long terme. Ensuite, l’essentiel est la boucle qui consiste à repérer dans les données les points d’abandon, en début et en milieu de vidéo, puis à appliquer ce qu’on apprend à la vidéo suivante. La lecture des indicateurs du chapitre 9 est l’outil de cette boucle."
+},
+{
+"key": "part09.html#29",
+"fr": "Il existe aussi une structure commune. Le système montre d’abord la vidéo à un petit groupe d’utilisateurs, à titre de test, puis élargit ou réduit sa portée selon la réponse. Les signaux qu’il lit : combien de temps on a regardé et si l’on est allé au bout, si l’on a enregistré ou partagé, si l’on est revenu. Les vues sont un résultat, pas une cause. Les variables sur lesquelles un créateur peut agir ne sont pas les vues, mais la rétention et les taux de réponse."
+},
+{
+"key": "part09.html#30",
+"fr": "Il y a un piège. Le constat qu’un indicateur se dérègle dès qu’il devient un objectif est connu sous le nom de loi de Goodhart. Miniatures racoleuses et titres exagérés font monter le CTR à court terme, mais augmentent les abandons et érodent la confiance envers toute la chaîne. Les indicateurs sont une fenêtre sur la réaction du public, non le public lui-même."
+},
+{
+"key": "part09.html#31",
+"fr": "À l’ère des algorithmes, la responsabilité du créateur grandit aussi. La désinformation, l’atteinte au droit à l’image d’autrui, le fait de présenter comme réelles des images d’IA générative ne valent aucun gain de vues à court terme. Une bonne chaîne ne trompe pas l’algorithme ; elle apporte avec constance de la valeur à un public précis. Au bout du compte, l’algorithme suit le comportement de ceux qui trouvent cette valeur."
+},
+{
+"key": "part09.html#32",
+"fr": "Pour aller plus loin – Tim Wu, The Attention Merchants · Michael Goldhaber, « The Attention Economy and the Net »"
+},
+{
+"key": "part09.html#33",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#34",
+"fr": "Carte des plateformes"
+},
+{
+"key": "part09.html#35",
+"fr": "Le spectateur est-il venu voir cette vidéo, ou venu pour autre chose avant de tomber dessus ? Ce seul diagnostic change entièrement votre stratégie des 3 premières secondes."
+},
+{
+"key": "part09.html#36",
+"fr": "<span class=\"ph-id\">P09-FEED</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Un pouce qui fait défiler le fil</b>Gros plan sur un pouce faisant défiler un fil vertical de vidéos courtes, images colorées et floues</span>"
+}
+]

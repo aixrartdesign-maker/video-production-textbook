@@ -1,0 +1,12 @@
+[
+{"key": "part09.html#966", "find": "savoir expliquer lequel utilise, dans ses 3 premières secondes, une pub que vous aimez.", "replace": "savoir expliquer quel type emploient les 3 premières secondes d’une pub que vous aimez.", "why": "other: ambiguous word order (lequel … une pub)"},
+{"key": "part10.html#37", "find": "la fabrication descend à la maison de production", "replace": "la fabrication est confiée à la maison de production", "why": "other: word-for-word 'goes down to'"},
+{"key": "part10.html#98", "find": "Profond dans un domaine", "replace": "Pointu dans un domaine", "why": "other: unidiomatic 'profond dans'"},
+{"key": "part10.html#233", "find": "Le web seul et le tous supports n’ont pas le même prix.", "replace": "Web seul ou tous supports : le prix n’est pas le même.", "why": "grammar: 'le tous supports'"},
+{"key": "part10.html#272", "find": "De la seconde caméra à chef opérateur (DP)", "replace": "De seconde caméra à chef opérateur (DP)", "why": "grammar: non-parallel de la … à"},
+{"key": "part10.html#294", "find": "se met à écouter les réunions", "replace": "se met à suivre les réunions", "why": "other: 'écouter les réunions' unidiomatic"},
+{"key": "part10.html#312", "find": "Regardez trois travaux récents de chacune de cinq entreprises qui vous intéressent et résumez", "replace": "Choisissez cinq entreprises qui vous intéressent, regardez trois travaux récents de chacune et résumez", "why": "grammar: 'chacune de cinq entreprises'"},
+{"key": "part11.html#37", "find": "PD vidéo", "replace": "Producteur vidéo", "why": "other: bare 'PD' reads as a slur in French"},
+{"key": "part11.html#52", "find": "PD de chaîne YouTube", "replace": "Producteur YouTube", "why": "other: bare 'PD' reads as a slur in French"},
+{"key": "part11.html#74", "find": "devenir PD,", "replace": "devenir producteur (PD),", "why": "other: bare 'PD' reads as a slur in French"}
+]

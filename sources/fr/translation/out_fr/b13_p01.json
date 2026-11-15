@@ -1,0 +1,590 @@
+[
+{
+"key": "part12.html#203",
+"fr": "Trois approches"
+},
+{
+"key": "part12.html#204",
+"fr": "<small>Personne entièrement générée</small>Quelqu’un qui n’existe pas, créé de toutes pièces"
+},
+{
+"key": "part12.html#205",
+"fr": "Pas de droit à l’image en jeu, faible coût"
+},
+{
+"key": "part12.html#206",
+"fr": "Visage difficile à garder d’un plan à l’autre"
+},
+{
+"key": "part12.html#207",
+"fr": "Faible sur le jeu facial subtil"
+},
+{
+"key": "part12.html#208",
+"fr": "<small>Double numérique</small>Copie scannée d’un acteur réel"
+},
+{
+"key": "part12.html#209",
+"fr": "Scènes dangereuses, changements d’âge, retouches sans retournage"
+},
+{
+"key": "part12.html#210",
+"fr": "Consentement de l’acteur et contrat d’étendue d’usage indispensables"
+},
+{
+"key": "part12.html#211",
+"fr": "<small>Prise de vues réelle + génération partielle</small>Filmer les personnes, ne générer que fonds · accessoires"
+},
+{
+"key": "part12.html#212",
+"fr": "La plus répandue aujourd’hui sur les plateaux de pub"
+},
+{
+"key": "part12.html#213",
+"fr": "La plus sûre, pour la qualité comme pour les droits"
+},
+{
+"key": "part12.html#214",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part12.html#215",
+"fr": "La meilleure image de référence est une vue de face unique, en éclairage plat, avec une expression neutre. Plus les traits sont singuliers, plus ils sont difficiles à tenir."
+},
+{
+"key": "part12.html#216",
+"fr": "Garder le même visage"
+},
+{
+"key": "part12.html#217",
+"fr": "Un visage qui change d’un plan à l’autre est l’échec le plus courant. En pratique, on crée d’abord la référence, puis on y raccorde tout le reste."
+},
+{
+"key": "part12.html#218",
+"fr": "<b>01</b><i>Image de référence</i>Verrouiller d’abord une vue de face"
+},
+{
+"key": "part12.html#219",
+"fr": "<b>02</b><i>Référence en entrée</i>Fournir la référence à chaque génération suivante ; ne décrire dans le prompt que l’angle · la lumière · la pose"
+},
+{
+"key": "part12.html#220",
+"fr": "<b>03</b><i>Fiche personnage</i>Face · profil · trois quarts · en pied sur une seule planche, comme un model sheet d’animation"
+},
+{
+"key": "part12.html#221",
+"fr": "<b>04</b><i>Corriger en postproduction</i>Combler les écarts restants par le compositing et la correction colorimétrique. Ne pas attendre 100 % de la génération"
+},
+{
+"key": "part12.html#222",
+"fr": "Droits : quatre points à vérifier d’abord"
+},
+{
+"key": "part12.html#223",
+"fr": "<b>01</b><span><b>Droit à l’image</b> – utiliser le visage · la voix · les gestes caractéristiques d’une personne réelle exige son consentement. Créer un sosie peut aussi poser problème.</span>"
+},
+{
+"key": "part12.html#224",
+"fr": "<b>02</b><span><b>Étendue</b> – préciser supports · durée · territoire · ampleur des retouches. « Consentir à être filmé » et « consentir à l’entraînement d’une IA et à la génération » sont deux clauses distinctes.</span>"
+},
+{
+"key": "part12.html#225",
+"fr": "<b>03</b><span><b>Mention</b> – quand une personne générée est montrée comme réelle, le plus sûr est de l’indiquer pour ne tromper personne.</span>"
+},
+{
+"key": "part12.html#226",
+"fr": "<b>04</b><span><b>Traces</b> – conserver le modèle utilisé, les prompts et la source des images de référence. Les litiges s’enveniment le plus souvent faute de traces.</span>"
+},
+{
+"key": "part12.html#227",
+"fr": "Tournez en réel tout plan qui exige un visage humain en gros plan. Y consacrer le temps que la génération vous a fait gagner est le meilleur marché que vous ferez.<small>11.4 Personnes, doubles numériques, consentement</small>"
+},
+{
+"key": "part12.html#228",
+"fr": "<small>Exercice</small>11.4"
+},
+{
+"key": "part12.html#229",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#230",
+"fr": "Concevez une courte scène de 4 plans avec un seul personnage. Créez une image de référence, puis générez les 3 autres plans en la fournissant en entrée. Repérez ce qui a changé dans chaque plan et consignez-le dans un tableau."
+},
+{
+"key": "part12.html#231",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#232",
+"fr": "Créez l’image de référence avec un éclairage plat, une expression neutre et des vêtements simples."
+},
+{
+"key": "part12.html#233",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#234",
+"fr": "Les quatre plans montrent-ils bien la même personne ? Les différences sont-elles relevées avec précision ?"
+},
+{
+"key": "part12.html#235",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#236",
+"fr": "Un rapport qui relève les différences aux yeux · à la ligne des cheveux · à l’encolure et précise comment chacune sera raccordée en postproduction."
+},
+{
+"key": "part12.html#237",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#238",
+"fr": "Décors, murs LED, fonds générés"
+},
+{
+"key": "part12.html#239",
+"fr": "Du décor au mur LED, puis au fond généré. En 100 ans, la manière de fabriquer un arrière-plan a changé trois fois : le construire ou s’y rendre, afficher une image derrière le sujet, ou l’incruster en postproduction. Les outils génératifs ont fait chuter le coût de la troisième et changé la fabrication des images de la deuxième."
+},
+{
+"key": "part12.html#240",
+"fr": "<span class=\"ph-id\">P12-SMALLLED</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Petit mur LED</b>Un petit studio où un présentateur se tient seul devant le fond virtuel d’un petit mur LED, avec une seule caméra</span>"
+},
+{
+"key": "part12.html#241",
+"fr": "<b>Note</b>Petit mur LED – le principe de la grande production virtuelle est descendu jusqu’aux studios à une caméra"
+},
+{
+"key": "part12.html#242",
+"fr": "Quatre options, comment choisir"
+},
+{
+"key": "part12.html#243",
+"fr": "Méthode"
+},
+{
+"key": "part12.html#244",
+"fr": "Atouts"
+},
+{
+"key": "part12.html#245",
+"fr": "Limites"
+},
+{
+"key": "part12.html#246",
+"fr": "Quand la choisir"
+},
+{
+"key": "part12.html#247",
+"fr": "Décor naturel"
+},
+{
+"key": "part12.html#248",
+"fr": "Lumière et matière les plus crédibles"
+},
+{
+"key": "part12.html#249",
+"fr": "Météo · autorisations · frais de déplacement"
+},
+{
+"key": "part12.html#250",
+"fr": "Quand la marque vend l’authenticité"
+},
+{
+"key": "part12.html#251",
+"fr": "Décor construit"
+},
+{
+"key": "part12.html#252",
+"fr": "Maîtrise totale"
+},
+{
+"key": "part12.html#253",
+"fr": "Coût et délai de construction"
+},
+{
+"key": "part12.html#254",
+"fr": "Tournages répétés, séries"
+},
+{
+"key": "part12.html#255",
+"fr": "Mur LED (production virtuelle)"
+},
+{
+"key": "part12.html#256",
+"fr": "Image finale vérifiée sur le plateau ; reflets bien réels"
+},
+{
+"key": "part12.html#257",
+"fr": "Coûts de matériel · de préproduction, moiré"
+},
+{
+"key": "part12.html#258",
+"fr": "Sujets où les reflets comptent : voitures · verre · métal"
+},
+{
+"key": "part12.html#259",
+"fr": "Incrustation + fond généré"
+},
+{
+"key": "part12.html#260",
+"fr": "Le moins cher, le plus rapide"
+},
+{
+"key": "part12.html#261",
+"fr": "Contours et raccord lumière difficiles"
+},
+{
+"key": "part12.html#262",
+"fr": "Sujet centré sur les personnes, budget serré"
+},
+{
+"key": "part12.html#263",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part12.html#264",
+"fr": "Le bon ordre : arrêter le fond avant le tournage, puis régler les lumières sur sa direction. Les plans fixes sont ceux qui conviennent le mieux aux fonds générés."
+},
+{
+"key": "part12.html#265",
+"fr": "Quatre endroits où un fond généré se trahit"
+},
+{
+"key": "part12.html#266",
+"fr": "<small>Direction de la lumière</small>Lumière sur la personne, ombres du fond"
+},
+{
+"key": "part12.html#267",
+"fr": "Si elles se contredisent, cela se voit aussitôt"
+},
+{
+"key": "part12.html#268",
+"fr": "<small>Température de couleur</small>Une personne en lumière du jour sur un fond de soirée"
+},
+{
+"key": "part12.html#269",
+"fr": "Sonne faux même avec une incrustation propre"
+},
+{
+"key": "part12.html#270",
+"fr": "<small>Perspective et objectif</small>Point de fuite et angle de champ"
+},
+{
+"key": "part12.html#271",
+"fr": "Un fond écrasé au téléobjectif derrière une personne filmée au grand-angle, et l’espace se brise"
+},
+{
+"key": "part12.html#272",
+"fr": "<small>Mouvement</small>Parallaxe de la caméra"
+},
+{
+"key": "part12.html#273",
+"fr": "Quand la caméra bouge, le fond doit bouger avec une parallaxe cohérente"
+},
+{
+"key": "part12.html#274",
+"fr": "Importer un espace entier"
+},
+{
+"key": "part12.html#275",
+"fr": "Photographier ou filmer un lieu réel sous de multiples angles, le reconstruire en données 3D, puis y déplacer librement la caméra : cette pratique est entrée dans le quotidien. À la photogrammétrie se sont ajoutées des méthodes qui apprennent et restituent jusqu’à la luminosité des rayons lumineux ; des sujets jadis difficiles à reconstruire, comme le verre · le métal · le feuillage, deviennent exploitables. Filmez une boutique pendant une demi-journée et toutes les publicités suivantes pourront s’y tourner : le tournage lui-même devient un actif."
+},
+{
+"key": "part12.html#276",
+"fr": "Dire qu’on choisira le fond plus tard, c’est dire qu’on choisira la lumière plus tard. Le fond passe en premier.<small>11.5 Décors, murs LED, fonds générés</small>"
+},
+{
+"key": "part12.html#277",
+"fr": "<small>Exercice</small>11.5"
+},
+{
+"key": "part12.html#278",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#279",
+"fr": "Prenez un plan d’une personne et changez-en le fond de trois manières : tournage en décor naturel, incrustation + fond généré, photomontage. Comparez dans un tableau la direction de la lumière et la température de couleur des trois versions."
+},
+{
+"key": "part12.html#280",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#281",
+"fr": "En filmant la personne, enregistrez une prise avec une boule grise et une boule blanche dans le cadre. Raccorder la direction de la lumière et la température de couleur devient bien plus facile."
+},
+{
+"key": "part12.html#282",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#283",
+"fr": "Les différences entre les trois versions sont-elles expliquées dans le langage de la lumière ? Le choix de la méthode adaptée à cette scène est-il justifié ?"
+},
+{
+"key": "part12.html#284",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#285",
+"fr": "Un cas où le fond a été choisi d’abord, l’éclairage réglé sur sa lumière, puis le tournage effectué, si bien que l’incrustation n’a presque pas demandé de correction."
+},
+{
+"key": "part12.html#286",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#287",
+"fr": "Éléments et particules"
+},
+{
+"key": "part12.html#288",
+"fr": "Pourquoi la simulation est-elle toujours là ? Les modèles génératifs réussissent les « mouvements qu’ils ont souvent vus », mais l’eau qui se déverse, le tissu qui retombe et la fumée qui s’enroule le long d’un mur restent instables. Ce sont les résultats de lois physiques, et un modèle génératif ne calcule pas de lois ; il fabrique des images ressemblantes."
+},
+{
+"key": "part12.html#289",
+"fr": "<span class=\"ph-id\">P12-SIM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Pourquoi la simulation demeure</b>Un moniteur affichant le rendu d’une simulation de fluide en éclaboussure, avec son graphe de nœuds à côté</span>"
+},
+{
+"key": "part12.html#290",
+"fr": "<b>Note</b>Simulation – on change une variable et on recalcule ; mêmes réglages, même résultat"
+},
+{
+"key": "part12.html#291",
+"fr": "Ce qui les distingue"
+},
+{
+"key": "part12.html#292",
+"fr": "Aspect"
+},
+{
+"key": "part12.html#293",
+"fr": "Simulation"
+},
+{
+"key": "part12.html#294",
+"fr": "Modèle génératif"
+},
+{
+"key": "part12.html#295",
+"fr": "Principe"
+},
+{
+"key": "part12.html#296",
+"fr": "Résout des équations physiques"
+},
+{
+"key": "part12.html#297",
+"fr": "Génère des images ressemblantes d’après des motifs appris"
+},
+{
+"key": "part12.html#298",
+"fr": "Répétabilité"
+},
+{
+"key": "part12.html#299",
+"fr": "Mêmes réglages, même résultat"
+},
+{
+"key": "part12.html#300",
+"fr": "Différent à chaque fois"
+},
+{
+"key": "part12.html#301",
+"fr": "Retouches"
+},
+{
+"key": "part12.html#302",
+"fr": "Changer une variable, recalculer"
+},
+{
+"key": "part12.html#303",
+"fr": "Tout régénérer"
+},
+{
+"key": "part12.html#304",
+"fr": "Fidélité au produit"
+},
+{
+"key": "part12.html#305",
+"fr": "Garde la forme exacte du produit réel"
+},
+{
+"key": "part12.html#306",
+"fr": "La forme dérive peu à peu"
+},
+{
+"key": "part12.html#307",
+"fr": "Temps"
+},
+{
+"key": "part12.html#308",
+"fr": "Réglage long, calcul long"
+},
+{
+"key": "part12.html#309",
+"fr": "Des dizaines de secondes à quelques minutes"
+},
+{
+"key": "part12.html#310",
+"fr": "Points forts"
+},
+{
+"key": "part12.html#311",
+"fr": "Liquides · tissus · débris · collisions"
+},
+{
+"key": "part12.html#312",
+"fr": "Atmosphère, fumée, poussière, éléments de fond"
+},
+{
+"key": "part12.html#313",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part12.html#314",
+"fr": "Les éléments de marque ne doivent pas être déformés. Dans un plan où l’on verse une boisson dans un verre, si l’étiquette se tord ne serait-ce que sur une image, le plan est inutilisable."
+},
+{
+"key": "part12.html#315",
+"fr": "Quand la publicité a surtout besoin de simulation"
+},
+{
+"key": "part12.html#316",
+"fr": "<b>Quand le produit est la vedette</b> – aucune déformation de l’étiquette ou de la forme n’est admise."
+},
+{
+"key": "part12.html#317",
+"fr": "<b>Livraisons répétées</b> – quand une scène est déclinée pour de nombreux pays, un résultat différent à chaque fois signifie qu’on ne maîtrise plus rien."
+},
+{
+"key": "part12.html#318",
+"fr": "<b>Timing exact</b> – une demande comme une goutte qui tombe à 0,4 seconde, calée sur la musique, ne peut être satisfaite que par le calcul."
+},
+{
+"key": "part12.html#319",
+"fr": "Des façons réalistes de combiner"
+},
+{
+"key": "part12.html#320",
+"fr": "<small>Séparer en couches</small>Calculer le produit, générer le fond"
+},
+{
+"key": "part12.html#321",
+"fr": "Simuler le produit et la physique clé"
+},
+{
+"key": "part12.html#322",
+"fr": "Générer poussière · brume · halo lumineux du fond, puis les intégrer au compositing"
+},
+{
+"key": "part12.html#323",
+"fr": "<small>La génération comme éléments</small>Ne pas lui confier l’image entière"
+},
+{
+"key": "part12.html#324",
+"fr": "Rendre la fumée ou le feu générés sous forme d’éléments pour le compositing"
+},
+{
+"key": "part12.html#325",
+"fr": "<small>Générer le concept, calculer le final</small>Séparer la présentation du final"
+},
+{
+"key": "part12.html#326",
+"fr": "Maquettes de présentation rapides, par génération"
+},
+{
+"key": "part12.html#327",
+"fr": "Après validation, refaire le final en simulation"
+},
+{
+"key": "part12.html#328",
+"fr": "Si le logo d’une marque ou la forme du produit est à l’écran, ne confiez pas cette partie à la génération. Le reste, vous le pouvez.<small>11.6 Éléments et particules</small>"
+},
+{
+"key": "part12.html#329",
+"fr": "<small>Exercice</small>11.6"
+},
+{
+"key": "part12.html#330",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#331",
+"fr": "Réalisez de deux manières un plan de 3 secondes d’eau versée dans une tasse, puis comparez : l’un tourné en réel ou simulé, l’autre généré. Notez dans un tableau la déformation de l’étiquette, la précision du timing et la répétabilité."
+},
+{
+"key": "part12.html#332",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#333",
+"fr": "Pour la version générée, lancez cinq fois le même prompt. L’écart de répétabilité saute aux yeux."
+},
+{
+"key": "part12.html#334",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#335",
+"fr": "Les critères sont-ils consignés sous forme de chiffres ou d’observations ? Y a-t-il une conclusion sur la méthode adaptée à chaque situation ?"
+},
+{
+"key": "part12.html#336",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#337",
+"fr": "Une image comparative plaçant côte à côte les cinq résultats générés, avec les déformations de l’étiquette signalées."
+},
+{
+"key": "part12.html#338",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#339",
+"fr": "Production traditionnelle et production par IA"
+},
+{
+"key": "part12.html#340",
+"fr": "Qu’est-ce qui va où ? Les deux ne sont pas rivales : ce sont des outils pour des tâches différentes. Sur le plateau, la question n’est pas « laquelle est la meilleure », mais « laquelle convient à ce plan »."
+},
+{
+"key": "part12.html#341",
+"fr": "Critère"
+},
+{
+"key": "part12.html#342",
+"fr": "Avantage au traditionnel"
+},
+{
+"key": "part12.html#343",
+"fr": "Avantage à l’IA"
+},
+{
+"key": "part12.html#344",
+"fr": "Produit montré en grand à l’écran"
+},
+{
+"key": "part12.html#345",
+"fr": "Forme et logo restent intacts"
+},
+{
+"key": "part12.html#346",
+"fr": "Risque de déformation"
+},
+{
+"key": "part12.html#347",
+"fr": "Même résultat exigé à répétition"
+},
+{
+"key": "part12.html#348",
+"fr": "Mêmes réglages, même résultat"
+},
+{
+"key": "part12.html#349",
+"fr": "Change à chaque fois"
+}
+]

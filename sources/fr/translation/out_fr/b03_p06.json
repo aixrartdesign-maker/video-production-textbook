@@ -1,0 +1,622 @@
+[
+{
+"key": "part06.html#129",
+"fr": "<b>02</b><span>Chapeau blanc 10 min – ne partager que des données et des faits. Pas d’opinions.</span>"
+},
+{
+"key": "part06.html#130",
+"fr": "<b>03</b><span>Chapeau vert 15 min – déverser des idées en quantité. Pas de critiques.</span>"
+},
+{
+"key": "part06.html#131",
+"fr": "<b>04</b><span>Chapeau jaune 10 min – ne citer que les atouts de chaque idée.</span>"
+},
+{
+"key": "part06.html#132",
+"fr": "<b>05</b><span>Chapeau noir 10 min – examiner les risques.</span>"
+},
+{
+"key": "part06.html#133",
+"fr": "<b>06</b><span>Chapeau rouge 5 min – voter pour l’option que choisit l’instinct.</span>"
+},
+{
+"key": "part06.html#134",
+"fr": "<b>07</b><span>Chapeau bleu 5 min – consigner les décisions et les prochaines étapes.</span>"
+},
+{
+"key": "part06.html#135",
+"fr": "Techniques d’idéation complémentaires"
+},
+{
+"key": "part06.html#136",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part06.html#137",
+"fr": "N’utilisez l’expansion par IA que pour élargir l’éventail des idées. Obtenez-en 20, puis une personne les réduit à 3."
+},
+{
+"key": "part06.html#138",
+"fr": "<small>Association forcée</small>Relier au produit deux mots sans rapport"
+},
+{
+"key": "part06.html#139",
+"fr": "Les combinaisons du hasard brisent les conventions"
+},
+{
+"key": "part06.html#140",
+"fr": "<small>Inversion</small>Renverser chaque convention de la catégorie"
+},
+{
+"key": "part06.html#141",
+"fr": "La différenciation est immédiate"
+},
+{
+"key": "part06.html#142",
+"fr": "<small>Exagération extrême</small>Une scène qui exagère le bénéfice 100 fois"
+},
+{
+"key": "part06.html#143",
+"fr": "Point de départ des pubs à métaphore exagérée"
+},
+{
+"key": "part06.html#144",
+"fr": "<small>Une journée avec l’utilisateur</small>Consigner les 24 heures de la cible, heure par heure"
+},
+{
+"key": "part06.html#145",
+"fr": "Trouver le moment où le produit peut intervenir"
+},
+{
+"key": "part06.html#146",
+"fr": "<small>Liste des irritants</small>Sur 20 irritants, ceux que le produit résout"
+},
+{
+"key": "part06.html#147",
+"fr": "La méthode la plus sûre"
+},
+{
+"key": "part06.html#148",
+"fr": "<small>Expansion par IA</small>Fixer les conditions, en obtenir 20 → une personne réduit à 3"
+},
+{
+"key": "part06.html#149",
+"fr": "Seulement pour élargir l’éventail"
+},
+{
+"key": "part06.html#150",
+"fr": "<small>Exercice</small>2.5"
+},
+{
+"key": "part06.html#151",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#152",
+"fr": "Menez une réunion d’équipe avec les 6 chapeaux de la réflexion et recueillez 30 idées ou plus."
+},
+{
+"key": "part06.html#153",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#154",
+"fr": "Limitez chaque chapeau à 5 minutes."
+},
+{
+"key": "part06.html#155",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#156",
+"fr": "Quantité et variété des idées, critères de sélection"
+},
+{
+"key": "part06.html#157",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#158",
+"fr": "Reprend une faiblesse soulevée sous le chapeau noir et la retourne, avec le chapeau vert, en idée nouvelle."
+},
+{
+"key": "part06.html#159",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#160",
+"fr": "Types de concept et tests"
+},
+{
+"key": "part06.html#161",
+"fr": "Un concept part de l’un des six types et se teste avec cinq questions."
+},
+{
+"key": "part06.html#162",
+"fr": "<small>Le problème d’abord</small>Le problème d’abord, la solution ensuite"
+},
+{
+"key": "part06.html#163",
+"fr": "Le plus sûr et le plus vite compris"
+},
+{
+"key": "part06.html#164",
+"fr": "<small>Métaphore exagérée</small>Grossit le bénéfice en une métaphore irréelle"
+},
+{
+"key": "part06.html#165",
+"fr": "Mémorable, mais risque d’éclipser le produit"
+},
+{
+"key": "part06.html#166",
+"fr": "<small>Test de démonstration</small>Prouve la performance physiquement"
+},
+{
+"key": "part06.html#167",
+"fr": "Très crédible ; exige de la maîtrise au tournage"
+},
+{
+"key": "part06.html#168",
+"fr": "<small>Récit émotionnel</small>Une courte histoire, puis la marque"
+},
+{
+"key": "part06.html#169",
+"fr": "Le plus difficile à réussir en 15 secondes"
+},
+{
+"key": "part06.html#170",
+"fr": "<small>Chute</small>Capte l’attention par une fin inattendue"
+},
+{
+"key": "part06.html#171",
+"fr": "Plus percutant avec une accroche de 3 secondes"
+},
+{
+"key": "part06.html#172",
+"fr": "<small>Rupture des codes</small>Brise les images toutes faites de la catégorie"
+},
+{
+"key": "part06.html#173",
+"fr": "Différenciation immédiate"
+},
+{
+"key": "part06.html#174",
+"fr": "Questions de test du concept"
+},
+{
+"key": "part06.html#175",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part06.html#176",
+"fr": "Une bonne question de test demande « la seule chose dont vous vous souvenez »."
+},
+{
+"key": "part06.html#177",
+"fr": "Question de test"
+},
+{
+"key": "part06.html#178",
+"fr": "Critère de réussite"
+},
+{
+"key": "part06.html#179",
+"fr": "Compris sans le son"
+},
+{
+"key": "part06.html#180",
+"fr": "Indispensable pour les vidéos courtes et les réseaux sociaux"
+},
+{
+"key": "part06.html#181",
+"fr": "Fonctionne encore avec le logo d’un concurrent"
+},
+{
+"key": "part06.html#182",
+"fr": "Si oui, la différenciation a échoué"
+},
+{
+"key": "part06.html#183",
+"fr": "Marque reconnaissable aux seules 3 dernières secondes"
+},
+{
+"key": "part06.html#184",
+"fr": "Sinon, repenser l’apparition du logo"
+},
+{
+"key": "part06.html#185",
+"fr": "Explicable en une phrase"
+},
+{
+"key": "part06.html#186",
+"fr": "Si l’explication est longue, le public ne comprendra pas"
+},
+{
+"key": "part06.html#187",
+"fr": "Tournable dans le budget et le planning"
+},
+{
+"key": "part06.html#188",
+"fr": "Sinon, c’est une rêverie, pas une idée"
+},
+{
+"key": "part06.html#189",
+"fr": "<small>Exercice</small>2.6"
+},
+{
+"key": "part06.html#190",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#191",
+"fr": "Pour un même produit, écrivez en une ligne quatre concepts (informatif, émotionnel, humoristique, résolution de problème), puis testez-les auprès de 5 personnes de la cible."
+},
+{
+"key": "part06.html#192",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#193",
+"fr": "Une bonne question de test demande « la seule chose dont vous vous souvenez »."
+},
+{
+"key": "part06.html#194",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#195",
+"fr": "Caractère distinct des concepts, exploitation des résultats du test"
+},
+{
+"key": "part06.html#196",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#197",
+"fr": "Montre comment le concept a été révisé une fois à partir des résultats du test."
+},
+{
+"key": "part06.html#198",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#199",
+"fr": "Synopsis, traitement, scénario"
+},
+{
+"key": "part06.html#200",
+"fr": "Une histoire prend forme en cinq étapes, d’une phrase à une liste de plans."
+},
+{
+"key": "part06.html#201",
+"fr": "<span class=\"ph-id\">P06-SCRIPT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Une page de scénario – les notes en marge deviennent des notes de réalisation</b></span>"
+},
+{
+"key": "part06.html#202",
+"fr": "<b>Note</b>Une page de scénario – les notes en marge deviennent des notes de réalisation"
+},
+{
+"key": "part06.html#203",
+"fr": "<b>01</b><i>Logline</i>Un squelette en une ou deux phrases. Protagoniste, but, obstacle"
+},
+{
+"key": "part06.html#204",
+"fr": "<b>02</b><i>Synopsis</i>Toute l’histoire en une page environ. Dévoile la fin"
+},
+{
+"key": "part06.html#205",
+"fr": "<b>03</b><i>Traitement</i>Prose développée scène par scène. Déroulement et ambiance, sans dialogues"
+},
+{
+"key": "part06.html#206",
+"fr": "<b>04</b><i>Scénario</i>Le script en bonne et due forme, avec numéros de scène, lieux, moments, indications d’action et dialogues"
+},
+{
+"key": "part06.html#207",
+"fr": "<b>05</b><i>Liste de plans</i>Les scènes découpées en plans. Valeur, angle, mouvement de caméra, objectif, durée estimée"
+},
+{
+"key": "part06.html#208",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part06.html#209",
+"fr": "Dans un scénario, 1 page vaut environ 1 minute à l’écran. Les indications d’action ne décrivent que ce qui se voit et s’entend."
+},
+{
+"key": "part06.html#210",
+"fr": "Exemple de format de scénario pour une pub de 15 s"
+},
+{
+"key": "part06.html#211",
+"fr": "S#1. Cuisine, le matin / INT / Matin – La lumière entre par la fenêtre. Le produit est posé sur la table. Minseo (24 ans) entre, encore à moitié endormie, et prend le produit. N(V.O.) Votre journée commence autrement. Minseo boit une gorgée ; ses yeux se ferment, puis s’ouvrent. SE ouverture du bouchon / M entrée piano"
+},
+{
+"key": "part06.html#212",
+"fr": "<small>Exercice</small>2.7"
+},
+{
+"key": "part06.html#213",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#214",
+"fr": "Pour un court métrage de 3 minutes, écrivez dans l’ordre un synopsis (5 lignes), un traitement (1 page) et un scénario (3 pages)."
+},
+{
+"key": "part06.html#215",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#216",
+"fr": "Dans un scénario, 1 page vaut environ 1 minute à l’écran. N’écrivez dans les indications d’action que ce qui se voit et s’entend."
+},
+{
+"key": "part06.html#217",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#218",
+"fr": "Respect du format, progression à chaque étape"
+},
+{
+"key": "part06.html#219",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#220",
+"fr": "Écrit de sorte que le désir du personnage se voie dans l’action, même sans dialogue."
+},
+{
+"key": "part06.html#221",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#222",
+"fr": "Rédiger une note d’intention"
+},
+{
+"key": "part06.html#223",
+"fr": "Une note d’intention est un document de persuasion. Le but : permettre au lecteur de projeter dans sa tête une vidéo qui n’existe pas encore."
+},
+{
+"key": "part06.html#224",
+"fr": "<span class=\"ph-id\">P06-PROPOSAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Présenter une note d’intention – si elle ne s’explique pas en une page, ce n’est pas encore un projet</b></span>"
+},
+{
+"key": "part06.html#225",
+"fr": "<b>Note</b>Présenter une note d’intention – si elle ne s’explique pas en une page, ce n’est pas encore un projet"
+},
+{
+"key": "part06.html#226",
+"fr": "Contenu type d’une note d’intention"
+},
+{
+"key": "part06.html#227",
+"fr": "N°"
+},
+{
+"key": "part06.html#228",
+"fr": "Rubrique"
+},
+{
+"key": "part06.html#229",
+"fr": "Ce qu’on y met"
+},
+{
+"key": "part06.html#230",
+"fr": "Longueur"
+},
+{
+"key": "part06.html#231",
+"fr": "Couverture"
+},
+{
+"key": "part06.html#232",
+"fr": "Titre, sous-titre, auteurs, date, 1 visuel clé"
+},
+{
+"key": "part06.html#233",
+"fr": "1 p."
+},
+{
+"key": "part06.html#234",
+"fr": "Contexte"
+},
+{
+"key": "part06.html#235",
+"fr": "Pourquoi cette vidéo, pourquoi maintenant. Le marché et la situation de la cible"
+},
+{
+"key": "part06.html#236",
+"fr": "1 p."
+},
+{
+"key": "part06.html#237",
+"fr": "Objectif"
+},
+{
+"key": "part06.html#238",
+"fr": "Notoriété, conversion ou image de marque, au choix, plus un indicateur"
+},
+{
+"key": "part06.html#239",
+"fr": "Demi-page"
+},
+{
+"key": "part06.html#240",
+"fr": "Cible"
+},
+{
+"key": "part06.html#241",
+"fr": "Un seul persona. Journée type et habitudes médias"
+},
+{
+"key": "part06.html#242",
+"fr": "1 p."
+},
+{
+"key": "part06.html#243",
+"fr": "Message clé"
+},
+{
+"key": "part06.html#244",
+"fr": "Concept en une phrase et sa justification"
+},
+{
+"key": "part06.html#245",
+"fr": "Demi-page"
+},
+{
+"key": "part06.html#246",
+"fr": "Ton et style"
+},
+{
+"key": "part06.html#247",
+"fr": "Planche d’ambiance, palette de couleurs, 3 références et les raisons du choix"
+},
+{
+"key": "part06.html#248",
+"fr": "1–2 p."
+},
+{
+"key": "part06.html#249",
+"fr": "Synopsis"
+},
+{
+"key": "part06.html#250",
+"fr": "Histoire complète et structure (accroche, développement, conclusion)"
+},
+{
+"key": "part06.html#251",
+"fr": "1 p."
+},
+{
+"key": "part06.html#252",
+"fr": "Storyboard"
+},
+{
+"key": "part06.html#253",
+"fr": "Image, indications d’action et son de chaque plan"
+},
+{
+"key": "part06.html#254",
+"fr": "1–3 p."
+},
+{
+"key": "part06.html#255",
+"fr": "Plan de production"
+},
+{
+"key": "part06.html#256",
+"fr": "Planning, lieux, acteurs, matériel, rôles de l’équipe"
+},
+{
+"key": "part06.html#257",
+"fr": "1 p."
+},
+{
+"key": "part06.html#258",
+"fr": "Budget"
+},
+{
+"key": "part06.html#259",
+"fr": "Coûts détaillés et total"
+},
+{
+"key": "part06.html#260",
+"fr": "1 p."
+},
+{
+"key": "part06.html#261",
+"fr": "Plan de diffusion"
+},
+{
+"key": "part06.html#262",
+"fr": "Versions par plateforme, calendrier de publication, stratégie de hashtags"
+},
+{
+"key": "part06.html#263",
+"fr": "1 p."
+},
+{
+"key": "part06.html#264",
+"fr": "Effets attendus et risques"
+},
+{
+"key": "part06.html#265",
+"fr": "Résultats escomptés et plans de secours"
+},
+{
+"key": "part06.html#266",
+"fr": "Demi-page"
+},
+{
+"key": "part06.html#267",
+"fr": "Cinq façons de renforcer une note d’intention"
+},
+{
+"key": "part06.html#268",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part06.html#269",
+"fr": "Pour le ton et style, trois images sont plus précises que dix adjectifs."
+},
+{
+"key": "part06.html#270",
+"fr": "<b>01</b><span>Mettez la conclusion en premier. Placez le concept en une phrase et une image clé sur la page qui suit la couverture.</span>"
+},
+{
+"key": "part06.html#271",
+"fr": "<b>02</b><span>Parlez en images plutôt qu’en mots.</span>"
+},
+{
+"key": "part06.html#272",
+"fr": "<b>03</b><span>Donnez des chiffres. Des données précises comme 15 secondes, 6 plans, 1 jour de tournage et 2 acteurs inspirent confiance.</span>"
+},
+{
+"key": "part06.html#273",
+"fr": "<b>04</b><span>Écrivez d’emblée ce qui est impossible. Présenter les risques avec des solutions de repli renforce au contraire la confiance.</span>"
+},
+{
+"key": "part06.html#274",
+"fr": "<b>05</b><span>Réduisez les options à deux. Trois ou plus retardent la décision ; une seule ressemble à un ultimatum.</span>"
+},
+{
+"key": "part06.html#275",
+"fr": "Exemple : une vidéo courte de 1 min pour promouvoir une université"
+},
+{
+"key": "part06.html#276",
+"fr": "Rubrique"
+},
+{
+"key": "part06.html#277",
+"fr": "Exemple"
+},
+{
+"key": "part06.html#278",
+"fr": "Titre"
+},
+{
+"key": "part06.html#279",
+"fr": "Qu’apprend-on ici ? – le vlog d’un département en 1 min"
+},
+{
+"key": "part06.html#280",
+"fr": "Contexte"
+},
+{
+"key": "part06.html#281",
+"fr": "Les lycéens cherchent des informations sur l’université dans les vidéos courtes, pas sur les sites des départements. Les vidéos promotionnelles existantes se contentent d’énumérer les équipements, si bien que personne ne les regarde jusqu’au bout."
+},
+{
+"key": "part06.html#282",
+"fr": "Objectif"
+},
+{
+"key": "part06.html#283",
+"fr": "Accroître la notoriété. Indicateur : rétention moyenne de 60 % ou plus"
+}
+]

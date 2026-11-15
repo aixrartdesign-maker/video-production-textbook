@@ -1,0 +1,602 @@
+[
+{
+"key": "part04.html#431",
+"fr": "<small>Une boîte à lumière géante</small>Fenêtre"
+},
+{
+"key": "part04.html#432",
+"fr": "La lumière d’une fenêtre au nord est la meilleure lumière douce"
+},
+{
+"key": "part04.html#433",
+"fr": "Un rideau blanc sert de diffuseur"
+},
+{
+"key": "part04.html#434",
+"fr": "<small>Appoint et négatif</small>Deux cartons plume"
+},
+{
+"key": "part04.html#435",
+"fr": "Le carton blanc débouche ; le noir creuse l’ombre"
+},
+{
+"key": "part04.html#436",
+"fr": "À eux deux, ils valent un projecteur"
+},
+{
+"key": "part04.html#437",
+"fr": "<small>Adoucir</small>Diffuseur en papier calque"
+},
+{
+"key": "part04.html#438",
+"fr": "À tendre devant une lumière directe pour l’adoucir"
+},
+{
+"key": "part04.html#439",
+"fr": "Toujours loin des projecteurs chauds"
+},
+{
+"key": "part04.html#440",
+"fr": "<small>Lumière motivée</small>Lumières de jeu"
+},
+{
+"key": "part04.html#441",
+"fr": "Lampes, enseignes et écrans dans le champ comme sources"
+},
+{
+"key": "part04.html#442",
+"fr": "Réalisme et justification à la fois"
+},
+{
+"key": "part04.html#443",
+"fr": "<small>Retirer de la lumière</small>Appoint négatif"
+},
+{
+"key": "part04.html#444",
+"fr": "Un tissu noir retire de la lumière et crée du contraste"
+},
+{
+"key": "part04.html#445",
+"fr": "Ne coûte rien"
+},
+{
+"key": "part04.html#446",
+"fr": "<small>Petits éclats</small>Lampe du smartphone"
+},
+{
+"key": "part04.html#447",
+"fr": "Idéale pour de petits éclats en gros plan produit"
+},
+{
+"key": "part04.html#448",
+"fr": "Accorder sa température de couleur"
+},
+{
+"key": "part04.html#449",
+"fr": "Règles de sécurité"
+},
+{
+"key": "part04.html#450",
+"fr": "Gardez une bonne distance entre les projecteurs chauds et le papier ou le tissu, et lestez toujours les pieds de projecteur avec des sacs de sable. En tournage de cours, les accidents les plus fréquents sont les chutes de projecteurs et les brûlures."
+},
+{
+"key": "part04.html#451",
+"fr": "Comment les matières répondent à la lumière – même éclairage, six matières"
+},
+{
+"key": "part04.html#452",
+"fr": "<b>Verre · eau</b><span>La lumière traverse et se réfracte – éclairer par l’arrière (contre-jour) et faire ressortir les arêtes</span>"
+},
+{
+"key": "part04.html#453",
+"fr": "<b>Métal</b><span>Renvoie la lumière comme un miroir – la forme de la source se voit : lui donner une grande surface blanche (strip) à refléter</span>"
+},
+{
+"key": "part04.html#454",
+"fr": "<b>Bois · mat</b><span>Diffuse la lumière en tous sens – une lumière latérale dirigée révèle le veinage</span>"
+},
+{
+"key": "part04.html#455",
+"fr": "<b>Tissu · velours</b><span>Absorbe la lumière – sans contre-jour de contour, la forme disparaît</span>"
+},
+{
+"key": "part04.html#456",
+"fr": "<b>Peau · cire</b><span>La lumière pénètre sous la surface et s’y diffuse – grande source douce ; un fort contre-jour rougit les oreilles par transparence</span>"
+},
+{
+"key": "part04.html#457",
+"fr": "<b>Sources émissives</b><span>Brillent d’elles-mêmes – assombrir les alentours, exposer pour la surface lumineuse, ajouter le halo en postproduction</span>"
+},
+{
+"key": "part04.html#458",
+"fr": "<b>Fig. 42-2</b> Comment les matières réagissent à la lumière – six matières sous le même éclairage (boîte à lumière en key + décrochage). Éclairer, ce n’est pas poser de la lumière : c’est savoir comment une matière lui répond."
+},
+{
+"key": "part04.html#459",
+"fr": "L’éclairage dans les outils 3D – même vocabulaire, autre physique"
+},
+{
+"key": "part04.html#460",
+"fr": "<b>Éclairer dans un outil 3D – même ordre que sur le plateau</b><span>① Lumière d’environnement (HDRI) pour un niveau de base de 10–20 %</span><span>② Une Area Light en key – la taille fait la douceur</span><span>③ Une Area faible à l’opposé en fill (Shadow off)</span><span>④ Un Spot par l’arrière en décrochage</span><span>⑤ Régler les matériaux (Roughness · Metallic · Transmission), puis revérifier l’éclairage</span><b>Ce qui diffère du plateau</b><span>La lumière ne rebondit pas sur les murs → ajouter soi-même le rebond</span><span>L’intensité est relative, pas en watts – la régler à l’œil</span><span>Régler la luminosité par l’exposition du rendu (EV), pas par celle de la caméra</span>"
+},
+{
+"key": "part04.html#461",
+"fr": "<b>Fig. 42-3</b> Éclairage dans un outil 3D – gizmos de lumière dans la vue 3D (key · fill · décrochage) et panneau des propriétés. Le vocabulaire et l’ordre sont ceux de l’éclairage de plateau."
+},
+{
+"key": "part04.html#462",
+"fr": "<small>Exercice</small>4.7"
+},
+{
+"key": "part04.html#463",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#464",
+"fr": "Constituez un kit d’éclairage 3 points pour 50 000 wons au plus et tournez réellement avec."
+},
+{
+"key": "part04.html#465",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#466",
+"fr": "Lampes de chantier, papier calque, carton plume et pinces forment la base. Attention à la chaleur et à la sécurité électrique."
+},
+{
+"key": "part04.html#467",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#468",
+"fr": "Qualité rapportée au coût, contrôle de sécurité"
+},
+{
+"key": "part04.html#469",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#470",
+"fr": "Réunit, plutôt que des tickets de caisse, la liste des pièces, les prix unitaires et les photos de l’installation."
+},
+{
+"key": "part04.html#471",
+"fr": "Contexte 6"
+},
+{
+"key": "part04.html#472",
+"fr": "Comment le son change l’image"
+},
+{
+"key": "part04.html#473",
+"fr": "Nous disons « regarder » une vidéo, mais nous construisons en réalité une seule expérience en voyant et en entendant. Dans L’Audio-vision (1990), le compositeur et théoricien français Michel Chion a proposé la notion de « valeur ajoutée » : quand un son s’ajoute à une image, le public attribue son effet à la force de l’image elle-même. Le bruitage d’un coup de poing frappe bien plus fort que le coup réel, et pourtant le public garde le souvenir d’une image intense. Voilà pourquoi une bonne conception sonore passe inaperçue."
+},
+{
+"key": "part04.html#474",
+"fr": "Chion a aussi forgé le mot « synchrèse » : la tendance perceptive à souder en un seul événement un son et une image qui surviennent ensemble. C’est ce qui permet à un bruiteur de casser du céleri pour faire entendre un os qui se brise. Enregistrer à part des pas ou le frôlement d’un col, c’est le bruitage, Foley en anglais, du nom de Jack Foley, pionnier du domaine."
+},
+{
+"key": "part04.html#475",
+"fr": "Le son se divise en deux : celui dont la source appartient au monde du récit et celui qui n’y a pas de source. La musique d’une radio qu’entend un personnage est dans le récit ; la musique de fond que seul le public entend vient de l’extérieur. À l’instant où l’on comprend que ce qu’on prenait pour la musique du film sort en fait des écouteurs d’un personnage, le public entre dans son monde intérieur."
+},
+{
+"key": "part04.html#476",
+"fr": "Le monteur et concepteur sonore Walter Murch a été crédité comme « sound designer » au générique d’Apocalypse Now (1979), élevant le son au rang de domaine créatif, à égalité avec l’image ou le montage. Il insistait sur un mixage conçu autour d’une limite : le nombre de couches sonores superposées qu’un public peut distinguer dans une scène. Choisir ce que l’on garde compte plus que d’en mettre beaucoup."
+},
+{
+"key": "part04.html#477",
+"fr": "En vidéo courte et sur mobile, beaucoup regardent sans le son. La conception doit fonctionner avec les sous-titres et l’image seuls ; mais pour ceux qui gardent le son, la première seconde sonore peut être la plus forte des accroches. Les micros et la conception sonore du chapitre 4 partent de là : penser aux deux publics."
+},
+{
+"key": "part04.html#478",
+"fr": "Pour aller plus loin – Michel Chion, L’Audio-vision · David Sonnenschein, Sound Design · Walter Murch, En un clin d’œil"
+},
+{
+"key": "part04.html#479",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#480",
+"fr": "Micros et prise de son"
+},
+{
+"key": "part04.html#481",
+"fr": "Un micro bon marché tout près bat toujours un micro cher placé loin. Le son se décide à la distance."
+},
+{
+"key": "part04.html#482",
+"fr": "On voit par la lumière, on entend par l’air – d’où la « synchro » du son"
+},
+{
+"key": "part04.html#483",
+"fr": "Piste vidéo – l’image où le clap « se ferme »"
+},
+{
+"key": "part04.html#484",
+"fr": "Piste audio – la crête du « clac »"
+},
+{
+"key": "part04.html#485",
+"fr": "Aligner la crête sur l’image du clap fermé"
+},
+{
+"key": "part04.html#486",
+"fr": "La lumière arrive instantanément (300 000 km/s). Le son se propage à 340 m/s : un clap à 34 m de la caméra s’entend <tspan fill=\"#7A1C2B\" font-weight=\"500\">avec 0,1 s de retard (env. 2,4 images)</tspan>."
+},
+{
+"key": "part04.html#487",
+"fr": "Plus le plan est large, plus on claque le clap près de la caméra."
+},
+{
+"key": "part04.html#488",
+"fr": "<b>Le clap – la vue et l’ouïe fixées en un point</b><span>Image où le clap se ferme = crête de la forme d’onde. Superposez-les au montage : image et son sont calés</span>"
+},
+{
+"key": "part04.html#489",
+"fr": "<b>Fig. 43</b> La synchro – voir va plus vite qu’entendre. L’œil reçoit la lumière, l’oreille les vibrations de l’air : le son arrive toujours un peu en retard. Le clap est le « repère commun à l’œil et à l’oreille » qui comble cet écart."
+},
+{
+"key": "part04.html#490",
+"fr": "Niveaux d’enregistrement – la zone de sécurité"
+},
+{
+"key": "part04.html#491",
+"fr": "Trop bas – le bruit monte"
+},
+{
+"key": "part04.html#492",
+"fr": "Passages calmes · silence plateau"
+},
+{
+"key": "part04.html#493",
+"fr": "Moyenne des dialogues −18 à −12"
+},
+{
+"key": "part04.html#494",
+"fr": "Zone de crêtes admise"
+},
+{
+"key": "part04.html#495",
+"fr": "Danger – à 0, c’est perdu"
+},
+{
+"key": "part04.html#496",
+"fr": "dBFS"
+},
+{
+"key": "part04.html#497",
+"fr": "Au crête-mètre – le dialogue danse autour de -12 et ne dépasse jamais -6. L’audio numérique est tronqué dès qu’il dépasse 0 (écrêtage)."
+},
+{
+"key": "part04.html#498",
+"fr": "<b>Fig. 43-1</b> La zone de sécurité des niveaux d’enregistrement – un son faible se remonte après coup, un son saturé ne se rattrape pas. Toujours un peu bas."
+},
+{
+"key": "part04.html#499",
+"fr": "Type"
+},
+{
+"key": "part04.html#500",
+"fr": "Caractéristiques"
+},
+{
+"key": "part04.html#501",
+"fr": "Distance idéale"
+},
+{
+"key": "part04.html#502",
+"fr": "Usage"
+},
+{
+"key": "part04.html#503",
+"fr": "Pièges"
+},
+{
+"key": "part04.html#504",
+"fr": "Micro canon"
+},
+{
+"key": "part04.html#505",
+"fr": "Captation étroite, à distance"
+},
+{
+"key": "part04.html#506",
+"fr": "Dialogues de plateau à la perche"
+},
+{
+"key": "part04.html#507",
+"fr": "Le son chute net hors axe"
+},
+{
+"key": "part04.html#508",
+"fr": "Micro-cravate"
+},
+{
+"key": "part04.html#509",
+"fr": "Fixé au vêtement, tout près"
+},
+{
+"key": "part04.html#510",
+"fr": "Env. 20 cm"
+},
+{
+"key": "part04.html#511",
+"fr": "Interviews, pubs témoignage"
+},
+{
+"key": "part04.html#512",
+"fr": "Frottements de vêtements"
+},
+{
+"key": "part04.html#513",
+"fr": "Micro-cravate sans fil"
+},
+{
+"key": "part04.html#514",
+"fr": "Mobile, sans câble"
+},
+{
+"key": "part04.html#515",
+"fr": "Env. 20 cm"
+},
+{
+"key": "part04.html#516",
+"fr": "Plans en mouvement, plusieurs personnes"
+},
+{
+"key": "part04.html#517",
+"fr": "Interférences HF, batteries"
+},
+{
+"key": "part04.html#518",
+"fr": "Micro main"
+},
+{
+"key": "part04.html#519",
+"fr": "Tenu à la main"
+},
+{
+"key": "part04.html#520",
+"fr": "10–20 cm"
+},
+{
+"key": "part04.html#521",
+"fr": "Interviews de terrain"
+},
+{
+"key": "part04.html#522",
+"fr": "Visible à l’image"
+},
+{
+"key": "part04.html#523",
+"fr": "Micro statique USB"
+},
+{
+"key": "part04.html#524",
+"fr": "Haute qualité en intérieur"
+},
+{
+"key": "part04.html#525",
+"fr": "15–30 cm"
+},
+{
+"key": "part04.html#526",
+"fr": "Voix off, doublage"
+},
+{
+"key": "part04.html#527",
+"fr": "Réverbération de la pièce à maîtriser"
+},
+{
+"key": "part04.html#528",
+"fr": "Intégré à la caméra"
+},
+{
+"key": "part04.html#529",
+"fr": "Secours uniquement"
+},
+{
+"key": "part04.html#530",
+"fr": "Son témoin pour la synchro"
+},
+{
+"key": "part04.html#531",
+"fr": "Jamais en prise principale"
+},
+{
+"key": "part04.html#532",
+"fr": "Directivités"
+},
+{
+"key": "part04.html#533",
+"fr": "Dans quelles directions un micro entend"
+},
+{
+"key": "part04.html#534",
+"fr": "<b>Omni</b><span>Toutes les directions à égalité</span><span class=\"deg\">Cravate · sensation d’espace</span>"
+},
+{
+"key": "part04.html#535",
+"fr": "<b>Cardioïde</b><span>Capte l’avant, rejette l’arrière</span><span class=\"deg\">Interviews · voix · le plus courant</span>"
+},
+{
+"key": "part04.html#536",
+"fr": "<b>Supercardioïde</b><span>Avant plus étroit, un peu d’arrière</span><span class=\"deg\">Perche · dialogues de plateau</span>"
+},
+{
+"key": "part04.html#537",
+"fr": "<b>Canon</b><span>Avant très étroit – même de loin</span><span class=\"deg\">Micro perche · extérieur · documentaire</span>"
+},
+{
+"key": "part04.html#538",
+"fr": "<b>En 8</b><span>Capte l’avant et l’arrière, rejette les côtés</span><span class=\"deg\">Face-à-face · stéréo MS</span>"
+},
+{
+"key": "part04.html#539",
+"fr": "<b>Canon sur perche – juste au-dessus du cadre, pointé vers la bouche</b><span>Directivité étroite = un léger écart d’angle et le son maigrit</span>"
+},
+{
+"key": "part04.html#540",
+"fr": "<b>Statique de studio – voix off · doublage</b><span>Cardioïde · filtre anti-pop · 15–30 cm · traiter d’abord la réverbération de la pièce</span>"
+},
+{
+"key": "part04.html#541",
+"fr": "<b>Fig. 44</b> Directivités des micros – l’aplat rouge est la zone de captation. Une personne à l’intérieur s’entend nettement ; à l’extérieur, elle paraît lointaine. Plus la zone est étroite, plus le son reste net de loin, mais plus l’angle devient critique."
+},
+{
+"key": "part04.html#542",
+"fr": "<small>Omni</small>Omnidirectionnel"
+},
+{
+"key": "part04.html#543",
+"fr": "Capte toutes les directions à égalité"
+},
+{
+"key": "part04.html#544",
+"fr": "Standard des cravates ; espace naturel"
+},
+{
+"key": "part04.html#545",
+"fr": "Le bruit entre aussi"
+},
+{
+"key": "part04.html#546",
+"fr": "<small>Cardioïde</small>Unidirectionnel"
+},
+{
+"key": "part04.html#547",
+"fr": "En forme de cœur, tourné vers l’avant"
+},
+{
+"key": "part04.html#548",
+"fr": "Polyvalent ; rejette le bruit arrière"
+},
+{
+"key": "part04.html#549",
+"fr": "<small>Super / Hyper</small>Super · hypercardioïde"
+},
+{
+"key": "part04.html#550",
+"fr": "Avant plus étroit, famille des canons"
+},
+{
+"key": "part04.html#551",
+"fr": "Capte un peu l’arrière : vérifier le bruit derrière"
+},
+{
+"key": "part04.html#552",
+"fr": "<small>En 8</small>Bidirectionnel"
+},
+{
+"key": "part04.html#553",
+"fr": "Avant et arrière captés, côtés rejetés"
+},
+{
+"key": "part04.html#554",
+"fr": "Convient aux interviews à deux, face à face"
+},
+{
+"key": "part04.html#555",
+"fr": "<b>Photos de référence 4.8A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part04.html#556",
+"fr": "<b>a</b>Canon sur perche – pointé d’en haut"
+},
+{
+"key": "part04.html#557",
+"fr": "<b>b</b>Micro-cravate – caché dans le col"
+},
+{
+"key": "part04.html#558",
+"fr": "<b>c</b>Prise de son d’une interview de terrain"
+},
+{
+"key": "part04.html#559",
+"fr": "Trois micros des plateaux d’aujourd’hui"
+},
+{
+"key": "part04.html#560",
+"fr": "<small>Solo · petite équipe</small>Kit sans fil compact 2 canaux"
+},
+{
+"key": "part04.html#561",
+"fr": "DJI Mic, Rode Wireless, Hollyland Lark et équivalents"
+},
+{
+"key": "part04.html#562",
+"fr": "2 émetteurs + 1 récepteur ; le 32 bits flottant et l’enregistrement intégré aux émetteurs protègent de l’écrêtage"
+},
+{
+"key": "part04.html#563",
+"fr": "Le récepteur se branche sur le port USB-C d’un téléphone · d’une caméra"
+},
+{
+"key": "part04.html#564",
+"fr": "Attention : frottements du col ; salles d’événements saturées d’interférences à 2,4 GHz"
+},
+{
+"key": "part04.html#565",
+"fr": "<small>Interview · fiction</small>Canon + perche"
+},
+{
+"key": "part04.html#566",
+"fr": "Pointé vers la bouche d’en haut, hors cadre"
+},
+{
+"key": "part04.html#567",
+"fr": "Espace naturel ; plusieurs personnes sur un seul micro"
+},
+{
+"key": "part04.html#568",
+"fr": "Exige un perchman et un enregistreur"
+},
+{
+"key": "part04.html#569",
+"fr": "Attention : sortie d’axe, réflexions du plafond"
+},
+{
+"key": "part04.html#570",
+"fr": "<small>Installation la plus rapide</small>Cravate à brancher sur téléphone"
+},
+{
+"key": "part04.html#571",
+"fr": "Se branche en USB-C ou Lightning ; enregistre aussitôt, sans appli"
+},
+{
+"key": "part04.html#572",
+"fr": "Vlogs · vidéos courtes · interviews de terrain rapides"
+},
+{
+"key": "part04.html#573",
+"fr": "Attention : mobilité limitée à la longueur du câble ; repérer les modèles sans réglage manuel du niveau"
+},
+{
+"key": "part04.html#574",
+"fr": "<b>Photos de référence 4.8B</b>Images générées – micros des plateaux d’aujourd’hui"
+},
+{
+"key": "part04.html#575",
+"fr": "<span class=\"ph-id\">P04-MIC-WIRELESS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Micro sans fil compact</b>Un petit émetteur pincé sur un col, le récepteur sur un appareil hybride</span>"
+},
+{
+"key": "part04.html#576",
+"fr": "<b>a</b>Micro sans fil compact"
+},
+{
+"key": "part04.html#577",
+"fr": "<span class=\"ph-id\">P04-MIC-SHOTGUN</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Micro perche</b>Un perchman tient un canon sous bonnette au-dessus de deux acteurs</span>"
+},
+{
+"key": "part04.html#578",
+"fr": "<b>b</b>Micro perche"
+},
+{
+"key": "part04.html#579",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part04.html#580",
+"fr": "À 0 dBFS, le son écrête sans retour possible. Gardez les crêtes entre -12 dBFS et -6 dBFS."
+}
+]

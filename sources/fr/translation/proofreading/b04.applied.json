@@ -1,0 +1,56 @@
+[
+ {
+  "key": "part06.html#293",
+  "find": "sous-titres en première ligne",
+  "replace": "récit porté par les sous-titres",
+  "why": "other: unnatural phrasing (caption-driven)"
+ },
+ {
+  "key": "part06.html#388",
+  "find": "Ce n’est pas différent.",
+  "replace": "Ce n’est pas original.",
+  "why": "other: unnatural literal phrasing"
+ },
+ {
+  "key": "part06.html#471",
+  "find": "25<em>%</em>",
+  "replace": "25<em> %</em>",
+  "why": "typography: no-break space before %"
+ },
+ {
+  "key": "part06.html#472",
+  "find": "50<em>%</em>",
+  "replace": "50<em> %</em>",
+  "why": "typography: no-break space before %"
+ },
+ {
+  "key": "part06.html#473",
+  "find": "25<em>%</em>",
+  "replace": "25<em> %</em>",
+  "why": "typography: no-break space before %"
+ },
+ {
+  "key": "part03.html#43",
+  "find": "Caméras blimpées",
+  "replace": "Caméras insonorisées",
+  "why": "untranslated: anglicism 'blimpées'"
+ },
+ {
+  "key": "part03.html#93",
+  "find": "Qualité d’image et basse lumière faibles",
+  "replace": "Qualité d’image et tenue en basse lumière faibles",
+  "why": "meaning: 'basse lumière faible' is nonsensical"
+ },
+ {
+  "key": "part03.html#142",
+  "find": "avantage en télé",
+  "replace": "avantage au téléobjectif",
+  "why": "meaning: 'télé' ambiguous (television), means telephoto"
+ },
+ {
+  "key": "part03.html#410",
+  "find": "LED vertical",
+  "replace": "écran LED vertical",
+  "why": "grammar: LED is feminine; screen meant"
+ }
+]

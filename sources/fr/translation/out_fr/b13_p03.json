@@ -1,0 +1,522 @@
+[
+{
+"key": "part12.html#481",
+"fr": "<span class=\"ph-id\">P12-PORTSITE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Plateformes de portfolio</b>Un bureau où un ordinateur portable et un téléphone affichent tous deux la grille vidéo du même site de portfolio personnel</span>"
+},
+{
+"key": "part12.html#482",
+"fr": "<b>Note</b>Plateformes de portfolio – où que vous publiiez, gardez un seul repère pour la mention de l’IA et votre degré d’implication"
+},
+{
+"key": "part12.html#483",
+"fr": "Plateforme"
+},
+{
+"key": "part12.html#484",
+"fr": "Œuvres IA"
+},
+{
+"key": "part12.html#485",
+"fr": "Mention exigée"
+},
+{
+"key": "part12.html#486",
+"fr": "Sanctions"
+},
+{
+"key": "part12.html#487",
+"fr": "Vimeo"
+},
+{
+"key": "part12.html#488",
+"fr": "Autorisées"
+},
+{
+"key": "part12.html#489",
+"fr": "Contenu réaliste : mention obligatoire"
+},
+{
+"key": "part12.html#490",
+"fr": "Étiquette inamovible ; récidive : compte fermé"
+},
+{
+"key": "part12.html#491",
+"fr": "YouTube"
+},
+{
+"key": "part12.html#492",
+"fr": "Autorisées"
+},
+{
+"key": "part12.html#493",
+"fr": "Trucages réalistes : mention obligatoire"
+},
+{
+"key": "part12.html#494",
+"fr": "Étiquette automatique, pas de monétisation"
+},
+{
+"key": "part12.html#495",
+"fr": "ArtStation"
+},
+{
+"key": "part12.html#496",
+"fr": "Autorisées"
+},
+{
+"key": "part12.html#497",
+"fr": "Tag obligatoire sur les produits en vente"
+},
+{
+"key": "part12.html#498",
+"fr": "Règles de la boutique"
+},
+{
+"key": "part12.html#499",
+"fr": "Behance"
+},
+{
+"key": "part12.html#500",
+"fr": "Autorisées"
+},
+{
+"key": "part12.html#501",
+"fr": "Seulement recommandée, non exigée"
+},
+{
+"key": "part12.html#502",
+"fr": "Aucune"
+},
+{
+"key": "part12.html#503",
+"fr": "Instagram · TikTok"
+},
+{
+"key": "part12.html#504",
+"fr": "Autorisées"
+},
+{
+"key": "part12.html#505",
+"fr": "Contenu réaliste : mention obligatoire"
+},
+{
+"key": "part12.html#506",
+"fr": "Étiquette automatique ; sanctions si récidive"
+},
+{
+"key": "part12.html#507",
+"fr": "Ce qui change chez ArtStation"
+},
+{
+"key": "part12.html#508",
+"fr": "<small>Pas d’entraînement d’IA par défaut</small>Depuis septembre 2026"
+},
+{
+"key": "part12.html#509",
+"fr": "S’applique rétroactivement aux mises en ligne nouvelles · existantes et aux profils"
+},
+{
+"key": "part12.html#510",
+"fr": "Les artistes doivent activer eux-mêmes l’option pour autoriser l’entraînement"
+},
+{
+"key": "part12.html#511",
+"fr": "<small>Blocage des robots</small>Au niveau des accès de masse"
+},
+{
+"key": "part12.html#512",
+"fr": "Bloque les robots d’IA connus et l’aspiration automatisée"
+},
+{
+"key": "part12.html#513",
+"fr": "L’indexation de recherche normale reste"
+},
+{
+"key": "part12.html#514",
+"fr": "<small>Outils d’étiquetage inachevés</small>Les règles peuvent encore changer"
+},
+{
+"key": "part12.html#515",
+"fr": "La plateforme elle-même admet que « les étiquettes et filtres IA actuels ne suffisent pas » et a promis des améliorations"
+},
+{
+"key": "part12.html#516",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part12.html#517",
+"fr": "La fonction recrutement de Behance ne permet de joindre ni CV ni lettre de motivation. Votre page de projet doit être à la fois portfolio et CV : inscrivez-y votre rôle · votre démarche · vos décisions."
+},
+{
+"key": "part12.html#518",
+"fr": "Les faiblesses que pointent les recruteurs"
+},
+{
+"key": "part12.html#519",
+"fr": "Dans l’enquête 2026 d’ArtStation, deux des six faiblesses de candidats les plus relevées par les recruteurs tenaient à la présentation, non au niveau : « présentation et navigation médiocres » et « rôle personnel flou dans les projets d’équipe ». Préciser l’étendue de sa participation a toujours été une exigence de base ; la mention de l’IA la prolonge."
+},
+{
+"key": "part12.html#520",
+"fr": "La ligne fatale, ce n’est pas l’IA"
+},
+{
+"key": "part12.html#521",
+"fr": "Aux Cannes Lions 2025, une agence a rendu trois prix, dont un Grand Prix. Le problème n’était pas d’avoir utilisé l’IA, mais d’avoir utilisé une vidéo imitant de vrais reportages d’actualité pour travestir ses résultats. Cannes a ensuite modifié son règlement pour imposer la déclaration de tout usage de l’IA en production. Gonfler ses résultats est bien plus dangereux qu’utiliser l’IA."
+},
+{
+"key": "part12.html#522",
+"fr": "Étiquetez l’œuvre une seule fois, selon les règles les plus strictes qu’elle rencontrera, et gardez la même étiquette sur tous les canaux.<small>11.9 Les plateformes de portfolio évoluent</small>"
+},
+{
+"key": "part12.html#523",
+"fr": "<small>Exercice</small>11.9"
+},
+{
+"key": "part12.html#524",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#525",
+"fr": "Choisissez une de vos œuvres réalisées avec des outils génératifs. En supposant que vous la publierez sur Behance · ArtStation · YouTube, rédigez pour chacune une ligne de mention et une description."
+},
+{
+"key": "part12.html#526",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#527",
+"fr": "Rédigez les mentions par étape. Plus c’est précis, du type « fond généré par IA ; compositing et correction colorimétrique par mes soins », plus vous inspirez confiance."
+},
+{
+"key": "part12.html#528",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#529",
+"fr": "Les différences entre les règles des plateformes sont-elles prises en compte ? Le degré d’implication est-il indiqué sans exagération ?"
+},
+{
+"key": "part12.html#530",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#531",
+"fr": "Un cas qui a unifié la mention d’une œuvre sur les trois plateformes tout en respectant les règles de chacune."
+},
+{
+"key": "part12.html#532",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#533",
+"fr": "Marchés étrangers et LinkedIn"
+},
+{
+"key": "part12.html#534",
+"fr": "Ce que montrent les offres à l’étranger. Les données étrangères s’accompagnent de nombreux chiffres publiés, ce qui rend les tendances faciles à lire. Elles ne se transposent pourtant pas telles quelles à la Corée : servez-vous-en pour lire une direction."
+},
+{
+"key": "part12.html#535",
+"fr": "Ce que demandent les offres a changé"
+},
+{
+"key": "part12.html#536",
+"fr": "Un rapport de 2026 analysant plus de 500 offres d’emploi en vidéo IA n’a trouvé la rédaction de prompts que dans une offre sur cinq, et encore, sur une seule ligne. Ce qui a progressé à la place, ce sont ces trois points."
+},
+{
+"key": "part12.html#537",
+"fr": "<b>17 → 41<em>%</em></b>Termes de grammaire filmique comme plan · cadrage · objectif · composition"
+},
+{
+"key": "part12.html#538",
+"fr": "<b>21 → 35<em>%</em></b>Exigence de cohérence des personnages et du visuel"
+},
+{
+"key": "part12.html#539",
+"fr": "<b>6 → 16<em>%</em></b>Capacité à diriger une équipe"
+},
+{
+"key": "part12.html#540",
+"fr": "<b>Intitulés</b> – 57 % ajoutent « IA » à un intitulé de poste existant. Les intitulés larges comme « artiste IA » sont passés de 36 % à 25 % ; « cinéaste · réalisateur » est monté de 7,7 % à 16,1 %."
+},
+{
+"key": "part12.html#541",
+"fr": "<b>Type d’emploi</b> – 51 % de contrats courts · freelance · au projet ; 28 % de temps plein. Décrocher des missions · chiffrer · contractualiser compte désormais autant que le portfolio."
+},
+{
+"key": "part12.html#542",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part12.html#543",
+"fr": "« La demande de vidéo IA a bondi de 329 % » et « les tarifs de la vidéo IA ont augmenté » sont deux affirmations entièrement différentes. Le chiffre porte sur la demande et le volume de recherches, non sur les tarifs."
+},
+{
+"key": "part12.html#544",
+"fr": "La compétence IA en soi n’est pas rare"
+},
+{
+"key": "part12.html#545",
+"fr": "<small>85 % des offres</small>Ne précisent aucune compétence IA"
+},
+{
+"key": "part12.html#546",
+"fr": "Offres pour professionnels de la création aux États-Unis, avril 2026"
+},
+{
+"key": "part12.html#547",
+"fr": "Les offres exigeant l’IA ne sont passées que de 10 % à 15 %"
+},
+{
+"key": "part12.html#548",
+"fr": "<small>Aucun nouveau métier n’a émergé</small>Postes existants + exigences IA"
+},
+{
+"key": "part12.html#549",
+"fr": "Postes dans les offres exigeant l’IA : graphiste 11 %, monteur vidéo 10 %, etc."
+},
+{
+"key": "part12.html#550",
+"fr": "<small>Trois fois plus de concurrence</small>Offres en hausse de 8 %, vivier 3 fois plus grand"
+},
+{
+"key": "part12.html#551",
+"fr": "Environ 12 millions d’adultes américains se préparent aux métiers de la création, soit à peu près 3 fois les actifs et les étudiants de ces filières réunis"
+},
+{
+"key": "part12.html#552",
+"fr": "77 % d’entre eux jugent l’IA générative centrale pour leur carrière"
+},
+{
+"key": "part12.html#553",
+"fr": "Pourquoi la conception des plans est la ligne de défense"
+},
+{
+"key": "part12.html#554",
+"fr": "Chez les vidéastes américains, l’usage de l’IA générative se concentre sur les effets visuels (VFX), à 48,6 %, contre seulement 13,3 % pour le tournage · la captation et 8,3 % pour la conception caméra · lumière. Le Forum économique mondial classe le graphisme parmi les métiers en plus fort recul et le design UI · UX parmi ceux en plus forte croissance. Même au sein du « design », c’est le versant du jugement et de la conception qui demeure."
+},
+{
+"key": "part12.html#555",
+"fr": "Le marché du freelance"
+},
+{
+"key": "part12.html#556",
+"fr": "<b>+329<em>%</em></b>Données de demande Upwork 2026 – la compétence design · création en plus forte croissance : « génération · montage vidéo par IA ». La demande en montage · production vidéo traditionnels reste aussi en haut du classement"
+},
+{
+"key": "part12.html#557",
+"fr": "<b>12 000<em>demandes</em></b>Cumul sur 9 mois des demandes dans la catégorie Services IA de Kmong (lancée en juin 2025). La vidéo IA arrive en tête avec 26 %, et la production de vidéos courtes est la plus demandée"
+},
+{
+"key": "part12.html#558",
+"fr": "Ce que les offres étrangères ont demandé davantage, ce ne sont pas les prompts, mais la grammaire filmique, la cohérence et le leadership. Voilà votre ordre d’apprentissage.<small>11.10 Marchés étrangers et LinkedIn</small>"
+},
+{
+"key": "part12.html#559",
+"fr": "Où publier, où chercher, comment se former"
+},
+{
+"key": "part12.html#560",
+"fr": "Kim Yeongsang"
+},
+{
+"key": "part12.html#561",
+"fr": "Montage vidéo · motion design | 010-0000-0000 | portfolio.link"
+},
+{
+"key": "part12.html#562",
+"fr": "Résumé"
+},
+{
+"key": "part12.html#563",
+"fr": "Montage de 12 pubs de 15 s · 40 épisodes de vidéo courte – rétention moyenne 58 %"
+},
+{
+"key": "part12.html#564",
+"fr": "Premiere · After Effects · DaVinci ; ébauches avec outils génératifs"
+},
+{
+"key": "part12.html#565",
+"fr": "Expérience · projets"
+},
+{
+"key": "part12.html#566",
+"fr": "Studio ○○, stagiaire → assistant monteur"
+},
+{
+"key": "part12.html#567",
+"fr": "Premiers montages · sous-titres · aide à la correction colorimétrique sur 12 pubs. Séries de corrections ramenées de 3 → 2 en moyenne"
+},
+{
+"key": "part12.html#568",
+"fr": "Projet de fin d’études – pub de 15 secondes pour une marque locale"
+},
+{
+"key": "part12.html#569",
+"fr": "Pilotage conception · tournage · montage dans une équipe de 4 · 120 000 vues · le client est revenu"
+},
+{
+"key": "part12.html#570",
+"fr": "Chaîne personnelle"
+},
+{
+"key": "part12.html#571",
+"fr": "1 vidéo par semaine pendant 48 semaines · 3400 abonnés · journal de tests A/B de miniatures"
+},
+{
+"key": "part12.html#572",
+"fr": "Compétences"
+},
+{
+"key": "part12.html#573",
+"fr": "Montage Premiere ●●●●○ · AE ●●●○○ · DaVinci ●●●○○ · Caméra α7 ●●●○○ · Image/vidéo générative ●●●○○"
+},
+{
+"key": "part12.html#574",
+"fr": "Études · formation"
+},
+{
+"key": "part12.html#575",
+"fr": "Université ○○, dép. Contenus vidéo et médias (diplôme en février 2026)"
+},
+{
+"key": "part12.html#576",
+"fr": "K-Digital Training – cours de production vidéo IA, 240 heures (Tomorrow Learning Card)"
+},
+{
+"key": "part12.html#577",
+"fr": "Prix · divers"
+},
+{
+"key": "part12.html#578",
+"fr": "Festival du film ○○, courts métrages : mention spéciale · permis de conduire · brevet de drone (classe 4)"
+},
+{
+"key": "part12.html#579",
+"fr": "Une page · résultats chiffrés · lien du portfolio en haut · photo facultative"
+},
+{
+"key": "part12.html#580",
+"fr": "Nom du fichier : KimYeongsang_Editing_CV_2026.pdf"
+},
+{
+"key": "part12.html#581",
+"fr": "<b>Exemple de CV en une page – poste de montage</b><span>De haut en bas : coordonnées et liens → résumé en 3 lignes → expérience (dates · rôle · chiffres) → compétences → formation → divers. Adaptez le résumé et l’ordre à chaque poste visé</span>"
+},
+{
+"key": "part12.html#582",
+"fr": "<b>Work24 (fusion de Worknet · HRD-Net)</b><span>Ministère de l’Emploi et du Travail – offres d’emploi + formation professionnelle + allocations chômage + demande de Tomorrow Learning Card au même endroit</span>"
+},
+{
+"key": "part12.html#583",
+"fr": "<b>JobKorea · Saramin</b><span>Le plus d’offres de recrutement ouvert · de PME. Déposez un CV et les propositions viennent à vous</span>"
+},
+{
+"key": "part12.html#584",
+"fr": "<b>Wanted · Remember</b><span>Start-up · profils expérimentés · cooptation. Cherchez vidéo · motion · contenu par tag de métier</span>"
+},
+{
+"key": "part12.html#585",
+"fr": "<b>Filmmakers · Kmong · Soomgo</b><span>Postes en équipe de tournage · missions freelance – première expérience de plateau et sens du devis</span>"
+},
+{
+"key": "part12.html#586",
+"fr": "<b>LinkedIn</b><span>Étranger · entreprises étrangères · agences mondiales. Résumé d’une ligne en anglais + lien du showreel (bande démo) + recommandations</span>"
+},
+{
+"key": "part12.html#587",
+"fr": "<b>Tomorrow Learning Card (carte nationale de formation)</b><span>3 millions de wons (jusqu’à 5 millions) de frais de formation sur 5 ans – délivrée via Work24 ; K-Digital Training intégralement prise en charge</span>"
+},
+{
+"key": "part12.html#588",
+"fr": "<b>Profil LinkedIn – cinq champs</b><span>Titre : rôle + point fort en une ligne (p. ex. Video Editor · 15s ads · motion graphics)</span><span>Infos : 3 phrases – ce que vous faites, les chiffres atteints, ce que vous cherchez</span><span>Sélection : épingler en haut le lien du showreel (bande démo)</span><span>Expérience : par projet, résultats chiffrés</span><span>Recommandations : 2 personnes avec qui vous avez travaillé – un professeur · un tuteur de stage</span><b>À vérifier avant de postuler</b><span>Noms d’outils cités en « atouts » dans l’offre : les écrire à l’identique dans la rubrique compétences du CV</span><span>Nom du fichier envoyé : nom · poste · date</span><span>Vérifier sur téléphone que le lien du portfolio s’ouvre sans connexion</span>"
+},
+{
+"key": "part12.html#589",
+"fr": "<b>Fig. 90-3</b> Canaux d’emploi et documents en Corée – CV en une page, LinkedIn et Work24 · JobKorea · Saramin · Wanted · Filmmakers. Financez votre formation avec la Tomorrow Learning Card : obtenez-la avant le diplôme et vous pourrez suivre des cours intégralement financés comme K-Digital Training."
+},
+{
+"key": "part12.html#590",
+"fr": "<small>Exercice</small>11.10"
+},
+{
+"key": "part12.html#591",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#592",
+"fr": "Trouvez 5 offres d’emploi à l’étranger et classez les compétences exigées en cinq branches : grammaire filmique, outils, maîtrise de la cohérence, collaboration et lecture des résultats. Comparez-les à 5 offres coréennes et notez les différences."
+},
+{
+"key": "part12.html#593",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#594",
+"fr": "Consultez ensemble les offres d’emploi de LinkedIn et d’ArtStation. Le même poste y est formulé différemment."
+},
+{
+"key": "part12.html#595",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#596",
+"fr": "Le classement en cinq branches est-il appliqué avec constance ? Les différences entre la Corée et l’étranger sont-elles cernées avec précision ?"
+},
+{
+"key": "part12.html#597",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#598",
+"fr": "Une comparaison qui a mis en regard les formulations larges des offres coréennes et les formulations précises des offres étrangères, et conclu sur ce que le portfolio doit montrer davantage."
+},
+{
+"key": "part12.html#599",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#600",
+"fr": "Vision et expertise de l’étudiant"
+},
+{
+"key": "part12.html#601",
+"fr": "Quelle vision et quelle expertise les étudiants doivent-ils avoir ? Il n’y a pas de réponse à « que dois-je apprendre pour être à l’abri ? ». Savoir manier un outil se périme en 2–3 ans au plus. La meilleure question est : « quelles capacités gardent leur valeur quels que soient les changements ? »"
+},
+{
+"key": "part12.html#602",
+"fr": "<span class=\"ph-id\">P12-STARTUP</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Se lancer</b>Deux jeunes fondateurs, diapositives à l’appui, présentant leur start-up de contenus vidéo à des investisseurs</span>"
+},
+{
+"key": "part12.html#603",
+"fr": "<b>Note</b>Se lancer – quand la porte d’entrée se rétrécit, devenir son propre client est aussi une voie de carrière"
+},
+{
+"key": "part12.html#604",
+"fr": "Les outils génératifs produisent très vite des résultats moyennement plausibles. La valeur d’une production moyenne tend donc vite vers 0, et ce qui prend de la valeur, c’est le jugement qui s’écarte de la moyenne : la capacité d’expliquer « pourquoi il faut que ce soit cela »."
+},
+{
+"key": "part12.html#605",
+"fr": "Quatre choses qui gardent leur valeur"
+},
+{
+"key": "part12.html#606",
+"fr": "<small>Définir le problème</small>Traduire les symptômes en causes"
+},
+{
+"key": "part12.html#607",
+"fr": "Transformer « faites-nous une vidéo » en « il nous faut plus de premières visites de nouveaux clients »"
+},
+{
+"key": "part12.html#608",
+"fr": "<small>Fondements du jugement</small>Pourquoi celle-ci parmi dix"
+},
+{
+"key": "part12.html#609",
+"fr": "Dix ébauches prennent quelques minutes"
+},
+{
+"key": "part12.html#610",
+"fr": "Celui qui sait dire pourquoi il a choisi devient le responsable"
+}
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "key": "part01.html#271",
+  "find": "Début années 2010",
+  "replace": "Début des années 2010",
+  "why": "grammar: missing article"
+ },
+ {
+  "key": "part01.html#445",
+  "find": "Téléphone · smartphone",
+  "replace": "Téléphone photo · smartphone",
+  "why": "meaning: camera phone"
+ },
+ {
+  "key": "part01.html#457",
+  "find": "Téléphones et smartphones",
+  "replace": "Téléphones photo et smartphones",
+  "why": "meaning: camera phones"
+ },
+ {
+  "key": "part01.html#559",
+  "find": "En faisant tourner vite un disque, les images",
+  "replace": "Quand on fait tourner vite un disque, les images",
+  "why": "grammar: dangling gerund"
+ },
+ {
+  "key": "part01.html#662",
+  "find": "sur quel appareil elle sera regardée",
+  "replace": "sur quel appareil la vidéo sera regardée",
+  "why": "meaning: pronoun referred to the proposal instead of the video"
+ }
+]

@@ -1,0 +1,654 @@
+<!-- PART 05 편집과 후반 작업 -->
+<section class="part" id="part5">
+  <div class="photo"><img src="img_new/OPEN-EDIT.jpg" alt=""><div class="label">PARTIE</div><div class="num"><small>PARTIE</small>05</div></div>
+  <div class="body">
+    <div class="makes"><b>Ce que vous réalisez dans cette PARTIE</b><ol><li>Un montage d’1 minute, resserré par des coupes motivées</li><li>Une animation de logo de 5 secondes avec amorti (easing)</li><li>Un master de livraison : compositing · étalonnage · normes de sortie</li></ol></div>
+    <div><h1>Montage et postproduction</h1><p class="intro">Le tournage récolte la matière ; le montage fabrique le sens. Changez l’ordre et la durée, et les mêmes images deviennent une autre vidéo. Cette PARTIE va de l’histoire et des principes du montage à une cartographie de Premiere Pro, After Effects et DaVinci Resolve. La question qui ouvre ce chapitre : qu’est-ce qui retient le public jusqu’au bout ?</p></div>
+  </div>
+  <div class="credit">Photo P-05 Salle de montage, la nuit – timeline et moniteur d’étalonnage · image générée</div>
+</section>
+
+<section class="howto page">
+  <figure class="hero wide"><img src="img/p183_210_1344x752.png" alt=""><figcaption><b>P-05</b> Salle de montage, la nuit – timeline et moniteur d’étalonnage</figcaption></figure>
+  <div class="kicker">Utiliser ce chapitre en cours</div>
+  <p class="goal">Couper pour une raison et appliquer l’amorti (easing)</p>
+  <p class="prep"><b>Matériel</b>Logiciel de montage installé, dossier de rushes d’exercice, 1 morceau de musique</p>
+  <div class="timeline">
+    <div class="slot"><b>10 min</b><i>Intro</i><span>Projeter deux montages : musique posée en premier ou en dernier</span></div>
+    <div class="slot"><b>15 min</b><i>Notions</i><span>8 principes de montage, raccords dans le mouvement et raccords de forme, rôles de Premiere et d’After Effects</span></div>
+    <div class="slot"><b>10 min</b><i>Planches</i><span>Expliquer l’amorti avec la balle qui rebondit et les schémas de timing</span></div>
+    <div class="slot"><b>10 min</b><i>Exercice</i><span>Mêmes rushes, deux montages de 30 secondes</span></div>
+    <div class="slot"><b>5 min</b><i>Bilan</i><span>Convenir du nommage des dossiers de projet</span></div>
+  </div>
+  <div class="check"><b>Point de contrôle</b>Vous savez dire en une ligne pourquoi vous avez fait chaque coupe</div>
+</section>
+
+<section class="essay page" id="intro-5">
+  <header><div class="crumb">PARTIE 05</div><h2>Introduction</h2></header>
+  <div class="cols">
+    <p>Le tournage récolte la matière ; le montage fabrique le sens. Changez l’ordre et la durée, et les mêmes images donnent une vidéo tout autre. Koulechov l’a prouvé il y a 100 ans, et cela vaut plus encore à l’ère de la vidéo courte, aux plans toujours plus brefs.</p>
+    <p>Cette partie part de l’histoire des techniques de montage et expose méthodiquement les fonctions de Premiere Pro et d’After Effects. Les listes de fonctions sont une carte, pas une leçon à apprendre par cœur. Sachez de quelle zone de quel outil relève un problème, et une recherche le résout ; sans carte, on erre des heures.</p>
+    <p>After Effects, en particulier, ne pense pas comme Premiere. Premiere traite le temps à l’horizontale ; After Effects traite les calques à la verticale. Vouloir monter dans After Effects sans le savoir est l’erreur classique du débutant. Répartir simplement les rôles entre les deux outils divise par deux le temps de travail.</p>
+  </div>
+</section>
+
+<section class="essay page" id="essay-7">
+  <header><div class="crumb">Contexte 7</div><h2>Le montage invisible</h2></header>
+  <div class="cols">
+    <p>Un bon montage fait oublier le montage au public. Une coupe tranche le temps et l’espace, et pourtant le public doit la ressentir comme un flux naturel.</p>
+    <p>Dans En un clin d’œil (1995), le monteur Walter Murch compare le clignement d’œil à une coupe. Nous clignons des yeux quand une pensée change ou que le regard se déplace. De même, une bonne coupe tombe là où s’achève un paragraphe de la pensée du spectateur. Le monteur regarde donc d’abord non pas l’écran, mais le point où en est l’esprit du public.</p>
+    <p>Murch a hiérarchisé les critères d’une coupe : émotion 51 %, histoire 23 %, rythme 10 %, trajet du regard 7 %, plan bidimensionnel de l’écran 5 %, continuité de l’espace tridimensionnel 4 %. L’ordre compte plus que les chiffres : choisissez la coupe à l’émotion juste, quitte à ce que la continuité flanche un peu. Les travaux d’étudiants inversent souvent cet ordre : ils s’accrochent aux raccords de mouvement et perdent le fil de l’émotion.</p>
+    <p>Les techniques de continuité – raccord dans le mouvement, raccord regard, règle des 180° – évitent toutes au public de se perdre dans l’espace et le temps. La tradition du montage d’Eisenstein faisait l’inverse : elle exhibait les coutures pour créer le choc et le sens. Le monteur choisit, au cas par cas, de cacher les coutures ou de les montrer.</p>
+    <p>Le montage est aussi un art du temps. Des plans plus courts font monter la tension ; des plans plus longs laissent au public le temps de penser. Si les plans s’accélèrent dans la pub et la vidéo courte, ce n’est pas seulement pour y loger plus d’information, mais pour recapter sans cesse l’attention.</p>
+    <p>Le montage numérique non linéaire a rendu tout annulable, mais il ne fournit pas le jugement. Tout en apprenant le logiciel, prenez l’habitude de vous demander à chaque coupe : « Que ressent le public en ce moment ? » Pour aller plus loin : Walter Murch, En un clin d’œil ; Ken Dancyger, The Technique of Film and Video Editing.</p>
+  </div>
+</section>
+
+<article class="sec page" id="s5-1">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.1</div>
+    <h2>Histoire des outils de montage</h2>
+    <p class="lead">Les outils sont passés des ciseaux à pellicule à l’IA générative ; l’ossature du travail n’a guère changé.</p>
+  </header>
+  <div class="gallery cols-2 wide big"><div class="title"><b>Photos de référence 5.1A</b>Images générées – l’époque de la colleuse</div>
+    <figure class="ph" data-id="P05-SPLICER" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. editor's hands at a vintage 35mm film splicer, cut film strips, tape, a pair of white cotton gloves, warm lamp">
+      <div class="ph-box"><span class="ph-id">P05-SPLICER</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Quand on coupait et collait la pellicule</b>Les mains d’un monteur sur une colleuse, des bandes de pellicule coupées et du ruban adhésif</span></div>
+      <figcaption><b>a</b>Colleuse – outil qui coupe physiquement la pellicule et la raccorde au ruban adhésif ou à la colle. On appelle encore « coupe » l’unité du montage, en souvenir de ce geste physique : couper la pellicule aux ciseaux.</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-FLATBED" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a flatbed film editing table with reels, small viewing screen and film threaded through, dim editing room">
+      <div class="ph-box"><span class="ph-id">P05-FLATBED</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Table de montage à plat</b>Table de montage horizontale à bobines et petit écran, salle de montage sombre</span></div>
+      <figcaption><b>b</b>Table de montage à plat – une table horizontale, comme la Steenbeck, où l’on faisait défiler la pellicule d’avant en arrière pour trouver le point de coupe. C’est là que s’exerçait le toucher qui compte les images du bout des doigts.</figcaption>
+    </figure>
+  </div>
+  <aside class="term"><b>EDL</b><p>Liste de décisions de montage (edit decision list). Document de référence pour reconstruire en haute qualité, à l’étape online, les décisions prises au montage offline.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Période</th><th>Ce qui a changé</th></tr></thead>
+    <tbody>
+      <tr><td>années 20</td><td>Montage physique : on coupe et on colle la pellicule à la main. Les monteurs font défiler le film sur Moviola et Steenbeck pour trouver les points et comptent les images du bout des doigts.</td></tr>
+      <tr><td>1956–</td><td>Arrivée de la bande vidéo. Le montage devient un assemblage linéaire, par copie entre deux magnétoscopes.</td></tr>
+      <tr><td>années 70–80</td><td>Normalisation du timecode, apparition de l’EDL. La méthode en 2 étapes s’impose : décider en offline, reconstruire en haute qualité en online.</td></tr>
+      <tr><td>1989</td><td>Les systèmes de montage non linéaire sont commercialisés. Avec l’accès direct, monter devient un travail de pensée : réagencer la matière.</td></tr>
+      <tr><td>1991–1999</td><td>Les logiciels de montage sur ordinateur arrivent par vagues. L’ordinateur personnel devient salle de montage et le coût d’entrée s’effondre.</td></tr>
+      <tr><td>années 2000</td><td>Passage à la HD, multiplication des codecs. Le montage en proxy se généralise.</td></tr>
+      <tr><td>années 2010</td><td>Collaboration dans le cloud, harmonisation automatique des couleurs, accélération GPU. Un outil d’étalonnage professionnel devient gratuit et la correction colorimétrique, une compétence courante.</td></tr>
+      <tr><td>années 2020</td><td>Applis de montage mobiles, sous-titres automatiques, découpe automatique. L’IA générative devient assistante de montage ; le 1er montage brut (l’ours) s’automatise tandis que l’humain se concentre sur le jugement.</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>Les habitudes héritées de l’histoire</h4><p>L’ancienne séparation entre offline et online survit dans le montage en proxy d’aujourd’hui. EDL et timecode restent la base du travail collectif, et le sens de la précision à l’image près, hérité de la Moviola, distingue toujours un bon monteur.</p></div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.1</div>
+    <dl><dt>Tâche</dt><dd>Réalisez deux versions de la même scène : l’une assemblée strictement dans l’ordre, comme à l’époque de la Moviola, l’autre montée en non linéaire.</dd><dt>Conseil</dt><dd>Fixez une règle : aucune annulation dans la version montée dans l’ordre.</dd><dt>Évaluation</dt><dd>Effet de la méthode sur la manière de travailler</dd><dt>Corrigé type</dt><dd>Consignez le temps de travail et le résultat des deux méthodes.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-2">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.2</div>
+    <h2>Principes de base du montage</h2>
+    <p class="lead">Ne coupez pas parce que c’est ennuyeux, mais quand le plan suivant apporte une meilleure information.</p>
+  </header>
+  <figure class="ph wide" data-id="P05-NLE" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. editor at a dual-monitor nonlinear editing suite, timeline with color-coded clips, a reference monitor showing a city shot">
+    <div class="ph-box"><span class="ph-id">P05-NLE</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Montage non linéaire</b>Une station de montage à deux écrans, une timeline de clips colorés et un moniteur de référence</span></div>
+    <figcaption><b>Note</b>Montage non linéaire – avec l’accès instantané à n’importe quel point, monter n’est plus « couper » mais « penser en choisissant et en ordonnant »</figcaption>
+  </figure>
+  <figure class="fg wide"><div class="ttl">Lire la timeline en quatre lignes</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><text x="62" y="46" text-anchor="end" font-weight="500" fill="#1B1B1D">V2 Titres</text><rect x="117.6" y="30" width="65.6" height="24" fill="#D8C7CB"/><rect x="317.5" y="30" width="65.6" height="24" fill="#D8C7CB"/><text x="62" y="78" text-anchor="end" font-weight="500" fill="#1B1B1D">V1 Vidéo</text><rect x="70.0" y="62" width="141.8" height="24" fill="#B9B5AC"/><rect x="212.8" y="62" width="132.3" height="24" fill="#8E8A82"/><rect x="346.1" y="62" width="198.9" height="24" fill="#B9B5AC"/><text x="62" y="120" text-anchor="end" font-weight="500" fill="#1B1B1D">A1 Dialogues</text><rect x="70.0" y="104" width="170.4" height="24" fill="#C9D6D0"/><rect x="241.4" y="104" width="75.2" height="24" fill="#A8BFB4"/><rect x="317.5" y="104" width="227.5" height="24" fill="#C9D6D0"/><text x="62" y="152" text-anchor="end" font-weight="500" fill="#1B1B1D">A2 Musique · SFX</text><rect x="70.0" y="136" width="475.0" height="24" fill="#EFE9DF"/><line x1="212.8" y1="56" x2="212.8" y2="90" stroke="#1B1B1D" stroke-width="1.2"/><line x1="241.4" y1="98" x2="241.4" y2="132" stroke="#1B1B1D" stroke-width="1.2"/><path d="M212.8,88 L212.8,96 L241.4,96 L241.4,100" fill="none" stroke="#7A1C2B" stroke-width="1.4"/><text x="227.1" y="176" text-anchor="middle" fill="#7A1C2B" font-weight="500">Coupe en L</text><text x="241.4" y="188" text-anchor="end" fill="#3C3C40" font-size="8">Le son du plan précédent se prolonge</text><line x1="346.1" y1="56" x2="346.1" y2="90" stroke="#1B1B1D" stroke-width="1.2"/><line x1="317.5" y1="98" x2="317.5" y2="132" stroke="#1B1B1D" stroke-width="1.2"/><path d="M346.1,88 L346.1,96 L317.5,96 L317.5,100" fill="none" stroke="#7A1C2B" stroke-width="1.4"/><text x="331.8" y="176" text-anchor="middle" fill="#7A1C2B" font-weight="500">Coupe en J</text><text x="317.5" y="188" text-anchor="start" fill="#3C3C40" font-size="8">Le son du plan suivant entre en avance</text><line x1="279.4" y1="20" x2="279.4" y2="164" stroke="#7A1C2B" stroke-width="1.6"/><polygon points="274.4,14 284.4,14 279.4,22" fill="#7A1C2B"/><text x="285.4" y="18" fill="#7A1C2B" font-size="8">Tête de lecture</text><text x="70" y="214" fill="#1B1B1D" font-weight="500">Décalez les coupes image et son, et le raccord coule. Coupez les deux au même point, et ça « claque ».</text></svg><figcaption><b>Fig. 46</b> Structure d’une timeline de montage – les deux lignes du haut sont « ce qu’on voit », les deux du bas « ce qu’on entend ». Les coupes en J et en L placent la coupe son avant ou après la coupe image.</figcaption></figure>
+  <aside class="tip"><b>CONSEIL</b><p>Posez le son d’abord. Calez le timing de la musique et des dialogues, puis posez l’image par-dessus : la finition y gagne.</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>Ne coupez que pour une raison : quand le plan suivant informe mieux.</span></li>
+    <li><b>02</b><span>Coupez en plein mouvement. Coupez après la fin de l’action, et le rythme retombe.</span></li>
+    <li><b>03</b><span>Posez le son d’abord. Calez le timing de la musique et des dialogues, puis ajoutez l’image.</span></li>
+    <li><b>04</b><span>Changez la valeur de plan et l’angle ensemble. N’en changez qu’un, et cela ressemble à une saute.</span></li>
+    <li><b>05</b><span>Respectez les regards. Si un personnage qui regardait à gauche regarde à droite au plan suivant, la relation se brise.</span></li>
+    <li><b>06</b><span>Jetez sans trembler. Gardez un plan parce qu’il a coûté cher, et la vidéo traîne.</span></li>
+    <li><b>07</b><span>Verrouillez d’abord l’ouverture et la fin. Une fois celles-ci fixées, le milieu se règle de lui-même.</span></li>
+    <li><b>08</b><span>Revoyez le montage un jour après l’avoir fini. Les longueurs invisibles ce jour-là apparaîtront.</span></li>
+  </ol>
+  <blockquote class="pull">Gardez les plans nécessaires, pas les beaux plans.<small>5.2 Principes de base du montage</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.2</div>
+    <dl><dt>Tâche</dt><dd>Ramenez 3 minutes de rushes à 1 minute. Listez ce que vous avez jeté.</dd><dt>Conseil</dt><dd>Gardez les plans nécessaires, pas les beaux plans. Commencez chaque plan en plein mouvement.</dd><dt>Évaluation</dt><dd>Clarté du récit, points de coupe naturels</dd><dt>Corrigé type</dt><dd>Les priorités de montage de Walter Murch (émotion, histoire, rythme). Une ligne sur la raison de chaque plan écarté.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-3">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.3</div>
+    <h2>Comparer les logiciels de montage</h2>
+    <p class="lead">Pour l’emploi, mieux vaut connaître deux outils à fond que trois en surface.</p>
+  </header>
+  <aside class="note"><b>Note</b><p>À vérifier d’abord : les conditions d’usage commercial de CapCut et, pour Final Cut, l’exclusivité Mac et les limites du travail collaboratif.</p></aside>
+  <table class="t compact wide">
+    <thead><tr><th>Outil</th><th>Points forts</th><th>Points faibles</th><th>Idéal pour</th><th>Tarif</th></tr></thead>
+    <tbody>
+      <tr><td>Premiere Pro</td><td>Polyvalence, lien avec After Effects, standard d’embauche en Corée</td><td>Stabilité inégale, projets corrompus</td><td>Pub, vidéo web, l’essentiel du travail pro</td><td>Abonnement</td></tr>
+      <tr><td>Final Cut Pro</td><td>Vitesse, stabilité, timeline magnétique</td><td>Mac uniquement, collaboration limitée</td><td>Créateurs solo, utilisateurs Mac</td><td>Achat unique</td></tr>
+      <tr><td>DaVinci Resolve</td><td>Étalonnage de premier ordre, version gratuite solide</td><td>Courbe d’apprentissage, machine puissante requise</td><td>Travaux axés couleur, sans budget</td><td>Gratuit + édition payante</td></tr>
+      <tr><td>After Effects</td><td>Compositing, motion design, espace 3D</td><td>Inadapté au montage</td><td>Titres, VFX, infographies</td><td>Abonnement</td></tr>
+      <tr><td>CapCut</td><td>Sous-titres automatiques, modèles, synchro mobile</td><td>Vérifier les conditions d’usage commercial</td><td>Vidéos courtes, travaux rapides</td><td>Gratuit + payant</td></tr>
+      <tr><td>Vrew</td><td>Sous-titres par transcription, suppression des silences</td><td>Précision limitée</td><td>Cours, interviews, vidéos explicatives</td><td>Gratuit + payant</td></tr>
+      <tr><td>Avid Media Composer</td><td>Grandes équipes, standard de la télévision</td><td>Barrière d’entrée élevée</td><td>Séries télé, chaînes</td><td>Abonnement</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>Par quoi commencer</h4><p>Les offres d’emploi coréennes demandent le plus souvent Premiere Pro et After Effects. Ajoutez DaVinci Resolve pour approfondir la couleur, ou CapCut si vous produisez beaucoup de vidéos courtes.</p></div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.3</div>
+    <dl><dt>Tâche</dt><dd>Faites le même montage de 10 plans dans deux logiciels de montage et comparez les méthodes de travail.</dd><dt>Conseil</dt><dd>Concentrez la comparaison sur les raccourcis et la structure du projet.</dd><dt>Évaluation</dt><dd>Points de comparaison précis, raisons de votre choix</dd><dt>Corrigé type</dt><dd>Dressez un tableau des outils recommandés par usage (vidéo courte, pub, long métrage).</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-4">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.4</div>
+    <h2>Premiere Pro en un coup d’œil</h2>
+    <p class="lead">Connaissez le rôle de chaque panneau et ayez en tête une carte du moment où servent les 20 fonctions : une recherche résoudra n’importe quel problème.</p>
+  </header>
+  <aside class="tip"><b>CONSEIL</b><p>Répartir les chutiers par jour de tournage, scène, musique et graphismes : c’est l’habitude qui fait votre vitesse de montage.</p></aside>
+  <h3>Organisation de l’espace de travail</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Gérer</small>Panneau Projet</h4><ul><li>Le tiroir des fichiers sources</li><li>Chutiers par jour de tournage · scène · musique · graphismes</li></ul></div>
+    <div class="card"><h4><small>Vérifier</small>Moniteur source</h4><ul><li>Voir les rushes, poser les points d’entrée · de sortie</li><li>Trier ici les clips avant la timeline</li></ul></div>
+    <div class="card"><h4><small>Vérifier</small>Moniteur du programme</h4><ul><li>La fenêtre qui montre votre montage</li><li>Garder affichés les repères de zones de sécurité et les marges</li></ul></div>
+    <div class="card"><h4><small>Monter</small>Timeline</h4><ul><li>Là où se fait réellement le montage</li><li>Les pistes vidéo s’empilent vers le haut, les pistes audio vers le bas</li></ul></div>
+    <div class="card"><h4><small>Effets</small>Panneau Effets · Effect Controls</h4><ul><li>Transitions et effets ; mettre en favoris ceux qui servent souvent</li><li>Régler position · échelle · rotation · opacité et valeurs d’effet, ajouter des images clés</li></ul></div>
+    <div class="card"><h4><small>Couleur</small>Lumetri Color</h4><ul><li>Panneau dédié à la couleur</li><li>Basic Correction, Creative, Curves, Color Wheels, HSL Secondary, Vignette</li></ul></div>
+    <div class="card"><h4><small>Graphismes</small>Essential Graphics</h4><ul><li>Titres et modèles graphiques</li><li>Charger un modèle d’animation graphique et ne changer que le texte</li></ul></div>
+    <div class="card"><h4><small>Son</small>Audio Track Mixer</h4><ul><li>Volume et panoramique par piste</li><li>Gérer les effets audio</li></ul></div>
+    <div class="card"><h4><small>Son</small>Essential Sound</h4><ul><li>Étiqueter dialogue · musique · SFX · ambiance pour un traitement automatique</li><li>Réduction du bruit des dialogues, normalisation du niveau sonore</li></ul></div>
+  </div>
+  <h3>20 fonctions à connaître absolument</h3>
+  <table class="t compact wide">
+    <thead><tr><th>Fonction</th><th>Ce qu’elle fait</th><th>Quand l’utiliser</th></tr></thead>
+    <tbody>
+      <tr><td>Réglages de séquence</td><td>Définir résolution, fps, format d’image</td><td>En tout premier dans un nouveau projet</td></tr>
+      <tr><td>Création de proxys</td><td>Monter avec des doublures légères</td><td>Rushes 4K et plus, PC peu puissant</td></tr>
+      <tr><td>Montage multicaméra</td><td>Synchroniser plusieurs caméras et commuter</td><td>Événements, interviews, émissions</td></tr>
+      <tr><td>Synchro audio</td><td>Synchro automatique par forme d’onde</td><td>Avec un enregistreur externe</td></tr>
+      <tr><td>Propagation (ripple)</td><td>Rogne, et la suite se resserre</td><td>Tout le montage brut</td></tr>
+      <tr><td>Modification compensée (rolling)</td><td>Ne déplace que le point de coupe</td><td>Ajuster finement le timing</td></tr>
+      <tr><td>Déplacer dessous / dessus (slip, slide)</td><td>Change le contenu ou la position, même durée</td><td>Changer le contenu, garder le rythme</td></tr>
+      <tr><td>Marqueurs</td><td>Repères et notes sur la timeline</td><td>Intégrer les retours, marquer les temps</td></tr>
+      <tr><td>Imbrication</td><td>Regroupe des clips en un seul</td><td>Effets sur un groupe</td></tr>
+      <tr><td>Calque d’effets</td><td>Effets sur tous les clips du dessous d’un coup</td><td>Étalonnage global, grain</td></tr>
+      <tr><td>Changement de vitesse</td><td>Ralenti, accéléré, inversion</td><td>Ralenti, time-lapse</td></tr>
+      <tr><td>Interpolation temporelle</td><td>Fusion d’images, flux optique</td><td>Ralenti fluide</td></tr>
+      <tr><td>Masques et suivi</td><td>Effets sur une seule zone</td><td>Flouter des visages, masquer des logos</td></tr>
+      <tr><td>Warp Stabilizer</td><td>Supprime les tremblements</td><td>Plans à main levée</td></tr>
+      <tr><td>LUT Lumetri</td><td>Convertit les rushes en Log</td><td>Étape 1 de l’étalonnage</td></tr>
+      <tr><td>Color Match</td><td>Harmonise la couleur de deux plans</td><td>Plans de caméras différentes</td></tr>
+      <tr><td>Sous-titres automatiques</td><td>Sous-titres par reconnaissance vocale</td><td>Interviews, vidéos explicatives</td></tr>
+      <tr><td>Modèles Essential Graphics</td><td>Réutiliser des styles de titres récurrents</td><td>Contenus en série</td></tr>
+      <tr><td>Reliaison des médias offline</td><td>Reconnecter les sources au chemin rompu</td><td>Après un déplacement de dossiers</td></tr>
+      <tr><td>Project Manager</td><td>Rassemble uniquement les médias utilisés</td><td>Sauvegarde, remise au prestataire</td></tr>
+    </tbody>
+  </table>
+  <h3>Raccourcis courants</h3>
+  <table class="t compact">
+    <thead><tr><th>Raccourci</th><th>Fonction</th><th>Raccourci</th><th>Fonction</th></tr></thead>
+    <tbody>
+      <tr><td>C</td><td>Outil Cutter</td><td>V</td><td>Outil Sélection</td></tr>
+      <tr><td>A</td><td>Sélection de piste vers l’avant</td><td>B</td><td>Outil Propagation</td></tr>
+      <tr><td>I / O</td><td>Point d’entrée / de sortie</td><td>Espace</td><td>Lecture et arrêt</td></tr>
+      <tr><td>Q / W</td><td>Raccord par propagation préc. / suiv.</td><td>M</td><td>Ajouter un marqueur</td></tr>
+      <tr><td>Ctrl+K</td><td>Couper à la tête de lecture</td><td>Maj+Suppr</td><td>Supprimer et raccorder</td></tr>
+      <tr><td>J / K / L</td><td>Retour / arrêt / lecture</td><td>Flèches</td><td>Déplacer d’1 image</td></tr>
+      <tr><td>Ctrl+M</td><td>Exporter</td><td>Ctrl+S</td><td>Enregistrer</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.4</div>
+    <dl><dt>Tâche</dt><dd>Terminez une vidéo d’1 minute dans Premiere Pro : montage, sous-titres, nettoyage audio, couleur et export.</dd><dt>Conseil</dt><dd>Alignez les réglages de séquence sur la source et configurez tôt vos raccourcis.</dd><dt>Évaluation</dt><dd>Timeline ordonnée, normes de sortie respectées</dd><dt>Corrigé type</dt><dd>Séparez les pistes par rôle (dialogues, SFX, musique) et attribuez-leur des couleurs.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-5">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.5</div>
+    <h2>After Effects en un coup d’œil</h2>
+    <p class="lead">After Effects n’est pas un outil de montage : il sert à empiler, animer et composer des éléments à l’intérieur d’une même image. Premiere traite le temps à l’horizontale ; After Effects traite les calques à la verticale.</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">Monter dans le temps, composer en calques</div><div class="grid plan"><img src="img_new/LAYERS-ISO.jpg"><ol class="misel"><li><i>6</i><span><b>Caméra</b> – caméra virtuelle – voit tous les calques</span></li><li><i>5</i><span><b>Lumière</b> – ombre et luminosité, pour les calques 3D seulement</span></li><li><i>4</i><span><b>Texte 3D</b> – lettres en volume – les flancs apparaissent quand la caméra tourne</span></li><li><i>3</i><span><b>Personnage (détouré)</b> – prise de vues, fond supprimé</span></li><li><i>2</i><span><b>Plan intermédiaire</b> – graphismes · dégradé – profondeur</span></li><li><i>1</i><span><b>Fond</b> – tout en bas – image de base</span></li><li class="x">Le calque du haut est le premier plan de l’image. Changez l’ordre, et ce qui est caché change : on monte dans le temps, on compose en calques.</li></ol></div><figcaption><b>Fig. 47</b> La pile de calques d’After Effects – six calques empilés de bas en haut. Caméra et lumière ne sont pas des images, mais des « façons de voir les calques ».</figcaption></figure>
+  <aside class="term"><b>P · S · R · T</b><p>Position, échelle, rotation, opacité. Les raccourcis qui affichent les cinq propriétés d’images clés de base.</p></aside>
+  <h3>Notions clés</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Unité</small>Composition</h4><ul><li>Le canevas de base. Résolution · cadence d’images · durée se fixent ici</li><li>À vérifier d’abord – une erreur, et tout est à refaire</li></ul></div>
+    <div class="card"><h4><small>Élément</small>Calque</h4><ul><li>Les calques du haut recouvrent ceux du bas</li><li>Métrage, solide, texte, forme, caméra, lumière, objet nul</li></ul></div>
+    <div class="card"><h4><small>Mouvement</small>Image clé</h4><ul><li>Marque l’instant où une valeur change</li><li>Bases : position · échelle · rotation · opacité, raccourcis P S R T</li></ul></div>
+    <div class="card"><h4><small>Groupe</small>Précomposition</h4><ul><li>Réunit plusieurs calques en un seul</li><li>La clé pour maîtriser l’ordre des effets</li></ul></div>
+    <div class="card"><h4><small>Découpe</small>Cache par approche</h4><ul><li>Découpe selon la forme (alpha) ou la luminosité (luma) d’un autre calque</li><li>Sert sans cesse à masquer du texte 3D</li></ul></div>
+    <div class="card"><h4><small>Hiérarchie</small>Parentage</h4><ul><li>Lie un calque à un autre pour qu’ils bougent ensemble</li><li>Parenter à un objet nul pour piloter d’un bloc un mouvement complexe</li></ul></div>
+    <div class="card"><h4><small>Calcul</small>Expressions</h4><ul><li>Valeurs par formule : boucles · wiggle · liens, sans images clés</li><li>wiggle et loopOut sont les indispensables pour débuter</li></ul></div>
+  </div>
+  <h3>Fonctions par catégorie</h3>
+  <table class="t compact wide">
+    <thead><tr><th>Catégorie</th><th>Fonctions principales</th><th>Usage pratique</th></tr></thead>
+    <tbody>
+      <tr><td>Texte</td><td>Animations de texte, Texte source, texte sur tracé</td><td>Titres, sous-titres animés, apparition de slogans</td></tr>
+      <tr><td>Formes</td><td>Calques de forme, Trim Paths, Repeater</td><td>Infographies, animation de lignes, transitions de formes</td></tr>
+      <tr><td>Masques</td><td>Masques à la plume, contour progressif, expansion du masque</td><td>Révélations partielles, transitions</td></tr>
+      <tr><td>Roto</td><td>Roto Brush, Refine Edge</td><td>Détourer une personne quand l’incrustation est impossible</td></tr>
+      <tr><td>Incrustation</td><td>Keylight, Spill Suppressor, Advanced Spill</td><td>Compositing sur fond vert</td></tr>
+      <tr><td>Suivi</td><td>Point 2D, quatre coins, 3D Camera Tracker, Mocha</td><td>Fixer des éléments, remplacer des écrans</td></tr>
+      <tr><td>3D</td><td>Calques 3D, caméras, lumières, ombres, profondeur de champ</td><td>Titres 3D, mise en scène dans l’espace</td></tr>
+      <tr><td>Marionnette</td><td>Coins de marionnette, outil Amidon</td><td>Animer des personnages illustrés</td></tr>
+      <tr><td>Temps</td><td>Remappage temporel, Force Motion Blur, Pixel Motion</td><td>Changements de rythme, rampes de vitesse</td></tr>
+      <tr><td>Couleur</td><td>Lumetri Color, Courbes, Balance des couleurs</td><td>Raccorder la couleur des éléments</td></tr>
+      <tr><td>Effets</td><td>Lueur, flou, déplacement, Fractal Noise</td><td>Lumière, distorsion, texture</td></tr>
+      <tr><td>Sortie</td><td>File d’attente de rendu, lien Media Encoder</td><td>Sortie avec alpha, livraison finale</td></tr>
+    </tbody>
+  </table>
+  <h3>Ordre de travail : texte 3D et éclairage</h3>
+  <aside class="tip"><b>CONSEIL</b><p>Calez la focale de la caméra sur celle de l’objectif du tournage, sinon la perspective ne raccordera pas.</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>Choisissez la police. En extrusion 3D, un interlettrage serré fait se heurter les faces : espacez les lettres et prenez un gras.</span></li>
+    <li><b>02</b><span>Passez le calque de texte en 3D et réglez la profondeur d’extrusion. 15–30 % de la hauteur des lettres est une valeur sûre.</span></li>
+    <li><b>03</b><span>Réglez la matière. Métal : reflets et hautes lumières ; mat : surtout de la diffusion.</span></li>
+    <li><b>04</b><span>Ajoutez une caméra. Calez sa focale sur celle de l’objectif du tournage.</span></li>
+    <li><b>05</b><span>Placez les lumières. Repérez la direction des ombres dans les images tournées et réglez la lumière principale sous le même angle.</span></li>
+    <li><b>06</b><span>Créez un calque de sol pour recevoir les ombres. Sans lui, le texte ressemble à un autocollant flottant dans l’air.</span></li>
+    <li><b>07</b><span>Animez. Par défaut, décélération (ease out) à l’entrée, accélération (ease in) à la sortie.</span></li>
+    <li><b>08</b><span>Activez le flou de mouvement et accordez le grain à celui des prises de vues réelles.</span></li>
+  </ol>
+  <h3>Amorti (accél. · décél.) : valeurs de référence</h3>
+  <aside class="term"><b>Amorti (easing)</b><p>Courbe d’accélération · décélération d’un mouvement. Le linéaire est mécanique ; Easy Ease ralentit au départ et à l’arrivée. Façonnez-la comme une courbe de vitesse dans l’éditeur de graphiques.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Type d’amorti</th><th>Effet</th><th>Usage</th><th>Images à 24 fps</th></tr></thead>
+    <tbody>
+      <tr><td>Linéaire</td><td>Mécanique, sans vie</td><td>Boucles sans fin, fonds en rotation</td><td>-</td></tr>
+      <tr><td>Décél. (ease out)</td><td>Arrive vite, se pose en douceur</td><td>Entrées</td><td>10–15 images</td></tr>
+      <tr><td>Accél. (ease in)</td><td>Part lentement, file en accélérant</td><td>Sorties</td><td>8–12 images</td></tr>
+      <tr><td>Accél.·décél. (ease in-out)</td><td>Le plus naturel</td><td>Mouvements courants</td><td>12–18 images</td></tr>
+      <tr><td>Dépassement</td><td>Dépasse la cible, puis revient</td><td>Révélations de logo dynamiques</td><td>15–20 images</td></tr>
+      <tr><td>Rebond</td><td>Rebondit avant de s’immobiliser</td><td>Contenus décontractés, jeunesse</td><td>20–25 images</td></tr>
+    </tbody>
+  </table>
+  <h3>Motion design : ordre des corrections</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>Appliquer l’amorti</i>Aucune cassure à angle droit dans la courbe de vitesse</div>
+    <div class="step"><b>02</b><i>Ajouter l’anticipation</i>Partir d’abord en sens inverse</div>
+    <div class="step"><b>03</b><i>Décaler la continuité</i>Laisser traîner les parties attachées</div>
+    <div class="step"><b>04</b><i>Pousser l’exagération</i>Plus grand que nature</div>
+  </div>
+  <p>Appliquez seulement ces quatre étapes dans l’ordre, et l’aspect débutant disparaît. Une courbe de vitesse qui casse à angle droit dans l’éditeur de graphiques paraît toujours maladroite : arrondissez-la.</p>
+  <h3>Ce que les mises à jour récentes ont changé</h3>
+  <aside class="note"><b>Note</b><p>Les noms et le comportement des fonctions changent d’une version à l’autre. Avant l’exercice, consultez les notes de nouveautés de la version installée.</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Roto</small>Roto Brush 3.0</h4><ul><li>Roto Brush à modèle d’IA. Quelques traits grossiers sur une image suffisent à suivre cheveux · contours flous</li><li>Désormais l’outil standard pour détourer des personnes filmées sans fond vert</li></ul></div>
+    <div class="card"><h4><small>3D</small>Moteur de rendu 3D avancé</h4><ul><li>Importez des modèles 3D .glb · .gltf · .obj · .fbx directement dans une composition</li><li>Lumières 3D, ombres et lumière d’environnement qui se fondent dans les prises de vues réelles</li></ul></div>
+    <div class="card"><h4><small>Caméra</small>Caméra 3D · objet nul</h4><ul><li>Parentez la caméra à un objet nul pour piloter travelling · orbite · avancée depuis une seule propriété</li><li>Texte · modèles · calques plats partagent une même perspective dans un même espace</li></ul></div>
+    <div class="card"><h4><small>Incrustation</small>Keylight + Key Cleaner · Advanced Spill Suppressor</h4><ul><li>Tirez l’incrustation principale avec Keylight, nettoyez les contours avec Key Cleaner</li><li>Retirez le débordement vert sur la peau avec Advanced Spill Suppressor. Empiler les trois dans cet ordre, c’est le kit de base</li></ul></div>
+    <div class="card"><h4><small>Propriétés</small>Panneau Propriétés · Essential Properties</h4><ul><li>Les propriétés courantes du calque sélectionné dans un seul panneau, modifiables sans déplier la timeline</li><li>Les Essential Properties exposent des valeurs internes d’une précomposition : chaque copie peut différer</li></ul></div>
+    <div class="card"><h4><small>Intégration</small>Dynamic Link · Text-Based Editing · Generative Extend</h4><ul><li>Dynamic Link place les compositions AE sur la timeline de Premiere sans rendu</li><li>Dans Premiere, Text-Based Editing (monter à partir de la transcription) et Generative Extend (générer de la durée en fin de clip) accélèrent le montage</li></ul></div>
+  </div>
+  <div class="gallery cols-2 wide big"><div class="title"><b>Photos de référence 5.5A</b>Images générées – compositing et motion design</div>
+    <figure class="ph" data-id="P05-ROTO" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. split-screen style still: left half a person in front of a green screen with a dashed mask outline, right half the same person composited into a street scene">
+      <div class="ph-box"><span class="ph-id">P05-ROTO</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Roto · incrustation · compositing</b>À gauche, une personne devant un fond vert avec des tracés de masque ; à droite, le résultat intégré dans une scène de rue</span></div>
+      <figcaption><b>a</b>Roto · incrustation · compositing – séparation (roto · incrustation), nettoyage (suppression du débordement) et raccord colorimétrique avec le fond forment un tout</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-MOGRAPH" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. motion designer at a workstation with a 3D viewport showing a camera rig and null objects, animated text layers">
+      <div class="ph-box"><span class="ph-id">P05-MOGRAPH</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Travail de motion design</b>Une vue 3D montrant un rig de caméra et un objet nul, des calques de texte animés</span></div>
+      <figcaption><b>b</b>Travail de motion design – concevez les mouvements de caméra avec une caméra 3D et un objet nul, et appliquez l’amorti aux calques de texte</figcaption>
+    </figure>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.5</div>
+    <dl><dt>Tâche</dt><dd>Réalisez dans After Effects une animation de révélation de logo de 5 secondes.</dd><dt>Conseil</dt><dd>Réglez accélération · décélération dans l’éditeur de graphiques.</dd><dt>Évaluation</dt><dd>Accélération et décélération, accord avec le ton de la marque</dd><dt>Corrigé type</dt><dd>Comparez côte à côte une version linéaire et une version en courbe.</dd></dl></div>
+</article>
+
+<section class="essay page" id="essay-8">
+  <header><div class="crumb">Contexte 8</div><h2>L’illusion de la vie<br>– origines des principes de l’animation</h2></header>
+  <div class="cols">
+    <p>Comment insuffler poids, caractère et émotion à des dessins immobiles ? La réponse s’est construite en plusieurs décennies de tâtonnements. Les principes de l’animation relèvent à la fois de la physique et de la théorie du jeu d’acteur.</p>
+    <p>En 1914, Gertie le dinosaure de Winsor McCay montrait un personnage qui obéissait aux ordres et réagissait devant le public, preuve que l’animation pouvait créer un être doté d’une personnalité. En préparant Blanche-Neige et les Sept Nains (1937), le studio Walt Disney fit observer à ses animateurs des animaux et des personnes en mouvement, et leur enseigna le dessin et l’anatomie.</p>
+    <p>On appelait les animateurs phares de Disney à cette époque les « Nine Old Men ». Deux d’entre eux, Frank Thomas et Ollie Johnston, ont condensé les principes du studio en douze points dans The Illusion of Life (1981) : compression et étirement, anticipation, mise en scène, pose à pose, continuité du mouvement, ralenti au départ et à l’arrivée, arcs, action secondaire, timing, exagération, dessin en volume, charisme. Ce sont moins des règles que des façons de traduire la réalité observée pour que le public la ressente plus fort.</p>
+    <p>La moitié des principes relève de la physique. Une balle qui s’écrase à l’atterrissage et s’étire au rebond, un objet lourd qui démarre et s’arrête lentement : voilà qui rend visibles la masse et l’inertie. L’autre moitié relève du jeu. L’anticipation annonce l’action suivante, l’exagération clarifie l’émotion, et le charisme fait que le public donne son cœur au personnage.</p>
+    <p>En 1987, John Lasseter, de Pixar, présenta au SIGGRAPH « Principles of Traditional Animation Applied to 3D Computer Animation ». Son propos : les outils sont passés du crayon à l’ordinateur, mais la façon dont le public perçoit la vie dans le mouvement n’a pas changé. Le motion designer qui adoucit aujourd’hui l’entrée d’un logo dans l’éditeur de graphiques suit les mêmes principes.</p>
+    <p>Avant de mémoriser les principes, prenez l’habitude d’observer le mouvement autour de vous. Savoir voir dans quel ordre une personne se lève d’une chaise ou une balle dévale un escalier fait des principes des outils vivants. Pour aller plus loin : Frank Thomas · Ollie Johnston, The Illusion of Life ; Richard Williams, The Animator’s Survival Kit.</p>
+  </div>
+</section>
+
+<article class="sec page" id="s5-6">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.6</div>
+    <h2>Les 12 principes de l’animation</h2>
+    <p class="lead">Douze principes, appliqués à la publicité. Une moitié de physique, une moitié de jeu. Corrigez amorti · anticipation · continuité · exagération dans cet ordre, et l’aspect débutant disparaît.</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">Les 12 principes – le mouvement à travers un seul personnage</div><div class="grid c4"><div class="it"><img src="img_new/ANIM-01.jpg"><b><i>01</i>Compression et étirement</b><span>S’écrase et s’étire à volume constant – poids et élasticité</span></div><div class="it"><img src="img_new/ANIM-02.jpg"><b><i>02</i>Anticipation</b><span>Part en sens inverse avant une grande action</span></div><div class="it"><img src="img_new/ANIM-03.jpg"><b><i>03</i>Mise en scène</b><span>La silhouette seule fait lire l’intention</span></div><div class="it"><img src="img_new/ANIM-04.jpg"><b><i>04</i>Pose à pose</b><span>Fixer d’abord les poses clés, puis combler les intervalles</span></div><div class="it"><img src="img_new/ANIM-05.jpg"><b><i>05</i>Continuité · chevauchement</b><span>Le corps s’arrête ; cheveux et vêtements s’arrêtent après</span></div><div class="it"><img src="img_new/ANIM-06.jpg"><b><i>06</i>Ralenti au départ · à l’arrivée</b><span>Resserrer les images au début et à la fin du mouvement</span></div><div class="it"><img src="img_new/ANIM-07.jpg"><b><i>07</i>Arcs</b><span>Les articulations décrivent des arcs, pas des droites</span></div><div class="it"><img src="img_new/ANIM-08.jpg"><b><i>08</i>Action secondaire</b><span>De petites actions à l’appui de la principale créent le caractère</span></div><div class="it"><img src="img_new/ANIM-09.jpg"><b><i>09</i>Timing</b><span>Même distance – le nombre d’images fixe poids et vitesse</span></div><div class="it"><img src="img_new/ANIM-10.jpg"><b><i>10</i>Exagération</b><span>Un cran au-delà du réel – affûter l’intention</span></div><div class="it"><img src="img_new/ANIM-11.jpg"><b><i>11</i>Dessin en volume</b><span>Dessiner les formes avec volume · poids · équilibre</span></div><div class="it"><img src="img_new/ANIM-12.jpg"><b><i>12</i>Charisme</b><span>Formes simples et caractère net créent le charme</span></div></div><figcaption><b>Fig. 48</b> Les 12 principes de l’animation – douze règles du mouvement sur un seul personnage (Disney, 1981). Les traits rouges marquent le « mouvement » que désigne chaque principe.</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">Une balle qui rebondit contient quatre principes</div><svg viewBox="0 0 560 210" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect width="560" height="210" fill="#F6F5F3"/><line x1="10" y1="180" x2="550" y2="180" stroke="#1B1B1D" stroke-width="1.2"/><ellipse cx="20.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="36.4" cy="119.5" rx="6.7" ry="10.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="52.7" cy="80.5" rx="7.0" ry="10.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="69.1" cy="51.4" rx="7.3" ry="9.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="85.5" cy="32.2" rx="7.6" ry="9.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="101.8" cy="22.9" rx="7.9" ry="8.3" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="118.2" cy="22.9" rx="7.9" ry="8.3" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="134.5" cy="32.2" rx="7.6" ry="9.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="150.9" cy="51.4" rx="7.3" ry="9.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="167.3" cy="80.5" rx="7.0" ry="10.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="183.6" cy="119.5" rx="6.7" ry="10.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="200.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M20,180 Q110.0,-120 200,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="200.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="214.4" cy="131.7" rx="6.8" ry="10.7" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="228.9" cy="104.4" rx="7.1" ry="9.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="243.3" cy="86.4" rx="7.5" ry="9.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="257.8" cy="77.8" rx="7.8" ry="8.4" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="272.2" cy="77.8" rx="7.8" ry="8.4" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="286.7" cy="86.4" rx="7.5" ry="9.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="301.1" cy="104.4" rx="7.1" ry="9.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="315.6" cy="131.7" rx="6.8" ry="10.7" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="330.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M200,180 Q265.0,-10 330,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="330.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="341.9" cy="145.3" rx="6.8" ry="10.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="353.8" cy="129.0" rx="7.2" ry="9.8" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="365.6" cy="119.6" rx="7.6" ry="8.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="377.5" cy="117.0" rx="8.0" ry="8.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="389.4" cy="119.6" rx="7.6" ry="8.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="401.2" cy="129.0" rx="7.2" ry="9.8" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="413.1" cy="145.3" rx="6.8" ry="10.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="425.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M330,180 Q377.5,70 425,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="425.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="434.3" cy="154.8" rx="6.9" ry="10.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="443.6" cy="146.0" rx="7.3" ry="9.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="452.9" cy="142.1" rx="7.8" ry="8.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="462.1" cy="142.1" rx="7.8" ry="8.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="471.4" cy="146.0" rx="7.3" ry="9.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="480.7" cy="154.8" rx="6.9" ry="10.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="490.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M425,180 Q457.5,120 490,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><text x="230" y="22" fill="#1B1B1D" font-weight="500">Sommet – espacement serré (lent · ralentis)</text><text x="20" y="200" fill="#7A1C2B" font-weight="500">Balle rouge = atterrissage, aplatie (compression)</text><text x="260" y="200" fill="#3C3C40">Chute – espacement large, allongée (étirement)</text><text x="330" y="80" fill="#7A7A80">Chaque rebond est plus bas et plus court (timing)</text></svg><figcaption><b>Fig. 49</b> La balle qui rebondit – arcs · timing · espacement · compression et étirement, le tout dans une seule balle. Les balles sont dessinées à intervalles de temps égaux : lentes et serrées au sommet, rapides et espacées près du sol. La balle rouge marque l’instant où elle touche le sol (compression).</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">Même distance, mêmes images – l’espacement seul change le mouvement</div><svg viewBox="0 0 560 190" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="190" fill="#F6F5F3"/><text x="14" y="34" font-weight="500" fill="#1B1B1D">Espacement régulier – mécanique</text><text x="14" y="46" fill="#7A7A80" font-size="8">Robots · convoyeurs. Sans vie</text><circle cx="230.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="261.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="292.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="323.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="354.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="385.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="416.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="447.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="478.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="509.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="540.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><text x="14" y="74" font-weight="500" fill="#1B1B1D">Accél.·décél. – naturel</text><text x="14" y="86" fill="#7A7A80" font-size="8">Départ et arrivée en douceur. La plupart des mouvements</text><circle cx="230.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="237.6" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="259.6" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="293.9" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="337.1" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="385.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="432.9" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="476.1" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="510.4" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="532.4" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="540.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><text x="14" y="114" font-weight="500" fill="#1B1B1D">Rapide → lent – accentue l’arrivée</text><text x="14" y="126" fill="#7A7A80" font-size="8">Jaillit et s’arrête. Pop-ups · emphase · UI</text><circle cx="230.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="299.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="358.5" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="408.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="449.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="481.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="505.6" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="522.8" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="533.5" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="538.8" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="540.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><text x="14" y="154" font-weight="500" fill="#1B1B1D">Lent → rapide – accentue le départ</text><text x="14" y="166" fill="#7A7A80" font-size="8">Hésite, puis s’élance. Sauts · lancements</text><circle cx="230.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="231.2" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="236.5" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="247.2" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="264.4" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="288.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="321.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="361.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="411.5" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="470.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="540.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><text x="14" y="184" fill="#3C3C40" font-size="8.6">Même distance · mêmes 11 images – seul l’espacement diffère. <tspan font-weight="500">Timing</tspan> = nombre d’images, <tspan font-weight="500">espacement</tspan> = écart entre les images</text></svg><figcaption><b>Fig. 50</b> Timing et espacement – chaque ligne couvre la même distance avec le même nombre d’images. Là où les cercles sont écartés, le mouvement est rapide.</figcaption></figure>
+  <aside class="tip"><b>CONSEIL</b><p>Les poses clés d’abord, puis les intervalles. Tracez en premier l’échelle d’espacement.</p></aside>
+  <h3>Les douze principes – en scènes d’un court métrage en stop motion</h3>
+  <div class="cards cols-3 anim">
+    <div class="card"><img src="img_new/ANIMX-01.jpg" alt=""><h4><small>01</small>Compression et étirement</h4><p>S’écrase et s’étire à volume constant – poids et élasticité</p></div>
+    <div class="card"><img src="img_new/ANIMX-02.jpg" alt=""><h4><small>02</small>Anticipation</h4><p>Part en sens inverse avant une grande action</p></div>
+    <div class="card"><img src="img_new/ANIMX-03.jpg" alt=""><h4><small>03</small>Mise en scène</h4><p>La silhouette seule fait lire l’intention</p></div>
+    <div class="card"><img src="img_new/ANIMX-04.jpg" alt=""><h4><small>04</small>Pose à pose</h4><p>Fixer d’abord les poses clés, puis combler les intervalles</p></div>
+    <div class="card"><img src="img_new/ANIMX-05.jpg" alt=""><h4><small>05</small>Continuité · chevauchement</h4><p>Le corps s’arrête ; cheveux et vêtements s’arrêtent après</p></div>
+    <div class="card"><img src="img_new/ANIMX-06.jpg" alt=""><h4><small>06</small>Ralenti au départ · à l’arrivée</h4><p>Resserrer les images au début et à la fin du mouvement</p></div>
+    <div class="card"><img src="img_new/ANIMX-07.jpg" alt=""><h4><small>07</small>Arcs</h4><p>Les articulations décrivent des arcs, pas des droites</p></div>
+    <div class="card"><img src="img_new/ANIMX-08.jpg" alt=""><h4><small>08</small>Action secondaire</h4><p>De petites actions à l’appui de la principale créent le caractère</p></div>
+    <div class="card"><img src="img_new/ANIMX-09.jpg" alt=""><h4><small>09</small>Timing</h4><p>Même distance – le nombre d’images fixe poids et vitesse</p></div>
+    <div class="card"><img src="img_new/ANIMX-10.jpg" alt=""><h4><small>10</small>Exagération</h4><p>Un cran au-delà du réel – affûter l’intention</p></div>
+    <div class="card"><img src="img_new/ANIMX-11.jpg" alt=""><h4><small>11</small>Dessin en volume</h4><p>Dessiner les formes avec volume · poids · équilibre</p></div>
+    <div class="card"><img src="img_new/ANIMX-12.jpg" alt=""><h4><small>12</small>Charisme</h4><p>Formes simples et caractère net créent le charme</p></div>
+  </div>
+  <figure class="fg wide"><div class="ttl">Compression et étirement – une balle qui rebondit, image après image</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><line x1="20" y1="186" x2="540" y2="186" stroke="#1B1B1D" stroke-width="1.2"/><path d="M70,186 Q280.0,-74 490,186" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="70.0" cy="177.9" rx="14.9" ry="8.1" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.3"/><ellipse cx="100.0" cy="136.9" rx="8.3" ry="14.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="130.0" cy="108.8" rx="8.9" ry="13.5" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="160.0" cy="85.8" rx="9.6" ry="12.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="190.0" cy="68.0" rx="10.2" ry="11.9" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="220.0" cy="55.2" rx="10.6" ry="11.4" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="250.0" cy="47.6" rx="10.9" ry="11.1" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="280.0" cy="45.0" rx="11.0" ry="11.0" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><text x="280.0" y="26.0" text-anchor="middle" fill="#1B1B1D" font-weight="500">Sommet – ronde, lente (espacement serré)</text><ellipse cx="310.0" cy="47.6" rx="10.9" ry="11.1" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="340.0" cy="55.2" rx="10.6" ry="11.4" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="370.0" cy="68.0" rx="10.2" ry="11.9" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="400.0" cy="85.8" rx="9.6" ry="12.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="430.0" cy="108.8" rx="8.9" ry="13.5" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="460.0" cy="136.9" rx="8.3" ry="14.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="490.0" cy="177.9" rx="14.9" ry="8.1" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.3"/><text x="70" y="206" text-anchor="middle" fill="#7A1C2B" font-weight="500">Contact – écrasée à plat</text><text x="490" y="206" text-anchor="middle" fill="#7A1C2B" font-weight="500">Contact – écrasée de nouveau</text><text x="150" y="150" text-anchor="middle" fill="#3C3C40">Plus vite = plus d’étirement le long de la trajectoire</text><text x="410" y="150" text-anchor="middle" fill="#3C3C40">Espacement large = rapide</text><text x="20" y="224" fill="#1B1B1D" font-weight="500">Règle : l’étirement amincit, la compression élargit – le volume (l’aire) ne change jamais. Toutes les balles sont dessinées à intervalles de temps égaux.</text></svg><figcaption><b>G-15</b> Compression et étirement – une parabole d’une balle qui rebondit. Ronde et serrée au sommet, plus longue et plus espacée dans la chute, plate à l’instant où elle touche le sol. L’aire de la balle est la même sur les quinze dessins.</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.6</div>
+    <dl><dt>Tâche</dt><dd>Animez, dans l’ordre : une balle qui rebondit, une balle lourde · une balle légère, le saut d’un personnage.</dd><dt>Conseil</dt><dd>Les poses clés d’abord, puis les intervalles. Tracez en premier l’échelle d’espacement.</dd><dt>Évaluation</dt><dd>Emploi de la compression · du timing · des arcs</dd><dt>Corrigé type</dt><dd>Les 12 principes de The Illusion of Life de Disney. Comparez le même saut exécuté par deux personnages de poids différents.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-7">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.7</div>
+    <h2>Compositing et incrustation en pratique</h2>
+    <p class="lead">Jugez une incrustation en six étapes ; quand un compositing se voit, cherchez trois causes : niveau des noirs · perspective atmosphérique · grain.</p>
+  </header>
+  <figure class="wide diagram"><img src="img_en/EN-p201_222_1369x331.png" alt=""><figcaption><b>Fig. 51</b> Les 6 étapes de l’incrustation – cache grossier › incrustation principale › nettoyage du cache › suppression du débordement › traitement des contours › raccord colorimétrique</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>Étape</th><th>Que faire</th><th>Critère</th></tr></thead>
+    <tbody>
+      <tr><td>Cache grossier</td><td>Masquer ce qui dépasse du fond vert</td><td>Pieds de projecteurs et bord du sol éliminés</td></tr>
+      <tr><td>Incrustation principale</td><td>Éliminer la couleur du fond</td><td>Cheveux encore intacts</td></tr>
+      <tr><td>Nettoyage du cache</td><td>Nettoyer en affichant l’alpha en noir et blanc</td><td>Sujet blanc pur, fond noir pur</td></tr>
+      <tr><td>Suppression du débordement</td><td>Retirer le vert sur la peau et les vêtements</td><td>La peau n’a pas viré au gris</td></tr>
+      <tr><td>Traitement des contours</td><td>Éroder et adoucir les contours</td><td>Aucun crénelage en zoomant</td></tr>
+      <tr><td>Raccord colorimétrique</td><td>Accorder couleur et luminosité au fond</td><td>Direction de lumière et temp. de couleur concordent</td></tr>
+    </tbody>
+  </table>
+  <h3>Trois raisons pour lesquelles un compositing se voit</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Cause 1</small>Niveau des noirs</h4><ul><li>Si les noirs d’un élément sont plus denses que ceux de la prise de vues réelle, cela jure aussitôt</li><li>Relever légèrement les noirs</li></ul></div>
+    <div class="card"><h4><small>Cause 2</small>Perspective atmosphérique</h4><ul><li>La distance réduit le contraste et y mêle la couleur du fond</li><li>Baisser saturation et contraste avec la distance</li></ul></div>
+    <div class="card"><h4><small>Cause 3</small>Grain et bruit</h4><ul><li>Le tournage a du bruit ; l’image de synthèse, non</li><li>Ajouter aux éléments un grain assorti</li></ul></div>
+  </div>
+  <aside class="tip"><b>Vérification finale</b><p>Réduisez l’image ou passez-la en noir et blanc. Les écarts ressortent davantage sur un petit écran et en noir et blanc.</p></aside>
+  <figure class="wide"><img src="img/p202_224_1369x774.png" alt=""><figcaption><b>G-16</b> Avant et après compositing – source sur fond vert et image finale · image générée par GPT, à titre d’illustration</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.7</div>
+    <dl><dt>Tâche</dt><dd>Réalisez le compositing d’une scène à partir d’une source sur fond vert et d’un plan de fond.</dd><dt>Conseil</dt><dd>Après l’incrustation, affinez dans l’ordre : contours, débordement, ombres, raccord colorimétrique.</dd><dt>Évaluation</dt><dd>Qualité des contours, lumière et couleur raccordées</dd><dt>Corrigé type</dt><dd>Remettez une comparaison avant/après accompagnée de la structure des calques.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-8">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.8</div>
+    <h2>Étalonnage</h2>
+    <p class="lead">Réglez la luminosité avant de toucher à la couleur. Le look ne commence qu’après la correction primaire.</p>
+  </header>
+  <figure class="ph wide" data-id="P05-COLOR" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. color grading suite: colorist at a control surface with trackballs, scopes on one screen, graded image on a calibrated monitor">
+    <div class="ph-box"><span class="ph-id">P05-COLOR</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Salle d’étalonnage</b>Un étalonneur devant un pupitre à trackballs, les scopes sur un écran et l’étalonnage sur un moniteur calibré</span></div>
+    <figcaption><b>Note</b>Salle d’étalonnage – réglez d’abord la luminosité aux scopes, pas à l’œil, puis appliquez le look</figcaption>
+  </figure>
+  <figure class="wide diagram"><img src="img_en/EN-p203_225_1372x747.png" alt=""><figcaption><b>Fig. 52</b> Évolution des tons à chaque étape de l’étalonnage</figcaption></figure>
+  <h3>Ordre de travail</h3>
+  <div class="steps cols-6">
+    <div class="step"><b>01</b><i>Exposition · contraste</i>La luminosité avant la couleur</div>
+    <div class="step"><b>02</b><i>Balance des blancs</i>Que le gris paraisse gris</div>
+    <div class="step"><b>03</b><i>Raccord des plans</i>Une scène, une même heure du jour</div>
+    <div class="step"><b>04</b><i>Look</i>C’est seulement ici que la couleur se décide</div>
+    <div class="step"><b>05</b><i>Secondaires</i>Visages, ciel, produit, rien d’autre</div>
+    <div class="step"><b>06</b><i>Contrôle de sortie</i>Sur moniteur, smartphone, téléviseur</div>
+  </div>
+  <aside class="note"><b>Look de base</b><p>Ombres froides, hautes lumières chaudes. Les tons chair sont les plus sensibles au gamma.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Outil</th><th>Ce qu’il règle</th><th>Note</th></tr></thead>
+    <tbody>
+      <tr><td>Lift</td><td>Ombres</td><td>En excès, l’image devient laiteuse</td></tr>
+      <tr><td>Gamma</td><td>Tons moyens</td><td>Les tons chair réagissent le plus</td></tr>
+      <tr><td>Gain</td><td>Hautes lumières</td><td>Les hautes lumières écrêtent vite</td></tr>
+      <tr><td>Courbes</td><td>Contrôle précis, plage par plage</td><td>La courbe en S est le renfort de contraste de base</td></tr>
+      <tr><td>Secondaire HSL</td><td>Ne règle que les couleurs sélectionnées</td><td>Indispensable pour corriger la peau</td></tr>
+      <tr><td>Roues chromatiques</td><td>Teinte par plage tonale</td><td>Ombres froides, hautes lumières chaudes : le look de base</td></tr>
+    </tbody>
+  </table>
+  <figure class="wide"><img src="img/p204_227_1369x774.png" alt=""><figcaption><b>G-17</b> Étalonnage – original en Log et deux looks · image générée par GPT, à titre d’illustration</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.8</div>
+    <dl><dt>Tâche</dt><dd>Créez deux looks différents pour les mêmes images et expliquez l’émotion de chacun.</dd><dt>Conseil</dt><dd>Terminez la correction primaire (exposition, balance des blancs) avant de passer aux secondaires. Surveillez les scopes.</dd><dt>Évaluation</dt><dd>Tons chair préservés, look cohérent</dd><dt>Corrigé type</dt><dd>Calez le look sur une image de référence et joignez des captures des scopes.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-9">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.9</div>
+    <h2>Outils de montage mobile et automatisé</h2>
+    <p class="lead">Un résultat automatisé est un brouillon. Livrez-le sans vérification, et vous perdez la confiance d’un seul coup.</p>
+  </header>
+  <aside class="note"><b>Note</b><p>Pour un usage commercial, vérifiez l’étendue des licences des modèles et des musiques, et ne clonez jamais la voix d’une personne réelle sans autorisation.</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Vidéo courte</small>CapCut</h4><ul><li>Modèles, sous-titres auto, synchro sur le rythme, suppression du fond</li><li>Efficace pour la vidéo courte en volume</li><li>Usage commercial : vérifier licences des modèles · musiques</li></ul></div>
+    <div class="card"><h4><small>Sous-titres</small>Vrew</h4><ul><li>Sous-titres auto d’après la voix, suppression des silences par lot</li><li>Premier bout-à-bout de cours, d’interviews, de vidéos explicatives</li><li>Une personne vérifie les erreurs sur les noms propres</li></ul></div>
+    <div class="card"><h4><small>Voix</small>Typecast</h4><ul><li>Synthèse vocale</li><li>Maquette de narration, doublage multilingue</li><li>Pas de clonage non autorisé de voix réelles</li></ul></div>
+    <div class="card"><h4><small>Génératif</small>Runway et similaires</h4><ul><li>Vidéo à partir de texte et d’images, suppression du fond</li><li>Substituts pour les inserts impossibles à tourner</li></ul></div>
+    <div class="card"><h4><small>3D</small>Meshy</h4><ul><li>Convertit des images en modèles 3D</li><li>Prototypes d’accessoires · de personnages, aperçus de rigging et d’animation</li></ul></div>
+    <div class="card"><h4><small>Image</small>Photoroom et similaires</h4><ul><li>Suppression auto du fond, retouche</li><li>Nettoyage de photos produit</li></ul></div>
+  </div>
+  <div class="callout"><h4>Règles pour les outils d’automatisation</h4><p>Noms propres des sous-titres auto, rythme des coupes auto, doigts et lettrages des vidéos générées : une personne les vérifie toujours.</p></div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.9</div>
+    <dl><dt>Tâche</dt><dd>Avec une application de montage mobile et l’automatisation, transformez la même source en vidéo courte en moins de 15 minutes.</dd><dt>Conseil</dt><dd>Relisez toujours les sous-titres automatiques.</dd><dt>Évaluation</dt><dd>Équilibre entre vitesse et qualité, corrections du résultat automatisé</dd><dt>Corrigé type</dt><dd>Listez ce qu’une personne a corrigé dans le résultat monté automatiquement.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-10">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.10</div>
+    <h2>Spécifications de sortie et livraison</h2>
+    <p class="lead">Les codecs diffèrent selon l’usage, et les problèmes de sortie courants ont des causes connues.</p>
+  </header>
+  <figure class="ph" data-id="P05-DELIVER" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. two labeled portable SSDs, a checklist on paper and a laptop showing an export progress bar, tidy desk">
+    <div class="ph-box"><span class="ph-id">P05-DELIVER</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Livraison et sauvegarde</b>Deux SSD portables étiquetés, une check-list papier, un ordinateur portable affichant une barre de progression d’export</span></div>
+    <figcaption><b>Note</b>Livraison et sauvegarde – conservez les exports sur deux supports distincts et cochez les spécifications sur une check-list</figcaption>
+  </figure>
+  <aside class="tip"><b>CONSEIL</b><p>Avant d’exporter, mettez en tableau résolution, débit, niveau sonore (LUFS) et règles de nommage des fichiers.</p></aside>
+  <h3>Spécifications de sortie par usage</h3>
+  <table class="t compact">
+    <thead><tr><th>Usage</th><th>Codec / conteneur</th><th>Réglages clés</th></tr></thead>
+    <tbody>
+      <tr><td>Vers un logiciel de montage</td><td>ProRes 422 HQ</td><td>Par défaut quand l’alpha est inutile</td></tr>
+      <tr><td>Intermédiaire avec alpha</td><td>ProRes 4444 ou séquence PNG</td><td>Activer la couche alpha</td></tr>
+      <tr><td>Mise en ligne</td><td>H.264 mp4</td><td>40–60 Mbit/s en 4K</td></tr>
+      <tr><td>Projection, exposition</td><td>ProRes 422 HQ ou non compressé</td><td>Vérifier les images de début et de fin de boucle</td></tr>
+      <tr><td>LED extérieur</td><td>Spéc. de la régie du support</td><td>Confirmer à l’avance résolution et cadence d’images</td></tr>
+      <tr><td>Archivage</td><td>Conserver le codec d’origine</td><td>Garder les fichiers de projet avec les sources</td></tr>
+    </tbody>
+  </table>
+  <h3>Solutions par symptôme</h3>
+  <table class="t compact">
+    <thead><tr><th>Symptôme</th><th>Cause</th><th>Solution</th></tr></thead>
+    <tbody>
+      <tr><td>Rendu très lent</td><td>Sources haute résolution, effets empilés</td><td>Proxys, prérendus, moins d’effets</td></tr>
+      <tr><td>Contours de texte irréguliers</td><td>Pixellisation en continu désactivée</td><td>Activer cette option</td></tr>
+      <tr><td>Les couleurs paraissent différentes</td><td>Gestion des couleurs incohérente</td><td>Verrouiller l’espace colorimétrique du projet</td></tr>
+      <tr><td>Le compositing tremble</td><td>Données de suivi instables</td><td>Refaire le suivi, appliquer un lissage</td></tr>
+      <tr><td>Le fichier ne s’ouvre pas</td><td>Codec non installé</td><td>Réexporter dans un codec courant</td></tr>
+      <tr><td>Son trop faible</td><td>Niveau sonore non réglé</td><td>Normaliser au niveau sonore de la plateforme</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.10</div>
+    <dl><dt>Tâche</dt><dd>Exportez la même vidéo selon trois spécifications : YouTube, Instagram Reels et projection en salle.</dd><dt>Conseil</dt><dd>Mettez d’abord en tableau résolution, débit, niveau sonore (LUFS) et règles de nommage des fichiers.</dd><dt>Évaluation</dt><dd>Respect des spécifications, gestion des fichiers</dd><dt>Corrigé type</dt><dd>Rédigez votre propre check-list de livraison et joignez le résultat de chaque export.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-11">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.11</div>
+    <h2>Expressions et automatisation</h2>
+    <p class="lead">After Effects avancé. Les expressions calculent des valeurs sans images clés. Inutile de connaître la syntaxe : apprenez-en cinq seulement, et votre temps de travail chute nettement.</p>
+  </header>
+  <figure class="wide diagram"><img src="img_en/EN-p207_228_1370x384.png" alt=""><figcaption><b>Fig. 53</b> 5 courbes d’amorti</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>Expression</th><th>Rôle</th><th>Exemples</th></tr></thead>
+    <tbody>
+      <tr><td>wiggle(fréq, amp)</td><td>Tremblement aléatoire</td><td>Effet caméra à l’épaule, glitchs, tremblements</td></tr>
+      <tr><td>loopOut()</td><td>Boucle sans fin une section animée par images clés</td><td>Logos en rotation, fonds en boucle</td></tr>
+      <tr><td>time * value</td><td>La valeur évolue avec le temps</td><td>Rotation régulière, défilement</td></tr>
+      <tr><td>linear(t, a, b, c, d)</td><td>Convertit la variation d’une valeur en une autre</td><td>Un seul curseur pilote plusieurs propriétés</td></tr>
+      <tr><td>Parentage (pick whip)</td><td>Reprend telle quelle la valeur d’une autre propriété</td><td>Contrôle de nombreux éléments d’un bloc</td></tr>
+    </tbody>
+  </table>
+  <h3>Des habitudes qui accélèrent le travail</h3>
+  <aside class="note"><b>Note</b><p>Précomposez librement, mais à partir de 3 niveaux d’imbrication, la gestion se complique.</p></aside>
+  <ul class="dash">
+    <li>Enregistrez les réglages fréquents comme animations prédéfinies et réutilisez-les.</li>
+    <li>Faites d’un objet nul un contrôleur : un seul curseur règle alors plusieurs valeurs.</li>
+    <li>Nommez toujours vos calques. Même vous ne comprendrez plus 40 calques sans nom le lendemain.</li>
+    <li>Triez les calques par couleur de libellé. Texte, fond, effets, caméra : une couleur chacun.</li>
+    <li>Utilisez les outils de nettoyage du projet pour retirer régulièrement les métrages inutilisés.</li>
+  </ul>
+  <h3>Relier Premiere et After Effects</h3>
+  <div class="steps">
+    <div class="step"><b>01</b><i>Verrouiller le montage</i>Dans Premiere. Si le montage change, le compositing est perdu</div>
+    <div class="step"><b>02</b><i>Remplacer par une compo</i>Transformez le clip en composition AE ; les modifications se répercutent automatiquement</div>
+    <div class="step"><b>03</b><i>Travailler · enregistrer</i>Enregistrez dans AE : la timeline se met à jour</div>
+    <div class="step"><b>04</b><i>Rendu avec alpha</i>Quand le projet s’alourdit, rendez un fichier avec alpha et replacez-le</div>
+    <div class="step"><b>05</b><i>Export final</i>Depuis Premiere, en une passe. Intermédiaires dans un codec de haute qualité</div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.11</div>
+    <dl><dt>Tâche</dt><dd>Avec des expressions, créez un texte qui tremble tout seul et un compteur dont les chiffres évoluent dans le temps.</dd><dt>Conseil</dt><dd>Commencez par les expressions wiggle, time et linear.</dd><dt>Évaluation</dt><dd>Compréhension des expressions, réutilisabilité</dd><dt>Corrigé type</dt><dd>Construit un modèle dont les valeurs se règlent au moyen de curseurs.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-12">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.12</div>
+    <h2>Fonctions de DaVinci Resolve</h2>
+    <p class="lead">L’outil de référence de la correction colorimétrique, et un environnement intégré qui gère aussi montage, compositing et son. Même la version gratuite couvre l’essentiel des travaux commerciaux.</p>
+  </header>
+  <aside class="tip"><b>CONSEIL</b><p>Fiez-vous à la mesure plutôt qu’à vos yeux. Vérifiez les valeurs sur la forme d’onde, la parade et le vecteurscope.</p></aside>
+  <h3>Sept pages</h3>
+  <table class="t compact wide">
+    <thead><tr><th>Page</th><th>Rôle</th><th>Fonctions clés</th></tr></thead>
+    <tbody>
+      <tr><td>Média</td><td>Gestion et organisation des rushes</td><td>Import des clips, métadonnées, génération de proxys</td></tr>
+      <tr><td>Cut</td><td>Bout-à-bout rapide</td><td>Bande source, outils de montage intelligents</td></tr>
+      <tr><td>Montage</td><td>Montage de précision</td><td>Timeline, transitions, sous-titres, changements de vitesse</td></tr>
+      <tr><td>Fusion</td><td>Compositing et motion design</td><td>Compositing nodal, suivi, particules</td></tr>
+      <tr><td>Étalonnage</td><td>Correction colorimétrique</td><td>Nœuds, courbes, qualificateurs, Power Windows, tracker</td></tr>
+      <tr><td>Fairlight</td><td>Son</td><td>Mixeur, effets audio, mesure du niveau sonore</td></tr>
+      <tr><td>Exportation</td><td>Sortie</td><td>Préréglages de codec, rendu par lot, versions par plateforme</td></tr>
+    </tbody>
+  </table>
+  <h3>Outils clés de la page Étalonnage</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Structure</small>Nœuds</h4><ul><li>Enchaîne les étapes de correction en blocs activables séparément</li><li>Nœuds en série, en parallèle et de calque</li></ul></div>
+    <div class="card"><h4><small>Sélection</small>Qualificateur</h4><ul><li>Sélectionne et corrige une couleur précise</li><li>Pour ne régler que les tons chair ou le ciel</li></ul></div>
+    <div class="card"><h4><small>Zone</small>Power Window</h4><ul><li>Ne corrige qu’une zone choisie de l’image</li><li>Avec le tracker, elle suit les sujets en mouvement</li></ul></div>
+    <div class="card"><h4><small>Précision</small>Courbes</h4><ul><li>Affine luminosité et couleur, plage par plage</li><li>La courbe en S est le renfort de contraste de base</li></ul></div>
+    <div class="card"><h4><small>Auto</small>Raccord de plans</h4><ul><li>Accorde automatiquement la couleur de deux plans</li><li>Un point de départ pour monter des caméras différentes</li></ul></div>
+    <div class="card"><h4><small>Mesure</small>Scopes</h4><ul><li>Forme d’onde, parade, vecteurscope</li><li>Se fier à la mesure plutôt qu’à ses yeux</li></ul></div>
+  </div>
+  <h3>Exemple de structure de nœuds</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>Conversion technique</i>Du Log au standard</div>
+    <div class="step"><b>02</b><i>Exposition · contraste</i>Régler la luminosité</div>
+    <div class="step"><b>03</b><i>Balance des blancs</i>Que le gris soit gris</div>
+    <div class="step"><b>04</b><i>Raccord des plans</i>Une scène, une même heure du jour</div>
+    <div class="step"><b>05</b><i>Appliquer le look</i>Fixer la couleur du film</div>
+    <div class="step"><b>06</b><i>Tons chair</i>Retouche locale au qualificateur</div>
+    <div class="step"><b>07</b><i>Ciel · fond</i>Retouche locale à la Power Window</div>
+    <div class="step"><b>08</b><i>Vignette · grain</i>Finitions</div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.12</div>
+    <dl><dt>Tâche</dt><dd>Dans DaVinci Resolve, construisez une chaîne de correction d’au moins 3 nœuds.</dd><dt>Conseil</dt><dd>Confiez une seule tâche à chaque nœud (exposition, couleur, look).</dd><dt>Évaluation</dt><dd>Logique de la structure de nœuds, qualité du résultat</dd><dt>Corrigé type</dt><dd>Nomme chaque nœud et remet des images comparatives, chaque nœud activé puis désactivé.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-13">
+  <header>
+    <div class="crumb"><b>PARTIE 05</b>Montage et postproduction</div>
+    <div class="num">5.13</div>
+    <h2>Types d’animation</h2>
+    <p class="lead">L’animation se classe selon ce qui compose chaque image, et se divise en gros entre 2D et 3D. Changez de matériau : la texture du mouvement et le mode de fabrication changent avec lui.</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">Les techniques diffèrent selon ce qui compose chaque image</div><div class="grid c4"><div class="it"><img src="img_new/AM-CEL.jpg" alt=""><b>Animation sur cellulo</b><span>Dessinée sur des cellulos transparents, superposés à un décor</span></div><div class="it"><img src="img_new/AM-CUTOUT.jpg" alt=""><b>Papier découpé</b><span>Du papier articulé déplacé peu à peu</span></div><div class="it"><img src="img_new/AM-SAND.jpg" alt=""><b>Animation de sable</b><span>Du sable étalé sur la lumière, image par image</span></div><div class="it"><img src="img_new/AM-PIXIL.jpg" alt=""><b>Pixilation</b><span>Des personnes filmées image par image, comme des marionnettes</span></div><div class="it"><img src="img_new/AM-PAPER.jpg" alt=""><b>Dessin sur papier</b><span>Une image par feuille, vérifiée en feuilletant</span></div><div class="it"><img src="img_new/AM-CLAY.jpg" alt=""><b>Pâte à modeler · stop motion</b><span>Des marionnettes réelles déplacées peu à peu et photographiées</span></div><div class="it"><img src="img_new/AM-3D.jpg" alt=""><b>Synthèse 3D</b><span>Vous animez le rig ; l’ordinateur calcule</span></div><div class="it"><img src="img_new/AM-ROTO.jpg" alt=""><b>Rotoscopie</b><span>Décalquée sur la prise de vues réelle, image par image</span></div></div><figcaption><b>Fig. 54</b> Huit techniques d’animation – changez de matériau, et la texture du mouvement comme le mode de fabrication changent avec lui. D’en haut à gauche jusqu’en bas à droite, le travail passe du « dessin » au « calcul ».</figcaption></figure>
+  <h3>Caractéristiques de chaque technique</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Cellulo</small>Animation sur cellulo</h4><ul><li>Personnages dessinés sur celluloïd transparent, filmés en superposition sur les décors</li><li>Le standard du long métrage commercial ; l’origine des calques numériques</li></ul></div>
+    <div class="card"><h4><small>Découpage</small>Papier découpé</h4><ul><li>Figures découpées dans du papier ou du tissu, articulations épinglées, déplacées peu à peu et filmées</li><li>Les Aventures du prince Ahmed (1926) de Lotte Reiniger ; aujourd’hui réalisé avec des marionnettes numériques</li></ul></div>
+    <div class="card"><h4><small>Sable</small>Animation de sable</h4><ul><li>Du sable sur une table lumineuse, poussé à la main en formes nouvelles et filmé</li><li>Connue pour ses métamorphoses : une forme se coule dans la scène suivante</li></ul></div>
+    <div class="card"><h4><small>Personnes</small>Pixilation</h4><ul><li>Des personnes filmées une image à la fois, comme des marionnettes</li><li>Mouvement irréel – glisser ou flotter dans les airs ; Voisins (1952) de Norman McLaren</li></ul></div>
+    <div class="card"><h4><small>Papier</small>Papier · dessin</h4><ul><li>La technique la plus élémentaire : dessiner sur papier, une feuille à la fois</li><li>Le folioscope en montre le principe le plus simplement</li></ul></div>
+    <div class="card"><h4><small>Modelage</small>Pâte à modeler · stop motion</h4><ul><li>Pâte à modeler ou marionnettes articulées, déplacées peu à peu sur un décor et filmées</li><li>Le fait-main des matières et la lumière réelle restent intacts</li></ul></div>
+    <div class="card"><h4><small>Ordinateur</small>Synthèse 3D</h4><ul><li>Un squelette (rig) est placé dans le modèle, animé par images clés, puis rendu</li><li>Toy Story (1995), premier long métrage entièrement en images de synthèse</li></ul></div>
+    <div class="card"><h4><small>Décalque</small>Rotoscopie</h4><ul><li>Prise de vues réelle décalquée image par image</li><li>Pour transposer un mouvement réaliste dans une texture dessinée</li></ul></div>
+  </div>
+  <div class="gallery cols-3 wide"><div class="title"><b>Photos de référence 5.13A</b>Images générées – trois matériaux qui composent une image</div>
+    <figure class="ph" data-id="P05-ANIMCEL" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. animator at a light table flipping stacked drawing sheets, pencil keyframes of a bouncing ball">
+      <div class="ph-box"><span class="ph-id">P05-ANIMCEL</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Poses clés et intervalles</b>Un animateur feuilletant des feuilles superposées sur une table lumineuse ; une balle rebondissante dessinée au crayon</span></div>
+      <figcaption><b>a</b>Dessin – dessinez d’abord les poses clés, puis comblez les intervalles</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-STOPMO" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. stop-motion set: a small puppet on a miniature kitchen set, DSLR on a rig, animator adjusting the arm with tweezers">
+      <div class="ph-box"><span class="ph-id">P05-STOPMO</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Stop motion</b>Une marionnette dans un décor de cuisine miniature, un appareil fixé sur un rig, une main déplaçant un bras à la pince</span></div>
+      <figcaption><b>b</b>Stop motion – la texture de la lumière et des matières réelles reste intacte</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-3D" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 3D animation workstation showing a wireframe character rig in the viewport, graph editor curves below">
+      <div class="ph-box"><span class="ph-id">P05-3D</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Animation 3D</b>Le rig filaire d’un personnage dans la vue 3D, les courbes de l’éditeur de graphiques en dessous</span></div>
+      <figcaption><b>c</b>3D – animez le rig par images clés et affinez l’amorti dans l’éditeur de graphiques</figcaption>
+    </figure>
+  </div>
+  <figure class="fg wide"><div class="ttl">La 2D dessine le mouvement ; la 3D le conçoit, puis le calcule</div><div class="grid c2"><div class="it"><img src="img_new/AN-2D.jpg"><b>2D – dessinée image par image</b><span>Un dessin = une image. Le suivant se dessine par-dessus l’original · trait · couleur · mouvement viennent d’une seule main · corriger, c’est redessiner</span></div><div class="it"><img src="img_new/AN-3D.jpg"><b>3D – on anime le modèle</b><span>Construire un rig (squelette), puis ne fixer que les poses = images clés · l’ordinateur calcule les intervalles · caméra · éclairage · matières se modifient séparément · corriger, c’est changer des valeurs</span></div></div><div class="rulebar"><b>Comment choisir</b> – la 2D s’il vous faut du fait-main et de l’exagération ; la 3D si la caméra tourne autour du sujet et que le même personnage doit servir sous de nombreux angles · dans de nombreux épisodes. En pratique, on mélange les deux (3D d’aspect 2D, personnages 2D sur décors 3D).</div><figcaption><b>Fig. 55</b> 2D et 3D – des dessins qui créent le mouvement face à un mouvement conçu. À gauche : des dessins d’images successives ; à droite : une vue 3D montrant un rig et des images clés.</figcaption></figure>
+  <h3>Ce qui distingue la 2D de la 3D</h3>
+  <aside class="term"><b>2,5D</b><p>De la 3D habillée d’une texture 2D. Un hybride de plus en plus courant.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Critère</th><th>2D</th><th>3D</th></tr></thead>
+    <tbody>
+      <tr><td>Unité de travail</td><td>Un nouveau dessin pour chaque image</td><td>Construire le modèle une fois, puis changer poses et caméra</td></tr>
+      <tr><td>Espace</td><td>Profondeur rendue par la perspective dessinée</td><td>La profondeur existe dans l’espace virtuel ; la caméra peut aller partout</td></tr>
+      <tr><td>Corrections</td><td>Modifier une forme, c’est la redessiner</td><td>Corrigez modèle et rig, et tous les plans se mettent à jour ; coût de mise en place élevé au départ</td></tr>
+      <tr><td>Expression</td><td>Trait libre et exagération</td><td>Volume · éclairage · matières réalistes</td></tr>
+      <tr><td>En publicité</td><td>Motion design, publicités à personnage</td><td>Démonstrations de produit, explication de structures. En réalité, le mélange domine</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>Une phrase à utiliser sur le plateau</h4><p>Pour choisir une technique, décidez d’abord par quelle texture vous voulez qu’on se souvienne de vous. Budget et calendrier viennent ensuite.</p></div>
+  <div class="gallery cols-3"><div class="title"><b>Photos de référence 5.13A</b>Images générées – référence de mise en scène</div>
+    <figure><img src="img/p213_234_449x251.png" alt=""><figcaption><b>a</b>Animation sur cellulo – peinte sur cellulos transparents</figcaption></figure>
+    <figure><img src="img/p213_235_449x251.png" alt=""><figcaption><b>b</b>Papier découpé – animer des pièces découpées</figcaption></figure>
+    <figure><img src="img/p213_237_449x251.png" alt=""><figcaption><b>c</b>Animation de sable – des scènes dessinées dans le sable</figcaption></figure>
+  </div>
+  <div class="gallery cols-3"><div class="title"><b>Photos de référence 5.13B</b>Images générées – référence de mise en scène</div>
+    <figure><img src="img/p213_238_449x251.png" alt=""><figcaption><b>a</b>Pixilation – des personnes filmées image par image</figcaption></figure>
+    <figure><img src="img/p213_239_449x251.png" alt=""><figcaption><b>b</b>Stop motion papier · pâte à modeler</figcaption></figure>
+    <figure><img src="img/p213_240_449x251.png" alt=""><figcaption><b>c</b>Synthèse 3D – des personnages dans l’espace virtuel</figcaption></figure>
+  </div>
+  <div class="gallery cols-3"><div class="title"><b>Photos de référence 5.13C</b>Images générées – référence de mise en scène</div>
+    <figure><img src="img/p213_241_449x251.png" alt=""><figcaption><b>a</b>2D – dessin en lignes et aplats</figcaption></figure>
+    <figure><img src="img/p213_242_449x251.png" alt=""><figcaption><b>b</b>3D – volume et lumière</figcaption></figure>
+    <figure><img src="img/p213_243_449x251.png" alt=""><figcaption><b>c</b>2,5D – de la 3D à texture 2D</figcaption></figure>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercice</small>5.13</div>
+    <dl><dt>Tâche</dt><dd>Réalisez deux fois la même action de 5 secondes : en 2D sur cellulo, puis en 3D ou en stop motion.</dd><dt>Conseil</dt><dd>Notez vos heures. C’est la base la plus réaliste pour choisir une technique.</dd><dt>Évaluation</dt><dd>Compréhension des traits et du coût de production de chaque technique</dd><dt>Corrigé type</dt><dd>Joint aux résultats un relevé des heures de production, et en fait un guide pour choisir une technique.</dd></dl></div>
+</article>
+
+<section class="part-end page" id="end5">
+  <header><div class="crumb">Bilan de la PARTIE 05</div><h2>Exercices et révision</h2></header>
+  <ol class="missions">
+    <li><b>Monter deux fois</b>Montez deux fois une vidéo de 30 secondes à partir des mêmes rushes : une fois en posant d’abord la musique, une fois en montant d’abord l’image. Comparez les résultats.</li>
+    <li><b>Trois entrées</b>Dans After Effects, faites entrer une ligne de texte de trois façons – linéaire, décélération (ease out), dépassement (overshoot) – et comparez.</li>
+    <li><b>Avant et après étalonnage</b>Réalisez une vidéo comparative montrant côte à côte le même plan avant et après correction colorimétrique.</li>
+    <li><b>Vérifier les sous-titres auto</b>Générez les sous-titres d’une interview d’une minute avec un outil de sous-titrage automatique et comptez les erreurs.</li>
+  </ol>
+  <h3>L’essentiel en une page</h3>
+  <div class="summary">
+    <div class="card"><h4>5.1 Une histoire des techniques de montage</h4><p>Les outils ont changé, mais proxys, EDL, timecode et sens du rythme à l’image près demeurent.</p></div>
+    <div class="card"><h4>5.2 Principes de base du montage</h4><p>Coupez non par ennui, mais quand le plan suivant informe mieux, et coupez en plein mouvement. Posez le son d’abord.</p></div>
+    <div class="card"><h4>5.3 Comparatif des logiciels de montage</h4><p>Premiere et After Effects sont la norme à l’embauche. Maîtrisez les deux à fond.</p></div>
+    <div class="card"><h4>5.4 · 5.5 Premiere et After Effects</h4><p>Premiere traite le temps à l’horizontale ; After Effects, les calques à la verticale. Répartissez les rôles, et vous divisez le temps par deux.</p></div>
+    <div class="card"><h4>5.6 Les 12 principes de l’animation</h4><p>Corrigez amorti, anticipation, continuité et exagération, dans cet ordre, et l’aspect débutant disparaît.</p></div>
+    <div class="card"><h4>5.7 Compositing et incrustation</h4><p>Un compositing flotte pour trois raisons : niveau des noirs, perspective atmosphérique et grain.</p></div>
+    <div class="card"><h4>5.8 Étalonnage</h4><p>Exposition et balance des blancs d’abord, le look ensuite. Lift · gamma · gain règlent ombres · tons moyens · hautes lumières.</p></div>
+    <div class="card"><h4>5.9 Outils d’automatisation</h4><p>Un résultat automatisé est un brouillon. Une personne vérifie noms propres, rythme, doigts et lettrages.</p></div>
+    <div class="card"><h4>5.10 · 5.11 Export et expressions</h4><p>Tenez-vous au bon codec pour chaque usage, et économisez les images clés avec wiggle · loopOut · time · linear.</p></div>
+    <div class="card"><h4>5.12 · 5.13 Resolve et animation</h4><p>Une tâche par nœud. Choisissez la technique d’après la texture d’abord, le budget ensuite. La qualité vient de l’ordre des plans, non du nombre de transitions.</p></div>
+  </div>
+  <h3>Pistes de réflexion</h3>
+  <dl class="qa">
+    <dt>Qu’est-ce qui me décide à couper dans mes montages ?</dt><dd>Est-ce l’ennui, ou le fait que le plan suivant informe mieux ? Notez en une ligne pourquoi vous avez écarté chaque plan, et votre critère se dessine.</dd>
+    <dt>Quand l’envie vous prend d’ajouter une transition, de quoi cet endroit a-t-il vraiment besoin ?</dt><dd>Vérifiez d’abord s’il lui faut vraiment un effet, ou simplement un autre ordre des plans.</dd>
+    <dt>Auto-évaluation</dt><dd>Savez-vous expliquer chacun de ces points : en quoi diffèrent les rôles de Premiere et d’After Effects, quand la précomposition s’impose, cache par approche alpha ou luma, les trois raisons pour lesquelles un compositing flotte, et ce que règlent respectivement lift · gamma · gain ?</dd>
+    <dt>Conseils de terrain</dt><dd>Convenez dès le premier jour de l’arborescence du projet et du nommage des fichiers. Enregistrez en préréglages les titres et effets fréquents (en deux mois, c’est une journée de gagnée). Recevez toujours les demandes de correction par timecode, et si le retour est « globalement, ce n’est pas tout à fait ça », renvoyez-le en demandant des précisions.</dd>
+  </dl>
+</section>

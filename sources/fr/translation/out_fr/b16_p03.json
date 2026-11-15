@@ -1,0 +1,602 @@
+[
+{
+"key": "part14a.html#647",
+"fr": "Publicité de 15 s (3 semaines au total)"
+},
+{
+"key": "part14a.html#648",
+"fr": "Jour"
+},
+{
+"key": "part14a.html#649",
+"fr": "Étape"
+},
+{
+"key": "part14a.html#650",
+"fr": "Livrable"
+},
+{
+"key": "part14a.html#651",
+"fr": "Recevoir le brief, se documenter"
+},
+{
+"key": "part14a.html#652",
+"fr": "10 références, notes de recherche"
+},
+{
+"key": "part14a.html#653",
+"fr": "Développer des concepts"
+},
+{
+"key": "part14a.html#654",
+"fr": "3 concepts en une phrase"
+},
+{
+"key": "part14a.html#655",
+"fr": "Remettre la note d’intention"
+},
+{
+"key": "part14a.html#656",
+"fr": "Note d’intention en 12 points"
+},
+{
+"key": "part14a.html#657",
+"fr": "Dessiner le storyboard"
+},
+{
+"key": "part14a.html#658",
+"fr": "Storyboard de 6 plans"
+},
+{
+"key": "part14a.html#659",
+"fr": "Tester avec un animatique"
+},
+{
+"key": "part14a.html#660",
+"fr": "Version de contrôle du timing"
+},
+{
+"key": "part14a.html#661",
+"fr": "Réunion PPM"
+},
+{
+"key": "part14a.html#662",
+"fr": "Document PPM approuvé"
+},
+{
+"key": "part14a.html#663",
+"fr": "Repérages"
+},
+{
+"key": "part14a.html#664",
+"fr": "Photos de repérage, plan au sol"
+},
+{
+"key": "part14a.html#665",
+"fr": "Contrôle du matériel et répétition"
+},
+{
+"key": "part14a.html#666",
+"fr": "Liste du matériel"
+},
+{
+"key": "part14a.html#667",
+"fr": "JOUR J"
+},
+{
+"key": "part14a.html#668",
+"fr": "Tournage"
+},
+{
+"key": "part14a.html#669",
+"fr": "Rushes originaux, 2 sauvegardes"
+},
+{
+"key": "part14a.html#670",
+"fr": "Prémontage"
+},
+{
+"key": "part14a.html#671",
+"fr": "Bout-à-bout"
+},
+{
+"key": "part14a.html#672",
+"fr": "Compositing et motion design"
+},
+{
+"key": "part14a.html#673",
+"fr": "Version avec CG"
+},
+{
+"key": "part14a.html#674",
+"fr": "Couleur et son"
+},
+{
+"key": "part14a.html#675",
+"fr": "Master provisoire"
+},
+{
+"key": "part14a.html#676",
+"fr": "Projection et modifications"
+},
+{
+"key": "part14a.html#677",
+"fr": "Version révisée"
+},
+{
+"key": "part14a.html#678",
+"fr": "Livraison"
+},
+{
+"key": "part14a.html#679",
+"fr": "Master final, versions par support"
+},
+{
+"key": "part14a.html#680",
+"fr": "Vidéo courte de 1 min (1 semaine au total)"
+},
+{
+"key": "part14a.html#681",
+"fr": "Jour"
+},
+{
+"key": "part14a.html#682",
+"fr": "Étape"
+},
+{
+"key": "part14a.html#683",
+"fr": "Livrable"
+},
+{
+"key": "part14a.html#684",
+"fr": "Jour 1"
+},
+{
+"key": "part14a.html#685",
+"fr": "Fixer le sujet, bâtir la trame"
+},
+{
+"key": "part14a.html#686",
+"fr": "Trame d’une page"
+},
+{
+"key": "part14a.html#687",
+"fr": "Jour 2"
+},
+{
+"key": "part14a.html#688",
+"fr": "Storyboard et plan de tournage"
+},
+{
+"key": "part14a.html#689",
+"fr": "Liste de 6–10 plans"
+},
+{
+"key": "part14a.html#690",
+"fr": "Jour 3"
+},
+{
+"key": "part14a.html#691",
+"fr": "Tournage"
+},
+{
+"key": "part14a.html#692",
+"fr": "Rushes, sauvegarde"
+},
+{
+"key": "part14a.html#693",
+"fr": "Jour 4"
+},
+{
+"key": "part14a.html#694",
+"fr": "Montage et sous-titres"
+},
+{
+"key": "part14a.html#695",
+"fr": "Bout-à-bout"
+},
+{
+"key": "part14a.html#696",
+"fr": "Jour 5"
+},
+{
+"key": "part14a.html#697",
+"fr": "Couleur et son"
+},
+{
+"key": "part14a.html#698",
+"fr": "Master"
+},
+{
+"key": "part14a.html#699",
+"fr": "Jour 6"
+},
+{
+"key": "part14a.html#700",
+"fr": "Versions par support, sous-titres"
+},
+{
+"key": "part14a.html#701",
+"fr": "Version verticale, hashtags"
+},
+{
+"key": "part14a.html#702",
+"fr": "Jour 7"
+},
+{
+"key": "part14a.html#703",
+"fr": "Publier, suivre les premières réactions"
+},
+{
+"key": "part14a.html#704",
+"fr": "Suivi des indicateurs"
+},
+{
+"key": "part14a.html#705",
+"fr": "<b>Annexe</b>Documents de terrain"
+},
+{
+"key": "part14a.html#706",
+"fr": "Parcours d’apprentissage et ressources conseillés"
+},
+{
+"key": "part14a.html#707",
+"fr": "Un plan d’étude de 6 mois pour les autodidactes, conçu pour une heure par jour."
+},
+{
+"key": "part14a.html#708",
+"fr": "Période"
+},
+{
+"key": "part14a.html#709",
+"fr": "À apprendre"
+},
+{
+"key": "part14a.html#710",
+"fr": "À réaliser chaque semaine"
+},
+{
+"key": "part14a.html#711",
+"fr": "Contrôle"
+},
+{
+"key": "part14a.html#712",
+"fr": "Mois 1"
+},
+{
+"key": "part14a.html#713",
+"fr": "Langage visuel et valeurs de plan, tournage au smartphone"
+},
+{
+"key": "part14a.html#714",
+"fr": "1 vidéo de 30 s"
+},
+{
+"key": "part14a.html#715",
+"fr": "Exposition et son réguliers"
+},
+{
+"key": "part14a.html#716",
+"fr": "Mois 2"
+},
+{
+"key": "part14a.html#717",
+"fr": "Bases du montage, sous-titres et rythme"
+},
+{
+"key": "part14a.html#718",
+"fr": "1 vidéo de 1 min"
+},
+{
+"key": "part14a.html#719",
+"fr": "Enchaînement fluide entre les plans"
+},
+{
+"key": "part14a.html#720",
+"fr": "Mois 3"
+},
+{
+"key": "part14a.html#721",
+"fr": "Éclairage et son"
+},
+{
+"key": "part14a.html#722",
+"fr": "1 interview vidéo"
+},
+{
+"key": "part14a.html#723",
+"fr": "Le visage a du relief"
+},
+{
+"key": "part14a.html#724",
+"fr": "Mois 4"
+},
+{
+"key": "part14a.html#725",
+"fr": "Conception et storyboard"
+},
+{
+"key": "part14a.html#726",
+"fr": "1 pub de 15 s"
+},
+{
+"key": "part14a.html#727",
+"fr": "Le concept tient en une phrase"
+},
+{
+"key": "part14a.html#728",
+"fr": "Mois 5"
+},
+{
+"key": "part14a.html#729",
+"fr": "Bases d’After Effects et compositing"
+},
+{
+"key": "part14a.html#730",
+"fr": "1 générique"
+},
+{
+"key": "part14a.html#731",
+"fr": "Les incrustations ne semblent pas collées"
+},
+{
+"key": "part14a.html#732",
+"fr": "Mois 6"
+},
+{
+"key": "part14a.html#733",
+"fr": "Étalonnage et gestion d’une plateforme"
+},
+{
+"key": "part14a.html#734",
+"fr": "Constituer un portfolio"
+},
+{
+"key": "part14a.html#735",
+"fr": "5 réalisations réunies"
+},
+{
+"key": "part14a.html#736",
+"fr": "Types de ressources et comment les utiliser"
+},
+{
+"key": "part14a.html#737",
+"fr": "<small>Documentation officielle</small>La source la plus exacte"
+},
+{
+"key": "part14a.html#738",
+"fr": "Connaître le nom exact des fonctions rend la recherche bien plus efficace"
+},
+{
+"key": "part14a.html#739",
+"fr": "<small>Documents des fabricants</small>Approfondis sur les principes"
+},
+{
+"key": "part14a.html#740",
+"fr": "Livres blancs et manuels caméra · éclairage, gratuits et très fiables"
+},
+{
+"key": "part14a.html#741",
+"fr": "<small>Tutoriels vidéo</small>Les suivre ne suffit pas"
+},
+{
+"key": "part14a.html#742",
+"fr": "Après visionnage, refaites toujours l’exercice avec d’autres images"
+},
+{
+"key": "part14a.html#743",
+"fr": "<small>Archives des prix publicitaires internationaux</small>Efficaces pour apprendre la structure"
+},
+{
+"key": "part14a.html#744",
+"fr": "Lisez en parallèle les résumés de cas des lauréats"
+},
+{
+"key": "part14a.html#745",
+"fr": "<small>Ouvrages théoriques</small>Un livre, plusieurs lectures"
+},
+{
+"key": "part14a.html#746",
+"fr": "Théorie du cinéma et manuels de montage gagnent à être relus"
+},
+{
+"key": "part14a.html#747",
+"fr": "<small>Communautés</small>Lire les démarches, pas seulement les questions"
+},
+{
+"key": "part14a.html#748",
+"fr": "On apprend davantage de la façon dont les autres résolvent les problèmes"
+},
+{
+"key": "part14a.html#749",
+"fr": "À vérifier après 6 mois"
+},
+{
+"key": "part14a.html#750",
+"fr": "Point à vérifier"
+},
+{
+"key": "part14a.html#751",
+"fr": "5 réalisations terminées ou plus dans votre dossier"
+},
+{
+"key": "part14a.html#752",
+"fr": "Au moins une réalisation conservée avec sa note d’intention et son storyboard"
+},
+{
+"key": "part14a.html#753",
+"fr": "Avoir montré son travail et reçu des retours"
+},
+{
+"key": "part14a.html#754",
+"fr": "Savoir nommer les défauts de son propre travail"
+},
+{
+"key": "part14a.html#755",
+"fr": "Avoir choisi le domaine à approfondir ensuite"
+},
+{
+"key": "part14a.html#756",
+"fr": "Ce qu’on lit s’oublie ; ce qu’on fait reste.<small>Annexe Q Le plus important</small>"
+},
+{
+"key": "part14b.html#0",
+"fr": "<b>Annexe</b>Liste des planches et prompts de production"
+},
+{
+"key": "part14b.html#1",
+"fr": "Liste des planches et prompts de production"
+},
+{
+"key": "part14b.html#2",
+"fr": "22 planches en plus de celles placées dans le texte, à utiliser dans des manuels et des supports de cours. Les prompts de génération complets sont conservés dans les fichiers du manuscrit."
+},
+{
+"key": "part14b.html#3",
+"fr": "<b>NOTE</b>"
+},
+{
+"key": "part14b.html#4",
+"fr": "Toutes les planches sont des vecteurs monochromes, et les prompts sont rédigés en anglais pour pouvoir être saisis tels quels dans les outils de génération d’images."
+},
+{
+"key": "part14b.html#5",
+"fr": "N°"
+},
+{
+"key": "part14b.html#6",
+"fr": "Titre"
+},
+{
+"key": "part14b.html#7",
+"fr": "Partie"
+},
+{
+"key": "part14b.html#8",
+"fr": "N°"
+},
+{
+"key": "part14b.html#9",
+"fr": "Titre"
+},
+{
+"key": "part14b.html#10",
+"fr": "Partie"
+},
+{
+"key": "part14b.html#11",
+"fr": "8 valeurs de plan comparées"
+},
+{
+"key": "part14b.html#12",
+"fr": "Formats d’image superposés"
+},
+{
+"key": "part14b.html#13",
+"fr": "PARTIE 3"
+},
+{
+"key": "part14b.html#14",
+"fr": "6 angles comparés"
+},
+{
+"key": "part14b.html#15",
+"fr": "Zones de sécurité des vidéos courtes"
+},
+{
+"key": "part14b.html#16",
+"fr": "PARTIE 7"
+},
+{
+"key": "part14b.html#17",
+"fr": "Règle des tiers et nombre d’or"
+},
+{
+"key": "part14b.html#18",
+"fr": "Structure de la timeline de montage"
+},
+{
+"key": "part14b.html#19",
+"fr": "PARTIE 5"
+},
+{
+"key": "part14b.html#20",
+"fr": "8 trajectoires de caméra, vue de dessus"
+},
+{
+"key": "part14b.html#21",
+"fr": "Pile de calques After Effects"
+},
+{
+"key": "part14b.html#22",
+"fr": "Triangle d’exposition"
+},
+{
+"key": "part14b.html#23",
+"fr": "4 courbes d’accélération comparées"
+},
+{
+"key": "part14b.html#24",
+"fr": "PARTIE 5"
+},
+{
+"key": "part14b.html#25",
+"fr": "Tailles de capteurs superposées"
+},
+{
+"key": "part14b.html#26",
+"fr": "PARTIE 3"
+},
+{
+"key": "part14b.html#27",
+"fr": "Carte de toute la chaîne de production"
+},
+{
+"key": "part14b.html#28",
+"fr": "PARTIE 6"
+},
+{
+"key": "part14b.html#29",
+"fr": "Portraits selon la focale"
+},
+{
+"key": "part14b.html#30",
+"fr": "Entonnoir et types de contenu"
+},
+{
+"key": "part14b.html#31",
+"fr": "PARTIE 8"
+},
+{
+"key": "part14b.html#32",
+"fr": "Plan au sol de l’éclairage trois points"
+},
+{
+"key": "part14b.html#33",
+"fr": "Formats d’image par plateforme"
+},
+{
+"key": "part14b.html#34",
+"fr": "PARTIE 7"
+},
+{
+"key": "part14b.html#35",
+"fr": "6 schémas d’éclairage du portrait comparés"
+},
+{
+"key": "part14b.html#36",
+"fr": "Plan du parcours d’une exposition XR"
+},
+{
+"key": "part14b.html#37",
+"fr": "Plan d’un studio d’incrustation"
+},
+{
+"key": "part14b.html#38",
+"fr": "Mise en page d’un portfolio"
+},
+{
+"key": "part14b.html#39",
+"fr": "PARTIE 11"
+}
+]

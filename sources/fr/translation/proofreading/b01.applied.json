@@ -1,0 +1,32 @@
+[
+ {
+  "key": "part00.html#29",
+  "find": "Le chapitre qui suit l’explication de la vitesse d’obturation fixe donne des réglages types par modèle de caméra ; celui qui suit le sens du storyboard donne le jeu complet",
+  "replace": "Après avoir expliqué pourquoi la vitesse d’obturation est fixe, le chapitre donne des réglages types par modèle de caméra ; après avoir expliqué ce que signifie un storyboard, il donne le jeu complet",
+  "why": "meaning: 'why shutter speed is fixed' lost; 'qui suit le sens du storyboard' ungrammatical"
+ },
+ {
+  "key": "part00.html#74",
+  "find": "exercice sur tableau",
+  "replace": "exercice sur les tableaux",
+  "why": "meaning: table exercise, not blackboard"
+ },
+ {
+  "key": "part00.html#179",
+  "find": "est lu comme votre niveau",
+  "replace": "est pris pour votre niveau",
+  "why": "other: calque"
+ },
+ {
+  "key": "part00.html#191",
+  "find": "le nombre de révisions",
+  "replace": "le nombre de modifications",
+  "why": "term: consistent with Q29 'modifications'"
+ },
+ {
+  "key": "prologue.html#65",
+  "find": "il saccade",
+  "replace": "il est saccadé",
+  "why": "grammar: saccader not intransitive here"
+ }
+]

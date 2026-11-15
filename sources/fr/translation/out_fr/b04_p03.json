@@ -1,0 +1,602 @@
+[
+{
+"key": "part06.html#584",
+"fr": "2.1 Storyboard"
+},
+{
+"key": "part06.html#585",
+"fr": "Pas un talent de dessin, mais un dispositif qui fait imaginer le même cadre à dix personnes. Pour une vidéo courte, allez jusqu’à l’animatique."
+},
+{
+"key": "part06.html#586",
+"fr": "2.2 PPM"
+},
+{
+"key": "part06.html#587",
+"fr": "Documents envoyés 48 heures avant ; compte rendu partagé le jour même. Terminé quand chacun sait dire ce qu’il fera le jour du tournage."
+},
+{
+"key": "part06.html#588",
+"fr": "2.9 Rôles dans l’équipe"
+},
+{
+"key": "part06.html#589",
+"fr": "Un seul décideur. Règles de fichiers et dossier partagé dès le premier jour ; échéances internes un jour plus tôt."
+},
+{
+"key": "part06.html#590",
+"fr": "2.11 Interviews"
+},
+{
+"key": "part06.html#591",
+"fr": "2 caméras, double enregistrement, 30 secondes de silence plateau. Faites reprendre la question dans les réponses ; couvrez les jump cuts avec du B-roll."
+},
+{
+"key": "part06.html#592",
+"fr": "2.12 Sept notions"
+},
+{
+"key": "part06.html#593",
+"fr": "La structure est un ordre, la préparation une promesse, la mise en scène une disposition, le jeu une action, l’émotion la part du public."
+},
+{
+"key": "part06.html#594",
+"fr": "2.13 Adjectifs clés"
+},
+{
+"key": "part06.html#595",
+"fr": "Définissez l’univers par 3 adjectifs en tension et traduisez-les en couleur · lumière · optique · rythme · son."
+},
+{
+"key": "part06.html#596",
+"fr": "Pistes de réflexion"
+},
+{
+"key": "part06.html#597",
+"fr": "Quel est le concept en une phrase de mon projet ? Fonctionnerait-il encore avec le logo d’un concurrent ?"
+},
+{
+"key": "part06.html#598",
+"fr": "Si oui, vous n’avez pas su vous différencier. Cherchez de nouveau ce que les concurrents ne peuvent pas dire, sous une forme que l’image peut prouver."
+},
+{
+"key": "part06.html#599",
+"fr": "Avez-vous repoussé une décision au jour du tournage ? Qu’est-ce qui change si vous la prenez maintenant ?"
+},
+{
+"key": "part06.html#600",
+"fr": "Un changement le jour du tournage coûte 20 fois plus cher qu’au stade du concept. Envoyez les documents de réunion 48 heures avant, partagez les décisions par écrit le jour même, et gardez toujours 10 % de marge et un jour de tournage de réserve."
+},
+{
+"key": "part03.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part03.html#1",
+"fr": "<small>PARTIE</small>03"
+},
+{
+"key": "part03.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part03.html#3",
+"fr": "Ordre de réglage de l’exposition manuelle"
+},
+{
+"key": "part03.html#4",
+"fr": "Tableau de préréglages par situation"
+},
+{
+"key": "part03.html#5",
+"fr": "Interview d’1 minute au smartphone"
+},
+{
+"key": "part03.html#6",
+"fr": "Caméra : matériel et technique"
+},
+{
+"key": "part03.html#7",
+"fr": "Une caméra est un appareil qui enregistre la lumière. Combien de lumière, pendant combien de temps, avec quelle sensibilité ? Comprenez ces trois points et l’ordre des opérations est le même sur tous les modèles. Cette PARTIE répond à la question « Comment tourner de belles images ? » non par des chiffres, mais par un ordre de décision."
+},
+{
+"key": "part03.html#8",
+"fr": "Photo P-03 Bagues de diaphragme et de mise au point d’une caméra cinéma · image générée"
+},
+{
+"key": "part03.html#9",
+"fr": "<b>P-03</b> Bagues de diaphragme et de mise au point d’une caméra cinéma"
+},
+{
+"key": "part03.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part03.html#11",
+"fr": "Comprendre le triangle d’exposition et régler l’exposition en manuel"
+},
+{
+"key": "part03.html#12",
+"fr": "<b>Matériel</b>Hybride ou smartphone en mode pro, filtre ND, appli posemètre"
+},
+{
+"key": "part03.html#13",
+"fr": "<b>10 min</b><i>Introduction</i><span>Comparer une même scène tournée en auto et en manuel</span>"
+},
+{
+"key": "part03.html#14",
+"fr": "<b>15 min</b><i>Notions</i><span>Verrouiller l’obturateur, régler l’ISO natif, mettre en scène avec l’ouverture. Pourquoi cet ordre</span>"
+},
+{
+"key": "part03.html#15",
+"fr": "<b>10 min</b><i>Planches</i><span>Parcourir l’empilement des cadences et le disque d’angle d’obturation</span>"
+},
+{
+"key": "part03.html#16",
+"fr": "<b>10 min</b><i>Exercice</i><span>Tourner une scène à F2,0 puis à F8, noter les réglages modifiés</span>"
+},
+{
+"key": "part03.html#17",
+"fr": "<b>5 min</b><i>Bilan</i><span>Distribuer le tableau de préréglages</span>"
+},
+{
+"key": "part03.html#18",
+"fr": "<b>Point de contrôle</b>Savent-ils expliquer ce qu’ils ont verrouillé en premier en changeant l’exposition"
+},
+{
+"key": "part03.html#19",
+"fr": "PARTIE 03"
+},
+{
+"key": "part03.html#20",
+"fr": "Introduction"
+},
+{
+"key": "part03.html#21",
+"fr": "Une caméra est un appareil qui enregistre la lumière. Saisissez cette seule phrase et l’ordre des opérations est le même sur tous les modèles. Combien de lumière laisser entrer, pendant combien de temps, et avec quelle sensibilité la recevoir. Toutes les autres fonctions sont au service de ces trois-là."
+},
+{
+"key": "part03.html#22",
+"fr": "L’erreur de débutant la plus courante est de tout confier à l’automatique. L’exposition automatique modifie la luminosité à chaque passage de nuage, et la balance des blancs automatique donne une couleur différente à chaque plan. Les images sont une matière qui doit se monter : la cohérence passe avant la finition d’un plan isolé."
+},
+{
+"key": "part03.html#23",
+"fr": "Cette partie regorge de chiffres, mais vous n’avez pas à les mémoriser. Ce qu’il vous faut, c’est sentir ce que vous gagnez et perdez en tournant chaque molette. Ouvrez le diaphragme : le fond devient flou, mais les erreurs de mise au point se multiplient ; montez la sensibilité : l’image s’éclaircit, mais le bruit augmente. Chaque choix a un prix, et le chef opérateur est celui qui connaît ce prix et le paie."
+},
+{
+"key": "part03.html#24",
+"fr": "Contexte 4"
+},
+{
+"key": "part03.html#25",
+"fr": "Objectif et œil – vision de la machine, vision humaine"
+},
+{
+"key": "part03.html#26",
+"fr": "On compare souvent la caméra à l’œil, mais les deux ne voient pas le monde de la même façon. L’œil humain ne voit net que dans une zone minuscule, la fovéa ; les yeux balaient sans cesse, et le cerveau assemble les fragments en une seule scène. Voilà pourquoi nous avons l’impression de voir aussi bien, en même temps, une fenêtre lumineuse et une pièce sombre."
+},
+{
+"key": "part03.html#27",
+"fr": "Le capteur d’une caméra enregistre tout le cadre dans les mêmes conditions, en un instant : l’extérieur est brûlé, ou l’intérieur sombre dans le noir. Si nous étudions l’exposition et la plage dynamique, c’est parce que celui qui filme doit désormais décider ce que l’œil faisait automatiquement."
+},
+{
+"key": "part03.html#28",
+"fr": "La focale est elle aussi souvent mal comprise. À strictement parler, ce n’est pas la focale qui change la perspective, mais la distance entre la caméra et le sujet. Pour remplir le cadre d’un visage au grand-angle, il faut s’approcher, et cette distance grossit le nez. Pour obtenir la même taille au téléobjectif, il faut reculer loin, et cette distance rapproche l’arrière-plan. C’est la position de la caméra qui change la perspective, pas l’objectif."
+},
+{
+"key": "part03.html#29",
+"fr": "L’« objectif normal » relève lui aussi plutôt de la convention. La diagonale d’un capteur plein format mesure environ 43 mm : les focales voisines passent pour les plus proches de la perspective naturelle et, par usage, on appelle normal le 50 mm. Plus que le chiffre, ce qui compte est de savoir si le public reçoit la scène comme « vue de près » ou comme « épiée de loin »."
+},
+{
+"key": "part03.html#30",
+"fr": "Le nombre f est le rapport entre la focale et le diamètre de l’ouverture. À f/2, l’ouverture est plus grande qu’à f/4 et laisse passer quatre fois plus de lumière ; et plus l’ouverture est grande, plus la profondeur de champ est faible. La profondeur de champ varie aussi avec la focale, la distance au sujet et la taille du capteur : pour la réduire, vous pouvez aussi vous approcher du sujet ou éloigner l’arrière-plan. Les termes techniques forment un seul et même système."
+},
+{
+"key": "part03.html#31",
+"fr": "Au fond, une caméra n’est pas un appareil qui imite l’œil, mais un appareil qui montre le monde comme l’œil ne peut pas le voir. Elle fige 0,1 seconde, étire 1 seconde en 10, et regarde depuis des hauteurs et des distances impossibles. Les chiffres de ce chapitre sont le langage qui permet d’employer cette vision nouvelle selon votre intention."
+},
+{
+"key": "part03.html#32",
+"fr": "Pour aller plus loin – Blain Brown, Cinematography: Theory and Practice · Gustavo Mercado, The Filmmaker’s Eye"
+},
+{
+"key": "part03.html#33",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#34",
+"fr": "Une généalogie du matériel de prise de vues"
+},
+{
+"key": "part03.html#35",
+"fr": "Chaque fois que le matériel s’est allégé, un nouveau langage visuel est né. Demandez-vous d’abord ce que rendent possible les caractéristiques physiques du matériel que vous avez en main."
+},
+{
+"key": "part03.html#36",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part03.html#37",
+"fr": "Dans les années 2020, c’est l’écart de jugement, non l’écart de matériel, qui décide du résultat."
+},
+{
+"key": "part03.html#38",
+"fr": "Période"
+},
+{
+"key": "part03.html#39",
+"fr": "Matériel"
+},
+{
+"key": "part03.html#40",
+"fr": "Ce qui a changé"
+},
+{
+"key": "part03.html#41",
+"fr": "Caméra argentique à manivelle"
+},
+{
+"key": "part03.html#42",
+"fr": "Vitesse dépendante de la main ; avant la normalisation des cadences"
+},
+{
+"key": "part03.html#43",
+"fr": "Caméras insonorisées pour le son synchrone, système des studios"
+},
+{
+"key": "part03.html#44",
+"fr": "Le matériel lourd confinait le tournage en intérieur"
+},
+{
+"key": "part03.html#45",
+"fr": "Caméras 16 mm légères, magnétophones portables"
+},
+{
+"key": "part03.html#46",
+"fr": "La caméra sur le terrain a fait le documentaire et la Nouvelle Vague"
+},
+{
+"key": "part03.html#47",
+"fr": "Caméras ENG, Steadicam"
+},
+{
+"key": "part03.html#48",
+"fr": "Le style reportage et le langage de la caméra mobile s’installent"
+},
+{
+"key": "part03.html#49",
+"fr": "Caméscopes grand public, format DV"
+},
+{
+"key": "part03.html#50",
+"fr": "Début de l’ère où chacun possède et produit ses images"
+},
+{
+"key": "part03.html#51",
+"fr": "Reflex numériques vidéo"
+},
+{
+"key": "part03.html#52",
+"fr": "Faible profondeur de champ des grands capteurs, à bas prix. La « révolution DSLR »"
+},
+{
+"key": "part03.html#53",
+"fr": "Hybrides, 4K, Log, stabilisateurs"
+},
+{
+"key": "part03.html#54",
+"fr": "Une qualité commerciale même en équipe d’1 personne"
+},
+{
+"key": "part03.html#55",
+"fr": "Log sur smartphone, caméras cinéma compactes, monitoring sans fil"
+},
+{
+"key": "part03.html#56",
+"fr": "L’écart de jugement plus que l’écart de matériel"
+},
+{
+"key": "part03.html#57",
+"fr": "Ce qu’il faut lire dans cette généalogie"
+},
+{
+"key": "part03.html#58",
+"fr": "Le 16 mm a fait le documentaire, le reflex numérique la vidéo web à faible profondeur de champ, le stabilisateur le point de vue flottant, et le smartphone la vidéo courte verticale. Les caractéristiques physiques du matériel façonnent le langage visuel."
+},
+{
+"key": "part03.html#59",
+"fr": "<small>Exercice</small>3.1"
+},
+{
+"key": "part03.html#60",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#61",
+"fr": "Tournez la même scène avec deux appareils parmi pellicule · caméscope · reflex numérique · smartphone et comparez les caractéristiques de leurs images."
+},
+{
+"key": "part03.html#62",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#63",
+"fr": "Accordez au mieux l’exposition et la balance des blancs avant de comparer, sinon les différences entre appareils n’apparaîtront pas."
+},
+{
+"key": "part03.html#64",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#65",
+"fr": "Conditions maîtrisées, observations précises"
+},
+{
+"key": "part03.html#66",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#67",
+"fr": "Évalue point par point la plage dynamique, le bruit et le rendu des couleurs."
+},
+{
+"key": "part03.html#68",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#69",
+"fr": "Types de caméras et critères de choix"
+},
+{
+"key": "part03.html#70",
+"fr": "Choisir une caméra revient à trois questions : le plan bouge-t-il, la lumière manque-t-elle, l’image sera-t-elle fortement agrandie en postproduction."
+},
+{
+"key": "part03.html#71",
+"fr": "Type"
+},
+{
+"key": "part03.html#72",
+"fr": "Points forts"
+},
+{
+"key": "part03.html#73",
+"fr": "Points faibles"
+},
+{
+"key": "part03.html#74",
+"fr": "Idéal pour"
+},
+{
+"key": "part03.html#75",
+"fr": "Coût d’entrée indicatif"
+},
+{
+"key": "part03.html#76",
+"fr": "Caméra cinéma"
+},
+{
+"key": "part03.html#77",
+"fr": "Grande latitude, ND intégré, codecs robustes"
+},
+{
+"key": "part03.html#78",
+"fr": "Lourde ; accessoires indispensables"
+},
+{
+"key": "part03.html#79",
+"fr": "Tournages publicitaires, fiction"
+},
+{
+"key": "part03.html#80",
+"fr": "Très élevé"
+},
+{
+"key": "part03.html#81",
+"fr": "Hybride"
+},
+{
+"key": "part03.html#82",
+"fr": "Rapport qualité-prix, Log 10 bits, 4K 60p"
+},
+{
+"key": "part03.html#83",
+"fr": "Surchauffe, durée d’enregistrement limitée"
+},
+{
+"key": "part03.html#84",
+"fr": "Projets étudiants, la plupart des vidéos web commerciales"
+},
+{
+"key": "part03.html#85",
+"fr": "Moyen"
+},
+{
+"key": "part03.html#86",
+"fr": "Smartphone"
+},
+{
+"key": "part03.html#87",
+"fr": "Toujours sous la main, macro, mise en ligne immédiate"
+},
+{
+"key": "part03.html#88",
+"fr": "Faible en basse lumière, limites optiques"
+},
+{
+"key": "part03.html#89",
+"fr": "Vidéos courtes, quotidien, vue subjective"
+},
+{
+"key": "part03.html#90",
+"fr": "Faible"
+},
+{
+"key": "part03.html#91",
+"fr": "Caméra d’action"
+},
+{
+"key": "part03.html#92",
+"fr": "Ultra grand-angle, forte stabilisation, étanche"
+},
+{
+"key": "part03.html#93",
+"fr": "Qualité d’image et tenue en basse lumière faibles"
+},
+{
+"key": "part03.html#94",
+"fr": "Vitesse, point de vue embarqué, endroits risqués"
+},
+{
+"key": "part03.html#95",
+"fr": "Faible"
+},
+{
+"key": "part03.html#96",
+"fr": "Drone"
+},
+{
+"key": "part03.html#97",
+"fr": "Vue aérienne, donne l’échelle"
+},
+{
+"key": "part03.html#98",
+"fr": "Autorisations, contraintes météo"
+},
+{
+"key": "part03.html#99",
+"fr": "Un plan d’ouverture ou de fin"
+},
+{
+"key": "part03.html#100",
+"fr": "Moyen"
+},
+{
+"key": "part03.html#101",
+"fr": "Stabilisateur intégré"
+},
+{
+"key": "part03.html#102",
+"fr": "Plans de suivi en solo"
+},
+{
+"key": "part03.html#103",
+"fr": "Petit capteur, objectif fixe"
+},
+{
+"key": "part03.html#104",
+"fr": "Plans en mouvement en équipe d’1 personne"
+},
+{
+"key": "part03.html#105",
+"fr": "Faible–moyen"
+},
+{
+"key": "part03.html#106",
+"fr": "Caméscope broadcast"
+},
+{
+"key": "part03.html#107",
+"fr": "Longue durée, zoom optique, entrées audio"
+},
+{
+"key": "part03.html#108",
+"fr": "Faible profondeur de champ difficile"
+},
+{
+"key": "part03.html#109",
+"fr": "Événements, conférences, directs"
+},
+{
+"key": "part03.html#110",
+"fr": "Moyen"
+},
+{
+"key": "part03.html#111",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part03.html#112",
+"fr": "Ne choisissez pas « les meilleures caractéristiques », mais « des caractéristiques suffisantes pour le résultat »."
+},
+{
+"key": "part03.html#113",
+"fr": "Trois questions décisives"
+},
+{
+"key": "part03.html#114",
+"fr": "<b>01</b><span>Le plan bouge-t-il – si oui, il faut du matériel de stabilisation.</span>"
+},
+{
+"key": "part03.html#115",
+"fr": "<b>02</b><span>La lumière manque-t-elle – s’il fait sombre, il faut un grand capteur.</span>"
+},
+{
+"key": "part03.html#116",
+"fr": "<b>03</b><span>L’image sera-t-elle très agrandie en postproduction – si oui, il faut une haute résolution.</span>"
+},
+{
+"key": "part03.html#117",
+"fr": "<small>Exercice</small>3.2"
+},
+{
+"key": "part03.html#118",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#119",
+"fr": "Proposez des configurations caméra, budgets compris, pour 3 commandes fictives (interview YouTube, film de marque, clip musical)."
+},
+{
+"key": "part03.html#120",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#121",
+"fr": "Renseignez-vous sur les tarifs de location et calculez le coût par jour."
+},
+{
+"key": "part03.html#122",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#123",
+"fr": "Solidité de l’argumentation (qualité d’image, mobilité, budget)"
+},
+{
+"key": "part03.html#124",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#125",
+"fr": "Choisit non pas « les meilleures caractéristiques », mais « des caractéristiques suffisantes pour le résultat »."
+},
+{
+"key": "part03.html#126",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#127",
+"fr": "Taille du capteur et angle de champ"
+},
+{
+"key": "part03.html#128",
+"fr": "Plus le capteur est petit, plus un même objectif voit étroit ; plus il est grand, plus la profondeur de champ est faible. Le coefficient de recadrage chiffre cet écart."
+},
+{
+"key": "part03.html#129",
+"fr": "<b>Fig. 28</b> Comparaison des tailles de capteur"
+},
+{
+"key": "part03.html#130",
+"fr": "Capteur"
+},
+{
+"key": "part03.html#131",
+"fr": "Taille approx."
+},
+{
+"key": "part03.html#132",
+"fr": "Coeff. de recadrage"
+}
+]

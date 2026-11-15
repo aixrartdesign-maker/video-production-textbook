@@ -1,0 +1,390 @@
+[
+{
+"key": "part12.html#20",
+"fr": "Ce qui renchérit quand les outils deviennent bon marché"
+},
+{
+"key": "part12.html#21",
+"fr": "En 1965, Gordon Moore, cofondateur d’Intel, publiait son observation : le nombre de composants d’un circuit intégré double à intervalles réguliers. Ce qui compte dans cette règle empirique, connue sous le nom de loi de Moore, ce n’est pas le chiffre, mais la conséquence. Quand une ressource ne cesse de baisser de prix, on change sa façon de travailler pour l’utiliser sans compter. Les économistes parlent de biens complémentaires qui prennent de la valeur. Quand une chose devient bon marché, ce qui s’utilise avec elle devient plus précieux."
+},
+{
+"key": "part12.html#22",
+"fr": "Depuis 100 ans, ce qui coûtait le plus cher en production vidéo était « le coût d’une prise de plus ». Chaque mètre de pellicule, chaque journée des comédiens et de l’équipe coûtait de l’argent. Toutes les pratiques de production, du storyboard aux répétitions et aux essais filmés, ont donc été conçues pour réduire le risque d’échec. Quand le tournage numérique a supprimé le coût de la pellicule, la première chose à changer sur le plateau a été le nombre de prises."
+},
+{
+"key": "part12.html#23",
+"fr": "Les outils génératifs vont un cran plus loin. Le coût d’une ébauche est tombé à près de 0. Obtenir trois images de concept demandait autrefois des jours de travail à un illustrateur ; on réfléchissait donc longuement aux trois à demander. Aujourd’hui, on en voit 100 en 30 minutes. La réflexion difficile est passée de « quoi demander » à « quoi choisir »."
+},
+{
+"key": "part12.html#24",
+"fr": "Qu’est-ce qui a donc renchéri ? D’abord, le jugement. La capacité de dire laquelle de 100 images convient à la marque et touchera le public ne se génère pas. Ensuite, la confiance. Quand n’importe qui peut produire une image plausible, le client ne paie pas l’image, mais l’assurance que « confié à cette personne, le travail sera fait, et de façon responsable ». Enfin, le réel. La valeur de ce que l’on tourne et qui ne se génère pas – vrais produits, vraies boutiques, vrais visages – a en réalité augmenté."
+},
+{
+"key": "part12.html#25",
+"fr": "Connaître cette structure montre aussi où les étudiants doivent investir leur temps. On apprend à manier un outil en quelques jours. Mais la capacité de dire pourquoi un plan fonctionne, la confiance née des délais tenus et l’œil qui lit la lumière sur un plateau ne répondent qu’à l’accumulation. Pour lire les chiffres des sections qui suivent, un seul étalon : qu’est-ce que ce changement a rendu bon marché, et donc qu’a-t-il rendu précieux ?"
+},
+{
+"key": "part12.html#26",
+"fr": "Pour aller plus loin – Carl Shapiro · Hal Varian, Information Rules · Erik Brynjolfsson · Andrew McAfee, The Second Machine Age · Ethan Mollick, Co-Intelligence"
+},
+{
+"key": "part12.html#27",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#28",
+"fr": "De combien le temps de production a fondu"
+},
+{
+"key": "part12.html#29",
+"fr": "Depuis 2024, on ne cesse d’affirmer que l’IA générative a changé la production publicitaire, mais peu de cas publient des chiffres, et ceux-ci divergent. En ne retenant que des cas bien sourcés, voyons d’abord ce que chaque chiffre compare exactement."
+},
+{
+"key": "part12.html#30",
+"fr": "<b>Env. 1 an<em>→ env. 1 mois</em></b>Publicité de fin d’année Coca-Cola (2025), durée de production"
+},
+{
+"key": "part12.html#31",
+"fr": "<b>300–400<em>→ 15 plans</em></b>Publicité Kalshi, finales NBA : générations et plans retenus"
+},
+{
+"key": "part12.html#32",
+"fr": "<b>1/5</b>Long métrage IA de CJ ENM (2026), coût de production"
+},
+{
+"key": "part12.html#33",
+"fr": "<b>1/10</b>Série MBC, coût des scènes de foule · d’action (meilleur cas)"
+},
+{
+"key": "part12.html#34",
+"fr": "Cas"
+},
+{
+"key": "part12.html#35",
+"fr": "Dispositif de production"
+},
+{
+"key": "part12.html#36",
+"fr": "Chiffres publiés"
+},
+{
+"key": "part12.html#37",
+"fr": "Source"
+},
+{
+"key": "part12.html#38",
+"fr": "Publicité Kalshi, finales NBA (juin 2025)"
+},
+{
+"key": "part12.html#39",
+"fr": "1 réalisateur, Google Veo 3"
+},
+{
+"key": "part12.html#40",
+"fr": "Env. 2000 $ · 2–3 jours · 15 plans retenus sur 300–400 générations"
+},
+{
+"key": "part12.html#41",
+"fr": "Interview du créateur"
+},
+{
+"key": "part12.html#42",
+"fr": "Publicité de fin d’année Coca-Cola (2025)"
+},
+{
+"key": "part12.html#43",
+"fr": "Noyau de 5 spécialistes IA"
+},
+{
+"key": "part12.html#44",
+"fr": "Plus de 70 000 clips générés · env. 1 mois de production (contre env. 1 an)"
+},
+{
+"key": "part12.html#45",
+"fr": "Entreprise · presse"
+},
+{
+"key": "part12.html#46",
+"fr": "Film de marque Toys“R”Us (juin 2024)"
+},
+{
+"key": "part12.html#47",
+"fr": "Agence + OpenAI Sora"
+},
+{
+"key": "part12.html#48",
+"fr": "Centaines de plans → dizaines · semaines"
+},
+{
+"key": "part12.html#49",
+"fr": "Communiqué de l’agence"
+},
+{
+"key": "part12.html#50",
+"fr": "Innocean × Hyundai (juin 2024)"
+},
+{
+"key": "part12.html#51",
+"fr": "Plus de 15 technologies IA"
+},
+{
+"key": "part12.html#52",
+"fr": "L’une des premières campagnes 100 % IA de Corée (durée · coût non communiqués)"
+},
+{
+"key": "part12.html#53",
+"fr": "Presse spécialisée"
+},
+{
+"key": "part12.html#54",
+"fr": "Long métrage IA de CJ ENM (2026)"
+},
+{
+"key": "part12.html#55",
+"fr": "Les acteurs jouent, l’IA fait le reste"
+},
+{
+"key": "part12.html#56",
+"fr": "Coût : env. 1/5"
+},
+{
+"key": "part12.html#57",
+"fr": "Presse"
+},
+{
+"key": "part12.html#58",
+"fr": "Série MBC, foule · action (2026)"
+},
+{
+"key": "part12.html#59",
+"fr": "En interne, par le diffuseur"
+},
+{
+"key": "part12.html#60",
+"fr": "Coût par scène jusqu’à 1/10"
+},
+{
+"key": "part12.html#61",
+"fr": "Presse"
+},
+{
+"key": "part12.html#62",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part12.html#63",
+"fr": "Les chiffres spectaculaires du type « de 6 semaines à quelques heures » viennent en général d’un seul média et restent invérifiables à la source. Si vous en citez un, donnez la source et les conditions."
+},
+{
+"key": "part12.html#64",
+"fr": "Ce qu’il faut regarder dans les chiffres"
+},
+{
+"key": "part12.html#65",
+"fr": "Ce qui a diminué"
+},
+{
+"key": "part12.html#66",
+"fr": "Coût de génération – Kalshi a retenu 15 plans sur 300–400 générations, soit un taux de réussite d’env. 5 %"
+},
+{
+"key": "part12.html#67",
+"fr": "Durée de production – Coca-Cola, d’env. 1 an à env. 1 mois"
+},
+{
+"key": "part12.html#68",
+"fr": "Les types de tâches humaines"
+},
+{
+"key": "part12.html#69",
+"fr": "Ce qui n’a pas diminué"
+},
+{
+"key": "part12.html#70",
+"fr": "Effectif total – le noyau de génération de Coca-Cola comptait 5 personnes, mais la campagne entière en a encore mobilisé une centaine, comme avant"
+},
+{
+"key": "part12.html#71",
+"fr": "Temps de sélection – choisir parmi 70 000 clips prend du temps humain"
+},
+{
+"key": "part12.html#72",
+"fr": "La charge de vérifier des chiffres aux bases de comparaison floues"
+},
+{
+"key": "part12.html#73",
+"fr": "Adoption à l’échelle du secteur"
+},
+{
+"key": "part12.html#74",
+"fr": "<b>Env. 50<em> %</em></b>Enquête IAB 2025 – annonceurs produisant déjà des publicités vidéo avec l’IA générative. 86 % des acheteurs l’utilisent ou le prévoient ; la création générative devrait représenter 40 % de la publicité en 2026"
+},
+{
+"key": "part12.html#75",
+"fr": "<b>32,1<em> %</em></b>KOCCA 2025 – part des entreprises de contenus utilisant l’IA générative. Jeux 70,0 %, animation 51,6 %, publicité 40,9 %, audiovisuel 31,9 % (2023 : 7,8 %, 2024 : 13,2 %)"
+},
+{
+"key": "part12.html#76",
+"fr": "<b>15<em>/66 pubs</em></b>Publicités du Super Bowl (février 2026) recensées comme utilisant l’IA en production. Une seule était déclarée entièrement générée par IA"
+},
+{
+"key": "part12.html#77",
+"fr": "L’affirmation « la publicité est passée au tout-IA » n’est pas encore vraie."
+},
+{
+"key": "part12.html#78",
+"fr": "Quand on vous dit que le temps de production a diminué, demandez en retour : qu’a-t-on généré, combien en a-t-on produit et combien retenu, et combien de jours a pris le choix ?<small>11.1 De combien le temps de production a fondu</small>"
+},
+{
+"key": "part12.html#79",
+"fr": "<small>Exercice</small>11.1"
+},
+{
+"key": "part12.html#80",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#81",
+"fr": "Choisissez une publicité récente d’une marque que vous aimez et estimez dans un tableau, étape par étape, ce qu’elle demande en production traditionnelle et avec des outils génératifs. Justifiez chaque estimation en une ligne."
+},
+{
+"key": "part12.html#82",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#83",
+"fr": "Découpez en conception, storyboard, réservations, tournage, montage, corrections et livraison. Sous-estimer les corrections est l’erreur la plus fréquente."
+},
+{
+"key": "part12.html#84",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#85",
+"fr": "Les estimations sont-elles justifiées ? Les étapes qui raccourcissent et celles qui s’allongent sont-elles toutes repérées ?"
+},
+{
+"key": "part12.html#86",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#87",
+"fr": "Une estimation dont le tableau montre que le temps gagné à la génération revient sous forme de temps de « sélection et correction »."
+},
+{
+"key": "part12.html#88",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#89",
+"fr": "La chaîne de production redessinée"
+},
+{
+"key": "part12.html#90",
+"fr": "Comment la chaîne de production a-t-elle été recomposée ? La production traditionnelle allait dans un seul sens : conception → tournage → postproduction. Avec les outils génératifs, le flux est devenu une boucle : arrêter le concept et produire les images finales se font désormais à la même étape."
+},
+{
+"key": "part12.html#91",
+"fr": "<b>01</b><i>Prompt</i>Décrire en mots références et conditions"
+},
+{
+"key": "part12.html#92",
+"fr": "<b>02</b><i>Générer</i>Produire de nombreuses variantes d’un coup"
+},
+{
+"key": "part12.html#93",
+"fr": "<b>03</b><i>Sélectionner</i>Retenir ce qui répond aux critères"
+},
+{
+"key": "part12.html#94",
+"fr": "<b>04</b><i>Corriger</i>Modifier le prompt, retour à 01"
+},
+{
+"key": "part12.html#95",
+"fr": "Du sens unique à la boucle – les décisions restent ouvertes jusqu’au bout"
+},
+{
+"key": "part12.html#96",
+"fr": "Traditionnel – sens unique"
+},
+{
+"key": "part12.html#97",
+"fr": "Conception"
+},
+{
+"key": "part12.html#98",
+"fr": "Storyboard"
+},
+{
+"key": "part12.html#99",
+"fr": "Réservations · tournage"
+},
+{
+"key": "part12.html#100",
+"fr": "Montage"
+},
+{
+"key": "part12.html#101",
+"fr": "Corrections"
+},
+{
+"key": "part12.html#102",
+"fr": "Livraison"
+},
+{
+"key": "part12.html#103",
+"fr": "Pas de retour arrière après le tournage – décider avant ; coûts au plus haut le jour du tournage"
+},
+{
+"key": "part12.html#104",
+"fr": "Génératif – boucle"
+},
+{
+"key": "part12.html#105",
+"fr": "Prompt"
+},
+{
+"key": "part12.html#106",
+"fr": "Générer"
+},
+{
+"key": "part12.html#107",
+"fr": "Sélectionner"
+},
+{
+"key": "part12.html#108",
+"fr": "Corriger"
+},
+{
+"key": "part12.html#109",
+"fr": "Des dizaines de fois"
+},
+{
+"key": "part12.html#110",
+"fr": "Verrouiller"
+},
+{
+"key": "part12.html#111",
+"fr": "Ouvert jusqu’au bout"
+},
+{
+"key": "part12.html#112",
+"fr": "Retouche · compositing"
+},
+{
+"key": "part12.html#113",
+"fr": "Le plus de travail manuel"
+},
+{
+"key": "part12.html#114",
+"fr": "Contrôle qualité · livraison"
+},
+{
+"key": "part12.html#115",
+"fr": "Droits · faits · qualité"
+},
+{
+"key": "part12.html#116",
+"fr": "Le goulot du tournage a disparu ; la sélection et le contrôle qualité deviennent le goulot – « la postproduction est la nouvelle préproduction »"
+}
+]

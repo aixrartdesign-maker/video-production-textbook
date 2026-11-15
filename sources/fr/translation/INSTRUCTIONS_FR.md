@@ -1,0 +1,49 @@
+# Translation English → French (français, France): textbook « Production vidéo : manuel pratique »
+
+Source: the published English edition of a Korean university textbook on video production ("Video Production: A Practical Textbook", author Jia Ahn). You translate it into French for a printed book. The text will be printed as it is, so it must be **free of typos and grammar errors**. Quality over speed. Write as a native professional translator of film/video textbooks would: natural, idiomatic French, not word-for-word.
+
+## Input / output
+- Input: a JSON array of objects `{"key": "...", "en": "<html fragment>"}`.
+- Output: the same items in the same order as `{"key": "...", "fr": "<html fragment>"}`.
+- Write the output as consecutive chunk files with the Write tool: `out_fr/bNN_p01.json`, `out_fr/bNN_p02.json`, … (NN = your batch number, two digits), each a valid JSON array covering the next ~150 input items, in input order, no gaps, no overlaps. Concatenating the chunks in file-name order must reproduce the full input length and key order exactly. Output only valid JSON (no markdown fences; escape `"` inside strings as `\"`). Do not write any other files.
+- Before writing each chunk, re-read it once for typos, accents, agreement (genre, nombre, participes passés), verb forms, prepositions, élisions, French spacing rules and terminology.
+
+## Hard rules (the build breaks if violated)
+1. Every inline HTML tag in "en" must appear in "fr" **unchanged and in the same order** (`<b>`, `</b>`, `<br>`, `<em>`, `<small>`, `<span class="…" style="…">`, `<tspan …>`, `<i>` …). Translate only the text between/around tags. Never add, drop, reorder or edit tags or attributes. If the target word order differs, move the words, not the tags' order.
+2. Keep HTML entities as they are (`&amp;`, `&lt;`, `&nbsp;`). Keep `[[MK:…]]` tokens untouched.
+3. Translate **all** English prose, headings, labels, table cells, captions and uppercase kickers. Nothing English may remain except: established acronyms and codes (ISO, LUT, PPM, OTS, ELS, LS, FS, KS, MS, BS, CU, ECU, DP, AD, LED, XR, AR, VR, MR, RGB, CMYK, HDR, SDR, 4K, HD, UHD, fps, ND8, SNS, CTA, KPI, OTT), product/brand/software names (Premiere Pro, After Effects, DaVinci Resolve, YouTube Shorts, Instagram Reels, TikTok, Higgsfield, Kling …), titles of works, file names, and the storyboard template labels SIZE, MOVE, N, SE, CUT, REF, SYNC, M, CAP, MUSIC, MUTE.
+4. A run that is only a letter, number or acronym (e.g. "A", "CU", "4K") stays unchanged.
+5. Length: French runs about 15–20 % longer than English. Keep it tight — this book is typeset to the page. Prose may grow by at most ~15 %. **Labels, table cells, figure labels and headings must stay as short as the English or shorter** (use standard abbreviations: p. ex., env., max., min., min, h, fig., n°).
+6. Write part references as "PARTIE 07" (uppercase PARTIE + space + the two-digit number of the source) wherever the source has "PART 07". Write figure references exactly as "Fig. 12" / "Fig. 3-2" (capital F, full stop, one normal space).
+
+## Typography
+- Quotation marks: « … » with a no-break space (U+00A0) inside each guillemet (inner “…”). Replace English “…” / '…' accordingly. Use the typographic apostrophe ’ (l’image, qu’on).
+- French spacing: a no-break space (U+00A0) before : ; ! ? and before %, and inside « ». No space before , and . — Check every colon, semicolon, question and exclamation mark.
+- Dashes: parenthetical dash = space + en dash + space ( – ), used sparingly; a colon or comma is often better. In headings, labels, captions and table cells keep the source separator structure (" — " becomes " – "; " · ", "→", "+", "/" unchanged). Ranges without spaces: 1–2, 50–85 mm, 2019–2024.
+- Decimal comma for numbers in prose, measurements and settings: 1,5 m · 2,39:1 · f/2,8 · 0,04–0,1 s · 23,976 i/s if spelled, otherwise 23,976 fps · ×1,5. **Exceptions that keep the dot:** section numbers and cross-references (3.2, 12.14A, « voir 8.13 »), exercise numbers (exercice 8.12), version numbers, time codes (00:01:12:05), file names, URLs. Ratios keep the plain colon without spaces (16:9, 2,39:1).
+- Thousands: no-break space from five digits on (12 000), none for four digits (5600 K, 2024); never 12,000 or 12.000. Percent: 50 % (no-break space). Degrees: 180°.
+- Units with a no-break space: 50 mm, 3 m, 15 s, 2 min, 10 h. Keep "fps" and "K".
+- Capitals keep their accents (À, É, È, Ç: « À retenir », « Éclairage »). Sentence case in headings and labels; no Title Case; days, months and languages in lower case.
+- Address the reader with **vous** (imperative: « Planifiez… »; infinitive in lists/checklists: « Vérifier l’éclairage »). Be consistent within a list.
+- Gender: the author is a woman (l’autrice). For roles use the generic masculine or neutral nouns (réalisation, image, l’équipe, les étudiants); no point médian.
+- English film-set terms that are standard in French stay (storyboard, rush, showreel, fond vert is French, travelling, making-of); otherwise prefer the French term (prise, plan, montage, étalonnage, cadrage, éclairage).
+
+## Fixed terms (use exactly; keep consistent across the whole book)
+Figure N → Fig. N · Figures N–M → Fig. N–M · Plate X → Planche X · Reference photos X → Photos de référence X · Table N → Tabl. N
+PART 01 → PARTIE 01 · chapter → chapitre · section → section · Feature → Dossier · Background N → Contexte N · Introduction → Introduction
+Exercise → Exercice · Task → Tâche · Tip → Conseil · Assessment / Assessment points → Évaluation / Critères d’évaluation · Model answer → Corrigé type · Materials → Matériel · Check point → Point de contrôle
+Questions to consider → Pistes de réflexion · One-page summary → L’essentiel en une page · Self-check → Auto-évaluation · Field tips → Conseils de terrain · Exercises and review → Exercices et révision · Using this chapter in class → Utiliser ce chapitre en cours · Wrap-up → Bilan
+Term → Terme · Note → Note · Key point → Point clé · Case → Cas · Memo / NOTES → Notes · Spotlight → Zoom
+Contents → Sommaire · Colophon → Achevé d’imprimer · Preface → Préface · Author's note → Note de l’autrice · How to read this book → Comment lire ce livre · How to use this book → Comment utiliser ce livre · Learning roadmap → Parcours d’apprentissage · Afterword → Postface · Appendix → Annexe · List of figures → Table des figures · Front matter → Pages liminaires · Prologue → Prologue
+Author → Autrice · Jia Ahn → Jia Ahn · Video Production: A Practical Textbook → Production vidéo : manuel pratique · Kyungbok University → Université Kyungbok
+shot (unit of filming/editing) → plan · cut (edit point) → coupe (raccord when it is the join between two shots) · scene → scène · sequence → séquence · take → prise · storyboard → storyboard · panel → case · action note → indication d’action · dialogue → dialogue
+the line / 180° rule → axe de l’action / règle des 180° · over-the-shoulder (OTS) → amorce épaule (OTS) · two-shot → plan à deux · shot sizes: extreme long shot → plan de grand ensemble (ELS), long shot → plan d’ensemble (LS), full shot → plan en pied (FS), knee shot → plan américain (KS), medium shot → plan taille (MS), bust shot → plan poitrine (BS), close-up → gros plan (CU), extreme close-up → très gros plan (ECU)
+eye level / high angle / low angle / bird's-eye / worm's-eye → à hauteur d’yeux / plongée / contre-plongée / plongée totale / contre-plongée totale · headroom / noseroom / lead room → air au-dessus de la tête / air du regard / air de déplacement · rule of thirds → règle des tiers · golden ratio → nombre d’or · leading lines → lignes directrices
+pre-production / production / post-production → préproduction / tournage (production) / postproduction · delivery → livraison · set / on location → plateau / en décor naturel · director → réalisateur (réalisatrice), as a role: réalisation · DP → chef opérateur (DP) · AD → assistant réalisateur (AD) · client → client · call sheet → feuille de service · PPM (pre-production meeting) → PPM (réunion de préproduction) · proposal / treatment → note d’intention · script → scénario
+depth of field → profondeur de champ · exposure triangle → triangle d’exposition · aperture → ouverture (diaphragme) · shutter speed → vitesse d’obturation · shutter angle → angle d’obturation · ISO → ISO · focal length → focale · sensor / crop factor → capteur / coefficient de recadrage · color temperature → température de couleur · white balance → balance des blancs · codec → codec · log recording → enregistrement en Log · color grading → étalonnage · color correction → correction colorimétrique · frame rate → cadence d’images · aspect ratio → format d’image · safe zone / title safe / action safe → zone de sécurité / zone de sécurité des titres / zone de sécurité de l’action
+key / fill / back (rim) light → lumière principale (key) / lumière d’appoint (fill) / contre-jour (décrochage) · bounce → réflecteur · softbox → boîte à lumière · chroma key / green screen → incrustation / fond vert · LED wall → mur LED · media facade → façade média · anamorphic illusion → illusion anamorphique · media art → art numérique (media art) · immersive content → contenu immersif · expanded cinema → cinéma élargi
+short-form (video) → vidéo courte · showreel → showreel (bande démo) on first mention in an item, then showreel · portfolio → portfolio · thumbnail → miniature · hook → accroche · retention → rétention · reach → portée · engagement → engagement · click rate → taux de clics · generative AI → IA générative · prompt → prompt · AI (in prose) → IA
+Keep Korean names and places in the English romanization used by the source (Seoul → Séoul).
+
+## Voice
+A seasoned practitioner teaching undergraduates: direct, plain, occasionally aphoristic. Short sentences. No filler. Keep sentence-final punctuation as in the source (no full stop where the English has none).

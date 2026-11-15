@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#251",
+"fr": "CUT 03"
+},
+{
+"key": "templates.html#252",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#253",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#254",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#255",
+"fr": "Action"
+},
+{
+"key": "templates.html#256",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#257",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#258",
+"fr": "CUT 04"
+},
+{
+"key": "templates.html#259",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#260",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#261",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#262",
+"fr": "Action"
+},
+{
+"key": "templates.html#263",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#264",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#265",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#266",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#267",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#268",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#269",
+"fr": "Action"
+},
+{
+"key": "templates.html#270",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#271",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#272",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#273",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#274",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#275",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#276",
+"fr": "Action"
+},
+{
+"key": "templates.html#277",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#278",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#279",
+"fr": "CUT 07"
+},
+{
+"key": "templates.html#280",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#281",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#282",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#283",
+"fr": "Action"
+},
+{
+"key": "templates.html#284",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#285",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#286",
+"fr": "CUT 08"
+},
+{
+"key": "templates.html#287",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#288",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#289",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#290",
+"fr": "Action"
+},
+{
+"key": "templates.html#291",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#292",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#293",
+"fr": "CUT 09"
+},
+{
+"key": "templates.html#294",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#295",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#296",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#297",
+"fr": "Action"
+},
+{
+"key": "templates.html#298",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#299",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#300",
+"fr": "Pointillés bordeaux = zone de titre. Une carte = une phrase. 9 cartes forment une série."
+},
+{
+"key": "templates.html#301",
+"fr": "Modèle de storyboard · fil 4:5"
+},
+{
+"key": "templates.html#302",
+"fr": "Hauteur max. du fil Instagram · 1080×1350"
+},
+{
+"key": "templates.html#303",
+"fr": "Projet ____________  Scène ____  Page ___/___"
+},
+{
+"key": "templates.html#304",
+"fr": "Réalisation _____  Date ________  Version v___"
+},
+{
+"key": "templates.html#305",
+"fr": "CUT 01"
+},
+{
+"key": "templates.html#306",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#307",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#308",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#309",
+"fr": "Action"
+},
+{
+"key": "templates.html#310",
+"fr": "SE"
+},
+{
+"key": "templates.html#311",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#312",
+"fr": "CUT 02"
+},
+{
+"key": "templates.html#313",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#314",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#315",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#316",
+"fr": "Action"
+},
+{
+"key": "templates.html#317",
+"fr": "SE"
+},
+{
+"key": "templates.html#318",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#319",
+"fr": "CUT 03"
+},
+{
+"key": "templates.html#320",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#321",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#322",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#323",
+"fr": "Action"
+},
+{
+"key": "templates.html#324",
+"fr": "SE"
+},
+{
+"key": "templates.html#325",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#326",
+"fr": "CUT 04"
+},
+{
+"key": "templates.html#327",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#328",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#329",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#330",
+"fr": "Action"
+},
+{
+"key": "templates.html#331",
+"fr": "SE"
+},
+{
+"key": "templates.html#332",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#333",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#334",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#335",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#336",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#337",
+"fr": "Action"
+},
+{
+"key": "templates.html#338",
+"fr": "SE"
+},
+{
+"key": "templates.html#339",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#340",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#341",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#342",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#343",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#344",
+"fr": "Action"
+},
+{
+"key": "templates.html#345",
+"fr": "SE"
+},
+{
+"key": "templates.html#346",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#347",
+"fr": "CUT 07"
+},
+{
+"key": "templates.html#348",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#349",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#350",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#351",
+"fr": "Action"
+},
+{
+"key": "templates.html#352",
+"fr": "SE"
+},
+{
+"key": "templates.html#353",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#354",
+"fr": "CUT 08"
+},
+{
+"key": "templates.html#355",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#356",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#357",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#358",
+"fr": "Action"
+},
+{
+"key": "templates.html#359",
+"fr": "SE"
+},
+{
+"key": "templates.html#360",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#361",
+"fr": "CUT 09"
+},
+{
+"key": "templates.html#362",
+"fr": "Zone de titre"
+},
+{
+"key": "templates.html#363",
+"fr": "SIZE"
+},
+{
+"key": "templates.html#364",
+"fr": "MOVE"
+},
+{
+"key": "templates.html#365",
+"fr": "Action"
+},
+{
+"key": "templates.html#366",
+"fr": "SE"
+},
+{
+"key": "templates.html#367",
+"fr": "NOTES"
+},
+{
+"key": "templates.html#368",
+"fr": "Le format qui s’affiche le plus grand dans le fil. Une source 16:9 perd 44 % sur les côtés."
+},
+{
+"key": "templates.html#369",
+"fr": "Modèle de storyboard · 2:1 360·VR"
+},
+{
+"key": "templates.html#370",
+"fr": "Déplié équirectangulaire – panoramique · 4096×2048 · 7680×3840"
+},
+{
+"key": "templates.html#371",
+"fr": "Projet ____________  Scène ____  Page ___/___"
+},
+{
+"key": "templates.html#372",
+"fr": "Réalisation _____  Date ________  Version v___"
+},
+{
+"key": "templates.html#373",
+"fr": "CUT 01"
+},
+{
+"key": "templates.html#374",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#375",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#376",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#377",
+"fr": "Action"
+},
+{
+"key": "templates.html#378",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#379",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#380",
+"fr": "CUT 02"
+},
+{
+"key": "templates.html#381",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#382",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#383",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#384",
+"fr": "Action"
+},
+{
+"key": "templates.html#385",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#386",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#387",
+"fr": "CUT 03"
+},
+{
+"key": "templates.html#388",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#389",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#390",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#391",
+"fr": "Action"
+},
+{
+"key": "templates.html#392",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#393",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#394",
+"fr": "CUT 04"
+},
+{
+"key": "templates.html#395",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#396",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#397",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#398",
+"fr": "Action"
+},
+{
+"key": "templates.html#399",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#400",
+"fr": "M · SE"
+}
+]

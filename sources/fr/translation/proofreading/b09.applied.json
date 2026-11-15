@@ -1,0 +1,20 @@
+[
+ {
+  "key": "part08.html#302",
+  "find": "campagnes dans l’espace",
+  "replace": "campagnes in situ",
+  "why": "meaning: 'spatial campaigns' (physical-space campaigns) read as outer space"
+ },
+ {
+  "key": "part08.html#329",
+  "find": "Pause plan par plan",
+  "replace": "Mettre en pause plan par plan",
+  "why": "grammar: noun instead of infinitive, inconsistent with the other steps"
+ },
+ {
+  "key": "part08.html#414",
+  "find": "Exclu pour pubs",
+  "replace": "Exclu des pubs",
+  "why": "other: unnatural preposition"
+ }
+]

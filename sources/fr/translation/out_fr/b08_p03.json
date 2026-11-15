@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#557",
+"fr": "<small>COEX · DDP</small>K-POP Square « Wave » · Seoul Light DDP"
+},
+{
+"key": "part07.html#558",
+"fr": "« Wave », la vague anamorphique du grand écran LED d’angle du K-POP Square de COEX, est l’œuvre anamorphique emblématique de la Corée"
+},
+{
+"key": "part07.html#559",
+"fr": "Seoul Light DDP prend pour écran la façade courbe du DDP, avec un nouvel artiste chaque année"
+},
+{
+"key": "part07.html#560",
+"fr": "Dans les deux cas, la portée vient des « spectateurs qui filment et publient »"
+},
+{
+"key": "part07.html#561",
+"fr": "<small>Assemblée nationale</small>Éclairage de façade et « mème Mazinger Z »"
+},
+{
+"key": "part07.html#562",
+"fr": "La façade du bâtiment principal est éclairée la nuit"
+},
+{
+"key": "part07.html#563",
+"fr": "La vieille plaisanterie selon laquelle « un robot sort quand le dôme s’ouvre » montre que la forme perçue d’un bâtiment peut devenir un contenu en soi"
+},
+{
+"key": "part07.html#564",
+"fr": "Avant d’utiliser un bâtiment comme média, étudiez d’abord l’image que le public en a déjà"
+},
+{
+"key": "part07.html#565",
+"fr": "<b>Photos de référence 6.9B</b>Quand l’architecture devient écran"
+},
+{
+"key": "part07.html#566",
+"fr": "<span class=\"ph-id\">P07-FACADE-PALACE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Façade média d’un palais</b>Vidéo en couleurs projetée sur une porte à toit de tuiles, public sur la place</span>"
+},
+{
+"key": "part07.html#567",
+"fr": "<b>a</b>Les lignes des tuiles et l’entraxe des colonnes deviennent la grille du contenu"
+},
+{
+"key": "part07.html#568",
+"fr": "<span class=\"ph-id\">P07-FACADE-DOME</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Façade d’un bâtiment à dôme</b>Un bâtiment à dôme vu de nuit depuis l’autre rive, lumière en grille de pixels sur ses murs</span>"
+},
+{
+"key": "part07.html#569",
+"fr": "<b>b</b>La façon dont le public lit la forme d’un bâtiment peut devenir un contenu en soi"
+},
+{
+"key": "part07.html#570",
+"fr": "<small>Exercice</small>6.9"
+},
+{
+"key": "part07.html#571",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#572",
+"fr": "Dessinez le storyboard d’une illusion anamorphique sur un écran LED d’angle."
+},
+{
+"key": "part07.html#573",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#574",
+"fr": "L’illusion ne tient que si vous fixez d’abord la position du spectateur."
+},
+{
+"key": "part07.html#575",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#576",
+"fr": "Conception du point de vue, netteté de l’illusion"
+},
+{
+"key": "part07.html#577",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#578",
+"fr": "COEX SMTOWN, « Wave » (2020). Indique la position du spectateur sur un plan et montre une image composite depuis ce point de vue."
+},
+{
+"key": "part07.html#579",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#580",
+"fr": "Affichage LED et LED transparente"
+},
+{
+"key": "part07.html#581",
+"fr": "Employer des termes comme « pas de pixel » et « nits » avec les prestataires rend les devis plus précis. Avec la LED transparente, retenez d’abord que le noir devient transparent."
+},
+{
+"key": "part07.html#582",
+"fr": "Terme"
+},
+{
+"key": "part07.html#583",
+"fr": "Sens"
+},
+{
+"key": "part07.html#584",
+"fr": "Critère"
+},
+{
+"key": "part07.html#585",
+"fr": "Effet sur le contenu"
+},
+{
+"key": "part07.html#586",
+"fr": "Pas de pixel"
+},
+{
+"key": "part07.html#587",
+"fr": "Écart entre les points LED"
+},
+{
+"key": "part07.html#588",
+"fr": "Chiffre plus petit, image plus fine"
+},
+{
+"key": "part07.html#589",
+"fr": "P2.5 ou moins pour les médias vus de près"
+},
+{
+"key": "part07.html#590",
+"fr": "Distance de vision min."
+},
+{
+"key": "part07.html#591",
+"fr": "Distance à laquelle l’image paraît lisse"
+},
+{
+"key": "part07.html#592",
+"fr": "En gros, la valeur du pas en mètres"
+},
+{
+"key": "part07.html#593",
+"fr": "P4 : env. 4 m ou plus"
+},
+{
+"key": "part07.html#594",
+"fr": "Luminance (en nits)"
+},
+{
+"key": "part07.html#595",
+"fr": "Luminosité de l’écran"
+},
+{
+"key": "part07.html#596",
+"fr": "Intérieur 500–1500, extérieur 5000 ou plus"
+},
+{
+"key": "part07.html#597",
+"fr": "Fort contraste en extérieur"
+},
+{
+"key": "part07.html#598",
+"fr": "Transparence"
+},
+{
+"key": "part07.html#599",
+"fr": "Ce qu’une LED transparente laisse voir au travers"
+},
+{
+"key": "part07.html#600",
+"fr": "Env. 60–80 %"
+},
+{
+"key": "part07.html#601",
+"fr": "Le fond transparaît ; les couleurs sombres en pâtissent"
+},
+{
+"key": "part07.html#602",
+"fr": "Rafraîchissement"
+},
+{
+"key": "part07.html#603",
+"fr": "Rafraîchissements de l’écran par seconde"
+},
+{
+"key": "part07.html#604",
+"fr": "3840 Hz ou plus si l’écran doit être filmé"
+},
+{
+"key": "part07.html#605",
+"fr": "Trop faible : bandes à l’image"
+},
+{
+"key": "part07.html#606",
+"fr": "Taille du caisson"
+},
+{
+"key": "part07.html#607",
+"fr": "Taille d’une unité de panneau"
+},
+{
+"key": "part07.html#608",
+"fr": "Base de la résolution totale"
+},
+{
+"key": "part07.html#609",
+"fr": "Fixe la résolution du contenu"
+},
+{
+"key": "part07.html#610",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part07.html#611",
+"fr": "Pas de pixel – écart entre les points LED (mm). À P4, la distance de vision minimale est d’environ 4 m."
+},
+{
+"key": "part07.html#612",
+"fr": "Concevoir pour la LED transparente"
+},
+{
+"key": "part07.html#613",
+"fr": "Le fond transparaît : le noir devient donc transparent"
+},
+{
+"key": "part07.html#614",
+"fr": "Les visuels lumineux et saturés fonctionnent le mieux"
+},
+{
+"key": "part07.html#615",
+"fr": "Les traits fins et les petits textes disparaissent"
+},
+{
+"key": "part07.html#616",
+"fr": "Vérifier sur un fond de jour comme de nuit"
+},
+{
+"key": "part07.html#617",
+"fr": "Attention : filmer une LED"
+},
+{
+"key": "part07.html#618",
+"fr": "Une fréquence de rafraîchissement basse fait défiler des bandes à l’écran"
+},
+{
+"key": "part07.html#619",
+"fr": "Synchroniser l’obturateur de la caméra avec le rafraîchissement de la LED"
+},
+{
+"key": "part07.html#620",
+"fr": "Personnes devant une LED : conflit de températures de couleur"
+},
+{
+"key": "part07.html#621",
+"fr": "Un essai filmé préalable est indispensable"
+},
+{
+"key": "part07.html#622",
+"fr": "La distance fixe la taille du texte"
+},
+{
+"key": "part07.html#623",
+"fr": "La distance fixe la taille du texte"
+},
+{
+"key": "part07.html#624",
+"fr": "Mur LED"
+},
+{
+"key": "part07.html#625",
+"fr": "Min. 2 cm"
+},
+{
+"key": "part07.html#626",
+"fr": "Min. 6 cm"
+},
+{
+"key": "part07.html#627",
+"fr": "Min. 16 cm"
+},
+{
+"key": "part07.html#628",
+"fr": "Plus on est loin, plus le texte doit être grand pour être lu – hauteur de texte min. ≈ distance ÷ 250"
+},
+{
+"key": "part07.html#629",
+"fr": "<b>Fig. 66-1</b> Distance de vision et taille du texte – 2 cm à 5 m, 6 cm à 15 m, 16 cm à 40 m. À l’inverse, plus un écran est vu de près, plus son pas de pixel doit être fin (distance de vision minimale en m ≈ pas en mm)."
+},
+{
+"key": "part07.html#630",
+"fr": "<b>Photos de référence 6.10A</b>Trois visages des médias LED"
+},
+{
+"key": "part07.html#631",
+"fr": "<span class=\"ph-id\">P07-TRANSLED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>LED transparente</b>Film LED transparent sur une vitrine, l’intérieur de la boutique visible derrière des visuels flottants</span>"
+},
+{
+"key": "part07.html#632",
+"fr": "<b>a</b>Le noir devient transparent – ne montrez que des objets lumineux"
+},
+{
+"key": "part07.html#633",
+"fr": "<span class=\"ph-id\">P07-SIGNAGE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Affichage LED vertical</b>Une rangée de colonnes LED verticales dans un couloir de métro, des voyageurs qui passent</span>"
+},
+{
+"key": "part07.html#634",
+"fr": "<b>b</b>Un média vu en passant – boucles courtes, gros texte"
+},
+{
+"key": "part07.html#635",
+"fr": "<span class=\"ph-id\">P07-LED-DIAGRAM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Pas de pixel et distance de vision</b>Gros plan d’un module LED – l’écart des points à côté d’une règle / à quelques mètres, tout se fond en une seule surface</span>"
+},
+{
+"key": "part07.html#636",
+"fr": "<b>c</b>La valeur du pas vous donne l’échelle de la distance de vision minimale"
+},
+{
+"key": "part07.html#637",
+"fr": "<small>Exercice</small>6.10"
+},
+{
+"key": "part07.html#638",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#639",
+"fr": "Réalisez une boucle de 10 secondes pour une LED transparente. Partez du principe que le noir apparaît transparent."
+},
+{
+"key": "part07.html#640",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#641",
+"fr": "Laissez le fond en noir vide et n’animez que des objets lumineux."
+},
+{
+"key": "part07.html#642",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#643",
+"fr": "Compréhension du média, continuité de la boucle"
+},
+{
+"key": "part07.html#644",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#645",
+"fr": "Tient compte de la superposition entre l’espace réel derrière la vitre et la vidéo."
+},
+{
+"key": "part07.html#646",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#647",
+"fr": "Environnements de visionnage et publics"
+},
+{
+"key": "part07.html#648",
+"fr": "Regard, distance, mouvement. Une même vidéo fonctionne tout autrement selon le lieu où elle est vue. Que les spectateurs soient assis ou debout, seuls ou en groupe, de passage ou installés, les conditions de la mise en scène changent."
+},
+{
+"key": "part07.html#649",
+"fr": "<b>Fig. 69</b> Taille d’écran et attention selon l’environnement de visionnage"
+},
+{
+"key": "part07.html#650",
+"fr": "Les formats de projection diffèrent – écran · son · corps"
+},
+{
+"key": "part07.html#651",
+"fr": "<b>IMAX · grand format premium</b><span>Un écran géant en 1,43:1 ou 1,90:1, des gradins très inclinés – l’écran remplit le champ de vision. Les films tournés avec des caméras IMAX argentiques, comme The Odyssey (2026), conçoivent des scènes spécialement pour ce format</span>"
+},
+{
+"key": "part07.html#652",
+"fr": "<b>Salle 4D dynamique</b><span>Sièges mobiles · vent · eau · odeurs. Une « feuille de repères d’effets » est rédigée à part de l’image – décider du stimulus pour chaque plan est un second montage</span>"
+},
+{
+"key": "part07.html#653",
+"fr": "Format"
+},
+{
+"key": "part07.html#654",
+"fr": "Format d’image"
+},
+{
+"key": "part07.html#655",
+"fr": "Son"
+},
+{
+"key": "part07.html#656",
+"fr": "Compléments"
+},
+{
+"key": "part07.html#657",
+"fr": "Notes de production"
+},
+{
+"key": "part07.html#658",
+"fr": "2D standard"
+},
+{
+"key": "part07.html#659",
+"fr": "Son standard 5.1–7.1"
+},
+{
+"key": "part07.html#660",
+"fr": "Aucun"
+},
+{
+"key": "part07.html#661",
+"fr": "Référence – source de toutes les versions"
+},
+{
+"key": "part07.html#662",
+"fr": "Identique"
+},
+{
+"key": "part07.html#663",
+"fr": "Identique"
+},
+{
+"key": "part07.html#664",
+"fr": "Lunettes polarisées"
+},
+{
+"key": "part07.html#665",
+"fr": "Concevoir la parallaxe : les objets proches gênent les sous-titres, les panoramiques rapides donnent le vertige. Luminosité −30 %"
+},
+{
+"key": "part07.html#666",
+"fr": "IMAX"
+},
+{
+"key": "part07.html#667",
+"fr": "1,43 · 1,90:1 (plus d’image en haut et en bas)"
+},
+{
+"key": "part07.html#668",
+"fr": "12 canaux · graves renforcés"
+},
+{
+"key": "part07.html#669",
+"fr": "Aucun"
+},
+{
+"key": "part07.html#670",
+"fr": "Exige un supplément d’image en haut et en bas, tourné à part (caméra IMAX), ou un master ouvert en hauteur"
+},
+{
+"key": "part07.html#671",
+"fr": "Selon la salle"
+},
+{
+"key": "part07.html#672",
+"fr": "Identique + piste d’effets"
+},
+{
+"key": "part07.html#673",
+"fr": "Sièges · vent · eau · odeurs · lumière"
+},
+{
+"key": "part07.html#674",
+"fr": "Exige des « plans de respiration » où placer les repères d’effets. Des effets ininterrompus fatiguent"
+},
+{
+"key": "part07.html#675",
+"fr": "<b>Fig. 69-1</b> 2D · 3D · IMAX · 4D – un même film diffère selon la version par le format d’image · le son · les stimuli. La production décide avant le tournage « pour quelle version tourner »."
+},
+{
+"key": "part07.html#676",
+"fr": "Environnement"
+},
+{
+"key": "part07.html#677",
+"fr": "Posture"
+},
+{
+"key": "part07.html#678",
+"fr": "Distance de vision"
+},
+{
+"key": "part07.html#679",
+"fr": "Champ de vision"
+},
+{
+"key": "part07.html#680",
+"fr": "Attention"
+},
+{
+"key": "part07.html#681",
+"fr": "Principe de conception"
+},
+{
+"key": "part07.html#682",
+"fr": "Cinéma"
+},
+{
+"key": "part07.html#683",
+"fr": "Sièges fixes, obscurité"
+},
+{
+"key": "part07.html#684",
+"fr": "1,5–3 fois la hauteur de l’écran"
+},
+{
+"key": "part07.html#685",
+"fr": "Très large"
+},
+{
+"key": "part07.html#686",
+"fr": "Très élevée"
+},
+{
+"key": "part07.html#687",
+"fr": "Plans d’ensemble efficaces, rythme lent permis"
+},
+{
+"key": "part07.html#688",
+"fr": "TV de salon"
+},
+{
+"key": "part07.html#689",
+"fr": "Assis, pièce éclairée"
+},
+{
+"key": "part07.html#690",
+"fr": "2–3 fois la diagonale de l’écran"
+},
+{
+"key": "part07.html#691",
+"fr": "Moyen"
+},
+{
+"key": "part07.html#692",
+"fr": "Faible"
+},
+{
+"key": "part07.html#693",
+"fr": "Priorité aux gros plans, dialogues clairs"
+},
+{
+"key": "part07.html#694",
+"fr": "Écran de PC"
+},
+{
+"key": "part07.html#695",
+"fr": "Assis, de près"
+},
+{
+"key": "part07.html#696",
+"fr": "50–70 cm"
+},
+{
+"key": "part07.html#697",
+"fr": "Étroit"
+},
+{
+"key": "part07.html#698",
+"fr": "Moyenne"
+},
+{
+"key": "part07.html#699",
+"fr": "Information dense possible"
+},
+{
+"key": "part07.html#700",
+"fr": "Smartphone"
+},
+{
+"key": "part07.html#701",
+"fr": "En main, en déplacement"
+},
+{
+"key": "part07.html#702",
+"fr": "25–35 cm"
+},
+{
+"key": "part07.html#703",
+"fr": "Très étroit"
+},
+{
+"key": "part07.html#704",
+"fr": "Très faible"
+},
+{
+"key": "part07.html#705",
+"fr": "Gros sous-titres, plans courts, vertical"
+},
+{
+"key": "part07.html#706",
+"fr": "Grand écran extérieur"
+}
+]

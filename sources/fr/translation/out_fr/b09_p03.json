@@ -1,0 +1,602 @@
+[
+{
+"key": "part08.html#330",
+"fr": "<b>04</b><i>Structurer</i>Trier motifs communs et exceptions → liste de motifs"
+},
+{
+"key": "part08.html#331",
+"fr": "<b>05</b><i>Transposer</i>Réécrire pour votre sujet et votre budget → plan réalisable"
+},
+{
+"key": "part08.html#332",
+"fr": "<b>06</b><i>Différencier</i>Décider ce que vous ne copierez pas → 1 point de différence"
+},
+{
+"key": "part08.html#333",
+"fr": "Trois questions d’analyse"
+},
+{
+"key": "part08.html#334",
+"fr": "<b>01</b><span>Qu’a-t-on montré dans les 3 premières secondes ? Pourquoi ce choix ?</span>"
+},
+{
+"key": "part08.html#335",
+"fr": "<b>02</b><span>À quelle seconde la marque apparaît-elle pour la première fois ? Pourquoi là ?</span>"
+},
+{
+"key": "part08.html#336",
+"fr": "<b>03</b><span>Quel est le plan le plus cher de cette publicité, et pourrait-on s’en passer ?</span>"
+},
+{
+"key": "part08.html#337",
+"fr": "Une référence qu’on ne démonte pas finit en imitation"
+},
+{
+"key": "part08.html#338",
+"fr": "L’apprentissage commence au moment où vous mettez une scène en pause et notez pourquoi la coupe tombe là. Cliquer sur « J’aime » n’est pas de la recherche."
+},
+{
+"key": "part08.html#339",
+"fr": "<small>Exercice</small>7.6"
+},
+{
+"key": "part08.html#340",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#341",
+"fr": "Pour un même devoir, rassemblez 20 références, réduisez-les à 5 et composez une planche de références."
+},
+{
+"key": "part08.html#342",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#343",
+"fr": "Pour chaque référence, notez en un mot ce que vous en retenez (couleur, composition, rythme)."
+},
+{
+"key": "part08.html#344",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#345",
+"fr": "Justification des choix, mention des sources"
+},
+{
+"key": "part08.html#346",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#347",
+"fr": "Dégagez ce que les références ont en commun et ce qui les distingue, puis déduisez-en votre propre direction."
+},
+{
+"key": "part08.html#348",
+"fr": "Contexte 14"
+},
+{
+"key": "part08.html#349",
+"fr": "La logique du droit d’auteur"
+},
+{
+"key": "part08.html#350",
+"fr": "Emprunter n’est pas créer. Le droit d’auteur n’est pas une règle faite pour bloquer la création, mais un contrat social destiné à la faire durer. Il protège l’expression, pas les idées : c’est la dichotomie idée-expression. L’idée d’« une histoire qui remonte le temps » est ouverte à tous, mais les dialogues, la construction des scènes et le rythme de montage d’une œuvre précise appartiennent à cette œuvre. Utiliser une référence, c’est en apprendre les principes, non en copier les images."
+},
+{
+"key": "part08.html#351",
+"fr": "Le droit d’auteur coréen distingue les droits patrimoniaux des droits moraux. Les droits patrimoniaux couvrent notamment la reproduction, la représentation, la transmission au public, la distribution et la création d’œuvres dérivées ; ils sont cessibles. Les droits moraux, tels que le droit de paternité et le droit au respect de l’intégrité de l’œuvre, restent attachés au créateur et sont incessibles. Un contrat de commande a beau stipuler que « tous les droits sont cédés », les droits moraux subsistent ; en pratique, on prévoit donc souvent une clause distincte de non-exercice."
+},
+{
+"key": "part08.html#352",
+"fr": "La vidéo empile plusieurs couches de droits. Pour utiliser une chanson, il faut obtenir à la fois les droits d’auteur sur la musique et les paroles et les droits voisins sur l’enregistrement. « J’ai acheté le morceau » désigne en général une licence d’écoute, non le droit de l’intégrer à une vidéo. Le visage et la voix des interprètes relèvent du droit à l’image et du droit de publicité, et un lieu peut exiger l’accord de son gestionnaire. Les polices, les logos, même une affiche entrée par hasard dans l’arrière-plan peuvent être protégés."
+},
+{
+"key": "part08.html#353",
+"fr": "L’usage loyal (fair use) est la clause qui traite les exceptions. L’article 35-5 de la loi coréenne sur le droit d’auteur prévoit que, pour des usages tels que l’information, la critique, l’enseignement ou la recherche, on apprécie ensemble le but et la nature de l’usage, le type d’œuvre, la part de l’œuvre utilisée et l’effet sur le marché. Ce n’est pas une exemption automatique, mais un critère apprécié après coup. La règle populaire selon laquelle « quelques secondes, ça passe » n’a aucun fondement. Ne citez que le nécessaire, indiquez la source et ne vous substituez pas au marché de l’original."
+},
+{
+"key": "part08.html#354",
+"fr": "L’IA générative ajoute de nouvelles questions. La légalité des données d’entraînement, la qualité d’auteur des contenus générés et les productions imitant le style d’un créateur précis font débat dans de nombreux pays. Beaucoup, dont la Corée, considèrent qu’un contenu produit sans apport créatif humain peut difficilement être protégé par le droit d’auteur. Prenez l’habitude de consigner les outils et les prompts utilisés ainsi que le degré d’intervention humaine. Dans les planches de ce livre aussi, les schémas ont été conçus par l’autrice, tandis que les dessins de personnages et les images de référence ont été réalisés avec une IA générative ; les conditions sont précisées en annexe."
+},
+{
+"key": "part08.html#355",
+"fr": "Trois habitudes protègent votre pratique. D’abord, notez la source et l’étendue d’utilisation de chaque élément employé. Ensuite, vérifiez dans le contrat l’étendue, la durée, les supports et le territoire des droits. Enfin, en cas de doute, n’utilisez pas, ou demandez l’autorisation. La plupart des litiges de droit d’auteur naissent non de la malveillance, mais de l’absence de traces écrites. Pour aller plus loin – Korea Copyright Commission, Copyright Made Easy : 100 Consultation Cases ; loi coréenne sur le droit d’auteur, article 35-5 ; Lawrence Lessig, Free Culture."
+},
+{
+"key": "part08.html#356",
+"fr": "<b>PARTIE 08</b>Réalisation publicitaire et études de cas"
+},
+{
+"key": "part08.html#357",
+"fr": "Droit d’auteur et éthique de production"
+},
+{
+"key": "part08.html#358",
+"fr": "Apprendre une technique n’est pas s’approprier une image. Le tableau indique, pour chaque type d’élément, les droits à vérifier et la manière de les gérer."
+},
+{
+"key": "part08.html#359",
+"fr": "Autorisé"
+},
+{
+"key": "part08.html#360",
+"fr": "Apprendre des techniques : dispositifs d’éclairage, angles, rythme de montage"
+},
+{
+"key": "part08.html#361",
+"fr": "Utiliser les conventions et la grammaire d’un genre"
+},
+{
+"key": "part08.html#362",
+"fr": "Une expression nouvelle fondée sur la structure d’une idée"
+},
+{
+"key": "part08.html#363",
+"fr": "Partager des références en réunion interne"
+},
+{
+"key": "part08.html#364",
+"fr": "Citer à des fins de critique et d’analyse"
+},
+{
+"key": "part08.html#365",
+"fr": "Interdit"
+},
+{
+"key": "part08.html#366",
+"fr": "Reprendre telles quelles les images d’une vidéo de référence"
+},
+{
+"key": "part08.html#367",
+"fr": "Musique, polices ou images de stock sans licence"
+},
+{
+"key": "part08.html#368",
+"fr": "Recréer le découpage et le texte d’une autre publicité"
+},
+{
+"key": "part08.html#369",
+"fr": "Copies par IA des images d’une œuvre précise"
+},
+{
+"key": "part08.html#370",
+"fr": "Excuser un usage non autorisé par un crédit"
+},
+{
+"key": "part08.html#371",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part08.html#372",
+"fr": "Même si c’est gratuit, vérifiez l’étendue d’utilisation (usage commercial, modification, attribution)."
+},
+{
+"key": "part08.html#373",
+"fr": "Type d’élément"
+},
+{
+"key": "part08.html#374",
+"fr": "Droits à vérifier"
+},
+{
+"key": "part08.html#375",
+"fr": "En pratique"
+},
+{
+"key": "part08.html#376",
+"fr": "Musique"
+},
+{
+"key": "part08.html#377",
+"fr": "Droit d’auteur et droits voisins"
+},
+{
+"key": "part08.html#378",
+"fr": "Garder la preuve d’achat de la licence"
+},
+{
+"key": "part08.html#379",
+"fr": "Polices"
+},
+{
+"key": "part08.html#380",
+"fr": "Étendue de l’usage commercial et vidéo"
+},
+{
+"key": "part08.html#381",
+"fr": "Vérifier la licence ; polices libres de substitution"
+},
+{
+"key": "part08.html#382",
+"fr": "Vidéos et images de stock"
+},
+{
+"key": "part08.html#383",
+"fr": "Étendue d’utilisation, limites de revente"
+},
+{
+"key": "part08.html#384",
+"fr": "Vérifier la mention « usage éditorial »"
+},
+{
+"key": "part08.html#385",
+"fr": "Interprètes"
+},
+{
+"key": "part08.html#386",
+"fr": "Droit à l’image et de publicité"
+},
+{
+"key": "part08.html#387",
+"fr": "Faire signer une autorisation"
+},
+{
+"key": "part08.html#388",
+"fr": "Lieux"
+},
+{
+"key": "part08.html#389",
+"fr": "Droits sur le lieu, marques visibles"
+},
+{
+"key": "part08.html#390",
+"fr": "Autorisation de tournage, masquer les logos"
+},
+{
+"key": "part08.html#391",
+"fr": "Contenu IA"
+},
+{
+"key": "part08.html#392",
+"fr": "Données d’entraînement, conditions d’usage"
+},
+{
+"key": "part08.html#393",
+"fr": "Vérifier les conditions d’usage commercial"
+},
+{
+"key": "part08.html#394",
+"fr": "Mineurs à l’image"
+},
+{
+"key": "part08.html#395",
+"fr": "Accord du représentant légal"
+},
+{
+"key": "part08.html#396",
+"fr": "Accord écrit du représentant légal"
+},
+{
+"key": "part08.html#397",
+"fr": "Ce que cela donne à l’écran, et où et comment créditer"
+},
+{
+"key": "part08.html#398",
+"fr": "<b>✕ Tel quel – marques visibles sur gobelet · casquette · enseigne</b><span>Les marques de tiers non autorisées se heurtent à la fois au contrôle de diffusion et au droit des marques</span>"
+},
+{
+"key": "part08.html#399",
+"fr": "<b>○ Traité – retiré, masqué ou flouté</b><span>Retirer la marque de l’accessoire avant le tournage coûte le moins cher. La corriger en postproduction se paie au plan</span>"
+},
+{
+"key": "part08.html#400",
+"fr": "MUSIQUE"
+},
+{
+"key": "part08.html#401",
+"fr": "« Morning Light » – musique de Hong Gil-dong"
+},
+{
+"key": "part08.html#402",
+"fr": "Sous licence Artlist · Licence n° 123456"
+},
+{
+"key": "part08.html#403",
+"fr": "POLICE"
+},
+{
+"key": "part08.html#404",
+"fr": "Pretendard (SIL OFL) · Source Han Sans (SIL OFL)"
+},
+{
+"key": "part08.html#405",
+"fr": "MENTION IA"
+},
+{
+"key": "part08.html#406",
+"fr": "Certaines images d’arrière-plan ont été créées avec une IA générative"
+},
+{
+"key": "part08.html#407",
+"fr": "© 2026 ○○ Studio · Reproduction et rediffusion interdites sans autorisation"
+},
+{
+"key": "part08.html#408",
+"fr": "<b>Exemple de générique de fin</b><span>Musique – titre · compositeur · source et numéro de licence / Polices – police et licence / Mention IA / Mention de droit d’auteur</span>"
+},
+{
+"key": "part08.html#409",
+"fr": "BY"
+},
+{
+"key": "part08.html#410",
+"fr": "Attribution"
+},
+{
+"key": "part08.html#411",
+"fr": "Utilisable si vous citez la source"
+},
+{
+"key": "part08.html#412",
+"fr": "NC"
+},
+{
+"key": "part08.html#413",
+"fr": "Pas d’usage commercial"
+},
+{
+"key": "part08.html#414",
+"fr": "Exclu des pubs · vidéos commerciales"
+},
+{
+"key": "part08.html#415",
+"fr": "Pubs ✕"
+},
+{
+"key": "part08.html#416",
+"fr": "ND"
+},
+{
+"key": "part08.html#417",
+"fr": "Pas de modification"
+},
+{
+"key": "part08.html#418",
+"fr": "Ni coupe ni remix"
+},
+{
+"key": "part08.html#419",
+"fr": "Montage ✕"
+},
+{
+"key": "part08.html#420",
+"fr": "SA"
+},
+{
+"key": "part08.html#421",
+"fr": "Partage à l’identique"
+},
+{
+"key": "part08.html#422",
+"fr": "Partager aux mêmes conditions"
+},
+{
+"key": "part08.html#423",
+"fr": "« Gratuit » et « usage commercial autorisé » sont deux choses différentes – lisez les 4 conditions en les combinant"
+},
+{
+"key": "part08.html#424",
+"fr": "<b>Lire les licences CC</b><span>Avec BY seul, l’usage en pub est possible ; avec NC, non. Avec ND, on ne peut même pas couper</span>"
+},
+{
+"key": "part08.html#425",
+"fr": "<b>Litiges souvent cités</b><span>« Blurred Lines » (2015, États-Unis) – env. 5,3 millions de dollars de dommages-intérêts pour avoir repris l’ambiance et le groove d’une chanson. Un « feeling » peut aussi être un plagiat</span><span>Licences de polices – en Corée, chaque année, des gens utilisent dans des vidéos · publicités des polices diffusées gratuitement, puis reçoivent des demandes d’indemnisation au titre de clauses « usage commercial interdit »</span><span>YouTube Content ID – 10 secondes de musique en fond suffisent pour que les revenus aillent à l’ayant droit ou que la vidéo soit bloquée</span><span>Droit à l’image – si le visage d’un passant est identifiable dans des images de rue, on ne peut pas l’utiliser en publicité sans son accord. Floutez-le ou obtenez une autorisation</span>"
+},
+{
+"key": "part08.html#426",
+"fr": "<b>Fig. 76-1</b> Crédits et gestion des droits en pratique – traitement des marques visibles, mentions au générique de fin, lecture des licences CC et types de litiges récurrents. Un crédit n’est pas une immunité, mais la preuve que vous avez « vérifié »."
+},
+{
+"key": "part08.html#427",
+"fr": "Chefs-d’œuvre du domaine public – une matière prête pour l’art numérique"
+},
+{
+"key": "part08.html#428",
+"fr": "<b>Léonard de Vinci, « La Joconde »</b><span>1503–06 · Louvre</span>"
+},
+{
+"key": "part08.html#429",
+"fr": "<b>Botticelli, « La Naissance de Vénus »</b><span>v. 1485 · Offices</span>"
+},
+{
+"key": "part08.html#430",
+"fr": "<b>Vermeer, « La Jeune Fille à la perle »</b><span>1665 · Mauritshuis</span>"
+},
+{
+"key": "part08.html#431",
+"fr": "<b>Rembrandt, « La Ronde de nuit »</b><span>1642 · Rijksmuseum</span>"
+},
+{
+"key": "part08.html#432",
+"fr": "<b>Hokusai, « La Grande Vague de Kanagawa »</b><span>v. 1831 · estampe</span>"
+},
+{
+"key": "part08.html#433",
+"fr": "<b>Kim Hong-do, « Ssireum »</b><span>XVIIIe s. · Musée national de Corée</span>"
+},
+{
+"key": "part08.html#434",
+"fr": "<b>Shin Yun-bok, « La Fête de Dano »</b><span>fin XVIIIe s. · Musée d’art Kansong</span>"
+},
+{
+"key": "part08.html#435",
+"fr": "<b>Van Gogh, « La Nuit étoilée »</b><span>1889 · MoMA</span>"
+},
+{
+"key": "part08.html#436",
+"fr": "<b>Van Gogh, « Les Tournesols »</b><span>1889 · Musée Van Gogh</span>"
+},
+{
+"key": "part08.html#437",
+"fr": "<b>Munch, « Le Cri »</b><span>1893 · Musée national, Oslo</span>"
+},
+{
+"key": "part08.html#438",
+"fr": "<b>Klimt, « Le Baiser »</b><span>1907–08 · Belvédère</span>"
+},
+{
+"key": "part08.html#439",
+"fr": "<b>Où les trouver</b><span>e-Museum du Musée national de Corée (KOGL type 1) · The Met Open Access · Rijksstudio du Rijksmuseum · Art Institute of Chicago · Paris Musées · Wikimedia Commons. Une œuvre entre dans le domaine public 70 ans après la mort de l’artiste, mais les <em>photographies récentes</em> d’un musée peuvent avoir leurs propres conditions : vérifiez la mention de licence de chaque site (CC0 · KOGL).</span>"
+},
+{
+"key": "part08.html#440",
+"fr": "Voilà pourquoi les expositions d’art numérique Van Gogh · Klimt sont possibles. Les œuvres appartiennent désormais à tous ; reste l’<b>interprétation</b> – quelle partie agrandir, dans quel ordre l’animer, quel son y poser."
+},
+{
+"key": "part08.html#441",
+"fr": "<b>Fig. 76-2</b> Onze chefs-d’œuvre du domaine public – tous antérieurs à 1929 et libres de copie · d’adaptation · d’usage commercial (photos : Wikimedia Commons, fonds ouverts des musées)."
+},
+{
+"key": "part08.html#442",
+"fr": "<small>Exercice</small>7.7"
+},
+{
+"key": "part08.html#443",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#444",
+"fr": "Dressez la liste des droits à vérifier pour la musique, les polices, les images et les personnes de votre projet."
+},
+{
+"key": "part08.html#445",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#446",
+"fr": "Même si c’est gratuit, vérifiez l’étendue d’utilisation (usage commercial, modification, attribution)."
+},
+{
+"key": "part08.html#447",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#448",
+"fr": "Gestion complète des droits"
+},
+{
+"key": "part08.html#449",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#450",
+"fr": "Conservez ensemble les liens de preuve de licence et les autorisations d’image."
+},
+{
+"key": "part08.html#451",
+"fr": "<b>PARTIE 08</b>Réalisation publicitaire et études de cas"
+},
+{
+"key": "part08.html#452",
+"fr": "Comment lire les études de cas"
+},
+{
+"key": "part08.html#453",
+"fr": "Regarder une œuvre n’est pas l’analyser. Ce qu’il faut observer, ce n’est pas le chiffre du box-office, mais les choix qui l’ont produit."
+},
+{
+"key": "part08.html#454",
+"fr": "Les cas ci-dessous ne sont pas une liste d’œuvres à voir, mais des échantillons pour vérifier comment des techniques et des décisions précises ont mené à des résultats."
+},
+{
+"key": "part08.html#455",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part08.html#456",
+"fr": "Les années de récompense sont celles des cérémonies."
+},
+{
+"key": "part08.html#457",
+"fr": "Les chiffres de budget et de box-office varient selon les sources et selon que les ressorties sont comptées ou non. Ceux donnés ici sont des approximations couramment citées ; consultez les sources d’origine s’il vous faut des chiffres exacts."
+},
+{
+"key": "part08.html#458",
+"fr": "Pour chaque cas, notez en une ligne ce que vous pourriez transposer dans votre propre projet."
+},
+{
+"key": "part08.html#459",
+"fr": "Sans cette ligne, c’est de la contemplation, pas de l’analyse"
+},
+{
+"key": "part08.html#460",
+"fr": "Lisez chaque cas selon « problème → stratégie → exécution → résultat », et notez clairement un principe à reprendre dans votre propre travail."
+},
+{
+"key": "part08.html#461",
+"fr": "<small>Exercice</small>7.8"
+},
+{
+"key": "part08.html#462",
+"fr": "Tâche"
+},
+{
+"key": "part08.html#463",
+"fr": "Résumez une étude de cas en 1 page selon le cadre « problème → stratégie → exécution → résultat »."
+},
+{
+"key": "part08.html#464",
+"fr": "Conseil"
+},
+{
+"key": "part08.html#465",
+"fr": "Vérifiez toujours la source des chiffres de résultat."
+},
+{
+"key": "part08.html#466",
+"fr": "Évaluation"
+},
+{
+"key": "part08.html#467",
+"fr": "Structure logique, vérification des faits"
+},
+{
+"key": "part08.html#468",
+"fr": "Corrigé type"
+},
+{
+"key": "part08.html#469",
+"fr": "Énoncez clairement un principe du cas à reprendre dans votre propre travail."
+},
+{
+"key": "part08.html#470",
+"fr": "Contexte 15"
+},
+{
+"key": "part08.html#471",
+"fr": "Quand la technique a changé la forme"
+},
+{
+"key": "part08.html#472",
+"fr": "Un nouvel équipement a toujours produit de nouvelles images. Voici cinq de ces moments. Le premier est le son. Après « Le Chanteur de jazz » en 1927, quand le son synchrone est devenu la norme, la caméra, bruyante, a été enfermée dans une cabine insonorisée, et les premiers films parlants sont en fait devenus visuellement rigides. Il a fallu la mise au point du blimp et du micro sur perche pour que la caméra bouge de nouveau. Cet ordre, où une technique nouvelle contraint d’abord l’expression avant de la libérer, se répétera par la suite."
+},
+{
+"key": "part08.html#473",
+"fr": "Le deuxième tient à la sensibilité de la pellicule et aux objectifs. Dans les années 1940, filmer avec une grande profondeur de champ imposait de fermer le diaphragme, ce qui exigeait beaucoup de lumière et une pellicule rapide. Si, dans « Citizen Kane », les personnages du premier plan et de l’arrière-plan sont nets en même temps, c’est à la fois un choix esthétique et un résultat de la technique. Le spectateur choisit où regarder, et les relations entre les personnages se révèlent par la composition."
+},
+{
+"key": "part08.html#474",
+"fr": "Le troisième est l’allègement de la caméra. Avec la diffusion du matériel portable à son synchrone, à la fin des années 1950, sont apparus le cinéma-vérité en France et le cinéma direct aux États-Unis. Une fois la caméra descendue dans la rue, les cadres tremblés et les compositions improvisées ont commencé à se lire comme la marque du réel. Le style caméra à l’épaule des émissions de divertissement et des vlogs d’aujourd’hui hérite de cette convention."
+},
+{
+"key": "part08.html#475",
+"fr": "Le quatrième est l’intermédiaire numérique et l’étalonnage. Au début des années 2000, lorsque s’est imposé le procédé consistant à scanner la pellicule, à l’étalonner en numérique puis à la reporter sur film, il est devenu possible de redessiner la couleur de toute une scène en postproduction. C’est là que la couleur est devenue la signature d’une œuvre, comme avec le contraste « teal and orange ». Aujourd’hui, il est courant de définir le look dès le tournage et de l’appliquer aux moniteurs du plateau."
+},
+{
+"key": "part08.html#476",
+"fr": "Le cinquième est le smartphone et l’écran vertical. Le tournage, le montage et la diffusion se faisant désormais sur un seul appareil, les cycles de production se sont raccourcis, et le cadre vertical a fait des gros plans centrés sur les personnes et des coupes rapides la norme. Les sous-titres remplacent le son, et les 3 premières secondes commandent toute la structure. Ce n’est pas le format d’image qui a changé ; ce sont la posture et le contexte de visionnage du public."
+},
+{
+"key": "part08.html#477",
+"fr": "La leçon est commune. La technique ne décide pas de la forme, mais elle modifie le champ des possibles. Ceux qui explorent ce champ les premiers créent la grammaire de la génération suivante. Quand vous lisez un cas, ne demandez pas seulement « qu’a-t-on utilisé ? », mais aussi « qu’est-ce que ce matériel a rendu possible ? ». Pour aller plus loin – David Bordwell · Kristin Thompson, Film History : An Introduction ; Barry Salt, Film Style and Technology ; John Belton, American Cinema/American Culture."
+},
+{
+"key": "part08.html#478",
+"fr": "<b>PARTIE 08</b>Réalisation publicitaire et études de cas"
+},
+{
+"key": "part08.html#479",
+"fr": "Cinéma : technique et forme"
+}
+]

@@ -1,0 +1,7 @@
+[
+ {"key": "part05.html#390", "find": "Ease in-out (les deux)", "replace": "Accél.·décél. (ease in-out)", "why": "term: consistent with Accél./Décél. rows and #477"},
+ {"key": "part05.html#729", "find": "loopOut('cycle')", "replace": "loopOut()", "why": "meaning: code altered vs source"},
+ {"key": "part05.html#732", "find": "time * valeur", "replace": "time * value", "why": "meaning: value is an expression keyword, must stay"},
+ {"key": "part05.html#735", "find": "linear(t, tMin, tMax, val1, val2)", "replace": "linear(t, a, b, c, d)", "why": "meaning: code altered vs source"},
+ {"key": "part07.html#88", "find": "le LED extérieur", "replace": "l’affichage LED extérieur", "why": "grammar: LED is not a masculine noun here"}
+]

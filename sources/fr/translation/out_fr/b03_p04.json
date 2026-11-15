@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#207",
+"fr": "Toit"
+},
+{
+"key": "feature_ppm.html#208",
+"fr": "Matin en ville (un contre-jour du soir en tient lieu) LS tilt-up"
+},
+{
+"key": "feature_ppm.html#209",
+"fr": "24 mm, 60 fps"
+},
+{
+"key": "feature_ppm.html#210",
+"fr": "<b>Heure dorée 40 min – 3 prises max.</b>"
+},
+{
+"key": "feature_ppm.html#211",
+"fr": "Labo"
+},
+{
+"key": "feature_ppm.html#212",
+"fr": "Enregistrement N"
+},
+{
+"key": "feature_ppm.html#213",
+"fr": "Enregistrer 3 phrases de narration, 30 s de silence plateau"
+},
+{
+"key": "feature_ppm.html#214",
+"fr": "Comédien voix"
+},
+{
+"key": "feature_ppm.html#215",
+"fr": "Micro statique, filtre anti-pop"
+},
+{
+"key": "feature_ppm.html#216",
+"fr": "3 prises chacune, calées sur les 3 pistes du storyboard"
+},
+{
+"key": "feature_ppm.html#217",
+"fr": "Labo"
+},
+{
+"key": "feature_ppm.html#218",
+"fr": "2e sauvegarde, contrôle des rushes, bilan du jour"
+},
+{
+"key": "feature_ppm.html#219",
+"fr": "Liste des plans manquants → jour de réserve J+2"
+},
+{
+"key": "feature_ppm.html#220",
+"fr": "Jour de réserve · 13/4 (dim.) · pluie ou plans manquants – disponibilité de l’acteur A confirmée ✔ · studio L-02 en option"
+},
+{
+"key": "feature_ppm.html#221",
+"fr": "<span class=\"ph-id\">P06-SCHEDULE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tableau de planning – bandes regroupées par lieu · lumière · acteur</b></span>"
+},
+{
+"key": "feature_ppm.html#222",
+"fr": "<b>Note</b>Tableau de planning – bandes regroupées par lieu · lumière · acteur"
+},
+{
+"key": "feature_ppm.html#223",
+"fr": "<small>Ordre de regroupement</small>Lieu → lumière → acteur"
+},
+{
+"key": "feature_ppm.html#224",
+"fr": "Mêmes installations à la suite"
+},
+{
+"key": "feature_ppm.html#225",
+"fr": "D’abord « le temps qu’on ne rattrape pas », comme le soleil direct · l’heure dorée"
+},
+{
+"key": "feature_ppm.html#226",
+"fr": "Convocation des acteurs 45 min avant le premier plan"
+},
+{
+"key": "feature_ppm.html#227",
+"fr": "<small>Marge de sécurité</small>+30 % par plan, +1 h par jour"
+},
+{
+"key": "feature_ppm.html#228",
+"fr": "Le premier plan a toujours 30 min de retard"
+},
+{
+"key": "feature_ppm.html#229",
+"fr": "Trajets : durée de l’itinéraire ×1,5"
+},
+{
+"key": "feature_ppm.html#230",
+"fr": "Le déjeuner dure 45 min, sans exception ; décalez-le et l’après-midi s’effondre"
+},
+{
+"key": "feature_ppm.html#231",
+"fr": "<small>Jour de réserve</small>S’il n’est pas réservé, il n’existe pas"
+},
+{
+"key": "feature_ppm.html#232",
+"fr": "Bloquer à la fois acteur · lieu"
+},
+{
+"key": "feature_ppm.html#233",
+"fr": "Chiffrer le seuil de pluie (60 % de risque de pluie)"
+},
+{
+"key": "feature_ppm.html#234",
+"fr": "Arrêter la liste des plans manquants au bilan du jour"
+},
+{
+"key": "feature_ppm.html#235",
+"fr": "<small>DOUBLE PAGE 06 · Jour de tournage</small>Horaire de tournage et feuille de service – tracez-le par blocs de 15 minutes et vous verrez où il dérape"
+},
+{
+"key": "feature_ppm.html#236",
+"fr": "<b>NOTE</b>"
+},
+{
+"key": "feature_ppm.html#237",
+"fr": "La longueur de la barre est le temps prévu. Quand un bloc se termine pour de bon, tracez au stylo la barre réelle à côté. Cet écart fera la précision du planning de votre prochain projet."
+},
+{
+"key": "feature_ppm.html#238",
+"fr": "<i class=\"move\" style=\"width:30%\"></i><span>Arrivée de l’équipe avancée · parking · contrôle électrique · clés</span>"
+},
+{
+"key": "feature_ppm.html#239",
+"fr": "<i class=\"set\" style=\"width:45%\"></i><span>Montée du matériel (2 personnes, escalier) · rails de dolly · installation de la LED principale · début de la mise en place déco</span>"
+},
+{
+"key": "feature_ppm.html#240",
+"fr": "<i class=\"set\" style=\"width:45%\"></i><span>Convocation acteur A → maquillage dans le camion · costume LOOK 1</span>"
+},
+{
+"key": "feature_ppm.html#241",
+"fr": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 02</b> MCU dolly in · répétition 1 → prise 4 (meilleur soleil direct 07:30–08:00)</span>"
+},
+{
+"key": "feature_ppm.html#242",
+"fr": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 03</b> CU gorgée · 85 mm · prise 5 · contrôler sueur · brillance</span>"
+},
+{
+"key": "feature_ppm.html#243",
+"fr": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 06</b> Fin LOCKED + dolly lent · marqueurs · fond vierge 2 prises</span>"
+},
+{
+"key": "feature_ppm.html#244",
+"fr": "<i class=\"set\" style=\"width:15%\"></i><span>Convocation acteur B · LOOK 2 · répétition des placements 2S</span>"
+},
+{
+"key": "feature_ppm.html#245",
+"fr": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 05</b> 2S bouteilles qui trinquent · SYNC rire · enregistrer 30 s de silence plateau</span>"
+},
+{
+"key": "feature_ppm.html#246",
+"fr": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 01 · 02 INS</b> Macro gouttes · insert main · bouteilles neuves</span>"
+},
+{
+"key": "feature_ppm.html#247",
+"fr": "<i class=\"move\" style=\"width:30%\"></i><span>Rangement · photo du lieu remis en état · objets oubliés · 1re sauvegarde (sur place) · restitution 10:30</span>"
+},
+{
+"key": "feature_ppm.html#248",
+"fr": "<i class=\"meal\" style=\"width:30%\"></i><span>Petit-déjeuner tardif · 1er contrôle des rushes · liste des plans manquants</span>"
+},
+{
+"key": "feature_ppm.html#249",
+"fr": "<span><i style=\"background:#7A1C2B\"></i>Tournage</span><span><i style=\"background:#A8465A\"></i>Installation · répétition</span><span><i style=\"background:#A8A8AE\"></i>Trajets · rangement</span><span><i style=\"background:#EFEDE9\"></i>Repas · remise en ordre</span>"
+},
+{
+"key": "feature_ppm.html#250",
+"fr": "Feuille de service – une page A4, envoyée à tous avant 20 h la veille"
+},
+{
+"key": "feature_ppm.html#251",
+"fr": "Rubrique"
+},
+{
+"key": "feature_ppm.html#252",
+"fr": "Contenu"
+},
+{
+"key": "feature_ppm.html#253",
+"fr": "Exemple"
+},
+{
+"key": "feature_ppm.html#254",
+"fr": "En-tête"
+},
+{
+"key": "feature_ppm.html#255",
+"fr": "Projet · n° du jour de tournage · date · météo · lever/coucher du soleil · 2 contacts production"
+},
+{
+"key": "feature_ppm.html#256",
+"fr": "Boisson du matin 15 s · JOUR 1/2 · 9/4 (mer.) · dégagé 12→19 ℃ · lever du soleil 06:12 · PD Kim ○○ 010-… / AD 010-…"
+},
+{
+"key": "feature_ppm.html#257",
+"fr": "Lieu"
+},
+{
+"key": "feature_ppm.html#258",
+"fr": "Adresse · parking · point de rendez-vous · toilettes · hôpital"
+},
+{
+"key": "feature_ppm.html#259",
+"fr": "12 ○○-ro, Mapo-gu, 1er ét. · ruelle arrière, 2 voitures · entrée au RDC · RDC · urgences de l’hôpital ○○ 1,2 km"
+},
+{
+"key": "feature_ppm.html#260",
+"fr": "Convocation"
+},
+{
+"key": "feature_ppm.html#261",
+"fr": "Heure d’arrivée par équipe (matériel → production → acteurs → client)"
+},
+{
+"key": "feature_ppm.html#262",
+"fr": "Production 06:30 · caméra/lumière 07:00 · acteur A 07:15 · acteur B 09:00 · client 08:15"
+},
+{
+"key": "feature_ppm.html#263",
+"fr": "Planning"
+},
+{
+"key": "feature_ppm.html#264",
+"fr": "Résumé de l’horaire de tournage (diagramme à barres ci-dessus)"
+},
+{
+"key": "feature_ppm.html#265",
+"fr": "07:30 CUT 02 → 08:00 CUT 03 → 08:30 CUT 06 → 09:10 CUT 05 → 09:40 INS → 10:10 rangement"
+},
+{
+"key": "feature_ppm.html#266",
+"fr": "Acteurs"
+},
+{
+"key": "feature_ppm.html#267",
+"fr": "Rôle · acteur · convocation · maquillage · costume · contact de l’agent"
+},
+{
+"key": "feature_ppm.html#268",
+"fr": "A rôle principal · 07:15 · camion · LOOK 1 · 010-… / B collègue · 09:00 · LOOK 2"
+},
+{
+"key": "feature_ppm.html#269",
+"fr": "Matériel · déco"
+},
+{
+"key": "feature_ppm.html#270",
+"fr": "Caméra · objectifs · liste lumière · responsable accessoires · quantité de produit"
+},
+{
+"key": "feature_ppm.html#271",
+"fr": "FX3 · 24/35/50/85/100M · LED 600 W + 2 tubes · 6 bouteilles du produit au frais · glycérine"
+},
+{
+"key": "feature_ppm.html#272",
+"fr": "Sécurité · règles"
+},
+{
+"key": "feature_ppm.html#273",
+"fr": "Dangers · assurance · 3 règles de plateau"
+},
+{
+"key": "feature_ppm.html#274",
+"fr": "Matériel porté à 2 dans l’escalier · ne jamais dépasser 3 kW · machine arrêtée 10 min pendant les prises · fumer dehors uniquement"
+},
+{
+"key": "feature_ppm.html#275",
+"fr": "Imprévus"
+},
+{
+"key": "feature_ppm.html#276",
+"fr": "Seuils pluie · retard et solutions de repli · jour de réserve"
+},
+{
+"key": "feature_ppm.html#277",
+"fr": "Sans soleil direct à 07:30, passer à la LED principale · avec 2 h de retard, le CUT 05 passe au jour de réserve · jour de réserve 13/4"
+},
+{
+"key": "feature_ppm.html#278",
+"fr": "<small>DOUBLE PAGE 07 · Budget · risques · réunion</small>Postes budgétaires et règles de la réunion PPM"
+},
+{
+"key": "feature_ppm.html#279",
+"fr": "Catégorie"
+},
+{
+"key": "feature_ppm.html#280",
+"fr": "Postes"
+},
+{
+"key": "feature_ppm.html#281",
+"fr": "Projet étudiant"
+},
+{
+"key": "feature_ppm.html#282",
+"fr": "Petite publicité"
+},
+{
+"key": "feature_ppm.html#283",
+"fr": "À arrêter en PPM"
+},
+{
+"key": "feature_ppm.html#284",
+"fr": "Main-d’œuvre"
+},
+{
+"key": "feature_ppm.html#285",
+"fr": "Réalisation, image, lumière, montage"
+},
+{
+"key": "feature_ppm.html#286",
+"fr": "0 (membres de l’équipe)"
+},
+{
+"key": "feature_ppm.html#287",
+"fr": "Tarif journalier"
+},
+{
+"key": "feature_ppm.html#288",
+"fr": "Début des heures supplémentaires"
+},
+{
+"key": "feature_ppm.html#289",
+"fr": "Interprètes"
+},
+{
+"key": "feature_ppm.html#290",
+"fr": "Modèles, comédiens voix, figurants"
+},
+{
+"key": "feature_ppm.html#291",
+"fr": "De 0 à un petit cachet"
+},
+{
+"key": "feature_ppm.html#292",
+"fr": "Contrat à la séance"
+},
+{
+"key": "feature_ppm.html#293",
+"fr": "Étendue · durée du droit à l’image"
+},
+{
+"key": "feature_ppm.html#294",
+"fr": "Matériel"
+},
+{
+"key": "feature_ppm.html#295",
+"fr": "Location caméra, objectifs, lumière, stabilisateur"
+},
+{
+"key": "feature_ppm.html#296",
+"fr": "Prêt de l’école"
+},
+{
+"key": "feature_ppm.html#297",
+"fr": "Location à la journée"
+},
+{
+"key": "feature_ppm.html#298",
+"fr": "Assurance casse, heure de retour"
+},
+{
+"key": "feature_ppm.html#299",
+"fr": "Lieu"
+},
+{
+"key": "feature_ppm.html#300",
+"fr": "Loyer, dédommagement"
+},
+{
+"key": "feature_ppm.html#301",
+"fr": "Gratuit, à titre gracieux"
+},
+{
+"key": "feature_ppm.html#302",
+"fr": "Tarif horaire"
+},
+{
+"key": "feature_ppm.html#303",
+"fr": "Frais de dépassement, étendue de la remise en état"
+},
+{
+"key": "feature_ppm.html#304",
+"fr": "Déco"
+},
+{
+"key": "feature_ppm.html#305",
+"fr": "Accessoires, costumes, décors"
+},
+{
+"key": "feature_ppm.html#306",
+"fr": "Frais réels"
+},
+{
+"key": "feature_ppm.html#307",
+"fr": "Détaillé par poste"
+},
+{
+"key": "feature_ppm.html#308",
+"fr": "Quantité de produit, consommables"
+},
+{
+"key": "feature_ppm.html#309",
+"fr": "Postprod."
+},
+{
+"key": "feature_ppm.html#310",
+"fr": "Étalonnage, mixage son, CG"
+},
+{
+"key": "feature_ppm.html#311",
+"fr": "Fait en interne"
+},
+{
+"key": "feature_ppm.html#312",
+"fr": "Tarifs de sous-traitance"
+},
+{
+"key": "feature_ppm.html#313",
+"fr": "Nombre de révisions (2 en général)"
+},
+{
+"key": "feature_ppm.html#314",
+"fr": "Musique"
+},
+{
+"key": "feature_ppm.html#315",
+"fr": "Achat de licence"
+},
+{
+"key": "feature_ppm.html#316",
+"fr": "Abonnement partagé"
+},
+{
+"key": "feature_ppm.html#317",
+"fr": "Au titre ou par abonnement"
+},
+{
+"key": "feature_ppm.html#318",
+"fr": "Supports · durée d’exploitation"
+},
+{
+"key": "feature_ppm.html#319",
+"fr": "Divers"
+},
+{
+"key": "feature_ppm.html#320",
+"fr": "Repas, transport, assurance"
+},
+{
+"key": "feature_ppm.html#321",
+"fr": "Frais réels"
+},
+{
+"key": "feature_ppm.html#322",
+"fr": "10 % du total en réserve"
+},
+{
+"key": "feature_ppm.html#323",
+"fr": "<b>Indiquer 10 % d’imprévus</b>"
+},
+{
+"key": "feature_ppm.html#324",
+"fr": "Prévoyez toujours une réserve pour imprévus"
+},
+{
+"key": "feature_ppm.html#325",
+"fr": "Sans 10 % du budget total gardés en réserve, le projet s’arrête dès que surviennent la pluie, un retard, une panne de matériel ou un retournage. Dans un projet étudiant, bloquer un jour de tournage de réserve joue le même rôle."
+},
+{
+"key": "feature_ppm.html#326",
+"fr": "Tableau des risques – ce qui peut arriver, que faire alors, qui décide"
+},
+{
+"key": "feature_ppm.html#327",
+"fr": "Risque"
+},
+{
+"key": "feature_ppm.html#328",
+"fr": "Déclencheur"
+},
+{
+"key": "feature_ppm.html#329",
+"fr": "Solution de repli"
+},
+{
+"key": "feature_ppm.html#330",
+"fr": "Décide"
+},
+{
+"key": "feature_ppm.html#331",
+"fr": "Pluie · ciel couvert (pas de soleil direct)"
+},
+{
+"key": "feature_ppm.html#332",
+"fr": "J-1 à 20 h, risque de pluie de 60 % ou plus"
+},
+{
+"key": "feature_ppm.html#333",
+"fr": "Recréer la lumière de la fenêtre avec la LED principale, ou jour de réserve"
+},
+{
+"key": "feature_ppm.html#334",
+"fr": "Réalisateur + DP"
+},
+{
+"key": "feature_ppm.html#335",
+"fr": "Acteur en retard · absent"
+},
+{
+"key": "feature_ppm.html#336",
+"fr": "Injoignable 30 min après la convocation"
+},
+{
+"key": "feature_ppm.html#337",
+"fr": "Tourner d’abord inserts · plans produit, appeler le candidat B"
+},
+{
+"key": "feature_ppm.html#338",
+"fr": "PD de production"
+},
+{
+"key": "feature_ppm.html#339",
+"fr": "Panne de matériel"
+},
+{
+"key": "feature_ppm.html#340",
+"fr": "Pas de boîtier de secours"
+},
+{
+"key": "feature_ppm.html#341",
+"fr": "Échange en urgence chez le loueur (contact sur la feuille de service)"
+},
+{
+"key": "feature_ppm.html#342",
+"fr": "DP"
+},
+{
+"key": "feature_ppm.html#343",
+"fr": "Dépassement de la location"
+},
+{
+"key": "feature_ppm.html#344",
+"fr": "Rangement non terminé à 10:15"
+},
+{
+"key": "feature_ppm.html#345",
+"fr": "Convenir d’avance du tarif d’une prolongation de 30 min"
+},
+{
+"key": "feature_ppm.html#346",
+"fr": "PD de production"
+},
+{
+"key": "feature_ppm.html#347",
+"fr": "Demande de changement du client sur le plateau"
+},
+{
+"key": "feature_ppm.html#348",
+"fr": "Plan absent du storyboard"
+},
+{
+"key": "feature_ppm.html#349",
+"fr": "Tourner après signature d’une « demande de plan supplémentaire » ; facturé à part"
+},
+{
+"key": "feature_ppm.html#350",
+"fr": "PD de production + client"
+},
+{
+"key": "feature_ppm.html#351",
+"fr": "<span class=\"ph-id\">P06-TEAM2</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Trois personnes devant le moniteur – réalisation · image · production voient la même image</b></span>"
+},
+{
+"key": "feature_ppm.html#352",
+"fr": "<b>Note</b>Trois personnes devant le moniteur – réalisation · image · production voient la même image"
+},
+{
+"key": "feature_ppm.html#353",
+"fr": "Règles de réunion"
+},
+{
+"key": "feature_ppm.html#354",
+"fr": "<b>01</b><span>Envoyez les documents <b>48 heures avant</b> la réunion. Personne ne peut décider sur des documents découverts en séance.</span>"
+},
+{
+"key": "feature_ppm.html#355",
+"fr": "<b>02</b><span>Marquez chaque point <b>décidé ou en suspens</b>. Notez un responsable et une échéance pour chaque point en suspens.</span>"
+},
+{
+"key": "feature_ppm.html#356",
+"fr": "<b>03</b><span>Passez toujours les références en revue <b>ensemble, à l’écran</b>. Décrivez un ton avec des mots, et chacun l’imagine différemment.</span>"
+}
+]

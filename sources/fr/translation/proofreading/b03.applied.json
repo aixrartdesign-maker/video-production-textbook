@@ -1,0 +1,32 @@
+[
+ {
+  "key": "part06.html#8",
+  "find": "· image générative",
+  "replace": "· image générée",
+  "why": "term: generative image = image générée, as in other parts"
+ },
+ {
+  "key": "part06.html#171",
+  "find": "Au plus fort avec",
+  "replace": "Plus percutant avec",
+  "why": "other: unnatural phrasing"
+ },
+ {
+  "key": "part06.html#191",
+  "find": "écrivez en une ligne un concept informatif, un émotionnel, un humoristique et un de résolution de problème, puis",
+  "replace": "écrivez en une ligne quatre concepts (informatif, émotionnel, humoristique, résolution de problème), puis",
+  "why": "grammar: elliptical 'un émotionnel' ungrammatical"
+ },
+ {
+  "key": "feature_ppm.html#2",
+  "find": "Ce dossier feuillette un dossier PPM, page par page.",
+  "replace": "Nous feuilletons ici un dossier PPM, page par page.",
+  "why": "other: awkward repetition dossier/dossier"
+ },
+ {
+  "key": "feature_ppm.html#82",
+  "find": "Plan moyen 2,5",
+  "replace": "Moy. par plan 2,5",
+  "why": "meaning: 'plan moyen' reads as a shot size, source = average cut length"
+ }
+]

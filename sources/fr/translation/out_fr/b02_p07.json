@@ -1,0 +1,442 @@
+[
+{
+"key": "part02.html#1234",
+"fr": "1.18 · 1.20 Regard, temps et espace"
+},
+{
+"key": "part02.html#1235",
+"fr": "Placez le plan suivant là où se pose le regard, et décidez d’abord combien de temps et de distance séparent deux plans."
+},
+{
+"key": "part02.html#1236",
+"fr": "Pistes de réflexion"
+},
+{
+"key": "part02.html#1237",
+"fr": "Quelles valeurs de plan est-ce que j’utilise le plus ? Par habitude ou par choix ?"
+},
+{
+"key": "part02.html#1238",
+"fr": "Sur le tableau des 8 plans, cochez la valeur la plus tournée et celle que vous n’avez jamais tournée."
+},
+{
+"key": "part02.html#1239",
+"fr": "Quel est le plan le plus marquant d’un film vu récemment, et pourquoi vous est-il resté ?"
+},
+{
+"key": "part02.html#1240",
+"fr": "Décomposez-le : valeur, angle, durée."
+},
+{
+"key": "part02.html#1241",
+"fr": "Comment formulez-vous vos indications de cadrage sur le plateau ?"
+},
+{
+"key": "part02.html#1242",
+"fr": "Employez les termes du métier, comme « un peu plus serré » : « fais-le un peu plus petit » sera compris de trois façons par trois personnes."
+},
+{
+"key": "feature_storyboard.html#0",
+"fr": "Dossier · STORYBOARD"
+},
+{
+"key": "feature_storyboard.html#1",
+"fr": "Le storyboard,<br>une promesse faite en images"
+},
+{
+"key": "feature_storyboard.html#2",
+"fr": "Un storyboard relève de la conception de l’information, non du talent de dessinateur. Ce dossier réunit ce qu’une case doit dire pour que dix personnes tournent la même scène, et comment la case change selon le support : horizontal · vertical · ultra-large · 360 · courbe · façade · AR/VR/MR/XR."
+},
+{
+"key": "feature_storyboard.html#3",
+"fr": "<b>G-18</b> Storyboard – inscrivez plan · mouvement · durée dans chaque case. Le dessin peut être sommaire ; l’information, non."
+},
+{
+"key": "feature_storyboard.html#4",
+"fr": "<b>01</b><i>Brouillon</i>Le réalisateur met ses idées en ordre. Croquis rapides, plusieurs versions comparées, pour les réunions internes. 1–2 heures."
+},
+{
+"key": "feature_storyboard.html#5",
+"fr": "<b>02</b><i>Storyboard</i>Le plan directeur de toute l’équipe. Cadrage · durée · son exacts. Changements minimes après validation en PPM. 1–2 jours."
+},
+{
+"key": "feature_storyboard.html#6",
+"fr": "<b>03</b><i>Animatique</i>Le storyboard sur une timeline avec musique · narration provisoires. Les défauts de rythme et de durée sautent aux yeux. 2–3 jours."
+},
+{
+"key": "feature_storyboard.html#7",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "feature_storyboard.html#8",
+"fr": "Pour une publicité de 15 secondes ou une vidéo courte de 1 minute, allez jusqu’à l’animatique. Les défauts de rythme ne se voient pas sur des images fixes."
+},
+{
+"key": "feature_storyboard.html#9",
+"fr": "Le storyboard est la dernière étape de la chaîne de production où les erreurs se corrigent à peu de frais. Si un changement coûte 1 au stade du concept, il coûte 3 au storyboard, 20 le jour du tournage et 50 en postproduction. Un storyboard n’est donc pas un document pour bien dessiner, mais <b>un document pour se tromper vite</b>."
+},
+{
+"key": "feature_storyboard.html#10",
+"fr": "<b>Photos de référence 1.1A</b>Image générée – quatre visages du storyboard"
+},
+{
+"key": "feature_storyboard.html#11",
+"fr": "<span class=\"ph-id\">P06-SB-HAND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard dessiné à la main – cases · flèches · notes de durée sur une feuille</b></span>"
+},
+{
+"key": "feature_storyboard.html#12",
+"fr": "<b>Note</b>Storyboard dessiné à la main – cases · flèches · notes de durée sur une feuille"
+},
+{
+"key": "feature_storyboard.html#13",
+"fr": "<span class=\"ph-id\">P06-SB-VERT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard de vidéo verticale – les cases deviennent étroites et hautes</b></span>"
+},
+{
+"key": "feature_storyboard.html#14",
+"fr": "<b>Note</b>Storyboard de vidéo verticale – les cases deviennent étroites et hautes"
+},
+{
+"key": "feature_storyboard.html#15",
+"fr": "<span class=\"ph-id\">P06-SB-DIGITAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard numérique – dessiné sur tablette, puis directement en animatique</b></span>"
+},
+{
+"key": "feature_storyboard.html#16",
+"fr": "<b>Note</b>Storyboard numérique – dessiné sur tablette, puis directement en animatique"
+},
+{
+"key": "feature_storyboard.html#17",
+"fr": "<span class=\"ph-id\">P06-ANIMATIC</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Animatique – placer le storyboard sur une timeline pour tester le rythme</b></span>"
+},
+{
+"key": "feature_storyboard.html#18",
+"fr": "<b>Note</b>Animatique – placer le storyboard sur une timeline pour tester le rythme"
+},
+{
+"key": "feature_storyboard.html#19",
+"fr": "<b>Photos de référence 1.1B</b>Image générée – références de mise en scène"
+},
+{
+"key": "feature_storyboard.html#20",
+"fr": "<b>a</b>Storyboard dessiné à la main"
+},
+{
+"key": "feature_storyboard.html#21",
+"fr": "<b>b</b>Écran de montage de l’animatique"
+},
+{
+"key": "feature_storyboard.html#22",
+"fr": "<b>c</b>Repérage des lieux"
+},
+{
+"key": "feature_storyboard.html#23",
+"fr": "<small>DOUBLE PAGE 01</small>Anatomie d’une case – les neuf éléments, sinon personne d’autre ne peut la tourner"
+},
+{
+"key": "feature_storyboard.html#24",
+"fr": "Anatomie d’une case – neuf éléments"
+},
+{
+"key": "feature_storyboard.html#25",
+"fr": "<span>CUT 02</span><span class=\"sc\">S#1 Café · Jour · INT</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#26",
+"fr": "MCU · EYE · 50 mm · DOLLY IN lent · CUT TO"
+},
+{
+"key": "feature_storyboard.html#27",
+"fr": "Indication d’action : prend le produit · le regard va vers le produit"
+},
+{
+"key": "feature_storyboard.html#28",
+"fr": "N Votre journée commence autrement · SE bouchon · M entrée du piano"
+},
+{
+"key": "feature_storyboard.html#29",
+"fr": "<i>1</i><b>Numéro de plan · scène</b><span>Base de l’ordre et des renvois</span>"
+},
+{
+"key": "feature_storyboard.html#30",
+"fr": "<i>2</i><b>Temps</b><span>Durée en secondes + time code cumulé</span>"
+},
+{
+"key": "feature_storyboard.html#31",
+"fr": "<i>3</i><b>Image (cadre)</b><span>Composition · position · regard · flèches</span>"
+},
+{
+"key": "feature_storyboard.html#32",
+"fr": "<i>4</i><b>Valeur de plan · angle · objectif</b><span>ELS–ECU · EYE/HIGH/LOW</span>"
+},
+{
+"key": "feature_storyboard.html#33",
+"fr": "<i>5</i><b>Mouvement de caméra</b><span>Direction + un mot pour la vitesse</span>"
+},
+{
+"key": "feature_storyboard.html#34",
+"fr": "<i>6</i><b>Indication d’action</b><span>L’événement, par un verbe</span>"
+},
+{
+"key": "feature_storyboard.html#35",
+"fr": "<i>7</i><b>Narration · dialogues</b><span>N / V.O. / SYNC</span>"
+},
+{
+"key": "feature_storyboard.html#36",
+"fr": "<i>8</i><b>Son</b><span>M · SE · ATM</span>"
+},
+{
+"key": "feature_storyboard.html#37",
+"fr": "<i>9</i><b>Transition</b><span>CUT / DIS / FI / FO</span>"
+},
+{
+"key": "feature_storyboard.html#38",
+"fr": "<b>Fig. 57</b> Éléments d’une case de storyboard. Ce n’est que si les neuf sont inscrits qu’un autre peut tourner la même image."
+},
+{
+"key": "feature_storyboard.html#39",
+"fr": "<small>Dans la case</small>Seulement ce qui se voit"
+},
+{
+"key": "feature_storyboard.html#40",
+"fr": "Position et taille des personnages · objets (la valeur de plan, c’est la taille du dessin)"
+},
+{
+"key": "feature_storyboard.html#41",
+"fr": "Direction du regard, flèches de mouvement (sujet = noir, caméra = bordeaux)"
+},
+{
+"key": "feature_storyboard.html#42",
+"fr": "Zones de sous-titres · logo entrant dans le cadre, en pointillés"
+},
+{
+"key": "feature_storyboard.html#43",
+"fr": "Zone de sécurité en pointillés – sous-titres uniquement à l’intérieur"
+},
+{
+"key": "feature_storyboard.html#44",
+"fr": "<small>Hors de la case</small>Ce qui s’entend, et les mesures"
+},
+{
+"key": "feature_storyboard.html#45",
+"fr": "Temps : durée en secondes et time code cumulé"
+},
+{
+"key": "feature_storyboard.html#46",
+"fr": "Abréviations : SIZE / ANGLE / LENS / MOVE / TR"
+},
+{
+"key": "feature_storyboard.html#47",
+"fr": "Indications d’action par des verbes, émotions par des adjectifs, bien séparées"
+},
+{
+"key": "feature_storyboard.html#48",
+"fr": "N · V.O. · SYNC · M · SE – quatre couches de son sur une ligne"
+},
+{
+"key": "feature_storyboard.html#49",
+"fr": "<small>DOUBLE PAGE 02</small>Gabarits de case par format d’image – changez de format, et la grammaire de la composition change"
+},
+{
+"key": "feature_storyboard.html#50",
+"fr": "Dessinez toujours les cases du storyboard <b>au format exact de livraison</b>. Un storyboard dessiné en 16:9 puis recadré à la verticale n’est pas un storyboard. Chaque gabarit ci-dessous remet en scène la même situation (personnage · produit · fond) pour son format. Les pointillés indiquent la zone de sécurité de l’action (90 %) et la zone de sécurité des titres (80 %)."
+},
+{
+"key": "feature_storyboard.html#51",
+"fr": "Gabarits de case par format d’image"
+},
+{
+"key": "feature_storyboard.html#52",
+"fr": "<b>4:3</b><span>1440×1080 · rétro</span>"
+},
+{
+"key": "feature_storyboard.html#53",
+"fr": "<b>16:9</b><span>1920×1080 · format standard</span>"
+},
+{
+"key": "feature_storyboard.html#54",
+"fr": "<b>21:9</b><span>3840×1608 · cinéma</span>"
+},
+{
+"key": "feature_storyboard.html#55",
+"fr": "<b>1:1</b><span>1080×1080 · fil</span>"
+},
+{
+"key": "feature_storyboard.html#56",
+"fr": "<b>4:5</b><span>1080×1350 · fil, max.</span>"
+},
+{
+"key": "feature_storyboard.html#57",
+"fr": "<b>9:16</b><span>1080×1920 · vidéo courte</span>"
+},
+{
+"key": "feature_storyboard.html#58",
+"fr": "<b>9:21</b><span>1080×2520 · LED vertical</span>"
+},
+{
+"key": "feature_storyboard.html#59",
+"fr": "<b>2:1 équirectangulaire</b><span>4096×2048 · 360/VR – le cadre rouge est l’avant, 90°</span>"
+},
+{
+"key": "feature_storyboard.html#60",
+"fr": "<b>Planche SB-1</b> Une scène, neuf formats. Changez de format : la taille du sujet et la part du fond changent – dessinez le storyboard au format exact de livraison."
+},
+{
+"key": "feature_storyboard.html#61",
+"fr": "Format"
+},
+{
+"key": "feature_storyboard.html#62",
+"fr": "Résolution type"
+},
+{
+"key": "feature_storyboard.html#63",
+"fr": "Support"
+},
+{
+"key": "feature_storyboard.html#64",
+"fr": "Règle de composition en une ligne"
+},
+{
+"key": "feature_storyboard.html#65",
+"fr": "À surveiller au dessin"
+},
+{
+"key": "feature_storyboard.html#66",
+"fr": "YouTube, TV, moniteurs, présentations"
+},
+{
+"key": "feature_storyboard.html#67",
+"fr": "Yeux et produit sur les lignes des tiers"
+},
+{
+"key": "feature_storyboard.html#68",
+"fr": "Tourner en 4K → marge pour extraire du vertical"
+},
+{
+"key": "feature_storyboard.html#69",
+"fr": "Cinéma, films de marque"
+},
+{
+"key": "feature_storyboard.html#70",
+"fr": "Le vide horizontal est émotion ; deux personnes en un plan"
+},
+{
+"key": "feature_storyboard.html#71",
+"fr": "Livré en letterbox dans du 16:9 ; vérifier la position des sous-titres"
+},
+{
+"key": "feature_storyboard.html#72",
+"fr": "Reels · Shorts · TikTok"
+},
+{
+"key": "feature_storyboard.html#73",
+"fr": "60 % centraux, visage dans le tiers supérieur"
+},
+{
+"key": "feature_storyboard.html#74",
+"fr": "L’interface masque 14 % en haut · 25 % en bas"
+},
+{
+"key": "feature_storyboard.html#75",
+"fr": "LED vertical, ascenseurs · piliers"
+},
+{
+"key": "feature_storyboard.html#76",
+"fr": "Lecture haut→bas, axe central vertical"
+},
+{
+"key": "feature_storyboard.html#77",
+"fr": "Distance de vue 2 m et + → texte d’au moins 60 px"
+},
+{
+"key": "feature_storyboard.html#78",
+"fr": "Publicités du fil"
+},
+{
+"key": "feature_storyboard.html#79",
+"fr": "Centré, marges égales"
+},
+{
+"key": "feature_storyboard.html#80",
+"fr": "Une source 16:9 perd 44 % sur les côtés"
+},
+{
+"key": "feature_storyboard.html#81",
+"fr": "Casques VR, lecteurs 360"
+},
+{
+"key": "feature_storyboard.html#82",
+"fr": "Action dans les 90° avant, son à l’arrière"
+},
+{
+"key": "feature_storyboard.html#83",
+"fr": "Distorsion au zénith · au nadir, effacer le trépied"
+},
+{
+"key": "feature_storyboard.html#84",
+"fr": "Format libre"
+},
+{
+"key": "feature_storyboard.html#85",
+"fr": "Nombre de modules LED × pas de pixel"
+},
+{
+"key": "feature_storyboard.html#86",
+"fr": "Courbe · façade · dôme"
+},
+{
+"key": "feature_storyboard.html#87",
+"fr": "La référence est la « position du spectateur », non la surface"
+},
+{
+"key": "feature_storyboard.html#88",
+"fr": "Vue dépliée + vue de dessus, deux feuilles ensemble"
+},
+{
+"key": "feature_storyboard.html#89",
+"fr": "<small>DOUBLE PAGE 03</small>Horizontal et vertical ne sont pas deux supports, mais deux langues – concevez le même plan deux fois"
+},
+{
+"key": "feature_storyboard.html#90",
+"fr": "Concevez le même plan deux fois"
+},
+{
+"key": "feature_storyboard.html#91",
+"fr": "<b>✕ Vertical recadré au centre d’un 16:9</b><span>Une moitié de personne, une moitié de fenêtre – recadrer n’est pas concevoir</span>"
+},
+{
+"key": "feature_storyboard.html#92",
+"fr": "<b>○ Plan reconçu pour le vertical</b><span>Visage dans le tiers supérieur, produit centré, moins de fond</span>"
+},
+{
+"key": "feature_storyboard.html#93",
+"fr": "<b>Passer au vertical</b><span>Plans plus serrés d’une valeur</span><span>Le fond passe dans un plan à part</span><span>Regard et mouvement vont de haut en bas</span><span>Sous-titres dans la bande centrale de 60 %</span><span>Nombre de plans en hausse de 20–30 %</span>"
+},
+{
+"key": "feature_storyboard.html#94",
+"fr": "<b>Planche SB-2</b> Horizontal et vertical sont deux langues. La différence entre un recadrage central (à gauche) et une reconception (au centre)."
+},
+{
+"key": "feature_storyboard.html#95",
+"fr": "Exemple de storyboard vertical – publicité courte de 15 secondes (9:16, 6 plans)"
+},
+{
+"key": "feature_storyboard.html#96",
+"fr": "Exemple de storyboard vertical"
+},
+{
+"key": "feature_storyboard.html#97",
+"fr": "<b>CU · LOCKED</b><span>Bâillement · sous-titre « Tous les matins, ça ? »</span>"
+},
+{
+"key": "feature_storyboard.html#98",
+"fr": "<b>ECU · HIGH · trav. avant</b><span>La main prend la bouteille · SE bouchon</span>"
+},
+{
+"key": "feature_storyboard.html#99",
+"fr": "<b>MCU · HH</b><span>Une gorgée, les yeux s’ouvrent · « Oh. »</span>"
+},
+{
+"key": "feature_storyboard.html#100",
+"fr": "<b>LS · LOW · TILT UP</b><span>La ville par la fenêtre · N Avant que la ville</span>"
+}
+]

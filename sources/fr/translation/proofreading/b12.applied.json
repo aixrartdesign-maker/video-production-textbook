@@ -1,0 +1,50 @@
+[
+ {
+  "key": "part11.html#202",
+  "find": "Une musique sans droits dans un showreel trahit un manque de métier.",
+  "replace": "Une musique utilisée sans autorisation dans un showreel trahit un manque de professionnalisme.",
+  "why": "meaning: 'sans droits' reads as royalty-free; source = unlicensed music"
+ },
+ {
+  "key": "part11.html#384",
+  "find": "<i>An 1 ·",
+  "replace": "<i>Année 1 ·",
+  "why": "other: unnatural 'An 1'"
+ },
+ {
+  "key": "part11.html#385",
+  "find": "<i>Ans 2–3 ·",
+  "replace": "<i>Années 2–3 ·",
+  "why": "other: unnatural 'Ans 2–3'"
+ },
+ {
+  "key": "part11.html#446",
+  "find": "d’1 page",
+  "replace": "d’une page",
+  "why": "typography: elision before numeral"
+ },
+ {
+  "key": "part11.html#711",
+  "find": "d’1 minute",
+  "replace": "d’une minute",
+  "why": "typography: elision before numeral"
+ },
+ {
+  "key": "part11.html#427",
+  "find": "pas que sur les succès",
+  "replace": "pas seulement sur les succès",
+  "why": "other: colloquial 'pas que'"
+ },
+ {
+  "key": "part12.html#23",
+  "find": "tombé près de 0",
+  "replace": "tombé à près de 0",
+  "why": "grammar: missing preposition"
+ },
+ {
+  "key": "part12.html#175",
+  "find": "tombé près de 0",
+  "replace": "tombé à près de 0",
+  "why": "grammar: missing preposition"
+ }
+]

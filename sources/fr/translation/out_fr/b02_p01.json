@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#334",
+"fr": "Plein centre ; affirmatif et fort"
+},
+{
+"key": "part02.html#335",
+"fr": "Plans logo, interviews de face, autorité"
+},
+{
+"key": "part02.html#336",
+"fr": "<small>Courbe</small>Nombre d’or"
+},
+{
+"key": "part02.html#337",
+"fr": "Une spirale attire l’œil vers l’intérieur"
+},
+{
+"key": "part02.html#338",
+"fr": "Formes naturelles, sujets courbes"
+},
+{
+"key": "part02.html#339",
+"fr": "<small>Mouvement</small>Diagonale"
+},
+{
+"key": "part02.html#340",
+"fr": "Des lignes en travers du cadre créent le mouvement"
+},
+{
+"key": "part02.html#341",
+"fr": "Donne de la vitesse à un produit statique"
+},
+{
+"key": "part02.html#342",
+"fr": "<small>Stabilité</small>Triangle"
+},
+{
+"key": "part02.html#343",
+"fr": "Trois éléments en triangle"
+},
+{
+"key": "part02.html#344",
+"fr": "Plans à trois, présentations de produits"
+},
+{
+"key": "part02.html#345",
+"fr": "<small>Horizon</small>Position de l’horizon"
+},
+{
+"key": "part02.html#346",
+"fr": "Tiers haut : met le sol en valeur"
+},
+{
+"key": "part02.html#347",
+"fr": "Tiers bas : ciel et ouverture"
+},
+{
+"key": "part02.html#348",
+"fr": "Trois noms pour l’espace"
+},
+{
+"key": "part02.html#349",
+"fr": "<b>Fig. 17</b> Air au-dessus de la tête, air du regard, air de déplacement – trois noms pour l’espace"
+},
+{
+"key": "part02.html#350",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part02.html#351",
+"fr": "En publicité, l’espace négatif accueille les sous-titres et les logos. Prévoyez-le avant le tournage : il ne se fabrique pas en postproduction."
+},
+{
+"key": "part02.html#352",
+"fr": "<b>Air au-dessus de la tête</b> – espace au-dessus de la tête. Trop, et le personnage s’enfonce ; trop peu, et l’on étouffe. En gros plan, couper au-dessus du front paraît en fait plus naturel."
+},
+{
+"key": "part02.html#353",
+"fr": "<b>Air du regard</b> – espace devant le regard. S’il y a plus d’espace derrière le regard, le public ressent un malaise sans raison claire."
+},
+{
+"key": "part02.html#354",
+"fr": "<b>Air de déplacement</b> – espace devant un sujet en mouvement. Trop peu, et il semble sur le point de heurter un mur."
+},
+{
+"key": "part02.html#355",
+"fr": "<b>Espace négatif</b> – espace laissé vide à dessein. C’est là que vont les sous-titres et les logos."
+},
+{
+"key": "part02.html#356",
+"fr": "Techniques de composition avancées"
+},
+{
+"key": "part02.html#357",
+"fr": "<b>Cadre dans le cadre</b> – utilisez encadrements de porte, fenêtres, miroirs ou doigts pour créer un second cadre dans le cadre."
+},
+{
+"key": "part02.html#358",
+"fr": "<b>Perspective linéaire</b> – la profondeur naît du point de fuite des routes, couloirs, escaliers."
+},
+{
+"key": "part02.html#359",
+"fr": "<b>Répétition et motif</b> – répétez une forme pour le rythme, et faites-en une différente."
+},
+{
+"key": "part02.html#360",
+"fr": "<b>Objets au premier plan</b> – placez feuilles, verre ou tissu devant l’objectif pour ajouter des couches. De la profondeur à petit budget."
+},
+{
+"key": "part02.html#361",
+"fr": "<b>Symétrie brisée</b> – sortez un élément d’une symétrie parfaite, et l’œil s’y porte forcément."
+},
+{
+"key": "part02.html#362",
+"fr": "<b>Étagement</b> – répartissez l’information entre premier plan, plan médian et arrière-plan pour en dire plus en un seul plan."
+},
+{
+"key": "part02.html#363",
+"fr": "<small>Exercice</small>1.6"
+},
+{
+"key": "part02.html#364",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#365",
+"fr": "Réalisez 4 photos : règle des tiers, symétrie, lignes directrices et cadre dans le cadre."
+},
+{
+"key": "part02.html#366",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#367",
+"fr": "Après la prise de vue, remettez aussi les versions avec les lignes de construction superposées."
+},
+{
+"key": "part02.html#368",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#369",
+"fr": "Justesse d’application du principe ; point où l’œil finit par se poser"
+},
+{
+"key": "part02.html#370",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#371",
+"fr": "La symétrie de Wes Anderson ; les compositions verticales de Parasite, de Bong Joon-ho. La composition porte aussi le sens du récit."
+},
+{
+"key": "part02.html#372",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#373",
+"fr": "Guider le regard et lire le cadre"
+},
+{
+"key": "part02.html#374",
+"fr": "L’œil du public ne se promène pas librement dans le cadre. Il est attiré par ce qui est lumineux, mobile ou net, par les visages, par les forts contrastes. Mettre en scène, c’est maîtriser cet ordre."
+},
+{
+"key": "part02.html#375",
+"fr": "Signal"
+},
+{
+"key": "part02.html#376",
+"fr": "Fonctionnement"
+},
+{
+"key": "part02.html#377",
+"fr": "Force"
+},
+{
+"key": "part02.html#378",
+"fr": "En pratique"
+},
+{
+"key": "part02.html#379",
+"fr": "Luminosité"
+},
+{
+"key": "part02.html#380",
+"fr": "L’œil glisse vers les zones claires"
+},
+{
+"key": "part02.html#381",
+"fr": "Très forte"
+},
+{
+"key": "part02.html#382",
+"fr": "Personnage principal et produit clairs ; fond assombri"
+},
+{
+"key": "part02.html#383",
+"fr": "Mouvement"
+},
+{
+"key": "part02.html#384",
+"fr": "Le seul mouvement dans un cadre fixe"
+},
+{
+"key": "part02.html#385",
+"fr": "Très forte"
+},
+{
+"key": "part02.html#386",
+"fr": "Tout figer, ne bouger qu’un élément"
+},
+{
+"key": "part02.html#387",
+"fr": "Netteté"
+},
+{
+"key": "part02.html#388",
+"fr": "La zone au point"
+},
+{
+"key": "part02.html#389",
+"fr": "Forte"
+},
+{
+"key": "part02.html#390",
+"fr": "Épurer le fond par une faible profondeur de champ"
+},
+{
+"key": "part02.html#391",
+"fr": "Regard"
+},
+{
+"key": "part02.html#392",
+"fr": "Suit le regard de l’interprète"
+},
+{
+"key": "part02.html#393",
+"fr": "Forte"
+},
+{
+"key": "part02.html#394",
+"fr": "À placer juste avant de révéler le sujet"
+},
+{
+"key": "part02.html#395",
+"fr": "Contraste de couleur"
+},
+{
+"key": "part02.html#396",
+"fr": "Complémentaires, forte saturation"
+},
+{
+"key": "part02.html#397",
+"fr": "Moyenne"
+},
+{
+"key": "part02.html#398",
+"fr": "Couleur de marque seule saturée"
+},
+{
+"key": "part02.html#399",
+"fr": "Ligne et perspective"
+},
+{
+"key": "part02.html#400",
+"fr": "Mène au point de fuite"
+},
+{
+"key": "part02.html#401",
+"fr": "Moyenne"
+},
+{
+"key": "part02.html#402",
+"fr": "Utiliser couloirs, routes, rambardes"
+},
+{
+"key": "part02.html#403",
+"fr": "Son"
+},
+{
+"key": "part02.html#404",
+"fr": "L’attention se tourne vers le son"
+},
+{
+"key": "part02.html#405",
+"fr": "Très forte"
+},
+{
+"key": "part02.html#406",
+"fr": "Signal principal des contenus 360"
+},
+{
+"key": "part02.html#407",
+"fr": "Là où l’œil doit se poser en 3 secondes"
+},
+{
+"key": "part02.html#408",
+"fr": "Vérifiez vous-même où l’œil se pose d’abord sur l’image d’ouverture d’une vidéo courte. Montrez-la 0,5 seconde à un coéquipier et demandez-lui ce qu’il a vu. Si ce n’est pas la réponse voulue, corrigez la composition."
+},
+{
+"key": "part02.html#409",
+"fr": "<small>Exercice</small>1.7"
+},
+{
+"key": "part02.html#410",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#411",
+"fr": "Montrez une photo 3 secondes à 5 personnes et notez ce qu’elles ont vu en premier."
+},
+{
+"key": "part02.html#412",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#413",
+"fr": "Classez ce qui a attiré l’œil : luminosité, netteté, visage ou mouvement."
+},
+{
+"key": "part02.html#414",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#415",
+"fr": "Avez-vous prévu le trajet de l’œil et vérifié les résultats ?"
+},
+{
+"key": "part02.html#416",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#417",
+"fr": "La composition centrée de Mad Max : Fury Road. Tracez le trajet de l’œil avec des flèches pour prouver l’intention de conception."
+},
+{
+"key": "part02.html#418",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#419",
+"fr": "La règle des 180° et la règle des 30°"
+},
+{
+"key": "part02.html#420",
+"fr": "Ces deux règles sont l’accord minimal qui permet au public de se repérer dans l’espace. Seul celui qui connaît les règles peut les enfreindre."
+},
+{
+"key": "part02.html#421",
+"fr": "Restez du même côté de l’axe : gauche et droite sont préservées"
+},
+{
+"key": "part02.html#422",
+"fr": "<span class=\"lb pt\" style=\"left:36%;top:28%\">A</span><span class=\"lb pt\" style=\"left:60%;top:28%\">B</span><span class=\"lb line\" style=\"left:90%;top:66%\">L’axe</span><span class=\"lb \" style=\"left:6%;top:74%\">OTS A</span><span class=\"lb \" style=\"left:43%;top:92%\">Plan à deux</span><span class=\"lb \" style=\"left:80%;top:80%\">OTS B</span><span class=\"lb bad\" style=\"left:49%;top:6%\">✕ Caméra de l’autre côté de l’axe – A · B s’inversent</span>"
+},
+{
+"key": "part02.html#423",
+"fr": "<b>OTS A – B à droite</b><span>Par-dessus l’épaule de A, B est à droite de l’écran, tourné vers la gauche</span>"
+},
+{
+"key": "part02.html#424",
+"fr": "<b>OTS B – A à gauche</b><span>Même côté de l’axe : A à gauche, B à droite. Montés ensemble, ils se font face</span>"
+},
+{
+"key": "part02.html#425",
+"fr": "<b>✕ Coupe par-delà l’axe – B saute à gauche</b><span>Le public croit qu’ils regardent dans le même sens. Pour franchir l’axe, il faut un plan qui montre le franchissement</span>"
+},
+{
+"key": "part02.html#426",
+"fr": "<b>Fig. 18</b> La règle des 180° – gardez la caméra d’un seul côté de l’axe reliant deux personnes. En bas : ce que montrent réellement les trois caméras."
+},
+{
+"key": "part02.html#427",
+"fr": "<b>G-04</b> La règle des 180° – l’axe entre deux personnes et le placement des caméras"
+},
+{
+"key": "part02.html#428",
+"fr": "La règle des 180° (l’axe de l’action)"
+},
+{
+"key": "part02.html#429",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part02.html#430",
+"fr": "S’il faut franchir l’axe, passez par un plan neutre de face, un plan où la caméra le traverse, ou un insert."
+},
+{
+"key": "part02.html#431",
+"fr": "Tracez un axe imaginaire entre deux personnes ou deux objets et ne filmez que d’un seul côté. Franchissez-le, et les personnages changent de côté, le dialogue se défait, le public perd ses repères dans l’espace."
+},
+{
+"key": "part02.html#432",
+"fr": "Enfreignez cette règle dans une retransmission sportive, et une équipe semble attaquer dans le mauvais sens. Voilà pourquoi les caméras d’un match de football sont toutes du même côté."
+},
+{
+"key": "part02.html#433",
+"fr": "Moins il y a de plans, comme dans une publicité de 15 secondes, plus une seule faute ruine l’ensemble. Dessinez un plan au sol dès le storyboard et fixez d’avance les positions de caméra."
+},
+{
+"key": "part02.html#434",
+"fr": "Raccord de regard : trois vérifications"
+},
+{
+"key": "part02.html#435",
+"fr": "<b>01</b><span>Quand deux personnes se regardent – les regards sont-ils à la même hauteur et en sens opposés ? Si A regarde à droite, B doit regarder à gauche.</span>"
+},
+{
+"key": "part02.html#436",
+"fr": "<b>02</b><span>Quand quelqu’un regarde la caméra – l’objectif est-il à hauteur de ses yeux ? Plus haut ou plus bas, il regarde le spectateur de haut ou d’en bas, et non en face.</span>"
+},
+{
+"key": "part02.html#437",
+"fr": "<b>03</b><span>Quand quelqu’un regarde derrière lui ou hors champ – le plan suivant montre-t-il l’espace situé dans cette direction ? Si le regard sort à gauche, le plan suivant doit montrer ce qui se trouvait à gauche.</span>"
+},
+{
+"key": "part02.html#438",
+"fr": "L’axe et le raccord de regard relèvent du même accord. La section 1.18, Direction du regard, y revient avec cinq types de regard."
+},
+{
+"key": "part02.html#439",
+"fr": "La règle des 30°"
+},
+{
+"key": "part02.html#440",
+"fr": "Déplacez-vous de 30° ou plus autour du même axe pour un plan suivant naturel"
+},
+{
+"key": "part02.html#441",
+"fr": "<span class=\"lb pt\" style=\"left:27%;top:40%\">A</span><span class=\"lb ghost\" style=\"left:13%;top:36%\">B</span><span class=\"lb bad\" style=\"left:14%;top:58%\">✕ Quelques degrés – jump cut</span><span class=\"lb pt\" style=\"left:82%;top:24%\">C</span><span class=\"lb deg\" style=\"left:44%;top:60%\">30° ou plus</span><span class=\"lb \" style=\"left:50%;top:92%\">Sujet</span>"
+},
+{
+"key": "part02.html#442",
+"fr": "<b>Lecture</b><span>De A à C – l’angle diffère assez pour que le public accepte « un autre plan »</span><span>De A à B – raccordez deux plans pris presque du même endroit, et l’image saute (jump cut)</span><span>Si vous ne pouvez pas changer d’angle, changez la valeur de plan de deux crans – plan en pied → gros plan</span>"
+},
+{
+"key": "part02.html#443",
+"fr": "<b>Fig. 19</b> La règle des 30° – en déplaçant la caméra, tournez d’au moins 30° autour du sujet. Les jump cuts voulus des vidéos courtes enfreignent cette règle en connaissance de cause."
+},
+{
+"key": "part02.html#444",
+"fr": "Quand vous refilmez le même sujet, changez l’angle de caméra d’au moins 30°. En deçà, les deux plans se ressemblent trop et produisent un jump cut heurté. Changer aussi la valeur de plan de deux crans est plus sûr encore."
+},
+{
+"key": "part02.html#445",
+"fr": "Seul celui qui connaît les règles peut les enfreindre. Les jump cuts des vidéos courtes violent ouvertement la règle des 30°, mais on les admet parce qu’ils servent un but clair : le rythme.<small>1.8 La règle des 180° et la règle des 30°</small>"
+},
+{
+"key": "part02.html#446",
+"fr": "<small>Exercice</small>1.8"
+},
+{
+"key": "part02.html#447",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#448",
+"fr": "Montez un dialogue à deux en une version qui respecte la règle des 180° et une qui l’enfreint, puis comparez."
+},
+{
+"key": "part02.html#449",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#450",
+"fr": "Avant de tourner, marquez l’axe au sol avec du ruban adhésif."
+},
+{
+"key": "part02.html#451",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#452",
+"fr": "Axe tenu, regards cohérents, raison de tout franchissement délibéré"
+},
+{
+"key": "part02.html#453",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#454",
+"fr": "Ne franchissez l’axe à dessein qu’au moment où le conflit éclate, pour mettre en scène la confusion."
+},
+{
+"key": "part02.html#455",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#456",
+"fr": "Mouvement de caméra et émotion"
+},
+{
+"key": "part02.html#457",
+"fr": "Un seul mouvement par plan. Panoramique, zoom et déplacement à la fois, et le regard du public se perd."
+},
+{
+"key": "part02.html#458",
+"fr": "<b>Photos de référence 1.9A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part02.html#459",
+"fr": "<b>DOLLY</b>Avancée sur rails – la caméra traverse l’espace : premier plan et arrière-plan glissent l’un par rapport à l’autre. Immersion ou retrait"
+},
+{
+"key": "part02.html#460",
+"fr": "<b>ARC</b>Tour du sujet – le personnage reste au centre, le fond tourne. Moment de résolution, tournant d’une relation"
+},
+{
+"key": "part02.html#461",
+"fr": "<b>CRANE</b>Élévation verticale et ampleur – montrer l’échelle, conclure, le dernier plan libérateur"
+},
+{
+"key": "part02.html#462",
+"fr": "<b>Photos de référence 1.9B</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part02.html#463",
+"fr": "<b>PAN</b>Balayage de l’espace par rotation sur un axe fixe – relie un sujet à un autre"
+},
+{
+"key": "part02.html#464",
+"fr": "<b>Zoom avant ZOOM I</b>Même point de vue, seule l’image grossit – la perspective s’aplatit et le public a l’impression de « scruter »"
+},
+{
+"key": "part02.html#465",
+"fr": "<b>Zoom arrière ZOOM O</b>Le contexte se révèle – emphase artificielle ; seul l’angle de champ change"
+},
+{
+"key": "part02.html#466",
+"fr": "Huit mouvements de caméra"
+},
+{
+"key": "part02.html#467",
+"fr": "<b><i>01</i>PAN</b><span>Pivote à gauche et à droite sur place</span>"
+},
+{
+"key": "part02.html#468",
+"fr": "<b><i>02</i>TILT</b><span>Pivote de haut en bas sur place</span>"
+},
+{
+"key": "part02.html#469",
+"fr": "<b><i>03</i>DOLLY IN</b><span>La caméra s’approche</span>"
+},
+{
+"key": "part02.html#470",
+"fr": "<b><i>04</i>TRACK</b><span>Accompagne le sujet</span>"
+},
+{
+"key": "part02.html#471",
+"fr": "<b><i>05</i>ARC</b><span>Tourne autour du sujet</span>"
+},
+{
+"key": "part02.html#472",
+"fr": "<b><i>06</i>CRANE</b><span>Monte et descend à la verticale</span>"
+},
+{
+"key": "part02.html#473",
+"fr": "<b><i>07</i>Caméra portée HH</b><span>Un tremblé qui respire</span>"
+},
+{
+"key": "part02.html#474",
+"fr": "<b><i>08</i>LOCKED</b><span>Immobile – la référence</span>"
+},
+{
+"key": "part02.html#475",
+"fr": "<b>Fig. 20</b> Trajectoires des 8 mouvements de caméra. Les flèches rouges indiquent le mouvement de la caméra ; la silhouette blanche est le sujet."
+},
+{
+"key": "part02.html#476",
+"fr": "Le zoom change l’angle de champ ; le travelling, l’espace"
+},
+{
+"key": "part02.html#477",
+"fr": "Arrière-plan"
+},
+{
+"key": "part02.html#478",
+"fr": "Référence"
+},
+{
+"key": "part02.html#479",
+"fr": "<b>Départ</b>"
+},
+{
+"key": "part02.html#480",
+"fr": "Arrière-plan"
+},
+{
+"key": "part02.html#481",
+"fr": "Seul l’angle de champ se resserre"
+},
+{
+"key": "part02.html#482",
+"fr": "<b>Zoom avant</b>"
+},
+{
+"key": "part02.html#483",
+"fr": "Arrière-plan"
+}
+]

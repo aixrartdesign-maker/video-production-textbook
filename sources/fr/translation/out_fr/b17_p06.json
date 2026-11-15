@@ -1,0 +1,378 @@
+[
+{
+"key": "templates.html#401",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#402",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#403",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#404",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#405",
+"fr": "Action"
+},
+{
+"key": "templates.html#406",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#407",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#408",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#409",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#410",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#411",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#412",
+"fr": "Action"
+},
+{
+"key": "templates.html#413",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#414",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#415",
+"fr": "CUT 07"
+},
+{
+"key": "templates.html#416",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#417",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#418",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#419",
+"fr": "Action"
+},
+{
+"key": "templates.html#420",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#421",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#422",
+"fr": "CUT 08"
+},
+{
+"key": "templates.html#423",
+"fr": "0° avant"
+},
+{
+"key": "templates.html#424",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#425",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#426",
+"fr": "Action"
+},
+{
+"key": "templates.html#427",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#428",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#429",
+"fr": "Cadre bordeaux = avant 90° (une vue de casque). Garder les événements dans les ±30° ; couvrir l’arrière par le son. Dessiner la carte des points de vue à côté."
+},
+{
+"key": "templates.html#430",
+"fr": "Modèle de storyboard · LED courbe·enveloppante"
+},
+{
+"key": "templates.html#431",
+"fr": "Déplié cylindrique – salle d’exposition immersive · longueur d’arc : hauteur (p. ex. 9400×2000)"
+},
+{
+"key": "templates.html#432",
+"fr": "Projet ____________  Scène ____  Page ___/___"
+},
+{
+"key": "templates.html#433",
+"fr": "Réalisation _____  Date ________  Version v___"
+},
+{
+"key": "templates.html#434",
+"fr": "CUT 01"
+},
+{
+"key": "templates.html#435",
+"fr": "Bande du regard"
+},
+{
+"key": "templates.html#436",
+"fr": "Bord G"
+},
+{
+"key": "templates.html#437",
+"fr": "Face"
+},
+{
+"key": "templates.html#438",
+"fr": "Bord D"
+},
+{
+"key": "templates.html#439",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#440",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#441",
+"fr": "Action"
+},
+{
+"key": "templates.html#442",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#443",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#444",
+"fr": "CUT 02"
+},
+{
+"key": "templates.html#445",
+"fr": "Bande du regard"
+},
+{
+"key": "templates.html#446",
+"fr": "Bord G"
+},
+{
+"key": "templates.html#447",
+"fr": "Face"
+},
+{
+"key": "templates.html#448",
+"fr": "Bord D"
+},
+{
+"key": "templates.html#449",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#450",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#451",
+"fr": "Action"
+},
+{
+"key": "templates.html#452",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#453",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#454",
+"fr": "CUT 03"
+},
+{
+"key": "templates.html#455",
+"fr": "Bande du regard"
+},
+{
+"key": "templates.html#456",
+"fr": "Bord G"
+},
+{
+"key": "templates.html#457",
+"fr": "Face"
+},
+{
+"key": "templates.html#458",
+"fr": "Bord D"
+},
+{
+"key": "templates.html#459",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#460",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#461",
+"fr": "Action"
+},
+{
+"key": "templates.html#462",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#463",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#464",
+"fr": "CUT 04"
+},
+{
+"key": "templates.html#465",
+"fr": "Bande du regard"
+},
+{
+"key": "templates.html#466",
+"fr": "Bord G"
+},
+{
+"key": "templates.html#467",
+"fr": "Face"
+},
+{
+"key": "templates.html#468",
+"fr": "Bord D"
+},
+{
+"key": "templates.html#469",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#470",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#471",
+"fr": "Action"
+},
+{
+"key": "templates.html#472",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#473",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#474",
+"fr": "CUT 05"
+},
+{
+"key": "templates.html#475",
+"fr": "Bande du regard"
+},
+{
+"key": "templates.html#476",
+"fr": "Bord G"
+},
+{
+"key": "templates.html#477",
+"fr": "Face"
+},
+{
+"key": "templates.html#478",
+"fr": "Bord D"
+},
+{
+"key": "templates.html#479",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#480",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#481",
+"fr": "Action"
+},
+{
+"key": "templates.html#482",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#483",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#484",
+"fr": "CUT 06"
+},
+{
+"key": "templates.html#485",
+"fr": "Bande du regard"
+},
+{
+"key": "templates.html#486",
+"fr": "Bord G"
+},
+{
+"key": "templates.html#487",
+"fr": "Face"
+},
+{
+"key": "templates.html#488",
+"fr": "Bord D"
+},
+{
+"key": "templates.html#489",
+"fr": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#490",
+"fr": "MOVE / TR"
+},
+{
+"key": "templates.html#491",
+"fr": "Action"
+},
+{
+"key": "templates.html#492",
+"fr": "N · SYNC"
+},
+{
+"key": "templates.html#493",
+"fr": "M · SE"
+},
+{
+"key": "templates.html#494",
+"fr": "Pointillés = jointures des modules (pas de texte). Texte·visages uniquement dans la bande du regard (1,4–1,8 m au-dessus du sol)."
+}
+]

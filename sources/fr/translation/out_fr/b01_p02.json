@@ -1,0 +1,602 @@
+[
+{
+"key": "part00.html#150",
+"fr": "<em>Q09</em>Jusqu’où pousser l’étalonnage ?"
+},
+{
+"key": "part00.html#151",
+"fr": "Corrigez l’exposition et la balance des blancs, raccordez les plans entre eux, puis appliquez le look. L’ordre compte. (5.8)"
+},
+{
+"key": "part00.html#152",
+"fr": "<em>Q10</em>Où trouver de la musique ?"
+},
+{
+"key": "part00.html#153",
+"fr": "Les bibliothèques sous licence par abonnement sont les plus sûres. Gardez la preuve d’achat dans le dossier du projet. (4.9)"
+},
+{
+"key": "part00.html#154",
+"fr": "<em>Q11</em>Un court extrait, ça passe, côté droit d’auteur ?"
+},
+{
+"key": "part00.html#155",
+"fr": "Cette règle n’existe pas. Il y a contrefaçon quelle que soit la durée. (7.7)"
+},
+{
+"key": "part00.html#156",
+"fr": "<em>Q12</em>Je ne sais pas dessiner de storyboard. Que faire ?"
+},
+{
+"key": "part00.html#157",
+"fr": "Savoir dessiner n’est pas nécessaire. Des cases et des flèches suffisent ; les règles de notation comptent davantage. (2.1)"
+},
+{
+"key": "part00.html#158",
+"fr": "<em>Q13</em>Que faire quand la conception cale ?"
+},
+{
+"key": "part00.html#159",
+"fr": "Notez 20 problèmes que rencontre la cible et retenez ceux que le produit résout. C’est la méthode la plus sûre. (2.5)"
+},
+{
+"key": "part00.html#160",
+"fr": "<em>Q14</em>Ne peut-on pas caser deux messages en 15 secondes ?"
+},
+{
+"key": "part00.html#161",
+"fr": "Les deux disparaissent. Gardez-en un. (7.1)"
+},
+{
+"key": "part00.html#162",
+"fr": "<em>Q15</em>Comment construire les 3 premières secondes ?"
+},
+{
+"key": "part00.html#163",
+"fr": "Choisissez l’un des six types, et n’ouvrez jamais sur un logo et un fondu. (7.2)"
+},
+{
+"key": "part00.html#164",
+"fr": "<em>Q16</em>Je n’ai pas de vues"
+},
+{
+"key": "part00.html#165",
+"fr": "Vérifiez dans l’ordre portée, taux de clics, rétention et engagement : la cause se précise. (8.8)"
+},
+{
+"key": "part00.html#166",
+"fr": "<em>Q17</em>Quelle longueur pour un titre ?"
+},
+{
+"key": "part00.html#167",
+"fr": "40–60 caractères, avec les mots-clés dans les 25 premiers. (8.11)"
+},
+{
+"key": "part00.html#168",
+"fr": "<em>Q18</em>Combien de hashtags ?"
+},
+{
+"key": "part00.html#169",
+"fr": "Mêlez-en des grands, des moyens et des petits : 10–15 environ. (8.4)"
+},
+{
+"key": "part00.html#170",
+"fr": "<em>Q19</em>Puis-je simplement recadrer de l’horizontal en vertical ?"
+},
+{
+"key": "part00.html#171",
+"fr": "Tournez en 4K et tracez des repères verticaux dès le tournage. C’est la composition elle-même qui change. (6.2)"
+},
+{
+"key": "part00.html#172",
+"fr": "<em>Q20</em>Où placer les sous-titres d’une vidéo courte ?"
+},
+{
+"key": "part00.html#173",
+"fr": "Au centre, à un tiers environ en partant du bas. Les 12 % du haut et les 20 % du bas sont masqués par l’interface. (6.3)"
+},
+{
+"key": "part00.html#174",
+"fr": "<em>Q21</em>Peut-on faire toute une vidéo avec l’IA ?"
+},
+{
+"key": "part00.html#175",
+"fr": "Remplacez tout le processus, et la cohérence s’effondre. Limitez-la à trois points : idéation, ébauches, automatisation. (8.9)"
+},
+{
+"key": "part00.html#176",
+"fr": "<em>Q22</em>Dois-je déclarer l’usage de l’IA ?"
+},
+{
+"key": "part00.html#177",
+"fr": "Les obligations de déclaration se multiplient dans les concours et les livraisons client. Consignez votre usage dans les documents. (8.9)"
+},
+{
+"key": "part00.html#178",
+"fr": "<em>Q23</em>Combien de travaux dans un portfolio ?"
+},
+{
+"key": "part00.html#179",
+"fr": "5–8. Votre travail le plus faible est pris pour votre niveau. (10.3)"
+},
+{
+"key": "part00.html#180",
+"fr": "<em>Q24</em>Je n’ai pas d’expérience. Qu’y mettre ?"
+},
+{
+"key": "part00.html#181",
+"fr": "Des travaux personnels aboutis et les documents de leur fabrication. Les commandes ne sont pas les seules à compter. (10.3)"
+},
+{
+"key": "part00.html#182",
+"fr": "<em>Q25</em>Quelle durée pour un showreel (bande démo) ?"
+},
+{
+"key": "part00.html#183",
+"fr": "60–90 secondes. Au-delà de 2 minutes, personne ne regarde jusqu’au bout. (10.4)"
+},
+{
+"key": "part00.html#184",
+"fr": "<em>Q26</em>Que demande-t-on le plus en entretien ?"
+},
+{
+"key": "part00.html#185",
+"fr": "« Présentez-nous un travail de votre portfolio. » Répondez dans l’ordre : intention, problème, solution, résultat. (10.6)"
+},
+{
+"key": "part00.html#186",
+"fr": "<em>Q27</em>Où trouver un bon premier emploi ?"
+},
+{
+"key": "part00.html#187",
+"fr": "Dans une structure assez petite pour observer tout le processus. Votre premier poste n’est pas votre identité définitive. (10.1)"
+},
+{
+"key": "part00.html#188",
+"fr": "<em>Q28</em>Quand se lancer en indépendant ?"
+},
+{
+"key": "part00.html#189",
+"fr": "Quand vous avez trois mois de frais de subsistance de côté et que vous savez rédiger un devis et un contrat. (10.10)"
+},
+{
+"key": "part00.html#190",
+"fr": "<em>Q29</em>Les modifications n’en finissent pas"
+},
+{
+"key": "part00.html#191",
+"fr": "C’est que le contrat ne fixait pas le nombre de modifications. Limitez-le en général à 2–3. (9.5)"
+},
+{
+"key": "part00.html#192",
+"fr": "<em>Q30</em>J’ai l’impression de stagner"
+},
+{
+"key": "part00.html#193",
+"fr": "Travaillez le son. C’est le progrès le plus rapide quand on n’a regardé que l’image. (4.10)"
+},
+{
+"key": "prologue.html#0",
+"fr": "Prologue · AVANT DE TOURNER"
+},
+{
+"key": "prologue.html#1",
+"fr": "Les unités de base de l’écran"
+},
+{
+"key": "prologue.html#2",
+"fr": "Commencez par vous approprier les dix mots nécessaires pour lire ce livre : cadre, format d’image, résolution, cadence d’images, obturateur, plan, scène, séquence, prise et spécifications des plateformes. C’est un petit dictionnaire de quatre pages, mais chaque phrase des PARTIES qui suivent repose sur ces mots."
+},
+{
+"key": "prologue.html#3",
+"fr": "<b>Prologue</b>Les unités de base de l’écran"
+},
+{
+"key": "prologue.html#4",
+"fr": "Cadre et format d’image"
+},
+{
+"key": "prologue.html#5",
+"fr": "Le cadre est la bordure formée par les quatre côtés de l’écran ; le format d’image est le rapport entre sa largeur et sa hauteur. Ces deux éléments décident, avant tout le reste, de ce qui entre et de ce qui est coupé."
+},
+{
+"key": "prologue.html#6",
+"fr": "<span class=\"ph-id\">P00-FRAME</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Moniteur de caméra affichant les repères de cadre</b>Repères blancs et cadre de zone de sécurité sur une scène de rue</span>"
+},
+{
+"key": "prologue.html#7",
+"fr": "<b>Note</b> Les repères du moniteur montrent d’avance ce qui reste et ce qui est coupé dans le format final"
+},
+{
+"key": "prologue.html#8",
+"fr": "Le format d’image s’écrit largeur divisée par hauteur. Le 16:9 vaut 1,78 ; le CinémaScope, 2,39. La vidéo verticale inverse les mêmes chiffres et se note 9:16."
+},
+{
+"key": "prologue.html#9",
+"fr": "Format"
+},
+{
+"key": "prologue.html#10",
+"fr": "Résolution type"
+},
+{
+"key": "prologue.html#11",
+"fr": "Usage"
+},
+{
+"key": "prologue.html#12",
+"fr": "Anciens téléviseurs et moniteurs, images d’archives, look rétro assumé"
+},
+{
+"key": "prologue.html#13",
+"fr": "Norme horizontale : télédiffusion · YouTube · cours en vidéo"
+},
+{
+"key": "prologue.html#14",
+"fr": "1998×1080 (DCI Flat)"
+},
+{
+"key": "prologue.html#15",
+"fr": "Format Flat des salles de cinéma ; rendu presque identique au 16:9"
+},
+{
+"key": "prologue.html#16",
+"fr": "2048×858 (DCI Scope), 2560×1080"
+},
+{
+"key": "prologue.html#17",
+"fr": "CinémaScope, écrans larges, pubs en letterbox"
+},
+{
+"key": "prologue.html#18",
+"fr": "Fil Instagram, carrousels, vidéos de profil"
+},
+{
+"key": "prologue.html#19",
+"fr": "Publication verticale du fil Instagram ; le format qui occupe le plus d’écran"
+},
+{
+"key": "prologue.html#20",
+"fr": "Shorts · Reels · TikTok · Stories, plein écran vertical"
+},
+{
+"key": "prologue.html#21",
+"fr": "Affichage LED vertical, plein écran de certains smartphones"
+},
+{
+"key": "prologue.html#22",
+"fr": "Projection équirectangulaire pour la vidéo VR à 360°, deux fois plus large que haute"
+},
+{
+"key": "prologue.html#23",
+"fr": "<b>16<em>:9</em></b>La norme horizontale, TV et YouTube"
+},
+{
+"key": "prologue.html#24",
+"fr": "<b>9<em>:16</em></b>Plein écran vertical, vidéos courtes et stories"
+},
+{
+"key": "prologue.html#25",
+"fr": "<b>21<em>:9</em></b>Le rendu cinéma des salles et des pubs"
+},
+{
+"key": "prologue.html#26",
+"fr": "<b>1<em>:1</em></b>Un carré dans le fil, carrousels"
+},
+{
+"key": "prologue.html#27",
+"fr": "<span class=\"ph-id\">P00-RATIOS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Une scène, trois formats</b>Un téléviseur 16:9, un écran large en letterbox, un téléphone tenu à la verticale</span>"
+},
+{
+"key": "prologue.html#28",
+"fr": "<b>Note</b> Changez de format : la même scène montre une autre zone et un sujet d’une autre taille"
+},
+{
+"key": "prologue.html#29",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "prologue.html#30",
+"fr": "Zone de sécurité – zone intérieure réservée aux informations clés, au cas où les bords seraient rognés ou masqués par l’interface. La télévision laissait libres les 10 % extérieurs ; aujourd’hui, les endroits couverts par les boutons et les légendes des plateformes jouent ce rôle."
+},
+{
+"key": "prologue.html#31",
+"fr": "Décidez du format avant de tourner : filmez à l’horizontale puis recadrez à la verticale, et les 2/3 de l’image disparaissent. S’il faut livrer en plusieurs formats, gardez le sujet au centre, avec de la marge des deux côtés."
+},
+{
+"key": "prologue.html#32",
+"fr": "<small>Exercice</small>0.1"
+},
+{
+"key": "prologue.html#33",
+"fr": "Tâche"
+},
+{
+"key": "prologue.html#34",
+"fr": "Activez la grille de l’appareil photo de votre téléphone et, du même endroit, prenez une photo en 16:9, une en 1:1 et une en 9:16. Repérez ce qui a été coupé."
+},
+{
+"key": "prologue.html#35",
+"fr": "Conseil"
+},
+{
+"key": "prologue.html#36",
+"fr": "Ne déplacez pas le sujet ; tournez seulement l’appareil. Le format ne change pas le sujet, mais la part du décor que l’on voit."
+},
+{
+"key": "prologue.html#37",
+"fr": "<b>Prologue</b>Les unités de base de l’écran"
+},
+{
+"key": "prologue.html#38",
+"fr": "Résolution · cadence d’images · obturateur"
+},
+{
+"key": "prologue.html#39",
+"fr": "La densité de chaque image, le nombre d’images montrées en 1 seconde, la durée d’exposition de chacune. Ces trois chiffres fixent la texture de la vidéo."
+},
+{
+"key": "prologue.html#40",
+"fr": "<b>1080<em>p</em></b>1920×1080, FHD. Le standard de livraison"
+},
+{
+"key": "prologue.html#41",
+"fr": "<b>4K<em>UHD</em></b>3840×2160, quatre fois la surface du FHD"
+},
+{
+"key": "prologue.html#42",
+"fr": "<b>24<em>fps</em></b>La convention du cinéma et des films de marque"
+},
+{
+"key": "prologue.html#43",
+"fr": "<b>30<em>fps</em></b>Télédiffusion · vidéo explicative ; 60 fps pour le sport · le ralenti"
+},
+{
+"key": "prologue.html#44",
+"fr": "<span class=\"ph-id\">P00-FPS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Images par seconde – une suite d’images fixes devient mouvement</b>Douze photos successives d’une goutte d’eau, disposées comme une pellicule sur une table lumineuse</span>"
+},
+{
+"key": "prologue.html#45",
+"fr": "<b>Note</b> La vidéo n’est, au fond, qu’une suite d’images fixes ; leur nombre par seconde décide de la fluidité du mouvement"
+},
+{
+"key": "prologue.html#46",
+"fr": "Les pixels s’additionnent en image"
+},
+{
+"key": "prologue.html#47",
+"fr": "<b>16 × 9 = 144 pixels</b><span>On voit des points</span>"
+},
+{
+"key": "prologue.html#48",
+"fr": "<b>64 × 36 = 2304 pixels</b><span>On voit des formes</span>"
+},
+{
+"key": "prologue.html#49",
+"fr": "<b>256 × 144</b><span>On voit des expressions</span>"
+},
+{
+"key": "prologue.html#50",
+"fr": "<b>1920 × 1080 = 2,07 millions de pixels</b><span>FHD – les pixels disparaissent</span>"
+},
+{
+"key": "prologue.html#51",
+"fr": "4K UHD 3840×2160"
+},
+{
+"key": "prologue.html#52",
+"fr": "FHD 1920×1080"
+},
+{
+"key": "prologue.html#53",
+"fr": "HD 1280×720"
+},
+{
+"key": "prologue.html#54",
+"fr": "<b>Résolution = nombre de points</b><span>Le FHD vaut 4 fois le HD, la 4K 4 fois le FHD, la 8K 4 fois la 4K</span><span>À taille d’écran égale, plus de points donnent une image plus nette ; à nombre de points égal, un écran plus grand paraît plus grossier (pas des LED)</span><span>Tournez en 4K et livrez en FHD : vous pouvez recadrer jusqu’à deux fois plus serré sans perdre en netteté</span>"
+},
+{
+"key": "prologue.html#55",
+"fr": "<b>Fig. 0-1</b> Résolution et pixels – la même photo dessinée avec 144, 2304, 36 000 et 2,07 millions de points. L’instant où les points disparaissent, c’est la « qualité d’image »."
+},
+{
+"key": "prologue.html#56",
+"fr": "<small>Résolution</small>Nombre de points"
+},
+{
+"key": "prologue.html#57",
+"fr": "Largeur×hauteur en pixels. 1920×1080, soit env. 2,07 millions"
+},
+{
+"key": "prologue.html#58",
+"fr": "Plus élevée, l’image reste nette en grand, mais les fichiers grossissent"
+},
+{
+"key": "prologue.html#59",
+"fr": "À choisir selon la taille d’écran et la distance de vision"
+},
+{
+"key": "prologue.html#60",
+"fr": "<small>Cadence d’images</small>Images par seconde"
+},
+{
+"key": "prologue.html#61",
+"fr": "Notée en fps. 24 pour le cinéma, 30 pour la télévision, 60 pour le sport et le jeu vidéo"
+},
+{
+"key": "prologue.html#62",
+"fr": "Tournage à cadence élevée + lecture lente = ralenti"
+},
+{
+"key": "prologue.html#63",
+"fr": "Gardez une seule valeur pour tout le projet"
+},
+{
+"key": "prologue.html#64",
+"fr": "<small>Obturateur</small>Temps d’exposition par image"
+},
+{
+"key": "prologue.html#65",
+"fr": "Vitesse lente : le mouvement file ; rapide : il est saccadé"
+},
+{
+"key": "prologue.html#66",
+"fr": "Règle des 180° – vitesse d’obturation au double de la cadence (à 24 fps : 1/48 s)"
+},
+{
+"key": "prologue.html#67",
+"fr": "La référence pour un flou de mouvement naturel"
+},
+{
+"key": "prologue.html#68",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "prologue.html#69",
+"fr": "Tournez en 4K et livrez en FHD : le montage gagne de la marge pour resserrer le cadre ou recadrer à la verticale. Cette marge de recadrage ne se crée qu’au tournage."
+},
+{
+"key": "prologue.html#70",
+"fr": "Réglez ces trois chiffres une fois avant le tournage et tenez-les jusqu’au bout. Changez-les en route : au montage, des images se dédoublent ou sautent, et la qualité devient inégale. Les spécifications de livraison passent d’abord ; déduisez-en les réglages de la caméra."
+},
+{
+"key": "prologue.html#71",
+"fr": "<small>Exercice</small>0.2"
+},
+{
+"key": "prologue.html#72",
+"fr": "Tâche"
+},
+{
+"key": "prologue.html#73",
+"fr": "Filmez le même mouvement à 24 fps puis à 60 fps, lisez les deux côte à côte et dites en une phrase lequel fait « cinéma » et lequel fait « vrai »."
+},
+{
+"key": "prologue.html#74",
+"fr": "Conseil"
+},
+{
+"key": "prologue.html#75",
+"fr": "Réglez la vitesse d’obturation à 1/48 s et 1/120 s respectivement : vous verrez la différence due à la seule cadence d’images."
+},
+{
+"key": "prologue.html#76",
+"fr": "<b>Prologue</b>Les unités de base de l’écran"
+},
+{
+"key": "prologue.html#77",
+"fr": "Plan · scène · séquence · prise"
+},
+{
+"key": "prologue.html#78",
+"fr": "Ce sont les unités qui servent à compter la vidéo. Si le plateau et la salle de montage n’emploient pas les mêmes mots, chacun imagine autre chose pour la même scène."
+},
+{
+"key": "prologue.html#79",
+"fr": "<span class=\"ph-id\">P00-TIMELINE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Plan · scène · séquence : les unités de la timeline</b>Des clips regroupés en blocs de couleur et une main sur une molette de navigation</span>"
+},
+{
+"key": "prologue.html#80",
+"fr": "<b>Note</b> Sur la timeline de montage, un clip est un plan, un groupe de même couleur une scène, et un groupe de groupes une séquence"
+},
+{
+"key": "prologue.html#81",
+"fr": "<b>01</b><i>Image</i>Une seule image fixe. Une pub de 15 secondes à 24 fps compte 360 images"
+},
+{
+"key": "prologue.html#82",
+"fr": "<b>02</b><i>Plan (cut)</i>Une prise de vues continue. Une pub de 15 secondes compte en général 6–12 plans"
+},
+{
+"key": "prologue.html#83",
+"fr": "<b>03</b><i>Scène</i>Un groupe de plans dans un même lieu · un même temps. On dit : la scène de la cuisine, la scène de la rue"
+},
+{
+"key": "prologue.html#84",
+"fr": "<b>04</b><i>Séquence</i>Un groupe de scènes formant un événement. Une pub de 15 secondes est en général une seule séquence problème–solution"
+},
+{
+"key": "prologue.html#85",
+"fr": "Plan – l’unité du montage"
+},
+{
+"key": "prologue.html#86",
+"fr": "Un segment d’image continu dans l’œuvre finie"
+},
+{
+"key": "prologue.html#87",
+"fr": "Ce que le monteur coupe et raccorde"
+},
+{
+"key": "prologue.html#88",
+"fr": "« Beaucoup de plans » = montage au rythme rapide"
+},
+{
+"key": "prologue.html#89",
+"fr": "Prise – l’unité du tournage"
+},
+{
+"key": "prologue.html#90",
+"fr": "Une tentative de tournage d’un plan. Prise 1, prise 2"
+},
+{
+"key": "prologue.html#91",
+"fr": "Chaque « encore une » du plateau ajoute une prise"
+},
+{
+"key": "prologue.html#92",
+"fr": "Monter, c’est choisir une prise parmi plusieurs"
+},
+{
+"key": "prologue.html#93",
+"fr": "La couverture consiste à tourner une scène en la découpant en plusieurs valeurs de plan et angles. Il faut un plan large qui montre tout, un plan moyen sur les personnes et des gros plans de visages et de mains pour que le montage ait le choix. Une scène tournée sans couverture ne se monte pas ; il faut la retourner."
+},
+{
+"key": "prologue.html#94",
+"fr": "<small>Exercice</small>0.3"
+},
+{
+"key": "prologue.html#95",
+"fr": "Tâche"
+},
+{
+"key": "prologue.html#96",
+"fr": "Choisissez une pub de 15 secondes qui vous plaît, comptez ses plans et dressez un tableau du nombre de scènes qu’elle comporte."
+},
+{
+"key": "prologue.html#97",
+"fr": "Conseil"
+},
+{
+"key": "prologue.html#98",
+"fr": "Mettez en pause à chaque changement d’image. Des plans consécutifs dans un même lieu forment une seule scène."
+},
+{
+"key": "prologue.html#99",
+"fr": "<b>Prologue</b>Les unités de base de l’écran"
+},
+{
+"key": "prologue.html#100",
+"fr": "Horizontal, vertical et spécifications des plateformes"
+},
+{
+"key": "prologue.html#101",
+"fr": "La même vidéo change de format, de durée et de zone masquée selon l’endroit où elle est publiée. La plateforme n’est pas la dernière variable de la conception ; c’en est la première condition."
+},
+{
+"key": "prologue.html#102",
+"fr": "<span class=\"ph-id\">P00-PHONEVERT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>L’ère du tournage vertical</b>Une jeune femme filme, téléphone à la verticale, devant un étal de rue la nuit, lumière chaude</span>"
+},
+{
+"key": "prologue.html#103",
+"fr": "<b>Note</b> Le cadre vertical montre en grand visages et mains, mais renonce au contexte de part et d’autre"
+},
+{
+"key": "prologue.html#104",
+"fr": "Plateforme"
+},
+{
+"key": "prologue.html#105",
+"fr": "Format"
+}
+]

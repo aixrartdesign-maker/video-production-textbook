@@ -1,0 +1,622 @@
+[
+{
+"key": "part05.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part05.html#1",
+"fr": "<small>PARTIE</small>05"
+},
+{
+"key": "part05.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part05.html#3",
+"fr": "Un montage d’1 minute, resserré par des coupes motivées"
+},
+{
+"key": "part05.html#4",
+"fr": "Une animation de logo de 5 secondes avec amorti (easing)"
+},
+{
+"key": "part05.html#5",
+"fr": "Un master de livraison : compositing · étalonnage · normes de sortie"
+},
+{
+"key": "part05.html#6",
+"fr": "Montage et postproduction"
+},
+{
+"key": "part05.html#7",
+"fr": "Le tournage récolte la matière ; le montage fabrique le sens. Changez l’ordre et la durée, et les mêmes images deviennent une autre vidéo. Cette PARTIE va de l’histoire et des principes du montage à une cartographie de Premiere Pro, After Effects et DaVinci Resolve. La question qui ouvre ce chapitre : qu’est-ce qui retient le public jusqu’au bout ?"
+},
+{
+"key": "part05.html#8",
+"fr": "Photo P-05 Salle de montage, la nuit – timeline et moniteur d’étalonnage · image générée"
+},
+{
+"key": "part05.html#9",
+"fr": "<b>P-05</b> Salle de montage, la nuit – timeline et moniteur d’étalonnage"
+},
+{
+"key": "part05.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part05.html#11",
+"fr": "Couper pour une raison et appliquer l’amorti (easing)"
+},
+{
+"key": "part05.html#12",
+"fr": "<b>Matériel</b>Logiciel de montage installé, dossier de rushes d’exercice, 1 morceau de musique"
+},
+{
+"key": "part05.html#13",
+"fr": "<b>10 min</b><i>Intro</i><span>Projeter deux montages : musique posée en premier ou en dernier</span>"
+},
+{
+"key": "part05.html#14",
+"fr": "<b>15 min</b><i>Notions</i><span>8 principes de montage, raccords dans le mouvement et raccords de forme, rôles de Premiere et d’After Effects</span>"
+},
+{
+"key": "part05.html#15",
+"fr": "<b>10 min</b><i>Planches</i><span>Expliquer l’amorti avec la balle qui rebondit et les schémas de timing</span>"
+},
+{
+"key": "part05.html#16",
+"fr": "<b>10 min</b><i>Exercice</i><span>Mêmes rushes, deux montages de 30 secondes</span>"
+},
+{
+"key": "part05.html#17",
+"fr": "<b>5 min</b><i>Bilan</i><span>Convenir du nommage des dossiers de projet</span>"
+},
+{
+"key": "part05.html#18",
+"fr": "<b>Point de contrôle</b>Vous savez dire en une ligne pourquoi vous avez fait chaque coupe"
+},
+{
+"key": "part05.html#19",
+"fr": "PARTIE 05"
+},
+{
+"key": "part05.html#20",
+"fr": "Introduction"
+},
+{
+"key": "part05.html#21",
+"fr": "Le tournage récolte la matière ; le montage fabrique le sens. Changez l’ordre et la durée, et les mêmes images donnent une vidéo tout autre. Koulechov l’a prouvé il y a 100 ans, et cela vaut plus encore à l’ère de la vidéo courte, aux plans toujours plus brefs."
+},
+{
+"key": "part05.html#22",
+"fr": "Cette partie part de l’histoire des techniques de montage et expose méthodiquement les fonctions de Premiere Pro et d’After Effects. Les listes de fonctions sont une carte, pas une leçon à apprendre par cœur. Sachez de quelle zone de quel outil relève un problème, et une recherche le résout ; sans carte, on erre des heures."
+},
+{
+"key": "part05.html#23",
+"fr": "After Effects, en particulier, ne pense pas comme Premiere. Premiere traite le temps à l’horizontale ; After Effects traite les calques à la verticale. Vouloir monter dans After Effects sans le savoir est l’erreur classique du débutant. Répartir simplement les rôles entre les deux outils divise par deux le temps de travail."
+},
+{
+"key": "part05.html#24",
+"fr": "Contexte 7"
+},
+{
+"key": "part05.html#25",
+"fr": "Le montage invisible"
+},
+{
+"key": "part05.html#26",
+"fr": "Un bon montage fait oublier le montage au public. Une coupe tranche le temps et l’espace, et pourtant le public doit la ressentir comme un flux naturel."
+},
+{
+"key": "part05.html#27",
+"fr": "Dans En un clin d’œil (1995), le monteur Walter Murch compare le clignement d’œil à une coupe. Nous clignons des yeux quand une pensée change ou que le regard se déplace. De même, une bonne coupe tombe là où s’achève un paragraphe de la pensée du spectateur. Le monteur regarde donc d’abord non pas l’écran, mais le point où en est l’esprit du public."
+},
+{
+"key": "part05.html#28",
+"fr": "Murch a hiérarchisé les critères d’une coupe : émotion 51 %, histoire 23 %, rythme 10 %, trajet du regard 7 %, plan bidimensionnel de l’écran 5 %, continuité de l’espace tridimensionnel 4 %. L’ordre compte plus que les chiffres : choisissez la coupe à l’émotion juste, quitte à ce que la continuité flanche un peu. Les travaux d’étudiants inversent souvent cet ordre : ils s’accrochent aux raccords de mouvement et perdent le fil de l’émotion."
+},
+{
+"key": "part05.html#29",
+"fr": "Les techniques de continuité – raccord dans le mouvement, raccord regard, règle des 180° – évitent toutes au public de se perdre dans l’espace et le temps. La tradition du montage d’Eisenstein faisait l’inverse : elle exhibait les coutures pour créer le choc et le sens. Le monteur choisit, au cas par cas, de cacher les coutures ou de les montrer."
+},
+{
+"key": "part05.html#30",
+"fr": "Le montage est aussi un art du temps. Des plans plus courts font monter la tension ; des plans plus longs laissent au public le temps de penser. Si les plans s’accélèrent dans la pub et la vidéo courte, ce n’est pas seulement pour y loger plus d’information, mais pour recapter sans cesse l’attention."
+},
+{
+"key": "part05.html#31",
+"fr": "Le montage numérique non linéaire a rendu tout annulable, mais il ne fournit pas le jugement. Tout en apprenant le logiciel, prenez l’habitude de vous demander à chaque coupe : « Que ressent le public en ce moment ? » Pour aller plus loin : Walter Murch, En un clin d’œil ; Ken Dancyger, The Technique of Film and Video Editing."
+},
+{
+"key": "part05.html#32",
+"fr": "<b>PARTIE 05</b>Montage et postproduction"
+},
+{
+"key": "part05.html#33",
+"fr": "Histoire des outils de montage"
+},
+{
+"key": "part05.html#34",
+"fr": "Les outils sont passés des ciseaux à pellicule à l’IA générative ; l’ossature du travail n’a guère changé."
+},
+{
+"key": "part05.html#35",
+"fr": "<b>Photos de référence 5.1A</b>Images générées – l’époque de la colleuse"
+},
+{
+"key": "part05.html#36",
+"fr": "<span class=\"ph-id\">P05-SPLICER</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Quand on coupait et collait la pellicule</b>Les mains d’un monteur sur une colleuse, des bandes de pellicule coupées et du ruban adhésif</span>"
+},
+{
+"key": "part05.html#37",
+"fr": "<b>a</b>Colleuse – outil qui coupe physiquement la pellicule et la raccorde au ruban adhésif ou à la colle. On appelle encore « coupe » l’unité du montage, en souvenir de ce geste physique : couper la pellicule aux ciseaux."
+},
+{
+"key": "part05.html#38",
+"fr": "<span class=\"ph-id\">P05-FLATBED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Table de montage à plat</b>Table de montage horizontale à bobines et petit écran, salle de montage sombre</span>"
+},
+{
+"key": "part05.html#39",
+"fr": "<b>b</b>Table de montage à plat – une table horizontale, comme la Steenbeck, où l’on faisait défiler la pellicule d’avant en arrière pour trouver le point de coupe. C’est là que s’exerçait le toucher qui compte les images du bout des doigts."
+},
+{
+"key": "part05.html#40",
+"fr": "<b>EDL</b>"
+},
+{
+"key": "part05.html#41",
+"fr": "Liste de décisions de montage (edit decision list). Document de référence pour reconstruire en haute qualité, à l’étape online, les décisions prises au montage offline."
+},
+{
+"key": "part05.html#42",
+"fr": "Période"
+},
+{
+"key": "part05.html#43",
+"fr": "Ce qui a changé"
+},
+{
+"key": "part05.html#44",
+"fr": "Montage physique : on coupe et on colle la pellicule à la main. Les monteurs font défiler le film sur Moviola et Steenbeck pour trouver les points et comptent les images du bout des doigts."
+},
+{
+"key": "part05.html#45",
+"fr": "Arrivée de la bande vidéo. Le montage devient un assemblage linéaire, par copie entre deux magnétoscopes."
+},
+{
+"key": "part05.html#46",
+"fr": "Normalisation du timecode, apparition de l’EDL. La méthode en 2 étapes s’impose : décider en offline, reconstruire en haute qualité en online."
+},
+{
+"key": "part05.html#47",
+"fr": "Les systèmes de montage non linéaire sont commercialisés. Avec l’accès direct, monter devient un travail de pensée : réagencer la matière."
+},
+{
+"key": "part05.html#48",
+"fr": "Les logiciels de montage sur ordinateur arrivent par vagues. L’ordinateur personnel devient salle de montage et le coût d’entrée s’effondre."
+},
+{
+"key": "part05.html#49",
+"fr": "Passage à la HD, multiplication des codecs. Le montage en proxy se généralise."
+},
+{
+"key": "part05.html#50",
+"fr": "Collaboration dans le cloud, harmonisation automatique des couleurs, accélération GPU. Un outil d’étalonnage professionnel devient gratuit et la correction colorimétrique, une compétence courante."
+},
+{
+"key": "part05.html#51",
+"fr": "Applis de montage mobiles, sous-titres automatiques, découpe automatique. L’IA générative devient assistante de montage ; le 1er montage brut (l’ours) s’automatise tandis que l’humain se concentre sur le jugement."
+},
+{
+"key": "part05.html#52",
+"fr": "Les habitudes héritées de l’histoire"
+},
+{
+"key": "part05.html#53",
+"fr": "L’ancienne séparation entre offline et online survit dans le montage en proxy d’aujourd’hui. EDL et timecode restent la base du travail collectif, et le sens de la précision à l’image près, hérité de la Moviola, distingue toujours un bon monteur."
+},
+{
+"key": "part05.html#54",
+"fr": "<small>Exercice</small>5.1"
+},
+{
+"key": "part05.html#55",
+"fr": "Tâche"
+},
+{
+"key": "part05.html#56",
+"fr": "Réalisez deux versions de la même scène : l’une assemblée strictement dans l’ordre, comme à l’époque de la Moviola, l’autre montée en non linéaire."
+},
+{
+"key": "part05.html#57",
+"fr": "Conseil"
+},
+{
+"key": "part05.html#58",
+"fr": "Fixez une règle : aucune annulation dans la version montée dans l’ordre."
+},
+{
+"key": "part05.html#59",
+"fr": "Évaluation"
+},
+{
+"key": "part05.html#60",
+"fr": "Effet de la méthode sur la manière de travailler"
+},
+{
+"key": "part05.html#61",
+"fr": "Corrigé type"
+},
+{
+"key": "part05.html#62",
+"fr": "Consignez le temps de travail et le résultat des deux méthodes."
+},
+{
+"key": "part05.html#63",
+"fr": "<b>PARTIE 05</b>Montage et postproduction"
+},
+{
+"key": "part05.html#64",
+"fr": "Principes de base du montage"
+},
+{
+"key": "part05.html#65",
+"fr": "Ne coupez pas parce que c’est ennuyeux, mais quand le plan suivant apporte une meilleure information."
+},
+{
+"key": "part05.html#66",
+"fr": "<span class=\"ph-id\">P05-NLE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Montage non linéaire</b>Une station de montage à deux écrans, une timeline de clips colorés et un moniteur de référence</span>"
+},
+{
+"key": "part05.html#67",
+"fr": "<b>Note</b>Montage non linéaire – avec l’accès instantané à n’importe quel point, monter n’est plus « couper » mais « penser en choisissant et en ordonnant »"
+},
+{
+"key": "part05.html#68",
+"fr": "Lire la timeline en quatre lignes"
+},
+{
+"key": "part05.html#69",
+"fr": "V2 Titres"
+},
+{
+"key": "part05.html#70",
+"fr": "V1 Vidéo"
+},
+{
+"key": "part05.html#71",
+"fr": "A1 Dialogues"
+},
+{
+"key": "part05.html#72",
+"fr": "A2 Musique · SFX"
+},
+{
+"key": "part05.html#73",
+"fr": "Coupe en L"
+},
+{
+"key": "part05.html#74",
+"fr": "Le son du plan précédent se prolonge"
+},
+{
+"key": "part05.html#75",
+"fr": "Coupe en J"
+},
+{
+"key": "part05.html#76",
+"fr": "Le son du plan suivant entre en avance"
+},
+{
+"key": "part05.html#77",
+"fr": "Tête de lecture"
+},
+{
+"key": "part05.html#78",
+"fr": "Décalez les coupes image et son, et le raccord coule. Coupez les deux au même point, et ça « claque »."
+},
+{
+"key": "part05.html#79",
+"fr": "<b>Fig. 46</b> Structure d’une timeline de montage – les deux lignes du haut sont « ce qu’on voit », les deux du bas « ce qu’on entend ». Les coupes en J et en L placent la coupe son avant ou après la coupe image."
+},
+{
+"key": "part05.html#80",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part05.html#81",
+"fr": "Posez le son d’abord. Calez le timing de la musique et des dialogues, puis posez l’image par-dessus : la finition y gagne."
+},
+{
+"key": "part05.html#82",
+"fr": "<b>01</b><span>Ne coupez que pour une raison : quand le plan suivant informe mieux.</span>"
+},
+{
+"key": "part05.html#83",
+"fr": "<b>02</b><span>Coupez en plein mouvement. Coupez après la fin de l’action, et le rythme retombe.</span>"
+},
+{
+"key": "part05.html#84",
+"fr": "<b>03</b><span>Posez le son d’abord. Calez le timing de la musique et des dialogues, puis ajoutez l’image.</span>"
+},
+{
+"key": "part05.html#85",
+"fr": "<b>04</b><span>Changez la valeur de plan et l’angle ensemble. N’en changez qu’un, et cela ressemble à une saute.</span>"
+},
+{
+"key": "part05.html#86",
+"fr": "<b>05</b><span>Respectez les regards. Si un personnage qui regardait à gauche regarde à droite au plan suivant, la relation se brise.</span>"
+},
+{
+"key": "part05.html#87",
+"fr": "<b>06</b><span>Jetez sans trembler. Gardez un plan parce qu’il a coûté cher, et la vidéo traîne.</span>"
+},
+{
+"key": "part05.html#88",
+"fr": "<b>07</b><span>Verrouillez d’abord l’ouverture et la fin. Une fois celles-ci fixées, le milieu se règle de lui-même.</span>"
+},
+{
+"key": "part05.html#89",
+"fr": "<b>08</b><span>Revoyez le montage un jour après l’avoir fini. Les longueurs invisibles ce jour-là apparaîtront.</span>"
+},
+{
+"key": "part05.html#90",
+"fr": "Gardez les plans nécessaires, pas les beaux plans.<small>5.2 Principes de base du montage</small>"
+},
+{
+"key": "part05.html#91",
+"fr": "<small>Exercice</small>5.2"
+},
+{
+"key": "part05.html#92",
+"fr": "Tâche"
+},
+{
+"key": "part05.html#93",
+"fr": "Ramenez 3 minutes de rushes à 1 minute. Listez ce que vous avez jeté."
+},
+{
+"key": "part05.html#94",
+"fr": "Conseil"
+},
+{
+"key": "part05.html#95",
+"fr": "Gardez les plans nécessaires, pas les beaux plans. Commencez chaque plan en plein mouvement."
+},
+{
+"key": "part05.html#96",
+"fr": "Évaluation"
+},
+{
+"key": "part05.html#97",
+"fr": "Clarté du récit, points de coupe naturels"
+},
+{
+"key": "part05.html#98",
+"fr": "Corrigé type"
+},
+{
+"key": "part05.html#99",
+"fr": "Les priorités de montage de Walter Murch (émotion, histoire, rythme). Une ligne sur la raison de chaque plan écarté."
+},
+{
+"key": "part05.html#100",
+"fr": "<b>PARTIE 05</b>Montage et postproduction"
+},
+{
+"key": "part05.html#101",
+"fr": "Comparer les logiciels de montage"
+},
+{
+"key": "part05.html#102",
+"fr": "Pour l’emploi, mieux vaut connaître deux outils à fond que trois en surface."
+},
+{
+"key": "part05.html#103",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part05.html#104",
+"fr": "À vérifier d’abord : les conditions d’usage commercial de CapCut et, pour Final Cut, l’exclusivité Mac et les limites du travail collaboratif."
+},
+{
+"key": "part05.html#105",
+"fr": "Outil"
+},
+{
+"key": "part05.html#106",
+"fr": "Points forts"
+},
+{
+"key": "part05.html#107",
+"fr": "Points faibles"
+},
+{
+"key": "part05.html#108",
+"fr": "Idéal pour"
+},
+{
+"key": "part05.html#109",
+"fr": "Tarif"
+},
+{
+"key": "part05.html#110",
+"fr": "Premiere Pro"
+},
+{
+"key": "part05.html#111",
+"fr": "Polyvalence, lien avec After Effects, standard d’embauche en Corée"
+},
+{
+"key": "part05.html#112",
+"fr": "Stabilité inégale, projets corrompus"
+},
+{
+"key": "part05.html#113",
+"fr": "Pub, vidéo web, l’essentiel du travail pro"
+},
+{
+"key": "part05.html#114",
+"fr": "Abonnement"
+},
+{
+"key": "part05.html#115",
+"fr": "Final Cut Pro"
+},
+{
+"key": "part05.html#116",
+"fr": "Vitesse, stabilité, timeline magnétique"
+},
+{
+"key": "part05.html#117",
+"fr": "Mac uniquement, collaboration limitée"
+},
+{
+"key": "part05.html#118",
+"fr": "Créateurs solo, utilisateurs Mac"
+},
+{
+"key": "part05.html#119",
+"fr": "Achat unique"
+},
+{
+"key": "part05.html#120",
+"fr": "DaVinci Resolve"
+},
+{
+"key": "part05.html#121",
+"fr": "Étalonnage de premier ordre, version gratuite solide"
+},
+{
+"key": "part05.html#122",
+"fr": "Courbe d’apprentissage, machine puissante requise"
+},
+{
+"key": "part05.html#123",
+"fr": "Travaux axés couleur, sans budget"
+},
+{
+"key": "part05.html#124",
+"fr": "Gratuit + édition payante"
+},
+{
+"key": "part05.html#125",
+"fr": "After Effects"
+},
+{
+"key": "part05.html#126",
+"fr": "Compositing, motion design, espace 3D"
+},
+{
+"key": "part05.html#127",
+"fr": "Inadapté au montage"
+},
+{
+"key": "part05.html#128",
+"fr": "Titres, VFX, infographies"
+},
+{
+"key": "part05.html#129",
+"fr": "Abonnement"
+},
+{
+"key": "part05.html#130",
+"fr": "CapCut"
+},
+{
+"key": "part05.html#131",
+"fr": "Sous-titres automatiques, modèles, synchro mobile"
+},
+{
+"key": "part05.html#132",
+"fr": "Vérifier les conditions d’usage commercial"
+},
+{
+"key": "part05.html#133",
+"fr": "Vidéos courtes, travaux rapides"
+},
+{
+"key": "part05.html#134",
+"fr": "Gratuit + payant"
+},
+{
+"key": "part05.html#135",
+"fr": "Vrew"
+},
+{
+"key": "part05.html#136",
+"fr": "Sous-titres par transcription, suppression des silences"
+},
+{
+"key": "part05.html#137",
+"fr": "Précision limitée"
+},
+{
+"key": "part05.html#138",
+"fr": "Cours, interviews, vidéos explicatives"
+},
+{
+"key": "part05.html#139",
+"fr": "Gratuit + payant"
+},
+{
+"key": "part05.html#140",
+"fr": "Avid Media Composer"
+},
+{
+"key": "part05.html#141",
+"fr": "Grandes équipes, standard de la télévision"
+},
+{
+"key": "part05.html#142",
+"fr": "Barrière d’entrée élevée"
+},
+{
+"key": "part05.html#143",
+"fr": "Séries télé, chaînes"
+},
+{
+"key": "part05.html#144",
+"fr": "Abonnement"
+},
+{
+"key": "part05.html#145",
+"fr": "Par quoi commencer"
+},
+{
+"key": "part05.html#146",
+"fr": "Les offres d’emploi coréennes demandent le plus souvent Premiere Pro et After Effects. Ajoutez DaVinci Resolve pour approfondir la couleur, ou CapCut si vous produisez beaucoup de vidéos courtes."
+},
+{
+"key": "part05.html#147",
+"fr": "<small>Exercice</small>5.3"
+},
+{
+"key": "part05.html#148",
+"fr": "Tâche"
+},
+{
+"key": "part05.html#149",
+"fr": "Faites le même montage de 10 plans dans deux logiciels de montage et comparez les méthodes de travail."
+},
+{
+"key": "part05.html#150",
+"fr": "Conseil"
+},
+{
+"key": "part05.html#151",
+"fr": "Concentrez la comparaison sur les raccourcis et la structure du projet."
+},
+{
+"key": "part05.html#152",
+"fr": "Évaluation"
+},
+{
+"key": "part05.html#153",
+"fr": "Points de comparaison précis, raisons de votre choix"
+},
+{
+"key": "part05.html#154",
+"fr": "Corrigé type"
+}
+]

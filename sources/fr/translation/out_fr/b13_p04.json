@@ -1,0 +1,522 @@
+[
+{
+"key": "part12.html#611",
+"fr": "<small>Sens du réel</small>Un œil pour les mensonges des images générées"
+},
+{
+"key": "part12.html#612",
+"fr": "Plans aux ombres de directions discordantes, plans dont la profondeur de champ est inexplicable"
+},
+{
+"key": "part12.html#613",
+"fr": "Seuls ceux qui ont installé des lumières et changé d’objectif les repèrent"
+},
+{
+"key": "part12.html#614",
+"fr": "<small>Maîtrise de la langue</small>Notes d’intention · notes de réalisation · retours · prompts"
+},
+{
+"key": "part12.html#615",
+"fr": "Écrire l’image que vous avez en tête de sorte que personnes et machines la comprennent de la même façon, c’est la productivité même"
+},
+{
+"key": "part12.html#616",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part12.html#617",
+"fr": "Profil en balai – le profil en T (profond dans un domaine, à l’aise dans les domaines voisins) avec une barre horizontale plus large. Pensez à un monteur qui gère aussi motion design · nettoyage du son · miniatures, ou à un chef opérateur (DP) qui propose aussi un premier montage et des normes de correction colorimétrique."
+},
+{
+"key": "part12.html#618",
+"fr": "La forme de l’expertise : du T au balai"
+},
+{
+"key": "part12.html#619",
+"fr": "Les outils d’IA abaissant les barrières des domaines voisins, le profil en balai, à la barre horizontale plus large, est devenu le modèle réaliste. Mais élargir la barre horizontale ne rend pas la barre verticale inutile. Qui fait tout passablement finit en concurrence avec des outils qui font tout passablement. Choisissez un domaine dont vous pouvez répondre et soyez capable d’en montrer la profondeur, preuves à l’appui."
+},
+{
+"key": "part12.html#620",
+"fr": "Ce qu’on exigeait avant l’IA"
+},
+{
+"key": "part12.html#621",
+"fr": "Outils – maîtrise d’un logiciel précis"
+},
+{
+"key": "part12.html#622",
+"fr": "Travail – exécuter avec exactitude les plans confiés"
+},
+{
+"key": "part12.html#623",
+"fr": "Vitesse – travailler vite, seul"
+},
+{
+"key": "part12.html#624",
+"fr": "Preuve – la production finie"
+},
+{
+"key": "part12.html#625",
+"fr": "Collaboration – communiquer au sein de son étape"
+},
+{
+"key": "part12.html#626",
+"fr": "Ce qu’on exige aujourd’hui"
+},
+{
+"key": "part12.html#627",
+"fr": "Outils – vitesse à en changer et raisons de les choisir"
+},
+{
+"key": "part12.html#628",
+"fr": "Travail – proposer quoi faire et l’assumer"
+},
+{
+"key": "part12.html#629",
+"fr": "Vitesse – comparer · sélectionner vite de nombreuses ébauches"
+},
+{
+"key": "part12.html#630",
+"fr": "Preuve – la production + le processus de choix"
+},
+{
+"key": "part12.html#631",
+"fr": "Collaboration – lire toute la chaîne, solliciter · coordonner"
+},
+{
+"key": "part12.html#632",
+"fr": "Avant d’inscrire le nom d’un outil sur votre CV, écrivez une phrase sur un jugement que vous avez porté grâce à lui. Si vous n’y arrivez pas, il n’est pas encore à vous.<small>11.11 Vision et expertise de l’étudiant</small>"
+},
+{
+"key": "part12.html#633",
+"fr": "<small>Exercice</small>11.11"
+},
+{
+"key": "part12.html#634",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#635",
+"fr": "Choisissez un domaine dont vous répondrez et retenez 3 travaux qui montrent des jugements que vous y avez portés. Pour chacun, écrivez deux phrases sur « ce que j’ai choisi et ce que j’ai écarté »."
+},
+{
+"key": "part12.html#636",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#637",
+"fr": "Nommez le domaine comme un intitulé de poste. Plus c’est étroit, mieux c’est : non pas « bon en vidéo », mais « éclairage d’interview » ou « montage de rétention pour vidéos courtes »."
+},
+{
+"key": "part12.html#638",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#639",
+"fr": "Les choix et les renoncements sont-ils écrits avec précision ? Est-ce un relevé de jugements plutôt qu’un étalage de résultats ?"
+},
+{
+"key": "part12.html#640",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#641",
+"fr": "Un texte qui associe une contrainte à une réponse, par exemple : « Pas de budget, donc lumière naturelle uniquement, mais j’ai fixé le tournage à 16 h pour garder une direction d’ombres constante. »"
+},
+{
+"key": "part12.html#642",
+"fr": "Dix règles pour survivre à son premier emploi – ce qui se voit avant le talent"
+},
+{
+"key": "part12.html#643",
+"fr": "<b>Saluer le premier</b><span>Avec entrain, par le nom. Un plateau commence et finit par des salutations</span>"
+},
+{
+"key": "part12.html#644",
+"fr": "<b>Noter les consignes, puis confirmer</b><span>Noter → reformuler en une ligne → confirmer l’échéance. Ne pas s’arrêter à « Compris »</span>"
+},
+{
+"key": "part12.html#645",
+"fr": "<b>Avoir 15 minutes d’avance</b><span>Arriver 15 minutes avant l’heure de convocation ; faire un point d’avancement la veille de l’échéance. En cas de retard, prévenir à l’avance</span>"
+},
+{
+"key": "part12.html#646",
+"fr": "<b>Lire d’abord le style maison</b><span>Regarder 10 projets passés et assimiler le ton · les polices · le rythme de montage avant d’afficher ses propres goûts</span>"
+},
+{
+"key": "part12.html#647",
+"fr": "<b>Archiver est une habitude</b><span>Règles de nommage · versions · dossiers. Tout doit se retrouver, même sans vous. Ne jamais supprimer les originaux</span>"
+},
+{
+"key": "part12.html#648",
+"fr": "<b>Un coup d’avance</b><span>Trouver les sources du plan suivant avant qu’on le demande. L’initiative se voit aux petites avances</span>"
+},
+{
+"key": "part12.html#649",
+"fr": "<b>Suivre le secteur</b><span>Une fois par semaine, parcourir références · tendances · mèmes – pour comprendre, non pour copier</span>"
+},
+{
+"key": "part12.html#650",
+"fr": "<b>Écouter avec empathie</b><span>Une demande de correction n’est pas une attaque. Demander d’abord l’intention, puis revenir avec une alternative</span>"
+},
+{
+"key": "part12.html#651",
+"fr": "<b>Bloqué ? Demander dans l’heure</b><span>Passer une journée à peiner seul est l’option la plus chère. Préparer sa question ; faire court</span>"
+},
+{
+"key": "part12.html#652",
+"fr": "<b>Sérieux = constance</b><span>On se fie à qui est le même chaque jour plutôt qu’à qui brille un seul jour. Tenir les petites promesses fait votre réputation</span>"
+},
+{
+"key": "part12.html#653",
+"fr": "<b>Fig. 90-4</b> Dix choses qui marchent dans un premier emploi – ce qui se voit avant le talent. Les équipes vidéo sont petites : l’attitude y fait la réputation, et la réputation amène le travail suivant."
+},
+{
+"key": "part12.html#654",
+"fr": "\n  <small>À vous qui partez à la rencontre du monde</small>\n  "
+},
+{
+"key": "part12.html#655",
+"fr": "N’ayez pas peur. Vous en avez déjà fait beaucoup."
+},
+{
+"key": "part12.html#656",
+"fr": "Si vous avez lu jusqu’ici, vous avez dessiné des storyboards, installé des lumières, peaufiné des montages jusqu’à l’aube et présenté des travaux dont vous n’étiez pas satisfait. Tout cela, c’est de l’expérience. Si la vitesse du changement vous effraie, c’est que vous voyez clairement ce changement. Ceux qui ne le voient pas n’ont pas peur non plus."
+},
+{
+"key": "part12.html#657",
+"fr": "Votre premier emploi n’est pas votre identité définitive. Votre première œuvre n’est pas votre œuvre maîtresse. Les outils changent sans cesse ; l’œil qui choisit ce qu’on montre et ce qu’on cache, la discipline de tenir les horaires promis et la force d’aller au bout ne changent pas. Ces trois choses, vous les avez déjà exercées dans ce cours."
+},
+{
+"key": "part12.html#658",
+"fr": "Personne ne part fin prêt. C’est en partant qu’on se prépare. Commencez petit, terminez, montrez. Même si l’on vous refuse, l’œuvre reste. Et l’œuvre qui reste ouvre la porte suivante."
+},
+{
+"key": "part12.html#659",
+"fr": "– Dans l’attente de votre premier showreel (bande démo)"
+},
+{
+"key": "part12.html#660",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#661",
+"fr": "Message clé et texte publicitaire"
+},
+{
+"key": "part12.html#662",
+"fr": "D’où vient la force émotionnelle ? Après une bonne publicité, ce qu’on retient, ce n’est pas l’image, mais une phrase. Plus les outils génératifs fabriquent facilement des images, plus le niveau d’une œuvre tient à l’existence d’une phrase à faire entendre."
+},
+{
+"key": "part12.html#663",
+"fr": "Un message clé est un choix, pas un résumé"
+},
+{
+"key": "part12.html#664",
+"fr": "Un message clé, c’est renoncer à neuf des dix choses que vous pourriez dire pour n’en garder qu’une. Si y renoncer fait mal, rien n’est encore décidé. Testez-le de trois manières."
+},
+{
+"key": "part12.html#665",
+"fr": "<b>01</b><span><b>Règle de la phrase unique</b> – il doit tenir en une seule phrase, sans conjonction. Si « et » ou « aussi » s’y glisse, vous dites deux choses.</span>"
+},
+{
+"key": "part12.html#666",
+"fr": "<b>02</b><span><b>Test du contraire</b> – Personne ne dit jamais le contraire de « Nous prenons soin de nos clients ». Une phrase sans contraire possible n’est pas un message.</span>"
+},
+{
+"key": "part12.html#667",
+"fr": "<b>03</b><span><b>Test de substitution</b> – Si la phrase fonctionne encore avec le nom d’un concurrent à la place de celui de la marque, elle n’appartient à personne.</span>"
+},
+{
+"key": "part12.html#668",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part12.html#669",
+"fr": "Dans une pub de 15 secondes, le basculement arrive en général à 8–10 secondes. Il faut du cran pour ne pas remplir la dernière seconde d’explications."
+},
+{
+"key": "part12.html#670",
+"fr": "Ce qui nous émeut"
+},
+{
+"key": "part12.html#671",
+"fr": "L’émotion ne naît pas quand on l’explique ; elle naît quand le public remarque par lui-même. Au lieu de nommer le chagrin, on montre la chaise vide restée à table."
+},
+{
+"key": "part12.html#672",
+"fr": "<small>Du concret</small>Chiffres, objets, heures"
+},
+{
+"key": "part12.html#673",
+"fr": "Non pas « beaucoup de gens », mais « un ouvrier en 3×8, à six heures du matin, à peine sorti du travail »"
+},
+{
+"key": "part12.html#674",
+"fr": "<small>Basculement</small>Là où l’attente se brise une fois"
+},
+{
+"key": "part12.html#675",
+"fr": "Le « basculement » du récit"
+},
+{
+"key": "part12.html#676",
+"fr": "Dans une pub de 15 secondes, à 8–10 secondes"
+},
+{
+"key": "part12.html#677",
+"fr": "<small>Espace</small>La place laissée au public"
+},
+{
+"key": "part12.html#678",
+"fr": "Ne pas dire la conclusion"
+},
+{
+"key": "part12.html#679",
+"fr": "Cinq étapes pour écrire le texte"
+},
+{
+"key": "part12.html#680",
+"fr": "<b>01</b><i>Réunir les faits</i>20 faits vérifiés seulement, sans adjectif"
+},
+{
+"key": "part12.html#681",
+"fr": "<b>02</b><i>Choisir une personne</i>Une phrase sur ce qui tracasse, en ce moment, une personne précise"
+},
+{
+"key": "part12.html#682",
+"fr": "<b>03</b><i>Choisir quoi dire</i>Parmi les 20, celui qui ne compte que pour cette personne"
+},
+{
+"key": "part12.html#683",
+"fr": "<b>04</b><i>30 phrases</i>Le dire de 30 façons. Les cinq premières partent en général à la corbeille"
+},
+{
+"key": "part12.html#684",
+"fr": "<b>05</b><i>Lire à voix haute</i>Une phrase qui ne vient pas en bouche ne sera pas retenue"
+},
+{
+"key": "part12.html#685",
+"fr": "Texte courant"
+},
+{
+"key": "part12.html#686",
+"fr": "Ce qui cloche"
+},
+{
+"key": "part12.html#687",
+"fr": "Réécriture"
+},
+{
+"key": "part12.html#688",
+"fr": "Nous promettons la meilleure qualité"
+},
+{
+"key": "part12.html#689",
+"fr": "Échoue au test du contraire"
+},
+{
+"key": "part12.html#690",
+"fr": "Même usine, mêmes personnes, depuis 7 ans"
+},
+{
+"key": "part12.html#691",
+"fr": "Grandir avec nos clients"
+},
+{
+"key": "part12.html#692",
+"fr": "Échoue au test de substitution"
+},
+{
+"key": "part12.html#693",
+"fr": "Notre premier client est toujours notre client"
+},
+{
+"key": "part12.html#694",
+"fr": "Technologie innovante, expériences nouvelles"
+},
+{
+"key": "part12.html#695",
+"fr": "Rien de concret"
+},
+{
+"key": "part12.html#696",
+"fr": "Un bouton a disparu"
+},
+{
+"key": "part12.html#697",
+"fr": "Nous changerons votre quotidien"
+},
+{
+"key": "part12.html#698",
+"fr": "Le héros, c’est la marque, pas le public"
+},
+{
+"key": "part12.html#699",
+"fr": "20 minutes pour rentrer, et vos mains sont libres"
+},
+{
+"key": "part12.html#700",
+"fr": "Quand le texte ne vient pas, supprimez tous les adjectifs. Les noms et les verbes qui restent sont ce que vous avez vraiment à dire.<small>11.12 Message clé et texte publicitaire</small>"
+},
+{
+"key": "part12.html#701",
+"fr": "<small>Exercice</small>11.12"
+},
+{
+"key": "part12.html#702",
+"fr": "Tâche"
+},
+{
+"key": "part12.html#703",
+"fr": "Choisissez un objet que vous utilisez souvent et écrivez un message clé d’une phrase et cinq lignes de texte pour une pub de 15 secondes. Retenez-en une et dessinez-la en storyboard de 6 plans, 15 secondes."
+},
+{
+"key": "part12.html#704",
+"fr": "Conseil"
+},
+{
+"key": "part12.html#705",
+"fr": "Commencez par lister 20 faits. Si vous n’arrivez pas à les écrire sans adjectif, vous ne connaissez pas encore l’objet."
+},
+{
+"key": "part12.html#706",
+"fr": "Évaluation"
+},
+{
+"key": "part12.html#707",
+"fr": "Le message passe-t-il le test du contraire et le test de substitution ? Le basculement du storyboard est-il net ?"
+},
+{
+"key": "part12.html#708",
+"fr": "Corrigé type"
+},
+{
+"key": "part12.html#709",
+"fr": "Un storyboard qui a transmis le message par un seul moment de la vie de l’utilisateur, sans jamais nommer une fonction du produit."
+},
+{
+"key": "part12.html#710",
+"fr": "<b>PARTIE 12</b>Pratique et carrière dans la transition vers l’IA"
+},
+{
+"key": "part12.html#711",
+"fr": "La note d’intention en un coup d’œil"
+},
+{
+"key": "part12.html#712",
+"fr": "La force d’une conception vient d’un document qu’on lit. La plupart des notes d’intention d’étudiants sont soit jolies mais floues sur ce qu’elles proposent, soit riches mais illisibles. Jurys et clients n’y consacrent pas 3 minutes."
+},
+{
+"key": "part12.html#713",
+"fr": "<span class=\"ph-id\">P12-PROCESS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Connaître le processus</b>Un mur couvert de schémas de chaîne de production dessinés à la main et de notes adhésives, une personne suivant le flux du doigt</span>"
+},
+{
+"key": "part12.html#714",
+"fr": "<b>Note</b>Connaître le processus – concevoir, ce n’est pas avoir des idées, c’est fixer un périmètre dans l’ensemble du flux"
+},
+{
+"key": "part12.html#715",
+"fr": "Définition en une ligne"
+},
+{
+"key": "part12.html#716",
+"fr": "Cette vidéo fait ressentir [quoi] à [qui] pour qu’il [fasse quoi]. Si vous ne pouvez pas compléter cette phrase, ce n’est pas encore un projet."
+},
+{
+"key": "part12.html#717",
+"fr": "Concevoir commence par resserrer"
+},
+{
+"key": "part12.html#718",
+"fr": "L’essence de la conception n’est pas de produire des idées, mais de fixer un périmètre. Notez avant de commencer les trois contraintes – budget, calendrier, équipe – et les idées s’en trouvent meilleures."
+},
+{
+"key": "part12.html#719",
+"fr": "<b>Une liste de ce qu’on ne fera pas</b> – Énoncez les sujets que vous ne traiterez pas, les techniques que vous n’emploierez pas et les informations que vous n’inclurez pas. Sans elle, les demandes de correction se multiplient sans fin."
+},
+{
+"key": "part12.html#720",
+"fr": "<b>Critères de réussite</b> – Formulez-les en résultats, non en achèvement. Il faut des chiffres vérifiables : non pas « des vues », mais « 40 % ont regardé jusqu’au bout »."
+},
+{
+"key": "part12.html#721",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part12.html#722",
+"fr": "Énoncez la conclusion dès la première page, puis apportez les preuves au fil des pages. C’est une note d’intention, pas un rapport."
+},
+{
+"key": "part12.html#723",
+"fr": "Structure d’une note d’intention en un coup d’œil"
+},
+{
+"key": "part12.html#724",
+"fr": "Page"
+},
+{
+"key": "part12.html#725",
+"fr": "Contenu"
+},
+{
+"key": "part12.html#726",
+"fr": "Longueur"
+},
+{
+"key": "part12.html#727",
+"fr": "Cause d’échec"
+},
+{
+"key": "part12.html#728",
+"fr": "Couverture"
+},
+{
+"key": "part12.html#729",
+"fr": "Titre et définition, une ligne chacun"
+},
+{
+"key": "part12.html#730",
+"fr": "1 p."
+},
+{
+"key": "part12.html#731",
+"fr": "Un titre, mais pas de définition"
+},
+{
+"key": "part12.html#732",
+"fr": "Problème"
+},
+{
+"key": "part12.html#733",
+"fr": "Ce qui ne va pas aujourd’hui"
+},
+{
+"key": "part12.html#734",
+"fr": "1 p."
+},
+{
+"key": "part12.html#735",
+"fr": "Décrit l’entreprise, pas le problème"
+},
+{
+"key": "part12.html#736",
+"fr": "Solution"
+},
+{
+"key": "part12.html#737",
+"fr": "Donc, qu’allez-vous faire"
+},
+{
+"key": "part12.html#738",
+"fr": "1 p."
+},
+{
+"key": "part12.html#739",
+"fr": "Aligne plusieurs options et demande de choisir"
+},
+{
+"key": "part12.html#740",
+"fr": "Ton"
+}
+]

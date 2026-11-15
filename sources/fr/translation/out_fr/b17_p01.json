@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#506",
+"fr": "Formule des visiteurs par heure intégrée au corps de la section 6.7 ; ajout d’une planche de plan de circulation"
+},
+{
+"key": "part14b.html#507",
+"fr": "Conception d’exposition"
+},
+{
+"key": "part14b.html#508",
+"fr": "Classer AR · MR · VR par appareil entraîne une confusion sans fin."
+},
+{
+"key": "part14b.html#509",
+"fr": "Schéma du continuum réel-virtuel pour montrer où les notions se séparent"
+},
+{
+"key": "part14b.html#510",
+"fr": "05 Ingénierie pédagogique · insertion professionnelle – niveau des apprenants et facilité d’usage"
+},
+{
+"key": "part14b.html#511",
+"fr": "Ingénierie pédagogique"
+},
+{
+"key": "part14b.html#512",
+"fr": "200 pages, c’est difficile à couvrir en un semestre. Précisez quoi utiliser à chaque séance."
+},
+{
+"key": "part14b.html#513",
+"fr": "Ajout d’un guide pour les enseignants dans les pages liminaires et d’un plan sur 15 semaines en annexe H"
+},
+{
+"key": "part14b.html#514",
+"fr": "Ingénierie pédagogique"
+},
+{
+"key": "part14b.html#515",
+"fr": "Les listes seules ne transmettent pas le contexte. Il faut des explications rédigées."
+},
+{
+"key": "part14b.html#516",
+"fr": "Ouverture de chaque partie par un essai en trois paragraphes, clôture par une synthèse des points clés"
+},
+{
+"key": "part14b.html#517",
+"fr": "Insertion professionnelle"
+},
+{
+"key": "part14b.html#518",
+"fr": "Les étudiants ne préparent leur insertion que si elle est traitée comme un cours à part entière."
+},
+{
+"key": "part14b.html#519",
+"fr": "PARTIE 11 devenue une partie autonome : portfolio, CV, entretiens, communication et cas"
+},
+{
+"key": "part14b.html#520",
+"fr": "Ingénierie pédagogique"
+},
+{
+"key": "part14b.html#521",
+"fr": "Plus de couleurs, c’est un coût d’impression plus élevé, et l’information disparaît à la photocopie."
+},
+{
+"key": "part14b.html#522",
+"fr": "Refonte de tout le livre en une seule couleur, la hiérarchie reposant sur le seul contraste de valeurs et la taille des caractères"
+},
+{
+"key": "part14b.html#523",
+"fr": "Remarques non retenues"
+},
+{
+"key": "part14b.html#524",
+"fr": "La suggestion d’inclure des captures d’écran de vidéos d’exemple n’a pas été retenue. Outre la question des droits d’auteur, dès qu’un manuel imprime des images d’une œuvre précise, il devient un manuel pour copier cette œuvre. Les techniques sont plutôt abstraites en schémas applicables à n’importe quel sujet."
+},
+{
+"key": "part14b.html#525",
+"fr": "<b>Annexe</b>Liste des photos de référence et prompts de génération"
+},
+{
+"key": "part14b.html#526",
+"fr": "Liste des photos de référence et prompts de génération"
+},
+{
+"key": "part14b.html#527",
+"fr": "Les 135 images qui occupent les emplacements de photos de référence du texte. Toutes sont des références mises en scène, créées avec des modèles de génération d’images, et non des photographies de personnes réelles ou d’œuvres précises. Les prompts complets sont conservés dans les fichiers de production."
+},
+{
+"key": "part14b.html#528",
+"fr": "<b>Libellés des modèles</b>"
+},
+{
+"key": "part14b.html#529",
+"fr": "GPT désigne la famille GPT Image et NB la famille Nano Banana (générée sur Higgsfield). Les images exigeant un personnage constant ont été réalisées avec NB."
+},
+{
+"key": "part14b.html#530",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part14b.html#531",
+"fr": "En cours, régénérez-les avec les mêmes prompts, ou donnez une tâche où les étudiants filment dans les mêmes conditions et comparent."
+},
+{
+"key": "part14b.html#532",
+"fr": "Les ID se lisent « section · groupe · emplacement ». Par exemple, 1.2A-a est la première image de la première galerie de la section 1.2."
+},
+{
+"key": "part14b.html#533",
+"fr": "ID"
+},
+{
+"key": "part14b.html#534",
+"fr": "Légende"
+},
+{
+"key": "part14b.html#535",
+"fr": "Section"
+},
+{
+"key": "part14b.html#536",
+"fr": "PARTIE 01"
+},
+{
+"key": "part14b.html#537",
+"fr": "Chambre noire – l’extérieur à l’envers sur un mur"
+},
+{
+"key": "part14b.html#538",
+"fr": "Appareil à daguerréotype – boîte en bois et objectif en laiton"
+},
+{
+"key": "part14b.html#539",
+"fr": "Chambre grand format – soufflet plissé et voile noir"
+},
+{
+"key": "part14b.html#540",
+"fr": "Appareil box à pellicule – tout le monde peut photographier"
+},
+{
+"key": "part14b.html#541",
+"fr": "Télémétrique 35 mm – photo de rue"
+},
+{
+"key": "part14b.html#542",
+"fr": "Reflex argentique et pellicule"
+},
+{
+"key": "part14b.html#543",
+"fr": "Appareil instantané – une photo qui apparaît en quelques minutes"
+},
+{
+"key": "part14b.html#544",
+"fr": "Premier compact numérique et carte mémoire"
+},
+{
+"key": "part14b.html#545",
+"fr": "Smartphone à objectifs multiples"
+},
+{
+"key": "part14b.html#546",
+"fr": "Labo photo en lumière inactinique rouge"
+},
+{
+"key": "part14b.html#547",
+"fr": "Agrandisseur – projeter un négatif sur papier photo"
+},
+{
+"key": "part14b.html#548",
+"fr": "Une image qui apparaît dans le révélateur"
+},
+{
+"key": "part14b.html#549",
+"fr": "Négatifs et loupe sur une table lumineuse"
+},
+{
+"key": "part14b.html#550",
+"fr": "Planche-contact – choix marqués"
+},
+{
+"key": "part14b.html#551",
+"fr": "Tirages qui sèchent après le lavage"
+},
+{
+"key": "part14b.html#552",
+"fr": "Presse offset quadri – C · M · Y · K, quatre plaques"
+},
+{
+"key": "part14b.html#553",
+"fr": "Trame de points agrandie – rosette CMYK"
+},
+{
+"key": "part14b.html#554",
+"fr": "Épreuve et loupe – contrôle des couleurs d’impression"
+},
+{
+"key": "part14b.html#555",
+"fr": "Lanterne magique – projection de plaques de verre"
+},
+{
+"key": "part14b.html#556",
+"fr": "Zootrope – le mouvement vu à travers des fentes"
+},
+{
+"key": "part14b.html#557",
+"fr": "Phénakistiscope – un disque qui tourne face à un miroir"
+},
+{
+"key": "part14b.html#558",
+"fr": "Kinétoscope – une boîte regardée par une personne à la fois"
+},
+{
+"key": "part14b.html#559",
+"fr": "Projecteur 35 mm en cabine de projection"
+},
+{
+"key": "part14b.html#560",
+"fr": "Projecteur de diapositives – diapos 35 mm dans un panier rotatif"
+},
+{
+"key": "part14b.html#561",
+"fr": "Projecteur 8 mm de films de famille"
+},
+{
+"key": "part14b.html#562",
+"fr": "Rétroprojecteur – des transparents projetés en classe"
+},
+{
+"key": "part14b.html#563",
+"fr": "Une famille devant un téléviseur cathodique"
+},
+{
+"key": "part14b.html#564",
+"fr": "Cassette vidéo et magnétoscope"
+},
+{
+"key": "part14b.html#565",
+"fr": "Téléviseur à écran plat et streaming"
+},
+{
+"key": "part14b.html#566",
+"fr": "Écrans de poche et VR – l’écran personnel"
+},
+{
+"key": "part14b.html#567",
+"fr": "PARTIE 02"
+},
+{
+"key": "part14b.html#568",
+"fr": "Plan de grand ensemble – l’espace est la vedette, la personne un point"
+},
+{
+"key": "part14b.html#569",
+"fr": "Plan d’ensemble – le corps entier et son environnement"
+},
+{
+"key": "part14b.html#570",
+"fr": "Plan en pied – de la tête aux pieds"
+},
+{
+"key": "part14b.html#571",
+"fr": "Plan américain – à partir des genoux"
+},
+{
+"key": "part14b.html#572",
+"fr": "Plan taille – à partir de la taille"
+},
+{
+"key": "part14b.html#573",
+"fr": "Plan poitrine – à partir de la poitrine"
+},
+{
+"key": "part14b.html#574",
+"fr": "Gros plan – tout le visage"
+},
+{
+"key": "part14b.html#575",
+"fr": "Très gros plan – les yeux"
+},
+{
+"key": "part14b.html#576",
+"fr": "Insert – mains et objets"
+},
+{
+"key": "part14b.html#577",
+"fr": "Plan individuel – jugement et émotion d’une personne"
+},
+{
+"key": "part14b.html#578",
+"fr": "Plan à deux – distance entre deux personnes = distance dans leur relation"
+},
+{
+"key": "part14b.html#579",
+"fr": "Plan de groupe – équipe et communauté"
+},
+{
+"key": "part14b.html#580",
+"fr": "Amorce épaule – une conversation par-dessus l’épaule"
+},
+{
+"key": "part14b.html#581",
+"fr": "Plan subjectif – ce que voit le personnage"
+},
+{
+"key": "part14b.html#582",
+"fr": "Plan de réaction – le visage de celui qui écoute"
+},
+{
+"key": "part14b.html#583",
+"fr": "Plan d’exposition – poser le lieu et le moment"
+},
+{
+"key": "part14b.html#584",
+"fr": "Insert – le détail décisif"
+},
+{
+"key": "part14b.html#585",
+"fr": "Plan de coupe – condenser le temps, installer l’ambiance"
+},
+{
+"key": "part14b.html#586",
+"fr": "Hauteur d’yeux – neutre et égalitaire"
+},
+{
+"key": "part14b.html#587",
+"fr": "Plongée – petit et vulnérable"
+},
+{
+"key": "part14b.html#588",
+"fr": "Contre-plongée – autorité et menace"
+},
+{
+"key": "part14b.html#589",
+"fr": "Plongée totale – vue à la verticale"
+},
+{
+"key": "part14b.html#590",
+"fr": "Plan débullé – un malaise oblique"
+},
+{
+"key": "part14b.html#591",
+"fr": "Contre-plongée totale – vue du sol vers le haut"
+},
+{
+"key": "part14b.html#592",
+"fr": "Visage en contre-plongée – menton et narines, autorité"
+},
+{
+"key": "part14b.html#593",
+"fr": "Visage à hauteur d’yeux – conversation et empathie"
+},
+{
+"key": "part14b.html#594",
+"fr": "Visage en plongée – front agrandi, menton réduit"
+},
+{
+"key": "part14b.html#595",
+"fr": "Règle des tiers – les yeux sur une intersection"
+},
+{
+"key": "part14b.html#596",
+"fr": "Nombre d’or – vers le centre de la spirale"
+},
+{
+"key": "part14b.html#597",
+"fr": "Symétrie centrale – une frontalité affirmée"
+},
+{
+"key": "part14b.html#598",
+"fr": "Rythme et répétition – un seul diffère"
+},
+{
+"key": "part14b.html#599",
+"fr": "Lignes directrices – vers le point de fuite"
+},
+{
+"key": "part14b.html#600",
+"fr": "Cadre dans le cadre – un regard enfermé"
+},
+{
+"key": "part14b.html#601",
+"fr": "Regards face à face – l’axe d’une relation"
+},
+{
+"key": "part14b.html#602",
+"fr": "Suivre le regard jusqu’à l’objet – raccord de regard"
+},
+{
+"key": "part14b.html#603",
+"fr": "Luminosité et netteté guident l’œil"
+},
+{
+"key": "part14b.html#604",
+"fr": "Travelling – avancée sur rails"
+},
+{
+"key": "part14b.html#605",
+"fr": "Arc – tourner autour du sujet"
+},
+{
+"key": "part14b.html#606",
+"fr": "Grue – élévation verticale et échelle"
+},
+{
+"key": "part14b.html#607",
+"fr": "Panoramique – balayer l’espace depuis un axe fixe"
+},
+{
+"key": "part14b.html#608",
+"fr": "Zoom avant – même point de vue, seule l’image grandit"
+},
+{
+"key": "part14b.html#609",
+"fr": "Zoom arrière – le contexte apparaît"
+},
+{
+"key": "part14b.html#610",
+"fr": "Orange et bleu canard – détacher le sujet"
+},
+{
+"key": "part14b.html#611",
+"fr": "Bleu froid – isolement"
+},
+{
+"key": "part14b.html#612",
+"fr": "Une seule couleur d’accent – forcer le regard"
+},
+{
+"key": "part14b.html#613",
+"fr": "PARTIE 03"
+},
+{
+"key": "part14b.html#614",
+"fr": "24 mm – espace élargi et distorsion"
+},
+{
+"key": "part14b.html#615",
+"fr": "50 mm – perspective naturelle"
+},
+{
+"key": "part14b.html#616",
+"fr": "135 mm – arrière-plan compressé et isolement"
+},
+{
+"key": "part14b.html#617",
+"fr": "F1,4 – faible profondeur de champ"
+},
+{
+"key": "part14b.html#618",
+"fr": "F8 – grande profondeur de champ"
+},
+{
+"key": "part14b.html#619",
+"fr": "ISO élevé – bruit"
+},
+{
+"key": "part14b.html#620",
+"fr": "Obturateur à 360° – longues traînées"
+},
+{
+"key": "part14b.html#621",
+"fr": "Obturateur à 45° – netteté saccadée"
+},
+{
+"key": "part14b.html#622",
+"fr": "Prise de vues à haute vitesse – une goutte figée"
+},
+{
+"key": "part14b.html#623",
+"fr": "WB à 3200 K en lumière du jour – bleuté"
+},
+{
+"key": "part14b.html#624",
+"fr": "WB à 5600 K en lumière du jour – normal"
+},
+{
+"key": "part14b.html#625",
+"fr": "WB à 7500 K en lumière du jour – jaunâtre"
+},
+{
+"key": "part14b.html#626",
+"fr": "Lumières mixtes – jour par la fenêtre et tungstène en intérieur"
+},
+{
+"key": "part14b.html#627",
+"fr": "Fixer la référence avec une charte grise"
+},
+{
+"key": "part14b.html#628",
+"fr": "Écart de couleur voulu – le bleu de l’aube"
+},
+{
+"key": "part14b.html#629",
+"fr": "Trépied et tête fluide"
+},
+{
+"key": "part14b.html#630",
+"fr": "Slider"
+},
+{
+"key": "part14b.html#631",
+"fr": "Stabilisateur 3 axes"
+},
+{
+"key": "part14b.html#632",
+"fr": "PARTIE 04"
+},
+{
+"key": "part14b.html#633",
+"fr": "Lumière principale seule"
+},
+{
+"key": "part14b.html#634",
+"fr": "Principale+appoint"
+},
+{
+"key": "part14b.html#635",
+"fr": "Principale + appoint + contre-jour"
+},
+{
+"key": "part14b.html#636",
+"fr": "High key – lumière claire et flatteuse"
+},
+{
+"key": "part14b.html#637",
+"fr": "Portrait low key – l’ombre domine"
+},
+{
+"key": "part14b.html#638",
+"fr": "Produit low key – luxe et concentration"
+},
+{
+"key": "part14b.html#639",
+"fr": "Verre – transparence en contre-jour"
+},
+{
+"key": "part14b.html#640",
+"fr": "Métal – reflets de boîtes strip"
+},
+{
+"key": "part14b.html#641",
+"fr": "Aliments – vapeur et brillance par le contre-jour"
+},
+{
+"key": "part14b.html#642",
+"fr": "Un fond vert éclairé uniformément"
+},
+{
+"key": "part14b.html#643",
+"fr": "Spill – du vert sur les bords"
+},
+{
+"key": "part14b.html#644",
+"fr": "Compositing terminé"
+},
+{
+"key": "part14b.html#645",
+"fr": "Canon sur perche – pointé d’en haut"
+},
+{
+"key": "part14b.html#646",
+"fr": "Micro-cravate – caché dans le col"
+},
+{
+"key": "part14b.html#647",
+"fr": "Enregistrer une interview en décor naturel"
+},
+{
+"key": "part14b.html#648",
+"fr": "PARTIE 05"
+},
+{
+"key": "part14b.html#649",
+"fr": "Animation sur cellulo – peinte sur cellulos transparents"
+},
+{
+"key": "part14b.html#650",
+"fr": "Papier découpé – animer des pièces découpées"
+},
+{
+"key": "part14b.html#651",
+"fr": "Animation de sable – des scènes dessinées dans le sable"
+},
+{
+"key": "part14b.html#652",
+"fr": "Pixilation – des personnes filmées image par image"
+},
+{
+"key": "part14b.html#653",
+"fr": "Stop motion papier · pâte à modeler"
+},
+{
+"key": "part14b.html#654",
+"fr": "Synthèse 3D – un personnage dans l’espace virtuel"
+},
+{
+"key": "part14b.html#655",
+"fr": "2D – dessiner en lignes et en formes"
+}
+]

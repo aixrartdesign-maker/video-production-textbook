@@ -1,0 +1,4 @@
+[
+{"key": "part02.html#853", "find": "et faites pause à chaque coupe", "replace": "et mettez en pause à chaque coupe", "why": "grammar: « faire pause » is not standard French"},
+{"key": "part02.html#965", "find": "Pour concentrer sur l’expression", "replace": "Pour concentrer l’attention sur l’expression", "why": "grammar: transitive « concentrer » lacks its object"}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#450",
+"fr": "Avant de mémoriser les principes, prenez l’habitude d’observer le mouvement autour de vous. Savoir voir dans quel ordre une personne se lève d’une chaise ou une balle dévale un escalier fait des principes des outils vivants. Pour aller plus loin : Frank Thomas · Ollie Johnston, The Illusion of Life ; Richard Williams, The Animator’s Survival Kit."
+},
+{
+"key": "part05.html#451",
+"fr": "<b>PARTIE 05</b>Montage et postproduction"
+},
+{
+"key": "part05.html#452",
+"fr": "Les 12 principes de l’animation"
+},
+{
+"key": "part05.html#453",
+"fr": "Douze principes, appliqués à la publicité. Une moitié de physique, une moitié de jeu. Corrigez amorti · anticipation · continuité · exagération dans cet ordre, et l’aspect débutant disparaît."
+},
+{
+"key": "part05.html#454",
+"fr": "Les 12 principes – le mouvement à travers un seul personnage"
+},
+{
+"key": "part05.html#455",
+"fr": "<b><i>01</i>Compression et étirement</b><span>S’écrase et s’étire à volume constant – poids et élasticité</span>"
+},
+{
+"key": "part05.html#456",
+"fr": "<b><i>02</i>Anticipation</b><span>Part en sens inverse avant une grande action</span>"
+},
+{
+"key": "part05.html#457",
+"fr": "<b><i>03</i>Mise en scène</b><span>La silhouette seule fait lire l’intention</span>"
+},
+{
+"key": "part05.html#458",
+"fr": "<b><i>04</i>Pose à pose</b><span>Fixer d’abord les poses clés, puis combler les intervalles</span>"
+},
+{
+"key": "part05.html#459",
+"fr": "<b><i>05</i>Continuité · chevauchement</b><span>Le corps s’arrête ; cheveux et vêtements s’arrêtent après</span>"
+},
+{
+"key": "part05.html#460",
+"fr": "<b><i>06</i>Ralenti au départ · à l’arrivée</b><span>Resserrer les images au début et à la fin du mouvement</span>"
+},
+{
+"key": "part05.html#461",
+"fr": "<b><i>07</i>Arcs</b><span>Les articulations décrivent des arcs, pas des droites</span>"
+},
+{
+"key": "part05.html#462",
+"fr": "<b><i>08</i>Action secondaire</b><span>De petites actions à l’appui de la principale créent le caractère</span>"
+},
+{
+"key": "part05.html#463",
+"fr": "<b><i>09</i>Timing</b><span>Même distance – le nombre d’images fixe poids et vitesse</span>"
+},
+{
+"key": "part05.html#464",
+"fr": "<b><i>10</i>Exagération</b><span>Un cran au-delà du réel – affûter l’intention</span>"
+},
+{
+"key": "part05.html#465",
+"fr": "<b><i>11</i>Dessin en volume</b><span>Dessiner les formes avec volume · poids · équilibre</span>"
+},
+{
+"key": "part05.html#466",
+"fr": "<b><i>12</i>Charisme</b><span>Formes simples et caractère net créent le charme</span>"
+},
+{
+"key": "part05.html#467",
+"fr": "<b>Fig. 48</b> Les 12 principes de l’animation – douze règles du mouvement sur un seul personnage (Disney, 1981). Les traits rouges marquent le « mouvement » que désigne chaque principe."
+},
+{
+"key": "part05.html#468",
+"fr": "Une balle qui rebondit contient quatre principes"
+},
+{
+"key": "part05.html#469",
+"fr": "Sommet – espacement serré (lent · ralentis)"
+},
+{
+"key": "part05.html#470",
+"fr": "Balle rouge = atterrissage, aplatie (compression)"
+},
+{
+"key": "part05.html#471",
+"fr": "Chute – espacement large, allongée (étirement)"
+},
+{
+"key": "part05.html#472",
+"fr": "Chaque rebond est plus bas et plus court (timing)"
+},
+{
+"key": "part05.html#473",
+"fr": "<b>Fig. 49</b> La balle qui rebondit – arcs · timing · espacement · compression et étirement, le tout dans une seule balle. Les balles sont dessinées à intervalles de temps égaux : lentes et serrées au sommet, rapides et espacées près du sol. La balle rouge marque l’instant où elle touche le sol (compression)."
+},
+{
+"key": "part05.html#474",
+"fr": "Même distance, mêmes images – l’espacement seul change le mouvement"
+},
+{
+"key": "part05.html#475",
+"fr": "Espacement régulier – mécanique"
+},
+{
+"key": "part05.html#476",
+"fr": "Robots · convoyeurs. Sans vie"
+},
+{
+"key": "part05.html#477",
+"fr": "Accél.·décél. – naturel"
+},
+{
+"key": "part05.html#478",
+"fr": "Départ et arrivée en douceur. La plupart des mouvements"
+},
+{
+"key": "part05.html#479",
+"fr": "Rapide → lent – accentue l’arrivée"
+},
+{
+"key": "part05.html#480",
+"fr": "Jaillit et s’arrête. Pop-ups · emphase · UI"
+},
+{
+"key": "part05.html#481",
+"fr": "Lent → rapide – accentue le départ"
+},
+{
+"key": "part05.html#482",
+"fr": "Hésite, puis s’élance. Sauts · lancements"
+},
+{
+"key": "part05.html#483",
+"fr": "Même distance · mêmes 11 images – seul l’espacement diffère. <tspan font-weight=\"500\">Timing</tspan> = nombre d’images, <tspan font-weight=\"500\">espacement</tspan> = écart entre les images"
+},
+{
+"key": "part05.html#484",
+"fr": "<b>Fig. 50</b> Timing et espacement – chaque ligne couvre la même distance avec le même nombre d’images. Là où les cercles sont écartés, le mouvement est rapide."
+},
+{
+"key": "part05.html#485",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part05.html#486",
+"fr": "Les poses clés d’abord, puis les intervalles. Tracez en premier l’échelle d’espacement."
+},
+{
+"key": "part05.html#487",
+"fr": "Les douze principes – en scènes d’un court métrage en stop motion"
+},
+{
+"key": "part05.html#488",
+"fr": "<small>01</small>Compression et étirement"
+},
+{
+"key": "part05.html#489",
+"fr": "S’écrase et s’étire à volume constant – poids et élasticité"
+},
+{
+"key": "part05.html#490",
+"fr": "<small>02</small>Anticipation"
+},
+{
+"key": "part05.html#491",
+"fr": "Part en sens inverse avant une grande action"
+},
+{
+"key": "part05.html#492",
+"fr": "<small>03</small>Mise en scène"
+},
+{
+"key": "part05.html#493",
+"fr": "La silhouette seule fait lire l’intention"
+},
+{
+"key": "part05.html#494",
+"fr": "<small>04</small>Pose à pose"
+},
+{
+"key": "part05.html#495",
+"fr": "Fixer d’abord les poses clés, puis combler les intervalles"
+},
+{
+"key": "part05.html#496",
+"fr": "<small>05</small>Continuité · chevauchement"
+},
+{
+"key": "part05.html#497",
+"fr": "Le corps s’arrête ; cheveux et vêtements s’arrêtent après"
+},
+{
+"key": "part05.html#498",
+"fr": "<small>06</small>Ralenti au départ · à l’arrivée"
+},
+{
+"key": "part05.html#499",
+"fr": "Resserrer les images au début et à la fin du mouvement"
+},
+{
+"key": "part05.html#500",
+"fr": "<small>07</small>Arcs"
+},
+{
+"key": "part05.html#501",
+"fr": "Les articulations décrivent des arcs, pas des droites"
+},
+{
+"key": "part05.html#502",
+"fr": "<small>08</small>Action secondaire"
+},
+{
+"key": "part05.html#503",
+"fr": "De petites actions à l’appui de la principale créent le caractère"
+},
+{
+"key": "part05.html#504",
+"fr": "<small>09</small>Timing"
+},
+{
+"key": "part05.html#505",
+"fr": "Même distance – le nombre d’images fixe poids et vitesse"
+},
+{
+"key": "part05.html#506",
+"fr": "<small>10</small>Exagération"
+},
+{
+"key": "part05.html#507",
+"fr": "Un cran au-delà du réel – affûter l’intention"
+},
+{
+"key": "part05.html#508",
+"fr": "<small>11</small>Dessin en volume"
+},
+{
+"key": "part05.html#509",
+"fr": "Dessiner les formes avec volume · poids · équilibre"
+},
+{
+"key": "part05.html#510",
+"fr": "<small>12</small>Charisme"
+},
+{
+"key": "part05.html#511",
+"fr": "Formes simples et caractère net créent le charme"
+},
+{
+"key": "part05.html#512",
+"fr": "Compression et étirement – une balle qui rebondit, image après image"
+},
+{
+"key": "part05.html#513",
+"fr": "Sommet – ronde, lente (espacement serré)"
+},
+{
+"key": "part05.html#514",
+"fr": "Contact – écrasée à plat"
+},
+{
+"key": "part05.html#515",
+"fr": "Contact – écrasée de nouveau"
+},
+{
+"key": "part05.html#516",
+"fr": "Plus vite = plus d’étirement le long de la trajectoire"
+},
+{
+"key": "part05.html#517",
+"fr": "Espacement large = rapide"
+},
+{
+"key": "part05.html#518",
+"fr": "Règle : l’étirement amincit, la compression élargit – le volume (l’aire) ne change jamais. Toutes les balles sont dessinées à intervalles de temps égaux."
+},
+{
+"key": "part05.html#519",
+"fr": "<b>G-15</b> Compression et étirement – une parabole d’une balle qui rebondit. Ronde et serrée au sommet, plus longue et plus espacée dans la chute, plate à l’instant où elle touche le sol. L’aire de la balle est la même sur les quinze dessins."
+},
+{
+"key": "part05.html#520",
+"fr": "<small>Exercice</small>5.6"
+},
+{
+"key": "part05.html#521",
+"fr": "Tâche"
+},
+{
+"key": "part05.html#522",
+"fr": "Animez, dans l’ordre : une balle qui rebondit, une balle lourde · une balle légère, le saut d’un personnage."
+},
+{
+"key": "part05.html#523",
+"fr": "Conseil"
+},
+{
+"key": "part05.html#524",
+"fr": "Les poses clés d’abord, puis les intervalles. Tracez en premier l’échelle d’espacement."
+},
+{
+"key": "part05.html#525",
+"fr": "Évaluation"
+},
+{
+"key": "part05.html#526",
+"fr": "Emploi de la compression · du timing · des arcs"
+},
+{
+"key": "part05.html#527",
+"fr": "Corrigé type"
+},
+{
+"key": "part05.html#528",
+"fr": "Les 12 principes de The Illusion of Life de Disney. Comparez le même saut exécuté par deux personnages de poids différents."
+},
+{
+"key": "part05.html#529",
+"fr": "<b>PARTIE 05</b>Montage et postproduction"
+},
+{
+"key": "part05.html#530",
+"fr": "Compositing et incrustation en pratique"
+},
+{
+"key": "part05.html#531",
+"fr": "Jugez une incrustation en six étapes ; quand un compositing se voit, cherchez trois causes : niveau des noirs · perspective atmosphérique · grain."
+},
+{
+"key": "part05.html#532",
+"fr": "<b>Fig. 51</b> Les 6 étapes de l’incrustation – cache grossier › incrustation principale › nettoyage du cache › suppression du débordement › traitement des contours › raccord colorimétrique"
+},
+{
+"key": "part05.html#533",
+"fr": "Étape"
+},
+{
+"key": "part05.html#534",
+"fr": "Que faire"
+},
+{
+"key": "part05.html#535",
+"fr": "Critère"
+},
+{
+"key": "part05.html#536",
+"fr": "Cache grossier"
+},
+{
+"key": "part05.html#537",
+"fr": "Masquer ce qui dépasse du fond vert"
+},
+{
+"key": "part05.html#538",
+"fr": "Pieds de projecteurs et bord du sol éliminés"
+},
+{
+"key": "part05.html#539",
+"fr": "Incrustation principale"
+},
+{
+"key": "part05.html#540",
+"fr": "Éliminer la couleur du fond"
+},
+{
+"key": "part05.html#541",
+"fr": "Cheveux encore intacts"
+},
+{
+"key": "part05.html#542",
+"fr": "Nettoyage du cache"
+},
+{
+"key": "part05.html#543",
+"fr": "Nettoyer en affichant l’alpha en noir et blanc"
+},
+{
+"key": "part05.html#544",
+"fr": "Sujet blanc pur, fond noir pur"
+},
+{
+"key": "part05.html#545",
+"fr": "Suppression du débordement"
+},
+{
+"key": "part05.html#546",
+"fr": "Retirer le vert sur la peau et les vêtements"
+},
+{
+"key": "part05.html#547",
+"fr": "La peau n’a pas viré au gris"
+},
+{
+"key": "part05.html#548",
+"fr": "Traitement des contours"
+},
+{
+"key": "part05.html#549",
+"fr": "Éroder et adoucir les contours"
+},
+{
+"key": "part05.html#550",
+"fr": "Aucun crénelage en zoomant"
+},
+{
+"key": "part05.html#551",
+"fr": "Raccord colorimétrique"
+},
+{
+"key": "part05.html#552",
+"fr": "Accorder couleur et luminosité au fond"
+},
+{
+"key": "part05.html#553",
+"fr": "Direction de lumière et temp. de couleur concordent"
+},
+{
+"key": "part05.html#554",
+"fr": "Trois raisons pour lesquelles un compositing se voit"
+},
+{
+"key": "part05.html#555",
+"fr": "<small>Cause 1</small>Niveau des noirs"
+},
+{
+"key": "part05.html#556",
+"fr": "Si les noirs d’un élément sont plus denses que ceux de la prise de vues réelle, cela jure aussitôt"
+},
+{
+"key": "part05.html#557",
+"fr": "Relever légèrement les noirs"
+},
+{
+"key": "part05.html#558",
+"fr": "<small>Cause 2</small>Perspective atmosphérique"
+},
+{
+"key": "part05.html#559",
+"fr": "La distance réduit le contraste et y mêle la couleur du fond"
+},
+{
+"key": "part05.html#560",
+"fr": "Baisser saturation et contraste avec la distance"
+},
+{
+"key": "part05.html#561",
+"fr": "<small>Cause 3</small>Grain et bruit"
+},
+{
+"key": "part05.html#562",
+"fr": "Le tournage a du bruit ; l’image de synthèse, non"
+},
+{
+"key": "part05.html#563",
+"fr": "Ajouter aux éléments un grain assorti"
+},
+{
+"key": "part05.html#564",
+"fr": "<b>Vérification finale</b>"
+},
+{
+"key": "part05.html#565",
+"fr": "Réduisez l’image ou passez-la en noir et blanc. Les écarts ressortent davantage sur un petit écran et en noir et blanc."
+},
+{
+"key": "part05.html#566",
+"fr": "<b>G-16</b> Avant et après compositing – source sur fond vert et image finale · image générée par GPT, à titre d’illustration"
+},
+{
+"key": "part05.html#567",
+"fr": "<small>Exercice</small>5.7"
+},
+{
+"key": "part05.html#568",
+"fr": "Tâche"
+},
+{
+"key": "part05.html#569",
+"fr": "Réalisez le compositing d’une scène à partir d’une source sur fond vert et d’un plan de fond."
+},
+{
+"key": "part05.html#570",
+"fr": "Conseil"
+},
+{
+"key": "part05.html#571",
+"fr": "Après l’incrustation, affinez dans l’ordre : contours, débordement, ombres, raccord colorimétrique."
+},
+{
+"key": "part05.html#572",
+"fr": "Évaluation"
+},
+{
+"key": "part05.html#573",
+"fr": "Qualité des contours, lumière et couleur raccordées"
+},
+{
+"key": "part05.html#574",
+"fr": "Corrigé type"
+},
+{
+"key": "part05.html#575",
+"fr": "Remettez une comparaison avant/après accompagnée de la structure des calques."
+},
+{
+"key": "part05.html#576",
+"fr": "<b>PARTIE 05</b>Montage et postproduction"
+},
+{
+"key": "part05.html#577",
+"fr": "Étalonnage"
+},
+{
+"key": "part05.html#578",
+"fr": "Réglez la luminosité avant de toucher à la couleur. Le look ne commence qu’après la correction primaire."
+},
+{
+"key": "part05.html#579",
+"fr": "<span class=\"ph-id\">P05-COLOR</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Salle d’étalonnage</b>Un étalonneur devant un pupitre à trackballs, les scopes sur un écran et l’étalonnage sur un moniteur calibré</span>"
+},
+{
+"key": "part05.html#580",
+"fr": "<b>Note</b>Salle d’étalonnage – réglez d’abord la luminosité aux scopes, pas à l’œil, puis appliquez le look"
+},
+{
+"key": "part05.html#581",
+"fr": "<b>Fig. 52</b> Évolution des tons à chaque étape de l’étalonnage"
+},
+{
+"key": "part05.html#582",
+"fr": "Ordre de travail"
+},
+{
+"key": "part05.html#583",
+"fr": "<b>01</b><i>Exposition · contraste</i>La luminosité avant la couleur"
+},
+{
+"key": "part05.html#584",
+"fr": "<b>02</b><i>Balance des blancs</i>Que le gris paraisse gris"
+},
+{
+"key": "part05.html#585",
+"fr": "<b>03</b><i>Raccord des plans</i>Une scène, une même heure du jour"
+},
+{
+"key": "part05.html#586",
+"fr": "<b>04</b><i>Look</i>C’est seulement ici que la couleur se décide"
+},
+{
+"key": "part05.html#587",
+"fr": "<b>05</b><i>Secondaires</i>Visages, ciel, produit, rien d’autre"
+},
+{
+"key": "part05.html#588",
+"fr": "<b>06</b><i>Contrôle de sortie</i>Sur moniteur, smartphone, téléviseur"
+},
+{
+"key": "part05.html#589",
+"fr": "<b>Look de base</b>"
+},
+{
+"key": "part05.html#590",
+"fr": "Ombres froides, hautes lumières chaudes. Les tons chair sont les plus sensibles au gamma."
+},
+{
+"key": "part05.html#591",
+"fr": "Outil"
+},
+{
+"key": "part05.html#592",
+"fr": "Ce qu’il règle"
+},
+{
+"key": "part05.html#593",
+"fr": "Note"
+},
+{
+"key": "part05.html#594",
+"fr": "Lift"
+},
+{
+"key": "part05.html#595",
+"fr": "Ombres"
+},
+{
+"key": "part05.html#596",
+"fr": "En excès, l’image devient laiteuse"
+},
+{
+"key": "part05.html#597",
+"fr": "Gamma"
+},
+{
+"key": "part05.html#598",
+"fr": "Tons moyens"
+},
+{
+"key": "part05.html#599",
+"fr": "Les tons chair réagissent le plus"
+}
+]

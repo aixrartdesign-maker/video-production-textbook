@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#407",
+"fr": "De l’entrée à la sortie <b>d’un seul trait</b>. Si le parcours revient sur ses pas, les visiteurs casqués heurtent ceux qui ne le sont pas. Expérience de 90 s × 3 + photo de 60 s + file = env. 8 min par personne, soit env. 40 personnes par heure."
+},
+{
+"key": "part07.html#408",
+"fr": "<b>Fig. 67</b> Plan d’une exposition XR – la ligne pointillée rouge indique le parcours du visiteur ; les numéros donnent l’ordre."
+},
+{
+"key": "part07.html#409",
+"fr": "8 étapes de conception"
+},
+{
+"key": "part07.html#410",
+"fr": "<b>01</b><i>Thème</i>Ce qu’on retient de la visite, en une phrase"
+},
+{
+"key": "part07.html#411",
+"fr": "<b>02</b><i>Repérage</i>Plans cotés, hauteur sous plafond, électricité, lux"
+},
+{
+"key": "part07.html#412",
+"fr": "<b>03</b><i>Scénario</i>Tableau des temps de séjour par section"
+},
+{
+"key": "part07.html#413",
+"fr": "<b>04</b><i>Parcours</i>Sens unique ou circulation libre"
+},
+{
+"key": "part07.html#414",
+"fr": "<b>05</b><i>Technique</i>Fiches du matériel, matériel de secours"
+},
+{
+"key": "part07.html#415",
+"fr": "<b>06</b><i>Contenu</i>Liste des contenus par espace"
+},
+{
+"key": "part07.html#416",
+"fr": "<b>07</b><i>Installation</i>Journal de calibrage sur site"
+},
+{
+"key": "part07.html#417",
+"fr": "<b>08</b><i>Exploitation</i>Manuel du personnel, gestion des pannes"
+},
+{
+"key": "part07.html#418",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part07.html#419",
+"fr": "Souvent oubliés – le choix de la technique avant le message, la hauteur sous plafond et la puissance électrique, l’absence de plan pour les temps d’attente."
+},
+{
+"key": "part07.html#420",
+"fr": "Ce qu’on oublie à chaque étape"
+},
+{
+"key": "part07.html#421",
+"fr": "<small>Conception</small>Thème · espace · scénario"
+},
+{
+"key": "part07.html#422",
+"fr": "Choisir la technique avant le message"
+},
+{
+"key": "part07.html#423",
+"fr": "Hauteur sous plafond et puissance électrique"
+},
+{
+"key": "part07.html#424",
+"fr": "Aucun plan pour les temps d’attente"
+},
+{
+"key": "part07.html#425",
+"fr": "<small>Réalisation</small>Parcours · technique · installation · exploitation"
+},
+{
+"key": "part07.html#426",
+"fr": "Goulets d’étranglement et reflux"
+},
+{
+"key": "part07.html#427",
+"fr": "Maintenance et pièces de rechange"
+},
+{
+"key": "part07.html#428",
+"fr": "Temps d’installation sous-estimé"
+},
+{
+"key": "part07.html#429",
+"fr": "Aucune procédure de redémarrage"
+},
+{
+"key": "part07.html#430",
+"fr": "<b>90<em>s</em></b>Durée d’une session"
+},
+{
+"key": "part07.html#431",
+"fr": "<b>4<em>pers.</em></b>Capacité simultanée"
+},
+{
+"key": "part07.html#432",
+"fr": "<b>160<em>pers./h</em></b>Maximum théorique"
+},
+{
+"key": "part07.html#433",
+"fr": "<b>70<em>%</em></b>Réaliste, avec rotation · briefing"
+},
+{
+"key": "part07.html#434",
+"fr": "Calcul du temps de séjour"
+},
+{
+"key": "part07.html#435",
+"fr": "Combinez la durée d’une session et la capacité simultanée pour obtenir le débit horaire. Une expérience de 90 secondes pour 4 personnes à la fois plafonne en théorie à 160 personnes par heure ; en exploitation réelle, ajoutez les temps de rotation et de briefing et tablez sur environ 70 % de ce chiffre."
+},
+{
+"key": "part07.html#436",
+"fr": "La MR au musée"
+},
+{
+"key": "part07.html#437",
+"fr": "<span class=\"ph-id\">P07-MR-MUSEUM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Musée en MR – un hologramme de restitution sur l’objet</b>Un visiteur casqué, une forme restituée translucide flottant au-dessus d’un ouvrage de pierre brisé</span>"
+},
+{
+"key": "part07.html#438",
+"fr": "<b>Note</b>Laisser l’original tel quel ; ne combler que les manques, avec de la lumière"
+},
+{
+"key": "part07.html#439",
+"fr": "C’est au musée que la MR convainc le plus, car la contrainte qui interdit de toucher ou de déplacer les originaux devient sa force même."
+},
+{
+"key": "part07.html#440",
+"fr": "Le Musée national de Corée exploite, au sein de son exposition permanente, une galerie numérique immersive qui présente notamment une tombe à peintures murales de Goguryeo en VR, de grands films panoramiques et une stèle de Gwanggaeto numérique ; de grands musées nationaux étrangers proposent eux aussi des parcours AR et MR de restitution d’objets. Leurs dispositifs se ramènent pour l’essentiel à trois éléments."
+},
+{
+"key": "part07.html#441",
+"fr": "Hologrammes de restitution – les tessons manquants d’une poterie brisée, ou les couleurs d’origine d’une statue de Bouddha usée, superposés à l’objet réel. Gardez une part de transparence pour que la limite entre original et restitution reste visible."
+},
+{
+"key": "part07.html#442",
+"fr": "Avatars médiateurs – ils lisent le regard et la position du visiteur pour commenter l’objet qu’il observe. Limitez le commentaire à moins de 30 secondes par objet ; au visiteur de choisir d’en entendre davantage."
+},
+{
+"key": "part07.html#443",
+"fr": "Commande par suivi des mains – saisir, tourner et agrandir les objets à la main, sans manettes. Placez les objets à portée de bras (env. 0,5–0,7 m) et faites-les revenir à leur place en fin de manipulation."
+},
+{
+"key": "part07.html#444",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part07.html#445",
+"fr": "Dans la MR muséale, l’hygiène et la rotation font la moitié du projet. Intégrez au tableau des temps de séjour la désinfection des casques entre deux utilisateurs et le temps de briefing."
+},
+{
+"key": "part07.html#446",
+"fr": "<span class=\"ph-id\">P07-LEDWALL</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Plateau XR</b>Une autoroute de nuit sur un volume LED incurvé, une vraie voiture et une caméra sur grue sur le plateau</span>"
+},
+{
+"key": "part07.html#447",
+"fr": "<b>Note</b>Plateau XR – grâce au suivi de caméra et à un moteur temps réel, le fond LED suit les mouvements de la caméra. Les zones XR d’exposition et la production virtuelle au cinéma reposent sur la même technologie"
+},
+{
+"key": "part07.html#448",
+"fr": "<small>Exercice</small>6.7"
+},
+{
+"key": "part07.html#449",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#450",
+"fr": "Établissez un plan de parcours et une liste des contenus par espace pour une exposition XR fictive."
+},
+{
+"key": "part07.html#451",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#452",
+"fr": "Fixez un temps de séjour du visiteur pour chaque espace."
+},
+{
+"key": "part07.html#453",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#454",
+"fr": "Flux de visiteurs, adéquation entre espace et contenu"
+},
+{
+"key": "part07.html#455",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#456",
+"fr": "Oppose les expériences d’entrée et de sortie pour bâtir une structure mémorable."
+},
+{
+"key": "part07.html#457",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#458",
+"fr": "Mapping vidéo"
+},
+{
+"key": "part07.html#459",
+"fr": "Construisez le contenu sur un gabarit déplié de la cible. Le résultat est le meilleur quand les arêtes des structures réelles, fenêtres ou colonnes, deviennent la structure du contenu."
+},
+{
+"key": "part07.html#460",
+"fr": "<b>G-22</b> Mapping vidéo – la façade du bâtiment devient l’écran (image générée par GPT – illustration du concept uniquement)"
+},
+{
+"key": "part07.html#461",
+"fr": "<span class=\"ph-id\">P07-PROJECTION</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Mapping vidéo</b>Façade de pierre de nuit, lumière géométrique soulignant les arêtes des fenêtres et des colonnes, silhouettes du public</span>"
+},
+{
+"key": "part07.html#462",
+"fr": "<b>Note</b>Les arêtes des fenêtres et des colonnes deviennent les cases du contenu – d’où l’intérêt de travailler sur le gabarit"
+},
+{
+"key": "part07.html#463",
+"fr": "<small>Principe</small>Mesurer → aligner → corriger → calibrer"
+},
+{
+"key": "part07.html#464",
+"fr": "Mesurer la forme 3D de la cible et la reconstruire en modèle virtuel"
+},
+{
+"key": "part07.html#465",
+"fr": "Aligner la position du projecteur sur la caméra virtuelle"
+},
+{
+"key": "part07.html#466",
+"fr": "Corriger la distorsion face par face, calculer la vidéo"
+},
+{
+"key": "part07.html#467",
+"fr": "Affiner par un calibrage sur site après l’installation"
+},
+{
+"key": "part07.html#468",
+"fr": "<small>Facteurs à prévoir</small>Surface · lumière ambiante · distance · fusion"
+},
+{
+"key": "part07.html#469",
+"fr": "Les surfaces sombres et rugueuses perdent beaucoup de luminosité"
+},
+{
+"key": "part07.html#470",
+"fr": "Nuit ou obscurité totale indispensable"
+},
+{
+"key": "part07.html#471",
+"fr": "Calculer la distance de projection et la luminosité (lumens ANSI)"
+},
+{
+"key": "part07.html#472",
+"fr": "Avec plusieurs projecteurs, prévoir des zones de recouvrement"
+},
+{
+"key": "part07.html#473",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part07.html#474",
+"fr": "Lumens ANSI – unité de luminosité des projecteurs. La quantité nécessaire augmente avec la surface de projection et la lumière ambiante."
+},
+{
+"key": "part07.html#475",
+"fr": "Facteur"
+},
+{
+"key": "part07.html#476",
+"fr": "Critère"
+},
+{
+"key": "part07.html#477",
+"fr": "Valeurs courantes"
+},
+{
+"key": "part07.html#478",
+"fr": "Luminosité"
+},
+{
+"key": "part07.html#479",
+"fr": "Croît avec la surface et la lumière ambiante"
+},
+{
+"key": "part07.html#480",
+"fr": "20 000 ANSI ou plus pour un bâtiment en extérieur"
+},
+{
+"key": "part07.html#481",
+"fr": "Distance de projection"
+},
+{
+"key": "part07.html#482",
+"fr": "Selon le rapport de projection"
+},
+{
+"key": "part07.html#483",
+"fr": "Une courte focale économise de la place"
+},
+{
+"key": "part07.html#484",
+"fr": "Résolution"
+},
+{
+"key": "part07.html#485",
+"fr": "Selon la distance de vision la plus courte"
+},
+{
+"key": "part07.html#486",
+"fr": "4K ou plus pour une vision de près"
+},
+{
+"key": "part07.html#487",
+"fr": "Format du contenu"
+},
+{
+"key": "part07.html#488",
+"fr": "Gabarit déplié de la cible"
+},
+{
+"key": "part07.html#489",
+"fr": "Rien à voir avec le 16:9 standard"
+},
+{
+"key": "part07.html#490",
+"fr": "Fixation"
+},
+{
+"key": "part07.html#491",
+"fr": "Tenir aux vibrations, écarts thermiques"
+},
+{
+"key": "part07.html#492",
+"fr": "Accroche et refroidissement à prévoir"
+},
+{
+"key": "part07.html#493",
+"fr": "<small>Exercice</small>6.8"
+},
+{
+"key": "part07.html#494",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#495",
+"fr": "Projetez une vidéo de mapping simple sur une boîte ou un mur."
+},
+{
+"key": "part07.html#496",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#497",
+"fr": "Séparez d’abord les faces à l’aide de masques, puis donnez à chacune son propre mouvement."
+},
+{
+"key": "part07.html#498",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#499",
+"fr": "Calage sur les surfaces, profondeur"
+},
+{
+"key": "part07.html#500",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#501",
+"fr": "Exploite la structure du bâtiment pour créer l’illusion qu’il s’effondre ou s’ouvre."
+},
+{
+"key": "part07.html#502",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#503",
+"fr": "Publicité extérieure et illusion anamorphique"
+},
+{
+"key": "part07.html#504",
+"fr": "Le point de vue est la condition de conception. Fixez la caméra virtuelle là où se tiennent la plupart des spectateurs, et créez une scène que les gens filmeront et partageront depuis cet endroit."
+},
+{
+"key": "part07.html#505",
+"fr": "Une image scindée et déformée sur deux faces ne fait plus qu’une depuis un seul point"
+},
+{
+"key": "part07.html#506",
+"fr": "<b>Depuis le point de vue de référence – la boîte jaillit</b><span>Les images des deux faces se rejoignent depuis un seul point</span>"
+},
+{
+"key": "part07.html#507",
+"fr": "<b>De côté – deux images déformées</b><span>Quittez le point de vue de référence et l’illusion se brise</span>"
+},
+{
+"key": "part07.html#508",
+"fr": "Les images dessinées <b>volontairement déformées</b> sur deux faces ne se rejoignent que depuis un seul point. La première question de conception est donc : « où se tient le spectateur ? » Cet endroit est le spot photo (le point de départ de la diffusion en ligne). Mesurez d’abord la largeur du trottoir · les passages piétons · le trottoir d’en face."
+},
+{
+"key": "part07.html#509",
+"fr": "<b>Fig. 68</b> Principe de l’illusion anamorphique – une boîte depuis le point de vue de référence, deux images déformées vues de côté."
+},
+{
+"key": "part07.html#510",
+"fr": "<b>Photos de référence 6.9A</b>Images générées – références de mise en scène"
+},
+{
+"key": "part07.html#511",
+"fr": "<b>a</b>LED d’angle anamorphique"
+},
+{
+"key": "part07.html#512",
+"fr": "<b>b</b>Production virtuelle sur mur LED"
+},
+{
+"key": "part07.html#513",
+"fr": "<b>c</b>Vitrine à LED transparente"
+},
+{
+"key": "part07.html#514",
+"fr": "<small>Principe anamorphique</small>Du relief depuis un seul point de vue"
+},
+{
+"key": "part07.html#515",
+"fr": "Vidéo déformée sur un écran LED en angle"
+},
+{
+"key": "part07.html#516",
+"fr": "Le point de vue est la condition de conception"
+},
+{
+"key": "part07.html#517",
+"fr": "<small>Point de vue de référence</small>Fixer la caméra virtuelle"
+},
+{
+"key": "part07.html#518",
+"fr": "Là où sont la plupart des spectateurs"
+},
+{
+"key": "part07.html#519",
+"fr": "Un pas de côté et l’illusion s’effondre"
+},
+{
+"key": "part07.html#520",
+"fr": "<small>Conditions du contenu</small>Sujets aux contours souples"
+},
+{
+"key": "part07.html#521",
+"fr": "Structures en boîte, objets qui en jaillissent"
+},
+{
+"key": "part07.html#522",
+"fr": "Sujets aux contours souples, comme l’eau et les nuages"
+},
+{
+"key": "part07.html#523",
+"fr": "<small>Le vrai bénéfice</small>Un angle agréable à filmer"
+},
+{
+"key": "part07.html#524",
+"fr": "La vraie portée vient de ceux qui filment et publient en ligne, plus que des spectateurs sur place"
+},
+{
+"key": "part07.html#525",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part07.html#526",
+"fr": "La publicité extérieure est muette par défaut. Un projet qui repose sur le son a déjà échoué au moment de choisir le média."
+},
+{
+"key": "part07.html#527",
+"fr": "Support DOOH"
+},
+{
+"key": "part07.html#528",
+"fr": "Particularités"
+},
+{
+"key": "part07.html#529",
+"fr": "Principe de conception du contenu"
+},
+{
+"key": "part07.html#530",
+"fr": "Grand panneau LED"
+},
+{
+"key": "part07.html#531",
+"fr": "Exposition de masse à distance"
+},
+{
+"key": "part07.html#532",
+"fr": "Un message lu en 3 secondes, sans son"
+},
+{
+"key": "part07.html#533",
+"fr": "Médias des transports"
+},
+{
+"key": "part07.html#534",
+"fr": "Exposition rapprochée et répétée"
+},
+{
+"key": "part07.html#535",
+"fr": "Boucle courte répétée, portée par le texte"
+},
+{
+"key": "part07.html#536",
+"fr": "Affichage en magasin"
+},
+{
+"key": "part07.html#537",
+"fr": "Lieu d’achat"
+},
+{
+"key": "part07.html#538",
+"fr": "Information axée sur les prix et les offres"
+},
+{
+"key": "part07.html#539",
+"fr": "Écrans d’ascenseur"
+},
+{
+"key": "part07.html#540",
+"fr": "Exposition brève, public captif"
+},
+{
+"key": "part07.html#541",
+"fr": "Boucle de 6–10 s, claire sans le son"
+},
+{
+"key": "part07.html#542",
+"fr": "LED anamorphique spéciale"
+},
+{
+"key": "part07.html#543",
+"fr": "Buzz et diffusion"
+},
+{
+"key": "part07.html#544",
+"fr": "Créer une scène que l’on filme et partage"
+},
+{
+"key": "part07.html#545",
+"fr": "<b>G-23</b> LED anamorphique – l’illusion de profondeur d’un écran d’angle (image générée par GPT – illustration du concept uniquement)"
+},
+{
+"key": "part07.html#546",
+"fr": "Fabrication d’un contenu anamorphique"
+},
+{
+"key": "part07.html#547",
+"fr": "<b>01</b><i>Repérage · point de vue</i>Mesurer les faces LED et leur angle de pliure, puis fixer le « point idéal » où se tiennent la plupart des spectateurs"
+},
+{
+"key": "part07.html#548",
+"fr": "<b>02</b><i>Modélisation 3D + caméra au point idéal</i>Construire les faces LED aux dimensions mesurées dans un outil 3D tel qu’Unreal Engine · Cinema 4D · Blender, et fixer une caméra virtuelle au point idéal"
+},
+{
+"key": "part07.html#549",
+"fr": "<b>03</b><i>Contenu · rendu</i>Projeter ce que voit la caméra virtuelle sur le gabarit LED déplié, puis l’exporter. Les objets qui franchissent les bords de l’écran renforcent l’illusion"
+},
+{
+"key": "part07.html#550",
+"fr": "<b>04</b><i>Correction sur site</i>Diffuser sur la vraie LED, filmer depuis le point idéal, puis corriger le décalage aux jointures et la luminosité · couleur"
+},
+{
+"key": "part07.html#551",
+"fr": "<b>Note</b>Anamorphose verticale – une cascade qui dévale l’angle d’un bâtiment. L’illusion ne tient qu’au point idéal, qui est aussi le spot photo et le point de départ de la diffusion en ligne"
+},
+{
+"key": "part07.html#552",
+"fr": "Les façades média en Corée"
+},
+{
+"key": "part07.html#553",
+"fr": "<small>Gwanghwamun · Cheonggyecheon</small>Seoul Light Gwanghwamun · Seoul Lantern Festival"
+},
+{
+"key": "part07.html#554",
+"fr": "Organisés autour de la place Gwanghwamun et du Cheonggyecheon dans le cadre du festival d’hiver Seoul Winter Festa"
+},
+{
+"key": "part07.html#555",
+"fr": "Grands spectacles de façade média sur la place, sculptures lumineuses, art numérique (media art) d’artistes retenus sur appel à projets"
+},
+{
+"key": "part07.html#556",
+"fr": "Sites patrimoniaux et place servent de scène : le contenu suit donc les lignes de l’architecture"
+}
+]

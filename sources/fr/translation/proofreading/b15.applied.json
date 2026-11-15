@@ -1,0 +1,56 @@
+[
+ {
+  "key": "part13.html#14",
+  "find": "Comparer avec le tableau position",
+  "replace": "Comparer avec le tableau : position",
+  "why": "other: missing colon before the list, reads as a table title"
+ },
+ {
+  "key": "part13.html#16",
+  "find": "trajet électrique",
+  "replace": "câblage électrique",
+  "why": "other: unidiomatic term for power routing"
+ },
+ {
+  "key": "part13.html#22",
+  "find": "empilait la boîte à recevoir pour",
+  "replace": "empilait cette boîte qui ne faisait que recevoir pour",
+  "why": "other: unidiomatic 'boîte à recevoir'"
+ },
+ {
+  "key": "part13.html#177",
+  "find": "(à août 2023)",
+  "replace": "(jusqu’en août 2023)",
+  "why": "grammar: wrong preposition"
+ },
+ {
+  "key": "part13.html#198",
+  "find": "Reliez des nœuds pour créer de l’image en temps réel. Relie capteurs",
+  "replace": "Relie des nœuds pour créer de l’image en temps réel. Réunit capteurs",
+  "why": "grammar: imperative mixed with descriptive 3rd person"
+ },
+ {
+  "key": "part13.html#496",
+  "find": "Qu’est-ce que l’art numérique",
+  "replace": "Ce qu’est l’art numérique",
+  "why": "grammar: direct question without question mark"
+ },
+ {
+  "key": "part13.html#507",
+  "find": "N’omettez ni la ligne",
+  "replace": "N’omettez pas la ligne",
+  "why": "grammar: single 'ni' without paired negation"
+ },
+ {
+  "key": "part13.html#511",
+  "find": "pièces plus fabriquées",
+  "replace": "pièces qui ne sont plus fabriquées",
+  "why": "grammar: ungrammatical ellipsis"
+ },
+ {
+  "key": "part14a.html#253",
+  "find": "Avancer d’1 image",
+  "replace": "Se déplacer d’une image",
+  "why": "meaning: arrow keys step both ways, not only forward"
+ }
+]

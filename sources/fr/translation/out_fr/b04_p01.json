@@ -1,0 +1,602 @@
+[
+{
+"key": "part06.html#284",
+"fr": "Cible"
+},
+{
+"key": "part06.html#285",
+"fr": "A, lycéenne de 2e année. Orientation encore indécise ; regarde plus de 90 min de vidéos courtes par jour"
+},
+{
+"key": "part06.html#286",
+"fr": "Message clé"
+},
+{
+"key": "part06.html#287",
+"fr": "Dans ce département, on manie la caméra toute la journée"
+},
+{
+"key": "part06.html#288",
+"fr": "Type de concept"
+},
+{
+"key": "part06.html#289",
+"fr": "À contre-pied des conventions. Ne montre que les mains des étudiants et le matériel, pas de panoramas du campus"
+},
+{
+"key": "part06.html#290",
+"fr": "Structure"
+},
+{
+"key": "part06.html#291",
+"fr": "0–3 s bruit d’obturateur et gros plan sur une main / 3–45 s une journée type en 8 plans / 45–60 s nom du département et modalités de candidature"
+},
+{
+"key": "part06.html#292",
+"fr": "Ton et style"
+},
+{
+"key": "part06.html#293",
+"fr": "Lumière naturelle, caméra portée, récit porté par les sous-titres, pensé pour un visionnage sans le son"
+},
+{
+"key": "part06.html#294",
+"fr": "Plan de production"
+},
+{
+"key": "part06.html#295",
+"fr": "1 jour de tournage, 2 étudiants actuels à l’image, 1 hybride et 1 stabilisateur, labo et campus"
+},
+{
+"key": "part06.html#296",
+"fr": "Plan de diffusion"
+},
+{
+"key": "part06.html#297",
+"fr": "Instagram Reels du département, YouTube Shorts, partage par le compte officiel de l’école. 12 hashtags"
+},
+{
+"key": "part06.html#298",
+"fr": "Risques"
+},
+{
+"key": "part06.html#299",
+"fr": "3 plans de secours en intérieur prévus en cas de pluie. Autorisations de droit à l’image recueillies à l’avance"
+},
+{
+"key": "part06.html#300",
+"fr": "<b>Exemples de sujets</b>"
+},
+{
+"key": "part06.html#301",
+"fr": "Comparatif des restaurants près de l’école, mode d’emploi de la navette gratuite, astuces pour vivre seul et trier ses déchets, comparatif de deux restaurants universitaires, vlog d’une journée d’étudiant, le matériel du département, promotion d’un club, visite des recoins cachés du campus."
+},
+{
+"key": "part06.html#302",
+"fr": "Les sujets issus de vrais cours ont un point commun : ce sont des choses que seuls les étudiants actuels connaissent. Ne partez pas de ce que personne ne sait, mais de ce que vous êtes seul à savoir."
+},
+{
+"key": "part06.html#303",
+"fr": "<small>Exercice</small>2.8"
+},
+{
+"key": "part06.html#304",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#305",
+"fr": "Rédigez une note d’intention de 5 pages pour un concours (problématique, insight, concept, storyboard, impact attendu)."
+},
+{
+"key": "part06.html#306",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#307",
+"fr": "Une phrase, en première page, doit résumer l’ensemble."
+},
+{
+"key": "part06.html#308",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#309",
+"fr": "Logique de l’enchaînement, efficacité des visuels"
+},
+{
+"key": "part06.html#310",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#311",
+"fr": "Étaye les insights par des données ou des extraits d’entretien."
+},
+{
+"key": "part06.html#312",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#313",
+"fr": "Rôles et travail d’équipe"
+},
+{
+"key": "part06.html#314",
+"fr": "Désignez un seul décideur. Si tout le monde réalise, personne ne réalise."
+},
+{
+"key": "part06.html#315",
+"fr": "<span class=\"ph-id\">P06-TEAM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Les rôles devant le moniteur – un seul décideur</b></span>"
+},
+{
+"key": "part06.html#316",
+"fr": "<b>Note</b>Les rôles devant le moniteur – un seul décideur"
+},
+{
+"key": "part06.html#317",
+"fr": "Rôle"
+},
+{
+"key": "part06.html#318",
+"fr": "Responsabilité"
+},
+{
+"key": "part06.html#319",
+"fr": "Le jour du tournage"
+},
+{
+"key": "part06.html#320",
+"fr": "Réalisateur"
+},
+{
+"key": "part06.html#321",
+"fr": "Décide quoi montrer et comment"
+},
+{
+"key": "part06.html#322",
+"fr": "Juge les prises, dirige les acteurs, valide"
+},
+{
+"key": "part06.html#323",
+"fr": "DP"
+},
+{
+"key": "part06.html#324",
+"fr": "Exécution technique de l’image"
+},
+{
+"key": "part06.html#325",
+"fr": "Réglages caméra, cadrage, exposition, mise au point"
+},
+{
+"key": "part06.html#326",
+"fr": "Chef électricien"
+},
+{
+"key": "part06.html#327",
+"fr": "Conçoit et met en œuvre la lumière"
+},
+{
+"key": "part06.html#328",
+"fr": "Placement des sources, dosage de la puissance, sécurité"
+},
+{
+"key": "part06.html#329",
+"fr": "Son"
+},
+{
+"key": "part06.html#330",
+"fr": "Enregistre le son du plateau"
+},
+{
+"key": "part06.html#331",
+"fr": "Gestion des micros, contrôle des niveaux, silence plateau"
+},
+{
+"key": "part06.html#332",
+"fr": "Producteur (PD)"
+},
+{
+"key": "part06.html#333",
+"fr": "Planning, budget, réservations, conduite de la journée"
+},
+{
+"key": "part06.html#334",
+"fr": "Respect des horaires, lien avec le lieu, sauvegarde des données"
+},
+{
+"key": "part06.html#335",
+"fr": "Scripte"
+},
+{
+"key": "part06.html#336",
+"fr": "Rapport de tournage"
+},
+{
+"key": "part06.html#337",
+"fr": "Note les prises de chaque plan et celles qui sont validées"
+},
+{
+"key": "part06.html#338",
+"fr": "Décor, accessoires"
+},
+{
+"key": "part06.html#339",
+"fr": "Objets dans le cadre"
+},
+{
+"key": "part06.html#340",
+"fr": "Habillage du décor, produit toujours prêt à tourner"
+},
+{
+"key": "part06.html#341",
+"fr": "Monteur"
+},
+{
+"key": "part06.html#342",
+"fr": "Façonne la postproduction"
+},
+{
+"key": "part06.html#343",
+"fr": "Observe sur le plateau ou vérifie les besoins du premier montage"
+},
+{
+"key": "part06.html#344",
+"fr": "Les rôles en petite équipe"
+},
+{
+"key": "part06.html#345",
+"fr": "<small>1 personne</small>30–40 s"
+},
+{
+"key": "part06.html#346",
+"fr": "Assure tous les rôles"
+},
+{
+"key": "part06.html#347",
+"fr": "Tout prévoir autour d’un trépied et de plans fixes"
+},
+{
+"key": "part06.html#348",
+"fr": "<small>2 personnes</small>40 s–1 min"
+},
+{
+"key": "part06.html#349",
+"fr": "Le réalisateur tient aussi la caméra"
+},
+{
+"key": "part06.html#350",
+"fr": "Le producteur assure aussi le son"
+},
+{
+"key": "part06.html#351",
+"fr": "<small>3 personnes</small>1 min–1 min 30 s"
+},
+{
+"key": "part06.html#352",
+"fr": "Réalisation / caméra"
+},
+{
+"key": "part06.html#353",
+"fr": "Le producteur assure aussi la lumière"
+},
+{
+"key": "part06.html#354",
+"fr": "<small>4 et plus</small>1 min 30 s–2 min"
+},
+{
+"key": "part06.html#355",
+"fr": "Réalisation / caméra / lumière / production, tous séparés"
+},
+{
+"key": "part06.html#356",
+"fr": "Sept règles du travail d’équipe"
+},
+{
+"key": "part06.html#357",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part06.html#358",
+"fr": "Donnez vos retours en visionnant, minutage précis à l’appui. « Dans l’ensemble, ce n’est pas encore ça » n’aide personne."
+},
+{
+"key": "part06.html#359",
+"fr": "<b>01</b><span>Désignez un seul décideur.</span>"
+},
+{
+"key": "part06.html#360",
+"fr": "<b>02</b><span>Faites tourner les rôles. Dans un projet étudiant, l’objectif d’apprentissage est d’avoir essayé chaque rôle une fois.</span>"
+},
+{
+"key": "part06.html#361",
+"fr": "<b>03</b><span>Fixez le nommage des fichiers dès le premier jour. Ordre imposé : date, scène, plan, version.</span>"
+},
+{
+"key": "part06.html#362",
+"fr": "<b>04</b><span>Créez à l’avance l’arborescence du dossier partagé. Après le tournage, il est trop tard.</span>"
+},
+{
+"key": "part06.html#363",
+"fr": "<b>05</b><span>Donnez vos retours en visionnant, minutage précis à l’appui.</span>"
+},
+{
+"key": "part06.html#364",
+"fr": "<b>06</b><span>Fixez l’échéance interne un jour avant la vraie.</span>"
+},
+{
+"key": "part06.html#365",
+"fr": "<b>07</b><span>Dites d’abord ce qui a bien marché. Une équipe dure grâce aux relations, pas aux compétences.</span>"
+},
+{
+"key": "part06.html#366",
+"fr": "<small>Exercice</small>2.9"
+},
+{
+"key": "part06.html#367",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#368",
+"fr": "Établissez un organigramme des rôles et des règles de communication (canaux, délais de réponse, règles de fichiers) pour une équipe de 5 personnes."
+},
+{
+"key": "part06.html#369",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#370",
+"fr": "Quand une personne cumule deux rôles, vérifiez où les horaires se chevauchent."
+},
+{
+"key": "part06.html#371",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#372",
+"fr": "Clarté des rôles, respect des règles de communication"
+},
+{
+"key": "part06.html#373",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#374",
+"fr": "Documente un bilan d’équipe après l’échéance."
+},
+{
+"key": "part06.html#375",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#376",
+"fr": "Participer à un concours et rédiger la note d’intention"
+},
+{
+"key": "part06.html#377",
+"fr": "Un concours permet de gagner à la fois une pièce de portfolio et un budget de production. Mais la plupart des dossiers qui ignorent le fonctionnement du jury sont écartés dès le 1er tour."
+},
+{
+"key": "part06.html#378",
+"fr": "<b>01</b><i>1er tour : dossier</i>Adéquation au thème et faisabilité – reprenez les mots exacts du règlement"
+},
+{
+"key": "part06.html#379",
+"fr": "<b>02</b><i>2e tour : projet</i>Originalité et précision – remettez un concept en une phrase et un storyboard"
+},
+{
+"key": "part06.html#380",
+"fr": "<b>03</b><i>3e tour : réalisation</i>Finition et respect des délais – ne manquez jamais un rapport d’étape"
+},
+{
+"key": "part06.html#381",
+"fr": "<b>04</b><i>Jugement final</i>Clarté du message et finition technique – adaptez les accents au jury"
+},
+{
+"key": "part06.html#382",
+"fr": "Les points communs des dossiers refusés"
+},
+{
+"key": "part06.html#383",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part06.html#384",
+"fr": "Des prix sont régulièrement retirés pour des questions de droits sur la musique ou les polices."
+},
+{
+"key": "part06.html#385",
+"fr": "Ils n’ont pas lu le règlement. Étonnamment, bien des notes d’intention n’emploient pas une seule fois le mot-clé du thème."
+},
+{
+"key": "part06.html#386",
+"fr": "Ils n’ont écrit que ce qu’ils avaient envie de faire. Un concours est un outil au service des objectifs de l’organisateur."
+},
+{
+"key": "part06.html#387",
+"fr": "Ce n’est pas faisable. Un plan de tournage trop ambitieux pour le budget et le calendrier perd des points d’emblée."
+},
+{
+"key": "part06.html#388",
+"fr": "Ce n’est pas original. Des centaines de dossiers arrivent sur le même thème. Vous devez pouvoir dire en une phrase ce qui distingue le vôtre."
+},
+{
+"key": "part06.html#389",
+"fr": "Ils n’ont pas vérifié les droits d’auteur."
+},
+{
+"key": "part06.html#390",
+"fr": "Fiche de synthèse en une page – dix rubriques"
+},
+{
+"key": "part06.html#391",
+"fr": "Titre / concept en une phrase / cible / message clé / structure (0–3 s, 3–45 s, 45–60 s) / 1 visuel clé / calendrier de production / budget / différence en une phrase / 1 indicateur d’impact. Si ces dix rubriques ne tiennent pas sur une page A4, le projet n’est pas encore au clair."
+},
+{
+"key": "part06.html#392",
+"fr": "<small>Exercice</small>2.10"
+},
+{
+"key": "part06.html#393",
+"fr": "Tâche"
+},
+{
+"key": "part06.html#394",
+"fr": "Choisissez un vrai concours et menez le formulaire et la note d’intention jusqu’à un niveau prêt à déposer."
+},
+{
+"key": "part06.html#395",
+"fr": "Conseil"
+},
+{
+"key": "part06.html#396",
+"fr": "Vérifiez d’abord les spécifications du règlement, les clauses de droits d’auteur et le format de dépôt."
+},
+{
+"key": "part06.html#397",
+"fr": "Évaluation"
+},
+{
+"key": "part06.html#398",
+"fr": "Conformité au règlement, force de conviction"
+},
+{
+"key": "part06.html#399",
+"fr": "Corrigé type"
+},
+{
+"key": "part06.html#400",
+"fr": "Transpose les critères du jury en sommaire de la note d’intention."
+},
+{
+"key": "part06.html#401",
+"fr": "<b>PARTIE 06</b>Conception et préproduction"
+},
+{
+"key": "part06.html#402",
+"fr": "Préparer et tourner une interview"
+},
+{
+"key": "part06.html#403",
+"fr": "L’interview est le format le plus souvent commandé, et elle révèle d’un coup vos bases en éclairage, prise de son, cadrage et montage."
+},
+{
+"key": "part06.html#404",
+"fr": "<span class=\"ph-id\">P06-INTERVIEW</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Interview à 2 caméras – lumière principale à hauteur d’yeux, intervieweur juste à côté de l’axe</b></span>"
+},
+{
+"key": "part06.html#405",
+"fr": "<b>Note</b>Interview à 2 caméras – lumière principale à hauteur d’yeux, intervieweur juste à côté de l’axe"
+},
+{
+"key": "part06.html#406",
+"fr": "Interview – deux caméras, un seul regard"
+},
+{
+"key": "part06.html#407",
+"fr": "Arrière-plan – profond, faible profondeur de champ"
+},
+{
+"key": "part06.html#408",
+"fr": "Interviewé"
+},
+{
+"key": "part06.html#409",
+"fr": "Principale"
+},
+{
+"key": "part06.html#410",
+"fr": "Caméra principale"
+},
+{
+"key": "part06.html#411",
+"fr": "Intervieweur"
+},
+{
+"key": "part06.html#412",
+"fr": "Caméra B (45°)"
+},
+{
+"key": "part06.html#413",
+"fr": "<b>Vue de dessus</b><span>Intervieweur tout contre l’objectif – le regard est presque frontal mais détendu, comme dans une conversation</span>"
+},
+{
+"key": "part06.html#414",
+"fr": "<b>Principale – regard à côté de la caméra</b><span>Laissez de l’espace (air du regard) dans la direction du regard</span>"
+},
+{
+"key": "part06.html#415",
+"fr": "<b>Caméra B – saisit les expressions</b><span>Gros plan à 45° de côté, une respiration pour le montage</span>"
+},
+{
+"key": "part06.html#416",
+"fr": "<b>Fig. 60</b> Dispositif d’interview standard et cadres obtenus. Fixer l’objectif crée une tension – asseyez l’intervieweur à côté de l’objectif."
+},
+{
+"key": "part06.html#417",
+"fr": "Préparation"
+},
+{
+"key": "part06.html#418",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part06.html#419",
+"fr": "Réservez deux fois le temps de tournage réellement nécessaire. Le trac met du temps à retomber."
+},
+{
+"key": "part06.html#420",
+"fr": "<b>01</b><span>Rédigez et transmettez les questions à l’avance, mais comme un cadre de conversation, pas comme un texte à lire.</span>"
+},
+{
+"key": "part06.html#421",
+"fr": "<b>02</b><span>Demandez à la personne de reprendre la question dans chaque réponse. Les questions sont coupées au montage.</span>"
+},
+{
+"key": "part06.html#422",
+"fr": "<b>03</b><span>Repérez le lieu à l’avance : calme, avec un arrière-plan profond et une fenêtre exploitable.</span>"
+},
+{
+"key": "part06.html#423",
+"fr": "<b>04</b><span>Conseillez la tenue en amont. Évitez la couleur du fond, les fines rayures et les gros logos.</span>"
+},
+{
+"key": "part06.html#424",
+"fr": "<b>05</b><span>Réservez deux fois le temps de tournage réellement nécessaire.</span>"
+},
+{
+"key": "part06.html#425",
+"fr": "Dispositif de tournage"
+},
+{
+"key": "part06.html#426",
+"fr": "Élément"
+},
+{
+"key": "part06.html#427",
+"fr": "Dispositif de base"
+},
+{
+"key": "part06.html#428",
+"fr": "Pourquoi"
+},
+{
+"key": "part06.html#429",
+"fr": "Caméra"
+},
+{
+"key": "part06.html#430",
+"fr": "2 caméras : principale en plan taille, B en gros plan"
+},
+{
+"key": "part06.html#431",
+"fr": "Évite les jump cuts au montage"
+},
+{
+"key": "part06.html#432",
+"fr": "Cadrage"
+},
+{
+"key": "part06.html#433",
+"fr": "Yeux sur un point fort de la règle des tiers, air du regard"
+}
+]

@@ -1,0 +1,662 @@
+[
+{
+"key": "part07.html#92",
+"fr": "Informations exactes et à jour"
+},
+{
+"key": "part07.html#93",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#94",
+"fr": "Convertit la fiche de spécifications en préréglages de montage, prêts à l’emploi."
+},
+{
+"key": "part07.html#95",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#96",
+"fr": "Horizontal et vertical"
+},
+{
+"key": "part07.html#97",
+"fr": "Non pas un autre média, mais une autre langue. Le vertical n’est pas de l’horizontal recadré. Les plans d’ensemble n’y survivent pas, et les sous-titres deviennent une part majeure de l’image."
+},
+{
+"key": "part07.html#98",
+"fr": "<span class=\"ph-id\">P07-VERT-SHOOT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Tournage vertical</b>Un créateur qui marche, téléphone à la verticale sur un stabilisateur, sujet centré sur l’axe vertical</span>"
+},
+{
+"key": "part07.html#99",
+"fr": "<b>Note</b>Tournez le vertical en vertical dès le départ – personnages proches, informations en haut et en bas"
+},
+{
+"key": "part07.html#100",
+"fr": "Grammaire de l’horizontal 16:9"
+},
+{
+"key": "part07.html#101",
+"fr": "Côtés larges, bons pour les relations et le décor"
+},
+{
+"key": "part07.html#102",
+"fr": "Plans d’ensemble et plans taille portent beaucoup d’information"
+},
+{
+"key": "part07.html#103",
+"fr": "Sous-titres en bas : peu de trajet pour l’œil"
+},
+{
+"key": "part07.html#104",
+"fr": "Convient au dialogue à deux, au paysage, à l’architecture"
+},
+{
+"key": "part07.html#105",
+"fr": "Par défaut pour la télévision, le cinéma, le format long sur YouTube"
+},
+{
+"key": "part07.html#106",
+"fr": "Grammaire du vertical 9:16"
+},
+{
+"key": "part07.html#107",
+"fr": "Le cadre haut convient aux plans en pied et aux gros plans"
+},
+{
+"key": "part07.html#108",
+"fr": "Les plans d’ensemble deviennent illisibles ; rarement utilisés"
+},
+{
+"key": "part07.html#109",
+"fr": "Sujet sur l’axe vertical central"
+},
+{
+"key": "part07.html#110",
+"fr": "Les sous-titres deviennent une part majeure de l’image"
+},
+{
+"key": "part07.html#111",
+"fr": "Par défaut pour la vidéo courte, les stories, le live shopping"
+},
+{
+"key": "part07.html#112",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part07.html#113",
+"fr": "Le plus sûr est de tourner la même scène deux fois, à l’horizontale et à la verticale. C’est deux fois plus long, mais le résultat est le meilleur."
+},
+{
+"key": "part07.html#114",
+"fr": "Tirer une version verticale d’images horizontales"
+},
+{
+"key": "part07.html#115",
+"fr": "<b>01</b><span>Tournez en 4K ou plus. Un recadrage vertical tiré d’un Full HD horizontal manque de résolution.</span>"
+},
+{
+"key": "part07.html#116",
+"fr": "<b>02</b><span>Affichez un repère 9:16 dans le viseur et gardez le sujet principal au centre.</span>"
+},
+{
+"key": "part07.html#117",
+"fr": "<b>03</b><span>Les compositions étalées de gauche à droite ne survivent pas à la verticale. Si une version verticale est prévue, changez la composition dès le tournage.</span>"
+},
+{
+"key": "part07.html#118",
+"fr": "<b>04</b><span>Placez les sous-titres séparément pour les versions horizontale et verticale. Reprenez les positions telles quelles, et l’UI les recouvrira.</span>"
+},
+{
+"key": "part07.html#119",
+"fr": "<b>05</b><span>Tourner la même scène deux fois, à l’horizontale et à la verticale, reste le plus sûr.</span>"
+},
+{
+"key": "part07.html#120",
+"fr": "<small>Exercice</small>6.2"
+},
+{
+"key": "part07.html#121",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#122",
+"fr": "Tournez et montez la même scène à l’horizontale et à la verticale."
+},
+{
+"key": "part07.html#123",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#124",
+"fr": "À la verticale, gardez les personnages proches et empilez l’information en haut et en bas."
+},
+{
+"key": "part07.html#125",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#126",
+"fr": "Recomposition pour chaque format"
+},
+{
+"key": "part07.html#127",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#128",
+"fr": "Transmet la même émotion différemment dans chaque format."
+},
+{
+"key": "part07.html#129",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#130",
+"fr": "Zones de sécurité et UI des plateformes"
+},
+{
+"key": "part07.html#131",
+"fr": "Tout ce qui est dans le cadre n’est pas vu. La télévision rogne les bords, et sur la vidéo courte l’UI du lecteur couvre le haut et le bas. Des sous-titres conçus sans connaître la zone de sécurité seront recouverts."
+},
+{
+"key": "part07.html#132",
+"fr": "<b>Fig. 64</b> Zones de sécurité sur un écran de vidéo courte"
+},
+{
+"key": "part07.html#133",
+"fr": "Support"
+},
+{
+"key": "part07.html#134",
+"fr": "Zone couverte"
+},
+{
+"key": "part07.html#135",
+"fr": "Placement sûr"
+},
+{
+"key": "part07.html#136",
+"fr": "Télédiffusion"
+},
+{
+"key": "part07.html#137",
+"fr": "Env. 5 % de chaque côté"
+},
+{
+"key": "part07.html#138",
+"fr": "Zone de sécurité de l’action 93 %, des titres 90 %"
+},
+{
+"key": "part07.html#139",
+"fr": "YouTube Shorts"
+},
+{
+"key": "part07.html#140",
+"fr": "Haut env. 10 %, bas env. 20 %"
+},
+{
+"key": "part07.html#141",
+"fr": "Sous-titres centrés au tiers inférieur"
+},
+{
+"key": "part07.html#142",
+"fr": "Instagram Reels"
+},
+{
+"key": "part07.html#143",
+"fr": "Haut env. 12 %, bas env. 25 %"
+},
+{
+"key": "part07.html#144",
+"fr": "Légende et nom du compte occupent le bas à gauche"
+},
+{
+"key": "part07.html#145",
+"fr": "TikTok"
+},
+{
+"key": "part07.html#146",
+"fr": "Droite env. 15 %, bas env. 20 %"
+},
+{
+"key": "part07.html#147",
+"fr": "Aligner à gauche, à l’écart de la colonne d’icônes de droite"
+},
+{
+"key": "part07.html#148",
+"fr": "Stories Instagram"
+},
+{
+"key": "part07.html#149",
+"fr": "Profil en haut, actions en bas"
+},
+{
+"key": "part07.html#150",
+"fr": "Seuls les 70 % centraux sont sûrs"
+},
+{
+"key": "part07.html#151",
+"fr": "LED extérieur"
+},
+{
+"key": "part07.html#152",
+"fr": "Selon le site"
+},
+{
+"key": "part07.html#153",
+"fr": "Suivre la marge de sécurité des spéc. du site"
+},
+{
+"key": "part07.html#154",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part07.html#155",
+"fr": "Ajoutez à votre check-list de livraison un contrôle sur téléphone après la mise en ligne."
+},
+{
+"key": "part07.html#156",
+"fr": "Le contrôle le plus sûr"
+},
+{
+"key": "part07.html#157",
+"fr": "Mettez le montage terminé en ligne, en privé, sur la plateforme réelle. L’écran réel est plus fiable que n’importe quel gabarit de votre logiciel de montage."
+},
+{
+"key": "part07.html#158",
+"fr": "<small>Exercice</small>6.3"
+},
+{
+"key": "part07.html#159",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#160",
+"fr": "Créez un gabarit de zone de sécurité superposant les UI de Reels · Shorts · TikTok et testez le placement des sous-titres."
+},
+{
+"key": "part07.html#161",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#162",
+"fr": "Lisez la vidéo sur un vrai téléphone et vérifiez ce qui est recouvert."
+},
+{
+"key": "part07.html#163",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#164",
+"fr": "Respect de la zone de sécurité, lisibilité"
+},
+{
+"key": "part07.html#165",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#166",
+"fr": "Construit un modèle unique de la zone de sécurité commune aux trois plateformes."
+},
+{
+"key": "part07.html#167",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#168",
+"fr": "Le CinemaScope 21:9 en pratique"
+},
+{
+"key": "part07.html#169",
+"fr": "Sur un écran large, le vide raconte l’histoire. Mais la faible hauteur dessert les sous-titres et la réutilisation en vidéo courte."
+},
+{
+"key": "part07.html#170",
+"fr": "<span class=\"ph-id\">P07-SCOPE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>CinemaScope</b>Un horizon déployé sur un écran 2,39:1, des fauteuils vides au premier plan</span>"
+},
+{
+"key": "part07.html#171",
+"fr": "<b>Note</b>21:9 – la longueur horizontale devient un matériau de mise en scène"
+},
+{
+"key": "part07.html#172",
+"fr": "<small>Tournage</small>4K 16:9 + repère 2,39:1"
+},
+{
+"key": "part07.html#173",
+"fr": "Afficher un repère 2,39:1 dans le viseur"
+},
+{
+"key": "part07.html#174",
+"fr": "Garder perche et projecteurs hors des zones rognées en haut et en bas"
+},
+{
+"key": "part07.html#175",
+"fr": "<small>Montage</small>Séquence 3840 × 1608"
+},
+{
+"key": "part07.html#176",
+"fr": "Pour la qualité, mieux vaut exporter à la résolution réduite réelle qu’ajouter des bandes noires"
+},
+{
+"key": "part07.html#177",
+"fr": "<small>Sous-titres</small>Fixés sur la ligne des 8 % du bas"
+},
+{
+"key": "part07.html#178",
+"fr": "La faible hauteur limite la position des sous-titres"
+},
+{
+"key": "part07.html#179",
+"fr": "Prévoir les marges à l’avance"
+},
+{
+"key": "part07.html#180",
+"fr": "<small>Choix anamorphique</small>Optique ou recadrage"
+},
+{
+"key": "part07.html#181",
+"fr": "Décider d’abord"
+},
+{
+"key": "part07.html#182",
+"fr": "L’anamorphique apporte un bokeh ovale et des flares horizontaux"
+},
+{
+"key": "part07.html#183",
+"fr": "Sujets qui conviennent au 21:9"
+},
+{
+"key": "part07.html#184",
+"fr": "Voitures, voyage, espaces, architecture"
+},
+{
+"key": "part07.html#185",
+"fr": "Silhouettes sur fond de paysage"
+},
+{
+"key": "part07.html#186",
+"fr": "Travellings lents"
+},
+{
+"key": "part07.html#187",
+"fr": "Campagnes de marques haut de gamme"
+},
+{
+"key": "part07.html#188",
+"fr": "Sujets à éviter en 21:9"
+},
+{
+"key": "part07.html#189",
+"fr": "Produits hauts (cosmétiques, bouteilles de boisson)"
+},
+{
+"key": "part07.html#190",
+"fr": "Publicités en gros plan misant sur l’expression"
+},
+{
+"key": "part07.html#191",
+"fr": "Projets destinés à être réutilisés en vidéo courte"
+},
+{
+"key": "part07.html#192",
+"fr": "Publicités chargées en texte"
+},
+{
+"key": "part07.html#193",
+"fr": "<small>Exercice</small>6.4"
+},
+{
+"key": "part07.html#194",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#195",
+"fr": "Tournez en 21:9 une scène réunissant paysage et personnage."
+},
+{
+"key": "part07.html#196",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#197",
+"fr": "Sur un écran large, le vide raconte l’histoire. Essayez de placer le personnage sur un côté."
+},
+{
+"key": "part07.html#198",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#199",
+"fr": "Usage de la largeur, placement du personnage"
+},
+{
+"key": "part07.html#200",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#201",
+"fr": "Place deux personnes aux extrémités opposées du cadre et fait de la distance une émotion."
+},
+{
+"key": "part07.html#202",
+"fr": "Contexte 12"
+},
+{
+"key": "part07.html#203",
+"fr": "Comment naît l’immersion"
+},
+{
+"key": "part07.html#204",
+"fr": "Avant de travailler sur du contenu immersif, il faut préciser ce que signifie, pour un spectateur, se sentir « dedans ». L’immersion est affaire de conditions, non de qualité d’image."
+},
+{
+"key": "part07.html#205",
+"fr": "L’histoire des technologies immersives commence par des tentatives d’agrandir l’écran. Dans les années 1950, le Cinérama remplissait un écran courbe à l’aide de trois projecteurs pour couvrir jusqu’à la vision périphérique ; suivirent le CinemaScope et la pellicule 70 mm. En 1962, le Sensorama de Heilig ajoutait vibrations, vent et même odeurs, et le visiocasque de Sutherland, en 1968, était si lourd qu’il fallait le suspendre au plafond, d’où son surnom d’« épée de Damoclès ». Le but était toujours le même : attirer la vision et les sens du spectateur aussi près de l’écran que possible."
+},
+{
+"key": "part07.html#206",
+"fr": "Les chercheurs distinguent dans cette expérience deux notions. L’immersion est la condition objective fournie par le matériel et le contenu : champ de vision, vitesse de réponse aux mouvements de la tête, directivité du son. La présence est l’état subjectif réellement éprouvé par l’utilisateur, le sentiment d’« être là ». À matériel égal, la présence varie fortement selon la conception du contenu. Voilà pourquoi un casque coûteux peut malgré tout offrir une expérience plate."
+},
+{
+"key": "part07.html#207",
+"fr": "Ce qui brise le plus souvent la présence, ce sont la latence et la discordance. Quand l’image est en retard sur une rotation de la tête, le cerveau détecte un écart entre le mouvement vu par les yeux et celui que ressent le système vestibulaire. C’est la cause principale de la cybercinétose, le mal de la réalité virtuelle. Aussi la production VR maintient-elle des cadences d’images élevées, évite-t-elle les mouvements de caméra que l’utilisateur n’a pas faits, et recourt-elle à des parades comme le vignettage, qui masque les bords du champ. La stabilité passe avant la qualité d’image."
+},
+{
+"key": "part07.html#208",
+"fr": "Les prémisses de la mise en scène changent aussi. En vidéo 360° et en VR, le spectateur peut regarder partout : le réalisateur ne dispose que de moyens pour guider, non pour contraindre. La direction d’où vient un son, les écarts de luminosité, le regard et les déplacements d’un personnage, l’agencement de l’espace font tourner la tête du spectateur. Pour qu’il ne manque pas un événement clé, semez des indices avant qu’il ne se produise."
+},
+{
+"key": "part07.html#209",
+"fr": "En AR et en mapping vidéo, l’image se pose sur l’espace réel : la lumière ambiante, les matériaux des surfaces et la place du public décident du résultat. Un mur sombre dans une galerie et une façade d’immeuble en plein midi sont des supports entièrement différents. La qualité d’un contenu immersif ne se décide pas dans le fichier final, mais dans le lieu où il sera montré."
+},
+{
+"key": "part07.html#210",
+"fr": "Pour aller plus loin – Mel Slater, « A Note on Presence Terminology » · Jaron Lanier, Dawn of the New Everything · Jason Jerald, The VR Book"
+},
+{
+"key": "part07.html#211",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#212",
+"fr": "Concevoir la vidéo 360° et la VR"
+},
+{
+"key": "part07.html#213",
+"fr": "Là où le cadrage disparaît, le guidage par la lumière et le son prend le relais. Donnez toujours au spectateur une raison de se retourner."
+},
+{
+"key": "part07.html#214",
+"fr": "La vidéo 360° assemble deux images fisheye et les déroule en une seule carte"
+},
+{
+"key": "part07.html#215",
+"fr": "<b><i>1</i>Deux objectifs fisheye</b><span>Deux images rondes de 180° chacune, avant et arrière</span>"
+},
+{
+"key": "part07.html#216",
+"fr": "<b><i>2</i>Assemblées en une seule – équirectangulaire 2:1</b><span>Comme un globe déroulé en planisphère, le haut et le bas s’étirent</span>"
+},
+{
+"key": "part07.html#217",
+"fr": "<b><i>3</i>La fenêtre du spectateur</b><span>Un casque · un téléphone n’affiche qu’env. 90° de cette carte – cadre rouge</span>"
+},
+{
+"key": "part07.html#218",
+"fr": "<b>Le 360° ne conçoit donc pas un « cadre », mais des « façons d’appeler le regard »</b><span>Son – un son venu de derrière</span><span>Lumière – on regarde vers le côté clair</span><span>Mouvement – on suit ce qui bouge</span><span>Regard – on regarde là où ils regardent</span><span>Lignes · chemins – on suit le tracé</span>"
+},
+{
+"key": "part07.html#219",
+"fr": "<b>Fig. 65</b> La structure de la vidéo 360° – deux images fisheye sont assemblées en une seule carte (équirectangulaire), dont le spectateur ne voit qu’une partie à travers une fenêtre."
+},
+{
+"key": "part07.html#220",
+"fr": "<b>Photos de référence 6.5A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part07.html#221",
+"fr": "<b>a</b>Rig de caméra 360°"
+},
+{
+"key": "part07.html#222",
+"fr": "<b>b</b>Image équirectangulaire brute"
+},
+{
+"key": "part07.html#223",
+"fr": "<b>c</b>Visionnage au casque VR"
+},
+{
+"key": "part07.html#224",
+"fr": "<b>d</b>Une visite de musée en MR – restitutions virtuelles et notes se superposent aux pièces exposées"
+},
+{
+"key": "part07.html#225",
+"fr": "<b>NOTE</b>"
+},
+{
+"key": "part07.html#226",
+"fr": "Pour les modèles de storyboard destinés aux médias immersifs (360° · écran courbe · façade · AR/VR/MR/XR), voir le Dossier storyboard de la PARTIE 06."
+},
+{
+"key": "part07.html#227",
+"fr": "Ce qui disparaît"
+},
+{
+"key": "part07.html#228",
+"fr": "La notion de cadrage et de valeur de plan"
+},
+{
+"key": "part07.html#229",
+"fr": "Le libre rythme du montage"
+},
+{
+"key": "part07.html#230",
+"fr": "Les mouvements de caméra (ils rendent malade)"
+},
+{
+"key": "part07.html#231",
+"fr": "L’équipe et les projecteurs cachés hors champ"
+},
+{
+"key": "part07.html#232",
+"fr": "Le regard imposé par la composition"
+},
+{
+"key": "part07.html#233",
+"fr": "Ce qui devient nécessaire"
+},
+{
+"key": "part07.html#234",
+"fr": "Guidage du regard par la lumière et le son"
+},
+{
+"key": "part07.html#235",
+"fr": "Direction définie par le spectateur (face à 0 degré)"
+},
+{
+"key": "part07.html#236",
+"fr": "Gestion du point nodal et des lignes de couture"
+},
+{
+"key": "part07.html#237",
+"fr": "Conception du son spatialisé (ambisonique)"
+},
+{
+"key": "part07.html#238",
+"fr": "Durée de l’expérience (1–3 minutes, et non 15 secondes)"
+},
+{
+"key": "part07.html#239",
+"fr": "Élément"
+},
+{
+"key": "part07.html#240",
+"fr": "Vidéo classique"
+},
+{
+"key": "part07.html#241",
+"fr": "Vidéo 360°"
+},
+{
+"key": "part07.html#242",
+"fr": "Unité de mise en scène"
+},
+{
+"key": "part07.html#243",
+"fr": "Plan"
+},
+{
+"key": "part07.html#244",
+"fr": "Scène et durée"
+},
+{
+"key": "part07.html#245",
+"fr": "Maîtrise du regard"
+},
+{
+"key": "part07.html#246",
+"fr": "Cadrage"
+},
+{
+"key": "part07.html#247",
+"fr": "Signaux lumineux et sonores"
+},
+{
+"key": "part07.html#248",
+"fr": "Position de la caméra"
+},
+{
+"key": "part07.html#249",
+"fr": "Libre"
+},
+{
+"key": "part07.html#250",
+"fr": "À hauteur d’yeux, 1,5–1,6 m, fixe"
+},
+{
+"key": "part07.html#251",
+"fr": "Équipe"
+},
+{
+"key": "part07.html#252",
+"fr": "Hors champ"
+},
+{
+"key": "part07.html#253",
+"fr": "Nulle part où se cacher ; pilotage à distance"
+},
+{
+"key": "part07.html#254",
+"fr": "Montage"
+},
+{
+"key": "part07.html#255",
+"fr": "Coupes fréquentes"
+},
+{
+"key": "part07.html#256",
+"fr": "Plans longs, transitions en fondu"
+}
+]

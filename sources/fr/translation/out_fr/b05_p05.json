@@ -1,0 +1,602 @@
+[
+{
+"key": "part04.html#92",
+"fr": "<b>Fig. 39</b> Éclairage trois points – plan et installation réelle. Résultats : Photos de référence 4.2A ci-dessous (principale seule → principale+appoint → principale+appoint+contre-jour → contre-jour seul)."
+},
+{
+"key": "part04.html#93",
+"fr": "<b>Photos de référence 4.2A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part04.html#94",
+"fr": "<b>a</b>Lumière principale seule"
+},
+{
+"key": "part04.html#95",
+"fr": "<b>b</b>Principale + appoint"
+},
+{
+"key": "part04.html#96",
+"fr": "<b>c</b>Principale + appoint + contre-jour"
+},
+{
+"key": "part04.html#97",
+"fr": "<b>d</b>Contre-jour seul – il reste le contour, une silhouette"
+},
+{
+"key": "part04.html#98",
+"fr": "<small>Source principale</small>Lumière principale (key)"
+},
+{
+"key": "part04.html#99",
+"fr": "La lumière la plus importante ; fixe le volume et l’ombre"
+},
+{
+"key": "part04.html#100",
+"fr": "Départ : 45° à gauche ou à droite de la caméra, 45° en hauteur"
+},
+{
+"key": "part04.html#101",
+"fr": "<small>Source d’appoint</small>Lumière d’appoint (fill)"
+},
+{
+"key": "part04.html#102",
+"fr": "Règle la densité des ombres de la principale"
+},
+{
+"key": "part04.html#103",
+"fr": "Toujours plus faible que la principale – sans ombres, plus de relief"
+},
+{
+"key": "part04.html#104",
+"fr": "<small>Source arrière</small>Contre-jour"
+},
+{
+"key": "part04.html#105",
+"fr": "Cerne le sujet pour le détacher du fond"
+},
+{
+"key": "part04.html#106",
+"fr": "Aussi appelé décrochage · lumière de cheveux"
+},
+{
+"key": "part04.html#107",
+"fr": "<small>Quatrième source</small>Lumière de fond"
+},
+{
+"key": "part04.html#108",
+"fr": "Éclaire le fond à part pour la profondeur"
+},
+{
+"key": "part04.html#109",
+"fr": "L’éclairage trois points, étendu"
+},
+{
+"key": "part04.html#110",
+"fr": "<small>Reflet dans l’œil</small>Lumière des yeux"
+},
+{
+"key": "part04.html#111",
+"fr": "Des yeux sans reflet paraissent éteints"
+},
+{
+"key": "part04.html#112",
+"fr": "Un réflecteur suffit à y remédier"
+},
+{
+"key": "part04.html#113",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part04.html#114",
+"fr": "L’appoint n’a pas besoin d’être un projecteur à part. Un réflecteur blanc suffit souvent."
+},
+{
+"key": "part04.html#115",
+"fr": "Réflecteurs et lumière réfléchie – déboucher sans projecteur"
+},
+{
+"key": "part04.html#116",
+"fr": "<b>01</b><span>La couleur de la surface fait le caractère de la lumière. Le blanc donne un appoint doux et naturel ; l’argent, un appoint vif et dur ; l’or, une lumière chaude de couchant ; le noir est un appoint négatif, qui retire de la lumière.</span>"
+},
+{
+"key": "part04.html#117",
+"fr": "<b>02</b><span>La distance règle la douceur. Plus le réflecteur est près du sujet, plus la source est grande et plus le bord de l’ombre est doux.</span>"
+},
+{
+"key": "part04.html#118",
+"fr": "<b>03</b><span>L’appoint négatif soustrait de la lumière au lieu d’en ajouter. Un panneau noir du côté de l’ombre redonne du contraste et affine le visage.</span>"
+},
+{
+"key": "part04.html#119",
+"fr": "<b>04</b><span>Vérifiez les reflets dans les yeux. Inclinez le réflecteur vers le haut, sous le niveau des yeux, et un petit point lumineux apparaît dans les pupilles.</span>"
+},
+{
+"key": "part04.html#120",
+"fr": "<b>05</b><span>Corrigez le contre-jour en extérieur. Placez le soleil derrière le sujet et débouchez le visage au réflecteur : vous obtenez à la fois un liseré sur les cheveux et un visage bien exposé.</span>"
+},
+{
+"key": "part04.html#121",
+"fr": "<b>06</b><span>À deux, placez le réflecteur au milieu. Dans une interview en face à face, un panneau blanc au centre, à l’opposé de la principale, débouche les deux visages à la fois.</span>"
+},
+{
+"key": "part04.html#122",
+"fr": "<b>Photos de référence 4.2C</b>Images générées – réflecteurs et appoint négatif"
+},
+{
+"key": "part04.html#123",
+"fr": "<span class=\"ph-id\">P04-BOUNCE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Réflecteur – la lumière d’appoint la moins chère</b>Un machiniste débouche le visage d’un acteur avec un panneau blanc, au soleil de l’après-midi</span>"
+},
+{
+"key": "part04.html#124",
+"fr": "<b>a</b>Réflecteur – la lumière d’appoint la moins chère"
+},
+{
+"key": "part04.html#125",
+"fr": "<span class=\"ph-id\">P04-NEGFILL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Appoint négatif</b>Un drapeau noir sur C-stand creuse le côté ombre</span>"
+},
+{
+"key": "part04.html#126",
+"fr": "<b>b</b>Appoint négatif – du contraste en retirant de la lumière"
+},
+{
+"key": "part04.html#127",
+"fr": "Rapport d’éclairage – luminosité principale/appoint"
+},
+{
+"key": "part04.html#128",
+"fr": "<b>2<em>:1</em></b>Pubs claires et simples"
+},
+{
+"key": "part04.html#129",
+"fr": "<b>4<em>:1</em></b>Fiction standard"
+},
+{
+"key": "part04.html#130",
+"fr": "<b>8<em>:1 ou plus</em></b>Ambiance dramatique, lourde"
+},
+{
+"key": "part04.html#131",
+"fr": "<b>G-11</b> L’éclairage trois points sur le plateau – principale · appoint · contre-jour et caméra"
+},
+{
+"key": "part04.html#132",
+"fr": "<small>Exercice</small>4.2"
+},
+{
+"key": "part04.html#133",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#134",
+"fr": "Tournez 3 étapes dans l’ordre, principale → principale+appoint → principale+appoint+contre-jour, et montrez la différence."
+},
+{
+"key": "part04.html#135",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#136",
+"fr": "Commencez avec un appoint à la moitié de la luminosité de la principale, ou moins. Notez le rapport."
+},
+{
+"key": "part04.html#137",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#138",
+"fr": "Rapport noté, détachement par le contre-jour"
+},
+{
+"key": "part04.html#139",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#140",
+"fr": "Obtient high key et low key avec la même installation en ne changeant que l’appoint."
+},
+{
+"key": "part04.html#141",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#142",
+"fr": "La lumière principale en bref"
+},
+{
+"key": "part04.html#143",
+"fr": "Six règles pour quand le temps manque. Essayez de finir l’image avec la seule lumière principale. Si elle n’est pas belle maintenant, ajouter de la lumière ne l’arrangera pas."
+},
+{
+"key": "part04.html#144",
+"fr": "La place de la lumière principale décide de la lecture du visage"
+},
+{
+"key": "part04.html#145",
+"fr": "<b>PLAT</b>"
+},
+{
+"key": "part04.html#146",
+"fr": "Près de la caméra · hauteur des yeux"
+},
+{
+"key": "part04.html#147",
+"fr": "<span>Sans ombre – clair et plat, JT · beauté</span>"
+},
+{
+"key": "part04.html#148",
+"fr": "<b>LOOP</b>"
+},
+{
+"key": "part04.html#149",
+"fr": "35° · un peu au-dessus"
+},
+{
+"key": "part04.html#150",
+"fr": "<span>Petite ombre en boucle près du nez – le plus sûr</span>"
+},
+{
+"key": "part04.html#151",
+"fr": "<b>REMBRANDT</b>"
+},
+{
+"key": "part04.html#152",
+"fr": "45° · 45° en hauteur"
+},
+{
+"key": "part04.html#153",
+"fr": "<span>Triangle de lumière sur la joue – relief, drame</span>"
+},
+{
+"key": "part04.html#154",
+"fr": "<b>SPLIT</b>"
+},
+{
+"key": "part04.html#155",
+"fr": "90° · hauteur des yeux"
+},
+{
+"key": "part04.html#156",
+"fr": "<span>Visage coupé en deux – conflit, dualité</span>"
+},
+{
+"key": "part04.html#157",
+"fr": "<b>PAPILLON</b>"
+},
+{
+"key": "part04.html#158",
+"fr": "De face · très haut"
+},
+{
+"key": "part04.html#159",
+"fr": "<span>Ombre en papillon sous le nez – pommettes, glamour</span>"
+},
+{
+"key": "part04.html#160",
+"fr": "<b>DÉCROCHAGE</b>"
+},
+{
+"key": "part04.html#161",
+"fr": "Derrière · au-dessus"
+},
+{
+"key": "part04.html#162",
+"fr": "<span>Le contour seul – silhouette, mystère</span>"
+},
+{
+"key": "part04.html#163",
+"fr": "<b>Fig. 40</b> 6 schémas d’éclairage de portrait selon la position de la lumière principale – seul ce projecteur bouge. Sur les plans ci-dessous, le point rouge est la lumière principale, le carré gris la caméra."
+},
+{
+"key": "part04.html#164",
+"fr": "<b>01</b><span>Placez d’abord la lumière principale. Éteignez toutes les autres et essayez de finir l’image avec elle seule.</span>"
+},
+{
+"key": "part04.html#165",
+"fr": "<b>02</b><span>Partez de 45° et 45°. Le repère est le point où l’ombre du nez dessine un petit triangle sur la joue opposée.</span>"
+},
+{
+"key": "part04.html#166",
+"fr": "<b>03</b><span>Gardez une source grande et proche. Agrandissez-la avec une boîte à lumière ou un diffuseur et approchez-la du sujet autant que possible.</span>"
+},
+{
+"key": "part04.html#167",
+"fr": "<b>04</b><span>N’effacez pas les ombres. La lumière d’appoint sert à régler le relief, non à gommer l’ombre.</span>"
+},
+{
+"key": "part04.html#168",
+"fr": "<b>05</b><span>Détachez avec un contre-jour. Si sujet et fond se confondent, ajoutez-en un en hauteur, à l’opposé de la principale.</span>"
+},
+{
+"key": "part04.html#169",
+"fr": "<b>06</b><span>Mettez de la lumière dans les yeux. C’est le point le plus souvent oublié dans les pubs avec des personnes, et un réflecteur suffit à y remédier.</span>"
+},
+{
+"key": "part04.html#170",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part04.html#171",
+"fr": "Le Rembrandt, à 45° de côté et en hauteur, est le réglage par défaut pour les personnes. Les autres schémas déplacent la source à partir de ce point."
+},
+{
+"key": "part04.html#172",
+"fr": "Le visage selon l’angle de la lumière principale"
+},
+{
+"key": "part04.html#173",
+"fr": "Angle"
+},
+{
+"key": "part04.html#174",
+"fr": "Nom"
+},
+{
+"key": "part04.html#175",
+"fr": "Forme de l’ombre"
+},
+{
+"key": "part04.html#176",
+"fr": "Impression"
+},
+{
+"key": "part04.html#177",
+"fr": "Usage"
+},
+{
+"key": "part04.html#178",
+"fr": "Face 0°"
+},
+{
+"key": "part04.html#179",
+"fr": "Éclairage plat"
+},
+{
+"key": "part04.html#180",
+"fr": "Presque aucune ombre"
+},
+{
+"key": "part04.html#181",
+"fr": "Plat, juvénile, clair"
+},
+{
+"key": "part04.html#182",
+"fr": "Pubs beauté, comédie"
+},
+{
+"key": "part04.html#183",
+"fr": "45° côté, en hauteur"
+},
+{
+"key": "part04.html#184",
+"fr": "Rembrandt"
+},
+{
+"key": "part04.html#185",
+"fr": "Triangle sur la joue opposée"
+},
+{
+"key": "part04.html#186",
+"fr": "Classique, profond"
+},
+{
+"key": "part04.html#187",
+"fr": "Portrait par défaut"
+},
+{
+"key": "part04.html#188",
+"fr": "90° de côté"
+},
+{
+"key": "part04.html#189",
+"fr": "Split"
+},
+{
+"key": "part04.html#190",
+"fr": "Moitié du visage dans l’ombre"
+},
+{
+"key": "part04.html#191",
+"fr": "Dualité, conflit"
+},
+{
+"key": "part04.html#192",
+"fr": "Plans dramatiques"
+},
+{
+"key": "part04.html#193",
+"fr": "Dessus, centré"
+},
+{
+"key": "part04.html#194",
+"fr": "Papillon"
+},
+{
+"key": "part04.html#195",
+"fr": "Papillon sous le nez"
+},
+{
+"key": "part04.html#196",
+"fr": "Glamour, commercial"
+},
+{
+"key": "part04.html#197",
+"fr": "Mode, beauté"
+},
+{
+"key": "part04.html#198",
+"fr": "Arrière 135°"
+},
+{
+"key": "part04.html#199",
+"fr": "Décrochage"
+},
+{
+"key": "part04.html#200",
+"fr": "Seuls les bords éclairés"
+},
+{
+"key": "part04.html#201",
+"fr": "Mystère, silhouette"
+},
+{
+"key": "part04.html#202",
+"fr": "Teasers, ouvertures"
+},
+{
+"key": "part04.html#203",
+"fr": "Dessous"
+},
+{
+"key": "part04.html#204",
+"fr": "Éclairage par-dessous"
+},
+{
+"key": "part04.html#205",
+"fr": "Ombres vers le haut"
+},
+{
+"key": "part04.html#206",
+"fr": "Inquiétant, menaçant"
+},
+{
+"key": "part04.html#207",
+"fr": "Horreur, retournements"
+},
+{
+"key": "part04.html#208",
+"fr": "45°, plus bas"
+},
+{
+"key": "part04.html#209",
+"fr": "Loop"
+},
+{
+"key": "part04.html#210",
+"fr": "Ombre du nez en boucle"
+},
+{
+"key": "part04.html#211",
+"fr": "Doux, naturel"
+},
+{
+"key": "part04.html#212",
+"fr": "Interviews"
+},
+{
+"key": "part04.html#213",
+"fr": "<small>Exercice</small>4.3"
+},
+{
+"key": "part04.html#214",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#215",
+"fr": "Faites un exercice « d’urgence » : sans matériel d’éclairage, trouvez une lumière principale en 10 minutes et tournez un portrait."
+},
+{
+"key": "part04.html#216",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#217",
+"fr": "Cherchez d’abord les fenêtres, les écrans et le rebond sur un mur blanc."
+},
+{
+"key": "part04.html#218",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#219",
+"fr": "Jugement dans le temps imparti, exposition stable du visage"
+},
+{
+"key": "part04.html#220",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#221",
+"fr": "Cartographie les sources de lumière alentour et justifie le choix."
+},
+{
+"key": "part04.html#222",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#223",
+"fr": "High key et low key"
+},
+{
+"key": "part04.html#224",
+"fr": "Le low key ne consiste pas à tourner sombre. Il s’agit d’exposer précisément les zones claires et de faire glisser le reste dans l’ombre, sous contrôle."
+},
+{
+"key": "part04.html#225",
+"fr": "<b>Photos de référence 4.4A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part04.html#226",
+"fr": "<b>a</b>High key – lumière claire et flatteuse"
+},
+{
+"key": "part04.html#227",
+"fr": "<b>b</b>Portrait low key – l’ombre domine"
+},
+{
+"key": "part04.html#228",
+"fr": "<b>c</b>Produit low key – luxe et concentration"
+},
+{
+"key": "part04.html#229",
+"fr": "<b>d</b>Produit high key – fond blanc · sans ombre · net"
+},
+{
+"key": "part04.html#230",
+"fr": "L’écart principale–appoint fixe le relief et l’ambiance du visage"
+},
+{
+"key": "part04.html#231",
+"fr": "<b>2 : 1 <small>1 IL d’écart</small></b><span>Clair, facile – pubs · beauté · information</span>"
+},
+{
+"key": "part04.html#232",
+"fr": "<b>4 : 1 <small>2 IL d’écart</small></b><span>Portrait standard – par défaut en interview · fiction</span>"
+},
+{
+"key": "part04.html#233",
+"fr": "<b>8 : 1 <small>3 IL d’écart</small></b><span>Dramatique – tension · aveu · aux portes du film noir</span>"
+},
+{
+"key": "part04.html#234",
+"fr": "<b>16 : 1 <small>4 IL d’écart</small></b><span>Low key – l’ombre domine le visage</span>"
+},
+{
+"key": "part04.html#235",
+"fr": "Rapport d’éclairage = côté clair : côté sombre. La principale ne bouge pas ; seule <b>l’intensité de l’appoint</b> change. Éteignez l’appoint et le rapport augmente ; égalez-le à la principale pour obtenir 1:1 – l’ombre disparaît."
+},
+{
+"key": "part04.html#236",
+"fr": "<b>Fig. 41</b> Le contraste selon le rapport d’éclairage – même modèle, même lumière principale, seul l’appoint varie, en quatre paliers."
+},
+{
+"key": "part04.html#237",
+"fr": "Éclairage high key"
+},
+{
+"key": "part04.html#238",
+"fr": "Clair dans l’ensemble, ombres légères"
+},
+{
+"key": "part04.html#239",
+"fr": "Rapport de 2:1 ou moins ; fond éclairé aussi"
+},
+{
+"key": "part04.html#240",
+"fr": "Ambiance : claire, propre, rassurante, gaie"
+},
+{
+"key": "part04.html#241",
+"fr": "Usage : alimentation, enfants, maison, médical"
+}
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "key": "part12.html#309",
+  "find": "De dizaines de secondes",
+  "replace": "Des dizaines de secondes",
+  "why": "grammar: article (des dizaines)"
+ },
+ {
+  "key": "part12.html#317",
+  "find": "signifie aucune maîtrise",
+  "replace": "signifie qu’on ne maîtrise plus rien",
+  "why": "grammar: 'aucune' without negation"
+ },
+ {
+  "key": "part12.html#412",
+  "find": "indiquent moins que « l’emploi disparaît en bloc » que ceci : « la porte",
+  "replace": "disent moins « l’emploi disparaît en bloc » que « la porte",
+  "why": "other: garbled comparative construction"
+ },
+ {
+  "key": "part12.html#415",
+  "find": "les quinquagénaires en emploi ont augmenté",
+  "replace": "le nombre de quinquagénaires en emploi a augmenté",
+  "why": "other: it is the number that rose, not the people"
+ },
+ {
+  "key": "part12.html#468",
+  "find": "tandis que les quinquagénaires en emploi augmentaient",
+  "replace": "tandis que le nombre de quinquagénaires en emploi augmentait",
+  "why": "other: it is the number that rose, not the people"
+ },
+ {
+  "key": "part12.html#424",
+  "find": "font preuve",
+  "replace": "font foi",
+  "why": "grammar: idiom (faire foi; 'faire preuve' needs 'de')"
+ },
+ {
+  "key": "part12.html#601",
+  "find": "quoi qu’il change",
+  "replace": "quels que soient les changements",
+  "why": "grammar: ungrammatical 'quoi qu’il change'"
+ },
+ {
+  "key": "part12.html#810",
+  "find": "d’1 page",
+  "replace": "d’une page",
+  "why": "typography: no elision before a numeral"
+ }
+]

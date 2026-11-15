@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#133",
+"fr": "Caractéristiques"
+},
+{
+"key": "part03.html#134",
+"fr": "Plein format"
+},
+{
+"key": "part03.html#135",
+"fr": "36 × 24 mm"
+},
+{
+"key": "part03.html#136",
+"fr": "Faible profondeur de champ, bon en basse lumière, coûteux"
+},
+{
+"key": "part03.html#137",
+"fr": "Super 35"
+},
+{
+"key": "part03.html#138",
+"fr": "Env. 24,9 × 18,7 mm"
+},
+{
+"key": "part03.html#139",
+"fr": "Standard du cinéma, vaste parc d’objectifs"
+},
+{
+"key": "part03.html#140",
+"fr": "APS-C"
+},
+{
+"key": "part03.html#141",
+"fr": "Env. 23,5 × 15,6 mm"
+},
+{
+"key": "part03.html#142",
+"fr": "Bon rapport qualité-prix, avantage au téléobjectif, standard d’entrée de gamme"
+},
+{
+"key": "part03.html#143",
+"fr": "Micro Four Thirds"
+},
+{
+"key": "part03.html#144",
+"fr": "17,3 × 13 mm"
+},
+{
+"key": "part03.html#145",
+"fr": "Petit et léger, grande profondeur de champ, facile sur stabilisateur"
+},
+{
+"key": "part03.html#146",
+"fr": "1 pouce"
+},
+{
+"key": "part03.html#147",
+"fr": "13,2 × 8,8 mm"
+},
+{
+"key": "part03.html#148",
+"fr": "Drones et compacts"
+},
+{
+"key": "part03.html#149",
+"fr": "Smartphone"
+},
+{
+"key": "part03.html#150",
+"fr": "Env. 1/1,3 pouce ou moins"
+},
+{
+"key": "part03.html#151",
+"fr": "Bon en macro et grand-angle, faible en basse lumière"
+},
+{
+"key": "part03.html#152",
+"fr": "<b>Coefficient de recadrage</b>"
+},
+{
+"key": "part03.html#153",
+"fr": "Multiplicateur indiquant de combien un objectif de même focale voit plus étroit qu’en plein format."
+},
+{
+"key": "part03.html#154",
+"fr": "Un 50 mm sur APS-C donne l’angle de champ d’un 75 mm en plein format. Pour cadrer une personne en pied dans un espace exigu, plus le capteur est petit, plus il faut un objectif large."
+},
+{
+"key": "part03.html#155",
+"fr": "Plus le capteur est grand, plus la profondeur de champ est faible. Un grand capteur aide quand on veut un fond flou, mais tenir le point devient aussi plus difficile. Quand tout doit être net, comme en publicité produit, un petit capteur est en réalité plus commode."
+},
+{
+"key": "part03.html#156",
+"fr": "<span class=\"ph-id\">P03-SENSOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Un capteur plein format – le « point de départ de l’angle de champ », visible objectif retiré</b></span>"
+},
+{
+"key": "part03.html#157",
+"fr": "<b>Note</b>Un capteur plein format – le « point de départ de l’angle de champ », visible objectif retiré"
+},
+{
+"key": "part03.html#158",
+"fr": "<small>Exercice</small>3.3"
+},
+{
+"key": "part03.html#159",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#160",
+"fr": "Depuis la même position, tournez en plein format et avec un capteur recadré (ou à plusieurs niveaux de zoom d’un smartphone) et notez la différence d’angle de champ."
+},
+{
+"key": "part03.html#161",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#162",
+"fr": "Calculez vous-même les focales équivalentes et notez-les."
+},
+{
+"key": "part03.html#163",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#164",
+"fr": "Exactitude des calculs de coefficient de recadrage"
+},
+{
+"key": "part03.html#165",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#166",
+"fr": "Résume non seulement l’angle de champ, mais aussi les écarts de profondeur de champ et de bruit."
+},
+{
+"key": "part03.html#167",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#168",
+"fr": "Psychologie des objectifs et de la focale"
+},
+{
+"key": "part03.html#169",
+"fr": "La focale ne change pas seulement l’angle de champ, mais aussi la proximité que le public ressent avec un personnage. Choisir un objectif, c’est choisir où placer la caméra."
+},
+{
+"key": "part03.html#170",
+"fr": "<b>Fig. 29</b> Angle de champ selon la focale"
+},
+{
+"key": "part03.html#171",
+"fr": "<b>Photos de référence 3.4A</b>Image générée – référence de mise en scène"
+},
+{
+"key": "part03.html#172",
+"fr": "<b>a</b>24 mm – espace élargi et distorsion"
+},
+{
+"key": "part03.html#173",
+"fr": "<b>b</b>50 mm – perspective naturelle"
+},
+{
+"key": "part03.html#174",
+"fr": "<b>c</b>135 mm – arrière-plan compressé et isolement"
+},
+{
+"key": "part03.html#175",
+"fr": "<b>d</b>300 mm – compression extrême, l’observateur lointain"
+},
+{
+"key": "part03.html#176",
+"fr": "Focale"
+},
+{
+"key": "part03.html#177",
+"fr": "Angle de champ"
+},
+{
+"key": "part03.html#178",
+"fr": "Distorsion"
+},
+{
+"key": "part03.html#179",
+"fr": "Effet psychologique"
+},
+{
+"key": "part03.html#180",
+"fr": "Usage type"
+},
+{
+"key": "part03.html#181",
+"fr": "14–24 mm"
+},
+{
+"key": "part03.html#182",
+"fr": "Ultra grand-angle"
+},
+{
+"key": "part03.html#183",
+"fr": "Forte"
+},
+{
+"key": "part03.html#184",
+"fr": "Exagération, espace élargi, malaise"
+},
+{
+"key": "part03.html#185",
+"fr": "Présenter un lieu, inserts dynamiques"
+},
+{
+"key": "part03.html#186",
+"fr": "28–35 mm"
+},
+{
+"key": "part03.html#187",
+"fr": "Grand-angle"
+},
+{
+"key": "part03.html#188",
+"fr": "Légère"
+},
+{
+"key": "part03.html#189",
+"fr": "Sensation de présence, regard d’observateur"
+},
+{
+"key": "part03.html#190",
+"fr": "Style documentaire, scènes du quotidien, vlogs"
+},
+{
+"key": "part03.html#191",
+"fr": "50 mm"
+},
+{
+"key": "part03.html#192",
+"fr": "Normal"
+},
+{
+"key": "part03.html#193",
+"fr": "Quasi nulle"
+},
+{
+"key": "part03.html#194",
+"fr": "Naturel, neutre"
+},
+{
+"key": "part03.html#195",
+"fr": "Standard pour les personnes, dialogues"
+},
+{
+"key": "part03.html#196",
+"fr": "85 mm"
+},
+{
+"key": "part03.html#197",
+"fr": "Petit télé"
+},
+{
+"key": "part03.html#198",
+"fr": "Aucune"
+},
+{
+"key": "part03.html#199",
+"fr": "Intimité, beauté"
+},
+{
+"key": "part03.html#200",
+"fr": "Gros plans de personnes, beauté"
+},
+{
+"key": "part03.html#201",
+"fr": "100 mm macro"
+},
+{
+"key": "part03.html#202",
+"fr": "Macro"
+},
+{
+"key": "part03.html#203",
+"fr": "Aucune"
+},
+{
+"key": "part03.html#204",
+"fr": "Matière, toucher"
+},
+{
+"key": "part03.html#205",
+"fr": "Texture des produits, liquides, poudres"
+},
+{
+"key": "part03.html#206",
+"fr": "135–200 mm"
+},
+{
+"key": "part03.html#207",
+"fr": "Téléobjectif"
+},
+{
+"key": "part03.html#208",
+"fr": "Compression"
+},
+{
+"key": "part03.html#209",
+"fr": "Isolement, concentration, distance"
+},
+{
+"key": "part03.html#210",
+"fr": "Émotion, arrière-plan compressé"
+},
+{
+"key": "part03.html#211",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part03.html#212",
+"fr": "Plus la focale est longue, plus il faut reculer. Notez la distance."
+},
+{
+"key": "part03.html#213",
+"fr": "Objectifs spéciaux"
+},
+{
+"key": "part03.html#214",
+"fr": "<small>Anamorphique</small>Rendu cinéma 2,39:1"
+},
+{
+"key": "part03.html#215",
+"fr": "Image comprimée à l’horizontale, puis désanamorphosée"
+},
+{
+"key": "part03.html#216",
+"fr": "Bokeh ovale, flares horizontaux"
+},
+{
+"key": "part03.html#217",
+"fr": "<small>Objectif sonde</small>Se glisse dans les espaces étroits"
+},
+{
+"key": "part03.html#218",
+"fr": "Fût long et fin"
+},
+{
+"key": "part03.html#219",
+"fr": "Plans d’entrée dans les publicités de boissons, d’aliments et de maquettes"
+},
+{
+"key": "part03.html#220",
+"fr": "<small>Tilt-shift</small>Incline le plan de netteté"
+},
+{
+"key": "part03.html#221",
+"fr": "Effet maquette"
+},
+{
+"key": "part03.html#222",
+"fr": "Verticales en architecture"
+},
+{
+"key": "part03.html#223",
+"fr": "<small>Demi-bonnette</small>Net à deux distances à la fois"
+},
+{
+"key": "part03.html#224",
+"fr": "Mise au point rapprochée sur une partie du cadre"
+},
+{
+"key": "part03.html#225",
+"fr": "Produit devant et personne derrière, tous deux nets"
+},
+{
+"key": "part03.html#226",
+"fr": "<small>Objectif vintage</small>Texture rétro"
+},
+{
+"key": "part03.html#227",
+"fr": "Faible contraste, flares doux"
+},
+{
+"key": "part03.html#228",
+"fr": "Mise au point surtout manuelle"
+},
+{
+"key": "part03.html#229",
+"fr": "<b>G-06</b> Comment la focale change le visage et l’arrière-plan – 16 · 35 · 85 · 200 mm"
+},
+{
+"key": "part03.html#230",
+"fr": "<small>Exercice</small>3.4"
+},
+{
+"key": "part03.html#231",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#232",
+"fr": "En gardant la même taille de visage, tournez à 16 · 35 · 85 · 135 mm."
+},
+{
+"key": "part03.html#233",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#234",
+"fr": "Plus la focale est longue, plus il faut reculer. Notez la distance."
+},
+{
+"key": "part03.html#235",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#236",
+"fr": "Observation de la distorsion de perspective et de la compression"
+},
+{
+"key": "part03.html#237",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#238",
+"fr": "Note comment le personnage semble changer à chaque focale, jusqu’aux réactions du public."
+},
+{
+"key": "part03.html#239",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#240",
+"fr": "Le triangle d’exposition"
+},
+{
+"key": "part03.html#241",
+"fr": "Il n’existe que trois moyens de régler la luminosité de l’image, et chacun a son prix. La différence décisive avec la photo : en vidéo, on ne dispose pas librement de l’obturateur."
+},
+{
+"key": "part03.html#242",
+"fr": "Même luminosité, image différente – changez l’un des trois, compensez avec un autre"
+},
+{
+"key": "part03.html#243",
+"fr": "<b>Diaphragme ouvert</b><span class=\"mono\">f/1,8 · 1/1000 · ISO 100</span><span>Le fond devient flou – le prix de la faible profondeur de champ</span>"
+},
+{
+"key": "part03.html#244",
+"fr": "Ouverture"
+},
+{
+"key": "part03.html#245",
+"fr": "Obturateur"
+},
+{
+"key": "part03.html#246",
+"fr": "ISO"
+},
+{
+"key": "part03.html#247",
+"fr": "<b>ISO monté</b><span class=\"mono\">f/16 · 1/1000 · ISO 6400</span><span>Du bruit dans les ombres – le prix de la sensibilité</span>"
+},
+{
+"key": "part03.html#248",
+"fr": "Ouverture"
+},
+{
+"key": "part03.html#249",
+"fr": "Obturateur"
+},
+{
+"key": "part03.html#250",
+"fr": "ISO"
+},
+{
+"key": "part03.html#251",
+"fr": "<b>Obturateur ralenti</b><span class=\"mono\">f/16 · 1/15 · ISO 100</span><span>L’eau file – le prix du temps</span>"
+},
+{
+"key": "part03.html#252",
+"fr": "Ouverture"
+},
+{
+"key": "part03.html#253",
+"fr": "Obturateur"
+},
+{
+"key": "part03.html#254",
+"fr": "ISO"
+},
+{
+"key": "part03.html#255",
+"fr": "<b>Les trois images sont aussi lumineuses.</b> La lumière est la même, mais le prix n’a pas été payé au même endroit – l’<b>ouverture</b> en profondeur de champ, l’<b>obturateur</b> en flou, l’<b>ISO</b> en bruit. Doublez l’un, réduisez un autre de moitié (1 IL)."
+},
+{
+"key": "part03.html#256",
+"fr": "<b>Fig. 30</b> Le triangle d’exposition – même scène, même luminosité, trois choix différents. Les curseurs montrent quelle valeur a été poussée à l’extrême."
+},
+{
+"key": "part03.html#257",
+"fr": "Plus le nombre f est petit, plus la zone nette est mince"
+},
+{
+"key": "part03.html#258",
+"fr": "<b>f/1,4 · faible profondeur de champ</b><span>Seule la personne reste ; le fond se dissout – concentration · émotion · beauté</span>"
+},
+{
+"key": "part03.html#259",
+"fr": "<b>f/4 · profondeur de champ moyenne</b><span>Personne nette, fond en ambiance – standard interview · fiction</span>"
+},
+{
+"key": "part03.html#260",
+"fr": "<b>f/11 · grande profondeur de champ</b><span>Net du premier au dernier plan – paysages · produits entiers · information</span>"
+},
+{
+"key": "part03.html#261",
+"fr": "<b>Quatre façons de réduire la profondeur de champ</b><span>Ouvrir le diaphragme f/1,4</span><span>Allonger la focale 85→200 mm</span><span>S’approcher du sujet</span><span>Éloigner l’arrière-plan</span>"
+},
+{
+"key": "part03.html#262",
+"fr": "<b>Fig. 31</b> Profondeur de champ selon l’ouverture – même lieu, même personne, seule l’ouverture change. La profondeur de champ est une décision de mise en scène : « jusqu’où garder net »."
+},
+{
+"key": "part03.html#263",
+"fr": "<small>Ouverture (nombre F)</small>La molette qui fait le rendu"
+},
+{
+"key": "part03.html#264",
+"fr": "Chiffre plus bas : plus lumineux, fond plus flou"
+},
+{
+"key": "part03.html#265",
+"fr": "F1,4 · 2 · 2,8 · 4 · 5,6 · 8 – chaque cran divise la lumière par deux"
+},
+{
+"key": "part03.html#266",
+"fr": "L’expression la plus directe de l’intention"
+},
+{
+"key": "part03.html#267",
+"fr": "<small>Vitesse d’obturation</small>Fixe en vidéo"
+},
+{
+"key": "part03.html#268",
+"fr": "Durée d’enregistrement d’une image"
+},
+{
+"key": "part03.html#269",
+"fr": "Liée à la règle de l’obturateur à 180° ; ne jamais s’en servir pour régler l’exposition"
+},
+{
+"key": "part03.html#270",
+"fr": "<small>ISO</small>D’abord l’ISO natif"
+},
+{
+"key": "part03.html#271",
+"fr": "Le monter éclaircit mais ajoute du bruit"
+},
+{
+"key": "part03.html#272",
+"fr": "Chaque modèle a un ISO natif où le bruit est minimal"
+},
+{
+"key": "part03.html#273",
+"fr": "Beaucoup de modèles ont un double ISO natif"
+},
+{
+"key": "part03.html#274",
+"fr": "<small>Filtre ND</small>La quatrième molette"
+},
+{
+"key": "part03.html#275",
+"fr": "Filtre optique qui ne fait que réduire la lumière"
+},
+{
+"key": "part03.html#276",
+"fr": "Indispensable pour tourner à pleine ouverture en plein jour"
+},
+{
+"key": "part03.html#277",
+"fr": "<b>ND8<em>3 IL</em></b>Temps couvert, intérieur près d’une fenêtre"
+},
+{
+"key": "part03.html#278",
+"fr": "<b>ND64<em>6 IL</em></b>Pleine ouverture par grand soleil"
+},
+{
+"key": "part03.html#279",
+"fr": "<b>ND1000<em>10 IL</em></b>Effets de pose longue en plein jour"
+},
+{
+"key": "part03.html#280",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part03.html#281",
+"fr": "Suivez cet ordre et votre jugement tient sur n’importe quelle caméra."
+},
+{
+"key": "part03.html#282",
+"fr": "Ordre de travail pour l’exposition vidéo"
+}
+]

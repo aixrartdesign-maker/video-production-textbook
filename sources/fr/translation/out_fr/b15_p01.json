@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#663",
+"fr": "Conseils de terrain"
+},
+{
+"key": "part01.html#664",
+"fr": "En réunion, ne décrivez pas une référence avec des mots : envoyez le lien avec la plage horaire. Écrire simplement « de 3:45 à 4:10 » divise par deux la durée de la réunion."
+},
+{
+"key": "part01.html#665",
+"fr": "Pour apprendre un nouvel outil, cherchez d’abord non pas la liste de ses fonctions, mais le processus existant qu’il remplace. Connaissez sa place et vous apprendrez plus vite."
+},
+{
+"key": "part01.html#666",
+"fr": "Si vous ne connaissez pas un terme du métier, demandez sur-le-champ. Le terme que vous avez fait semblant de connaître cause les plus gros accidents."
+},
+{
+"key": "part13.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part13.html#1",
+"fr": "<small>PARTIE</small>13"
+},
+{
+"key": "part13.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part13.html#3",
+"fr": "Une boucle d’exposition lisible en 30 secondes, quel que soit le point d’entrée"
+},
+{
+"key": "part13.html#4",
+"fr": "Une œuvre en temps réel qui réagit à un seul geste du visiteur"
+},
+{
+"key": "part13.html#5",
+"fr": "Plan d’installation · liste du matériel · plan d’exploitation"
+},
+{
+"key": "part13.html#6",
+"fr": "Un texte de 250 caractères, un portfolio d’une page, un calendrier d’appels"
+},
+{
+"key": "part13.html#7",
+"fr": "Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#8",
+"fr": "Si une vidéo n’est achevée que lorsque le public bouge, qui l’a faite ? Cette PARTIE reprend, depuis notre position actuelle, la question ouverte par Nam June Paik. Quand l’écran quitte le rectangle, que le public passe de spectateur à participant et que l’œuvre doit tourner seule un mois dans une galerie, l’essentiel de ce qu’a appris un vidéaste reste utile. Seule change la manière de s’en servir."
+},
+{
+"key": "part13.html#9",
+"fr": "Photo OPEN-13 Ouverture de partie, photo pleine page · image générative"
+},
+{
+"key": "part13.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part13.html#11",
+"fr": "Comprendre en quoi les prémisses de la vidéo classique et de l’art numérique diffèrent, réaliser une œuvre qui réagit au public avec des outils temps réel, l’installer, l’exploiter et la documenter pour qu’elle tienne un mois en galerie, puis répondre à un appel à projets."
+},
+{
+"key": "part13.html#12",
+"fr": "<b>Matériel</b>Ordinateur portable avec webcam, un outil temps réel gratuit (TouchDesigner non commercial ou p5.js), 1 vidéo personnelle existante, mètre ruban, impression d’un appel à projets d’art numérique public de Séoul"
+},
+{
+"key": "part13.html#13",
+"fr": "<b>10 min</b><i>Intro</i><span>Lancer une vidéo existante 30 secondes à partir d’un point au hasard et demander de quoi elle parle</span>"
+},
+{
+"key": "part13.html#14",
+"fr": "<b>20 min</b><i>Prémisses</i><span>13.2 Comparer avec le tableau : position du visiteur · début et fin · format · répétition ; esquisser une boucle</span>"
+},
+{
+"key": "part13.html#15",
+"fr": "<b>40 min</b><i>Réalisation</i><span>13.4 Créer une œuvre réactive à la webcam à partir d’une règle d’une ligne, p. ex. « elle s’éclaire quand on s’approche »</span>"
+},
+{
+"key": "part13.html#16",
+"fr": "<b>30 min</b><i>Calculs</i><span>13.5 Pour une galerie de 6 m de large × 4 m de profondeur × 3 m de haut, calculer rapport de projection · taille d’image · câblage électrique</span>"
+},
+{
+"key": "part13.html#17",
+"fr": "<b>20 min</b><i>Bilan</i><span>13.6 Rédiger un texte de 150 caractères commençant par « Cette œuvre est… » et se lire mutuellement</span>"
+},
+{
+"key": "part13.html#18",
+"fr": "<b>Point de contrôle</b>Pouvez-vous dire en une phrase ce qui se passe quand le visiteur fait quoi, et l’œuvre tourne-t-elle 10 minutes sans s’arrêter ?"
+},
+{
+"key": "part13.html#19",
+"fr": "Contexte 23"
+},
+{
+"key": "part13.html#20",
+"fr": "L’homme qui a retourné la télévision"
+},
+{
+"key": "part13.html#21",
+"fr": "<span class=\"ph-id\">P13-CRTTOWER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Aux origines de l’art vidéo – une tour de téléviseurs</b>Installation de dizaines de téléviseurs cathodiques empilés diffusant des images abstraites dans une galerie sombre</span>"
+},
+{
+"key": "part13.html#22",
+"fr": "<b>Note</b>Hommage aux tours de téléviseurs de Paik, une forme qui empilait cette boîte qui ne faisait que recevoir pour en faire un outil de création. « The More, the Better » comptait 1003 postes"
+},
+{
+"key": "part13.html#23",
+"fr": "En 1963, « Exposition of Music – Electronic Television » ouvre dans une petite galerie de Wuppertal, en Allemagne. Treize téléviseurs occupent la salle. Certains affichent une image déformée ; sur d’autres, l’image change quand le visiteur appuie sur une pédale ou émet un son dans un micro. C’est la première exposition personnelle de Nam June Paik, né à Séoul en 1932, considérée aujourd’hui comme le point de départ de l’art vidéo."
+},
+{
+"key": "part13.html#24",
+"fr": "La télévision était alors un appareil domestique qui recevait ce qu’envoyait le diffuseur. Paik entreprend d’inverser ce flux à sens unique. Il laisse le public intervenir sur l’image, puis construit son propre synthétiseur vidéo pour façonner le signal à la main. D’un média de réception, il fait un média de création."
+},
+{
+"key": "part13.html#25",
+"fr": "Il rejoint Fluxus en 1962, un mouvement qui efface la frontière entre la vie quotidienne et l’art, et, après sa rencontre avec John Cage en 1958, introduit dans son travail un sens oriental du temps. Dans « TV Buddha » (1974), une statue de Bouddha assise face à un téléviseur contemple sa propre image filmée par une caméra. Méditation et circuit fermé, temps cyclique de l’Orient et électronique de l’Occident se rencontrent sur un même écran."
+},
+{
+"key": "part13.html#26",
+"fr": "Sa vision dépasse aussi l’œuvre. Dans un projet adressé en 1974 à la fondation Rockefeller, il emploie pour la première fois l’expression « autoroute électronique », 20 ans avant que l’internet ne se répande. Le 1er janvier 1984, il diffuse « Good Morning Mr. Orwell », un direct reliant New York, Paris et Séoul par satellite. Là où Orwell avait imaginé 1984 comme l’année de la surveillance, Paik entend montrer cette même année l’autre face : la technologie peut aussi relier les gens."
+},
+{
+"key": "part13.html#27",
+"fr": "« The More, the Better », construite au MMCA Gwacheon pour les Jeux olympiques de Séoul de 1988, est une tour de 1003 téléviseurs empilés sur 18,5 m de haut. Éteinte en 2018, elle s’est rallumée en 2022 après 4 ans et 7 mois de restauration. Cette restauration a mis au jour le problème le plus ardu de l’art numérique. Si ses composants ne sont plus fabriqués, sous quelle forme l’œuvre survit-elle ? Les questions de conservation abordées plus loin partent de là."
+},
+{
+"key": "part13.html#28",
+"fr": "Pour aller plus loin – Nam June Paik Art Center, The Return of Nam June Paik · MMCA, My Nam June Paik: Memory, Conservation, Expansion (2023) · Lev Manovich, Le Langage des nouveaux médias"
+},
+{
+"key": "part13.html#29",
+"fr": "<b>PARTIE 13</b>Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#30",
+"fr": "Qu’est-ce que l’art numérique ?"
+},
+{
+"key": "part13.html#31",
+"fr": "L’art numérique est moins un genre qu’une attitude. C’est le terme générique des œuvres qui prennent pour matériau les nouveaux médias de leur temps et explorent la façon dont ces médias transforment les gens et le monde. Dans les années 1960, c’était la télévision ; dans les années 1990, l’internet ; aujourd’hui, les capteurs, les données et les modèles génératifs."
+},
+{
+"key": "part13.html#32",
+"fr": "<span class=\"ph-id\">P13-INTERACTIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Art numérique interactif</b>Installation où des particules de lumière couvrant le mur tourbillonnent au gré des gestes des visiteurs, avec leurs silhouettes</span>"
+},
+{
+"key": "part13.html#33",
+"fr": "<b>Note</b>Art numérique interactif – les actions du visiteur modifient l’état de l’œuvre. Ses matériaux actuels sont les capteurs et les données"
+},
+{
+"key": "part13.html#34",
+"fr": "Pourquoi tant de noms"
+},
+{
+"key": "part13.html#35",
+"fr": "<small>Art vidéo</small>Fin des années 1960"
+},
+{
+"key": "part13.html#36",
+"fr": "Apparu avec la diffusion du matériel vidéo portable"
+},
+{
+"key": "part13.html#37",
+"fr": "Détourner le langage de la télé, ou montrer au public sa propre image en circuit fermé"
+},
+{
+"key": "part13.html#38",
+"fr": "<small>Art numérique</small>Un nom plus large"
+},
+{
+"key": "part13.html#39",
+"fr": "Employé quand les matériaux se sont étendus de la vidéo à l’ordinateur, aux réseaux et aux capteurs"
+},
+{
+"key": "part13.html#40",
+"fr": "<small>Art des nouveaux médias</small>Dès les années 1990"
+},
+{
+"key": "part13.html#41",
+"fr": "Œuvres fondées sur le numérique et l’internet"
+},
+{
+"key": "part13.html#42",
+"fr": "Faiblesse : le « nouveau » vieillit avec le temps"
+},
+{
+"key": "part13.html#43",
+"fr": "<small>Art post-internet</small>Quand l’internet est devenu l’air ambiant"
+},
+{
+"key": "part13.html#44",
+"fr": "Terme contesté, sans définition académique admise"
+},
+{
+"key": "part13.html#45",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part13.html#46",
+"fr": "Inutile de mémoriser ces termes. Mais empruntez-en un pour décrire votre œuvre sans savoir ce qu’il signifie, et le jury le verra aussitôt."
+},
+{
+"key": "part13.html#47",
+"fr": "Des notions pour lire les textes"
+},
+{
+"key": "part13.html#48",
+"fr": "Terme"
+},
+{
+"key": "part13.html#49",
+"fr": "Sens"
+},
+{
+"key": "part13.html#50",
+"fr": "Source"
+},
+{
+"key": "part13.html#51",
+"fr": "Art génératif"
+},
+{
+"key": "part13.html#52",
+"fr": "Œuvre produite par un système de règles prédéfini, en général avec une part de hasard"
+},
+{
+"key": "part13.html#53",
+"fr": "Définition du glossaire de la Tate"
+},
+{
+"key": "part13.html#54",
+"fr": "Interactivité"
+},
+{
+"key": "part13.html#55",
+"fr": "Les actions du visiteur modifient l’état de l’œuvre"
+},
+{
+"key": "part13.html#56",
+"fr": "Condition centrale de l’art numérique"
+},
+{
+"key": "part13.html#57",
+"fr": "In situ"
+},
+{
+"key": "part13.html#58",
+"fr": "Œuvre liée aux conditions d’un lieu"
+},
+{
+"key": "part13.html#59",
+"fr": "Aussi une catégorie des appels internationaux"
+},
+{
+"key": "part13.html#60",
+"fr": "Post-média"
+},
+{
+"key": "part13.html#61",
+"fr": "État où aucun média ne domine et où tous s’influencent mutuellement"
+},
+{
+"key": "part13.html#62",
+"fr": "Peter Weibel (2006)"
+},
+{
+"key": "part13.html#63",
+"fr": "La condition post-médium"
+},
+{
+"key": "part13.html#64",
+"fr": "Voit la spécificité du médium comme des conventions superposées"
+},
+{
+"key": "part13.html#65",
+"fr": "Rosalind Krauss (1999)"
+},
+{
+"key": "part13.html#66",
+"fr": "Ne vous tourmentez pas pour savoir si votre œuvre relève de l’art numérique. Vérifiez seulement que vous pouvez dire en une phrase pourquoi elle exige ce médium.<small>13.1 Qu’est-ce que l’art numérique ?</small>"
+},
+{
+"key": "part13.html#67",
+"fr": "<small>Exercice</small>13.1"
+},
+{
+"key": "part13.html#68",
+"fr": "Tâche"
+},
+{
+"key": "part13.html#69",
+"fr": "Choisissez trois œuvres d’art numérique vues ces 5 dernières années et notez, pour chacune, le médium utilisé comme matériau et pourquoi elle ne pourrait exister dans aucun autre."
+},
+{
+"key": "part13.html#70",
+"fr": "Conseil"
+},
+{
+"key": "part13.html#71",
+"fr": "Si vous hésitez, partez des listes d’expositions passées du Nam June Paik Art Center, du MMCA et du Seoul Museum of Art."
+},
+{
+"key": "part13.html#72",
+"fr": "Évaluation"
+},
+{
+"key": "part13.html#73",
+"fr": "Le lien entre médium et thème est-il expliqué ? L’analyse dépasse-t-elle la simple description ?"
+},
+{
+"key": "part13.html#74",
+"fr": "Corrigé type"
+},
+{
+"key": "part13.html#75",
+"fr": "Une analyse allant jusqu’à relever ce qui serait perdu si le même thème passait à un autre médium."
+},
+{
+"key": "part13.html#76",
+"fr": "<b>PARTIE 13</b>Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#77",
+"fr": "Ce qui distingue la vidéo de l’art numérique"
+},
+{
+"key": "part13.html#78",
+"fr": "Qu’est-ce qui change ? Si vous avez lu jusqu’ici, vous possédez déjà l’essentiel des compétences nécessaires. Lire un cadre, construire la lumière, enchaîner les plans, traiter le son : tout cela s’applique encore. Ce ne sont pas les compétences qui changent, mais les prémisses."
+},
+{
+"key": "part13.html#79",
+"fr": "Deux choses restent identiques. Tous deux sont des médias temporels : durée · rythme · répétition · immobilité sont des moyens d’expression, et le processus tournage · éclairage · montage · étalonnage · son reste nécessaire. Plus l’écran est grand, plus vos bases se voient."
+},
+{
+"key": "part13.html#80",
+"fr": "Vidéo classique"
+},
+{
+"key": "part13.html#81",
+"fr": "Position du public – assis face à l’écran"
+},
+{
+"key": "part13.html#82",
+"fr": "Début et fin – fixes"
+},
+{
+"key": "part13.html#83",
+"fr": "Format – adaptable au média"
+},
+{
+"key": "part13.html#84",
+"fr": "Matériel – moyen de montrer le résultat"
+},
+{
+"key": "part13.html#85",
+"fr": "Achèvement – à la livraison"
+},
+{
+"key": "part13.html#86",
+"fr": "Répétition – vision unique supposée"
+},
+{
+"key": "part13.html#87",
+"fr": "Art numérique"
+},
+{
+"key": "part13.html#88",
+"fr": "Position du public – entre et circule dans l’espace"
+},
+{
+"key": "part13.html#89",
+"fr": "Début et fin – entrées et sorties à tout moment"
+},
+{
+"key": "part13.html#90",
+"fr": "Format – condition de l’œuvre ; le changer l’abîme"
+},
+{
+"key": "part13.html#91",
+"fr": "Matériel – souvent partie de l’œuvre"
+},
+{
+"key": "part13.html#92",
+"fr": "Achèvement – après toute l’exposition"
+},
+{
+"key": "part13.html#93",
+"fr": "Répétition – des centaines de boucles par jour"
+},
+{
+"key": "part13.html#94",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part13.html#95",
+"fr": "Reprenez tel quel un arc en quatre temps, et la plupart des visiteurs ne verront que le « basculement » avant de partir. L’œuvre doit se lire en 30 secondes, quel que soit le moment où l’on commence à regarder."
+},
+{
+"key": "part13.html#96",
+"fr": "Ce que les étudiants oublient le plus : le début et la fin"
+},
+{
+"key": "part13.html#97",
+"fr": "<small>Boucle</small>Raccorder la fin au début"
+},
+{
+"key": "part13.html#98",
+"fr": "Si la dernière image ressemble à la première, la jointure disparaît"
+},
+{
+"key": "part13.html#99",
+"fr": "<small>Entrées</small>Lisible où que l’on arrive"
+},
+{
+"key": "part13.html#100",
+"fr": "Répéter l’image clé à intervalles réguliers"
+},
+{
+"key": "part13.html#101",
+"fr": "<small>Durée</small>Entre 2 et 7 minutes"
+},
+{
+"key": "part13.html#102",
+"fr": "Au-delà, bien moins de gens regardent jusqu’au bout"
+},
+{
+"key": "part13.html#103",
+"fr": "Pourquoi respecter le format"
+},
+{
+"key": "part13.html#104",
+"fr": "Les recommandations d’installation des organismes de conservation de l’art numérique exigent de préserver le format d’image de l’œuvre et précisent qu’agrandir ou recadrer pour remplir un écran n’est pas une pratique correcte. En production vidéo, remonter en vertical est courant ; pour une œuvre, ce geste même la transforme. Ici, abandonnez le réflexe de recadrer à chaque changement de média."
+},
+{
+"key": "part13.html#105",
+"fr": "Concevez la vidéo d’exposition en partant du principe que personne ne la regarde depuis le début. La rendre lisible depuis n’importe quel point d’entrée, c’est cela, la conception.<small>13.2 Ce qui distingue la vidéo de l’art numérique</small>"
+},
+{
+"key": "part13.html#106",
+"fr": "<small>Exercice</small>13.2"
+},
+{
+"key": "part13.html#107",
+"fr": "Tâche"
+},
+{
+"key": "part13.html#108",
+"fr": "Remontez l’une de vos vidéos existantes en boucle d’exposition. Restez sous 3 minutes et structurez-la pour que le thème se lise en 30 secondes, quel que soit le point de départ."
+},
+{
+"key": "part13.html#109",
+"fr": "Conseil"
+},
+{
+"key": "part13.html#110",
+"fr": "Montrez à un ami 30 secondes à partir d’un point au hasard et demandez-lui de quoi parle l’œuvre. Si deux personnes sur trois comprennent, c’est réussi."
+},
+{
+"key": "part13.html#111",
+"fr": "Évaluation"
+},
+{
+"key": "part13.html#112",
+"fr": "La jointure est-elle invisible ? Les points d’entrée sont-ils pensés ?"
+},
+{
+"key": "part13.html#113",
+"fr": "Corrigé type"
+},
+{
+"key": "part13.html#114",
+"fr": "Un montage qui fait coïncider début et fin sur la même image et répète le motif clé toutes les 40 secondes pour être lisible de partout."
+},
+{
+"key": "part13.html#115",
+"fr": "<b>PARTIE 13</b>Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#116",
+"fr": "Le paysage de l’art numérique en Corée aujourd’hui"
+},
+{
+"key": "part13.html#117",
+"fr": "L’art numérique coréen avance sur trois voies : les musées et institutions publics, les écrans publics de la ville et les lieux immersifs commerciaux. Chacune a ses exigences, et chacune ouvre une porte différente aux étudiants."
+},
+{
+"key": "part13.html#118",
+"fr": "<b>Photos de référence 13.3A</b>Images générées – deux scènes de l’art numérique coréen"
+},
+{
+"key": "part13.html#119",
+"fr": "<span class=\"ph-id\">P13-MUSEUM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Œuvre vidéo au musée</b>Visiteurs assis par terre devant un immense mur vidéo dans une galerie blanche</span>"
+},
+{
+"key": "part13.html#120",
+"fr": "<b>a</b>Musées – là où suivent collection · conservation · critique. Sélection sur texte et photos"
+},
+{
+"key": "part13.html#121",
+"fr": "<span class=\"ph-id\">P13-OUTDOOR</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Festival d’art numérique en plein air</b>Installations lumineuses et foule le long d’une rive, la nuit</span>"
+},
+{
+"key": "part13.html#122",
+"fr": "<b>b</b>Festivals en plein air et écrans urbains – seuil bas et large public. Là où les étudiants peuvent débuter"
+},
+{
+"key": "part13.html#123",
+"fr": "Institutions"
+},
+{
+"key": "part13.html#124",
+"fr": "<small>Nam June Paik Art Center</small>Yongin"
+},
+{
+"key": "part13.html#125",
+"fr": "283 œuvres en collection, 2285 documents d’archives vidéo"
+},
+{
+"key": "part13.html#126",
+"fr": "Juil. 2026 – févr. 2027 : 1er Nam June Paik Media Art Festival, 20 ans après sa mort, « Nam June Paik’s Planet » – dévoile la série « Planet » des années 1990"
+},
+{
+"key": "part13.html#127",
+"fr": "<small>MMCA</small>40 ans de Gwacheon"
+},
+{
+"key": "part13.html#128",
+"fr": "Exposition 2026 « Imaginations of Light »"
+},
+{
+"key": "part13.html#129",
+"fr": "Première ouverture de 100 000 des quelque 520 000 documents d’archives numériques (dont l’archive Paik)"
+},
+{
+"key": "part13.html#130",
+"fr": "Nouveau programme de formation de restaurateurs, nouveaux médias compris"
+},
+{
+"key": "part13.html#131",
+"fr": "<small>Seoul Museum of Art</small>Seoul Mediacity Biennale (depuis 2000)"
+},
+{
+"key": "part13.html#132",
+"fr": "2026 : première exposition muséale de Lynn Hershman Leeson en Asie ; une exposition d’art sonore"
+},
+{
+"key": "part13.html#133",
+"fr": "Seo-Seoul Museum of Art – ouverture en préparation, avec une collection nouveaux médias et un atelier jeunesse"
+},
+{
+"key": "part13.html#134",
+"fr": "<small>Art Center Nabi</small>Depuis 2000"
+},
+{
+"key": "part13.html#135",
+"fr": "Juin 2026 : réouverture dans son propre bâtiment à Sagan-dong, Jongno-gu"
+},
+{
+"key": "part13.html#136",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part13.html#137",
+"fr": "Les appels précisent que les horaires de diffusion peuvent changer selon la politique d’économies d’énergie. Ce ne sont pas des écrans allumés 24 h sur 24."
+},
+{
+"key": "part13.html#138",
+"fr": "Écrans urbains – là où les étudiants peuvent débuter"
+},
+{
+"key": "part13.html#139",
+"fr": "Une grande partie des œuvres diffusées sur les plateformes publiques d’art numérique de la ville de Séoul est sélectionnée par des appels destinés aux artistes émergents. Le seuil est plus bas qu’au musée, et vous voyez votre œuvre projetée dans un véritable espace urbain."
+},
+{
+"key": "part13.html#140",
+"fr": "Plateforme"
+},
+{
+"key": "part13.html#141",
+"fr": "Lieu"
+},
+{
+"key": "part13.html#142",
+"fr": "Horaires"
+},
+{
+"key": "part13.html#143",
+"fr": "Seoullo Media Canvas"
+},
+{
+"key": "part13.html#144",
+"fr": "Mallijae-ro, Jung-gu (près de Seoullo)"
+},
+{
+"key": "part13.html#145",
+"fr": "Atelier Gwanghwa"
+}
+]

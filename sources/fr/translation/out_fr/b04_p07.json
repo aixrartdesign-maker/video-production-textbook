@@ -1,0 +1,326 @@
+[
+{
+"key": "part03.html#583",
+"fr": "Env. 1800 K"
+},
+{
+"key": "part03.html#584",
+"fr": "Très chaud, orangé"
+},
+{
+"key": "part03.html#585",
+"fr": "Incandescence"
+},
+{
+"key": "part03.html#586",
+"fr": "Env. 2800–3200 K"
+},
+{
+"key": "part03.html#587",
+"fr": "Chaud, ambiance d’intérieur"
+},
+{
+"key": "part03.html#588",
+"fr": "Projecteur tungstène"
+},
+{
+"key": "part03.html#589",
+"fr": "Lumière standard d’intérieur"
+},
+{
+"key": "part03.html#590",
+"fr": "Fluorescent"
+},
+{
+"key": "part03.html#591",
+"fr": "Env. 4000–5000 K"
+},
+{
+"key": "part03.html#592",
+"fr": "Attention à la dominante verte"
+},
+{
+"key": "part03.html#593",
+"fr": "Lumière du jour"
+},
+{
+"key": "part03.html#594",
+"fr": "Standard d’extérieur"
+},
+{
+"key": "part03.html#595",
+"fr": "Ciel couvert"
+},
+{
+"key": "part03.html#596",
+"fr": "Env. 6500 K"
+},
+{
+"key": "part03.html#597",
+"fr": "Teinte bleutée"
+},
+{
+"key": "part03.html#598",
+"fr": "Ombre, ciel bleu"
+},
+{
+"key": "part03.html#599",
+"fr": "7500 K et plus"
+},
+{
+"key": "part03.html#600",
+"fr": "Froid, sensation d’aube"
+},
+{
+"key": "part03.html#601",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part03.html#602",
+"fr": "Coupez la balance des blancs automatique et saisissez vous-même la valeur en kelvins."
+},
+{
+"key": "part03.html#603",
+"fr": "Règles sur le plateau"
+},
+{
+"key": "part03.html#604",
+"fr": "La balance des blancs automatique change la couleur d’un plan à l’autre : les plans ne se montent plus ensemble. Verrouillez-la toujours en manuel."
+},
+{
+"key": "part03.html#605",
+"fr": "Dans un lieu à lumières mixtes, posez des gélatines sur les fenêtres ou changez les lampes intérieures pour que toutes les sources aient la même couleur."
+},
+{
+"key": "part03.html#606",
+"fr": "Faire une balance des blancs personnalisée sur une charte grise ou blanche facilite la correction colorimétrique en postproduction."
+},
+{
+"key": "part03.html#607",
+"fr": "Décidez les écarts de couleur voulus sur le plateau, pas en postproduction. Même en Log, fixez une référence avant de tourner."
+},
+{
+"key": "part03.html#608",
+"fr": "<b>Photos de référence 3.9B</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part03.html#609",
+"fr": "<b>a</b>Lumières mixtes – jour par la fenêtre et tungstène en intérieur"
+},
+{
+"key": "part03.html#610",
+"fr": "<b>b</b>Fixer une référence avec une charte grise"
+},
+{
+"key": "part03.html#611",
+"fr": "<b>c</b>Écart de couleur voulu – le bleu de l’aube"
+},
+{
+"key": "part03.html#612",
+"fr": "Espace colorimétrique"
+},
+{
+"key": "part03.html#613",
+"fr": "Espace colorimétrique"
+},
+{
+"key": "part03.html#614",
+"fr": "Gamut"
+},
+{
+"key": "part03.html#615",
+"fr": "Usage principal"
+},
+{
+"key": "part03.html#616",
+"fr": "Remarque"
+},
+{
+"key": "part03.html#617",
+"fr": "Rec.709"
+},
+{
+"key": "part03.html#618",
+"fr": "Étroit"
+},
+{
+"key": "part03.html#619",
+"fr": "Télédiffusion, standard web"
+},
+{
+"key": "part03.html#620",
+"fr": "Base de la plupart des livraisons finales"
+},
+{
+"key": "part03.html#621",
+"fr": "sRGB"
+},
+{
+"key": "part03.html#622",
+"fr": "Proche du Rec.709"
+},
+{
+"key": "part03.html#623",
+"fr": "Graphisme web"
+},
+{
+"key": "part03.html#624",
+"fr": "À vérifier en mêlant vidéo et graphisme"
+},
+{
+"key": "part03.html#625",
+"fr": "DCI-P3"
+},
+{
+"key": "part03.html#626",
+"fr": "Moyen"
+},
+{
+"key": "part03.html#627",
+"fr": "Cinéma, smartphones récents"
+},
+{
+"key": "part03.html#628",
+"fr": "Exige une version SDR distincte"
+},
+{
+"key": "part03.html#629",
+"fr": "Rec.2020"
+},
+{
+"key": "part03.html#630",
+"fr": "Très large"
+},
+{
+"key": "part03.html#631",
+"fr": "8K, HDR"
+},
+{
+"key": "part03.html#632",
+"fr": "Compatibilité de lecture limitée"
+},
+{
+"key": "part03.html#633",
+"fr": "<b>G-09</b> Balance des blancs – une scène, quatre réglages de température de couleur"
+},
+{
+"key": "part03.html#634",
+"fr": "<small>Exercice</small>3.9"
+},
+{
+"key": "part03.html#635",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#636",
+"fr": "Sous une lampe à incandescence, un tube fluorescent et la lumière d’une fenêtre, faites la balance des blancs sur une feuille de papier blanc et consignez la démarche."
+},
+{
+"key": "part03.html#637",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#638",
+"fr": "Coupez la balance des blancs automatique et saisissez vous-même la valeur en kelvins."
+},
+{
+"key": "part03.html#639",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#640",
+"fr": "Justesse du choix des kelvins ; gestion des lumières mixtes"
+},
+{
+"key": "part03.html#641",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#642",
+"fr": "Ajoutez un plan qui fausse à dessein la température de couleur pour créer une émotion (froid, chaleur)."
+},
+{
+"key": "part03.html#643",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#644",
+"fr": "Codecs · profondeur de bits · Log"
+},
+{
+"key": "part03.html#645",
+"fr": "Choisissez un codec différent à chaque étape ; tournez en 10 bits si vous étalonnez, en 4:2:2 ou mieux si vous faites du compositing. Le Log achète de la latitude en postproduction et la paie en marge d’exposition."
+},
+{
+"key": "part03.html#646",
+"fr": "Codec"
+},
+{
+"key": "part03.html#647",
+"fr": "Caractère"
+},
+{
+"key": "part03.html#648",
+"fr": "Taille de fichier"
+},
+{
+"key": "part03.html#649",
+"fr": "Étape idéale"
+},
+{
+"key": "part03.html#650",
+"fr": "Remarques"
+},
+{
+"key": "part03.html#651",
+"fr": "Compressé pour la diffusion"
+},
+{
+"key": "part03.html#652",
+"fr": "Très petite"
+},
+{
+"key": "part03.html#653",
+"fr": "Livraison finale, mise en ligne"
+},
+{
+"key": "part03.html#654",
+"fr": "Médiocre comme source de montage"
+},
+{
+"key": "part03.html#655",
+"fr": "H.265 (HEVC)"
+},
+{
+"key": "part03.html#656",
+"fr": "Compression efficace"
+},
+{
+"key": "part03.html#657",
+"fr": "Petite"
+},
+{
+"key": "part03.html#658",
+"fr": "Originaux caméra 4K"
+},
+{
+"key": "part03.html#659",
+"fr": "Monter avec des proxys"
+},
+{
+"key": "part03.html#660",
+"fr": "ProRes 422 HQ"
+},
+{
+"key": "part03.html#661",
+"fr": "Adapté au montage"
+},
+{
+"key": "part03.html#662",
+"fr": "Grande"
+},
+{
+"key": "part03.html#663",
+"fr": "Standard montage et compositing"
+}
+]

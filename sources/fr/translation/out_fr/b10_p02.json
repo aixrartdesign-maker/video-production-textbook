@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#37",
+"fr": "<b>Note</b>Un pouce qui fait défiler le fil – pour le « spectateur de passage », les 3 premières secondes servent à arrêter ce pouce"
+},
+{
+"key": "part09.html#38",
+"fr": "Plateforme"
+},
+{
+"key": "part09.html#39",
+"fr": "Mode de visionnage"
+},
+{
+"key": "part09.html#40",
+"fr": "Attention"
+},
+{
+"key": "part09.html#41",
+"fr": "Son"
+},
+{
+"key": "part09.html#42",
+"fr": "Rôle des 3 premières s"
+},
+{
+"key": "part09.html#43",
+"fr": "TV"
+},
+{
+"key": "part09.html#44",
+"fr": "Assis, passif"
+},
+{
+"key": "part09.html#45",
+"fr": "Faible"
+},
+{
+"key": "part09.html#46",
+"fr": "Activé"
+},
+{
+"key": "part09.html#47",
+"fr": "Stopper le zapping"
+},
+{
+"key": "part09.html#48",
+"fr": "Cinéma"
+},
+{
+"key": "part09.html#49",
+"fr": "Immergé, captif"
+},
+{
+"key": "part09.html#50",
+"fr": "Très élevée"
+},
+{
+"key": "part09.html#51",
+"fr": "Haute qualité"
+},
+{
+"key": "part09.html#52",
+"fr": "Entrer dans l’univers"
+},
+{
+"key": "part09.html#53",
+"fr": "Pub in-stream YouTube"
+},
+{
+"key": "part09.html#54",
+"fr": "Attend sa vidéo"
+},
+{
+"key": "part09.html#55",
+"fr": "Faible, hostile"
+},
+{
+"key": "part09.html#56",
+"fr": "Activé"
+},
+{
+"key": "part09.html#57",
+"fr": "Éviter le saut de pub"
+},
+{
+"key": "part09.html#58",
+"fr": "Vidéo YouTube"
+},
+{
+"key": "part09.html#59",
+"fr": "Via recherche ou recommandation"
+},
+{
+"key": "part09.html#60",
+"fr": "Élevée"
+},
+{
+"key": "part09.html#61",
+"fr": "Activé"
+},
+{
+"key": "part09.html#62",
+"fr": "Confirmer l’attente"
+},
+{
+"key": "part09.html#63",
+"fr": "Vidéos courtes"
+},
+{
+"key": "part09.html#64",
+"fr": "Défilement, actif"
+},
+{
+"key": "part09.html#65",
+"fr": "Très faible"
+},
+{
+"key": "part09.html#66",
+"fr": "Souvent coupé"
+},
+{
+"key": "part09.html#67",
+"fr": "Arrêter le défilement"
+},
+{
+"key": "part09.html#68",
+"fr": "Fil Instagram"
+},
+{
+"key": "part09.html#69",
+"fr": "Exploration"
+},
+{
+"key": "part09.html#70",
+"fr": "Faible"
+},
+{
+"key": "part09.html#71",
+"fr": "Coupé"
+},
+{
+"key": "part09.html#72",
+"fr": "Accrocher l’œil par la miniature"
+},
+{
+"key": "part09.html#73",
+"fr": "Affichage extérieur"
+},
+{
+"key": "part09.html#74",
+"fr": "En mouvement, par hasard"
+},
+{
+"key": "part09.html#75",
+"fr": "Très faible"
+},
+{
+"key": "part09.html#76",
+"fr": "Aucun"
+},
+{
+"key": "part09.html#77",
+"fr": "Se faire reconnaître par la forme et la couleur"
+},
+{
+"key": "part09.html#78",
+"fr": "Intégration blog"
+},
+{
+"key": "part09.html#79",
+"fr": "Lancée en cours de lecture"
+},
+{
+"key": "part09.html#80",
+"fr": "Élevée"
+},
+{
+"key": "part09.html#81",
+"fr": "Au choix"
+},
+{
+"key": "part09.html#82",
+"fr": "Lien avec le texte"
+},
+{
+"key": "part09.html#83",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part09.html#84",
+"fr": "Chronométrez le temps que vous passez chaque jour sur chaque plateforme, et la carte se précise."
+},
+{
+"key": "part09.html#85",
+"fr": "Spectateurs venus pour regarder"
+},
+{
+"key": "part09.html#86",
+"fr": "Vidéos YouTube trouvées par recherche · recommandation, intégrations blog"
+},
+{
+"key": "part09.html#87",
+"fr": "Il suffit de répondre à leur attente"
+},
+{
+"key": "part09.html#88",
+"fr": "Les 3 premières secondes confirment : « Je suis au bon endroit »"
+},
+{
+"key": "part09.html#89",
+"fr": "Spectateurs de passage"
+},
+{
+"key": "part09.html#90",
+"fr": "In-stream, vidéos courtes, fil, extérieur"
+},
+{
+"key": "part09.html#91",
+"fr": "Il faut créer l’attente"
+},
+{
+"key": "part09.html#92",
+"fr": "Les 3 premières secondes empêchent le saut de pub et le défilement"
+},
+{
+"key": "part09.html#93",
+"fr": "<small>Exercice</small>8.1"
+},
+{
+"key": "part09.html#94",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#95",
+"fr": "Placez sur une carte 5 plateformes que vous utilisez, selon leur finalité (découverte, conversation, vente, archive)."
+},
+{
+"key": "part09.html#96",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#97",
+"fr": "Chronométrez le temps que vous passez chaque jour sur chaque plateforme."
+},
+{
+"key": "part09.html#98",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#99",
+"fr": "Compréhension des caractéristiques des plateformes"
+},
+{
+"key": "part09.html#100",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#101",
+"fr": "Concevez un parcours où un même contenu change de forme en passant d’une plateforme à l’autre."
+},
+{
+"key": "part09.html#102",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#103",
+"fr": "Gérer YouTube"
+},
+{
+"key": "part09.html#104",
+"fr": "YouTube fonctionne à la recherche et à la durée de visionnage. L’enchaînement : gagner le clic avec titre · miniature, tenir la promesse par le contenu, prolonger la session avec la vidéo suivante."
+},
+{
+"key": "part09.html#105",
+"fr": "Rédiger les titres"
+},
+{
+"key": "part09.html#106",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part09.html#107",
+"fr": "Le piège à clics exagéré gagne des clics au début, mais fait baisser la rétention et, au final, réduit les impressions."
+},
+{
+"key": "part09.html#108",
+"fr": "<b>01</b><span>Placez les mots-clés dans les 25 premiers caractères. Sur mobile, la fin est tronquée.</span>"
+},
+{
+"key": "part09.html#109",
+"fr": "<b>02</b><span>Longueur totale : 40–60 caractères. Au-delà de 100, la majeure partie est tronquée.</span>"
+},
+{
+"key": "part09.html#110",
+"fr": "<b>03</b><span>Chiffres et mots concrets l’emportent sur l’abstrait. « 3 méthodes » plutôt que « de bonnes méthodes ».</span>"
+},
+{
+"key": "part09.html#111",
+"fr": "<b>04</b><span>Si vous visez le trafic de recherche, reprenez mot pour mot les expressions que les gens saisissent dans la barre de recherche.</span>"
+},
+{
+"key": "part09.html#112",
+"fr": "<b>05</b><span>Placez le nom de la marque à la fin. En tête, le titre passe pour une publicité et le CTR baisse.</span>"
+},
+{
+"key": "part09.html#113",
+"fr": "Concevoir les miniatures"
+},
+{
+"key": "part09.html#114",
+"fr": "<span class=\"ph-id\">P09-THUMB</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>A/B titre et miniature</b>Un graphiste compare à l’écran trois projets de miniature pour une même vidéo, la main sur la souris</span>"
+},
+{
+"key": "part09.html#115",
+"fr": "<b>Note</b>A/B titre et miniature – selon la miniature, une même vidéo peut voir son CTR multiplié plusieurs fois"
+},
+{
+"key": "part09.html#116",
+"fr": "Élément"
+},
+{
+"key": "part09.html#117",
+"fr": "Repère"
+},
+{
+"key": "part09.html#118",
+"fr": "Erreur courante"
+},
+{
+"key": "part09.html#119",
+"fr": "Longueur du texte"
+},
+{
+"key": "part09.html#120",
+"fr": "3–7 caractères, 2 lignes max."
+},
+{
+"key": "part09.html#121",
+"fr": "Une phrase entière entassée"
+},
+{
+"key": "part09.html#122",
+"fr": "Taille du texte"
+},
+{
+"key": "part09.html#123",
+"fr": "Au moins 15 % de la hauteur d’écran"
+},
+{
+"key": "part09.html#124",
+"fr": "Illisible sur mobile"
+},
+{
+"key": "part09.html#125",
+"fr": "Contraste"
+},
+{
+"key": "part09.html#126",
+"fr": "Fort écart de valeur avec le fond"
+},
+{
+"key": "part09.html#127",
+"fr": "Noyé dans une luminosité voisine"
+},
+{
+"key": "part09.html#128",
+"fr": "Visage"
+},
+{
+"key": "part09.html#129",
+"fr": "Gros plan, expression nette"
+},
+{
+"key": "part09.html#130",
+"fr": "Plan en pied, visage minuscule"
+},
+{
+"key": "part09.html#131",
+"fr": "Couleur"
+},
+{
+"key": "part09.html#132",
+"fr": "2–3 couleurs fixes pour la chaîne"
+},
+{
+"key": "part09.html#133",
+"fr": "Couleurs nouvelles à chaque fois, aucune identité"
+},
+{
+"key": "part09.html#134",
+"fr": "Cohérence"
+},
+{
+"key": "part09.html#135",
+"fr": "Même mise en page pour une série"
+},
+{
+"key": "part09.html#136",
+"fr": "On ne reconnaît pas la chaîne"
+},
+{
+"key": "part09.html#137",
+"fr": "Descriptions, tags, chapitres"
+},
+{
+"key": "part09.html#138",
+"fr": "Les 2–3 premières lignes de la description s’affichent dans les résultats de recherche et les aperçus. Placez-y l’essentiel et les liens."
+},
+{
+"key": "part09.html#139",
+"fr": "Jusqu’à 3 hashtags du début de la description apparaissent au-dessus du titre. Placez d’abord les trois plus importants."
+},
+{
+"key": "part09.html#140",
+"fr": "Le découpage en chapitres par horodatage facilite la navigation dans la vidéo et augmente la durée moyenne de visionnage."
+},
+{
+"key": "part09.html#141",
+"fr": "Un commentaire épinglé, avec un complément d’information ou une question, stimule les échanges en commentaires ; relier la vidéo suivante par les écrans de fin et les fiches allonge la durée de session."
+},
+{
+"key": "part09.html#142",
+"fr": "Ce que regarde l’algorithme"
+},
+{
+"key": "part09.html#143",
+"fr": "Indicateur"
+},
+{
+"key": "part09.html#144",
+"fr": "Signification"
+},
+{
+"key": "part09.html#145",
+"fr": "Comment améliorer"
+},
+{
+"key": "part09.html#146",
+"fr": "Taux de clics (CTR)"
+},
+{
+"key": "part09.html#147",
+"fr": "Clics par impression"
+},
+{
+"key": "part09.html#148",
+"fr": "Revoir titre et miniature"
+},
+{
+"key": "part09.html#149",
+"fr": "Durée moyenne de visionnage"
+},
+{
+"key": "part09.html#150",
+"fr": "Temps d’attention réel"
+},
+{
+"key": "part09.html#151",
+"fr": "Analyser le plan précédant chaque abandon"
+},
+{
+"key": "part09.html#152",
+"fr": "Taux de rétention"
+},
+{
+"key": "part09.html#153",
+"fr": "Part de la durée regardée"
+},
+{
+"key": "part09.html#154",
+"fr": "Raccourcir, couper le creux du milieu"
+},
+{
+"key": "part09.html#155",
+"fr": "Durée de session"
+},
+{
+"key": "part09.html#156",
+"fr": "Temps sur la plateforme après votre vidéo"
+},
+{
+"key": "part09.html#157",
+"fr": "Relier des vidéos associées"
+},
+{
+"key": "part09.html#158",
+"fr": "Engagement"
+},
+{
+"key": "part09.html#159",
+"fr": "J’aime, commentaires, partages, enregistrements"
+},
+{
+"key": "part09.html#160",
+"fr": "Poser des questions, créer des raisons de partager"
+},
+{
+"key": "part09.html#161",
+"fr": "Visites récurrentes"
+},
+{
+"key": "part09.html#162",
+"fr": "Taux de revisionnage des abonnés"
+},
+{
+"key": "part09.html#163",
+"fr": "Publier à rythme régulier"
+},
+{
+"key": "part09.html#164",
+"fr": "Analyser les points d’abandon"
+},
+{
+"key": "part09.html#165",
+"fr": "Repérez les chutes brutales sur la courbe de rétention et examinez le plan qui précède chacune. La cause s’y trouve le plus souvent. Pour un projet étudiant, organisez plutôt une petite projection (une dizaine de personnes) et observez où l’attention retombe."
+},
+{
+"key": "part09.html#166",
+"fr": "<small>Exercice</small>8.2"
+},
+{
+"key": "part09.html#167",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#168",
+"fr": "Ouvrez une chaîne YouTube et planifiez sa description, sa bannière, ses playlists et ses 3 premières vidéos."
+},
+{
+"key": "part09.html#169",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#170",
+"fr": "Définissez en une phrase le problème que la chaîne résout, et pour qui."
+},
+{
+"key": "part09.html#171",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#172",
+"fr": "Clarté de l’identité de la chaîne"
+},
+{
+"key": "part09.html#173",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#174",
+"fr": "Concevez playlists et écrans de fin pour que les 3 premières vidéos se recommandent mutuellement."
+},
+{
+"key": "part09.html#175",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#176",
+"fr": "Comparatif des 3 grandes plateformes de vidéo courte"
+},
+{
+"key": "part09.html#177",
+"fr": "La même vidéo verticale de 30 secondes n’est pas reçue de la même façon sur Shorts · Reels · TikTok. Habitudes des utilisateurs, durées sûres et voies de diffusion : tout diffère."
+},
+{
+"key": "part09.html#178",
+"fr": "<span class=\"ph-id\">P09-DANCE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>La culture du challenge</b>Dans un parc, des adolescents filment un challenge de danse avec un téléphone sur trépied ; l’un d’eux vérifie la prise</span>"
+},
+{
+"key": "part09.html#179",
+"fr": "<b>Note</b>La culture du challenge – le même morceau et les mêmes gestes se propagent à des vitesses différentes selon la plateforme"
+},
+{
+"key": "part09.html#180",
+"fr": "Critère"
+},
+{
+"key": "part09.html#181",
+"fr": "YouTube Shorts"
+},
+{
+"key": "part09.html#182",
+"fr": "Instagram Reels"
+},
+{
+"key": "part09.html#183",
+"fr": "TikTok"
+},
+{
+"key": "part09.html#184",
+"fr": "Habitudes d’usage"
+},
+{
+"key": "part09.html#185",
+"fr": "Liées à la recherche et à la consommation d’information"
+},
+{
+"key": "part09.html#186",
+"fr": "Soin visuel et goût"
+}
+]

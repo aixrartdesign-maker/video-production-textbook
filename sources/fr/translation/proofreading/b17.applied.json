@@ -1,0 +1,38 @@
+[
+ {
+  "key": "part14b.html#623",
+  "find": "3200 K",
+  "replace": "3200 K",
+  "why": "typography: no-break space before K"
+ },
+ {
+  "key": "part14b.html#624",
+  "find": "5600 K",
+  "replace": "5600 K",
+  "why": "typography: no-break space before K"
+ },
+ {
+  "key": "part14b.html#625",
+  "find": "7500 K",
+  "replace": "7500 K",
+  "why": "typography: no-break space before K"
+ },
+ {
+  "key": "part14b.html#524",
+  "find": "vidéos exemplaires",
+  "replace": "vidéos d’exemple",
+  "why": "meaning: 'example videos', not 'exemplary videos'"
+ },
+ {
+  "key": "templates.html#232",
+  "find": "se lit de haut→bas",
+  "replace": "se lit haut→bas",
+  "why": "other: 'de haut→bas' unnatural; matches 'Lecture haut→bas' elsewhere"
+ },
+ {
+  "key": "templates.html#429",
+  "find": "dans ±30°",
+  "replace": "dans les ±30°",
+  "why": "grammar: missing article"
+ }
+]

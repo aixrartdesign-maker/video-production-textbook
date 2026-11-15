@@ -1,0 +1,602 @@
+[
+{
+"key": "part11.html#491",
+"fr": "Format de base pour l’envoi d’un travail"
+},
+{
+"key": "part11.html#492",
+"fr": "Bonjour, ici OOO. Voici la 1re version de la publicité de 15 secondes que vous avez demandée. 1. Lien : (URL) sans mot de passe, téléchargeable 2. Modifications : calage du logo modifié selon notre dernière réunion, police des sous-titres remplacée 3. À vérifier : la transition musicale à 0:08 fonctionne-t-elle 4. Étape suivante : 2e version dans les 2 jours suivant vos retours. Merci."
+},
+{
+"key": "part11.html#493",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part11.html#494",
+"fr": "Annoncez d’emblée l’étape suivante. Ne pas faire attendre est le cœur de la confiance."
+},
+{
+"key": "part11.html#495",
+"fr": "Vérifiez toujours qu’un lien s’ouvre dans une fenêtre de navigation privée avant de l’envoyer."
+},
+{
+"key": "part11.html#496",
+"fr": "Précisez ce que vous voulez faire vérifier. Avec un simple « merci de relire », votre interlocuteur ne saura pas quoi regarder."
+},
+{
+"key": "part11.html#497",
+"fr": "Indiquez le nom du projet, la version et la date dans le nom du fichier."
+},
+{
+"key": "part11.html#498",
+"fr": "Répondez aux demandes de correction en les classant par timecode. Ce qui s’échange à l’oral finit par se perdre."
+},
+{
+"key": "part11.html#499",
+"fr": "Règles d’usage des outils collaboratifs"
+},
+{
+"key": "part11.html#500",
+"fr": "Type d’outil"
+},
+{
+"key": "part11.html#501",
+"fr": "Usage"
+},
+{
+"key": "part11.html#502",
+"fr": "Remarque"
+},
+{
+"key": "part11.html#503",
+"fr": "Messagerie"
+},
+{
+"key": "part11.html#504",
+"fr": "Vérifications rapides, calage des dates"
+},
+{
+"key": "part11.html#505",
+"fr": "Toujours reprendre les décisions par écrit"
+},
+{
+"key": "part11.html#506",
+"fr": "Outil de revue vidéo"
+},
+{
+"key": "part11.html#507",
+"fr": "Retours au timecode"
+},
+{
+"key": "part11.html#508",
+"fr": "Convenir des règles de versions"
+},
+{
+"key": "part11.html#509",
+"fr": "Stockage cloud"
+},
+{
+"key": "part11.html#510",
+"fr": "Partage des sources et des exports"
+},
+{
+"key": "part11.html#511",
+"fr": "Vérifier droits d’accès et espace"
+},
+{
+"key": "part11.html#512",
+"fr": "Documents partagés"
+},
+{
+"key": "part11.html#513",
+"fr": "Notes d’intention, comptes rendus"
+},
+{
+"key": "part11.html#514",
+"fr": "Vérifier l’historique en coédition"
+},
+{
+"key": "part11.html#515",
+"fr": "Planning"
+},
+{
+"key": "part11.html#516",
+"fr": "Partager échéances et jours de tournage"
+},
+{
+"key": "part11.html#517",
+"fr": "Signaler tout changement aussitôt"
+},
+{
+"key": "part11.html#518",
+"fr": "En cas de conflit"
+},
+{
+"key": "part11.html#519",
+"fr": "<b>01</b><i>Fait ou interprétation</i>Établir d’abord ce qui s’est réellement passé"
+},
+{
+"key": "part11.html#520",
+"fr": "<b>02</b><i>Appeler ou se voir</i>L’écrit amplifie les émotions"
+},
+{
+"key": "part11.html#521",
+"fr": "<b>03</b><i>S’en tenir aux documents</i>La PPM et le contrat font ici autorité"
+},
+{
+"key": "part11.html#522",
+"fr": "<b>04</b><i>La solution d’abord</i>Ne soulever que des problèmes met l’autre sur la défensive"
+},
+{
+"key": "part11.html#523",
+"fr": "<b>05</b><i>Consigner l’issue</i>Reprendre la conclusion par écrit"
+},
+{
+"key": "part11.html#524",
+"fr": "<small>Exercice</small>10.12"
+},
+{
+"key": "part11.html#525",
+"fr": "Tâche"
+},
+{
+"key": "part11.html#526",
+"fr": "Menez un projet d’équipe avec des outils de collaboration à distance et compilez le journal des échanges."
+},
+{
+"key": "part11.html#527",
+"fr": "Conseil"
+},
+{
+"key": "part11.html#528",
+"fr": "Convenez d’abord du nommage des fichiers et des versions."
+},
+{
+"key": "part11.html#529",
+"fr": "Évaluation"
+},
+{
+"key": "part11.html#530",
+"fr": "Clarté des échanges, gestion des fichiers"
+},
+{
+"key": "part11.html#531",
+"fr": "Corrigé type"
+},
+{
+"key": "part11.html#532",
+"fr": "Tient un tableau partagé qui montre l’avancement sans réunion."
+},
+{
+"key": "part11.html#533",
+"fr": "<b>PARTIE 11</b>Emploi et carrière"
+},
+{
+"key": "part11.html#534",
+"fr": "Banque de questions d’entretien par métier"
+},
+{
+"key": "part11.html#535",
+"fr": "Des questions qui reviennent sans cesse dans les vrais entretiens. Entraînez-vous à y répondre à voix haute. Ce qui est clair dans la tête ne sort pas tel quel de la bouche."
+},
+{
+"key": "part11.html#536",
+"fr": "Questions courantes"
+},
+{
+"key": "part11.html#537",
+"fr": "Présentez-vous en une phrase."
+},
+{
+"key": "part11.html#538",
+"fr": "Faites tenir en une phrase votre rôle, votre point fort et une réalisation qui le prouve."
+},
+{
+"key": "part11.html#539",
+"fr": "Quelle réalisation de votre portfolio vous tient le plus à cœur, et pourquoi ?"
+},
+{
+"key": "part11.html#540",
+"fr": "Répondez dans l’ordre : intention, problème, solution, résultat."
+},
+{
+"key": "part11.html#541",
+"fr": "Parlez-nous de votre mission la plus difficile et de votre solution."
+},
+{
+"key": "part11.html#542",
+"fr": "Donnez la situation précise et votre raisonnement."
+},
+{
+"key": "part11.html#543",
+"fr": "Quand un délai est serré, à quoi renoncez-vous en premier ?"
+},
+{
+"key": "part11.html#544",
+"fr": "Expliquez comment vous fixez vos priorités."
+},
+{
+"key": "part11.html#545",
+"fr": "Avez-vous déjà eu du mal à accepter un retour ?"
+},
+{
+"key": "part11.html#546",
+"fr": "Expliquez comment vous l’avez intégré et comment vous l’avez vérifié."
+},
+{
+"key": "part11.html#547",
+"fr": "Qu’avez-vous appris ces 6 derniers mois ?"
+},
+{
+"key": "part11.html#548",
+"fr": "Reliez votre réponse à un travail récent."
+},
+{
+"key": "part11.html#549",
+"fr": "Citez un de nos contenus qui vous a marqué et un autre qui vous a moins convaincu."
+},
+{
+"key": "part11.html#550",
+"fr": "Restez respectueux, mais proposez une amélioration concrète."
+},
+{
+"key": "part11.html#551",
+"fr": "Que vous voyez-vous faire dans 5 ans ?"
+},
+{
+"key": "part11.html#552",
+"fr": "Donnez un plan réaliste lié au poste."
+},
+{
+"key": "part11.html#553",
+"fr": "Questions approfondies par métier"
+},
+{
+"key": "part11.html#554",
+"fr": "Montage"
+},
+{
+"key": "part11.html#555",
+"fr": "Combien de temps vous prend en général un ours / Comment décidez-vous où couper / Pourquoi utiliser des proxys"
+},
+{
+"key": "part11.html#556",
+"fr": "Prise de vues"
+},
+{
+"key": "part11.html#557",
+"fr": "Comment réglez-vous en intérieur sombre / Pourquoi fixer l’obturation / Quels objectifs avez-vous utilisés"
+},
+{
+"key": "part11.html#558",
+"fr": "Réalisation"
+},
+{
+"key": "part11.html#559",
+"fr": "Que faites-vous quand les idées manquent / En cas de désaccord avec le client / Le concept en une phrase"
+},
+{
+"key": "part11.html#560",
+"fr": "Motion design"
+},
+{
+"key": "part11.html#561",
+"fr": "Pourquoi utiliser l’easing / Étapes pour intégrer un texte 3D à une prise de vues réelle / Avez-vous utilisé des expressions"
+},
+{
+"key": "part11.html#562",
+"fr": "Marketing de contenu"
+},
+{
+"key": "part11.html#563",
+"fr": "Si les vues sont faibles, que vérifiez-vous d’abord / Stratégie de hashtags / Une campagne qui a échoué"
+},
+{
+"key": "part11.html#564",
+"fr": "Conception XR"
+},
+{
+"key": "part11.html#565",
+"fr": "Comment calculez-vous le temps de visite / Et si le matériel tombe en panne / Que vérifier lors d’un repérage"
+},
+{
+"key": "part11.html#566",
+"fr": "Structure de réponse STAR"
+},
+{
+"key": "part11.html#567",
+"fr": "<b>S</b><i>Situation</i>Une phrase sur le contexte"
+},
+{
+"key": "part11.html#568",
+"fr": "<b>T</b><i>Tâche</i>Une phrase sur votre mission"
+},
+{
+"key": "part11.html#569",
+"fr": "<b>A</b><i>Action</i>Deux ou trois phrases sur ce que vous avez fait exactement"
+},
+{
+"key": "part11.html#570",
+"fr": "<b>R</b><i>Résultat</i>Une phrase sur le résultat, chiffré si possible"
+},
+{
+"key": "part11.html#571",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part11.html#572",
+"fr": "Le jour J : ouvrez vos liens sur téléphone et sur portable, révisez pour chaque réalisation période · matériel · rôle, préparez un avis d’une ligne sur 3 travaux récents de l’entreprise et deux questions, arrivez 10 minutes en avance."
+},
+{
+"key": "part11.html#573",
+"fr": "Exemple de réponse STAR"
+},
+{
+"key": "part11.html#574",
+"fr": "Alors que les vues du compte du département stagnaient (S), j’ai pris en charge la conception et le montage d’une série de vidéos courtes (T), réalisé 6 épisodes sous forme d’interviews d’étudiants en repensant entièrement les 3 premières secondes (A), et multiplié par 8 les vues moyennes en 3 mois (R)."
+},
+{
+"key": "part11.html#575",
+"fr": "<small>Exercice</small>10.13"
+},
+{
+"key": "part11.html#576",
+"fr": "Tâche"
+},
+{
+"key": "part11.html#577",
+"fr": "Choisissez 10 questions dans la banque de questions par métier et rédigez vos réponses."
+},
+{
+"key": "part11.html#578",
+"fr": "Conseil"
+},
+{
+"key": "part11.html#579",
+"fr": "Reliez chaque réponse à un exemple tiré de votre propre travail."
+},
+{
+"key": "part11.html#580",
+"fr": "Évaluation"
+},
+{
+"key": "part11.html#581",
+"fr": "Précision des réponses"
+},
+{
+"key": "part11.html#582",
+"fr": "Corrigé type"
+},
+{
+"key": "part11.html#583",
+"fr": "Se prépare aussi aux questions de relance probables."
+},
+{
+"key": "part11.html#584",
+"fr": "<b>PARTIE 11</b>Emploi et carrière"
+},
+{
+"key": "part11.html#585",
+"fr": "Retours types sur des travaux d’étudiants"
+},
+{
+"key": "part11.html#586",
+"fr": "Douze reproches qui reviennent sans cesse en séance de critique, et comment y remédier. Passez cette liste en revue avant de rendre votre travail."
+},
+{
+"key": "part11.html#587",
+"fr": "Problème"
+},
+{
+"key": "part11.html#588",
+"fr": "Cause"
+},
+{
+"key": "part11.html#589",
+"fr": "Solution"
+},
+{
+"key": "part11.html#590",
+"fr": "Le début traîne"
+},
+{
+"key": "part11.html#591",
+"fr": "Ouverture sur un logo ou un fondu"
+},
+{
+"key": "part11.html#592",
+"fr": "Placer la scène la plus forte en tout premier"
+},
+{
+"key": "part11.html#593",
+"fr": "On ne comprend pas le propos"
+},
+{
+"key": "part11.html#594",
+"fr": "Deux messages ou plus"
+},
+{
+"key": "part11.html#595",
+"fr": "En garder un, couper le reste"
+},
+{
+"key": "part11.html#596",
+"fr": "Son faible et étouffé"
+},
+{
+"key": "part11.html#597",
+"fr": "Micro intégré de la caméra"
+},
+{
+"key": "part11.html#598",
+"fr": "Micro externe, normalisation du niveau sonore"
+},
+{
+"key": "part11.html#599",
+"fr": "Visages sombres"
+},
+{
+"key": "part11.html#600",
+"fr": "Contre-jour, pas d’appoint"
+},
+{
+"key": "part11.html#601",
+"fr": "Réflecteur, ou refaire l’exposition"
+},
+{
+"key": "part11.html#602",
+"fr": "La couleur change d’un plan à l’autre"
+},
+{
+"key": "part11.html#603",
+"fr": "Balance des blancs automatique"
+},
+{
+"key": "part11.html#604",
+"fr": "Fixer en manuel, raccorder en postproduction"
+},
+{
+"key": "part11.html#605",
+"fr": "Les coupes sont heurtées"
+},
+{
+"key": "part11.html#606",
+"fr": "Coupe après la fin de l’action"
+},
+{
+"key": "part11.html#607",
+"fr": "Couper dans le mouvement"
+},
+{
+"key": "part11.html#608",
+"fr": "Sous-titres illisibles"
+},
+{
+"key": "part11.html#609",
+"fr": "Petits caractères, faible contraste"
+},
+{
+"key": "part11.html#610",
+"fr": "Agrandir, ajouter contour ou fond"
+},
+{
+"key": "part11.html#611",
+"fr": "Le milieu ennuie"
+},
+{
+"key": "part11.html#612",
+"fr": "Plans de même durée, répétés"
+},
+{
+"key": "part11.html#613",
+"fr": "Varier les durées, ajouter des inserts"
+},
+{
+"key": "part11.html#614",
+"fr": "La fin s’essouffle"
+},
+{
+"key": "part11.html#615",
+"fr": "Fin non prévue"
+},
+{
+"key": "part11.html#616",
+"fr": "Plan le plus long et logo en dernier"
+},
+{
+"key": "part11.html#617",
+"fr": "Les incrustations font plaqué"
+},
+{
+"key": "part11.html#618",
+"fr": "Ni ombres ni grain"
+},
+{
+"key": "part11.html#619",
+"fr": "Ombres de contact, grain raccordé"
+},
+{
+"key": "part11.html#620",
+"fr": "Décalage avec la musique"
+},
+{
+"key": "part11.html#621",
+"fr": "Musique posée en dernier"
+},
+{
+"key": "part11.html#622",
+"fr": "Poser la musique d’abord, puis caler les coupes"
+},
+{
+"key": "part11.html#623",
+"fr": "Rogné en vertical"
+},
+{
+"key": "part11.html#624",
+"fr": "Cadré pour l’horizontal seulement"
+},
+{
+"key": "part11.html#625",
+"fr": "Guide de zone de sécurité vertical"
+},
+{
+"key": "part11.html#626",
+"fr": "Comment présenter en séance de critique"
+},
+{
+"key": "part11.html#627",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part11.html#628",
+"fr": "Une vidéo qui a besoin d’explications a déjà un problème. Les objections peuvent attendre la correction."
+},
+{
+"key": "part11.html#629",
+"fr": "<b>01</b><i>Le travail d’abord</i>Montrer d’abord, expliquer ensuite"
+},
+{
+"key": "part11.html#630",
+"fr": "<b>02</b><i>Une phrase</i>Énoncer son intention en une phrase"
+},
+{
+"key": "part11.html#631",
+"fr": "<b>03</b><i>Autocritique</i>Dire ce qui marche ou non avant que les autres le fassent"
+},
+{
+"key": "part11.html#632",
+"fr": "<b>04</b><i>Demander un retour précis</i>Rythme du montage, couleur ou son"
+},
+{
+"key": "part11.html#633",
+"fr": "<b>05</b><i>Prendre des notes</i>Noter les critiques, sans se justifier"
+},
+{
+"key": "part11.html#634",
+"fr": "<small>Exercice</small>10.14"
+},
+{
+"key": "part11.html#635",
+"fr": "Tâche"
+},
+{
+"key": "part11.html#636",
+"fr": "Faites un retour à un camarade selon la grille « points forts · améliorations · prochain essai »."
+},
+{
+"key": "part11.html#637",
+"fr": "Conseil"
+},
+{
+"key": "part11.html#638",
+"fr": "Citez des timecodes précis."
+},
+{
+"key": "part11.html#639",
+"fr": "Évaluation"
+},
+{
+"key": "part11.html#640",
+"fr": "Précision et respect du retour"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#815",
+"fr": "<small>Exercice</small>8.12"
+},
+{
+"key": "part09.html#816",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#817",
+"fr": "Rédigez un plan publicitaire SNS avec un petit budget, réel ou fictif (objectif, cible, création, budget, indicateurs)."
+},
+{
+"key": "part09.html#818",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#819",
+"fr": "Préparez au moins 2 créations et concevez un test comparatif."
+},
+{
+"key": "part09.html#820",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#821",
+"fr": "Objectifs reliés aux indicateurs, répartition du budget"
+},
+{
+"key": "part09.html#822",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#823",
+"fr": "Va jusqu’au rapport de résultats après la diffusion."
+},
+{
+"key": "part09.html#824",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#825",
+"fr": "Concevoir une chaîne de production IA"
+},
+{
+"key": "part09.html#826",
+"fr": "Ce qui sépare ceux qui utilisent les outils génératifs des autres, ce n’est pas la vitesse, c’est la structure. Confiez tout le processus à l’IA et la cohérence s’effondre ; ne l’utilisez pas du tout et vous perdez en volume. L’essentiel est de décider quoi insérer, et à quel point de la chaîne."
+},
+{
+"key": "part09.html#827",
+"fr": "<span class=\"ph-id\">P09-AISTUDIO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Chaîne de production IA</b>Un créateur dirigeant des vidéos générées devant un grand écran, une grille de variantes de clips générés et un panneau de prompts, studio sombre</span>"
+},
+{
+"key": "part09.html#828",
+"fr": "<b>Note</b>Chaîne de production IA – le réalisateur est celui qui sait lequel choisir parmi des dizaines d’essais"
+},
+{
+"key": "part09.html#829",
+"fr": "L’IA ne remplace pas tout le processus ; elle s’insère en trois points"
+},
+{
+"key": "part09.html#830",
+"fr": "<b>Conception</b><span class=\"deg\">Modèle de langage</span><span>20 idées → 3 retenues</span>"
+},
+{
+"key": "part09.html#831",
+"fr": "<b>Visualisation</b><span class=\"deg\">Génération d’images</span><span>Planche d’ambiance · ébauches de storyboard</span>"
+},
+{
+"key": "part09.html#832",
+"fr": "<b>Tournage / génération</b><span class=\"deg\">Génération vidéo</span><span>Remplace les inserts impossibles à tourner</span>"
+},
+{
+"key": "part09.html#833",
+"fr": "<b>Voix</b><span class=\"deg\">Synthèse vocale</span><span>Narration provisoire · multilingue</span>"
+},
+{
+"key": "part09.html#834",
+"fr": "<b>Montage</b><span class=\"deg\">Sous-titres auto · bout-à-bout</span><span>1er montage et ébauche de sous-titres</span>"
+},
+{
+"key": "part09.html#835",
+"fr": "<b>Validation</b><span class=\"deg\">Humain</span><span>Décision finale : faits · droits · qualité</span>"
+},
+{
+"key": "part09.html#836",
+"fr": "L’IA ne remplace pas tout le processus ; elle s’insère en <b>trois points</b> : élargir les idées · visualiser les ébauches · automatiser la postproduction. Le jugement et l’accord restent l’affaire des humains."
+},
+{
+"key": "part09.html#837",
+"fr": "<b>Fig. 84</b> La chaîne de production IA – l’IA intervient dans cinq des six étapes ; un humain assure la validation finale."
+},
+{
+"key": "part09.html#838",
+"fr": "<b>Fig. 85</b> Carte des outils génératifs"
+},
+{
+"key": "part09.html#839",
+"fr": "Carte des outils"
+},
+{
+"key": "part09.html#840",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part09.html#841",
+"fr": "Les outils changent sans cesse. Retenez les catégories et les limites, pas les noms des services."
+},
+{
+"key": "part09.html#842",
+"fr": "Catégorie"
+},
+{
+"key": "part09.html#843",
+"fr": "Outils types"
+},
+{
+"key": "part09.html#844",
+"fr": "Usage pratique"
+},
+{
+"key": "part09.html#845",
+"fr": "Limites"
+},
+{
+"key": "part09.html#846",
+"fr": "Modèles de langage"
+},
+{
+"key": "part09.html#847",
+"fr": "ChatGPT, Gemini, Claude"
+},
+{
+"key": "part09.html#848",
+"fr": "Élargir les idées, ébauches de scénario, variantes de textes, tri de la documentation"
+},
+{
+"key": "part09.html#849",
+"fr": "Faits à vérifier ; pas de décision finale"
+},
+{
+"key": "part09.html#850",
+"fr": "Génération d’images"
+},
+{
+"key": "part09.html#851",
+"fr": "GPT Image, Nano Banana, Midjourney, Seedream"
+},
+{
+"key": "part09.html#852",
+"fr": "Planches d’ambiance, concept art, ébauches de storyboard, fonds"
+},
+{
+"key": "part09.html#853",
+"fr": "Texte mal rendu, cohérence difficile à tenir"
+},
+{
+"key": "part09.html#854",
+"fr": "Génération vidéo"
+},
+{
+"key": "part09.html#855",
+"fr": "Sora, Veo, Kling, Seedance, Runway, Higgsfield"
+},
+{
+"key": "part09.html#856",
+"fr": "Inserts, fonds, scènes impossibles à tourner, prévisualisation"
+},
+{
+"key": "part09.html#857",
+"fr": "Durée limitée, cohérence des personnages, erreurs de physique"
+},
+{
+"key": "part09.html#858",
+"fr": "Synthèse vocale"
+},
+{
+"key": "part09.html#859",
+"fr": "ElevenLabs, Typecast, Seed Audio"
+},
+{
+"key": "part09.html#860",
+"fr": "Narration témoin, doublage multilingue, essais d’ébauches"
+},
+{
+"key": "part09.html#861",
+"fr": "Ne jamais cloner la voix d’une personne réelle"
+},
+{
+"key": "part09.html#862",
+"fr": "Génération musicale"
+},
+{
+"key": "part09.html#863",
+"fr": "Suno, Udio"
+},
+{
+"key": "part09.html#864",
+"fr": "Musique témoin pour les ébauches, recherche d’ambiance"
+},
+{
+"key": "part09.html#865",
+"fr": "Conditions d’usage commercial à vérifier"
+},
+{
+"key": "part09.html#866",
+"fr": "Aides au montage"
+},
+{
+"key": "part09.html#867",
+"fr": "Vrew, CapCut, fonctions IA de Premiere"
+},
+{
+"key": "part09.html#868",
+"fr": "Sous-titres auto, coupe des silences, 1er bout-à-bout"
+},
+{
+"key": "part09.html#869",
+"fr": "Erreurs sur les noms propres, aucun sens du rythme"
+},
+{
+"key": "part09.html#870",
+"fr": "Génération 3D"
+},
+{
+"key": "part09.html#871",
+"fr": "Meshy, Tripo"
+},
+{
+"key": "part09.html#872",
+"fr": "Accessoires, prototypes de personnages"
+},
+{
+"key": "part09.html#873",
+"fr": "Nettoyage des polygones nécessaire"
+},
+{
+"key": "part09.html#874",
+"fr": "Réaliser une pub de 15 secondes avec l’IA, étape par étape"
+},
+{
+"key": "part09.html#875",
+"fr": "<b>01</b><i>Diverger</i>Soumettre le brief à un modèle de langage ; obtenir 20 irritants et 10 pistes de concept"
+},
+{
+"key": "part09.html#876",
+"fr": "<b>02</b><i>Converger</i>Un humain en retient 3 et rédige le concept en une phrase. Cette phrase-là ne se délègue jamais"
+},
+{
+"key": "part09.html#877",
+"fr": "<b>03</b><i>Visualiser</i>Planche d’ambiance et ébauches d’un storyboard de 6 plans par génération d’images. C’est là que l’accord sur le ton et le style s’accélère le plus"
+},
+{
+"key": "part09.html#878",
+"fr": "<b>04</b><i>Prévisualiser</i>Passer le storyboard à la génération vidéo pour obtenir une animatique. Repérer les problèmes de rythme avant le tournage"
+},
+{
+"key": "part09.html#879",
+"fr": "<b>05</b><i>Répartir les plans</i>Séparer plans réels et plans générés. Tout plan où un visage se voit nettement gagne à être tourné en réel"
+},
+{
+"key": "part09.html#880",
+"fr": "<b>06</b><i>Unifier</i>En postproduction, accorder les plans générés à la température de couleur et au grain des plans réels. Sinon, cela se voit aussitôt"
+},
+{
+"key": "part09.html#881",
+"fr": "<b>07</b><i>Narration provisoire</i>Tester durée et rythme en synthèse vocale. Pour la version finale, la remplacer par un comédien voix ou votre propre enregistrement"
+},
+{
+"key": "part09.html#882",
+"fr": "<b>08</b><i>Musique témoin</i>Caler le rythme du montage sur une musique générée, puis la remplacer à la livraison par des titres aux droits clairs"
+},
+{
+"key": "part09.html#883",
+"fr": "<b>09</b><i>Vérifier les sous-titres</i>Générer un premier jet automatique ; un humain vérifie noms propres et orthographe"
+},
+{
+"key": "part09.html#884",
+"fr": "<b>10</b><i>Consigner l’usage</i>Noter l’usage de l’IA dans les documents de production. Concours et livraisons exigent de plus en plus cette mention"
+},
+{
+"key": "part09.html#885",
+"fr": "Trois règles pour mêler plans générés et prises de vues réelles"
+},
+{
+"key": "part09.html#886",
+"fr": "<b>Visages<em>interdits</em></b>Pas pour les plans où un visage occupe une grande part du cadre"
+},
+{
+"key": "part09.html#887",
+"fr": "<b>1/3<em>max.</em></b>Limiter les plans générés à 1/3 de l’œuvre au plus"
+},
+{
+"key": "part09.html#888",
+"fr": "<b>Optique<em>+grain</em></b>Appliquer aux plans générés la distorsion optique et le grain des plans réels"
+},
+{
+"key": "part09.html#889",
+"fr": "Cinq règles pour rédiger un prompt"
+},
+{
+"key": "part09.html#890",
+"fr": "Écrivez dans cet ordre : sujet, action, lieu, moment, lumière, objectif, ambiance. Plus c’est précis, comme une consigne de tournage, plus le résultat est stable."
+},
+{
+"key": "part09.html#891",
+"fr": "La formulation positive fonctionne mieux que la négative. Écrivez « une rue vide », et non « sans personne »."
+},
+{
+"key": "part09.html#892",
+"fr": "Employez le vocabulaire de la caméra. La plupart des modèles ont appris des mots comme grand-angle, téléobjectif, contre-plongée ou faible profondeur de champ."
+},
+{
+"key": "part09.html#893",
+"fr": "Ne demandez pas de texte dans l’image. Ajouter vous-même les lettrages au montage est toujours plus précis."
+},
+{
+"key": "part09.html#894",
+"fr": "Lancer plusieurs fois le même prompt puis choisir va plus vite que s’acharner à écrire d’emblée le prompt parfait."
+},
+{
+"key": "part09.html#895",
+"fr": "<small>Exercice</small>8.13"
+},
+{
+"key": "part09.html#896",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#897",
+"fr": "Concevez une chaîne de production qui place des outils d’IA à chaque étape, de la conception au montage, et terminez une vidéo de 1 minute."
+},
+{
+"key": "part09.html#898",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#899",
+"fr": "Marquez les points où un humain doit décider."
+},
+{
+"key": "part09.html#900",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#901",
+"fr": "Efficacité de la chaîne, contrôle qualité, mention de l’usage"
+},
+{
+"key": "part09.html#902",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#903",
+"fr": "Indique ouvertement ce qui a été fait par l’IA et ce qui l’a été par des humains."
+},
+{
+"key": "part09.html#904",
+"fr": "<b>PARTIE 09</b>Gestion des plateformes et IA générative"
+},
+{
+"key": "part09.html#905",
+"fr": "Le paysage des entreprises et le cap du marché"
+},
+{
+"key": "part09.html#906",
+"fr": "Le paysage des outils génératifs bouge vite, mais ses entreprises se rangent en quelques types. Sachez qui vise quoi : choisir ses outils et fixer ses priorités d’apprentissage devient plus simple."
+},
+{
+"key": "part09.html#907",
+"fr": "Type"
+},
+{
+"key": "part09.html#908",
+"fr": "Entreprises clés"
+},
+{
+"key": "part09.html#909",
+"fr": "Position dans la vidéo"
+},
+{
+"key": "part09.html#910",
+"fr": "Conséquence pour les créateurs"
+},
+{
+"key": "part09.html#911",
+"fr": "Modèles de fondation"
+},
+{
+"key": "part09.html#912",
+"fr": "OpenAI, Google, Anthropic"
+},
+{
+"key": "part09.html#913",
+"fr": "Fournissent les modèles de base du langage et de la génération vidéo"
+},
+{
+"key": "part09.html#914",
+"fr": "Productivité en conception et en rédaction"
+},
+{
+"key": "part09.html#915",
+"fr": "Plateformes"
+},
+{
+"key": "part09.html#916",
+"fr": "Google (YouTube), Meta, ByteDance"
+},
+{
+"key": "part09.html#917",
+"fr": "Contrôlent la diffusion et les algorithmes de recommandation"
+},
+{
+"key": "part09.html#918",
+"fr": "La visibilité, plus que la production, décide des résultats"
+},
+{
+"key": "part09.html#919",
+"fr": "Appareils"
+},
+{
+"key": "part09.html#920",
+"fr": "Apple, Google, Meta"
+},
+{
+"key": "part09.html#921",
+"fr": "Informatique spatiale et appareils de captation"
+},
+{
+"key": "part09.html#922",
+"fr": "De nouveaux formats d’écran apparaissent"
+},
+{
+"key": "part09.html#923",
+"fr": "Spécialistes de la génération vidéo"
+},
+{
+"key": "part09.html#924",
+"fr": "Runway, Higgsfield, Kling, Seedance"
+},
+{
+"key": "part09.html#925",
+"fr": "S’intègrent directement aux flux de production"
+},
+{
+"key": "part09.html#926",
+"fr": "Adoptés d’emblée comme outils de travail"
+},
+{
+"key": "part09.html#927",
+"fr": "Audio"
+},
+{
+"key": "part09.html#928",
+"fr": "ElevenLabs, Suno"
+},
+{
+"key": "part09.html#929",
+"fr": "Génération de voix et de musique"
+},
+{
+"key": "part09.html#930",
+"fr": "Le coût des ébauches s’effondre"
+},
+{
+"key": "part09.html#931",
+"fr": "Logiciels"
+},
+{
+"key": "part09.html#932",
+"fr": "Adobe, Blackmagic"
+},
+{
+"key": "part09.html#933",
+"fr": "IA intégrée aux outils de montage existants"
+},
+{
+"key": "part09.html#934",
+"fr": "Aucun nouvel outil à apprendre"
+},
+{
+"key": "part09.html#935",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part09.html#936",
+"fr": "Comprenez les catégories plutôt que de mémoriser des noms de services : quand un nouveau service paraît, vous saurez aussitôt où le ranger."
+},
+{
+"key": "part09.html#937",
+"fr": "<small>Plateformes</small>Qui tient l’algorithme décide des résultats"
+},
+{
+"key": "part09.html#938",
+"fr": "Savoir produire ne suffit pas à obtenir des résultats"
+},
+{
+"key": "part09.html#939",
+"fr": "Pourquoi titre · miniature · stratégie de publication relèvent désormais de la réalisation"
+},
+{
+"key": "part09.html#940",
+"fr": "<small>Appareils</small>Nouveaux formats d’écran, nouvelles formes"
+},
+{
+"key": "part09.html#941",
+"fr": "Comme l’écran vertical a créé la vidéo courte"
+},
+{
+"key": "part09.html#942",
+"fr": "Les écrans spatiaux créeront une autre forme encore"
+},
+{
+"key": "part09.html#943",
+"fr": "<small>Logiciels</small>L’IA intégrée avantage les débutants"
+},
+{
+"key": "part09.html#944",
+"fr": "Sous-titres auto et détourage du fond sans outil en plus"
+},
+{
+"key": "part09.html#945",
+"fr": "Disponibles d’emblée en fonctions standard"
+},
+{
+"key": "part09.html#946",
+"fr": "<b>Fig. 86</b> L’ordre de lecture des indicateurs de performance"
+},
+{
+"key": "part09.html#947",
+"fr": "<small>Exercice</small>8.14"
+},
+{
+"key": "part09.html#948",
+"fr": "Tâche"
+},
+{
+"key": "part09.html#949",
+"fr": "Étudiez une entreprise de la vidéo qui vous intéresse et résumez en 1 page son modèle économique et son orientation récente."
+},
+{
+"key": "part09.html#950",
+"fr": "Conseil"
+},
+{
+"key": "part09.html#951",
+"fr": "Vérifiez les annonces officielles et la date des articles."
+},
+{
+"key": "part09.html#952",
+"fr": "Évaluation"
+},
+{
+"key": "part09.html#953",
+"fr": "Exactitude des informations, regard analytique"
+},
+{
+"key": "part09.html#954",
+"fr": "Corrigé type"
+},
+{
+"key": "part09.html#955",
+"fr": "Précise ensuite quel portfolio il faudrait pour postuler dans cette entreprise."
+},
+{
+"key": "part09.html#956",
+"fr": "Bilan PARTIE 08–09"
+},
+{
+"key": "part09.html#957",
+"fr": "Exercices et révision"
+},
+{
+"key": "part09.html#958",
+"fr": "<b>Classer les types d’accroche</b>Capturez les 3 premières secondes de 3 pubs que vous aimez et classez leur type d’accroche."
+},
+{
+"key": "part09.html#959",
+"fr": "<b>5 titres, 3 miniatures</b>Créez-les pour l’une de vos vidéos et demandez à dix personnes sur lesquels elles cliqueraient."
+},
+{
+"key": "part09.html#960",
+"fr": "<b>Légendes par plateforme</b>À partir du même contenu, rédigez légendes et hashtags en trois versions : YouTube Shorts, Instagram Reels et TikTok."
+},
+{
+"key": "part09.html#961",
+"fr": "<b>Du scénario au blog</b>Transformez le scénario de l’une de vos vidéos en article de blog et placez-y trois mots-clés de recherche."
+},
+{
+"key": "part09.html#962",
+"fr": "<b>De 20 idées à 3</b>Demandez 20 idées à un modèle de langage, retenez-en 3 et documentez la démarche."
+},
+{
+"key": "part09.html#963",
+"fr": "<b>Insérer un plan généré</b>Placez 1 plan généré entre des plans réels et accordez-en la couleur et le grain."
+},
+{
+"key": "part09.html#964",
+"fr": "L’essentiel en une page"
+}
+]

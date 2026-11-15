@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#656",
+"fr": "3D – volume et éclairage"
+},
+{
+"key": "part14b.html#657",
+"fr": "2,5D – de la 3D à texture 2D"
+},
+{
+"key": "part14b.html#658",
+"fr": "PARTIE 06"
+},
+{
+"key": "part14b.html#659",
+"fr": "Storyboard dessiné à la main"
+},
+{
+"key": "part14b.html#660",
+"fr": "Animatique dans le logiciel de montage"
+},
+{
+"key": "part14b.html#661",
+"fr": "Repérage des lieux"
+},
+{
+"key": "part14b.html#662",
+"fr": "PARTIE 07"
+},
+{
+"key": "part14b.html#663",
+"fr": "Rig de caméra 360°"
+},
+{
+"key": "part14b.html#664",
+"fr": "Image équirectangulaire brute"
+},
+{
+"key": "part14b.html#665",
+"fr": "Visionnage dans un casque VR"
+},
+{
+"key": "part14b.html#666",
+"fr": "LED d’angle anamorphique"
+},
+{
+"key": "part14b.html#667",
+"fr": "Production virtuelle sur mur LED"
+},
+{
+"key": "part14b.html#668",
+"fr": "Vitrine à LED transparente"
+},
+{
+"key": "part14b.html#669",
+"fr": "Façade média"
+},
+{
+"key": "part14b.html#670",
+"fr": "Espace d’exposition immersif"
+},
+{
+"key": "part14b.html#671",
+"fr": "Port de lunettes AR"
+},
+{
+"key": "part14b.html#672",
+"fr": "Point – une lumière unique dans le noir"
+},
+{
+"key": "part14b.html#673",
+"fr": "Ligne – une traînée dessinée à la lumière"
+},
+{
+"key": "part14b.html#674",
+"fr": "Plan – un écran qui capte la lumière"
+},
+{
+"key": "part14b.html#675",
+"fr": "Volume – une forme faite de lumière"
+},
+{
+"key": "part14b.html#676",
+"fr": "Temps – la trace du mouvement"
+},
+{
+"key": "part14b.html#677",
+"fr": "Déplacement dans l’espace – une scène qui change au fil de la marche"
+},
+{
+"key": "part14b.html#678",
+"fr": "<b>Annexe</b>Liste des photos de référence et prompts de génération"
+},
+{
+"key": "part14b.html#679",
+"fr": "Planches explicatives et dessins de personnages · d’équipement"
+},
+{
+"key": "part14b.html#680",
+"fr": "Outre les photos de référence, cette liste recense les planches explicatives G-01–G-24 placées en tête de section et les dessins monochromes qui alimentent les emplacements personnages · équipement des schémas. Les prompts complets sont conservés dans les fichiers de production."
+},
+{
+"key": "part14b.html#681",
+"fr": "Planches explicatives G-01–G-24"
+},
+{
+"key": "part14b.html#682",
+"fr": "ID"
+},
+{
+"key": "part14b.html#683",
+"fr": "Légende"
+},
+{
+"key": "part14b.html#684",
+"fr": "Section"
+},
+{
+"key": "part14b.html#685",
+"fr": "ID"
+},
+{
+"key": "part14b.html#686",
+"fr": "Légende"
+},
+{
+"key": "part14b.html#687",
+"fr": "Section"
+},
+{
+"key": "part14b.html#688",
+"fr": "8 valeurs de plan – même personne, même lieu, seule la distance change"
+},
+{
+"key": "part14b.html#689",
+"fr": "Plateau d’incrustation – éclairages du fond et du sujet séparés"
+},
+{
+"key": "part14b.html#690",
+"fr": "La psychologie de l’angle – plongée · hauteur d’yeux · contre-plongée"
+},
+{
+"key": "part14b.html#691",
+"fr": "Types de micros – canon · cravate · main · enregistreur"
+},
+{
+"key": "part14b.html#692",
+"fr": "Principes de composition – tiers · symétrie · lignes directrices"
+},
+{
+"key": "part14b.html#693",
+"fr": "Avant et après compositing – source sur fond vert et image finale"
+},
+{
+"key": "part14b.html#694",
+"fr": "La règle des 180° – l’axe entre deux personnes et le placement des caméras"
+},
+{
+"key": "part14b.html#695",
+"fr": "Étalonnage – original en Log et deux looks"
+},
+{
+"key": "part14b.html#696",
+"fr": "Machinerie et trajectoires des mouvements de caméra – dolly · grue · stabilisateur · arc"
+},
+{
+"key": "part14b.html#697",
+"fr": "Compression et étirement – une balle qui rebondit, image après image"
+},
+{
+"key": "part14b.html#698",
+"fr": "Comment la focale change le visage et l’arrière-plan – 16 · 35 · 85 · 200 mm"
+},
+{
+"key": "part14b.html#699",
+"fr": "Storyboard – plan · mouvement · durée inscrits dans chaque case"
+},
+{
+"key": "part14b.html#700",
+"fr": "Le triangle d’exposition – traces laissées par ouverture · obturateur · ISO"
+},
+{
+"key": "part14b.html#701",
+"fr": "Vidéo 360° et VR – un espace où le spectateur devient la caméra"
+},
+{
+"key": "part14b.html#702",
+"fr": "Balance des blancs – une scène, quatre réglages de température de couleur"
+},
+{
+"key": "part14b.html#703",
+"fr": "Mapping vidéo – la façade du bâtiment devient l’écran"
+},
+{
+"key": "part14b.html#704",
+"fr": "Vitesse d’obturation et mouvement – obturateur à 180° et obturateur rapide"
+},
+{
+"key": "part14b.html#705",
+"fr": "LED anamorphique – l’illusion de profondeur d’un écran d’angle"
+},
+{
+"key": "part14b.html#706",
+"fr": "Supports de caméra – trépied · slider · stabilisateur · épaulière · drone"
+},
+{
+"key": "part14b.html#707",
+"fr": "Des écrans de durées différentes – de la publicité bumper au long métrage"
+},
+{
+"key": "part14b.html#708",
+"fr": "L’éclairage trois points sur le plateau – principale · appoint · contre-jour et caméra"
+},
+{
+"key": "part14b.html#709",
+"fr": "Planche d’ambiance par adjectifs clés – « froid, immobile et solitaire »"
+},
+{
+"key": "part14b.html#710",
+"fr": "High key et low key – même personne, deux mondes d’ombre et de lumière"
+},
+{
+"key": "part14b.html#711",
+"fr": "Mise en scène et mise en place – acteurs · lumière · décor · caméra dans un même cadre"
+},
+{
+"key": "part14b.html#712",
+"fr": "Dessins sources des personnages · équipements des planches"
+},
+{
+"key": "part14b.html#713",
+"fr": "Tous sont des dessins monochromes au crayon · au lavis générés avec GPT. Pour que les mêmes personnes reviennent d’un schéma à l’autre, ils dérivent de personnages de base (H0, W1, C1)."
+},
+{
+"key": "part14b.html#714",
+"fr": "Série"
+},
+{
+"key": "part14b.html#715",
+"fr": "ID"
+},
+{
+"key": "part14b.html#716",
+"fr": "Emploi"
+},
+{
+"key": "part14b.html#717",
+"fr": "Dessins de têtes (17)"
+},
+{
+"key": "part14b.html#718",
+"fr": "H0 · HFLAT · HLOOP · HREMB · HSPLIT · HBUTT · HRIM · L3KEY · L3FILL · L3BACK · HHIGH · HLOW · GRIGHT · GLEFT · GDOWN · GSMILE · INTV"
+},
+{
+"key": "part14b.html#719",
+"fr": "Emplacements de personnages dans les schémas : 6 éclairages du visage, étapes de l’éclairage trois points, angles du visage, direction du regard et interviews (personnage de base H0)"
+},
+{
+"key": "part14b.html#720",
+"fr": "Dessins en pied (39)"
+},
+{
+"key": "part14b.html#721",
+"fr": "F1–F6 · BR · SL1–SL4 · SR1 · SR2 · WR · WL · W1–W8 · A01 · A05–A10 · AD · AT · LA1–LA3 · C1–C3 · SB"
+},
+{
+"key": "part14b.html#722",
+"fr": "Emplacements de personnages dans les schémas : valeur de plan, proportions du corps, composition, mise en place, incrustation, cycle de marche en 8 poses, 12 principes de l’animation, ligne d’action, transitions entre plans et storyboards (personnages de base W1 · C1)"
+},
+{
+"key": "part14b.html#723",
+"fr": "Schémas d’appareils · prise de vue (10)"
+},
+{
+"key": "part14b.html#724",
+"fr": "OBSCURA · DAGUERRE · WETPLATE · KODAK · LEICA · POLAROID · SLR · DIGPROTO · COMPACT · PHONE"
+},
+{
+"key": "part14b.html#725",
+"fr": "Fig. 4 Chronologie de l’évolution des appareils de prise de vue"
+},
+{
+"key": "part14b.html#726",
+"fr": "Schémas d’appareils · visionnage (15)"
+},
+{
+"key": "part14b.html#727",
+"fr": "LANTERN · ZOETROPE · KINETO · CINEMATO · CRT · SLIDEPROJ · OHP · VHS · DVD · FLATTV · LAPTOP · SMARTPHON · OTT · VR · SHORTS"
+},
+{
+"key": "part14b.html#728",
+"fr": "Fig. 8 Chronologie des appareils pour regarder les images animées"
+},
+{
+"key": "part14b.html#729",
+"fr": "Schémas d’appareils · jouets optiques (4)"
+},
+{
+"key": "part14b.html#730",
+"fr": "THAUMA · PHENAK · ZOETROPE2 · FLIPBOOK"
+},
+{
+"key": "part14b.html#731",
+"fr": "Fig. 7 Jouets optiques pour voir des images animées"
+},
+{
+"key": "part14b.html#732",
+"fr": "PARTIE 14 Bilan"
+},
+{
+"key": "part14b.html#733",
+"fr": "Exercices et révision"
+},
+{
+"key": "part14b.html#734",
+"fr": "<b>Imprimez et utilisez les 6 fiches</b>Remplissez tels quels les modèles de l’annexe K pour un projet en cours."
+},
+{
+"key": "part14b.html#735",
+"fr": "<b>Passez deux fois les check-lists en revue</b>Une fois la veille du tournage, une fois juste avant la livraison ; notez chaque point signalé."
+},
+{
+"key": "part14b.html#736",
+"fr": "L’essentiel en une page"
+},
+{
+"key": "part14b.html#737",
+"fr": "01 Se fier au papier"
+},
+{
+"key": "part14b.html#738",
+"fr": "Ne vous fiez pas à la mémoire, fiez-vous au papier. Seul ce qui est écrit se fait."
+},
+{
+"key": "part14b.html#739",
+"fr": "02 Deux vérifications"
+},
+{
+"key": "part14b.html#740",
+"fr": "Passez la check-list en revue une fois la veille du tournage et une fois juste avant la livraison."
+},
+{
+"key": "part14b.html#741",
+"fr": "03 Des fiches qui deviennent une archive"
+},
+{
+"key": "part14b.html#742",
+"fr": "Elles sont faites pour être imprimées et utilisées. Remplissez-les pendant un semestre, et elles deviennent l’archive de votre travail."
+},
+{
+"key": "part14b.html#743",
+"fr": "04 À quoi sert une check-list"
+},
+{
+"key": "part14b.html#744",
+"fr": "Elle n’aide pas la mémoire ; elle la remplace. N’essayez pas de l’apprendre par cœur ; gardez-la ouverte devant vous."
+},
+{
+"key": "part14b.html#745",
+"fr": "Pistes de réflexion"
+},
+{
+"key": "part14b.html#746",
+"fr": "Qu’est-ce que j’oublie sans cesse ?"
+},
+{
+"key": "part14b.html#747",
+"fr": "Puis-je en faire une procédure ? Dès qu’un oubli devient une ligne de check-list, l’erreur cesse d’être un problème personnel pour devenir un problème de système."
+},
+{
+"key": "part14b.html#748",
+"fr": "<b>Annexe</b>Table des figures"
+},
+{
+"key": "part14b.html#749",
+"fr": "Figures"
+},
+{
+"key": "part14b.html#750",
+"fr": "Table des figures"
+},
+{
+"key": "part14b.html#751",
+"fr": "La liste des 91 schémas du texte."
+},
+{
+"key": "part14b.html#752",
+"fr": "N°"
+},
+{
+"key": "part14b.html#753",
+"fr": "Titre"
+},
+{
+"key": "part14b.html#754",
+"fr": "N°"
+},
+{
+"key": "part14b.html#755",
+"fr": "Titre"
+},
+{
+"key": "part14b.html#756",
+"fr": "Le phénomène phi – le cerveau comble par du mouvement l’écart entre deux stimuli fixes"
+},
+{
+"key": "part14b.html#757",
+"fr": "La pile de calques d’After Effects"
+},
+{
+"key": "part14b.html#758",
+"fr": "Les grands tournants de la technologie de l’image animée"
+},
+{
+"key": "part14b.html#759",
+"fr": "Les 12 principes de l’animation – le mouvement montré sur un personnage"
+},
+{
+"key": "part14b.html#760",
+"fr": "Principe de l’appareil de prise de vue – sténopé, objectif, surface sensible"
+},
+{
+"key": "part14b.html#761",
+"fr": "Arc · timing · espacement · compression dans une balle qui rebondit"
+},
+{
+"key": "part14b.html#762",
+"fr": "L’évolution de l’appareil – 200 ans de réduction des temps de pose, de la taille et des étapes de tirage"
+},
+{
+"key": "part14b.html#763",
+"fr": "Timing et espacement"
+},
+{
+"key": "part14b.html#764",
+"fr": "Le travail en laboratoire – du négatif au positif"
+},
+{
+"key": "part14b.html#765",
+"fr": "Les 6 étapes de l’incrustation en pratique"
+},
+{
+"key": "part14b.html#766",
+"fr": "Couleur de la lumière, couleur de l’encre – RGB, CMYK, trame de points"
+},
+{
+"key": "part14b.html#767",
+"fr": "Évolution des tons à chaque étape de l’étalonnage"
+},
+{
+"key": "part14b.html#768",
+"fr": "Jouets optiques pour voir des images animées"
+},
+{
+"key": "part14b.html#769",
+"fr": "5 courbes d’amorti"
+},
+{
+"key": "part14b.html#770",
+"fr": "Comment nous avons regardé les images animées – de la salle obscure partagée à l’écran dans la main"
+},
+{
+"key": "part14b.html#771",
+"fr": "Huit types d’animation"
+},
+{
+"key": "part14b.html#772",
+"fr": "Cadres selon le format d’image – les deux mêmes personnes, un espace qui change autour d’elles"
+},
+{
+"key": "part14b.html#773",
+"fr": "2D et 3D – des dessins qui créent le mouvement face à un mouvement conçu"
+},
+{
+"key": "part14b.html#774",
+"fr": "8 valeurs de plan selon la distance caméra-sujet"
+},
+{
+"key": "part14b.html#775",
+"fr": "Carte de toute la chaîne de production vidéo"
+},
+{
+"key": "part14b.html#776",
+"fr": "Lignes de coupe des valeurs sur les proportions du corps"
+},
+{
+"key": "part14b.html#777",
+"fr": "Éléments d’une case de storyboard"
+},
+{
+"key": "part14b.html#778",
+"fr": "Plans selon le nombre de personnes"
+},
+{
+"key": "part14b.html#779",
+"fr": "Exemple de storyboard d’une publicité de 15 secondes en 6 plans"
+},
+{
+"key": "part14b.html#780",
+"fr": "5 angles selon la hauteur de caméra"
+},
+{
+"key": "part14b.html#781",
+"fr": "Coût des modifications selon l’étape de production"
+},
+{
+"key": "part14b.html#782",
+"fr": "Vue de profil des 5 hauteurs de caméra"
+},
+{
+"key": "part14b.html#783",
+"fr": "Dispositif d’interview standard et cadre obtenu"
+},
+{
+"key": "part14b.html#784",
+"fr": "Positions de caméra autour du sujet"
+},
+{
+"key": "part14b.html#785",
+"fr": "Structure en quatre temps et en 3 actes – préparer et payer le long de la courbe de tension"
+},
+{
+"key": "part14b.html#786",
+"fr": "Six principes de composition – tiers · nombre d’or · symétrie · rythme · lignes directrices · cadre dans le cadre"
+},
+{
+"key": "part14b.html#787",
+"fr": "Mise en scène et mise en place – disposition dans le cadre et déplacements vus de dessus"
+},
+{
+"key": "part14b.html#788",
+"fr": "Air au-dessus de la tête, air du regard, air de déplacement – trois noms pour l’espace vide"
+},
+{
+"key": "part14b.html#789",
+"fr": "Design thinking par adjectifs clés – 3 adjectifs, axes sensoriels, traduction en langage de production"
+},
+{
+"key": "part14b.html#790",
+"fr": "La règle des 180° – gardez la caméra d’un seul côté de l’axe"
+},
+{
+"key": "part14b.html#791",
+"fr": "Zones de sécurité sur un écran de vidéo courte"
+},
+{
+"key": "part14b.html#792",
+"fr": "La règle des 30° – déplacez la caméra d’au moins 30°"
+},
+{
+"key": "part14b.html#793",
+"fr": "L’assemblage en tournage 360° et les moyens de guider le regard"
+},
+{
+"key": "part14b.html#794",
+"fr": "Trajectoires des 8 mouvements de caméra"
+},
+{
+"key": "part14b.html#795",
+"fr": "AR, MR et VR sur le continuum entre réel et virtuel"
+},
+{
+"key": "part14b.html#796",
+"fr": "Zoom et travelling – même taille, espace différent"
+},
+{
+"key": "part14b.html#797",
+"fr": "Plan de circulation d’une exposition XR"
+},
+{
+"key": "part14b.html#798",
+"fr": "Trois façons de raccorder les plans"
+},
+{
+"key": "part14b.html#799",
+"fr": "Principe de l’illusion anamorphique"
+},
+{
+"key": "part14b.html#800",
+"fr": "Longueur des plans selon l’émotion"
+},
+{
+"key": "part14b.html#801",
+"fr": "Taille d’écran et attention selon l’environnement de visionnage"
+},
+{
+"key": "part14b.html#802",
+"fr": "Structure de valeurs de quatre harmonies de couleurs"
+},
+{
+"key": "part14b.html#803",
+"fr": "Carte des spécifications d’écran par média"
+},
+{
+"key": "part14b.html#804",
+"fr": "Les angles sur le visage – comment la hauteur de caméra change ses proportions"
+},
+{
+"key": "part14b.html#805",
+"fr": "Mapping vidéo et affichage LED comparés"
+}
+]

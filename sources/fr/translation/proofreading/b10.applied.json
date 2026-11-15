@@ -1,0 +1,5 @@
+[
+{"key": "part08.html#880", "find": "Attract · Brand · Connect · Direct", "replace": "Attirer · Marquer · Connecter · Diriger", "why": "untranslated: ABCD expansion left in English; align with #873"},
+{"key": "part08.html#896", "find": "répétée sans couture", "replace": "répétée sans rupture", "why": "other: calque of 'seamless'"},
+{"key": "part08.html#906", "find": "toutes les quelques secondes", "replace": "à quelques secondes d’intervalle", "why": "other: unidiomatic 'toutes les quelques secondes'"}
+]

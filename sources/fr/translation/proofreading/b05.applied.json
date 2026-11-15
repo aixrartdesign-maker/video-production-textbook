@@ -1,0 +1,14 @@
+[
+ {
+  "key": "part03.html#764",
+  "find": "env. 1 IL au-dessus",
+  "replace": "environ 1 IL plus clair",
+  "why": "typography: abbreviation in prose; vague 'au-dessus'"
+ },
+ {
+  "key": "part03.html#1094",
+  "find": "offre env. 15",
+  "replace": "offre environ 15",
+  "why": "typography: abbreviation in prose"
+ }
+]

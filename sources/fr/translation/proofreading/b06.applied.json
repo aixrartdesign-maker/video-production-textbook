@@ -1,0 +1,44 @@
+[
+ {
+  "key": "part04.html#486",
+  "find": "Le son parcourt",
+  "replace": "Le son se propage à",
+  "why": "other: unnatural phrasing (parcourt 340 m/s)"
+ },
+ {
+  "key": "part04.html#769",
+  "find": "split, butterfly et",
+  "replace": "split, papillon et",
+  "why": "term: butterfly = papillon (as in 4.3)"
+ },
+ {
+  "key": "feature_lighting.html#111",
+  "find": "Sujet et fond aussi lumineux",
+  "replace": "Sujet et fond également lumineux",
+  "why": "meaning: 'aussi' reads as 'also', not 'equally'"
+ },
+ {
+  "key": "feature_lighting.html#137",
+  "find": "Diffusion pleine / demie",
+  "replace": "Diffusion pleine / demi-diffusion",
+  "why": "grammar: 'diffusion demie' ungrammatical"
+ },
+ {
+  "key": "feature_lighting.html#144",
+  "find": "<b>03 Butterfly</b>",
+  "replace": "<b>03 Papillon</b>",
+  "why": "term: butterfly = papillon (as in 4.3)"
+ },
+ {
+  "key": "part05.html#53",
+  "find": "le sens de l’image près",
+  "replace": "le sens de la précision à l’image près",
+  "why": "other: unnatural phrasing"
+ },
+ {
+  "key": "part05.html#88",
+  "find": "Une fois fixées, le milieu",
+  "replace": "Une fois celles-ci fixées, le milieu",
+  "why": "grammar: dangling participle"
+ }
+]

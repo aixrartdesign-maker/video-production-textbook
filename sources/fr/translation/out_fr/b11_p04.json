@@ -1,0 +1,602 @@
+[
+{
+"key": "part10.html#263",
+"fr": "Vérifie les oublis à l’aide d’un contrat type."
+},
+{
+"key": "part10.html#264",
+"fr": "<b>PARTIE 10</b>Industrie et tendances du marché"
+},
+{
+"key": "part10.html#265",
+"fr": "Parcours de carrière par métier"
+},
+{
+"key": "part10.html#266",
+"fr": "Votre premier poste n’est pas votre identité définitive. Voici, année par année, les parcours de six métiers, et les quatre facteurs qui règlent votre vitesse de progression."
+},
+{
+"key": "part10.html#267",
+"fr": "<b>Fig. 87</b> Parcours de carrière par métier"
+},
+{
+"key": "part10.html#268",
+"fr": "<small>Montage</small>Du bout-à-bout à la direction de postproduction"
+},
+{
+"key": "part10.html#269",
+"fr": "Années 1–2 : bout-à-bout, sous-titres, tri des plans"
+},
+{
+"key": "part10.html#270",
+"fr": "Années 3–5 : maîtrise de la structure et du rythme, étalonnage"
+},
+{
+"key": "part10.html#271",
+"fr": "Année 6+ : chef monteur, superviseur de postproduction"
+},
+{
+"key": "part10.html#272",
+"fr": "<small>Image</small>De seconde caméra à chef opérateur (DP)"
+},
+{
+"key": "part10.html#273",
+"fr": "Années 1–2 : entretien du matériel, seconde caméra"
+},
+{
+"key": "part10.html#274",
+"fr": "Années 3–5 : caméra principale, coordination lumière"
+},
+{
+"key": "part10.html#275",
+"fr": "Année 6+ : chef opérateur (DP), conception du look"
+},
+{
+"key": "part10.html#276",
+"fr": "<small>Réalisation</small>D’assistant réalisateur (AD) à réalisateur"
+},
+{
+"key": "part10.html#277",
+"fr": "Années 1–2 : assistant réalisateur (AD), gestion du plateau"
+},
+{
+"key": "part10.html#278",
+"fr": "Années 3–5 : réalisation en autonomie, pilotage de la conception"
+},
+{
+"key": "part10.html#279",
+"fr": "Année 6+ : réalisateur, directeur de création"
+},
+{
+"key": "part10.html#280",
+"fr": "<small>Motion design</small>Des modèles à la direction artistique"
+},
+{
+"key": "part10.html#281",
+"fr": "Années 1–2 : travail sur modèles, design des sous-titres"
+},
+{
+"key": "part10.html#282",
+"fr": "Années 3–5 : génériques, 3D"
+},
+{
+"key": "part10.html#283",
+"fr": "Année 6+ : directeur artistique"
+},
+{
+"key": "part10.html#284",
+"fr": "<small>Marketing de contenu</small>Des rapports d’indicateurs à la direction de marque"
+},
+{
+"key": "part10.html#285",
+"fr": "Années 1–2 : publication et rapports d’indicateurs"
+},
+{
+"key": "part10.html#286",
+"fr": "Années 3–5 : stratégie de chaîne, conception de campagnes"
+},
+{
+"key": "part10.html#287",
+"fr": "Année 6+ : responsable du contenu de marque"
+},
+{
+"key": "part10.html#288",
+"fr": "<small>Conception XR</small>De la documentation aux marchés remportés"
+},
+{
+"key": "part10.html#289",
+"fr": "Années 1–2 : recherche, documentation"
+},
+{
+"key": "part10.html#290",
+"fr": "Années 3–5 : conception d’expositions, gestion des prestataires"
+},
+{
+"key": "part10.html#291",
+"fr": "Année 6+ : concepteur principal, obtention de marchés"
+},
+{
+"key": "part10.html#292",
+"fr": "Ce qui règle votre vitesse de progression"
+},
+{
+"key": "part10.html#293",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part10.html#294",
+"fr": "La réalisation commence le jour où un monteur se met à suivre les réunions de préparation."
+},
+{
+"key": "part10.html#295",
+"fr": "<b>01</b><span>Le volume. L’écart entre celui qui réalise 100 travaux en 1 an et celui qui en réalise 10 ne se comble pas 3 ans plus tard.</span>"
+},
+{
+"key": "part10.html#296",
+"fr": "<b>02</b><span>La fréquence des retours. Seul, on ne progresse pas. Le niveau, c’est le nombre de fois où l’on montre son travail et où on le fait critiquer.</span>"
+},
+{
+"key": "part10.html#297",
+"fr": "<b>03</b><span>L’habitude de faire à l’avance le travail du niveau suivant.</span>"
+},
+{
+"key": "part10.html#298",
+"fr": "<b>04</b><span>Les traces écrites. Seuls ceux qui notent ce qu’ils ont fait, et pourquoi, peuvent affiner leur jugement.</span>"
+},
+{
+"key": "part10.html#299",
+"fr": "Les reconversions sont plus fréquentes qu’on ne le croit"
+},
+{
+"key": "part10.html#300",
+"fr": "Passer du montage à la réalisation, de l’image à la réalisation, ou du marketing de contenu à la stratégie de marque est courant. Ne voyez pas votre premier poste comme votre identité définitive."
+},
+{
+"key": "part10.html#301",
+"fr": "<small>Exercice</small>9.6"
+},
+{
+"key": "part10.html#302",
+"fr": "Tâche"
+},
+{
+"key": "part10.html#303",
+"fr": "Tracez un parcours sur 5 ans pour un métier qui vous intéresse, avec les compétences et les réalisations de chaque année."
+},
+{
+"key": "part10.html#304",
+"fr": "Conseil"
+},
+{
+"key": "part10.html#305",
+"fr": "Appuyez-vous sur des entretiens avec des professionnels ou sur des offres d’emploi."
+},
+{
+"key": "part10.html#306",
+"fr": "Évaluation"
+},
+{
+"key": "part10.html#307",
+"fr": "Réalisme du parcours"
+},
+{
+"key": "part10.html#308",
+"fr": "Corrigé type"
+},
+{
+"key": "part10.html#309",
+"fr": "Le relie à trois actions réalisables ce semestre."
+},
+{
+"key": "part10.html#310",
+"fr": "Bilan PARTIE 10"
+},
+{
+"key": "part10.html#311",
+"fr": "Exercices et révision"
+},
+{
+"key": "part10.html#312",
+"fr": "<b>Lire un ton</b>Choisissez cinq entreprises qui vous intéressent, regardez trois travaux récents de chacune et résumez en une ligne leur ton commun."
+},
+{
+"key": "part10.html#313",
+"fr": "<b>Rédiger un devis</b>Imaginez une mission freelance fictive et rédigez un devis en 8 postes."
+},
+{
+"key": "part10.html#314",
+"fr": "<b>Tableau de fréquence des compétences</b>Réunissez dix offres d’emploi et classez par fréquence les compétences qui reviennent."
+},
+{
+"key": "part10.html#315",
+"fr": "L’essentiel en une page"
+},
+{
+"key": "part10.html#316",
+"fr": "9.1 La structure de l’industrie vidéo"
+},
+{
+"key": "part10.html#317",
+"fr": "Le centre de gravité des emplois est passé de la télévision et du cinéma au numérique, au commerce et aux équipes internes des entreprises."
+},
+{
+"key": "part10.html#318",
+"fr": "9.2 Tendances du marché coréen"
+},
+{
+"key": "part10.html#319",
+"fr": "Les postes de pur montage se raréfient ; ceux où l’on conçoit, tourne, monte et lit les chiffres se multiplient."
+},
+{
+"key": "part10.html#320",
+"fr": "9.3 Marchés étrangers"
+},
+{
+"key": "part10.html#321",
+"fr": "À l’étranger, fonctions séparées et contrats au projet sont la norme. Le standard : un showreel (bande démo) en anglais qui précise votre rôle."
+},
+{
+"key": "part10.html#322",
+"fr": "9.4 Publicité · commerce · créateurs"
+},
+{
+"key": "part10.html#323",
+"fr": "Le commerce, c’est le volume et la vitesse ; les créateurs, de grands écarts de tarifs ; le contenu immersif, le sens de l’espace et de la technique."
+},
+{
+"key": "part10.html#324",
+"fr": "9.5 Tarifs et contrats en freelance"
+},
+{
+"key": "part10.html#325",
+"fr": "Chiffrez prestation, modifications, droits d’auteur, utilisation et conditions de paiement. La clause de portfolio compte plus que le tarif."
+},
+{
+"key": "part10.html#326",
+"fr": "9.6 Parcours de carrière"
+},
+{
+"key": "part10.html#327",
+"fr": "La vitesse de progression dépend du volume, de la fréquence des retours, du travail du niveau suivant fait en avance et des traces écrites."
+},
+{
+"key": "part10.html#328",
+"fr": "Contexte 18 · 19"
+},
+{
+"key": "part10.html#329",
+"fr": "La valeur vient de la résolution de problèmes ; un prix paie temps · matériel · droits. L’IA générative fait baisser le tarif des tâches simples et monter la valeur du jugement."
+},
+{
+"key": "part10.html#330",
+"fr": "Pistes de réflexion"
+},
+{
+"key": "part10.html#331",
+"fr": "Sur quel marché ai-je envie de travailler, et est-il aujourd’hui en croissance ou en recul ?"
+},
+{
+"key": "part10.html#332",
+"fr": "Situez-vous sur la carte de 9.1 et sur la chronologie de 9.2."
+},
+{
+"key": "part10.html#333",
+"fr": "Quelles parts de mon métier l’IA générative remplacera-t-elle, et lesquelles laissera-t-elle ?"
+},
+{
+"key": "part10.html#334",
+"fr": "Les tarifs du montage simple et du graphisme simple baissent ; décider quoi tourner, l’expliquer et obtenir l’accord, voilà ce qui reste."
+},
+{
+"key": "part10.html#335",
+"fr": "Conseils de terrain"
+},
+{
+"key": "part10.html#336",
+"fr": "Précisez toujours les modifications et le périmètre d’utilisation sur un devis. Inscrivez une clause de portfolio au contrat. Votre premier tarif vous suit longtemps : ne commencez pas trop bas."
+},
+{
+"key": "part11.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part11.html#1",
+"fr": "<small>PARTIE</small>11"
+},
+{
+"key": "part11.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part11.html#3",
+"fr": "Un portfolio de 5–8 travaux et un showreel (bande démo) de 60–90 secondes"
+},
+{
+"key": "part11.html#4",
+"fr": "Un CV et une lettre de motivation adaptés au poste"
+},
+{
+"key": "part11.html#5",
+"fr": "3 réponses d’entretien selon la méthode STAR"
+},
+{
+"key": "part11.html#6",
+"fr": "Emploi et carrière"
+},
+{
+"key": "part11.html#7",
+"fr": "Une compétence n’en est une qu’une fois prouvée. Aussi bien fait que soit un travail, si vous le gardez sous une forme impossible à montrer, c’est comme s’il n’existait pas. Face à la question « Quel vidéaste vais-je devenir ? », cette PARTIE traite de l’art de la preuve : le portfolio et le showreel (bande démo), le CV, l’entretien et votre attitude au travail."
+},
+{
+"key": "part11.html#8",
+"fr": "Photo P-11 Revue de portfolio – un échange autour d’un showreel · image générée"
+},
+{
+"key": "part11.html#9",
+"fr": "<b>P-11</b> Revue de portfolio – un échange autour d’un showreel"
+},
+{
+"key": "part11.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part11.html#11",
+"fr": "Savoir adapter portfolio et CV à un poste"
+},
+{
+"key": "part11.html#12",
+"fr": "<b>Matériel</b>Vos propres travaux, fiche de travail 6, ordinateur portable"
+},
+{
+"key": "part11.html#13",
+"fr": "<b>10 min</b><i>Intro</i><span>Regarder seulement la 1re minute du portfolio des autres et échanger ses impressions</span>"
+},
+{
+"key": "part11.html#14",
+"fr": "<b>15 min</b><i>Notions</i><span>Comment on évalue les débutants ; chiffrer ses résultats</span>"
+},
+{
+"key": "part11.html#15",
+"fr": "<b>10 min</b><i>Planches</i><span>Composition du portfolio et matrice de préparation à l’emploi</span>"
+},
+{
+"key": "part11.html#16",
+"fr": "<b>10 min</b><i>Exercice</i><span>Rédiger 3 réponses d’entretien selon la méthode STAR</span>"
+},
+{
+"key": "part11.html#17",
+"fr": "<b>5 min</b><i>Bilan</i><span>L’habitude de vérifier l’accès aux liens</span>"
+},
+{
+"key": "part11.html#18",
+"fr": "<b>Point de contrôle</b>Chaque travail précise-t-il votre rôle et vos résultats"
+},
+{
+"key": "part11.html#19",
+"fr": "PARTIE 11"
+},
+{
+"key": "part11.html#20",
+"fr": "Introduction"
+},
+{
+"key": "part11.html#21",
+"fr": "Une compétence n’en est une qu’une fois prouvée. Aussi bien fait que soit un travail, si vous le gardez sous une forme impossible à montrer, c’est comme s’il n’existait pas. Cette partie traite de l’art de la preuve."
+},
+{
+"key": "part11.html#22",
+"fr": "Un recruteur consacre en moyenne 1 à 2 minutes à un portfolio. Dans ce court laps de temps, il ne veut savoir qu’une chose : si nous confions le travail à cette personne, ira-t-elle jusqu’au bout ? Un travail abouti y répond mieux qu’un plan spectaculaire. Peu de candidats joignent leur note d’intention et leur storyboard : montrer simplement la démarche suffit à vous distinguer nettement."
+},
+{
+"key": "part11.html#23",
+"fr": "La même logique explique que l’entretien et la communication aient leurs propres sections. Le travail vidéo paraît solitaire ; c’est en réalité un métier de coordination, du matin au soir. Reformuler les consignes, informer de l’avancement sans attendre, signaler ses erreurs aussitôt : ces habitudes sont jugées avant la technique. L’essentiel de ce qui vous fait tenir les 3 premiers mois de votre premier emploi se trouve là aussi."
+},
+{
+"key": "part11.html#24",
+"fr": "Contexte 20"
+},
+{
+"key": "part11.html#25",
+"fr": "Ce qui survit aux outils"
+},
+{
+"key": "part11.html#26",
+"fr": "Les outils vidéo changent à quelques années d’intervalle. Les menus du logiciel que vous apprenez aujourd’hui auront peut-être changé à la fin de vos études. L’animateur de radio américain Ira Glass a parlé du « fossé du goût » que traversent ceux qui débutent dans un travail créatif. Au départ, votre goût est déjà assez sûr pour reconnaître un bon travail, mais vos mains ne suivent pas encore. La seule façon de combler ce fossé est de continuer à produire en grande quantité."
+},
+{
+"key": "part11.html#27",
+"fr": "La maîtrise des outils compte, mais ce que recruteurs et clients regardent en fin de compte, c’est le jugement. Celui qui sait expliquer quels plans il a écartés, pourquoi il a choisi cet angle et ce qu’il a privilégié dans le délai et le budget impartis s’adapte vite quand les outils changent. Voilà pourquoi un portfolio doit contenir non seulement l’œuvre, mais aussi la démarche et les raisons de vos choix."
+},
+{
+"key": "part11.html#28",
+"fr": "La vidéo se fabrique presque toujours à plusieurs. Chef opérateur (DP), monteur, designer sonore, client, acteurs : chacun parle sa langue. Un bon vidéaste sait traduire son intention dans la langue des autres et reçoit les retours comme une information, non comme une émotion. Tenir les délais, ranger ses fichiers, répondre quand on l’a promis : ces bases amènent la mission suivante."
+},
+{
+"key": "part11.html#29",
+"fr": "Et ce qui reste à la fin, c’est le regard. Avec les mêmes outils et au même endroit, chacun voit autre chose et veut dire autre chose. À l’heure où l’IA générative produit des images sans effort, cette différence compte plus encore. Tout le monde peut emprunter une technologie ; personne ne peut emprunter la capacité de juger ce qui est bon et de dire pourquoi on le fait."
+},
+{
+"key": "part11.html#30",
+"fr": "Une notion utile pour les premières années de carrière est l’« expertise en T ». La barre verticale est la force d’aller en profondeur dans un domaine ; la barre horizontale, l’ouverture qui permet de comprendre les domaines voisins et de collaborer. Un monteur qui connaît les limites du tournage sait quels plans supplémentaires demander sur le plateau, et un chef opérateur (DP) qui connaît le déroulé du montage assure à l’avance les plans nécessaires. Ce qu’il faut à un débutant : bien faire une chose tout en comprenant les domaines d’à côté."
+},
+{
+"key": "part11.html#31",
+"fr": "Retenez aussi la manière de recevoir les retours. Quand on débute, on prend facilement la critique de son travail pour un jugement sur soi. Or, sur un plateau, un retour est le plus souvent une information sur le résultat, et plus tôt elle arrive, mieux c’est. Ceux qui savent expliquer « pourquoi j’ai fait ainsi » et demander « quoi changer, et comment » progressent bien plus vite dans le même temps. La préparation pratique du chapitre 11 est, au fond, un entraînement à cette attitude."
+},
+{
+"key": "part11.html#32",
+"fr": "Pour aller plus loin – Austin Kleon, « Steal Like an Artist » · David Bayles · Ted Orland, « Art and Fear »"
+},
+{
+"key": "part11.html#33",
+"fr": "<b>PARTIE 11</b>Emploi et carrière"
+},
+{
+"key": "part11.html#34",
+"fr": "Carte des métiers de la vidéo"
+},
+{
+"key": "part11.html#35",
+"fr": "Ce que font douze métiers, ce qu’ils exigent et leur facilité d’accès pour un débutant. Choisissez un premier emploi d’où l’on observe tout le processus."
+},
+{
+"key": "part11.html#36",
+"fr": "<b>Fig. 88</b> Carte des métiers de la vidéo"
+},
+{
+"key": "part11.html#37",
+"fr": "<small>Accès facile</small>Producteur vidéo"
+},
+{
+"key": "part11.html#38",
+"fr": "Conçoit, réalise, supervise"
+},
+{
+"key": "part11.html#39",
+"fr": "Conception, communication, planification"
+},
+{
+"key": "part11.html#40",
+"fr": "<small>Très facile</small>Monteur"
+},
+{
+"key": "part11.html#41",
+"fr": "Façonne structure et rythme"
+},
+{
+"key": "part11.html#42",
+"fr": "Outils de montage, sens du rythme, rapidité"
+},
+{
+"key": "part11.html#43",
+"fr": "<small>Très facile</small>Vidéaste e-commerce"
+},
+{
+"key": "part11.html#44",
+"fr": "Fiches produit, vidéos produit"
+},
+{
+"key": "part11.html#45",
+"fr": "Rapidité, lumière, prise de vue produit"
+},
+{
+"key": "part11.html#46",
+"fr": "<small>Très facile</small>AD (assistant réalisateur)"
+},
+{
+"key": "part11.html#47",
+"fr": "Assiste sur le plateau"
+},
+{
+"key": "part11.html#48",
+"fr": "Endurance, rigueur, tact"
+},
+{
+"key": "part11.html#49",
+"fr": "<small>Accès facile</small>Marketeur de contenu"
+},
+{
+"key": "part11.html#50",
+"fr": "Conception et résultats"
+},
+{
+"key": "part11.html#51",
+"fr": "Lecture des données, rédaction, maîtrise des plateformes"
+},
+{
+"key": "part11.html#52",
+"fr": "<small>Accès facile</small>Producteur YouTube"
+},
+{
+"key": "part11.html#53",
+"fr": "Stratégie de chaîne et production"
+},
+{
+"key": "part11.html#54",
+"fr": "Conception, montage, données"
+},
+{
+"key": "part11.html#55",
+"fr": "<small>Portfolio décisif</small>Motion designer"
+},
+{
+"key": "part11.html#56",
+"fr": "Génériques, infographies, VFX"
+},
+{
+"key": "part11.html#57",
+"fr": "After Effects, sens du design"
+},
+{
+"key": "part11.html#58",
+"fr": "<small>Débuter assistant</small>DP"
+},
+{
+"key": "part11.html#59",
+"fr": "Fabrication technique de l’image"
+},
+{
+"key": "part11.html#60",
+"fr": "Caméra, optiques, exposition, composition"
+},
+{
+"key": "part11.html#61",
+"fr": "<small>D’abord assistant</small>Étalonneur"
+},
+{
+"key": "part11.html#62",
+"fr": "Étalonnage uniquement"
+},
+{
+"key": "part11.html#63",
+"fr": "DaVinci, théorie des couleurs"
+},
+{
+"key": "part11.html#64",
+"fr": "<small>Formation spécialisée</small>Artiste VFX"
+},
+{
+"key": "part11.html#65",
+"fr": "Compositing et simulation"
+},
+{
+"key": "part11.html#66",
+"fr": "Nuke, Houdini, 3D"
+},
+{
+"key": "part11.html#67",
+"fr": "<small>Formation spécialisée</small>Designer sonore"
+},
+{
+"key": "part11.html#68",
+"fr": "Design sonore et mixage"
+},
+{
+"key": "part11.html#69",
+"fr": "DAW, théorie audio"
+},
+{
+"key": "part11.html#70",
+"fr": "<small>Expérience requise</small>Concepteur XR"
+},
+{
+"key": "part11.html#71",
+"fr": "Expositions, contenu immersif"
+},
+{
+"key": "part11.html#72",
+"fr": "Sens de l’espace et de la technique"
+},
+{
+"key": "part11.html#73",
+"fr": "Votre premier poste n’est pas le dernier"
+},
+{
+"key": "part11.html#74",
+"fr": "Débuter monteur et devenir producteur (PD), ou débuter assistant réalisateur (AD) et devenir chef opérateur (DP) : le parcours est courant. Plutôt qu’une destination finale, choisissez un premier emploi d’où observer tout le processus."
+},
+{
+"key": "part11.html#75",
+"fr": "<small>Exercice</small>10.1"
+}
+]

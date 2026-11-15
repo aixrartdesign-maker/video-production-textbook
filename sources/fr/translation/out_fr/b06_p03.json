@@ -1,0 +1,602 @@
+[
+{
+"key": "part04.html#751",
+"fr": "<span class=\"ph-id\">P04-SLEEP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>8 heures de pluie – une vidéo pour dormir</b>Une vidéo de pluie sur la vitre diffusée sur un téléphone près du lit</span>"
+},
+{
+"key": "part04.html#752",
+"fr": "<b>d</b>8 heures de pluie – une vidéo pour dormir"
+},
+{
+"key": "part04.html#753",
+"fr": "Quand vous sentez que vos vidéos ne progressent plus, travailler le son est le remède le plus rapide.<small>4.10 Effets sonores et bruitage</small>"
+},
+{
+"key": "part04.html#754",
+"fr": "Sortir récolter sons et textures"
+},
+{
+"key": "part04.html#755",
+"fr": "<b>Sortir pour le son – l’enregistrement de terrain</b><span>Une vraie forêt à l’aube, de vraies vagues. Tout le monde utilise les sons de bibliothèque : enregistrez « les vôtres ». Canon + bonnette + enregistreur portable, 4–6 h du matin, vent de 3 m/s au plus</span>"
+},
+{
+"key": "part04.html#756",
+"fr": "<b>Sortir pour la texture – les scans de photogrammétrie</b><span>Photographier roche · écorce · murs des dizaines de fois pour en tirer des textures 3D. Temps couvert, une charte de couleurs, 70 % de recouvrement. Ce que l’IA générative ne sait pas faire, c’est « le grain de ce lieu-là »</span>"
+},
+{
+"key": "part04.html#757",
+"fr": "<b>Fig. 44-1</b> Le son et la texture sont dehors – ceux qui récoltent leurs sources au lieu de les acheter. La signature d’un artiste vient du terrain, pas des bibliothèques."
+},
+{
+"key": "part04.html#758",
+"fr": "<small>Exercice</small>4.10"
+},
+{
+"key": "part04.html#759",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#760",
+"fr": "Fabriquez 5 bruitages avec des objets du quotidien (pas, porte, pluie, etc.) et posez-les sur une scène."
+},
+{
+"key": "part04.html#761",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#762",
+"fr": "Enregistrez dans une pièce calme, micro tout près, et calez les gestes sur l’image."
+},
+{
+"key": "part04.html#763",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#764",
+"fr": "Précision de la synchro, réalisme du son"
+},
+{
+"key": "part04.html#765",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#766",
+"fr": "Trouve des sons « plus convaincants » que les vrais et révèle les matériaux utilisés."
+},
+{
+"key": "part04.html#767",
+"fr": "Bilan de la PARTIE 04"
+},
+{
+"key": "part04.html#768",
+"fr": "Exercices et révision"
+},
+{
+"key": "part04.html#769",
+"fr": "<b>Quatre schémas avec une seule lumière</b>Avec un seul projecteur ou une fenêtre, tournez des portraits en gros plan en éclairage Rembrandt, split, papillon et en décrochage, puis comparez les quatre."
+},
+{
+"key": "part04.html#770",
+"fr": "<b>High key contre low key</b>Tournez le même produit en high key et en low key, puis demandez à dix personnes lequel paraît le plus cher."
+},
+{
+"key": "part04.html#771",
+"fr": "<b>Distance et qualité du son</b>Enregistrez la même réplique au smartphone à 30 cm, 1 m et 3 m, puis comparez. Écoutez ce que la distance fait à la qualité."
+},
+{
+"key": "part04.html#772",
+"fr": "<b>Tout refaire avec des effets seuls</b>Retirez tout le son d’images que vous avez tournées et posez uniquement de nouveaux effets. Vous sentirez comment le son change la texture de l’image."
+},
+{
+"key": "part04.html#773",
+"fr": "L’essentiel en une page"
+},
+{
+"key": "part04.html#774",
+"fr": "4.1 Cinq propriétés de la lumière"
+},
+{
+"key": "part04.html#775",
+"fr": "Avec la loi de l’inverse du carré, on assombrit le fond sans acheter d’autres projecteurs."
+},
+{
+"key": "part04.html#776",
+"fr": "4.2 L’éclairage 3 points et ses variantes"
+},
+{
+"key": "part04.html#777",
+"fr": "Rapport d’éclairage 2:1 pour une pub lumineuse, 4:1 pour une fiction standard, 8:1 ou plus pour une ambiance dramatique."
+},
+{
+"key": "part04.html#778",
+"fr": "4.3 Six schémas de lumière principale"
+},
+{
+"key": "part04.html#779",
+"fr": "Essayez de finir l’image avec la seule lumière principale. La douceur vient de la taille et de la distance."
+},
+{
+"key": "part04.html#780",
+"fr": "4.4 High key et low key"
+},
+{
+"key": "part04.html#781",
+"fr": "Le low key, ce n’est pas tourner sombre : c’est exposer précisément les zones claires et maîtriser le reste."
+},
+{
+"key": "part04.html#782",
+"fr": "4.5 Éclairer une publicité produit"
+},
+{
+"key": "part04.html#783",
+"fr": "La matière décide de la méthode. On retire autant de lumière qu’on en ajoute."
+},
+{
+"key": "part04.html#784",
+"fr": "4.6 Éclairer pour l’incrustation"
+},
+{
+"key": "part04.html#785",
+"fr": "Gardez 2 m entre le sujet et le fond et éclairez-les séparément."
+},
+{
+"key": "part04.html#786",
+"fr": "4.7 Éclairer à petit budget"
+},
+{
+"key": "part04.html#787",
+"fr": "Fenêtre · carton plume · papier calque · tissu noir. Gare à la chaleur et aux chutes."
+},
+{
+"key": "part04.html#788",
+"fr": "4.8 Micros et prise de son"
+},
+{
+"key": "part04.html#789",
+"fr": "Un micro bon marché tout près bat un micro cher placé loin. Crêtes de −12 à −6 dBFS, 30 secondes de silence plateau."
+},
+{
+"key": "part04.html#790",
+"fr": "4.9 Les quatre couches de la conception sonore"
+},
+{
+"key": "part04.html#791",
+"fr": "Décidez d’abord la musique ; le logo sonore occupe les 2–3 dernières secondes. Gardez la preuve des licences musicales."
+},
+{
+"key": "part04.html#792",
+"fr": "4.10 Effets sonores et bruitage"
+},
+{
+"key": "part04.html#793",
+"fr": "Les effets se calent à l’image près. Travailler le son est le remède le plus rapide."
+},
+{
+"key": "part04.html#794",
+"fr": "Auto-évaluation"
+},
+{
+"key": "part04.html#795",
+"fr": "Savez-vous appliquer la loi de l’inverse du carré pour régler la luminosité du fond ?"
+},
+{
+"key": "part04.html#796",
+"fr": "Savez-vous expliquer ce que signifie un rapport d’éclairage de 4:1 ?"
+},
+{
+"key": "part04.html#797",
+"fr": "Savez-vous expliquer pourquoi le sujet et le fond doivent être écartés pour l’incrustation ?"
+},
+{
+"key": "part04.html#798",
+"fr": "Savez-vous chiffrer la zone de sécurité des niveaux d’enregistrement ?"
+},
+{
+"key": "part04.html#799",
+"fr": "Savez-vous expliquer à quoi sert le silence plateau ?"
+},
+{
+"key": "part04.html#800",
+"fr": "Pistes de réflexion"
+},
+{
+"key": "part04.html#801",
+"fr": "Un visage est-il déjà sorti sombre dans une de vos vidéos ?"
+},
+{
+"key": "part04.html#802",
+"fr": "Fallait-il alors ajouter de la lumière, ou en retirer ?"
+},
+{
+"key": "part04.html#803",
+"fr": "Laquelle coupez-vous en premier : la vidéo au mauvais son ou celle à la mauvaise image ?"
+},
+{
+"key": "part04.html#804",
+"fr": "Pourquoi ?"
+},
+{
+"key": "feature_lighting.html#0",
+"fr": "Dossier · OUTILS D’ÉCLAIRAGE"
+},
+{
+"key": "feature_lighting.html#1",
+"fr": "Les outils de la lumière –<br>projecteurs, faisceaux et lumière logicielle"
+},
+{
+"key": "feature_lighting.html#2",
+"fr": "Apprendre l’éclairage, ce n’est pas mémoriser des noms de projecteurs : c’est savoir quel outil règle la <b>taille · distance · angle · intensité · couleur</b> de la lumière. Ce dossier réunit sur une même carte les vrais projecteurs et accessoires du plateau, les faisceaux, du pinspot à l’ambiance, et les fonctions d’After Effects · Premiere qui reconstruisent la même lumière."
+},
+{
+"key": "feature_lighting.html#3",
+"fr": "<small>DOUBLE PAGE 01</small>Carte des sources – douze projecteurs et la lumière de chacun"
+},
+{
+"key": "feature_lighting.html#4",
+"fr": "<b>Photos de référence 4.7A</b>Image générée – douze sources de lumière"
+},
+{
+"key": "feature_lighting.html#5",
+"fr": "<span class=\"ph-id\">P04-FRESNEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Fresnel</b></span>"
+},
+{
+"key": "feature_lighting.html#6",
+"fr": "<b>Fresnel</b>Tungstène 650 W–2 kW · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#7",
+"fr": "<span class=\"ph-id\">P04-OPENFACE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Projecteur ouvert · mandarine</b></span>"
+},
+{
+"key": "feature_lighting.html#8",
+"fr": "<b>Projecteur ouvert · mandarine</b>Tungstène 800 W–2 kW"
+},
+{
+"key": "feature_lighting.html#9",
+"fr": "<span class=\"ph-id\">P04-HMI</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>HMI · PAR</b></span>"
+},
+{
+"key": "feature_lighting.html#10",
+"fr": "<b>HMI · PAR</b>575 W–18 kW · 5600 K"
+},
+{
+"key": "feature_lighting.html#11",
+"fr": "<span class=\"ph-id\">P04-LEDPANEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Panneau LED (bicolore)</b></span>"
+},
+{
+"key": "feature_lighting.html#12",
+"fr": "<b>Panneau LED (bicolore)</b>30–200 W · 2700–6500 K"
+},
+{
+"key": "feature_lighting.html#13",
+"fr": "<span class=\"ph-id\">P04-COBSOFT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LED COB + boîte à lumière</b></span>"
+},
+{
+"key": "feature_lighting.html#14",
+"fr": "<b>LED COB + boîte à lumière</b>100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#15",
+"fr": "<span class=\"ph-id\">P04-TUBE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tube LED RGBWW</b></span>"
+},
+{
+"key": "feature_lighting.html#16",
+"fr": "<b>Tube LED RGBWW</b>30–120 cm · toutes couleurs"
+},
+{
+"key": "feature_lighting.html#17",
+"fr": "<span class=\"ph-id\">P04-KINO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Kino · rampe fluo</b></span>"
+},
+{
+"key": "feature_lighting.html#18",
+"fr": "<b>Kino · rampe fluo</b>4 tubes de 1,2 m"
+},
+{
+"key": "feature_lighting.html#19",
+"fr": "<span class=\"ph-id\">P04-RING</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Anneau lumineux</b></span>"
+},
+{
+"key": "feature_lighting.html#20",
+"fr": "<b>Anneau lumineux</b>10–60 W"
+},
+{
+"key": "feature_lighting.html#21",
+"fr": "<span class=\"ph-id\">P04-CHINABALL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Boule chinoise · lanterne</b></span>"
+},
+{
+"key": "feature_lighting.html#22",
+"fr": "<b>Boule chinoise · lanterne</b>Ampoule + globe papier/tissu"
+},
+{
+"key": "feature_lighting.html#23",
+"fr": "<span class=\"ph-id\">P04-DEDO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Dedolight · pinspot</b></span>"
+},
+{
+"key": "feature_lighting.html#24",
+"fr": "<b>Dedolight · pinspot</b>40–150 W · 4–50°"
+},
+{
+"key": "feature_lighting.html#25",
+"fr": "<span class=\"ph-id\">P04-PRACTICAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Lumière de jeu (dans le champ)</b></span>"
+},
+{
+"key": "feature_lighting.html#26",
+"fr": "<b>Lumière de jeu (dans le champ)</b>Lampe · néon · bougie · TV"
+},
+{
+"key": "feature_lighting.html#27",
+"fr": "<span class=\"ph-id\">P04-REFLECTOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Réflecteur · tissu noir</b></span>"
+},
+{
+"key": "feature_lighting.html#28",
+"fr": "<b>Réflecteur · tissu noir</b>De la lumière sans courant"
+},
+{
+"key": "feature_lighting.html#29",
+"fr": "Projecteur"
+},
+{
+"key": "feature_lighting.html#30",
+"fr": "Puissance · temp. couleur"
+},
+{
+"key": "feature_lighting.html#31",
+"fr": "Qualité et usage"
+},
+{
+"key": "feature_lighting.html#32",
+"fr": "Équivalent 3D dans AE"
+},
+{
+"key": "feature_lighting.html#33",
+"fr": "Fresnel"
+},
+{
+"key": "feature_lighting.html#34",
+"fr": "Tungstène 650 W–2 kW · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#35",
+"fr": "Dure→moyenne, spot/flood 10–60°. Key · contre-jour standard"
+},
+{
+"key": "feature_lighting.html#36",
+"fr": "Spot · cône 30–60 · feather 50"
+},
+{
+"key": "feature_lighting.html#37",
+"fr": "Projecteur ouvert · mandarine"
+},
+{
+"key": "feature_lighting.html#38",
+"fr": "Tungstène 800 W–2 kW"
+},
+{
+"key": "feature_lighting.html#39",
+"fr": "Sans lentille → lumière dure, large et brute. Source à diffuser · à faire rebondir"
+},
+{
+"key": "feature_lighting.html#40",
+"fr": "Point · intensité↑ · atténuation dure"
+},
+{
+"key": "feature_lighting.html#41",
+"fr": "HMI · PAR"
+},
+{
+"key": "feature_lighting.html#42",
+"fr": "Recrée le soleil. Vérifier ballast · groupe électrogène · scintillement"
+},
+{
+"key": "feature_lighting.html#43",
+"fr": "Parallel · ombres nettes"
+},
+{
+"key": "feature_lighting.html#44",
+"fr": "Panneau LED (bicolore)"
+},
+{
+"key": "feature_lighting.html#45",
+"fr": "Source surfacique · léger · sur batterie. Fill · appoint à moins de 1,5 m"
+},
+{
+"key": "feature_lighting.html#46",
+"fr": "Grand Spot feather 100 / Ambient"
+},
+{
+"key": "feature_lighting.html#47",
+"fr": "LED COB + boîte à lumière"
+},
+{
+"key": "feature_lighting.html#48",
+"fr": "100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#49",
+"fr": "Key standard des petits plateaux. Taille de la boîte = douceur"
+},
+{
+"key": "feature_lighting.html#50",
+"fr": "Spot cône 90 · feather 100"
+},
+{
+"key": "feature_lighting.html#51",
+"fr": "Tube LED RGBWW"
+},
+{
+"key": "feature_lighting.html#52",
+"fr": "30–120 cm · toutes couleurs"
+},
+{
+"key": "feature_lighting.html#53",
+"fr": "Source linéaire → longs reflets. Tons néon · lumière de jeu"
+},
+{
+"key": "feature_lighting.html#54",
+"fr": "Solid allongé + Glow / Light Sweep"
+},
+{
+"key": "feature_lighting.html#55",
+"fr": "Kino · rampe fluo"
+},
+{
+"key": "feature_lighting.html#56",
+"fr": "4 tubes de 1,2 m"
+},
+{
+"key": "feature_lighting.html#57",
+"fr": "Lumière douce, large et uniforme. Interviews · fonds d’incrustation"
+},
+{
+"key": "feature_lighting.html#58",
+"fr": "Ambient + 2 Spots larges"
+},
+{
+"key": "feature_lighting.html#59",
+"fr": "Anneau lumineux"
+},
+{
+"key": "feature_lighting.html#60",
+"fr": "Lumière de face sans ombre. Beauté · face caméra uniquement"
+},
+{
+"key": "feature_lighting.html#61",
+"fr": "Point à la caméra + contraste faible"
+},
+{
+"key": "feature_lighting.html#62",
+"fr": "Boule chinoise · lanterne"
+},
+{
+"key": "feature_lighting.html#63",
+"fr": "Ampoule + globe papier/tissu"
+},
+{
+"key": "feature_lighting.html#64",
+"fr": "Douce dans toutes les directions. « Lumière de pièce » au plafond, sur perche"
+},
+{
+"key": "feature_lighting.html#65",
+"fr": "Point · atténuation Smooth"
+},
+{
+"key": "feature_lighting.html#66",
+"fr": "Dedolight · pinspot"
+},
+{
+"key": "feature_lighting.html#67",
+"fr": "Faisceau net. Accent produit · reflet dans l’œil · projection de gobo"
+},
+{
+"key": "feature_lighting.html#68",
+"fr": "Spot cône 5–10 · feather 10–20"
+},
+{
+"key": "feature_lighting.html#69",
+"fr": "Lumière de jeu (dans le champ)"
+},
+{
+"key": "feature_lighting.html#70",
+"fr": "Lampe · néon · bougie · TV"
+},
+{
+"key": "feature_lighting.html#71",
+"fr": "L’« excuse » de la lumière. Régler l’exposition par l’ampoule · le variateur"
+},
+{
+"key": "feature_lighting.html#72",
+"fr": "Glow + Point au même endroit"
+},
+{
+"key": "feature_lighting.html#73",
+"fr": "Réflecteur · tissu noir"
+},
+{
+"key": "feature_lighting.html#74",
+"fr": "De la lumière sans courant"
+},
+{
+"key": "feature_lighting.html#75",
+"fr": "Blanc=doux, argent=dur, or=chaud, noir=soustraire"
+},
+{
+"key": "feature_lighting.html#76",
+"fr": "Ambient↓ / masque Solid sombre"
+},
+{
+"key": "feature_lighting.html#77",
+"fr": "À vérifier avant le nom du projecteur : dure ou douce, étroite ou large, combien de kelvins. La dernière colonne indique la lumière 3D d’After Effects qui recrée la même lumière."
+},
+{
+"key": "feature_lighting.html#78",
+"fr": "<small>DOUBLE PAGE 02</small>Du pinspot à l’ambiance – cinq lumières selon l’angle de faisceau"
+},
+{
+"key": "feature_lighting.html#79",
+"fr": "Du pinspot à l’ambiance – cinq lumières selon l’angle de faisceau"
+},
+{
+"key": "feature_lighting.html#80",
+"fr": "<b>PINSPOT</b><span class=\"deg\">4–10° · très étroit</span><span>Un seul visage – solo sur scène, accent produit</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"fr": "<b>SPOT</b><span class=\"deg\">15–30° · étroit</span><span>Un cercle au bord visible – Fresnel, Leko · accent et détachement</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"fr": "<b>FLOOD</b><span class=\"deg\">45–70° · large</span><span>Large et uniforme – projecteur ouvert, panneau LED · éclairage de base</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"fr": "<b>DOUX</b><span class=\"deg\">diffus · sans bord</span><span>Lumière enveloppante – boîte à lumière, book light · peau · interviews</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"fr": "<b>AMBIANCE</b><span class=\"deg\">non directionnelle · partout</span><span>Niveau de base sans ombre – rebond au plafond, temps couvert</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"fr": "<span>← étroit · dur · bord net · dramatique</span><span>large · doux · sans bord · global →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"fr": "<b>Planche LT-2</b> Cinq lumières selon l’angle de faisceau – même personne, même place ; seul l’outil devant la lampe a changé. Vers la gauche, on décide « quoi montrer » ; vers la droite, « quelle luminosité »."
+},
+{
+"key": "feature_lighting.html#87",
+"fr": "Faisceau"
+},
+{
+"key": "feature_lighting.html#88",
+"fr": "Angle"
+},
+{
+"key": "feature_lighting.html#89",
+"fr": "Bord d’ombre"
+},
+{
+"key": "feature_lighting.html#90",
+"fr": "Usage"
+},
+{
+"key": "feature_lighting.html#91",
+"fr": "Projecteurs · accessoires types"
+},
+{
+"key": "feature_lighting.html#92",
+"fr": "Réglages 3D Light AE"
+},
+{
+"key": "feature_lighting.html#93",
+"fr": "Erreur courante"
+},
+{
+"key": "feature_lighting.html#94",
+"fr": "Pinspot"
+},
+{
+"key": "feature_lighting.html#95",
+"fr": "Tranchant"
+}
+]

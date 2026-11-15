@@ -1,0 +1,602 @@
+[
+{
+"key": "part12.html#846",
+"fr": "Choisissez entre décor naturel · plateau · mur LED · incrustation+génération, mais fixez d’abord le fond, puis éclairez."
+},
+{
+"key": "part12.html#847",
+"fr": "11.6 Éléments et particules"
+},
+{
+"key": "part12.html#848",
+"fr": "Simulez le produit et la physique essentielle ; générez l’atmosphère et les particules. Séparez en calques et assemblez en compositing."
+},
+{
+"key": "part12.html#849",
+"fr": "11.7 Production traditionnelle et production par IA"
+},
+{
+"key": "part12.html#850",
+"fr": "Non pas des rivales, mais des outils pour des tâches différentes. Maîtrisez les calques porteurs des éléments de marque ; déléguez le reste."
+},
+{
+"key": "part12.html#851",
+"fr": "11.8 Le marché de l’emploi coréen"
+},
+{
+"key": "part12.html#852",
+"fr": "Ce qui disparaît, ce ne sont pas les emplois, mais les premiers barreaux de l’échelle. L’IA est devenue une exigence au sein des postes existants."
+},
+{
+"key": "part12.html#853",
+"fr": "11.9 Plateformes de portfolio"
+},
+{
+"key": "part12.html#854",
+"fr": "Indiquez votre part étape par étape, selon les règles les plus strictes, et gardez la même mention sur tous les canaux. Gonfler ses résultats est fatal."
+},
+{
+"key": "part12.html#855",
+"fr": "11.10 Marchés étrangers et LinkedIn"
+},
+{
+"key": "part12.html#856",
+"fr": "Ce que les offres exigent de plus en plus, ce n’est pas l’art du prompt, mais la grammaire visuelle · la cohérence · le leadership. Plus de demande ne veut pas dire de meilleurs tarifs."
+},
+{
+"key": "part12.html#857",
+"fr": "11.11 Vision et expertise"
+},
+{
+"key": "part12.html#858",
+"fr": "Définir les problèmes · raisonner · sentir le réel · maîtriser les langues : ces savoirs gardent leur valeur. Ayez un profil en balai, mais gardez la barre verticale."
+},
+{
+"key": "part12.html#859",
+"fr": "11.12 Message clé et texte publicitaire"
+},
+{
+"key": "part12.html#860",
+"fr": "Un message est un choix, pas un résumé. Il passe le test du contraire et celui de l’échange de sujet, et touche le public par le concret · le basculement · l’espace."
+},
+{
+"key": "part12.html#861",
+"fr": "11.13 Conception et note d’intention"
+},
+{
+"key": "part12.html#862",
+"fr": "Définition en une ligne, liste de ce qu’on ne fera pas, critères de réussite. Dans la structure en 7 pages, chaque titre de page doit être une phrase de conclusion."
+},
+{
+"key": "part12.html#863",
+"fr": "11.14 Faire de son travail un emploi"
+},
+{
+"key": "part12.html#864",
+"fr": "Construisez avec la règle des dossiers et les 30 minutes du dernier jour, retenez 5 pièces par poste et présentez chacune en « intention-contrainte-choix-résultat »."
+},
+{
+"key": "part01.html#0",
+"fr": "PARTIE"
+},
+{
+"key": "part01.html#1",
+"fr": "<small>PARTIE</small>01"
+},
+{
+"key": "part01.html#2",
+"fr": "<b>Ce que vous réalisez dans cette PARTIE</b>"
+},
+{
+"key": "part01.html#3",
+"fr": "Une vidéo d’une seconde à partir de 12 photos en rafale"
+},
+{
+"key": "part01.html#4",
+"fr": "L’effet Koulechov en 3 versions"
+},
+{
+"key": "part01.html#5",
+"fr": "Un sténopé et son image inversée"
+},
+{
+"key": "part01.html#6",
+"fr": "Qu’est-ce que la vidéo ?"
+},
+{
+"key": "part01.html#7",
+"fr": "Le premier mur auquel se heurte l’apprenant n’est pas la technique, mais la surabondance d’informations. Les outils changent tous les 10 ans ; le langage de la vidéo n’a presque pas bougé depuis plus d’un siècle. Cette PARTIE interroge l’histoire – pourquoi 24 images, pourquoi les visages grossissent quand les écrans rétrécissent – pour bâtir un socle de jugement qui tienne face à n’importe quel nouvel outil."
+},
+{
+"key": "part01.html#8",
+"fr": "Photo P-01 Projecteur et bobines de film – quand la vidéo était un objet physique · image générée"
+},
+{
+"key": "part01.html#9",
+"fr": "<b>P-01</b> Projecteur et bobines de film – quand la vidéo était un objet physique"
+},
+{
+"key": "part01.html#10",
+"fr": "Utiliser ce chapitre en cours"
+},
+{
+"key": "part01.html#11",
+"fr": "Expliquer pourquoi la vidéo a pris sa forme actuelle"
+},
+{
+"key": "part01.html#12",
+"fr": "<b>Matériel</b>3 vidéos de référence, planche chronologique, projecteur"
+},
+{
+"key": "part01.html#13",
+"fr": "<b>10 min</b><i>Intro</i><span>Regarder ensemble les 30 premières secondes d’une vidéo appréciée et compter les plans</span>"
+},
+{
+"key": "part01.html#14",
+"fr": "<b>15 min</b><i>Concept</i><span>La perception et l’origine de la cadence d’images. D’où vient le chiffre 24 ?</span>"
+},
+{
+"key": "part01.html#15",
+"fr": "<b>10 min</b><i>Planches</i><span>Repérer les transitions entre médias sur le schéma chronologique</span>"
+},
+{
+"key": "part01.html#16",
+"fr": "<b>10 min</b><i>Exercice</i><span>Réaliser ou concevoir 3 versions de l’effet Koulechov</span>"
+},
+{
+"key": "part01.html#17",
+"fr": "<b>5 min</b><i>Bilan</i><span>Lire à voix haute L’essentiel en une page et annoncer la séance suivante</span>"
+},
+{
+"key": "part01.html#18",
+"fr": "<b>Point de contrôle</b>Pouvez-vous citer un exemple où les conditions d’un média ont changé la forme ?"
+},
+{
+"key": "part01.html#19",
+"fr": "PARTIE 01"
+},
+{
+"key": "part01.html#20",
+"fr": "Introduction"
+},
+{
+"key": "part01.html#21",
+"fr": "Le premier mur auquel se heurte quiconque veut apprendre la vidéo n’est pas la technique, mais la surabondance d’informations. Il existe des dizaines de milliers de vidéos sur les réglages de caméra, les logiciels de montage changent d’interface chaque année et, depuis 2022, l’IA générative s’y est ajoutée : ce qu’on a appris hier est dépassé aujourd’hui. Beaucoup s’épuisent à courir après les outils."
+},
+{
+"key": "part01.html#22",
+"fr": "Prenez un peu de recul et le tableau change. Quand les frères Lumière ont filmé l’arrivée d’un train en 1895, les questions étaient déjà là : que mettre dans le cadre, et combien de temps le montrer. Les principes que les cinéastes soviétiques ont découverts en expérimentant le montage dans les années 1920 régissent encore le montage en coupes franches des vidéos courtes. Les outils changent tous les 10 ans ; le langage de la vidéo n’a presque pas bougé depuis plus d’un siècle."
+},
+{
+"key": "part01.html#23",
+"fr": "C’est pourquoi cette partie commence par l’histoire. Sachez pourquoi 24 images, pourquoi un angle d’obturation de 180°, pourquoi les visages grossissent quand les écrans rétrécissent, et votre jugement tiendra quand un nouvel outil apparaîtra. Il ne s’agit pas d’apprendre une chronologie par cœur, mais de comprendre quelles contraintes et quels compromis ont produit chacune des normes que nous tenons aujourd’hui pour acquises."
+},
+{
+"key": "part01.html#24",
+"fr": "Contexte 1"
+},
+{
+"key": "part01.html#25",
+"fr": "Que cherche à retenir l’image en mouvement ?"
+},
+{
+"key": "part01.html#26",
+"fr": "La vidéo est une technique d’enregistrement de la lumière, et un vieux désir de retenir le temps. Dans « Ontologie de l’image photographique » (1945), le critique français André Bazin faisait remonter l’origine des arts plastiques à la momie égyptienne : le désir de préserver la forme du corps contre la mort, le « complexe de la momie ». La photographie est singulière parce que c’est la lumière, et non une main humaine, qui laisse directement la trace de l’objet ; le cinéma va plus loin et embaume le temps lui-même."
+},
+{
+"key": "part01.html#27",
+"fr": "À la même époque, Walter Benjamin posait une tout autre question dans « L’œuvre d’art à l’époque de sa reproductibilité technique » (première version, 1935). Une peinture possède une unicité qui n’existe qu’ici et maintenant : son « aura ». Mais la photographie et le cinéma reproduisent la même image à l’infini, et le public la rencontre dans les salles comme dans les salons. Benjamin voyait dans ce changement un renversement de l’autorité de l’art, en même temps que l’ouverture d’un nouveau mode de perception aux masses. Une vidéo courte qui atteint des millions de téléphones à la fois se tient à l’extrême bord du monde qu’il avait pressenti."
+},
+{
+"key": "part01.html#28",
+"fr": "Comment, alors, des photographies fixes semblent-elles bouger ? Longtemps, les manuels l’ont expliqué par la « persistance rétinienne » : l’image qui s’attarde sur la rétine se superpose à la suivante. Mais depuis les expériences de Max Wertheimer sur le mouvement apparent, en 1912, les chercheurs voient dans la perception du mouvement une interprétation du cerveau plutôt que de la rétine. Deux lumières qui clignotent en alternance au bon intervalle donnent l’impression d’une seule lumière qui se déplace. La vidéo est au fond une illusion qui s’achève dans le cerveau du spectateur, et ce fait est le point de départ pour comprendre le montage et l’animation."
+},
+{
+"key": "part01.html#29",
+"fr": "Dans les deux volumes de Cinéma, parus dans les années 1980, le philosophe Gilles Deleuze a distingué l’« image-mouvement » et l’« image-temps ». Dans le cinéma classique, le temps s’écoule le long d’une chaîne d’actions et de réactions. Dans le cinéma européen d’après-guerre, des scènes où les personnages ne peuvent plus agir et se contentent de regarder, un temps qui dérive sans but, ont commencé à envahir l’écran. Une publicité qui cherche à provoquer une réaction en 3 secondes parle la langue de l’image-mouvement ; un film de marque qui laisse respirer par de longs plans emprunte la sensibilité de l’image-temps."
+},
+{
+"key": "part01.html#30",
+"fr": "Chaque technique de ce livre revient à trois questions : que retenir, à qui le transmettre, et que laisser s’achever dans l’esprit du spectateur. Celui qui fait de la vidéo est un technicien de la lumière et un concepteur de la perception et de la mémoire du public."
+},
+{
+"key": "part01.html#31",
+"fr": "Pour aller plus loin – André Bazin, « Ontologie de l’image photographique », Qu’est-ce que le cinéma ? · Walter Benjamin, « L’œuvre d’art à l’époque de sa reproductibilité technique » · Gilles Deleuze, Cinéma 1. L’image-mouvement, Cinéma 2. L’image-temps"
+},
+{
+"key": "part01.html#32",
+"fr": "<b>PARTIE 01</b>Qu’est-ce que la vidéo ?"
+},
+{
+"key": "part01.html#33",
+"fr": "Définir la vidéo et les principes de la perception"
+},
+{
+"key": "part01.html#34",
+"fr": "Rien ne bouge réellement. Le mouvement ne naît pas sur l’écran, mais dans la perception humaine."
+},
+{
+"key": "part01.html#35",
+"fr": "<span class=\"ph-id\">P01-PERSIST</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Un zootrope qui tourne – les images rémanentes créent le mouvement</b>Un enfant regarde par les fentes d’un tambour en rotation, sous la lumière chaude d’une lampe</span>"
+},
+{
+"key": "part01.html#36",
+"fr": "<b>Note</b> Les fentes du zootrope font office d’obturateur, et le cerveau comble par du mouvement les intervalles entre les dessins"
+},
+{
+"key": "part01.html#37",
+"fr": "<b>Fig. 1</b> Le phénomène phi – le cerveau comble par du mouvement l’intervalle entre deux stimuli fixes"
+},
+{
+"key": "part01.html#38",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part01.html#39",
+"fr": "Mouvement apparent – des stimuli en réalité immobiles semblent bouger par l’interprétation du cerveau."
+},
+{
+"key": "part01.html#40",
+"fr": "La vidéo est un médium qui enchaîne des images fixes assez vite pour qu’elles soient perçues comme un mouvement. C’est de là que vient l’idée que faire de la vidéo, c’est en définitive concevoir la cognition du spectateur."
+},
+{
+"key": "part01.html#41",
+"fr": "Images rémanentes et phénomène phi"
+},
+{
+"key": "part01.html#42",
+"fr": "<small>L’ancienne explication</small>Persistance rétinienne"
+},
+{
+"key": "part01.html#43",
+"fr": "L’image rétinienne persiste env. 0,05 s après la disparition du stimulus"
+},
+{
+"key": "part01.html#44",
+"fr": "N’explique pas la sensation de mouvement fluide"
+},
+{
+"key": "part01.html#45",
+"fr": "<small>1912 · Wertheimer</small>Phénomène phi"
+},
+{
+"key": "part01.html#46",
+"fr": "Le cerveau comble par du mouvement l’intervalle entre deux stimuli placés à des endroits différents"
+},
+{
+"key": "part01.html#47",
+"fr": "Principale explication actuelle de la perception du mouvement"
+},
+{
+"key": "part01.html#48",
+"fr": "<small>Intégration</small>Mouvement bêta"
+},
+{
+"key": "part01.html#49",
+"fr": "Des images fixes successives à des positions différentes sont intégrées en un seul objet en mouvement"
+},
+{
+"key": "part01.html#50",
+"fr": "<small>Env. 50 Hz</small>Seuil de fusion du papillotement"
+},
+{
+"key": "part01.html#51",
+"fr": "Fréquence à partir de laquelle le papillotement est perçu comme une lumière continue"
+},
+{
+"key": "part01.html#52",
+"fr": "Pourquoi les premiers projecteurs faisaient clignoter chaque image deux ou trois fois"
+},
+{
+"key": "part01.html#53",
+"fr": "<b>16<em>fps</em></b>Le mouvement est perçu, mais des saccades subsistent"
+},
+{
+"key": "part01.html#54",
+"fr": "<b>24<em>fps</em></b>Le compromis entre fluidité du mouvement et consommation de pellicule"
+},
+{
+"key": "part01.html#55",
+"fr": "<b>0,05<em>s</em></b>Durée de persistance d’une image rémanente sur la rétine"
+},
+{
+"key": "part01.html#56",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part01.html#57",
+"fr": "L’impression cinématographique des 24 fps n’est pas une nécessité physique, mais une convention apprise en 100 ans. Faites de la cadence d’images un outil émotionnel."
+},
+{
+"key": "part01.html#58",
+"fr": "La vidéo est au fond une illusion qui s’achève dans le cerveau du spectateur.<small>12.1 Définir la vidéo et les principes de la perception</small>"
+},
+{
+"key": "part01.html#59",
+"fr": "<small>Exercice</small>12.1"
+},
+{
+"key": "part01.html#60",
+"fr": "Tâche"
+},
+{
+"key": "part01.html#61",
+"fr": "Prenez 12 photos successives avec un smartphone pour créer 1 seconde de mouvement. Lisez ces 12 mêmes images à 6 fps, 12 fps et 24 fps, et comparez."
+},
+{
+"key": "part01.html#62",
+"fr": "Conseil"
+},
+{
+"key": "part01.html#63",
+"fr": "Utilisez un trépied et ne déplacez que le sujet, un peu à la fois. Si le fond bouge, on voit le tremblement avant le mouvement."
+},
+{
+"key": "part01.html#64",
+"fr": "Évaluation"
+},
+{
+"key": "part01.html#65",
+"fr": "L’effet de la cadence d’images sur l’impression de mouvement est-il expliqué en une phrase ? Les intervalles sont-ils réguliers ?"
+},
+{
+"key": "part01.html#66",
+"fr": "Corrigé type"
+},
+{
+"key": "part01.html#67",
+"fr": "La séquence du cheval au galop de Muybridge. Placez côte à côte les 12 mêmes images lues à des vitesses différentes et prouvez vous-même la différence."
+},
+{
+"key": "part01.html#68",
+"fr": "<b>PARTIE 01</b>Qu’est-ce que la vidéo ?"
+},
+{
+"key": "part01.html#69",
+"fr": "Les dispositifs d’avant le cinéma"
+},
+{
+"key": "part01.html#70",
+"fr": "Une histoire des dispositifs qui ont tenté de capter le mouvement. Le cinéma n’a pas été inventé en un jour ; il est né d’une accumulation de dispositifs, dont chacun contenait déjà une notion de la production vidéo actuelle."
+},
+{
+"key": "part01.html#71",
+"fr": "<span class=\"ph-id\">P01-PREFILM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Une séance de lanterne magique</b>Une lanterne en laiton projette sur un drap des images peintes sur verre, devant une famille éclairée à la bougie</span>"
+},
+{
+"key": "part01.html#72",
+"fr": "<b>Note</b> Avant même le cinéma, la forme du visionnage collectif dans une salle obscure était déjà en place"
+},
+{
+"key": "part01.html#73",
+"fr": "<b>XVIIe s.</b><i>Lanterne magique</i>Images sur plaques de verre projetées en grand sur un mur. Ancêtre direct du mapping vidéo"
+},
+{
+"key": "part01.html#74",
+"fr": "<b>1832</b><i>Phénakistiscope · zootrope</i>Image et obturateur réunis pour la première fois"
+},
+{
+"key": "part01.html#75",
+"fr": "<b>1878</b><i>Muybridge</i>Au moins 12 appareils prouvent que les quatre sabots quittent le sol. Début de la photographie à grande vitesse"
+},
+{
+"key": "part01.html#76",
+"fr": "<b>1882</b><i>Marey</i>Chronophotographie. Mouvements successifs superposés sur une plaque pour visualiser le temps"
+},
+{
+"key": "part01.html#77",
+"fr": "<b>1888</b><i>Le Prince</i>Roundhay Garden Scene. Le plus ancien film conservé"
+},
+{
+"key": "part01.html#78",
+"fr": "<b>1891</b><i>Kinétoscope</i>Une seule personne regarde dans la boîte. Même structure que le visionnage sur mobile"
+},
+{
+"key": "part01.html#79",
+"fr": "<b>À retenir</b>"
+},
+{
+"key": "part01.html#80",
+"fr": "Le principe selon lequel les conditions physiques d’un médium déterminent sa forme n’a pas changé en 130 ans."
+},
+{
+"key": "part01.html#81",
+"fr": "Quand la manière de regarder change, la forme des contenus change"
+},
+{
+"key": "part01.html#82",
+"fr": "Le kinétoscope servait à regarder seul, brièvement, et proposait donc de courtes attractions. L’écran vertical du smartphone a produit le format court selon la même logique."
+},
+{
+"key": "part01.html#83",
+"fr": "<small>Exercice</small>12.2"
+},
+{
+"key": "part01.html#84",
+"fr": "Tâche"
+},
+{
+"key": "part01.html#85",
+"fr": "Fabriquez un thaumatrope ou un folioscope en papier et filmez-le dans une vidéo de 10 secondes."
+},
+{
+"key": "part01.html#86",
+"fr": "Conseil"
+},
+{
+"key": "part01.html#87",
+"fr": "Plus le dessin est simple, mieux il bouge. Commencez par un simple cercle qui rebondit."
+},
+{
+"key": "part01.html#88",
+"fr": "Évaluation"
+},
+{
+"key": "part01.html#89",
+"fr": "Le principe de l’image rémanente est-il correctement expliqué ? Le dispositif fonctionne-t-il vraiment ?"
+},
+{
+"key": "part01.html#90",
+"fr": "Corrigé type"
+},
+{
+"key": "part01.html#91",
+"fr": "Des zootropes restaurés. Reliez le principe du dispositif aux boucles GIF et aux vidéos courtes d’aujourd’hui."
+},
+{
+"key": "part01.html#92",
+"fr": "<b>PARTIE 01</b>Qu’est-ce que la vidéo ?"
+},
+{
+"key": "part01.html#93",
+"fr": "La naissance du cinéma et l’ère du muet"
+},
+{
+"key": "part01.html#94",
+"fr": "28 décembre 1895, Grand Café, Paris : première projection payante du Cinématographe des frères Lumière. L’instant où la vidéo est devenue un médium d’expérience collective."
+},
+{
+"key": "part01.html#95",
+"fr": "<span class=\"ph-id\">P01-SILENT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>La caméra à manivelle</b>Une équipe des années 1900 tourne la manivelle d’une caméra en bois sur trépied</span>"
+},
+{
+"key": "part01.html#96",
+"fr": "<b>Note</b> Un plateau de l’ère du muet, où la vitesse de la manivelle faisait la cadence d’images"
+},
+{
+"key": "part01.html#97",
+"fr": "30 ans de cinéma muet – de l’enregistrement à la magie, puis au son"
+},
+{
+"key": "part01.html#98",
+"fr": "<b>L’Arrivée d’un train, 1896 · Lumière</b><span>Un seul plan fixe, 50 secondes. Un train qui arrive en diagonale – la légende dit que le public s’est enfui</span>"
+},
+{
+"key": "part01.html#99",
+"fr": "<b>Le Voyage dans la Lune, 1902 · Méliès</b><span>Arrêt de caméra · surimpression · coloriage à la main. L’instant où le film passe de l’« enregistrement » à la « magie »</span>"
+},
+{
+"key": "part01.html#100",
+"fr": "<b>La caméra à manivelle, années 1910</b><span>La vitesse de la manivelle faisait la cadence. Environ 16 images par seconde, d’où l’aspect accéléré des films muets</span>"
+},
+{
+"key": "part01.html#101",
+"fr": "<b>Le Chanteur de jazz, 1927 · premier long métrage parlant</b><span>Chant et dialogues synchronisés à l’image. L’ère du muet s’achève en 2 ans</span>"
+},
+{
+"key": "part01.html#102",
+"fr": "<b>Fig. 5-1</b> Quatre scènes de l’ère du muet – l’enregistrement (Lumière), la magie (Méliès), la vitesse de la main (manivelle) et le son (parlant). Scènes recréées par imagerie générative, et non photogrammes réels."
+},
+{
+"key": "part01.html#103",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part01.html#104",
+"fr": "Cinématographe – l’appareil des Lumière, à la fois caméra, tireuse et projecteur."
+},
+{
+"key": "part01.html#105",
+"fr": "Catégorie"
+},
+{
+"key": "part01.html#106",
+"fr": "Kinétoscope d’Edison"
+},
+{
+"key": "part01.html#107",
+"fr": "Cinématographe Lumière"
+},
+{
+"key": "part01.html#108",
+"fr": "Visionnage"
+},
+{
+"key": "part01.html#109",
+"fr": "Une seule personne"
+},
+{
+"key": "part01.html#110",
+"fr": "Collectif"
+},
+{
+"key": "part01.html#111",
+"fr": "Poids"
+},
+{
+"key": "part01.html#112",
+"fr": "Lourd, fixe"
+},
+{
+"key": "part01.html#113",
+"fr": "Léger, portable"
+},
+{
+"key": "part01.html#114",
+"fr": "Énergie"
+},
+{
+"key": "part01.html#115",
+"fr": "Électrique"
+},
+{
+"key": "part01.html#116",
+"fr": "Manivelle"
+},
+{
+"key": "part01.html#117",
+"fr": "Lieu de tournage"
+},
+{
+"key": "part01.html#118",
+"fr": "Surtout en studio"
+},
+{
+"key": "part01.html#119",
+"fr": "Surtout en extérieur"
+},
+{
+"key": "part01.html#120",
+"fr": "Héritage"
+},
+{
+"key": "part01.html#121",
+"fr": "Modèle individuel"
+},
+{
+"key": "part01.html#122",
+"fr": "Modèle de la salle"
+},
+{
+"key": "part01.html#123",
+"fr": "La grammaire inventée par le premier cinéma"
+},
+{
+"key": "part01.html#124",
+"fr": "<small>Méliès</small>Effets spéciaux"
+},
+{
+"key": "part01.html#125",
+"fr": "Arrêts de caméra, surimpressions, maquettes"
+},
+{
+"key": "part01.html#126",
+"fr": "Le Voyage dans la Lune, 1902 – point de départ de la fiction mise en scène"
+},
+{
+"key": "part01.html#127",
+"fr": "<small>Porter · 1903</small>La découverte du montage"
+},
+{
+"key": "part01.html#128",
+"fr": "Le Vol du grand rapide alterne des scènes situées en des lieux différents"
+},
+{
+"key": "part01.html#129",
+"fr": "Des espaces différents, une fois raccordés, deviennent un récit"
+},
+{
+"key": "part01.html#130",
+"fr": "<small>Griffith</small>Montage classique"
+}
+]

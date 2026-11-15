@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#784",
+"fr": "Orange et bleu canard, le classique"
+},
+{
+"key": "part02.html#785",
+"fr": "La peau est orange : pousser le fond vers le bleu canard détache aussitôt le personnage"
+},
+{
+"key": "part02.html#786",
+"fr": "<small>Unité</small>Harmonie analogue"
+},
+{
+"key": "part02.html#787",
+"fr": "Teintes voisines uniquement"
+},
+{
+"key": "part02.html#788",
+"fr": "Calme et raffinée, mais risque d’être plate"
+},
+{
+"key": "part02.html#789",
+"fr": "<small>Identité</small>Harmonie monochrome"
+},
+{
+"key": "part02.html#790",
+"fr": "Seule la valeur change, dans une même teinte"
+},
+{
+"key": "part02.html#791",
+"fr": "Convient aux campagnes à couleur de marque"
+},
+{
+"key": "part02.html#792",
+"fr": "<small>Produit en vedette</small>Une seule couleur d’accent"
+},
+{
+"key": "part02.html#793",
+"fr": "Tout en faible saturation ; une seule couleur reste saturée"
+},
+{
+"key": "part02.html#794",
+"fr": "Le moyen le plus sûr de faire ressortir un produit"
+},
+{
+"key": "part02.html#795",
+"fr": "Check-list de direction artistique"
+},
+{
+"key": "part02.html#796",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part02.html#797",
+"fr": "S’il existe une couleur de marque, placez-la toujours dans un accessoire. On ne peut pas la créer en postproduction."
+},
+{
+"key": "part02.html#798",
+"fr": "Arrêtez les couleurs des costumes avant le tournage. Décidées sur le plateau, elles jureront avec le fond."
+},
+{
+"key": "part02.html#799",
+"fr": "Sur fond vert, interdisez strictement tout costume ou accessoire dans la gamme de couleur du fond."
+},
+{
+"key": "part02.html#800",
+"fr": "Masquez ou remplacez à l’avance les logos de marque des accessoires qui seront à l’image."
+},
+{
+"key": "part02.html#801",
+"fr": "Vérifiez que la couleur des murs et la température de couleur des lumières ne jurent pas. La couleur renvoyée par un mur blanc teinte la peau."
+},
+{
+"key": "part02.html#802",
+"fr": "<small>Exercice</small>1.12"
+},
+{
+"key": "part02.html#803",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#804",
+"fr": "Aménagez et filmez un espace qui exprime une émotion (p. ex. l’isolement) par la couleur et les accessoires seuls."
+},
+{
+"key": "part02.html#805",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#806",
+"fr": "Limitez-vous à 1 couleur dominante, 1 secondaire et 1 d’accent."
+},
+{
+"key": "part02.html#807",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#808",
+"fr": "Unité couleur · accessoires · espace"
+},
+{
+"key": "part02.html#809",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#810",
+"fr": "Les palettes de Wes Anderson. Faites d’abord le nuancier, puis construisez le décor en conséquence."
+},
+{
+"key": "part02.html#811",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#812",
+"fr": "Exercice de découpage : démonter 30 secondes"
+},
+{
+"key": "part02.html#813",
+"fr": "Le plus court chemin pour progresser est de démonter les vidéos des autres plan par plan. Répétez les étapes ci-dessous sur dix films seulement, et votre regard changera."
+},
+{
+"key": "part02.html#814",
+"fr": "<b>01</b><i>Choisir</i>Non ce qui vous plaît, mais une vidéo adaptée à ce que vous voulez apprendre"
+},
+{
+"key": "part02.html#815",
+"fr": "<b>02</b><i>Couper le son</i>Voir ce que l’image seule transmet"
+},
+{
+"key": "part02.html#816",
+"fr": "<b>03</b><i>Couper l’image</i>Relever la structure de la musique et des effets"
+},
+{
+"key": "part02.html#817",
+"fr": "<b>04</b><i>Marquer les coupes</i>Avancer par pas de 0,5 s et marquer chaque point de coupe"
+},
+{
+"key": "part02.html#818",
+"fr": "<b>05</b><i>Mettre en tableau</i>Noter valeur, angle, mouvement et durée de chaque plan"
+},
+{
+"key": "part02.html#819",
+"fr": "<b>06</b><i>Classer les raccords</i>Raccord mouvement, de forme ou jump cut"
+},
+{
+"key": "part02.html#820",
+"fr": "<b>07</b><i>Pourquoi couper là</i>Une ligne – le cœur de l’analyse"
+},
+{
+"key": "part02.html#821",
+"fr": "<b>08</b><i>Reconcevoir</i>Rebâtir la même structure avec votre propre matière"
+},
+{
+"key": "part02.html#822",
+"fr": "Motifs à lire dans le découpage"
+},
+{
+"key": "part02.html#823",
+"fr": "Élément"
+},
+{
+"key": "part02.html#824",
+"fr": "Ce qu’il révèle"
+},
+{
+"key": "part02.html#825",
+"fr": "À appliquer à votre travail"
+},
+{
+"key": "part02.html#826",
+"fr": "Durée moyenne des plans"
+},
+{
+"key": "part02.html#827",
+"fr": "Rythme et genre"
+},
+{
+"key": "part02.html#828",
+"fr": "Régler les durées selon l’émotion visée"
+},
+{
+"key": "part02.html#829",
+"fr": "Répartition des valeurs"
+},
+{
+"key": "part02.html#830",
+"fr": "Ce sur quoi on voulait votre attention"
+},
+{
+"key": "part02.html#831",
+"fr": "Ajuster votre part de gros plans"
+},
+{
+"key": "part02.html#832",
+"fr": "3 premiers plans"
+},
+{
+"key": "part02.html#833",
+"fr": "Stratégie d’accroche"
+},
+{
+"key": "part02.html#834",
+"fr": "Reconcevoir votre ouverture"
+},
+{
+"key": "part02.html#835",
+"fr": "Plan le plus long"
+},
+{
+"key": "part02.html#836",
+"fr": "Le moment jugé le plus important"
+},
+{
+"key": "part02.html#837",
+"fr": "Où placer le message clé"
+},
+{
+"key": "part02.html#838",
+"fr": "3 derniers plans"
+},
+{
+"key": "part02.html#839",
+"fr": "Ce qu’on veut faire retenir"
+},
+{
+"key": "part02.html#840",
+"fr": "Structure d’exposition de la marque"
+},
+{
+"key": "part02.html#841",
+"fr": "Entrée de la musique"
+},
+{
+"key": "part02.html#842",
+"fr": "Conception des bascules d’émotion"
+},
+{
+"key": "part02.html#843",
+"fr": "Synchroniser musique et coupes"
+},
+{
+"key": "part02.html#844",
+"fr": "Apparition des sous-titres"
+},
+{
+"key": "part02.html#845",
+"fr": "Stratégie d’information"
+},
+{
+"key": "part02.html#846",
+"fr": "Fréquence et position des sous-titres"
+},
+{
+"key": "part02.html#847",
+"fr": "Accumulez des notes d’analyse"
+},
+{
+"key": "part02.html#848",
+"fr": "Une page A4 par film suffit ; en 1 an, vous en aurez 50. Ces notes fonderont plus tard vos choix de mise en scène et prouveront, en entretien d’embauche, votre sens des tendances."
+},
+{
+"key": "part02.html#849",
+"fr": "<small>Exercice</small>1.13"
+},
+{
+"key": "part02.html#850",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#851",
+"fr": "Décomposez plan par plan une publicité de 30 secondes dans un tableau (temps, valeur de plan, angle, mouvement, son, sous-titres)."
+},
+{
+"key": "part02.html#852",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#853",
+"fr": "Regardez à vitesse ×0,5 et mettez en pause à chaque coupe."
+},
+{
+"key": "part02.html#854",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#855",
+"fr": "Précision de l’analyse ; règles dégagées"
+},
+{
+"key": "part02.html#856",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#857",
+"fr": "Reprenez telle quelle la structure analysée et refaites-en un storyboard de 30 secondes pour votre propre produit."
+},
+{
+"key": "part02.html#858",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#859",
+"fr": "Le sens que crée la couleur"
+},
+{
+"key": "part02.html#860",
+"fr": "La couleur est ce qu’on lit en premier à l’écran et ce qu’on remarque en dernier. Avant d’avoir lu un seul sous-titre, le public a déjà jugé si la scène est chaude ou froide."
+},
+{
+"key": "part02.html#861",
+"fr": "<b>Contre-jour doré</b>Nostalgie et chaleur – publicités famille · souvenir · fêtes. Contre-jour au couchant"
+},
+{
+"key": "part02.html#862",
+"fr": "<b>Photos de référence 1.14A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part02.html#863",
+"fr": "<b>Orange et bleu canard</b>Détache les personnages – action, bandes-annonces, la plupart des publicités. Un rendu usé jusqu’au cliché"
+},
+{
+"key": "part02.html#864",
+"fr": "<b>Bleu froid</b>Isolement – informatique, finance, scènes tendues. La peau pâlit"
+},
+{
+"key": "part02.html#865",
+"fr": "<b>Couleur d’accent unique</b>Force le regard – publicités produit, plans logo. Deux accents, et l’effet disparaît"
+},
+{
+"key": "part02.html#866",
+"fr": "Stratégie de couleur"
+},
+{
+"key": "part02.html#867",
+"fr": "Effet à l’écran"
+},
+{
+"key": "part02.html#868",
+"fr": "Usage type"
+},
+{
+"key": "part02.html#869",
+"fr": "Note"
+},
+{
+"key": "part02.html#870",
+"fr": "Lumière du jour chaude"
+},
+{
+"key": "part02.html#871",
+"fr": "Sécurité, souvenir, nostalgie, quotidien"
+},
+{
+"key": "part02.html#872",
+"fr": "Famille, alimentation et boissons, flashbacks"
+},
+{
+"key": "part02.html#873",
+"fr": "En excès, une dominante jaune vulgaire"
+},
+{
+"key": "part02.html#874",
+"fr": "Bleu froid"
+},
+{
+"key": "part02.html#875",
+"fr": "Isolement, raison, technologie, nuit"
+},
+{
+"key": "part02.html#876",
+"fr": "Informatique, finance, scènes tendues"
+},
+{
+"key": "part02.html#877",
+"fr": "La peau pâlit"
+},
+{
+"key": "part02.html#878",
+"fr": "Contraste orange-bleu canard"
+},
+{
+"key": "part02.html#879",
+"fr": "Détache les personnages, fini commercial"
+},
+{
+"key": "part02.html#880",
+"fr": "Action, bandes-annonces, la plupart des publicités"
+},
+{
+"key": "part02.html#881",
+"fr": "Un rendu usé jusqu’au cliché"
+},
+{
+"key": "part02.html#882",
+"fr": "Monochrome désaturé"
+},
+{
+"key": "part02.html#883",
+"fr": "Retenue, luxe, sérieux"
+},
+{
+"key": "part02.html#884",
+"fr": "Produits haut de gamme, documentaire"
+},
+{
+"key": "part02.html#885",
+"fr": "Devient vite terne"
+},
+{
+"key": "part02.html#886",
+"fr": "Couleur d’accent unique"
+},
+{
+"key": "part02.html#887",
+"fr": "Force le regard, imprime la marque"
+},
+{
+"key": "part02.html#888",
+"fr": "Publicités produit, plans logo"
+},
+{
+"key": "part02.html#889",
+"fr": "Deux accents tuent l’effet"
+},
+{
+"key": "part02.html#890",
+"fr": "Primaires saturées"
+},
+{
+"key": "part02.html#891",
+"fr": "Jeunesse, jeu, énergie"
+},
+{
+"key": "part02.html#892",
+"fr": "Vidéos courtes, enfants, sport"
+},
+{
+"key": "part02.html#893",
+"fr": "Difficile à reproduire à l’impression · en affichage"
+},
+{
+"key": "part02.html#894",
+"fr": "Noir et blanc"
+},
+{
+"key": "part02.html#895",
+"fr": "Bascules temporelles, essence"
+},
+{
+"key": "part02.html#896",
+"fr": "Flashbacks, interviews, propos artistiques"
+},
+{
+"key": "part02.html#897",
+"fr": "Exige un contraste tonal pensé"
+},
+{
+"key": "part02.html#898",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part02.html#899",
+"fr": "Considérez que la couleur fixe la direction de l’émotion, et la saturation son intensité."
+},
+{
+"key": "part02.html#900",
+"fr": "La couleur se décide sur le plateau. Si les couleurs des murs, des costumes et des accessoires ne sont pas arrêtées d’avance, la postproduction n’y pourra rien."
+},
+{
+"key": "part02.html#901",
+"fr": "Placez toujours la couleur de marque quelque part dans le cadre. Changez une couleur en postproduction, et les tons chair bougent avec elle."
+},
+{
+"key": "part02.html#902",
+"fr": "Gardez une seule température de couleur par scène. Les lumières mixtes multiplient le temps d’étalonnage en postproduction."
+},
+{
+"key": "part02.html#903",
+"fr": "Si vous prévoyez une déclinaison en affichage et en imprimé, anticipez le fait que les couleurs très saturées ne se reproduiront pas."
+},
+{
+"key": "part02.html#904",
+"fr": "<small>Exercice</small>1.14"
+},
+{
+"key": "part02.html#905",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#906",
+"fr": "Étalonnez la même scène de trois façons et notez l’histoire que raconte chacune."
+},
+{
+"key": "part02.html#907",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#908",
+"fr": "La couleur fixe la direction de l’émotion ; la saturation, son intensité."
+},
+{
+"key": "part02.html#909",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#910",
+"fr": "Lien entre choix de couleur et sens"
+},
+{
+"key": "part02.html#911",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#912",
+"fr": "Le vert de Matrix, le rose de The Grand Budapest Hotel. Suivez l’évolution de la couleur selon les époques au sein d’un même film."
+},
+{
+"key": "part02.html#913",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#914",
+"fr": "Point de vue : par les yeux de qui regardons-nous ?"
+},
+{
+"key": "part02.html#915",
+"fr": "La caméra est toujours placée à la position de quelqu’un. Choisir cette position, c’est choisir le point de vue ; quand le point de vue vacille, le public sort du récit."
+},
+{
+"key": "part02.html#916",
+"fr": "<small>Observateur</small>Point de vue objectif"
+},
+{
+"key": "part02.html#917",
+"fr": "Plan taille à hauteur d’yeux par défaut, information neutre"
+},
+{
+"key": "part02.html#918",
+"fr": "La plupart des vidéos d’information et des interviews"
+},
+{
+"key": "part02.html#919",
+"fr": "<small>Yeux du personnage</small>Point de vue subjectif"
+},
+{
+"key": "part02.html#920",
+"fr": "Exige juste avant un plan montrant le personnage qui regarde"
+},
+{
+"key": "part02.html#921",
+"fr": "La base de l’horreur et de l’immersion"
+},
+{
+"key": "part02.html#922",
+"fr": "<small>Entre les deux</small>Point de vue en amorce épaule"
+},
+{
+"key": "part02.html#923",
+"fr": "Montre la relation, prend parti"
+},
+{
+"key": "part02.html#924",
+"fr": "Standard du dialogue"
+},
+{
+"key": "part02.html#925",
+"fr": "<small>Une position impossible</small>Point de vue omniscient"
+},
+{
+"key": "part02.html#926",
+"fr": "Plongée, plongée totale"
+},
+{
+"key": "part02.html#927",
+"fr": "La situation en schéma ; la distance du destin"
+},
+{
+"key": "part02.html#928",
+"fr": "<small>Caméra d’action</small>Point de vue à la 1re personne"
+},
+{
+"key": "part02.html#929",
+"fr": "Le point de vue du vlog"
+},
+{
+"key": "part02.html#930",
+"fr": "Le tremblé de la caméra comme preuve du réel"
+},
+{
+"key": "part02.html#931",
+"fr": "<small>Œil de la machine</small>Point de vue de surveillance"
+},
+{
+"key": "part02.html#932",
+"fr": "Vidéosurveillance, moniteurs, images de drone"
+},
+{
+"key": "part02.html#933",
+"fr": "Écart d’information et malaise"
+}
+]

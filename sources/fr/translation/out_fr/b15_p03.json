@@ -1,0 +1,602 @@
+[
+{
+"key": "part13.html#296",
+"fr": "<small>Exercice</small>13.5"
+},
+{
+"key": "part13.html#297",
+"fr": "Tâche"
+},
+{
+"key": "part13.html#298",
+"fr": "Imaginez que vous installez votre œuvre dans une galerie fictive (6 m de large, 4 m de profondeur, 3 m de haut) et préparez un plan d’installation, une liste du matériel et un plan d’exploitation."
+},
+{
+"key": "part13.html#299",
+"fr": "Conseil"
+},
+{
+"key": "part13.html#300",
+"fr": "Calculez la distance de projection et la taille de l’image, et notez les chiffres. Indiquez toujours sur le plan l’emplacement des prises et le trajet des câbles."
+},
+{
+"key": "part13.html#301",
+"fr": "Évaluation"
+},
+{
+"key": "part13.html#302",
+"fr": "Les chiffres sont-ils calculés ? Existe-t-il un plan en cas de panne ?"
+},
+{
+"key": "part13.html#303",
+"fr": "Corrigé type"
+},
+{
+"key": "part13.html#304",
+"fr": "Un plan d’exploitation rédigé jour par jour, avec démarrage automatique, redémarrage quotidien et vidéo de secours."
+},
+{
+"key": "part13.html#305",
+"fr": "<b>PARTIE 13</b>Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#306",
+"fr": "Textes de présentation et portfolios"
+},
+{
+"key": "part13.html#307",
+"fr": "En art numérique, l’écrit fait partie de l’œuvre. Le public lit le texte de présentation pour comprendre la pièce, et les appels à projets comme les résidences se jugent sur texte et photos seulement. Les exigences diffèrent de celles d’un portfolio vidéo : entraînez-vous à part."
+},
+{
+"key": "part13.html#308",
+"fr": "Anatomie d’un texte de présentation"
+},
+{
+"key": "part13.html#309",
+"fr": "<b>01</b><i>Quoi</i>Commencez par « Cette œuvre est… ». Ouvrez sur le contexte, et personne ne lira jusqu’au bout"
+},
+{
+"key": "part13.html#310",
+"fr": "<b>02</b><i>Comment</i>Ce qui se passe quand le visiteur fait quoi. Le mode d’emploi d’une œuvre interactive"
+},
+{
+"key": "part13.html#311",
+"fr": "<b>03</b><i>Pourquoi</i>La raison de cette forme. Les motifs d’un choix, pas une vitrine technique"
+},
+{
+"key": "part13.html#312",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part13.html#313",
+"fr": "Les textes muraux de 150 à 300 caractères sont lus. Au-delà, personne ne reste debout à lire."
+},
+{
+"key": "part13.html#314",
+"fr": "Mots à éviter"
+},
+{
+"key": "part13.html#315",
+"fr": "<b>Grands mots flous</b> – « existence », « relation », « frontière » employés sans explication ne disent rien. Si vous en utilisez un, précisez au moins une fois ce qu’il désigne concrètement dans cette œuvre."
+},
+{
+"key": "part13.html#316",
+"fr": "<b>Liste technique</b> – les outils ont leur place dans la ligne des matériaux. Les exhiber dans le texte rapetisse l’œuvre."
+},
+{
+"key": "part13.html#317",
+"fr": "<b>Citations non vérifiées</b> – ne citez pas de livres que vous n’avez pas lus. C’est la première chose sur laquelle le jury vous interroge."
+},
+{
+"key": "part13.html#318",
+"fr": "Contenu du portfolio"
+},
+{
+"key": "part13.html#319",
+"fr": "Élément"
+},
+{
+"key": "part13.html#320",
+"fr": "Contenu"
+},
+{
+"key": "part13.html#321",
+"fr": "Erreur fréquente"
+},
+{
+"key": "part13.html#322",
+"fr": "Images clés"
+},
+{
+"key": "part13.html#323",
+"fr": "1 vue d’installation, 2 détails"
+},
+{
+"key": "part13.html#324",
+"fr": "Captures d’écran seules"
+},
+{
+"key": "part13.html#325",
+"fr": "Vidéo de documentation"
+},
+{
+"key": "part13.html#326",
+"fr": "1–2 min, réactions du public comprises"
+},
+{
+"key": "part13.html#327",
+"fr": "Long plan de l’écran seul"
+},
+{
+"key": "part13.html#328",
+"fr": "Ligne des matériaux"
+},
+{
+"key": "part13.html#329",
+"fr": "Médium, dimensions, durée, année"
+},
+{
+"key": "part13.html#330",
+"fr": "Totalement omise"
+},
+{
+"key": "part13.html#331",
+"fr": "Schéma du système"
+},
+{
+"key": "part13.html#332",
+"fr": "1 schéma entrée-traitement-sortie"
+},
+{
+"key": "part13.html#333",
+"fr": "Expliqué seulement en mots"
+},
+{
+"key": "part13.html#334",
+"fr": "Conditions d’installation"
+},
+{
+"key": "part13.html#335",
+"fr": "Espace, électricité, occultation"
+},
+{
+"key": "part13.html#336",
+"fr": "Le jury ignore si c’est installable"
+},
+{
+"key": "part13.html#337",
+"fr": "Contribution"
+},
+{
+"key": "part13.html#338",
+"fr": "Votre part d’une collaboration"
+},
+{
+"key": "part13.html#339",
+"fr": "Travail d’équipe présenté comme solo"
+},
+{
+"key": "part13.html#340",
+"fr": "La documentation fait vivre l’œuvre"
+},
+{
+"key": "part13.html#341",
+"fr": "Une œuvre d’art numérique disparaît à la fermeture de l’exposition. Seule la documentation reste, et c’est elle qui décide du prochain appel et de la prochaine exposition. Pendant l’exposition, photographiez sans faute les vues d’installation, les détails, les vraies réactions du public et même le montage."
+},
+{
+"key": "part13.html#342",
+"fr": "Le jour le plus important en galerie n’est pas le vernissage, mais celui où vous tournez la documentation.<small>13.6 Textes de présentation et portfolios</small>"
+},
+{
+"key": "part13.html#343",
+"fr": "<small>Exercice</small>13.6"
+},
+{
+"key": "part13.html#344",
+"fr": "Tâche"
+},
+{
+"key": "part13.html#345",
+"fr": "Pour l’une de vos œuvres, rédigez un texte d’exposition de 250 caractères et réalisez un portfolio d’une page. Incluez la ligne des matériaux, le schéma du système et les conditions d’installation."
+},
+{
+"key": "part13.html#346",
+"fr": "Conseil"
+},
+{
+"key": "part13.html#347",
+"fr": "Une fois le texte écrit, faites-le lire à quelqu’un qui ne connaît pas l’œuvre et demandez-lui s’il comprend « ce qu’il est censé faire »."
+},
+{
+"key": "part13.html#348",
+"fr": "Évaluation"
+},
+{
+"key": "part13.html#349",
+"fr": "La première phrase définit-elle l’œuvre ? Les conditions d’installation sont-elles assez précises pour que le jury puisse juger ?"
+},
+{
+"key": "part13.html#350",
+"fr": "Corrigé type"
+},
+{
+"key": "part13.html#351",
+"fr": "Une mise en page qui place les photos des réactions du public à côté du schéma du système, pour qu’une seule page explique à la fois ce qu’on voit et comment ça marche."
+},
+{
+"key": "part13.html#352",
+"fr": "<b>PARTIE 13</b>Art numérique et cinéma élargi"
+},
+{
+"key": "part13.html#353",
+"fr": "Appels à projets et aides"
+},
+{
+"key": "part13.html#354",
+"fr": "Comment candidater concrètement. L’art numérique coûte plus cher que la production vidéo en matériel, en espace et en installation : appels et aides deviennent une condition préalable de l’œuvre. La liste ci-dessous suit les avis réels de 2026 ; montants et dates changent chaque année, vérifiez-les toujours dans l’avis officiel."
+},
+{
+"key": "part13.html#355",
+"fr": "Appels coréens ouverts aux étudiants dès maintenant"
+},
+{
+"key": "part13.html#356",
+"fr": "Appel"
+},
+{
+"key": "part13.html#357",
+"fr": "Organisateur"
+},
+{
+"key": "part13.html#358",
+"fr": "Clôture (2026)"
+},
+{
+"key": "part13.html#359",
+"fr": "Prix"
+},
+{
+"key": "part13.html#360",
+"fr": "Dream Big Art Award"
+},
+{
+"key": "part13.html#361",
+"fr": "DB World"
+},
+{
+"key": "part13.html#362",
+"fr": "sept."
+},
+{
+"key": "part13.html#363",
+"fr": "120 M de wons au total ; catégorie étudiante"
+},
+{
+"key": "part13.html#364",
+"fr": "JoongAng Media Art Competition"
+},
+{
+"key": "part13.html#365",
+"fr": "JoongAng Ilbo"
+},
+{
+"key": "part13.html#366",
+"fr": "août"
+},
+{
+"key": "part13.html#367",
+"fr": "45 M de wons au total ; catégorie étudiante"
+},
+{
+"key": "part13.html#368",
+"fr": "Art numérique du cimetière national de Séoul"
+},
+{
+"key": "part13.html#369",
+"fr": "Ministère des Anciens combattants"
+},
+{
+"key": "part13.html#370",
+"fr": "août"
+},
+{
+"key": "part13.html#371",
+"fr": "Grand prix 30 M de wons"
+},
+{
+"key": "part13.html#372",
+"fr": "Seoullo Media Canvas, artistes émergents"
+},
+{
+"key": "part13.html#373",
+"fr": "Ville de Séoul"
+},
+{
+"key": "part13.html#374",
+"fr": "août"
+},
+{
+"key": "part13.html#375",
+"fr": "20 équipes, 1,5 M de wons chacune + exposition"
+},
+{
+"key": "part13.html#376",
+"fr": "Seoul Light Gwanghwamun"
+},
+{
+"key": "part13.html#377",
+"fr": "Ville de Séoul"
+},
+{
+"key": "part13.html#378",
+"fr": "nov."
+},
+{
+"key": "part13.html#379",
+"fr": "6 équipes, 12 M de wons"
+},
+{
+"key": "part13.html#380",
+"fr": "NEXT:ON Incheon"
+},
+{
+"key": "part13.html#381",
+"fr": "Incheon Technopark"
+},
+{
+"key": "part13.html#382",
+"fr": "août"
+},
+{
+"key": "part13.html#383",
+"fr": "3 équipes, 25 M de wons chacune"
+},
+{
+"key": "part13.html#384",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part13.html#385",
+"fr": "Le prix étudiant de Dream Big est versé sous forme de bourse via votre université ; si elle ne peut pas le verser, le prix peut être annulé. Renseignez-vous auprès de votre département avant de candidater."
+},
+{
+"key": "part13.html#386",
+"fr": "Dream Big et JoongAng ont des catégories étudiantes distinctes. Vous n’y affrontez donc pas des artistes professionnels : regardez d’abord les appels qui ont une catégorie étudiante."
+},
+{
+"key": "part13.html#387",
+"fr": "Résidences · incubation · aides publiques"
+},
+{
+"key": "part13.html#388",
+"fr": "<small>Gwangyang Media Art Residence</small>Clôture en mai"
+},
+{
+"key": "part13.html#389",
+"fr": "Art numérique uniquement, 3 artistes retenus"
+},
+{
+"key": "part13.html#390",
+"fr": "Allocation de 1,6 M de wons par mois × cinq mois, atelier et logement"
+},
+{
+"key": "part13.html#391",
+"fr": "<small>G.MAP Digital Art Culture Lab</small>Clôture en août"
+},
+{
+"key": "part13.html#392",
+"fr": "Gwangju, 14 équipes, 18 séances de mentorat, plus matériel · espace"
+},
+{
+"key": "part13.html#393",
+"fr": "Tous les membres de l’équipe âgés de 19 ans ou plus"
+},
+{
+"key": "part13.html#394",
+"fr": "<small>MMCA Residency</small>Un objectif à quelques années"
+},
+{
+"key": "part13.html#395",
+"fr": "Goyang dès 25 ans, Changdong dès 40 ans"
+},
+{
+"key": "part13.html#396",
+"fr": "Tous domaines, nouveaux médias compris, près d’un an en résidence"
+},
+{
+"key": "part13.html#397",
+"fr": "<small>K-Art Young Creators Support</small>Candidatures en mars"
+},
+{
+"key": "part13.html#398",
+"fr": "Nouveau programme 2026 du ministère de la Culture, des Sports et du Tourisme : 9 millions de wons par an à 3000 personnes de 39 ans ou moins"
+},
+{
+"key": "part13.html#399",
+"fr": "L’art numérique n’y figure pas comme domaine à part : visez la catégorie interdisciplinaire"
+},
+{
+"key": "part13.html#400",
+"fr": "<small>Art Korea Lab</small>Aide par étapes"
+},
+{
+"key": "part13.html#401",
+"fr": "Suivi après le programme principal (15 aides de 30 millions de wons chacune)"
+},
+{
+"key": "part13.html#402",
+"fr": "<small>Fondation des arts et de la culture de Séoul</small>Seoul Convergence Art Festival"
+},
+{
+"key": "part13.html#403",
+"fr": "Crée les nouvelles œuvres des artistes sélectionnés"
+},
+{
+"key": "part13.html#404",
+"fr": "La voie suivie par les lauréats 2023 d’Ars Electronica"
+},
+{
+"key": "part13.html#405",
+"fr": "Vers l’international"
+},
+{
+"key": "part13.html#406",
+"fr": "Nom"
+},
+{
+"key": "part13.html#407",
+"fr": "Organisateur · lieu"
+},
+{
+"key": "part13.html#408",
+"fr": "Clôture"
+},
+{
+"key": "part13.html#409",
+"fr": "Prix"
+},
+{
+"key": "part13.html#410",
+"fr": "Prix Ars Electronica"
+},
+{
+"key": "part13.html#411",
+"fr": "Linz (Autriche)"
+},
+{
+"key": "part13.html#412",
+"fr": "mars"
+},
+{
+"key": "part13.html#413",
+"fr": "10 000 € par catégorie"
+},
+{
+"key": "part13.html#414",
+"fr": "STARTS Prize"
+},
+{
+"key": "part13.html#415",
+"fr": "Commission européenne"
+},
+{
+"key": "part13.html#416",
+"fr": "mars"
+},
+{
+"key": "part13.html#417",
+"fr": "20 000 € chacun, 2 catégories"
+},
+{
+"key": "part13.html#418",
+"fr": "Lumen Prize"
+},
+{
+"key": "part13.html#419",
+"fr": "Royaume-Uni"
+},
+{
+"key": "part13.html#420",
+"fr": "mai"
+},
+{
+"key": "part13.html#421",
+"fr": "30 000 $ au total ; inscription payante"
+},
+{
+"key": "part13.html#422",
+"fr": "SIGGRAPH Art Gallery"
+},
+{
+"key": "part13.html#423",
+"fr": "États-Unis"
+},
+{
+"key": "part13.html#424",
+"fr": "janv."
+},
+{
+"key": "part13.html#425",
+"fr": "Sans prix ; exposition"
+},
+{
+"key": "part13.html#426",
+"fr": "ISEA"
+},
+{
+"key": "part13.html#427",
+"fr": "Ville hôte variable"
+},
+{
+"key": "part13.html#428",
+"fr": "déc."
+},
+{
+"key": "part13.html#429",
+"fr": "Sans prix ; communication"
+},
+{
+"key": "part13.html#430",
+"fr": "VH AWARD"
+},
+{
+"key": "part13.html#431",
+"fr": "Hyundai Motor Group"
+},
+{
+"key": "part13.html#432",
+"fr": "juil."
+},
+{
+"key": "part13.html#433",
+"fr": "Aide à la production + résidence"
+},
+{
+"key": "part13.html#434",
+"fr": "Au Prix Ars Electronica 2023, deux artistes coréens ont remporté le premier prix et un prix spécial. Tous deux avaient été retenus plusieurs fois par des aides publiques coréennes, et l’un avait débuté dans un festival coréen d’arts convergents. La voie qui mène des appels coréens aux festivals coréens, puis à la scène internationale, fonctionne vraiment."
+},
+{
+"key": "part13.html#435",
+"fr": "Quatre pièces à préparer en un semestre"
+},
+{
+"key": "part13.html#436",
+"fr": "<b>01</b><i>Texte d’artiste en coréen, 500 mots</i>La plupart des appels coréens exigent une description de l’œuvre"
+},
+{
+"key": "part13.html#437",
+"fr": "<b>02</b><i>Note d’intention en anglais, 3 p.</i>Exigée par VH AWARD et ISEA. Corps 11, PDF en standard"
+},
+{
+"key": "part13.html#438",
+"fr": "<b>03</b><i>Vidéo de 30 s des temps forts</i>La JoongAng Media Art Competition demande 20–30 s à la candidature"
+},
+{
+"key": "part13.html#439",
+"fr": "<b>04</b><i>Film portfolio de 3 min</i>VH AWARD demande jusqu’à 3 minutes"
+},
+{
+"key": "part13.html#440",
+"fr": "Affichez à votre bureau le calendrier des appels, pas une seule date limite. Mars, mai, juillet, août, septembre et novembre sont les mois de clôture de l’art numérique coréen.<small>13.7 Appels à projets et aides</small>"
+},
+{
+"key": "part13.html#441",
+"fr": "<small>Exercice</small>13.7"
+},
+{
+"key": "part13.html#442",
+"fr": "Tâche"
+},
+{
+"key": "part13.html#443",
+"fr": "Choisissez trois des appels ci-dessus qui vous conviennent et dressez un tableau des documents exigés par chacun. Prévoyez de candidater réellement à l’un d’eux et établissez un calendrier à rebours depuis la date limite."
+},
+{
+"key": "part13.html#444",
+"fr": "Conseil"
+},
+{
+"key": "part13.html#445",
+"fr": "Partez de la date limite et remontez. Notez le nombre de jours nécessaires pour la vidéo, les dossiers, la relecture et l’envoi."
+}
+]

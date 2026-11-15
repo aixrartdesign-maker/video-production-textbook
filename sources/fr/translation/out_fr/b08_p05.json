@@ -1,0 +1,578 @@
+[
+{
+"key": "part07.html#857",
+"fr": "Le nombre de projecteurs nécessaires découle naturellement de ces trois chiffres. Le nombre d’appareils et les caractéristiques des objectifs sont des résultats, non des points de départ."
+},
+{
+"key": "part07.html#858",
+"fr": "Casques et vidéo spatiale"
+},
+{
+"key": "part07.html#859",
+"fr": "<b>Fig. 73</b> Comparaison de 4 appareils XR"
+},
+{
+"key": "part07.html#860",
+"fr": "Apple a fait découvrir la vidéo spatiale au grand public avec le Vision Pro, Meta a répandu la réalité mixte en passthrough avec sa gamme Quest, et Google mise sur une plateforme XR fondée sur Android et sur des lunettes AR légères. Tous ont un point commun : l’écran sort du cadre rectangulaire et s’étend à tout le champ de vision de l’utilisateur."
+},
+{
+"key": "part07.html#861",
+"fr": "La vidéo spatiale enregistre telle quelle la parallaxe des deux yeux pour créer le relief"
+},
+{
+"key": "part07.html#862",
+"fr": "<b>La parallaxe binoculaire devient relief</b><span>Nos deux yeux sont écartés d’environ 65 mm – chacun voit le même objet sous un angle légèrement différent</span><span>Le cerveau lit cet écart (la parallaxe) comme de la profondeur</span><span>La vidéo spatiale enregistre les deux vues avec deux objectifs, et le casque montre à chaque œil sa propre image</span><span>Plus de parallaxe rapproche l’objet ; trop de parallaxe fait mal aux yeux</span>"
+},
+{
+"key": "part07.html#863",
+"fr": "<b>Fig. 74</b> Comment la vidéo spatiale enregistre en stéréo – elle capte les deux vues que perçoivent les yeux et les leur restitue."
+},
+{
+"key": "part07.html#864",
+"fr": "<small>Vidéo spatiale</small>Prise de vues stéréo et plans longs"
+},
+{
+"key": "part07.html#865",
+"fr": "Deux objectifs enregistrent en même temps, écartés à peu près comme des yeux humains. Un entraxe plus large ajoute du relief mais fatigue les yeux de près"
+},
+{
+"key": "part07.html#866",
+"fr": "Les coupes fréquentes sont inconfortables, car le cerveau a besoin de temps pour reconstruire la profondeur. Les plans longs sont la règle"
+},
+{
+"key": "part07.html#867",
+"fr": "Placer les sous-titres comme des objets dotés d’une valeur de profondeur. Si la profondeur est fausse, la mise au point vacille"
+},
+{
+"key": "part07.html#868",
+"fr": "<small>Lunettes AR · passthrough</small>Le noir et les couleurs de marque"
+},
+{
+"key": "part07.html#869",
+"fr": "La vision optique directe (see-through) ne peut pas afficher le noir. Les tons sombres deviennent simplement transparents"
+},
+{
+"key": "part07.html#870",
+"fr": "Le passthrough rediffuse le réel filmé par des caméras : couleur et exposition dépendent donc de l’appareil. Ne comptez pas sur des couleurs de marque exactes"
+},
+{
+"key": "part07.html#871",
+"fr": "<b>Photos de référence 6.13A</b>Images générées – références de mise en scène"
+},
+{
+"key": "part07.html#872",
+"fr": "<b>a</b>Façade média"
+},
+{
+"key": "part07.html#873",
+"fr": "<b>b</b>Espace d’exposition immersif"
+},
+{
+"key": "part07.html#874",
+"fr": "<b>c</b>Port de lunettes AR"
+},
+{
+"key": "part07.html#875",
+"fr": "<span class=\"ph-id\">P07-IMMERSIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Exposition immersive</b>Des visiteurs debout au cœur d’une vidéo à l’encre de Chine qui coule sur les murs et le sol</span>"
+},
+{
+"key": "part07.html#876",
+"fr": "<b>Note</b>Un espace où les quatre bords de l’écran disparaissent – même les ombres des visiteurs font partie du contenu"
+},
+{
+"key": "part07.html#877",
+"fr": "Ce que les praticiens doivent préparer"
+},
+{
+"key": "part07.html#878",
+"fr": "Même sans projet pour casque en vue, tourner vos travaux actuels en 8K ou plus et concevoir le son en audio spatialisé facilite grandement une extension future. La résolution et le son ne se fabriquent pas après coup."
+},
+{
+"key": "part07.html#879",
+"fr": "Espaces immersifs – l’écran est devenu bâtiment"
+},
+{
+"key": "part07.html#880",
+"fr": "<b>Bâtiment LED sphérique (Sphere, Las Vegas, 2023)</b><span>À l’extérieur, une sphère LED d’environ 110 m de diamètre ; à l’intérieur, un écran incurvé 16K et des sièges haptiques. Le contenu se conçoit comme la « peau du bâtiment », non comme un « écran »</span>"
+},
+{
+"key": "part07.html#881",
+"fr": "<b>Vidéo en dôme (planétarium · salle à dôme)</b><span>Un hémisphère que l’on regarde allongé. Sans horizon, la cinétose survient vite : déplacez la caméra lentement et gardez les sujets à moins de 60° du zénith</span>"
+},
+{
+"key": "part07.html#882",
+"fr": "<b>Musée expérientiel sur plusieurs étages</b><span>Sur 4 étages, murs · sols · plafonds sont tous des écrans. Des capteurs lisent la position des visiteurs et la vidéo réagit – « l’œuvre n’est complète que lorsque les visiteurs y entrent »</span>"
+},
+{
+"key": "part07.html#883",
+"fr": "<b>Espace média 360° enveloppant</b><span>Quatre murs et le sol forment une seule toile (comme l’ARTE MUSEUM en Corée). Même le son et les odeurs sont conçus. Chaque scène tourne en boucle 3–5 minutes ; des milliers de personnes y passent chaque jour</span>"
+},
+{
+"key": "part07.html#884",
+"fr": "<b>Expérience VR au musée</b><span>Parcourir des palais · des ruines restitués. QR code près d’un objet → AR sur téléphone, zone d’expérience → casque. Elle offre la sensation « d’y être », pas un commentaire</span>"
+},
+{
+"key": "part07.html#885",
+"fr": "<b>Plateau XR</b><span>Tournage devant un mur LED – le fond se décale avec le mouvement de la caméra. En passe de devenir le plateau standard pour la télévision · la publicité · les clips musicaux</span>"
+},
+{
+"key": "part07.html#886",
+"fr": "<b>Média de plafond – une baleine qui passe au-dessus des têtes</b><span>LED de plafond dans les aéroports · les halls publics. Les spectateurs, debout, lèvent les yeux : utilisez une boucle d’une seule scène lisible en 10 secondes, avec le son diffusé par des enceintes au sol</span>"
+},
+{
+"key": "part07.html#887",
+"fr": "<b>Mapping de façade en parc à thème</b><span>Tout un bâtiment en forme de château comme écran – un spectacle de 10 minutes calé sur les feux d’artifice · la musique · l’éclairage. Même heure chaque jour, renouvelé à chaque saison</span>"
+},
+{
+"key": "part07.html#888",
+"fr": "<b>Spectacle holographique (image flottante)</b><span>Une image réfléchie sur un film transparent à 45° paraît en relief sur scène – chanteurs disparus ressuscités · idoles virtuelles. Une lumière vive la fait disparaître : tout repose donc sur la maîtrise de l’obscurité</span>"
+},
+{
+"key": "part07.html#889",
+"fr": "<b>Console de robot chirurgical et simulateur VR</b><span>Avec les robots de type da Vinci, le chirurgien opère en regardant dans le viseur stéréo de la console. Les internes s’entraînent sur la même vue recréée en VR – la technique vidéo devenue formation médicale</span>"
+},
+{
+"key": "part07.html#890",
+"fr": "Où la VR est utilisée – quatre domaines hors du jeu, et le jeu"
+},
+{
+"key": "part07.html#891",
+"fr": "<b>Médecine</b><span>Simulation chirurgicale · enseignement de l’anatomie · soulagement de la douleur (VR pendant le changement des pansements de brûlures) · thérapie d’exposition contre les phobies</span>"
+},
+{
+"key": "part07.html#892",
+"fr": "<b>Formation militaire · sécurité</b><span>Tir · tactique · évacuation incendie · engins lourds – répéter les exercices pour des situations dangereuses et coûteuses</span>"
+},
+{
+"key": "part07.html#893",
+"fr": "<b>Soins aux aînés · rééducation</b><span>Thérapie par réminiscence (paysages 360° du pays natal) · jeux de rééducation de l’équilibre · voyages pour les seniors qui ne peuvent pas sortir</span>"
+},
+{
+"key": "part07.html#894",
+"fr": "<b>Handicap · accessibilité</b><span>Randonnée · voyage · concerts pour les personnes à mobilité réduite, entraînement aux habiletés sociales pour les troubles du spectre de l’autisme, simulation de déficience visuelle à but pédagogique</span>"
+},
+{
+"key": "part07.html#895",
+"fr": "<b>Jeux de rythme (type Beat Saber)</b><span>Trancher des blocs en musique – l’« application phare » de la VR. Un exercice pour tout le corps et une leçon de rythme visuel</span>"
+},
+{
+"key": "part07.html#896",
+"fr": "<b>Espace · vol (type Elite Dangerous · No Man’s Sky VR)</b><span>Échelle et immobilité – un cas d’école pour immerger le joueur dans l’immensité sans cinétose</span>"
+},
+{
+"key": "part07.html#897",
+"fr": "<b>Sport (type golf VR)</b><span>Trajectoire du swing et parcours tels quels – l’immersion est la plus profonde quand le geste réel se transpose à l’échelle 1:1</span>"
+},
+{
+"key": "part07.html#898",
+"fr": "<b>Impression 3D – accessoires · décors · personnages</b><span>Les données du modèle deviennent matière. Accessoires de publicité · décors miniatures · jusqu’aux visages de rechange des personnages en stop-motion. Un aller-retour entre numérique et physique</span>"
+},
+{
+"key": "part07.html#899",
+"fr": "<b>Plateformes éducatives</b> – des espaces d’apprentissage VR comme ENGAGE ouvrent amphithéâtres · laboratoires · sites historiques à de nombreux utilisateurs à la fois. Pour les étudiants en vidéo, ils répondent à la question « où publier un contenu 360° ? »."
+},
+{
+"key": "part07.html#900",
+"fr": "<b>Fig. 85-4</b> Espaces immersifs et usages de la VR – l’écran devient bâtiment, et la VR dépasse le jeu pour gagner la médecine · la formation · les soins aux aînés · l’accessibilité. Les photos sont des images générées qui évoquent l’ambiance, non des lieux précis."
+},
+{
+"key": "part07.html#901",
+"fr": "<small>Exercice</small>6.13"
+},
+{
+"key": "part07.html#902",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#903",
+"fr": "Choisissez une nouvelle technologie d’écran et rédigez une idée de vidéo possible uniquement sur ce média."
+},
+{
+"key": "part07.html#904",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#905",
+"fr": "Évitez les idées qui se contentent de transposer une vidéo existante."
+},
+{
+"key": "part07.html#906",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#907",
+"fr": "Exploitation des particularités du média"
+},
+{
+"key": "part07.html#908",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#909",
+"fr": "Transforme les limites techniques en contraintes créatives."
+},
+{
+"key": "part07.html#910",
+"fr": "<b>PARTIE 07</b>Spécifications des médias et contenu immersif"
+},
+{
+"key": "part07.html#911",
+"fr": "Dimensions de la forme"
+},
+{
+"key": "part07.html#912",
+"fr": "Point · ligne · plan · volume · temps. Le contenu immersif dépasse l’écran et traite l’espace entier comme matériau de la forme. Du point au temps, le mouvement ajoute une dimension à la fois."
+},
+{
+"key": "part07.html#913",
+"fr": "Le mouvement ajoute une dimension à la fois"
+},
+{
+"key": "part07.html#914",
+"fr": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Point</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">0D</tspan>"
+},
+{
+"key": "part07.html#915",
+"fr": "Position seule"
+},
+{
+"key": "part07.html#916",
+"fr": "Kandinsky 1926"
+},
+{
+"key": "part07.html#917",
+"fr": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Ligne</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">1D</tspan>"
+},
+{
+"key": "part07.html#918",
+"fr": "Trajet d’un point en mouvement"
+},
+{
+"key": "part07.html#919",
+"fr": "Paul Klee 1925"
+},
+{
+"key": "part07.html#920",
+"fr": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Plan</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">2D</tspan>"
+},
+{
+"key": "part07.html#921",
+"fr": "Trajet d’une ligne en mouvement"
+},
+{
+"key": "part07.html#922",
+"fr": "Malevitch 1915"
+},
+{
+"key": "part07.html#923",
+"fr": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Volume</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">3D</tspan>"
+},
+{
+"key": "part07.html#924",
+"fr": "Trajet d’un plan en mouvement"
+},
+{
+"key": "part07.html#925",
+"fr": "Picasso · Braque 1907"
+},
+{
+"key": "part07.html#926",
+"fr": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Temps</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">4D</tspan>"
+},
+{
+"key": "part07.html#927",
+"fr": "Volume en mouvement dans le temps"
+},
+{
+"key": "part07.html#928",
+"fr": "Frères Lumière 1895"
+},
+{
+"key": "part07.html#929",
+"fr": "Le contenu immersif ajoute le « déplacement dans le lieu » – d’un écran qu’on regarde à un espace où le corps entre"
+},
+{
+"key": "part07.html#930",
+"fr": "<b>Fig. 75</b> Dimensions de la forme – le mouvement ajoute une dimension à la fois. Un point en mouvement trace une ligne, une ligne un plan, un plan un volume, et un volume en mouvement dans le temps devient vidéo."
+},
+{
+"key": "part07.html#931",
+"fr": "<b>Photos de référence 6.14A · 6.14B</b>Images générées – références de mise en scène"
+},
+{
+"key": "part07.html#932",
+"fr": "<b>a</b>Point – une lumière unique dans le noir"
+},
+{
+"key": "part07.html#933",
+"fr": "<b>b</b>Ligne – une traînée dessinée à la lumière"
+},
+{
+"key": "part07.html#934",
+"fr": "<b>c</b>Plan – un écran qui capte la lumière"
+},
+{
+"key": "part07.html#935",
+"fr": "<b>d</b>Volume – une forme faite de lumière"
+},
+{
+"key": "part07.html#936",
+"fr": "<b>e</b>Temps – la trace du mouvement"
+},
+{
+"key": "part07.html#937",
+"fr": "<b>f</b>Déplacement dans l’espace – les scènes changent au fil de la marche"
+},
+{
+"key": "part07.html#938",
+"fr": "<b>Compter les dimensions</b>"
+},
+{
+"key": "part07.html#939",
+"fr": "Le point part de 0D : le volume est donc en 3D et, avec le temps, on arrive à la 4D. Retenez que point, ligne, plan, volume et temps ajoutent chacun un mouvement, dans cet ordre, et vous ne vous tromperez pas."
+},
+{
+"key": "part07.html#940",
+"fr": "En géométrie, un point a une position mais pas de taille : il est 0D ; une ligne, trajet d’un point en mouvement, est 1D ; un plan, trajet d’une ligne en mouvement, est 2D ; et un volume, trajet d’un plan en mouvement, est 3D. Ajoutez le temps et l’on passe à la 4D ; quand le spectateur marche à l’intérieur, s’y ajoute le déplacement dans le lieu."
+},
+{
+"key": "part07.html#941",
+"fr": "Comment le contenu immersif utilise chaque dimension"
+},
+{
+"key": "part07.html#942",
+"fr": "<b>0</b><i>Point</i>Une lumière unique dans le noir, une seule particule. Le moyen le plus puissant d’attirer le regard en un point"
+},
+{
+"key": "part07.html#943",
+"fr": "<b>1</b><i>Ligne</i>Traînées lumineuses, lasers, lignes LED. Elles indiquent direction et vitesse et guident les déplacements"
+},
+{
+"key": "part07.html#944",
+"fr": "<b>2</b><i>Plan</i>Écrans, murs, sols, tulles translucides. Le mapping vidéo transforme les plans d’un bâtiment en écrans"
+},
+{
+"key": "part07.html#945",
+"fr": "<b>3</b><i>Volume</i>Éclairage volumétrique, effets d’hologramme, illusion anamorphique. Faire apparaître le volume sur un plan ou le créer dans l’air"
+},
+{
+"key": "part07.html#946",
+"fr": "<b>4</b><i>Temps</i>Changement et mouvement. Un même espace devient une scène tout autre au fil du temps"
+},
+{
+"key": "part07.html#947",
+"fr": "<b>+</b><i>Déplacement dans le lieu</i>La scène change à mesure que les visiteurs marchent. Le cinéma change de lieu par la coupe ; dans l’espace immersif, c’est le corps du visiteur qui change de lieu"
+},
+{
+"key": "part07.html#948",
+"fr": "Plus la vidéo passe du plan à l’espace, plus le concepteur conçoit la position du spectateur plutôt que celle de la caméra.<small>6.14 La vidéo est un espace-temps en mouvement</small>"
+},
+{
+"key": "part07.html#949",
+"fr": "La vidéo enregistre l’espace 3D sur un écran 2D et y ajoute le temps pour le mettre en mouvement. Le montage coupe et assemble cet espace-temps (1.20) ; le contenu immersif y fait entrer le corps du spectateur."
+},
+{
+"key": "part07.html#950",
+"fr": "Artistes et théories à lire en parallèle"
+},
+{
+"key": "part07.html#951",
+"fr": "Vassily Kandinsky, Point et ligne sur plan (1926) – pose la tension entre point · ligne · plan comme grammaire élémentaire de la forme."
+},
+{
+"key": "part07.html#952",
+"fr": "Paul Klee, Esquisses pédagogiques (1925) – décrit la ligne comme un point qui se promène : l’idée que le mouvement crée la dimension."
+},
+{
+"key": "part07.html#953",
+"fr": "Kasimir Malevitch, Piet Mondrian – Carré noir (1915) et divisions horizontales · verticales du plan : une peinture faite seulement de plan et de couleur."
+},
+{
+"key": "part07.html#954",
+"fr": "Le cubisme de Picasso et Braque – superposer plusieurs points de vue dans un même tableau pour amener le volume sur le plan."
+},
+{
+"key": "part07.html#955",
+"fr": "Marcel Duchamp, Étienne-Jules Marey – Nu descendant un escalier n° 2 (1912) et la chronophotographie réunissent temps et mouvement dans une seule image."
+},
+{
+"key": "part07.html#956",
+"fr": "Nam June Paik – un art vidéo qui prenait les téléviseurs pour matériau sculptural et faisait de l’écran un objet dans l’espace."
+},
+{
+"key": "part07.html#957",
+"fr": "Yayoi Kusama, James Turrell, teamLab – des œuvres de points, de lumière et d’espace dans lesquelles le spectateur entre. Les premières références pour concevoir une exposition immersive."
+},
+{
+"key": "part07.html#958",
+"fr": "Une phrase à utiliser sur le terrain"
+},
+{
+"key": "part07.html#959",
+"fr": "Dans une note d’intention de contenu immersif, écrivez d’abord où se tiennent les visiteurs, où ils marchent et devant quoi ils passent, avant ce que vous montrerez."
+},
+{
+"key": "part07.html#960",
+"fr": "<small>Exercice</small>6.14"
+},
+{
+"key": "part07.html#961",
+"fr": "Tâche"
+},
+{
+"key": "part07.html#962",
+"fr": "Exprimez chacune des cinq dimensions, point · ligne · plan · volume · temps, dans une vidéo de 5 secondes."
+},
+{
+"key": "part07.html#963",
+"fr": "Conseil"
+},
+{
+"key": "part07.html#964",
+"fr": "Déclinez un même sujet (p. ex. une balle) dans les cinq dimensions et les différences deviennent claires."
+},
+{
+"key": "part07.html#965",
+"fr": "Évaluation"
+},
+{
+"key": "part07.html#966",
+"fr": "Compréhension exacte de la dimension, expression cohérente"
+},
+{
+"key": "part07.html#967",
+"fr": "Corrigé type"
+},
+{
+"key": "part07.html#968",
+"fr": "Réunit les cinq vidéos en un seul fil où les dimensions s’accumulent."
+},
+{
+"key": "part07.html#969",
+"fr": "Bilan de la PARTIE 07"
+},
+{
+"key": "part07.html#970",
+"fr": "Exercices et révision"
+},
+{
+"key": "part07.html#971",
+"fr": "<b>Trois formats d’image</b>Réalisez des versions 16:9, 9:16 et 1:1 du même matériau, en plaçant les sous-titres différemment dans chacune."
+},
+{
+"key": "part07.html#972",
+"fr": "<b>Mesurer les zones d’interface</b>Mesurez, sur de vraies captures d’écran, les zones masquées par l’interface des plateformes de vidéo courte que vous utilisez, et rédigez un guide."
+},
+{
+"key": "part07.html#973",
+"fr": "<b>Plan de parcours et tableau des temps de séjour</b>Choisissez sur le campus ou à proximité un espace pouvant accueillir une exposition, puis dessinez un schéma de parcours sur plan et un tableau des temps de séjour."
+},
+{
+"key": "part07.html#974",
+"fr": "<b>Trouver un angle anamorphique</b>Trouvez un angle de bâtiment où l’illusion pourrait fonctionner, puis esquissez le point de vue de référence et une idée de contenu."
+},
+{
+"key": "part07.html#975",
+"fr": "L’essentiel en une page"
+},
+{
+"key": "part07.html#976",
+"fr": "6.1 Spécifications de production par média"
+},
+{
+"key": "part07.html#977",
+"fr": "Un projet lancé sans plateforme définie est toujours à refaire. Revérifiez les guides officiels avant de commencer."
+},
+{
+"key": "part07.html#978",
+"fr": "6.2 Horizontal et vertical"
+},
+{
+"key": "part07.html#979",
+"fr": "Le vertical n’est pas un autre média, mais une autre langue. Les plans d’ensemble n’y survivent pas."
+},
+{
+"key": "part07.html#980",
+"fr": "6.3 Zones de sécurité"
+},
+{
+"key": "part07.html#981",
+"fr": "Vérifiez par une vraie mise en ligne, non avec les repères du logiciel de montage."
+},
+{
+"key": "part07.html#982",
+"fr": "6.5 360° et VR"
+},
+{
+"key": "part07.html#983",
+"fr": "Si le spectateur n’a jamais regardé derrière lui, le projet a échoué. Prévenir la cinétose passe avant la qualité d’image."
+},
+{
+"key": "part07.html#984",
+"fr": "6.7 Salles d’exposition XR"
+},
+{
+"key": "part07.html#985",
+"fr": "Divisez 3600 secondes par la durée de l’expérience, multipliez par la capacité simultanée et retenez 70 % du résultat comme chiffre réaliste."
+},
+{
+"key": "part07.html#986",
+"fr": "6.9 Publicité extérieure"
+},
+{
+"key": "part07.html#987",
+"fr": "La publicité extérieure est muette par défaut. Un projet qui repose sur le son a échoué dès le choix du média."
+},
+{
+"key": "part07.html#988",
+"fr": "6.10 Affichage LED"
+},
+{
+"key": "part07.html#989",
+"fr": "Des termes comme « pas de pixel » et « nits » rendent les devis plus précis. Sur une LED transparente, le noir est transparent."
+},
+{
+"key": "part07.html#990",
+"fr": "6.11 Environnements de visionnage"
+},
+{
+"key": "part07.html#991",
+"fr": "Pour une déclinaison sur plusieurs médias, créez d’abord pour le plus contraint. Élargir est facile ; réduire est difficile."
+},
+{
+"key": "part07.html#992",
+"fr": "6.14 Dimensions de la forme"
+},
+{
+"key": "part07.html#993",
+"fr": "Dans une note d’intention, écrivez où se tiennent les visiteurs et où ils marchent avant ce que vous montrerez."
+},
+{
+"key": "part07.html#994",
+"fr": "Pistes de réflexion"
+},
+{
+"key": "part07.html#995",
+"fr": "Quelle est la taille de l’écran où ma vidéo sera diffusée, et à quelle distance se trouve le public ?"
+},
+{
+"key": "part07.html#996",
+"fr": "Notez en quoi ces conditions modifient vos valeurs de plan."
+},
+{
+"key": "part07.html#997",
+"fr": "Que reste-t-il quand je regarde ma vidéo sans le son ?"
+},
+{
+"key": "part07.html#998",
+"fr": "Voyez pourquoi les sous-titres et les éléments graphiques deviennent les principaux vecteurs du message dans les médias muets par défaut."
+},
+{
+"key": "part07.html#999",
+"fr": "Auto-évaluation"
+},
+{
+"key": "part07.html#1000",
+"fr": "Vérifiez que vous savez expliquer pourquoi la vidéo verticale évite les plans d’ensemble · le lien entre pas de pixel et distance de vision minimale · trois moyens de réduire la cinétose en vidéo 360° · le calcul du débit horaire · la variation des valeurs de plan selon l’environnement de visionnage."
+}
+]

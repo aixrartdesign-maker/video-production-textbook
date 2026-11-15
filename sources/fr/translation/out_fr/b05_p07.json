@@ -1,0 +1,378 @@
+[
+{
+"key": "part04.html#337",
+"fr": "<b>b</b>Humidité et brume"
+},
+{
+"key": "part04.html#338",
+"fr": "<span class=\"ph-id\">P04-PRODUCT-TURN</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plateau tournant et série</b>Un produit sur un plateau tournant motorisé, cinq exemplaires identiques alignés derrière</span>"
+},
+{
+"key": "part04.html#339",
+"fr": "<b>c</b>Plateau tournant et série"
+},
+{
+"key": "part04.html#340",
+"fr": "<span class=\"ph-id\">P04-PRODUCT-SPLASH</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Éclaboussure – haute vitesse</b>Une couronne d’eau autour d’une bouteille en verre, gouttes figées, contre-jour à travers le liquide</span>"
+},
+{
+"key": "part04.html#341",
+"fr": "<b>d</b>Éclaboussure – haute vitesse"
+},
+{
+"key": "part04.html#342",
+"fr": "<span class=\"ph-id\">P04-PRODUCT-LIGHTPASS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Faire passer la lumière – le balayage lumineux</b>Un tube LED à main passe devant un flacon de parfum, traînées de lumière en pose longue</span>"
+},
+{
+"key": "part04.html#343",
+"fr": "<b>Note</b>Balayage lumineux – une lumière qui bouge donne du temps à un produit immobile"
+},
+{
+"key": "part04.html#344",
+"fr": "<small>Exercice</small>4.5"
+},
+{
+"key": "part04.html#345",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#346",
+"fr": "Choisissez un produit en verre, un en métal et un en tissu, et éclairez chacun selon sa matière."
+},
+{
+"key": "part04.html#347",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#348",
+"fr": "Le verre par l’arrière, le métal avec une grande surface réfléchissante, le tissu de côté pour faire ressortir la trame."
+},
+{
+"key": "part04.html#349",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#350",
+"fr": "Rendu de la matière, aucun reflet parasite"
+},
+{
+"key": "part04.html#351",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#352",
+"fr": "Remet un plan raté et un plan corrigé réalisés avec les mêmes projecteurs."
+},
+{
+"key": "part04.html#353",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#354",
+"fr": "L’éclairage du fond vert en pratique"
+},
+{
+"key": "part04.html#355",
+"fr": "L’incrustation se joue sur la distance. Tenez le sujet loin du fond, et séparez totalement l’éclairage du fond de celui du sujet."
+},
+{
+"key": "part04.html#356",
+"fr": "<b>Fig. 42</b> Disposition d’un studio fond vert et les 3 étapes du compositing"
+},
+{
+"key": "part04.html#357",
+"fr": "<b>Lire la Fig. 42</b><span>① Tournage : vert éclairé uniformément ; sujet 2 m devant, éclairé à part</span><span>② Cache : le logiciel rend le vert transparent – seul le blanc demeure</span><span>③ Compositing : placer le sujet sur le nouveau fond, raccorder couleur · ombre · bords</span><b>Trois causes d’échec</b><span>Vert inégal (luminosité irrégulière) → trous dans le cache</span><span>Sujet près du fond → ombre + reflet vert (spill)</span><span>Pas de contre-jour sur les cheveux → bords brouillons</span>"
+},
+{
+"key": "part04.html#358",
+"fr": "<b>01</b><i>Écarter le fond</i>Au moins 1,5–2 m entre le sujet et le fond vert. La distance supprime ombres et rebonds"
+},
+{
+"key": "part04.html#359",
+"fr": "<b>02</b><i>Éclairer le fond uniformément</i>2 projecteurs dédiés, croisés à 45° à gauche et à droite. Écart inférieur à 1 IL"
+},
+{
+"key": "part04.html#360",
+"fr": "<b>03</b><i>Éclairer le sujet à part</i>À séparer totalement de la lumière du fond ; un contre-jour dessine le bord des cheveux"
+},
+{
+"key": "part04.html#361",
+"fr": "<b>04</b><i>Vérifier l’exposition</i>Le vert env. 1 IL sous le visage, ou à égalité. Surexposé, il fait baver les bords"
+},
+{
+"key": "part04.html#362",
+"fr": "<b>05</b><i>Contenir le spill</i>Distance, contre-jour et appoint teinté magenta réduisent la contamination verte"
+},
+{
+"key": "part04.html#363",
+"fr": "<b>06</b><i>Tester l’incrustation sur place</i>Essayez tout de suite sur un ordinateur portable. Une fois sorti du studio, plus rien n’est rattrapable"
+},
+{
+"key": "part04.html#364",
+"fr": "<b>Photos de référence 4.6A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part04.html#365",
+"fr": "<b>a</b>Un fond vert uniforme"
+},
+{
+"key": "part04.html#366",
+"fr": "<b>b</b>Spill – du vert sur les bords"
+},
+{
+"key": "part04.html#367",
+"fr": "<b>c</b>Compositing terminé"
+},
+{
+"key": "part04.html#368",
+"fr": "<b>d</b>Plateau VFX sur fond bleu – combinaisons à marqueurs · accessoires bleus · gros projecteurs"
+},
+{
+"key": "part04.html#369",
+"fr": "Éclairer le fond et le sujet séparément"
+},
+{
+"key": "part04.html#370",
+"fr": "Fond vert – écart ±1/3 IL"
+},
+{
+"key": "part04.html#371",
+"fr": "4 projecteurs de fond – croisés à 45° G/D, même distance"
+},
+{
+"key": "part04.html#372",
+"fr": "2 m ou plus"
+},
+{
+"key": "part04.html#373",
+"fr": "Sujet"
+},
+{
+"key": "part04.html#374",
+"fr": "Caméra"
+},
+{
+"key": "part04.html#375",
+"fr": "Key (douce, 45°)"
+},
+{
+"key": "part04.html#376",
+"fr": "Fill (réflecteur)"
+},
+{
+"key": "part04.html#377",
+"fr": "Contre-jour · cheveux"
+},
+{
+"key": "part04.html#378",
+"fr": "Gélatine magenta – annule le spill vert"
+},
+{
+"key": "part04.html#379",
+"fr": "Vert éclairé seul · sujet éclairé seul"
+},
+{
+"key": "part04.html#380",
+"fr": "<b>Tenir les deux mondes séparés</b><span>Les 4 projecteurs de fond ne touchent que le vert – jamais le sujet</span><span>Le trois points n’éclaire que le sujet – aucune ombre sur le vert</span><span>2 m entre les deux – la distance supprime ombre et rebond vert</span><b>Trois vérifications sur le plateau</b><span>Exposition du vert = celle du visage, ou 1 IL en dessous</span><span>Contre-jour sur le bord des cheveux</span><span>Incrustation testée sur place, sur un ordinateur portable</span>"
+},
+{
+"key": "part04.html#381",
+"fr": "<b>Fig. 42-1</b> Plan d’éclairage pour l’incrustation – 4 projecteurs de fond totalement séparés du trois points du sujet. Un écart de 2 m est le remède le plus sûr."
+},
+{
+"key": "part04.html#382",
+"fr": "<b>Terme</b>"
+},
+{
+"key": "part04.html#383",
+"fr": "Spill – lumière verte qui teinte les vêtements et la peau du sujet."
+},
+{
+"key": "part04.html#384",
+"fr": "Dépannage par symptôme"
+},
+{
+"key": "part04.html#385",
+"fr": "Symptôme"
+},
+{
+"key": "part04.html#386",
+"fr": "Cause"
+},
+{
+"key": "part04.html#387",
+"fr": "Solution au tournage"
+},
+{
+"key": "part04.html#388",
+"fr": "Solution en post"
+},
+{
+"key": "part04.html#389",
+"fr": "Frange verte sur les bords"
+},
+{
+"key": "part04.html#390",
+"fr": "Spill ou fond trop lumineux"
+},
+{
+"key": "part04.html#391",
+"fr": "Plus de distance, moins de lumière sur le fond"
+},
+{
+"key": "part04.html#392",
+"fr": "Suppression du spill, érosion du cache"
+},
+{
+"key": "part04.html#393",
+"fr": "Cheveux brouillés"
+},
+{
+"key": "part04.html#394",
+"fr": "Pas de contre-jour, 4:2:0"
+},
+{
+"key": "part04.html#395",
+"fr": "Ajouter un contre-jour, tourner en 4:2:2"
+},
+{
+"key": "part04.html#396",
+"fr": "Ajouter un cache de référence"
+},
+{
+"key": "part04.html#397",
+"fr": "Fond inégal, ombres"
+},
+{
+"key": "part04.html#398",
+"fr": "Lumière irrégulière, sujet trop près"
+},
+{
+"key": "part04.html#399",
+"fr": "Éclairage croisé, plus de distance"
+},
+{
+"key": "part04.html#400",
+"fr": "Cache grossier, incrustation par zones"
+},
+{
+"key": "part04.html#401",
+"fr": "Le sujet semble collé"
+},
+{
+"key": "part04.html#402",
+"fr": "Directions de lumière discordantes"
+},
+{
+"key": "part04.html#403",
+"fr": "Choisir le fond d’abord, puis éclairer"
+},
+{
+"key": "part04.html#404",
+"fr": "Raccord des couleurs, grain unifié"
+},
+{
+"key": "part04.html#405",
+"fr": "Bords qui tremblent en mouvement"
+},
+{
+"key": "part04.html#406",
+"fr": "Filé dû à une obturation lente"
+},
+{
+"key": "part04.html#407",
+"fr": "S’en tenir à l’obturation à 180°"
+},
+{
+"key": "part04.html#408",
+"fr": "Régénérer le flou de mouvement"
+},
+{
+"key": "part04.html#409",
+"fr": "Les vêtements verts disparaissent"
+},
+{
+"key": "part04.html#410",
+"fr": "Conflit de couleurs"
+},
+{
+"key": "part04.html#411",
+"fr": "Vérifier les costumes à l’avance"
+},
+{
+"key": "part04.html#412",
+"fr": "Irrécupérable ; à retourner"
+},
+{
+"key": "part04.html#413",
+"fr": "<b>Photos de référence 4.6B</b>Images générées – l’éclairage du fond vert sur le plateau"
+},
+{
+"key": "part04.html#414",
+"fr": "<span class=\"ph-id\">P04-CHROMA</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Installation fond vert – éclairer le fond et le sujet séparément</b>4 projecteurs baignent le vert uniformément ; lumière principale et contre-jour distincts sur le présentateur, à sa marque</span>"
+},
+{
+"key": "part04.html#415",
+"fr": "<b>a</b>Installation fond vert – éclairer le fond et le sujet séparément"
+},
+{
+"key": "part04.html#416",
+"fr": "<span class=\"ph-id\">P04-CHROMA-CLOSE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Mesurer l’uniformité du fond</b>Un posemètre tenu contre le vert, relevé zone par zone</span>"
+},
+{
+"key": "part04.html#417",
+"fr": "<b>b</b>Mesurer l’uniformité – écart ±1/3 IL"
+},
+{
+"key": "part04.html#418",
+"fr": "<b>G-13</b> Un tournage sur fond vert – séparer l’éclairage du fond et celui du sujet"
+},
+{
+"key": "part04.html#419",
+"fr": "<small>Exercice</small>4.6"
+},
+{
+"key": "part04.html#420",
+"fr": "Tâche"
+},
+{
+"key": "part04.html#421",
+"fr": "Tournez une personne devant un fond d’incrustation et terminez le compositing."
+},
+{
+"key": "part04.html#422",
+"fr": "Conseil"
+},
+{
+"key": "part04.html#423",
+"fr": "Gardez 2 m ou plus entre le sujet et le fond, et éclairez chacun séparément."
+},
+{
+"key": "part04.html#424",
+"fr": "Évaluation"
+},
+{
+"key": "part04.html#425",
+"fr": "Fond uniforme, spill maîtrisé, lumière accordée au nouveau fond"
+},
+{
+"key": "part04.html#426",
+"fr": "Corrigé type"
+},
+{
+"key": "part04.html#427",
+"fr": "Fixe à l’avance la position de la lumière principale du sujet selon la direction de lumière du fond à incruster."
+},
+{
+"key": "part04.html#428",
+"fr": "<b>PARTIE 04</b>Éclairage et son"
+},
+{
+"key": "part04.html#429",
+"fr": "Éclairer à petit budget : les substituts"
+},
+{
+"key": "part04.html#430",
+"fr": "On peut éclairer sans matériel d’éclairage. Une fenêtre, du carton plume, du papier calque et du tissu noir font le travail d’un éclairage trois points."
+}
+]

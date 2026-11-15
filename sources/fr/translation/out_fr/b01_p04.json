@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#109",
+"fr": "Se déplacer en parlant"
+},
+{
+"key": "part02.html#110",
+"fr": "MS"
+},
+{
+"key": "part02.html#111",
+"fr": "Plan taille"
+},
+{
+"key": "part02.html#112",
+"fr": "Au-dessus de la taille"
+},
+{
+"key": "part02.html#113",
+"fr": "Neutre, quotidien"
+},
+{
+"key": "part02.html#114",
+"fr": "Base des interviews, dialogues"
+},
+{
+"key": "part02.html#115",
+"fr": "BS"
+},
+{
+"key": "part02.html#116",
+"fr": "Plan poitrine"
+},
+{
+"key": "part02.html#117",
+"fr": "Au-dessus de la poitrine"
+},
+{
+"key": "part02.html#118",
+"fr": "Confiance, proximité"
+},
+{
+"key": "part02.html#119",
+"fr": "JT, pubs témoignages"
+},
+{
+"key": "part02.html#120",
+"fr": "CU"
+},
+{
+"key": "part02.html#121",
+"fr": "Gros plan"
+},
+{
+"key": "part02.html#122",
+"fr": "Tout le visage"
+},
+{
+"key": "part02.html#123",
+"fr": "Émotion, concentration"
+},
+{
+"key": "part02.html#124",
+"fr": "Plans de réaction, expressions clés"
+},
+{
+"key": "part02.html#125",
+"fr": "ECU"
+},
+{
+"key": "part02.html#126",
+"fr": "Très gros plan"
+},
+{
+"key": "part02.html#127",
+"fr": "Yeux, bouche, détail d’un produit"
+},
+{
+"key": "part02.html#128",
+"fr": "Tension, matière, insistance"
+},
+{
+"key": "part02.html#129",
+"fr": "Texture du produit, moments forts"
+},
+{
+"key": "part02.html#130",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part02.html#131",
+"fr": "La valeur dépend de l’endroit où le cadre coupe, non de la taille de la personne à l’image. Même au téléobjectif, un cadre coupé à la poitrine est un plan poitrine. Focale et valeur de plan sont deux choses distinctes."
+},
+{
+"key": "part02.html#132",
+"fr": "Règles pour changer de valeur"
+},
+{
+"key": "part02.html#133",
+"fr": "<b>01</b><span>Entre deux plans consécutifs, changez d’au moins deux valeurs. Passer directement du MS au NS donne seulement l’impression d’une saute.</span>"
+},
+{
+"key": "part02.html#134",
+"fr": "<b>02</b><span>Montrer l’espace en large, puis se rapprocher par étapes : c’est la construction la plus stable. Partez d’un ECU pour élargir, et vous éveillez la curiosité.</span>"
+},
+{
+"key": "part02.html#135",
+"fr": "<b>03</b><span>Le gros plan n’a de force que s’il est rationné. Dans une pub de 15 secondes, 2 plans en CU ou plus serré, c’est la bonne mesure.</span>"
+},
+{
+"key": "part02.html#136",
+"fr": "<b>04</b><span>Dans une pub produit, l’ECU sert à prouver la texture. Si l’on ne voit ni surface, ni grain, ni gouttelettes, ni brillance, l’ECU n’a pas de raison d’être.</span>"
+},
+{
+"key": "part02.html#137",
+"fr": "<b>Photos de référence 2.2D</b>Images générées – les 8 mêmes plans, d’autres personnes · d’autres lieux. Retenez-les par la hauteur du personnage dans le cadre"
+},
+{
+"key": "part02.html#138",
+"fr": "<span class=\"ph-id\">P02-SIZE2-ELS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plan de grand ensemble ELS – l’espace est la vedette, la personne un point</b></span>"
+},
+{
+"key": "part02.html#139",
+"fr": "<b>Plan de grand ensemble ELS</b>L’espace est la vedette, la personne un point"
+},
+{
+"key": "part02.html#140",
+"fr": "<span class=\"ph-id\">P02-SIZE2-LS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plan d’ensemble LS – silhouette entière et environnement</b></span>"
+},
+{
+"key": "part02.html#141",
+"fr": "<b>Plan d’ensemble LS</b>Silhouette entière et environnement"
+},
+{
+"key": "part02.html#142",
+"fr": "<span class=\"ph-id\">P02-SIZE2-FS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plan en pied FS – de la tête aux pieds</b></span>"
+},
+{
+"key": "part02.html#143",
+"fr": "<b>Plan en pied FS</b>De la tête aux pieds"
+},
+{
+"key": "part02.html#144",
+"fr": "<span class=\"ph-id\">P02-SIZE2-KS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plan américain KS – au-dessus des genoux</b></span>"
+},
+{
+"key": "part02.html#145",
+"fr": "<b>Plan américain KS</b>Au-dessus des genoux"
+},
+{
+"key": "part02.html#146",
+"fr": "<span class=\"ph-id\">P02-SIZE2-MS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plan taille MS – au-dessus de la taille</b></span>"
+},
+{
+"key": "part02.html#147",
+"fr": "<b>Plan taille MS</b>Au-dessus de la taille"
+},
+{
+"key": "part02.html#148",
+"fr": "<span class=\"ph-id\">P02-SIZE2-BS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Plan poitrine BS – au-dessus de la poitrine</b></span>"
+},
+{
+"key": "part02.html#149",
+"fr": "<b>Plan poitrine BS</b>Au-dessus de la poitrine"
+},
+{
+"key": "part02.html#150",
+"fr": "<span class=\"ph-id\">P02-SIZE2-CU</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Gros plan CU – tout le visage</b></span>"
+},
+{
+"key": "part02.html#151",
+"fr": "<b>Gros plan CU</b>Tout le visage"
+},
+{
+"key": "part02.html#152",
+"fr": "<span class=\"ph-id\">P02-SIZE2-ECU</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Très gros plan ECU – les yeux</b></span>"
+},
+{
+"key": "part02.html#153",
+"fr": "<b>Très gros plan ECU</b>Les yeux"
+},
+{
+"key": "part02.html#154",
+"fr": "<small>Exercice</small>1.2"
+},
+{
+"key": "part02.html#155",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#156",
+"fr": "Tournez les 8 valeurs de plan de la même personne au même endroit et réunissez-les sur une planche-contact."
+},
+{
+"key": "part02.html#157",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#158",
+"fr": "Ne touchez pas à la caméra ; changez seulement l’objectif ou la distance : les différences ressortent mieux. Gardez un air au-dessus de la tête constant."
+},
+{
+"key": "part02.html#159",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#160",
+"fr": "Limites de plan (pas de coupe aux articulations), air au-dessus de la tête · air de déplacement constants"
+},
+{
+"key": "part02.html#161",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#162",
+"fr": "Pour chaque plan, écrivez une ligne sur « ce que seule cette valeur transmet »."
+},
+{
+"key": "part02.html#163",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#164",
+"fr": "Plans selon le nombre de personnes"
+},
+{
+"key": "part02.html#165",
+"fr": "Dans un plan à deux, la distance physique entre deux personnes se lit comme une distance psychologique. C’est la première valeur à régler pour montrer une famille, des amoureux ou des collègues."
+},
+{
+"key": "part02.html#166",
+"fr": "<b>Photos de référence 1.3A</b>Images générées – référence de réalisation"
+},
+{
+"key": "part02.html#167",
+"fr": "<b>Plan à un 1S</b>Le jugement et l’émotion d’une personne – pour se concentrer sur la décision d’un individu"
+},
+{
+"key": "part02.html#168",
+"fr": "<b>Plan à deux 2S</b>Distance entre deux = distance dans la relation – un doigt d’écart et des épaules qui se touchent ne racontent pas la même histoire"
+},
+{
+"key": "part02.html#169",
+"fr": "<b>Plan de groupe G.S</b>Un petit groupe de quatre personnes ou plus – équipe, famille, collègues"
+},
+{
+"key": "part02.html#170",
+"fr": "La distance physique se lit comme distance relationnelle"
+},
+{
+"key": "part02.html#171",
+"fr": "<b>1S plan à un</b><span>Une personne – émotion et concentration</span>"
+},
+{
+"key": "part02.html#172",
+"fr": "<b>2S plan à deux</b><span>Deux personnes – relation, la base du dialogue</span>"
+},
+{
+"key": "part02.html#173",
+"fr": "<b>3S plan à trois</b><span>Trois personnes – celle du milieu fait l’axe</span>"
+},
+{
+"key": "part02.html#174",
+"fr": "<b>G.S plan de groupe</b><span>Plusieurs – groupe, ambiance, échelle</span>"
+},
+{
+"key": "part02.html#175",
+"fr": "Chaque personne ajoutée élargit le plan d’un cran – 1S en plan rapproché, 2S · 3S en plan moyen, groupes en plan demi-ensemble. La <b>distance</b> entre les personnes se lit comme distance relationnelle."
+},
+{
+"key": "part02.html#176",
+"fr": "<b>Fig. 12</b> Plans selon le nombre de personnes – même studio, même hauteur de caméra, sur la base d’un plan taille en 16:9."
+},
+{
+"key": "part02.html#177",
+"fr": "Nom"
+},
+{
+"key": "part02.html#178",
+"fr": "Abr."
+},
+{
+"key": "part02.html#179",
+"fr": "Composition"
+},
+{
+"key": "part02.html#180",
+"fr": "Sens"
+},
+{
+"key": "part02.html#181",
+"fr": "Plan à un"
+},
+{
+"key": "part02.html#182",
+"fr": "Une seule personne dans le cadre"
+},
+{
+"key": "part02.html#183",
+"fr": "Concentration sur l’émotion et le jugement d’un seul"
+},
+{
+"key": "part02.html#184",
+"fr": "Plan à deux"
+},
+{
+"key": "part02.html#185",
+"fr": "Deux personnes ensemble"
+},
+{
+"key": "part02.html#186",
+"fr": "Dit en image relation, conflit, intimité"
+},
+{
+"key": "part02.html#187",
+"fr": "Plan à trois"
+},
+{
+"key": "part02.html#188",
+"fr": "Trois personnes ensemble"
+},
+{
+"key": "part02.html#189",
+"fr": "Triangle ; équilibre et exclusion à la fois"
+},
+{
+"key": "part02.html#190",
+"fr": "Plan de groupe"
+},
+{
+"key": "part02.html#191",
+"fr": "Petit groupe de quatre ou plus"
+},
+{
+"key": "part02.html#192",
+"fr": "Équipe, famille, collègues"
+},
+{
+"key": "part02.html#193",
+"fr": "Plan de foule"
+},
+{
+"key": "part02.html#194",
+"fr": "Foule"
+},
+{
+"key": "part02.html#195",
+"fr": "Nombreux, anonymes"
+},
+{
+"key": "part02.html#196",
+"fr": "Échelle, énergie, contexte social"
+},
+{
+"key": "part02.html#197",
+"fr": "<small>Exercice</small>1.3"
+},
+{
+"key": "part02.html#198",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#199",
+"fr": "Tournez la même scène de dialogue en plan à un, à deux, à trois et en plan de groupe, puis comparez la façon dont se lisent les relations."
+},
+{
+"key": "part02.html#200",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#201",
+"fr": "Variez à dessein la distance et la différence de hauteur entre les personnes."
+},
+{
+"key": "part02.html#202",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#203",
+"fr": "La composition révèle-t-elle intimité, conflit ou exclusion ?"
+},
+{
+"key": "part02.html#204",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#205",
+"fr": "Placez une personne seule au bord du cadre pour montrer l’exclusion sans un mot."
+},
+{
+"key": "part02.html#206",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#207",
+"fr": "Plans selon la situation"
+},
+{
+"key": "part02.html#208",
+"fr": "Ce sont les plans définis par leur fonction, ceux qui font marcher une scène. Dans chaque scène, assurez toujours 1 plan maître et au moins 2 inserts."
+},
+{
+"key": "part02.html#209",
+"fr": "<b>Photos de référence 1.4A</b>Images générées – référence de réalisation"
+},
+{
+"key": "part02.html#210",
+"fr": "<b>Amorce épaule OSS</b>Dialogue par-dessus une épaule – le standard du dialogue, qui transmet à la fois relation et point de vue"
+},
+{
+"key": "part02.html#211",
+"fr": "<b>Plan subjectif P.O.V</b>Ce que voit le personnage – ne fonctionne qu’après un plan où il regarde ; immersion à la 1re personne et peur"
+},
+{
+"key": "part02.html#212",
+"fr": "<b>Plan de réaction</b>Le visage de celui qui écoute – l’émotion passe par les réactions plus que par le dialogue"
+},
+{
+"key": "part02.html#213",
+"fr": "<b>Photos de référence 1.4B</b>Images générées – référence de réalisation"
+},
+{
+"key": "part02.html#214",
+"fr": "<b>Plan de situation</b>Pose le lieu et le moment – sans lui, le public, occupé à deviner l’espace, ne peut se concentrer sur l’histoire"
+},
+{
+"key": "part02.html#215",
+"fr": "<b>Insert</b>Le détail décisif – main, montre, SMS, étiquette du produit. Le sauveur du monteur, glissé pour rattraper un raccord maladroit"
+},
+{
+"key": "part02.html#216",
+"fr": "<b>Plan de coupe</b>Compression du temps et ambiance – un plan sur un élément extérieur à l’action principale"
+},
+{
+"key": "part02.html#217",
+"fr": "<b>Photos de référence 1.4C</b>Images générées – trois caméras pour une scène de dialogue"
+},
+{
+"key": "part02.html#218",
+"fr": "<span class=\"ph-id\">P02-OTS</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Amorce épaule – dialogue par-dessus une épaule</b>Un café ; l’épaule proche floue, l’interlocuteur net</span>"
+},
+{
+"key": "part02.html#219",
+"fr": "<b>Amorce épaule</b>Pour montrer une relation tout en nous plaçant d’un côté – le public se sent assis dans la conversation. Vers 50 mm, épaule proche floue"
+},
+{
+"key": "part02.html#220",
+"fr": "<span class=\"ph-id\">P02-POV</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Plan subjectif – ce que voit le personnage</b>Ma main et ma tasse en bas ; l’ami d’en face regarde l’objectif</span>"
+},
+{
+"key": "part02.html#221",
+"fr": "<b>Plan subjectif</b>Pour montrer exactement ce que voit le personnage – le public devient ses yeux et, quand l’autre regarde l’objectif, on croit qu’il nous parle. Angle de champ normal, à hauteur d’yeux"
+},
+{
+"key": "part02.html#222",
+"fr": "<span class=\"ph-id\">P02-REACTION</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Plan de réaction – le visage de celui qui écoute</b>Un sourire un peu surpris, le regard juste à côté de l’objectif</span>"
+},
+{
+"key": "part02.html#223",
+"fr": "<b>Plan de réaction</b>Quand c’est la réaction, non les mots, qui porte l’émotion – le public lit le poids d’une réplique sur le visage de celui qui écoute. Petit téléobjectif vers 85 mm, regard juste à côté de l’objectif"
+},
+{
+"key": "part02.html#224",
+"fr": "<span class=\"ph-id\">P02-ESTAB</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Plan de situation – où, quand</b>Une rue résidentielle au crépuscule, fenêtres éclairées, collines au fond</span>"
+},
+{
+"key": "part02.html#225",
+"fr": "<b>Note</b>Un plan de situation doit répondre à trois questions en un seul plan – où (le type de quartier), quand (la lumière du soir), qui (les gens derrière les fenêtres éclairées). Qu’il en manque une, et le public passe le plan suivant à reconstituer l’espace et perd le fil de l’histoire."
+},
+{
+"key": "part02.html#226",
+"fr": "<small>Establishing</small>Plan de situation"
+},
+{
+"key": "part02.html#227",
+"fr": "Lieu · moment · mise en place d’un coup, en tête de scène"
+},
+{
+"key": "part02.html#228",
+"fr": "<small>Reverse</small>Contrechamp"
+},
+{
+"key": "part02.html#229",
+"fr": "Le plan d’angle opposé à un OSS ou à un plan subjectif"
+},
+{
+"key": "part02.html#230",
+"fr": "Alternez-les pour un dialogue ; règle des 180° obligatoire"
+},
+{
+"key": "part02.html#231",
+"fr": "<small>Master</small>Plan maître"
+},
+{
+"key": "part02.html#232",
+"fr": "Toute la scène, du début à la fin, dans une seule valeur"
+},
+{
+"key": "part02.html#233",
+"fr": "Le filet du montage ; indispensable aux débutants"
+},
+{
+"key": "part02.html#234",
+"fr": "Une habitude indispensable sur le plateau"
+},
+{
+"key": "part02.html#235",
+"fr": "Dans chaque scène, assurez toujours 1 plan maître et au moins 2 inserts. Sacrifiez-les faute de temps, et vous le regretterez au montage."
+},
+{
+"key": "part02.html#236",
+"fr": "<small>Exercice</small>1.4"
+},
+{
+"key": "part02.html#237",
+"fr": "Tâche"
+},
+{
+"key": "part02.html#238",
+"fr": "Tournez une scène de 30 secondes comprenant amorce épaule, plan subjectif, insert et plan de réaction."
+},
+{
+"key": "part02.html#239",
+"fr": "Conseil"
+},
+{
+"key": "part02.html#240",
+"fr": "Tournez les plans de réaction plus longs que les répliques. Ce sont les plus utilisés au montage."
+},
+{
+"key": "part02.html#241",
+"fr": "Évaluation"
+},
+{
+"key": "part02.html#242",
+"fr": "La fonction de chaque plan survit-elle au montage ?"
+},
+{
+"key": "part02.html#243",
+"fr": "Corrigé type"
+},
+{
+"key": "part02.html#244",
+"fr": "Servez-vous du plan subjectif et des inserts pour que le public apprenne ce qu’apprend le personnage, au même instant."
+},
+{
+"key": "part02.html#245",
+"fr": "<b>PARTIE 02</b>Le langage de la vidéo"
+},
+{
+"key": "part02.html#246",
+"fr": "L’angle : le pouvoir de la hauteur de caméra"
+},
+{
+"key": "part02.html#247",
+"fr": "La hauteur de la caméra fixe le statut d’un personnage. Limitez-vous à deux ou trois angles par œuvre, pour que chacun garde son sens."
+},
+{
+"key": "part02.html#248",
+"fr": "<b>Photos de référence 1.5A</b>Images générées – référence de réalisation"
+},
+{
+"key": "part02.html#249",
+"fr": "<b>À hauteur d’yeux</b>Neutre et d’égal à égal – la base des dialogues et des interviews ; le plus sûr, mais plat"
+},
+{
+"key": "part02.html#250",
+"fr": "<b>Plongée</b>Petit et vulnérable – difficulté, côté mignon, synthèse. Peut paraître condescendant"
+},
+{
+"key": "part02.html#251",
+"fr": "<b>Contre-plongée</b>Autorité et menace – produits vedettes, personnages forts. Attention au plafond et aux projecteurs dans le champ"
+},
+{
+"key": "part02.html#252",
+"fr": "<b>Photos de référence 1.5B</b>Images générées – référence de réalisation"
+},
+{
+"key": "part02.html#253",
+"fr": "<b>Plongée totale</b>À la verticale – cuisine, déballage, cartes. Schématique, mais sans expression du visage"
+},
+{
+"key": "part02.html#254",
+"fr": "<b>Cadrage débullé</b>Un malaise penché – tension qui monte, hallucination. L’abus fait immature"
+},
+{
+"key": "part02.html#255",
+"fr": "<b>Contre-plongée totale</b>Vue du sol vers le haut – véhicules, bâtiments, monstres. Écrasant et étrange ; protégez l’objectif"
+},
+{
+"key": "part02.html#256",
+"fr": "<b>Fig. 13</b> 5 angles selon la hauteur de caméra"
+},
+{
+"key": "part02.html#257",
+"fr": "<b>Fig. 14</b> Vue de profil des 5 hauteurs de caméra"
+},
+{
+"key": "part02.html#258",
+"fr": "<b>Fig. 15</b> Positions de caméra autour du sujet"
+}
+]

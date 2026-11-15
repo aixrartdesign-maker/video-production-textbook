@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#300",
+"fr": "Notions clés"
+},
+{
+"key": "part05.html#301",
+"fr": "<small>Unité</small>Composition"
+},
+{
+"key": "part05.html#302",
+"fr": "Le canevas de base. Résolution · cadence d’images · durée se fixent ici"
+},
+{
+"key": "part05.html#303",
+"fr": "À vérifier d’abord – une erreur, et tout est à refaire"
+},
+{
+"key": "part05.html#304",
+"fr": "<small>Élément</small>Calque"
+},
+{
+"key": "part05.html#305",
+"fr": "Les calques du haut recouvrent ceux du bas"
+},
+{
+"key": "part05.html#306",
+"fr": "Métrage, solide, texte, forme, caméra, lumière, objet nul"
+},
+{
+"key": "part05.html#307",
+"fr": "<small>Mouvement</small>Image clé"
+},
+{
+"key": "part05.html#308",
+"fr": "Marque l’instant où une valeur change"
+},
+{
+"key": "part05.html#309",
+"fr": "Bases : position · échelle · rotation · opacité, raccourcis P S R T"
+},
+{
+"key": "part05.html#310",
+"fr": "<small>Groupe</small>Précomposition"
+},
+{
+"key": "part05.html#311",
+"fr": "Réunit plusieurs calques en un seul"
+},
+{
+"key": "part05.html#312",
+"fr": "La clé pour maîtriser l’ordre des effets"
+},
+{
+"key": "part05.html#313",
+"fr": "<small>Découpe</small>Cache par approche"
+},
+{
+"key": "part05.html#314",
+"fr": "Découpe selon la forme (alpha) ou la luminosité (luma) d’un autre calque"
+},
+{
+"key": "part05.html#315",
+"fr": "Sert sans cesse à masquer du texte 3D"
+},
+{
+"key": "part05.html#316",
+"fr": "<small>Hiérarchie</small>Parentage"
+},
+{
+"key": "part05.html#317",
+"fr": "Lie un calque à un autre pour qu’ils bougent ensemble"
+},
+{
+"key": "part05.html#318",
+"fr": "Parenter à un objet nul pour piloter d’un bloc un mouvement complexe"
+},
+{
+"key": "part05.html#319",
+"fr": "<small>Calcul</small>Expressions"
+},
+{
+"key": "part05.html#320",
+"fr": "Valeurs par formule : boucles · wiggle · liens, sans images clés"
+},
+{
+"key": "part05.html#321",
+"fr": "wiggle et loopOut sont les indispensables pour débuter"
+},
+{
+"key": "part05.html#322",
+"fr": "Fonctions par catégorie"
+},
+{
+"key": "part05.html#323",
+"fr": "Catégorie"
+},
+{
+"key": "part05.html#324",
+"fr": "Fonctions principales"
+},
+{
+"key": "part05.html#325",
+"fr": "Usage pratique"
+},
+{
+"key": "part05.html#326",
+"fr": "Texte"
+},
+{
+"key": "part05.html#327",
+"fr": "Animations de texte, Texte source, texte sur tracé"
+},
+{
+"key": "part05.html#328",
+"fr": "Titres, sous-titres animés, apparition de slogans"
+},
+{
+"key": "part05.html#329",
+"fr": "Formes"
+},
+{
+"key": "part05.html#330",
+"fr": "Calques de forme, Trim Paths, Repeater"
+},
+{
+"key": "part05.html#331",
+"fr": "Infographies, animation de lignes, transitions de formes"
+},
+{
+"key": "part05.html#332",
+"fr": "Masques"
+},
+{
+"key": "part05.html#333",
+"fr": "Masques à la plume, contour progressif, expansion du masque"
+},
+{
+"key": "part05.html#334",
+"fr": "Révélations partielles, transitions"
+},
+{
+"key": "part05.html#335",
+"fr": "Roto"
+},
+{
+"key": "part05.html#336",
+"fr": "Roto Brush, Refine Edge"
+},
+{
+"key": "part05.html#337",
+"fr": "Détourer une personne quand l’incrustation est impossible"
+},
+{
+"key": "part05.html#338",
+"fr": "Incrustation"
+},
+{
+"key": "part05.html#339",
+"fr": "Keylight, Spill Suppressor, Advanced Spill"
+},
+{
+"key": "part05.html#340",
+"fr": "Compositing sur fond vert"
+},
+{
+"key": "part05.html#341",
+"fr": "Suivi"
+},
+{
+"key": "part05.html#342",
+"fr": "Point 2D, quatre coins, 3D Camera Tracker, Mocha"
+},
+{
+"key": "part05.html#343",
+"fr": "Fixer des éléments, remplacer des écrans"
+},
+{
+"key": "part05.html#344",
+"fr": "Calques 3D, caméras, lumières, ombres, profondeur de champ"
+},
+{
+"key": "part05.html#345",
+"fr": "Titres 3D, mise en scène dans l’espace"
+},
+{
+"key": "part05.html#346",
+"fr": "Marionnette"
+},
+{
+"key": "part05.html#347",
+"fr": "Coins de marionnette, outil Amidon"
+},
+{
+"key": "part05.html#348",
+"fr": "Animer des personnages illustrés"
+},
+{
+"key": "part05.html#349",
+"fr": "Temps"
+},
+{
+"key": "part05.html#350",
+"fr": "Remappage temporel, Force Motion Blur, Pixel Motion"
+},
+{
+"key": "part05.html#351",
+"fr": "Changements de rythme, rampes de vitesse"
+},
+{
+"key": "part05.html#352",
+"fr": "Couleur"
+},
+{
+"key": "part05.html#353",
+"fr": "Lumetri Color, Courbes, Balance des couleurs"
+},
+{
+"key": "part05.html#354",
+"fr": "Raccorder la couleur des éléments"
+},
+{
+"key": "part05.html#355",
+"fr": "Effets"
+},
+{
+"key": "part05.html#356",
+"fr": "Lueur, flou, déplacement, Fractal Noise"
+},
+{
+"key": "part05.html#357",
+"fr": "Lumière, distorsion, texture"
+},
+{
+"key": "part05.html#358",
+"fr": "Sortie"
+},
+{
+"key": "part05.html#359",
+"fr": "File d’attente de rendu, lien Media Encoder"
+},
+{
+"key": "part05.html#360",
+"fr": "Sortie avec alpha, livraison finale"
+},
+{
+"key": "part05.html#361",
+"fr": "Ordre de travail : texte 3D et éclairage"
+},
+{
+"key": "part05.html#362",
+"fr": "<b>CONSEIL</b>"
+},
+{
+"key": "part05.html#363",
+"fr": "Calez la focale de la caméra sur celle de l’objectif du tournage, sinon la perspective ne raccordera pas."
+},
+{
+"key": "part05.html#364",
+"fr": "<b>01</b><span>Choisissez la police. En extrusion 3D, un interlettrage serré fait se heurter les faces : espacez les lettres et prenez un gras.</span>"
+},
+{
+"key": "part05.html#365",
+"fr": "<b>02</b><span>Passez le calque de texte en 3D et réglez la profondeur d’extrusion. 15–30 % de la hauteur des lettres est une valeur sûre.</span>"
+},
+{
+"key": "part05.html#366",
+"fr": "<b>03</b><span>Réglez la matière. Métal : reflets et hautes lumières ; mat : surtout de la diffusion.</span>"
+},
+{
+"key": "part05.html#367",
+"fr": "<b>04</b><span>Ajoutez une caméra. Calez sa focale sur celle de l’objectif du tournage.</span>"
+},
+{
+"key": "part05.html#368",
+"fr": "<b>05</b><span>Placez les lumières. Repérez la direction des ombres dans les images tournées et réglez la lumière principale sous le même angle.</span>"
+},
+{
+"key": "part05.html#369",
+"fr": "<b>06</b><span>Créez un calque de sol pour recevoir les ombres. Sans lui, le texte ressemble à un autocollant flottant dans l’air.</span>"
+},
+{
+"key": "part05.html#370",
+"fr": "<b>07</b><span>Animez. Par défaut, décélération (ease out) à l’entrée, accélération (ease in) à la sortie.</span>"
+},
+{
+"key": "part05.html#371",
+"fr": "<b>08</b><span>Activez le flou de mouvement et accordez le grain à celui des prises de vues réelles.</span>"
+},
+{
+"key": "part05.html#372",
+"fr": "Amorti (accél. · décél.) : valeurs de référence"
+},
+{
+"key": "part05.html#373",
+"fr": "<b>Amorti (easing)</b>"
+},
+{
+"key": "part05.html#374",
+"fr": "Courbe d’accélération · décélération d’un mouvement. Le linéaire est mécanique ; Easy Ease ralentit au départ et à l’arrivée. Façonnez-la comme une courbe de vitesse dans l’éditeur de graphiques."
+},
+{
+"key": "part05.html#375",
+"fr": "Type d’amorti"
+},
+{
+"key": "part05.html#376",
+"fr": "Effet"
+},
+{
+"key": "part05.html#377",
+"fr": "Usage"
+},
+{
+"key": "part05.html#378",
+"fr": "Images à 24 fps"
+},
+{
+"key": "part05.html#379",
+"fr": "Linéaire"
+},
+{
+"key": "part05.html#380",
+"fr": "Mécanique, sans vie"
+},
+{
+"key": "part05.html#381",
+"fr": "Boucles sans fin, fonds en rotation"
+},
+{
+"key": "part05.html#382",
+"fr": "Décél. (ease out)"
+},
+{
+"key": "part05.html#383",
+"fr": "Arrive vite, se pose en douceur"
+},
+{
+"key": "part05.html#384",
+"fr": "Entrées"
+},
+{
+"key": "part05.html#385",
+"fr": "10–15 images"
+},
+{
+"key": "part05.html#386",
+"fr": "Accél. (ease in)"
+},
+{
+"key": "part05.html#387",
+"fr": "Part lentement, file en accélérant"
+},
+{
+"key": "part05.html#388",
+"fr": "Sorties"
+},
+{
+"key": "part05.html#389",
+"fr": "8–12 images"
+},
+{
+"key": "part05.html#390",
+"fr": "Accél.·décél. (ease in-out)"
+},
+{
+"key": "part05.html#391",
+"fr": "Le plus naturel"
+},
+{
+"key": "part05.html#392",
+"fr": "Mouvements courants"
+},
+{
+"key": "part05.html#393",
+"fr": "12–18 images"
+},
+{
+"key": "part05.html#394",
+"fr": "Dépassement"
+},
+{
+"key": "part05.html#395",
+"fr": "Dépasse la cible, puis revient"
+},
+{
+"key": "part05.html#396",
+"fr": "Révélations de logo dynamiques"
+},
+{
+"key": "part05.html#397",
+"fr": "15–20 images"
+},
+{
+"key": "part05.html#398",
+"fr": "Rebond"
+},
+{
+"key": "part05.html#399",
+"fr": "Rebondit avant de s’immobiliser"
+},
+{
+"key": "part05.html#400",
+"fr": "Contenus décontractés, jeunesse"
+},
+{
+"key": "part05.html#401",
+"fr": "20–25 images"
+},
+{
+"key": "part05.html#402",
+"fr": "Motion design : ordre des corrections"
+},
+{
+"key": "part05.html#403",
+"fr": "<b>01</b><i>Appliquer l’amorti</i>Aucune cassure à angle droit dans la courbe de vitesse"
+},
+{
+"key": "part05.html#404",
+"fr": "<b>02</b><i>Ajouter l’anticipation</i>Partir d’abord en sens inverse"
+},
+{
+"key": "part05.html#405",
+"fr": "<b>03</b><i>Décaler la continuité</i>Laisser traîner les parties attachées"
+},
+{
+"key": "part05.html#406",
+"fr": "<b>04</b><i>Pousser l’exagération</i>Plus grand que nature"
+},
+{
+"key": "part05.html#407",
+"fr": "Appliquez seulement ces quatre étapes dans l’ordre, et l’aspect débutant disparaît. Une courbe de vitesse qui casse à angle droit dans l’éditeur de graphiques paraît toujours maladroite : arrondissez-la."
+},
+{
+"key": "part05.html#408",
+"fr": "Ce que les mises à jour récentes ont changé"
+},
+{
+"key": "part05.html#409",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part05.html#410",
+"fr": "Les noms et le comportement des fonctions changent d’une version à l’autre. Avant l’exercice, consultez les notes de nouveautés de la version installée."
+},
+{
+"key": "part05.html#411",
+"fr": "<small>Roto</small>Roto Brush 3.0"
+},
+{
+"key": "part05.html#412",
+"fr": "Roto Brush à modèle d’IA. Quelques traits grossiers sur une image suffisent à suivre cheveux · contours flous"
+},
+{
+"key": "part05.html#413",
+"fr": "Désormais l’outil standard pour détourer des personnes filmées sans fond vert"
+},
+{
+"key": "part05.html#414",
+"fr": "<small>3D</small>Moteur de rendu 3D avancé"
+},
+{
+"key": "part05.html#415",
+"fr": "Importez des modèles 3D .glb · .gltf · .obj · .fbx directement dans une composition"
+},
+{
+"key": "part05.html#416",
+"fr": "Lumières 3D, ombres et lumière d’environnement qui se fondent dans les prises de vues réelles"
+},
+{
+"key": "part05.html#417",
+"fr": "<small>Caméra</small>Caméra 3D · objet nul"
+},
+{
+"key": "part05.html#418",
+"fr": "Parentez la caméra à un objet nul pour piloter travelling · orbite · avancée depuis une seule propriété"
+},
+{
+"key": "part05.html#419",
+"fr": "Texte · modèles · calques plats partagent une même perspective dans un même espace"
+},
+{
+"key": "part05.html#420",
+"fr": "<small>Incrustation</small>Keylight + Key Cleaner · Advanced Spill Suppressor"
+},
+{
+"key": "part05.html#421",
+"fr": "Tirez l’incrustation principale avec Keylight, nettoyez les contours avec Key Cleaner"
+},
+{
+"key": "part05.html#422",
+"fr": "Retirez le débordement vert sur la peau avec Advanced Spill Suppressor. Empiler les trois dans cet ordre, c’est le kit de base"
+},
+{
+"key": "part05.html#423",
+"fr": "<small>Propriétés</small>Panneau Propriétés · Essential Properties"
+},
+{
+"key": "part05.html#424",
+"fr": "Les propriétés courantes du calque sélectionné dans un seul panneau, modifiables sans déplier la timeline"
+},
+{
+"key": "part05.html#425",
+"fr": "Les Essential Properties exposent des valeurs internes d’une précomposition : chaque copie peut différer"
+},
+{
+"key": "part05.html#426",
+"fr": "<small>Intégration</small>Dynamic Link · Text-Based Editing · Generative Extend"
+},
+{
+"key": "part05.html#427",
+"fr": "Dynamic Link place les compositions AE sur la timeline de Premiere sans rendu"
+},
+{
+"key": "part05.html#428",
+"fr": "Dans Premiere, Text-Based Editing (monter à partir de la transcription) et Generative Extend (générer de la durée en fin de clip) accélèrent le montage"
+},
+{
+"key": "part05.html#429",
+"fr": "<b>Photos de référence 5.5A</b>Images générées – compositing et motion design"
+},
+{
+"key": "part05.html#430",
+"fr": "<span class=\"ph-id\">P05-ROTO</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Roto · incrustation · compositing</b>À gauche, une personne devant un fond vert avec des tracés de masque ; à droite, le résultat intégré dans une scène de rue</span>"
+},
+{
+"key": "part05.html#431",
+"fr": "<b>a</b>Roto · incrustation · compositing – séparation (roto · incrustation), nettoyage (suppression du débordement) et raccord colorimétrique avec le fond forment un tout"
+},
+{
+"key": "part05.html#432",
+"fr": "<span class=\"ph-id\">P05-MOGRAPH</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Travail de motion design</b>Une vue 3D montrant un rig de caméra et un objet nul, des calques de texte animés</span>"
+},
+{
+"key": "part05.html#433",
+"fr": "<b>b</b>Travail de motion design – concevez les mouvements de caméra avec une caméra 3D et un objet nul, et appliquez l’amorti aux calques de texte"
+},
+{
+"key": "part05.html#434",
+"fr": "<small>Exercice</small>5.5"
+},
+{
+"key": "part05.html#435",
+"fr": "Tâche"
+},
+{
+"key": "part05.html#436",
+"fr": "Réalisez dans After Effects une animation de révélation de logo de 5 secondes."
+},
+{
+"key": "part05.html#437",
+"fr": "Conseil"
+},
+{
+"key": "part05.html#438",
+"fr": "Réglez accélération · décélération dans l’éditeur de graphiques."
+},
+{
+"key": "part05.html#439",
+"fr": "Évaluation"
+},
+{
+"key": "part05.html#440",
+"fr": "Accélération et décélération, accord avec le ton de la marque"
+},
+{
+"key": "part05.html#441",
+"fr": "Corrigé type"
+},
+{
+"key": "part05.html#442",
+"fr": "Comparez côte à côte une version linéaire et une version en courbe."
+},
+{
+"key": "part05.html#443",
+"fr": "Contexte 8"
+},
+{
+"key": "part05.html#444",
+"fr": "L’illusion de la vie<br>– origines des principes de l’animation"
+},
+{
+"key": "part05.html#445",
+"fr": "Comment insuffler poids, caractère et émotion à des dessins immobiles ? La réponse s’est construite en plusieurs décennies de tâtonnements. Les principes de l’animation relèvent à la fois de la physique et de la théorie du jeu d’acteur."
+},
+{
+"key": "part05.html#446",
+"fr": "En 1914, Gertie le dinosaure de Winsor McCay montrait un personnage qui obéissait aux ordres et réagissait devant le public, preuve que l’animation pouvait créer un être doté d’une personnalité. En préparant Blanche-Neige et les Sept Nains (1937), le studio Walt Disney fit observer à ses animateurs des animaux et des personnes en mouvement, et leur enseigna le dessin et l’anatomie."
+},
+{
+"key": "part05.html#447",
+"fr": "On appelait les animateurs phares de Disney à cette époque les « Nine Old Men ». Deux d’entre eux, Frank Thomas et Ollie Johnston, ont condensé les principes du studio en douze points dans The Illusion of Life (1981) : compression et étirement, anticipation, mise en scène, pose à pose, continuité du mouvement, ralenti au départ et à l’arrivée, arcs, action secondaire, timing, exagération, dessin en volume, charisme. Ce sont moins des règles que des façons de traduire la réalité observée pour que le public la ressente plus fort."
+},
+{
+"key": "part05.html#448",
+"fr": "La moitié des principes relève de la physique. Une balle qui s’écrase à l’atterrissage et s’étire au rebond, un objet lourd qui démarre et s’arrête lentement : voilà qui rend visibles la masse et l’inertie. L’autre moitié relève du jeu. L’anticipation annonce l’action suivante, l’exagération clarifie l’émotion, et le charisme fait que le public donne son cœur au personnage."
+},
+{
+"key": "part05.html#449",
+"fr": "En 1987, John Lasseter, de Pixar, présenta au SIGGRAPH « Principles of Traditional Animation Applied to 3D Computer Animation ». Son propos : les outils sont passés du crayon à l’ordinateur, mais la façon dont le public perçoit la vie dans le mouvement n’a pas changé. Le motion designer qui adoucit aujourd’hui l’entrée d’un logo dans l’éditeur de graphiques suit les mêmes principes."
+}
+]

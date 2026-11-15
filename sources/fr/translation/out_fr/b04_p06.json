@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#433",
+"fr": "Env. 8,85 M"
+},
+{
+"key": "part03.html#434",
+"fr": "Écrans de cinéma"
+},
+{
+"key": "part03.html#435",
+"fr": "Plus large sur les côtés"
+},
+{
+"key": "part03.html#436",
+"fr": "Env. 21,24 M"
+},
+{
+"key": "part03.html#437",
+"fr": "Marge de recadrage"
+},
+{
+"key": "part03.html#438",
+"fr": "Exige une station de montage puissante"
+},
+{
+"key": "part03.html#439",
+"fr": "8K UHD"
+},
+{
+"key": "part03.html#440",
+"fr": "Env. 33,18 M"
+},
+{
+"key": "part03.html#441",
+"fr": "Grands écrans LED, expositions"
+},
+{
+"key": "part03.html#442",
+"fr": "Temps de rendu qui explosent"
+},
+{
+"key": "part03.html#443",
+"fr": "Pourquoi la 4K est la norme"
+},
+{
+"key": "part03.html#444",
+"fr": "Les pixels en réserve pour le recadrage, la stabilisation, les inserts par zoom dans l’image et les versions verticales sont une liberté de montage. Pour tirer une vidéo courte verticale d’images horizontales, la 4K est quasi indispensable."
+},
+{
+"key": "part03.html#445",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part03.html#446",
+"fr": "Un recadrage en 21:9 jette des pixels en hauteur. Affichez un repère 2,39:1 dans le viseur et tenez perches et projecteurs hors de la zone qui sera rognée."
+},
+{
+"key": "part03.html#447",
+"fr": "Format d’image"
+},
+{
+"key": "part03.html#448",
+"fr": "Valeur"
+},
+{
+"key": "part03.html#449",
+"fr": "Supports types"
+},
+{
+"key": "part03.html#450",
+"fr": "Ambiance et usage"
+},
+{
+"key": "part03.html#451",
+"fr": "TV analogique, inserts rétro"
+},
+{
+"key": "part03.html#452",
+"fr": "Rétrospectif, documentaires, archives"
+},
+{
+"key": "part03.html#453",
+"fr": "Télédiffusion, YouTube, standard web"
+},
+{
+"key": "part03.html#454",
+"fr": "Le plus polyvalent, sûr"
+},
+{
+"key": "part03.html#455",
+"fr": "Longs métrages"
+},
+{
+"key": "part03.html#456",
+"fr": "Standard cinéma"
+},
+{
+"key": "part03.html#457",
+"fr": "CinemaScope, films de marque"
+},
+{
+"key": "part03.html#458",
+"fr": "Ampleur, image haut de gamme"
+},
+{
+"key": "part03.html#459",
+"fr": "Fils d’actualité carrés"
+},
+{
+"key": "part03.html#460",
+"fr": "Équilibre, forte symétrie"
+},
+{
+"key": "part03.html#461",
+"fr": "Fil Instagram"
+},
+{
+"key": "part03.html#462",
+"fr": "Couverture verticale maximale"
+},
+{
+"key": "part03.html#463",
+"fr": "Shorts, Reels, TikTok"
+},
+{
+"key": "part03.html#464",
+"fr": "Immersion plein écran, gros plans"
+},
+{
+"key": "part03.html#465",
+"fr": "Rogner le 16:9 en haut et en bas pour obtenir du 21:9 n’équivaut pas à capter une véritable information optique avec un objectif anamorphique. La méthode par recadrage suppose de tourner en 4K."
+},
+{
+"key": "part03.html#466",
+"fr": "<small>Exercice</small>3.7"
+},
+{
+"key": "part03.html#467",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#468",
+"fr": "Composez la même scène dans quatre formats d’image : 16:9, 9:16, 1:1 et 2,39:1."
+},
+{
+"key": "part03.html#469",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#470",
+"fr": "Quand le format change, le placement du sujet et les espaces vides sont à repenser aussi."
+},
+{
+"key": "part03.html#471",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#472",
+"fr": "Recomposition pour chaque format d’image"
+},
+{
+"key": "part03.html#473",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#474",
+"fr": "Indiquez pour chaque format « l’information perdue » et « l’espace gagné »."
+},
+{
+"key": "part03.html#475",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#476",
+"fr": "Cadence d’images et angle d’obturation"
+},
+{
+"key": "part03.html#477",
+"fr": "Le nombre d’images en lequel vous découpez une seconde fixe la texture du mouvement ; l’angle d’obturation fixe le flou de mouvement. À 180°, le dénominateur de la vitesse d’obturation vaut toujours le double de la cadence."
+},
+{
+"key": "part03.html#478",
+"fr": "<b>Fig. 34</b> Comparaison des cadences – combien d’images par seconde"
+},
+{
+"key": "part03.html#479",
+"fr": "Angle d’obturation – la part de chaque image où l’obturateur reste ouvert"
+},
+{
+"key": "part03.html#480",
+"fr": "<b>45° <small>1/192 s</small></b><span>Netteté saccadée – combats · explosions · urgence accrue</span>"
+},
+{
+"key": "part03.html#481",
+"fr": "<b>180° <small>1/48 s</small></b><span>Flou de mouvement naturel – le standard du cinéma</span>"
+},
+{
+"key": "part03.html#482",
+"fr": "<b>360° <small>1/24 s</small></b><span>Longues traînées – rêves · ivresse · flashbacks</span>"
+},
+{
+"key": "part03.html#483",
+"fr": "<b>L’angle d’obturation</b> est l’angle sur lequel l’obturateur rotatif est ouvert. La lumière entre pendant cette part de chaque image (1/24 s), et le mouvement se floute d’autant. <b>Règle : vitesse d’obturation = 1 ÷ (fps × 2)</b> → 1/48 à 24 fps, 1/120 à 60 fps. En vidéo, l’obturateur ne règle pas la luminosité mais <b>la quantité de flou de mouvement</b> – réglez la luminosité avec des filtres ND."
+},
+{
+"key": "part03.html#484",
+"fr": "<b>Fig. 35</b> Angle d’obturation et flou de mouvement (à 24 fps) – la partie rouge de chaque cercle est le temps d’ouverture de l’obturateur. Plus l’angle est grand, plus le mouvement capté dans une image est long."
+},
+{
+"key": "part03.html#485",
+"fr": "<b>24<em>fps</em></b>Flou cinéma – standard des pubs à émotion, obturateur 1/48"
+},
+{
+"key": "part03.html#486",
+"fr": "<b>30<em>fps</em></b>Net et informatif – pubs riches en textes"
+},
+{
+"key": "part03.html#487",
+"fr": "<b>60<em>fps</em></b>Démos produit, ralenti ×2 – obturateur 1/120"
+},
+{
+"key": "part03.html#488",
+"fr": "<b>120<em>fps</em></b>Macro produit, ralenti ×5 – obturateur 1/240"
+},
+{
+"key": "part03.html#489",
+"fr": "Cadence"
+},
+{
+"key": "part03.html#490",
+"fr": "Sensation de mouvement"
+},
+{
+"key": "part03.html#491",
+"fr": "Usages principaux"
+},
+{
+"key": "part03.html#492",
+"fr": "En publicité"
+},
+{
+"key": "part03.html#493",
+"fr": "24 fps"
+},
+{
+"key": "part03.html#494",
+"fr": "Flou cinéma, émotion"
+},
+{
+"key": "part03.html#495",
+"fr": "Longs métrages, films de marque"
+},
+{
+"key": "part03.html#496",
+"fr": "Standard des pubs à émotion"
+},
+{
+"key": "part03.html#497",
+"fr": "25 fps"
+},
+{
+"key": "part03.html#498",
+"fr": "Norme de diffusion européenne"
+},
+{
+"key": "part03.html#499",
+"fr": "Diffusion en zone PAL"
+},
+{
+"key": "part03.html#500",
+"fr": "À vérifier pour l’étranger"
+},
+{
+"key": "part03.html#501",
+"fr": "30 fps"
+},
+{
+"key": "part03.html#502",
+"fr": "Net, informatif"
+},
+{
+"key": "part03.html#503",
+"fr": "Télédiffusion, pubs web"
+},
+{
+"key": "part03.html#504",
+"fr": "Informatif, riche en textes"
+},
+{
+"key": "part03.html#505",
+"fr": "60 fps"
+},
+{
+"key": "part03.html#506",
+"fr": "Fluide, réaliste"
+},
+{
+"key": "part03.html#507",
+"fr": "Sport, jeux vidéo, démos"
+},
+{
+"key": "part03.html#508",
+"fr": "Démos produit, ralenti ×2"
+},
+{
+"key": "part03.html#509",
+"fr": "120 fps"
+},
+{
+"key": "part03.html#510",
+"fr": "Ultra-ralenti, tactile"
+},
+{
+"key": "part03.html#511",
+"fr": "Macro produit, liquides"
+},
+{
+"key": "part03.html#512",
+"fr": "Inserts en ralenti ×5"
+},
+{
+"key": "part03.html#513",
+"fr": "240 fps et plus"
+},
+{
+"key": "part03.html#514",
+"fr": "Ralenti extrême"
+},
+{
+"key": "part03.html#515",
+"fr": "Impacts, éclatements, projections"
+},
+{
+"key": "part03.html#516",
+"fr": "1–2 plans d’accent"
+},
+{
+"key": "part03.html#517",
+"fr": "Formule du ralenti"
+},
+{
+"key": "part03.html#518",
+"fr": "Les fps de tournage divisés par les fps de la timeline donnent le facteur de ralenti. Des images à 120 fps sur une timeline à 24 fps sont lues 5 fois plus lentement. Mais le 120 fps demande environ 5 fois plus de lumière que le 24 fps : s’y essayer sans plan d’éclairage finit en bruit."
+},
+{
+"key": "part03.html#519",
+"fr": "<b>Note</b>"
+},
+{
+"key": "part03.html#520",
+"fr": "Pour respecter la règle de l’obturateur à 180° en extérieur jour, il faut des filtres ND. Si vous fermez le diaphragme à la place, vous perdez le flou d’arrière-plan voulu."
+},
+{
+"key": "part03.html#521",
+"fr": "Angle d’obturation et règle de l’obturateur à 180°"
+},
+{
+"key": "part03.html#522",
+"fr": "Angle d’obturation"
+},
+{
+"key": "part03.html#523",
+"fr": "Vitesse d’obturation (24 fps)"
+},
+{
+"key": "part03.html#524",
+"fr": "Flou de mouvement"
+},
+{
+"key": "part03.html#525",
+"fr": "Effet recherché"
+},
+{
+"key": "part03.html#526",
+"fr": "Très faible"
+},
+{
+"key": "part03.html#527",
+"fr": "Urgence, impact"
+},
+{
+"key": "part03.html#528",
+"fr": "Faible"
+},
+{
+"key": "part03.html#529",
+"fr": "Action nette, sport"
+},
+{
+"key": "part03.html#530",
+"fr": "Standard"
+},
+{
+"key": "part03.html#531",
+"fr": "Naturel, par défaut"
+},
+{
+"key": "part03.html#532",
+"fr": "Fort"
+},
+{
+"key": "part03.html#533",
+"fr": "Onirique, ivresse, flashback"
+},
+{
+"key": "part03.html#534",
+"fr": "Très fort"
+},
+{
+"key": "part03.html#535",
+"fr": "Rêves, hallucination, distorsion"
+},
+{
+"key": "part03.html#536",
+"fr": "<b>Photos de référence 3.8A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part03.html#537",
+"fr": "<b>a</b>Obturateur à 360° – long flou"
+},
+{
+"key": "part03.html#538",
+"fr": "<b>b</b>Obturateur à 45° – netteté saccadée"
+},
+{
+"key": "part03.html#539",
+"fr": "<b>c</b>Prise de vues à haute vitesse – gouttes figées"
+},
+{
+"key": "part03.html#540",
+"fr": "<b>G-08</b> Vitesse d’obturation et mouvement – obturateur à 180° et obturateur rapide"
+},
+{
+"key": "part03.html#541",
+"fr": "<small>Exercice</small>3.8"
+},
+{
+"key": "part03.html#542",
+"fr": "Tâche"
+},
+{
+"key": "part03.html#543",
+"fr": "Tournez la même action à 24 fps (1/50), 60 fps (1/120) et 120 fps, puis comparez le ralenti et la texture du mouvement."
+},
+{
+"key": "part03.html#544",
+"fr": "Conseil"
+},
+{
+"key": "part03.html#545",
+"fr": "Comme base, réglez le dénominateur de l’obturateur au double de la cadence."
+},
+{
+"key": "part03.html#546",
+"fr": "Évaluation"
+},
+{
+"key": "part03.html#547",
+"fr": "Compréhension de l’obturateur à 180° ; usage pertinent du ralenti"
+},
+{
+"key": "part03.html#548",
+"fr": "Corrigé type"
+},
+{
+"key": "part03.html#549",
+"fr": "N’utilisez le ralenti qu’au sommet émotionnel, pour étirer le temps."
+},
+{
+"key": "part03.html#550",
+"fr": "<b>PARTIE 03</b>Caméra : matériel et technique"
+},
+{
+"key": "part03.html#551",
+"fr": "Température de couleur et balance des blancs"
+},
+{
+"key": "part03.html#552",
+"fr": "Le papier blanc s’enregistre blanc quand le réglage de la caméra correspond à la température de couleur de la lumière. Qu’un écart soit une erreur ou un choix, cela se décide en préproduction."
+},
+{
+"key": "part03.html#553",
+"fr": "La lumière a une couleur – lisez-la en kelvins (K)"
+},
+{
+"key": "part03.html#554",
+"fr": "<span>Chaud – orangé · chiffre plus bas</span><span>Froid – bleu · chiffre plus haut</span>"
+},
+{
+"key": "part03.html#555",
+"fr": "<b>1900 K</b><span>Bougie</span>"
+},
+{
+"key": "part03.html#556",
+"fr": "<b>3200 K</b><span>Tungstène · incandescence</span>"
+},
+{
+"key": "part03.html#557",
+"fr": "<b>4200 K</b><span>Fluorescent</span>"
+},
+{
+"key": "part03.html#558",
+"fr": "<b>5600 K</b><span>Soleil de midi · LED lumière du jour</span>"
+},
+{
+"key": "part03.html#559",
+"fr": "<b>6500 K</b><span>Ciel couvert</span>"
+},
+{
+"key": "part03.html#560",
+"fr": "<b>8000 K</b><span>Ombre · lumière bleue du ciel</span>"
+},
+{
+"key": "part03.html#561",
+"fr": "<b>Fig. 36</b> Température de couleur selon la source – même la « lumière blanche » change de couleur d’une source à l’autre. Plus le chiffre est bas, plus elle est rouge ; plus il est haut, plus elle est bleue."
+},
+{
+"key": "part03.html#562",
+"fr": "Le blanc ne sort blanc que si la caméra est accordée à la lumière"
+},
+{
+"key": "part03.html#563",
+"fr": "<span></span><b>WB 3200 K</b><b>WB 5600 K</b><b>WB 7500 K</b>"
+},
+{
+"key": "part03.html#564",
+"fr": "<b>Sous tungstène</b><span>Source à 3200 K</span>"
+},
+{
+"key": "part03.html#565",
+"fr": "<em>Juste</em><span>Le blanc reste blanc</span>"
+},
+{
+"key": "part03.html#566",
+"fr": "<span>Vire à l’orangé</span>"
+},
+{
+"key": "part03.html#567",
+"fr": "<span>Vire encore plus à l’orangé</span>"
+},
+{
+"key": "part03.html#568",
+"fr": "<b>Sous lumière du jour</b><span>Source à 5600 K</span>"
+},
+{
+"key": "part03.html#569",
+"fr": "<span>Vire au bleu</span>"
+},
+{
+"key": "part03.html#570",
+"fr": "<em>Juste</em><span>Le blanc reste blanc</span>"
+},
+{
+"key": "part03.html#571",
+"fr": "<span>Vire à l’orangé</span>"
+},
+{
+"key": "part03.html#572",
+"fr": "Réglez la WB de la caméra <b>en dessous de la source : l’image sort bleue</b> ; <b>au-dessus : elle sort orangée</b>. Servez-vous de cet écart à dessein – le bleu de l’aube, la chaleur de la nuit. Mais dans une même scène, tenez-vous toujours à une seule valeur."
+},
+{
+"key": "part03.html#573",
+"fr": "<b>Fig. 37</b> Balance des blancs – le papier blanc ne sort blanc que si le réglage de la caméra correspond à la température de couleur de la source. La même photo, où seule la valeur de WB change."
+},
+{
+"key": "part03.html#574",
+"fr": "<b>Photos de référence 3.9A</b>Images générées – référence de mise en scène"
+},
+{
+"key": "part03.html#575",
+"fr": "<b>a</b>WB réglée à 3200 K en lumière du jour – bleu"
+},
+{
+"key": "part03.html#576",
+"fr": "<b>b</b>WB réglée à 5600 K en lumière du jour – normal"
+},
+{
+"key": "part03.html#577",
+"fr": "<b>c</b>WB réglée à 7500 K en lumière du jour – jaunâtre"
+},
+{
+"key": "part03.html#578",
+"fr": "Réglez la caméra en dessous de la source et l’image tire vers le bleu ; au-dessus, vers l’orangé. Retournez le principe : régler 3200 K en lumière du jour permet de créer à dessein l’ambiance froide de l’aube ou de la nuit."
+},
+{
+"key": "part03.html#579",
+"fr": "Source lumineuse"
+},
+{
+"key": "part03.html#580",
+"fr": "Température de couleur"
+},
+{
+"key": "part03.html#581",
+"fr": "Impression à l’écran"
+},
+{
+"key": "part03.html#582",
+"fr": "Bougie"
+}
+]
