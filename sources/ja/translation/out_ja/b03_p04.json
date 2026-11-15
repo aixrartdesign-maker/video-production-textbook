@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#207",
+"ja": "屋上"
+},
+{
+"key": "feature_ppm.html#208",
+"ja": "街の朝（夕方の逆光で代用） LS ティルトアップ"
+},
+{
+"key": "feature_ppm.html#209",
+"ja": "24 mm、60 fps"
+},
+{
+"key": "feature_ppm.html#210",
+"ja": "<b>ゴールデンアワーは40分 — 最大3テイク</b>"
+},
+{
+"key": "feature_ppm.html#211",
+"ja": "実習室"
+},
+{
+"key": "feature_ppm.html#212",
+"ja": "N収録"
+},
+{
+"key": "feature_ppm.html#213",
+"ja": "ナレーション3行を収録、ルームトーン30秒"
+},
+{
+"key": "feature_ppm.html#214",
+"ja": "声優"
+},
+{
+"key": "feature_ppm.html#215",
+"ja": "コンデンサーマイク、ポップガード"
+},
+{
+"key": "feature_ppm.html#216",
+"ja": "各3テイク、コンテの3レーンに合わせて計時"
+},
+{
+"key": "feature_ppm.html#217",
+"ja": "実習室"
+},
+{
+"key": "feature_ppm.html#218",
+"ja": "2次バックアップ、ラッシュの確認、1日のまとめ"
+},
+{
+"key": "feature_ppm.html#219",
+"ja": "撮りこぼしリスト → 予備日D+2"
+},
+{
+"key": "feature_ppm.html#220",
+"ja": "予備日 · 4/13（日） · 雨天または撮りこぼし — 俳優Aの日程確認済み ✔ · L-02スタジオを仮押さえ"
+},
+{
+"key": "feature_ppm.html#221",
+"ja": "<span class=\"ph-id\">P06-SCHEDULE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>スケジュールボード — ロケ地 · 光 · 俳優ごとにまとめたストリップ</b></span>"
+},
+{
+"key": "feature_ppm.html#222",
+"ja": "<b>注意</b>スケジュールボード — ロケ地 · 光 · 俳優ごとにまとめたストリップ"
+},
+{
+"key": "feature_ppm.html#223",
+"ja": "<small>まとめる順序</small>ロケ地 → 光 → 俳優"
+},
+{
+"key": "feature_ppm.html#224",
+"ja": "同じセッティングは続けて撮る"
+},
+{
+"key": "feature_ppm.html#225",
+"ja": "直射日光 · ゴールデンアワーなど「取り戻せない時間」を先に"
+},
+{
+"key": "feature_ppm.html#226",
+"ja": "俳優の入りは最初のカットの45分前"
+},
+{
+"key": "feature_ppm.html#227",
+"ja": "<small>安全マージン</small>カットごとに+30%、1日に+1時間"
+},
+{
+"key": "feature_ppm.html#228",
+"ja": "最初のカットは必ず30分遅れる"
+},
+{
+"key": "feature_ppm.html#229",
+"ja": "移動：地図上の所要時間 × 1.5"
+},
+{
+"key": "feature_ppm.html#230",
+"ja": "昼食は45分で固定。ずらせば午後が崩れる"
+},
+{
+"key": "feature_ppm.html#231",
+"ja": "<small>予備日</small>押さえていなければ、存在しない"
+},
+{
+"key": "feature_ppm.html#232",
+"ja": "俳優 · ロケ地の両方を仮押さえ"
+},
+{
+"key": "feature_ppm.html#233",
+"ja": "雨天の基準を数値で決める（降水確率60%）"
+},
+{
+"key": "feature_ppm.html#234",
+"ja": "撮りこぼしリストは1日のまとめで確定"
+},
+{
+"key": "feature_ppm.html#235",
+"ja": "<small>見開き06 · 撮影日</small>撮影タイムテーブルと香盤表 — 15分単位で描けば、どこで遅れるかが見える"
+},
+{
+"key": "feature_ppm.html#236",
+"ja": "<b>注意</b>"
+},
+{
+"key": "feature_ppm.html#237",
+"ja": "バーの長さは予定時間だ。各ブロックが実際に終わったら、その横に実績のバーをペンで描く。その差が、次の作品のスケジュールの精度になる。"
+},
+{
+"key": "feature_ppm.html#238",
+"ja": "<i class=\"move\" style=\"width:30%\"></i><span>先発隊の到着 · 駐車 · 電源の確認 · 鍵</span>"
+},
+{
+"key": "feature_ppm.html#239",
+"ja": "<i class=\"set\" style=\"width:45%\"></i><span>機材の搬入（2人、階段） · ドリーレール · キーライトLEDの設置 · 美術の飾り込み開始</span>"
+},
+{
+"key": "feature_ppm.html#240",
+"ja": "<i class=\"set\" style=\"width:45%\"></i><span>俳優A入り → 車内でメイク · 衣装 LOOK 1</span>"
+},
+{
+"key": "feature_ppm.html#241",
+"ja": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 02</b> MCU ドリーイン · リハーサル1回 → テイク4（直射のベストは07:30–08:00）</span>"
+},
+{
+"key": "feature_ppm.html#242",
+"ja": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 03</b> CU 一口飲む · 85 mm · テイク5 · 汗 · テカリを確認</span>"
+},
+{
+"key": "feature_ppm.html#243",
+"ja": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 06</b> エンディング LOCKED + ドリー（ゆっくり） · マーカー · クリーンプレート2テイク</span>"
+},
+{
+"key": "feature_ppm.html#244",
+"ja": "<i class=\"set\" style=\"width:15%\"></i><span>俳優B入り · LOOK 2 · 2Sの立ち位置をリハーサル</span>"
+},
+{
+"key": "feature_ppm.html#245",
+"ja": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 05</b> 2S ボトルで乾杯 · SYNC 笑い声 · ルームトーンを30秒収録</span>"
+},
+{
+"key": "feature_ppm.html#246",
+"ja": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 01 · 02 INS</b> マクロで水滴 · 手元のインサート · 新しいボトルに交換</span>"
+},
+{
+"key": "feature_ppm.html#247",
+"ja": "<i class=\"move\" style=\"width:30%\"></i><span>撤収 · 原状回復を写真で記録 · 忘れ物の確認 · 1次バックアップ（現場） · 10:30に明け渡し</span>"
+},
+{
+"key": "feature_ppm.html#248",
+"ja": "<i class=\"meal\" style=\"width:30%\"></i><span>遅めの朝食 · 1回目のラッシュ確認 · 撮りこぼしリスト</span>"
+},
+{
+"key": "feature_ppm.html#249",
+"ja": "<span><i style=\"background:#7A1C2B\"></i>撮影</span><span><i style=\"background:#A8465A\"></i>セッティング · リハーサル</span><span><i style=\"background:#A8A8AE\"></i>移動 · 撤収</span><span><i style=\"background:#EFEDE9\"></i>食事 · 片付け</span>"
+},
+{
+"key": "feature_ppm.html#250",
+"ja": "香盤表 — A4で1枚、前日の20時までに全員へ"
+},
+{
+"key": "feature_ppm.html#251",
+"ja": "項目"
+},
+{
+"key": "feature_ppm.html#252",
+"ja": "内容"
+},
+{
+"key": "feature_ppm.html#253",
+"ja": "記入例"
+},
+{
+"key": "feature_ppm.html#254",
+"ja": "ヘッダー"
+},
+{
+"key": "feature_ppm.html#255",
+"ja": "作品名 · 撮影何日目 · 日付 · 天気 · 日の出/日の入り · 制作の連絡先2件"
+},
+{
+"key": "feature_ppm.html#256",
+"ja": "朝のドリンク15秒 · DAY 1/2 · 4/9（水） · 晴れ 12→19℃ · 日の出 06:12 · PD キム○○ 010-… / AD 010-…"
+},
+{
+"key": "feature_ppm.html#257",
+"ja": "場所"
+},
+{
+"key": "feature_ppm.html#258",
+"ja": "住所 · 駐車 · 集合場所 · トイレ · 病院"
+},
+{
+"key": "feature_ppm.html#259",
+"ja": "麻浦区○○路12、2階 · 裏通りに2台 · 1階入口 · 1階 · ○○病院の救急 1.2 km"
+},
+{
+"key": "feature_ppm.html#260",
+"ja": "入り時間"
+},
+{
+"key": "feature_ppm.html#261",
+"ja": "部署ごとの到着時間（機材 → 制作 → 出演者 → クライアント）"
+},
+{
+"key": "feature_ppm.html#262",
+"ja": "制作 06:30 · 撮影/照明 07:00 · 俳優A 07:15 · 俳優B 09:00 · クライアント 08:15"
+},
+{
+"key": "feature_ppm.html#263",
+"ja": "スケジュール"
+},
+{
+"key": "feature_ppm.html#264",
+"ja": "撮影タイムテーブルの要約（上のバーチャート）"
+},
+{
+"key": "feature_ppm.html#265",
+"ja": "07:30 CUT 02 → 08:00 CUT 03 → 08:30 CUT 06 → 09:10 CUT 05 → 09:40 INS → 10:10 撤収"
+},
+{
+"key": "feature_ppm.html#266",
+"ja": "出演者"
+},
+{
+"key": "feature_ppm.html#267",
+"ja": "役 · 俳優 · 入り時間 · メイク · 衣装 · マネージャーの連絡先"
+},
+{
+"key": "feature_ppm.html#268",
+"ja": "A 主役 · 07:15 · メイク車 · LOOK 1 · 010-… / B 同僚 · 09:00 · LOOK 2"
+},
+{
+"key": "feature_ppm.html#269",
+"ja": "機材 · 美術"
+},
+{
+"key": "feature_ppm.html#270",
+"ja": "カメラ · レンズ · 照明のリスト · 小道具の担当 · 商品の数量"
+},
+{
+"key": "feature_ppm.html#271",
+"ja": "FX3 · 24/35/50/85/100M · LED 600 W + チューブ2本 · 商品6本を冷やしておく · グリセリン"
+},
+{
+"key": "feature_ppm.html#272",
+"ja": "安全 · ルール"
+},
+{
+"key": "feature_ppm.html#273",
+"ja": "危険箇所 · 保険 · 現場のルール3つ"
+},
+{
+"key": "feature_ppm.html#274",
+"ja": "階段の機材運搬は2人で · 3 kWを超えない · テイク中はマシンを10分停止 · 喫煙は屋外のみ"
+},
+{
+"key": "feature_ppm.html#275",
+"ja": "不測の事態"
+},
+{
+"key": "feature_ppm.html#276",
+"ja": "雨天 · 遅延の判断基準と代替策 · 予備日"
+},
+{
+"key": "feature_ppm.html#277",
+"ja": "07:30に直射がなければキーライトLEDに切り替え · 2時間遅れたらCUT 05は予備日へ · 予備日 4/13"
+},
+{
+"key": "feature_ppm.html#278",
+"ja": "<small>見開き07 · 予算 · リスク · 会議</small>予算の項目とPPM会議のルール"
+},
+{
+"key": "feature_ppm.html#279",
+"ja": "区分"
+},
+{
+"key": "feature_ppm.html#280",
+"ja": "項目"
+},
+{
+"key": "feature_ppm.html#281",
+"ja": "学生作品"
+},
+{
+"key": "feature_ppm.html#282",
+"ja": "小規模CM"
+},
+{
+"key": "feature_ppm.html#283",
+"ja": "PPMで確定すること"
+},
+{
+"key": "feature_ppm.html#284",
+"ja": "人件費"
+},
+{
+"key": "feature_ppm.html#285",
+"ja": "演出、撮影、照明、編集"
+},
+{
+"key": "feature_ppm.html#286",
+"ja": "0（チームメンバー）"
+},
+{
+"key": "feature_ppm.html#287",
+"ja": "日当"
+},
+{
+"key": "feature_ppm.html#288",
+"ja": "残業の開始時刻"
+},
+{
+"key": "feature_ppm.html#289",
+"ja": "出演者"
+},
+{
+"key": "feature_ppm.html#290",
+"ja": "モデル、声優、エキストラ"
+},
+{
+"key": "feature_ppm.html#291",
+"ja": "0〜少額の謝礼"
+},
+{
+"key": "feature_ppm.html#292",
+"ja": "1回ごとの契約"
+},
+{
+"key": "feature_ppm.html#293",
+"ja": "肖像権の範囲 · 期間"
+},
+{
+"key": "feature_ppm.html#294",
+"ja": "機材"
+},
+{
+"key": "feature_ppm.html#295",
+"ja": "カメラ、レンズ、照明、ジンバルのレンタル"
+},
+{
+"key": "feature_ppm.html#296",
+"ja": "学校から借用"
+},
+{
+"key": "feature_ppm.html#297",
+"ja": "日単位のレンタル"
+},
+{
+"key": "feature_ppm.html#298",
+"ja": "損害保険、返却時刻"
+},
+{
+"key": "feature_ppm.html#299",
+"ja": "ロケ地"
+},
+{
+"key": "feature_ppm.html#300",
+"ja": "使用料、協力費"
+},
+{
+"key": "feature_ppm.html#301",
+"ja": "厚意により無料"
+},
+{
+"key": "feature_ppm.html#302",
+"ja": "時間単価"
+},
+{
+"key": "feature_ppm.html#303",
+"ja": "延長料金、原状回復の範囲"
+},
+{
+"key": "feature_ppm.html#304",
+"ja": "美術"
+},
+{
+"key": "feature_ppm.html#305",
+"ja": "小道具、衣装、セット"
+},
+{
+"key": "feature_ppm.html#306",
+"ja": "実費"
+},
+{
+"key": "feature_ppm.html#307",
+"ja": "項目別に計上"
+},
+{
+"key": "feature_ppm.html#308",
+"ja": "商品の数量、消耗品"
+},
+{
+"key": "feature_ppm.html#309",
+"ja": "ポスト"
+},
+{
+"key": "feature_ppm.html#310",
+"ja": "グレーディング、サウンドミックス、CG"
+},
+{
+"key": "feature_ppm.html#311",
+"ja": "自分たちで作業"
+},
+{
+"key": "feature_ppm.html#312",
+"ja": "外注単価"
+},
+{
+"key": "feature_ppm.html#313",
+"ja": "修正回数（通常2回）"
+},
+{
+"key": "feature_ppm.html#314",
+"ja": "音楽"
+},
+{
+"key": "feature_ppm.html#315",
+"ja": "ライセンスの購入"
+},
+{
+"key": "feature_ppm.html#316",
+"ja": "共用のサブスクリプション"
+},
+{
+"key": "feature_ppm.html#317",
+"ja": "曲単位またはサブスクリプション"
+},
+{
+"key": "feature_ppm.html#318",
+"ja": "媒体 · 使用期間"
+},
+{
+"key": "feature_ppm.html#319",
+"ja": "その他"
+},
+{
+"key": "feature_ppm.html#320",
+"ja": "食費、交通費、保険"
+},
+{
+"key": "feature_ppm.html#321",
+"ja": "実費"
+},
+{
+"key": "feature_ppm.html#322",
+"ja": "総額の10%を予備費に"
+},
+{
+"key": "feature_ppm.html#323",
+"ja": "<b>予備費10%を明記する</b>"
+},
+{
+"key": "feature_ppm.html#324",
+"ja": "予備費は必ず確保する"
+},
+{
+"key": "feature_ppm.html#325",
+"ja": "総予算の10%を予備費として確保していなければ、雨、遅刻、機材の故障、再撮影のどれかが起きた瞬間に作品は止まる。学生作品では、撮影の予備日を1日確保することが同じ役割を果たす。"
+},
+{
+"key": "feature_ppm.html#326",
+"ja": "リスク表 — 何が起こりうるか、起きたらどうするか、誰が決めるか"
+},
+{
+"key": "feature_ppm.html#327",
+"ja": "リスク"
+},
+{
+"key": "feature_ppm.html#328",
+"ja": "発動条件"
+},
+{
+"key": "feature_ppm.html#329",
+"ja": "代替策"
+},
+{
+"key": "feature_ppm.html#330",
+"ja": "決定者"
+},
+{
+"key": "feature_ppm.html#331",
+"ja": "雨 · 曇り（直射日光なし）"
+},
+{
+"key": "feature_ppm.html#332",
+"ja": "D-1の20時、降水確率60%以上"
+},
+{
+"key": "feature_ppm.html#333",
+"ja": "キーライトLEDで窓の光を再現、または予備日"
+},
+{
+"key": "feature_ppm.html#334",
+"ja": "ディレクター + DP"
+},
+{
+"key": "feature_ppm.html#335",
+"ja": "俳優の遅刻 · 無断欠席"
+},
+{
+"key": "feature_ppm.html#336",
+"ja": "入り時間+30分で連絡がつかない"
+},
+{
+"key": "feature_ppm.html#337",
+"ja": "インサート · 商品のカットを先に撮り、候補Bに連絡"
+},
+{
+"key": "feature_ppm.html#338",
+"ja": "制作PD"
+},
+{
+"key": "feature_ppm.html#339",
+"ja": "機材の故障"
+},
+{
+"key": "feature_ppm.html#340",
+"ja": "予備のボディがない"
+},
+{
+"key": "feature_ppm.html#341",
+"ja": "レンタル会社で緊急交換（連絡先は香盤表に）"
+},
+{
+"key": "feature_ppm.html#342",
+"ja": "DP"
+},
+{
+"key": "feature_ppm.html#343",
+"ja": "レンタル時間の超過"
+},
+{
+"key": "feature_ppm.html#344",
+"ja": "10:15までに撤収できない"
+},
+{
+"key": "feature_ppm.html#345",
+"ja": "30分の延長料金を事前に合意"
+},
+{
+"key": "feature_ppm.html#346",
+"ja": "制作PD"
+},
+{
+"key": "feature_ppm.html#347",
+"ja": "現場でのクライアントの変更要望"
+},
+{
+"key": "feature_ppm.html#348",
+"ja": "コンテにないカット"
+},
+{
+"key": "feature_ppm.html#349",
+"ja": "「追加カット依頼書」への署名後に撮影。別途請求"
+},
+{
+"key": "feature_ppm.html#350",
+"ja": "制作PD + クライアント"
+},
+{
+"key": "feature_ppm.html#351",
+"ja": "<span class=\"ph-id\">P06-TEAM2</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>モニターの前の3人 — 演出 · 撮影 · 制作が同じ画を見る</b></span>"
+},
+{
+"key": "feature_ppm.html#352",
+"ja": "<b>注意</b>モニターの前の3人 — 演出 · 撮影 · 制作が同じ画を見る"
+},
+{
+"key": "feature_ppm.html#353",
+"ja": "会議のルール"
+},
+{
+"key": "feature_ppm.html#354",
+"ja": "<b>01</b><span>資料は会議の<b>48時間前</b>に送る。その場で初めて見た資料では、誰も決められない。</span>"
+},
+{
+"key": "feature_ppm.html#355",
+"ja": "<b>02</b><span>各項目に<b>決定か保留か</b>を記す。保留には必ず担当者と期限を記録する。</span>"
+},
+{
+"key": "feature_ppm.html#356",
+"ja": "<b>03</b><span>リファレンスは必ず<b>画面で一緒に</b>確認する。トーンを言葉で説明すれば、全員が別のものを想像する。</span>"
+}
+]

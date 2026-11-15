@@ -1,0 +1,642 @@
+[
+{
+"key": "feature_lighting.html#106",
+"ja": "フラッド"
+},
+{
+"key": "feature_lighting.html#107",
+"ja": "ぼんやり"
+},
+{
+"key": "feature_lighting.html#108",
+"ja": "背景 · クロマキーの壁 · 集合"
+},
+{
+"key": "feature_lighting.html#109",
+"ja": "オープンフェイス、LEDパネル、フレネルのフラッド"
+},
+{
+"key": "feature_lighting.html#110",
+"ja": "Spot · Cone 70 · Feather 80"
+},
+{
+"key": "feature_lighting.html#111",
+"ja": "被写体と背景が同じ明るさになる"
+},
+{
+"key": "feature_lighting.html#112",
+"ja": "ソフト"
+},
+{
+"key": "feature_lighting.html#113",
+"ja": "面光源"
+},
+{
+"key": "feature_lighting.html#114",
+"ja": "ほぼなし"
+},
+{
+"key": "feature_lighting.html#115",
+"ja": "人物のキー · フィル、ビューティー、マットな商品"
+},
+{
+"key": "feature_lighting.html#116",
+"ja": "ソフトボックス60–120、ディフュージョン216/250、バウンス"
+},
+{
+"key": "feature_lighting.html#117",
+"ja": "Spot · Cone 90 · Feather 100 · Shadow Diffusion 20+"
+},
+{
+"key": "feature_lighting.html#118",
+"ja": "光源が遠すぎて、またハードになる"
+},
+{
+"key": "feature_lighting.html#119",
+"ja": "アンビエント"
+},
+{
+"key": "feature_lighting.html#120",
+"ja": "無指向"
+},
+{
+"key": "feature_lighting.html#121",
+"ja": "なし"
+},
+{
+"key": "feature_lighting.html#122",
+"ja": "露出の底上げ、曇りの日のルック"
+},
+{
+"key": "feature_lighting.html#123",
+"ja": "天井バウンス、大きなブックライト、ディフューズした窓"
+},
+{
+"key": "feature_lighting.html#124",
+"ja": "Ambient · Intensity 10–30%"
+},
+{
+"key": "feature_lighting.html#125",
+"ja": "アンビエントだけを使い、なぜ「平板」なのかと悩む"
+},
+{
+"key": "feature_lighting.html#126",
+"ja": "<small>見開き03</small>光を変える道具 — 大きさ · 距離 · 方向 · 強さ · 色、5つの調整つまみ"
+},
+{
+"key": "feature_lighting.html#127",
+"ja": "柔らかさ = 光源の見かけの大きさ"
+},
+{
+"key": "feature_lighting.html#128",
+"ja": "<b>左はハード · 右はソフト</b><span>同じ顔、同じ露出。左：裸電球1つ、右：2 mのソフトボックス</span>"
+},
+{
+"key": "feature_lighting.html#129",
+"ja": "小さい光源 · 遠い → ハード"
+},
+{
+"key": "feature_lighting.html#130",
+"ja": "きわめて鋭い影の縁"
+},
+{
+"key": "feature_lighting.html#131",
+"ja": "大きい光源 · 近い → ソフト"
+},
+{
+"key": "feature_lighting.html#132",
+"ja": "影が広がり、消えていく"
+},
+{
+"key": "feature_lighting.html#133",
+"ja": "<b>ハードとソフトを分けるもの</b><span>ランプの種類ではなく、被写体から見た光源の<b>大きさ</b>。光源を大きくするか（ディフュージョン · バウンス）、近づければ、光は柔らかくなる</span>"
+},
+{
+"key": "feature_lighting.html#134",
+"ja": "<b>モディファイヤー — それぞれが制御するもの</b><span>ソフトボックス · ディフュージョン → 大きさ（柔らかさ）</span><span>バウンス（天井 · 壁 · スチレンボード） → 大きさ + 方向</span><span>グリッド · バーンドア → 光漏れを切る</span><span>フラッグ → 光を遮る</span><span>カラーフィルター（CTO · CTB） → 色</span><span>ND → 明るさのみ</span>"
+},
+{
+"key": "feature_lighting.html#135",
+"ja": "<b>図版 LT-3</b> ハードとソフト — 光源の「見かけの大きさ」と距離で決まる。モディファイヤーは、この2つを変えるつまみである。"
+},
+{
+"key": "feature_lighting.html#136",
+"ja": "<b>2<em>倍</em></b>距離 → 明るさ1/4（−2段）"
+},
+{
+"key": "feature_lighting.html#137",
+"ja": "<b>216<em>/ 250</em></b>フル / ハーフディフュージョン — 約−1.5 / −0.8段"
+},
+{
+"key": "feature_lighting.html#138",
+"ja": "<b>5600<em>K</em></b>デイライト · <b>3200<em>K</em></b>タングステン · CTO = 5600→3200"
+},
+{
+"key": "feature_lighting.html#139",
+"ja": "<b>1<em>つだけ</em></b>フレーム内の影の方向"
+},
+{
+"key": "feature_lighting.html#140",
+"ja": "<small>見開き04</small>8つのライティングセットアップ — 上から見た配置図で覚える"
+},
+{
+"key": "feature_lighting.html#141",
+"ja": "8つのセットアップ — 上から見る"
+},
+{
+"key": "feature_lighting.html#142",
+"ja": "<b>01 基本の3点照明</b><span>キー45° + フィル + バック · インタビューの出発点</span>"
+},
+{
+"key": "feature_lighting.html#143",
+"ja": "<b>02 レンブラント</b><span>キー45°高め + 黒ボード · 頬に光の三角形</span>"
+},
+{
+"key": "feature_lighting.html#144",
+"ja": "<b>03 バタフライ</b><span>正面上からのキー + あごの下にレフ板 · ビューティー</span>"
+},
+{
+"key": "feature_lighting.html#145",
+"ja": "<b>04 スプリット</b><span>90°のキー1灯 · 顔を半分に分ける</span>"
+},
+{
+"key": "feature_lighting.html#146",
+"ja": "<b>05 ループ</b><span>キー35° + 弱いフィル · 最も安全な選択</span>"
+},
+{
+"key": "feature_lighting.html#147",
+"ja": "<b>06 ブックライト</b><span>キー → バウンス → ディフュージョン · 最も柔らかい光</span>"
+},
+{
+"key": "feature_lighting.html#148",
+"ja": "<b>07 バックライト · リム</b><span>後方の両側に2灯 + 正面バウンス · 輪郭だけ</span>"
+},
+{
+"key": "feature_lighting.html#149",
+"ja": "<b>08 商品のトップライト</b><span>上に大きなソフト + 後ろにストリップ + 両側に白ボード</span>"
+},
+{
+"key": "feature_lighting.html#150",
+"ja": "<b>図版 LT-4</b> 8つのライティングセットアップ — 同じスタジオ、同じ位置の同じ被写体。この3Dセットアップで変わるのはランプの位置だけである。写真で見ると「雰囲気」として、配置図で見ると「角度」として記憶に残る。"
+},
+{
+"key": "feature_lighting.html#151",
+"ja": "<small>見開き05</small>ソフトウェアの光 — After Effectsの4つの3Dライトと光のエフェクトツール"
+},
+{
+"key": "feature_lighting.html#152",
+"ja": "After Effectsの3Dライトは、現場の照明の縮尺模型である。同じ用語（スポット · ポイント · アンビエント）を使い、同じ属性（強度 · 色 · コーン角度 · 減衰 · 影）を制御する。現場で光を扱えるなら、ソフトウェアでも同じ判断を下すことになる。"
+},
+{
+"key": "feature_lighting.html#153",
+"ja": "ソフトウェアの光 — 4つのライト"
+},
+{
+"key": "feature_lighting.html#154",
+"ja": "<b>Parallel</b><span class=\"deg\">現場 · 太陽 · HMI</span><span>平行で均一 — 距離に関係なく、影はすべて同じ向きに落ちる</span>"
+},
+{
+"key": "feature_lighting.html#155",
+"ja": "<b>Spot</b><span class=\"deg\">現場 · フレネル · ソフトボックス</span><span>円錐形 — 基本のキーライト。Cone Angle · Feather · Falloff</span>"
+},
+{
+"key": "feature_lighting.html#156",
+"ja": "<b>Point</b><span class=\"deg\">現場 · 電球 · ろうそく · チューブ</span><span>全方向 — 距離とともに暗くなる（Falloff）</span>"
+},
+{
+"key": "feature_lighting.html#157",
+"ja": "<b>Ambient</b><span class=\"deg\">現場 · 天井バウンス · 曇りの日</span><span>影のないベースの明るさ — 10–30%まで。それ以上は平板になる</span>"
+},
+{
+"key": "feature_lighting.html#158",
+"ja": "<b>設定の順番</b><span>① Ambientを10–20%にしてベースの明るさをつくる</span><span>② Spot 1灯をキーに（Shadowオン）</span><span>③ Pointまたは弱いSpotをフィルに（Shadowオフ）</span><span>④ 後ろからのSpotをリムに</span><span>⑤ マテリアルオプション：Accepts Shadows · Casts Shadows</span>"
+},
+{
+"key": "feature_lighting.html#159",
+"ja": "<b>図版 LT-5</b> After Effectsの4つの3Dライトと、現場で対応する光 — 同じ球と箱を、4つのライトそれぞれで単独に照らしたもの。ソフトウェアの光は、現場の照明の縮尺模型である。"
+},
+{
+"key": "feature_lighting.html#160",
+"ja": "現場での作業"
+},
+{
+"key": "feature_lighting.html#161",
+"ja": "After Effects"
+},
+{
+"key": "feature_lighting.html#162",
+"ja": "Premiere Pro / Resolve"
+},
+{
+"key": "feature_lighting.html#163",
+"ja": "主なパラメーター · ヒント"
+},
+{
+"key": "feature_lighting.html#164",
+"ja": "スポットで1点を照らす"
+},
+{
+"key": "feature_lighting.html#165",
+"ja": "3D Spot Light · または白のSolidにMask + Feather、描画モードはAdd/Overlay"
+},
+{
+"key": "feature_lighting.html#166",
+"ja": "Lumetri Vignette（反転） · マスク付きCurves"
+},
+{
+"key": "feature_lighting.html#167",
+"ja": "マスクのFeather 200以上 · 不透明度20–40% · 縁にわずかな色（暖色）"
+},
+{
+"key": "feature_lighting.html#168",
+"ja": "窓格子 · 木の葉のゴボパターン"
+},
+{
+"key": "feature_lighting.html#169",
+"ja": "Fractal Noise → Levels → Track Matte / Light Transmission"
+},
+{
+"key": "feature_lighting.html#170",
+"ja": "マスク付きLumetri 2つ（明/暗）"
+},
+{
+"key": "feature_lighting.html#171",
+"ja": "Evolutionをゆっくりアニメートして「風に揺れる影」に"
+},
+{
+"key": "feature_lighting.html#172",
+"ja": "バックライトのリム · ブルーム"
+},
+{
+"key": "feature_lighting.html#173",
+"ja": "Light Wrap（Keylightと併用） · Glow（Threshold 70–85） · CC Light Rays"
+},
+{
+"key": "feature_lighting.html#174",
+"ja": "Lumetri Highlights↑ + Glow（プラグイン）"
+},
+{
+"key": "feature_lighting.html#175",
+"ja": "GlowのComposite Originalを「Behind」にして控えめに · Light Raysは光源の位置に合わせる"
+},
+{
+"key": "feature_lighting.html#176",
+"ja": "レンズフレア"
+},
+{
+"key": "feature_lighting.html#177",
+"ja": "Lens Flare（標準） · Optical Flares（プラグイン） · CC Light Burst 2.5"
+},
+{
+"key": "feature_lighting.html#178",
+"ja": "Lens Flare（標準）"
+},
+{
+"key": "feature_lighting.html#179",
+"ja": "光源の位置をトラッキングデータにリンク · 明るさ60–80% · Screen合成"
+},
+{
+"key": "feature_lighting.html#180",
+"ja": "ロゴに光を走らせる"
+},
+{
+"key": "feature_lighting.html#181",
+"ja": "CC Light Sweep · Shine（Trapcode）"
+},
+{
+"key": "feature_lighting.html#182",
+"ja": "Light Sweep（Legacy） · マスクアニメーション"
+},
+{
+"key": "feature_lighting.html#183",
+"ja": "Width 30–60 · Sweep Intensity 20–40 · 1秒以内に1回だけ、2回はやらない"
+},
+{
+"key": "feature_lighting.html#184",
+"ja": "影を落とす（合成）"
+},
+{
+"key": "feature_lighting.html#185",
+"ja": "Drop Shadow（2D） · Radial Shadow · 3D LightのCasts Shadows · Shadow Catcher"
+},
+{
+"key": "feature_lighting.html#186",
+"ja": "Drop Shadow（標準）"
+},
+{
+"key": "feature_lighting.html#187",
+"ja": "Softness 20–40 · Opacity 40–60 · 方向はキーライトに合わせる"
+},
+{
+"key": "feature_lighting.html#188",
+"ja": "全体の露出 · コントラストを整える"
+},
+{
+"key": "feature_lighting.html#189",
+"ja": "Lumetri Color · Curves · Exposure · Levels"
+},
+{
+"key": "feature_lighting.html#190",
+"ja": "Lumetri Basic：Exposure · Contrast · Highlights · Shadows · Whites · Blacks"
+},
+{
+"key": "feature_lighting.html#191",
+"ja": "順番：露出 → WB → コントラスト → ハイライト/シャドウ → 最後にルック"
+},
+{
+"key": "feature_lighting.html#192",
+"ja": "ネガティブフィル（暗くする）"
+},
+{
+"key": "feature_lighting.html#193",
+"ja": "黒のSolid + Mask + Multiply · Vignette"
+},
+{
+"key": "feature_lighting.html#194",
+"ja": "Lumetri Vignette Amount −1〜−2 · マスク付きCurves"
+},
+{
+"key": "feature_lighting.html#195",
+"ja": "縁を1段暗くすると、視線が中央へ動く"
+},
+{
+"key": "feature_lighting.html#196",
+"ja": "色温度変換フィルター"
+},
+{
+"key": "feature_lighting.html#197",
+"ja": "Tint · Color Balance · Lumetri Temperature"
+},
+{
+"key": "feature_lighting.html#198",
+"ja": "Lumetri Temperature / Tint"
+},
+{
+"key": "feature_lighting.html#199",
+"ja": "CTO風のルック：Temperature +10–20 · Color Wheelsでハイライトを暖色、シャドウを寒色に"
+},
+{
+"key": "feature_lighting.html#200",
+"ja": "プラクティカルのちらつき · ろうそくの光"
+},
+{
+"key": "feature_lighting.html#201",
+"ja": "Point LightのIntensityにwiggle(4, 20)エクスプレッション"
+},
+{
+"key": "feature_lighting.html#202",
+"ja": "不透明度のキーフレーム · プラグイン"
+},
+{
+"key": "feature_lighting.html#203",
+"ja": "周波数2–5 Hz、振幅10–20% — それ以上は壊れた蛍光灯になる"
+},
+{
+"key": "feature_lighting.html#204",
+"ja": "<b>ヒント</b>"
+},
+{
+"key": "feature_lighting.html#205",
+"ja": "ソフトウェアの光は現場の光に「足す」ものであって、「つくる」ものではない。撮影時に影の方向を1つに決めておけば、ポストプロダクションで何でも重ねられる。"
+},
+{
+"key": "feature_lighting.html#206",
+"ja": "名前は変わる（バージョン · プラグイン）。変わらないのは、<b>強さ → 方向 → 大きさ → 色</b>という順番と、影の方向は1つというルールである。"
+},
+{
+"key": "feature_lighting.html#207",
+"ja": "<small>見開き06</small>現場ライティングの早見表 — 10分でセッティングを終える手順"
+},
+{
+"key": "feature_lighting.html#208",
+"ja": "<b>01</b><i>消す</i>部屋の蛍光灯 · 余計な光をすべて消す。暗闇から始める。"
+},
+{
+"key": "feature_lighting.html#209",
+"ja": "<b>02</b><i>キー1灯</i>キーを被写体に対して45°/45°に置く。キーに露出を合わせる（f/2.8、ISO 800が基準）。"
+},
+{
+"key": "feature_lighting.html#210",
+"ja": "<b>03</b><i>フィル</i>反対側にレフ板、または1/3の強さのソフトライト。これでコントラスト比が決まる。"
+},
+{
+"key": "feature_lighting.html#211",
+"ja": "<b>04</b><i>分離</i>バック/リム、または背景ライト。背景は被写体より1段暗くする。"
+},
+{
+"key": "feature_lighting.html#212",
+"ja": "<b>05</b><i>色 · 整理</i>色温度をそろえ、バーンドア · フラッグで光漏れを切り、安全を確認する（サンドバッグ · ケーブル）。"
+},
+{
+"key": "feature_lighting.html#213",
+"ja": "<small>コントラスト比</small>キー : フィル"
+},
+{
+"key": "feature_lighting.html#214",
+"ja": "2:1（1段） — 明るい、コマーシャル、ビューティー"
+},
+{
+"key": "feature_lighting.html#215",
+"ja": "4:1（2段） — 標準的なドラマ、インタビュー"
+},
+{
+"key": "feature_lighting.html#216",
+"ja": "8:1以上（3段以上） — ノワール、スリラー"
+},
+{
+"key": "feature_lighting.html#217",
+"ja": "フィルなし — シルエット、スプリット"
+},
+{
+"key": "feature_lighting.html#218",
+"ja": "<small>色温度</small>混ぜるなら意図して"
+},
+{
+"key": "feature_lighting.html#219",
+"ja": "デイライト5600 K · タングステン3200 K · 蛍光灯4000–4500 K"
+},
+{
+"key": "feature_lighting.html#220",
+"ja": "窓 + タングステン → 窓にCTO、またはランプにCTB"
+},
+{
+"key": "feature_lighting.html#221",
+"ja": "混ぜるのは一方向だけ：「窓=寒色、室内=暖色」"
+},
+{
+"key": "feature_lighting.html#222",
+"ja": "カメラのWBはキーライトに合わせる"
+},
+{
+"key": "feature_lighting.html#223",
+"ja": "<small>安全</small>事故は照明から始まる"
+},
+{
+"key": "feature_lighting.html#224",
+"ja": "すべてのスタンドにサンドバッグ、ケーブルは床にテープで固定"
+},
+{
+"key": "feature_lighting.html#225",
+"ja": "タングステンから30 cm以内にフィルター · 布を置かない（火災）"
+},
+{
+"key": "feature_lighting.html#226",
+"ja": "負荷を合計する：家庭用回路1系統 ≈ 3 kW"
+},
+{
+"key": "feature_lighting.html#227",
+"ja": "2 mを超える高さは2人作業"
+},
+{
+"key": "feature_lighting.html#228",
+"ja": "症状"
+},
+{
+"key": "feature_lighting.html#229",
+"ja": "原因"
+},
+{
+"key": "feature_lighting.html#230",
+"ja": "対処"
+},
+{
+"key": "feature_lighting.html#231",
+"ja": "顔が平板に見える"
+},
+{
+"key": "feature_lighting.html#232",
+"ja": "キーがカメラ軸に近すぎる、またはアンビエントが多すぎる"
+},
+{
+"key": "feature_lighting.html#233",
+"ja": "キーを横 · 上へ30°動かす、余計な光を消す、ネガティブフィル"
+},
+{
+"key": "feature_lighting.html#234",
+"ja": "影が2つ出る"
+},
+{
+"key": "feature_lighting.html#235",
+"ja": "キーもフィルもハード"
+},
+{
+"key": "feature_lighting.html#236",
+"ja": "フィルをソフトに（バウンス）、強さは1/3"
+},
+{
+"key": "feature_lighting.html#237",
+"ja": "肌のテカリ"
+},
+{
+"key": "feature_lighting.html#238",
+"ja": "小さくハードな光源が正面から当たっている"
+},
+{
+"key": "feature_lighting.html#239",
+"ja": "ディフュージョン · ソフトボックス、メイクのパウダー、角度を上げる"
+},
+{
+"key": "feature_lighting.html#240",
+"ja": "背景が被写体と同じ明るさ"
+},
+{
+"key": "feature_lighting.html#241",
+"ja": "フラッドが背景まで届いている"
+},
+{
+"key": "feature_lighting.html#242",
+"ja": "バーンドア · フラッグ、キーを被写体に近づける（逆二乗）"
+},
+{
+"key": "feature_lighting.html#243",
+"ja": "メガネの反射"
+},
+{
+"key": "feature_lighting.html#244",
+"ja": "光源が目の高さで正面にある"
+},
+{
+"key": "feature_lighting.html#245",
+"ja": "キーを高く、横へ。メガネのつるを少し持ち上げる"
+},
+{
+"key": "feature_lighting.html#246",
+"ja": "緑かぶり"
+},
+{
+"key": "feature_lighting.html#247",
+"ja": "蛍光灯が混ざっている"
+},
+{
+"key": "feature_lighting.html#248",
+"ja": "蛍光灯を消す。またはWBを蛍光灯に合わせ、キーにプラスグリーンのフィルターをかける"
+},
+{
+"key": "feature_lighting.html#249",
+"ja": "フリッカー"
+},
+{
+"key": "feature_lighting.html#250",
+"ja": "シャッターがLED · HMIと同期していない"
+},
+{
+"key": "feature_lighting.html#251",
+"ja": "シャッター1/50（50 Hz）、フリッカーフリーの機材、テスト撮影"
+},
+{
+"key": "feature_lighting.html#252",
+"ja": "<small>演習</small>4.7+"
+},
+{
+"key": "feature_lighting.html#253",
+"ja": "課題"
+},
+{
+"key": "feature_lighting.html#254",
+"ja": "同じ被写体 · 同じ位置のまま、ピンスポット / スポット / フラッド / ソフト / アンビエントの5つの光で1カットずつ撮影する。カットごとにライティング配置図（上面図）を描く。そのうち1つを、After EffectsのSpot · Point · Ambientの3Dライトで再現する。"
+},
+{
+"key": "feature_lighting.html#255",
+"ja": "ヒント"
+},
+{
+"key": "feature_lighting.html#256",
+"ja": "機材がなければ、懐中電灯（ピンスポット）、デスクライト（スポット）、窓（ソフト）、曇りの日（アンビエント）で代用する。大切なのは、影の縁の違いを自分の目で確かめることだ。"
+},
+{
+"key": "feature_lighting.html#257",
+"ja": "評価"
+},
+{
+"key": "feature_lighting.html#258",
+"ja": "5カットの影の縁の違い、配置図への角度の記入、ソフトウェアでの再現における影の方向の一致"
+},
+{
+"key": "feature_lighting.html#259",
+"ja": "解答例"
+},
+{
+"key": "feature_lighting.html#260",
+"ja": "5カットを1つの画面に並べ、その光がどんな感情に合うかを1文ずつキャプションで添える。"
+},
+{
+"key": "part05.html#0",
+"ja": "PART"
+},
+{
+"key": "part05.html#1",
+"ja": "<small>PART</small>05"
+},
+{
+"key": "part05.html#2",
+"ja": "<b>このPARTで作るもの</b>"
+},
+{
+"key": "part05.html#3",
+"ja": "目的のあるカットで切り詰めた1分の編集"
+},
+{
+"key": "part05.html#4",
+"ja": "イージングをかけた5秒のロゴアニメーション"
+}
+]

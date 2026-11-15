@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#252",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#253",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#254",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#255",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#256",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#257",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#258",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#259",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#260",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#261",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#262",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#263",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#264",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#265",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#266",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#267",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#268",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#269",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#270",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#271",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#272",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#273",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#274",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#275",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#276",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#277",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#278",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#279",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#280",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#281",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#282",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#283",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#284",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#285",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#286",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#287",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#288",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#289",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#290",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#291",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#292",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#293",
+"ja": "CUT 09"
+},
+{
+"key": "templates.html#294",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#295",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#296",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#297",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#298",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#299",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#300",
+"ja": "ワイン色の点線 = 見出しエリア。カード1枚 = 1文。9枚で1セット。"
+},
+{
+"key": "templates.html#301",
+"ja": "絵コンテのテンプレート · 4:5フィード"
+},
+{
+"key": "templates.html#302",
+"ja": "Instagramフィードの最大の高さ · 1080×1350"
+},
+{
+"key": "templates.html#303",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#304",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#305",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#306",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#307",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#308",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#309",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#310",
+"ja": "SE"
+},
+{
+"key": "templates.html#311",
+"ja": "メモ"
+},
+{
+"key": "templates.html#312",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#313",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#314",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#315",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#316",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#317",
+"ja": "SE"
+},
+{
+"key": "templates.html#318",
+"ja": "メモ"
+},
+{
+"key": "templates.html#319",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#320",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#321",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#322",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#323",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#324",
+"ja": "SE"
+},
+{
+"key": "templates.html#325",
+"ja": "メモ"
+},
+{
+"key": "templates.html#326",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#327",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#328",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#329",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#330",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#331",
+"ja": "SE"
+},
+{
+"key": "templates.html#332",
+"ja": "メモ"
+},
+{
+"key": "templates.html#333",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#334",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#335",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#336",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#337",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#338",
+"ja": "SE"
+},
+{
+"key": "templates.html#339",
+"ja": "メモ"
+},
+{
+"key": "templates.html#340",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#341",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#342",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#343",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#344",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#345",
+"ja": "SE"
+},
+{
+"key": "templates.html#346",
+"ja": "メモ"
+},
+{
+"key": "templates.html#347",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#348",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#349",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#350",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#351",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#352",
+"ja": "SE"
+},
+{
+"key": "templates.html#353",
+"ja": "メモ"
+},
+{
+"key": "templates.html#354",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#355",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#356",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#357",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#358",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#359",
+"ja": "SE"
+},
+{
+"key": "templates.html#360",
+"ja": "メモ"
+},
+{
+"key": "templates.html#361",
+"ja": "CUT 09"
+},
+{
+"key": "templates.html#362",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#363",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#364",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#365",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#366",
+"ja": "SE"
+},
+{
+"key": "templates.html#367",
+"ja": "メモ"
+},
+{
+"key": "templates.html#368",
+"ja": "フィードで最も大きく表示される比率。16:9の素材は左右で44%を失う。"
+},
+{
+"key": "templates.html#369",
+"ja": "絵コンテのテンプレート · 2:1 360度·VR"
+},
+{
+"key": "templates.html#370",
+"ja": "正距円筒図法の展開図 — 全周 · 4096×2048 · 7680×3840"
+},
+{
+"key": "templates.html#371",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#372",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#373",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#374",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#375",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#376",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#377",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#378",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#379",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#380",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#381",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#382",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#383",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#384",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#385",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#386",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#387",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#388",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#389",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#390",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#391",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#392",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#393",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#394",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#395",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#396",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#397",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#398",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#399",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#400",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#401",
+"ja": "CUT 05"
+}
+]

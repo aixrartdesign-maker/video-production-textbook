@@ -1,0 +1,4 @@
+[
+{"key": "part13.html#135", "find": "自社ビル", "replace": "自前の建物", "why": "other: 自社ビル is for companies; art center's own building"},
+{"key": "part13.html#260", "find": "「一度でも消えていなかったか」", "replace": "「一度でも消えたか」", "why": "meaning: 'was it ever off?' — current text reads as the opposite"}
+]

@@ -1,0 +1,374 @@
+[
+{
+"key": "templates.html#402",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#403",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#404",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#405",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#406",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#407",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#408",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#409",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#410",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#411",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#412",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#413",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#414",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#415",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#416",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#417",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#418",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#419",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#420",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#421",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#422",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#423",
+"ja": "0°正面"
+},
+{
+"key": "templates.html#424",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#425",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#426",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#427",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#428",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#429",
+"ja": "ワイン色の枠 = 正面90°（ヘッドセットの1視野分）。出来事は±30°以内に収め、背後は音で補う。視点マップも併せて描く。"
+},
+{
+"key": "templates.html#430",
+"ja": "絵コンテのテンプレート · 曲面·全周LED"
+},
+{
+"key": "templates.html#431",
+"ja": "円筒の展開図 — 没入型展示ホール · 弧長 : 高さ（例：9400×2000）"
+},
+{
+"key": "templates.html#432",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#433",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#434",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#435",
+"ja": "目線の帯"
+},
+{
+"key": "templates.html#436",
+"ja": "左端"
+},
+{
+"key": "templates.html#437",
+"ja": "正面"
+},
+{
+"key": "templates.html#438",
+"ja": "右端"
+},
+{
+"key": "templates.html#439",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#440",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#441",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#442",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#443",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#444",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#445",
+"ja": "目線の帯"
+},
+{
+"key": "templates.html#446",
+"ja": "左端"
+},
+{
+"key": "templates.html#447",
+"ja": "正面"
+},
+{
+"key": "templates.html#448",
+"ja": "右端"
+},
+{
+"key": "templates.html#449",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#450",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#451",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#452",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#453",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#454",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#455",
+"ja": "目線の帯"
+},
+{
+"key": "templates.html#456",
+"ja": "左端"
+},
+{
+"key": "templates.html#457",
+"ja": "正面"
+},
+{
+"key": "templates.html#458",
+"ja": "右端"
+},
+{
+"key": "templates.html#459",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#460",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#461",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#462",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#463",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#464",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#465",
+"ja": "目線の帯"
+},
+{
+"key": "templates.html#466",
+"ja": "左端"
+},
+{
+"key": "templates.html#467",
+"ja": "正面"
+},
+{
+"key": "templates.html#468",
+"ja": "右端"
+},
+{
+"key": "templates.html#469",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#470",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#471",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#472",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#473",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#474",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#475",
+"ja": "目線の帯"
+},
+{
+"key": "templates.html#476",
+"ja": "左端"
+},
+{
+"key": "templates.html#477",
+"ja": "正面"
+},
+{
+"key": "templates.html#478",
+"ja": "右端"
+},
+{
+"key": "templates.html#479",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#480",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#481",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#482",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#483",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#484",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#485",
+"ja": "目線の帯"
+},
+{
+"key": "templates.html#486",
+"ja": "左端"
+},
+{
+"key": "templates.html#487",
+"ja": "正面"
+},
+{
+"key": "templates.html#488",
+"ja": "右端"
+},
+{
+"key": "templates.html#489",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#490",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#491",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#492",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#493",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#494",
+"ja": "点線 = モジュールの継ぎ目（文字は置かない）。文字·顔は目線の帯（床から1.4–1.8 m）だけに。"
+}
+]

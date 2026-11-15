@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#102",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#103",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#104",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#105",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#106",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#107",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#108",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#109",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#110",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#111",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#112",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#113",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#114",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#115",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#116",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#117",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#118",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#119",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#120",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#121",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#122",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#123",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#124",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#125",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#126",
+"ja": "CUT 09"
+},
+{
+"key": "templates.html#127",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#128",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#129",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#130",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#131",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#132",
+"ja": "16:9納品用にレターボックスを付ける。1カットに2人。横の余白が物語を語る。"
+},
+{
+"key": "templates.html#133",
+"ja": "絵コンテのテンプレート · 9:16"
+},
+{
+"key": "templates.html#134",
+"ja": "Reels·Shorts·TikTok — 縦型の基本 · 1080×1920"
+},
+{
+"key": "templates.html#135",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#136",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#137",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#138",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#139",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#140",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#141",
+"ja": "SE"
+},
+{
+"key": "templates.html#142",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#143",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#144",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#145",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#146",
+"ja": "SE"
+},
+{
+"key": "templates.html#147",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#148",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#149",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#150",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#151",
+"ja": "SE"
+},
+{
+"key": "templates.html#152",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#153",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#154",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#155",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#156",
+"ja": "SE"
+},
+{
+"key": "templates.html#157",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#158",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#159",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#160",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#161",
+"ja": "SE"
+},
+{
+"key": "templates.html#162",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#163",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#164",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#165",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#166",
+"ja": "SE"
+},
+{
+"key": "templates.html#167",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#168",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#169",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#170",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#171",
+"ja": "SE"
+},
+{
+"key": "templates.html#172",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#173",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#174",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#175",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#176",
+"ja": "SE"
+},
+{
+"key": "templates.html#177",
+"ja": "CUT 09"
+},
+{
+"key": "templates.html#178",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#179",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#180",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#181",
+"ja": "SE"
+},
+{
+"key": "templates.html#182",
+"ja": "グレー = プラットフォームのUIの重なり（上14%·下25%·右側のボタン）。顔は上1/3、テロップは中央の帯に。"
+},
+{
+"key": "templates.html#183",
+"ja": "絵コンテのテンプレート · 9:21"
+},
+{
+"key": "templates.html#184",
+"ja": "縦型LED·サイネージ — 柱 · 1080×2520"
+},
+{
+"key": "templates.html#185",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#186",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#187",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#188",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#189",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#190",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#191",
+"ja": "SE"
+},
+{
+"key": "templates.html#192",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#193",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#194",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#195",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#196",
+"ja": "SE"
+},
+{
+"key": "templates.html#197",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#198",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#199",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#200",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#201",
+"ja": "SE"
+},
+{
+"key": "templates.html#202",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#203",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#204",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#205",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#206",
+"ja": "SE"
+},
+{
+"key": "templates.html#207",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#208",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#209",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#210",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#211",
+"ja": "SE"
+},
+{
+"key": "templates.html#212",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#213",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#214",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#215",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#216",
+"ja": "SE"
+},
+{
+"key": "templates.html#217",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#218",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#219",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#220",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#221",
+"ja": "SE"
+},
+{
+"key": "templates.html#222",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#223",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#224",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#225",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#226",
+"ja": "SE"
+},
+{
+"key": "templates.html#227",
+"ja": "CUT 09"
+},
+{
+"key": "templates.html#228",
+"ja": "SIZE"
+},
+{
+"key": "templates.html#229",
+"ja": "MOVE"
+},
+{
+"key": "templates.html#230",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#231",
+"ja": "SE"
+},
+{
+"key": "templates.html#232",
+"ja": "演出は上→下へ流す。2 m以上離れて見る → 文字は60 px以上。"
+},
+{
+"key": "templates.html#233",
+"ja": "絵コンテのテンプレート · 1:1カルーセル"
+},
+{
+"key": "templates.html#234",
+"ja": "フィード·カルーセル — 正方形 · 1080×1080"
+},
+{
+"key": "templates.html#235",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#236",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#237",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#238",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#239",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#240",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#241",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#242",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#243",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#244",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#245",
+"ja": "見出しエリア"
+},
+{
+"key": "templates.html#246",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#247",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#248",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#249",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#250",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#251",
+"ja": "CUT 03"
+}
+]

@@ -1,0 +1,4 @@
+[
+{"key": "part00.html#2", "find": "映像制作 実践テキスト — ", "replace": "『映像制作 実践テキスト』 — ", "why": "term: fixed book title with 『』"},
+{"key": "part02.html#29", "find": "韻律・リズム・音調・知的モンタージュ", "replace": "計量的・律動的・音調的・知的モンタージュ", "why": "meaning: standard Japanese terms for Eisenstein's metric/rhythmic/tonal montage"}
+]

@@ -1,0 +1,642 @@
+[
+{
+"key": "part04.html#751",
+"ja": "<span class=\"ph-id\">P04-SLEEP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>8時間の雨音 — 睡眠用音源の動画</b>ベッド脇のスマートフォンで再生される、窓を打つ雨の動画</span>"
+},
+{
+"key": "part04.html#752",
+"ja": "<b>d</b>8時間の雨音 — 睡眠用音源の動画"
+},
+{
+"key": "part04.html#753",
+"ja": "映像の腕が伸び悩んでいると感じたら、音に取り組むのがいちばんの近道だ。<small>4.10 効果音とフォーリー</small>"
+},
+{
+"key": "part04.html#754",
+"ja": "音と質感を集めに出かける"
+},
+{
+"key": "part04.html#755",
+"ja": "<b>音を録りに出かける — フィールドレコーディング</b><span>夜明けの本物の森、本物の波。ライブラリー音源は誰もが使うので、「自分だけの音」を録る。ショットガン + 風防 + ポータブルレコーダー、午前4–6時、風速3 m/s以下</span>"
+},
+{
+"key": "part04.html#756",
+"ja": "<b>質感を採りに出かける — フォトグラメトリーのスキャン</b><span>岩 · 樹皮 · 壁を数十枚撮影し、3Dテクスチャーにする。曇りの日、カラーチャート1枚、重なり70%。生成AIにつくれないのは「その場所の手ざわり」だ</span>"
+},
+{
+"key": "part04.html#757",
+"ja": "<b>図 44-1</b> 音と質感は外にある — 素材を買うのではなく、集める人たち。作家の個性は、ライブラリーからではなく足で稼ぐことから生まれる。"
+},
+{
+"key": "part04.html#758",
+"ja": "<small>演習</small>4.10"
+},
+{
+"key": "part04.html#759",
+"ja": "課題"
+},
+{
+"key": "part04.html#760",
+"ja": "足音、ドア、雨など、家にある物で5つのフォーリー効果音をつくり、シーンに重ねる。"
+},
+{
+"key": "part04.html#761",
+"ja": "ヒント"
+},
+{
+"key": "part04.html#762",
+"ja": "静かな部屋でマイクを近づけて録音し、動作のタイミングを映像に合わせる。"
+},
+{
+"key": "part04.html#763",
+"ja": "評価"
+},
+{
+"key": "part04.html#764",
+"ja": "同期の正確さ、音のリアリティ"
+},
+{
+"key": "part04.html#765",
+"ja": "解答例"
+},
+{
+"key": "part04.html#766",
+"ja": "本物より「それらしく」聞こえる音を見つけ、使った材料を明かす。"
+},
+{
+"key": "part04.html#767",
+"ja": "PART 04 まとめ"
+},
+{
+"key": "part04.html#768",
+"ja": "演習と振り返り"
+},
+{
+"key": "part04.html#769",
+"ja": "<b>1灯で4つのパターン</b>ライト1灯または窓1つで、人物のクローズアップをレンブラント、スプリット、バタフライ、リムの各ライティングで撮り、4枚を比較する。"
+},
+{
+"key": "part04.html#770",
+"ja": "<b>ハイキー対ローキー</b>同じ商品をハイキーとローキーで撮り、どちらが高価に見えるかを10人に尋ねる。"
+},
+{
+"key": "part04.html#771",
+"ja": "<b>距離と音質</b>同じセリフをスマートフォンで30 cm、1 m、3 mの距離から録音し、比較する。距離が音質にどう影響するかを聞き取る。"
+},
+{
+"key": "part04.html#772",
+"ja": "<b>効果音だけでやり直す</b>自分で撮った映像から音をすべて外し、新しい効果音だけを重ねる。音が画の質感をどう変えるかを体感できる。"
+},
+{
+"key": "part04.html#773",
+"ja": "1ページまとめ"
+},
+{
+"key": "part04.html#774",
+"ja": "4.1 光の5つの性質"
+},
+{
+"key": "part04.html#775",
+"ja": "逆二乗の法則を使えば、ライトを買い足さなくても背景を暗く落とせる。"
+},
+{
+"key": "part04.html#776",
+"ja": "4.2 3点照明とその応用"
+},
+{
+"key": "part04.html#777",
+"ja": "照明比は、明るい広告で2:1、標準的なドラマで4:1、劇的な雰囲気なら8:1以上。"
+},
+{
+"key": "part04.html#778",
+"ja": "4.3 キーライトの6つのパターン"
+},
+{
+"key": "part04.html#779",
+"ja": "キーライトだけで画を仕上げてみる。柔らかさは大きさと距離で決まる。"
+},
+{
+"key": "part04.html#780",
+"ja": "4.4 ハイキーとローキー"
+},
+{
+"key": "part04.html#781",
+"ja": "ローキーとは暗く撮ることではない。明るい部分を正確に露出し、残りをコントロールすることだ。"
+},
+{
+"key": "part04.html#782",
+"ja": "4.5 商品広告のライティング"
+},
+{
+"key": "part04.html#783",
+"ja": "素材が方法を決める。光は、足すのと同じだけ引く。"
+},
+{
+"key": "part04.html#784",
+"ja": "4.6 クロマキーのライティング"
+},
+{
+"key": "part04.html#785",
+"ja": "被写体と背景を2 m離し、別々に照明する。"
+},
+{
+"key": "part04.html#786",
+"ja": "4.7 低予算のライティング"
+},
+{
+"key": "part04.html#787",
+"ja": "窓 · スチレンボード · トレーシングペーパー · 黒布。熱と転倒事故に注意する。"
+},
+{
+"key": "part04.html#788",
+"ja": "4.8 マイクと録音"
+},
+{
+"key": "part04.html#789",
+"ja": "近くの安いマイクは遠くの高いマイクに勝つ。ピークは−12〜−6 dBFS、ルームトーンは30秒。"
+},
+{
+"key": "part04.html#790",
+"ja": "4.9 サウンドデザインの4つのレイヤー"
+},
+{
+"key": "part04.html#791",
+"ja": "音楽を最初に決め、サウンドロゴは最後の2–3秒に入れる。音楽ライセンスの証明を保管する。"
+},
+{
+"key": "part04.html#792",
+"ja": "4.10 効果音とフォーリー"
+},
+{
+"key": "part04.html#793",
+"ja": "効果音はフレームに合わせる。音に取り組むのがいちばんの近道だ。"
+},
+{
+"key": "part04.html#794",
+"ja": "セルフチェック"
+},
+{
+"key": "part04.html#795",
+"ja": "逆二乗の法則を使って背景の明るさをコントロールできるか？"
+},
+{
+"key": "part04.html#796",
+"ja": "4:1の照明比が何を意味するか説明できるか？"
+},
+{
+"key": "part04.html#797",
+"ja": "クロマキーで被写体と背景を離す理由を説明できるか？"
+},
+{
+"key": "part04.html#798",
+"ja": "録音レベルのセーフゾーンを数値で言えるか？"
+},
+{
+"key": "part04.html#799",
+"ja": "ルームトーンが必要な理由を説明できるか？"
+},
+{
+"key": "part04.html#800",
+"ja": "考えてみよう"
+},
+{
+"key": "part04.html#801",
+"ja": "自分が作った動画で、顔が暗く写ってしまったことはあるか？"
+},
+{
+"key": "part04.html#802",
+"ja": "そのとき、光を足すべきだったか、それとも引くべきだったか？"
+},
+{
+"key": "part04.html#803",
+"ja": "音の悪い動画と画の悪い動画、先に消すのはどちらか？"
+},
+{
+"key": "part04.html#804",
+"ja": "それはなぜか？"
+},
+{
+"key": "feature_lighting.html#0",
+"ja": "特集 · ライティングの道具"
+},
+{
+"key": "feature_lighting.html#1",
+"ja": "光の道具 —<br>照明機材、ビーム、ソフトウェアの光"
+},
+{
+"key": "feature_lighting.html#2",
+"ja": "ライティングを学ぶとは、機材の名前を覚えることではない。どの道具が光の<b>大きさ · 距離 · 角度 · 強さ · 色</b>をコントロールするのかを知ることだ。この特集では、現場で使われる実際の照明機材とモディファイヤー、ピンスポットからアンビエントまでのビーム、そして同じ光を再現するAfter Effects · Premiereの機能を、1枚の地図にまとめる。"
+},
+{
+"key": "feature_lighting.html#3",
+"ja": "<small>見開き01</small>光源の地図 — 12の照明機材と、それぞれがつくる光"
+},
+{
+"key": "feature_lighting.html#4",
+"ja": "<b>参考写真 4.7A</b>生成画像 — 12の光源"
+},
+{
+"key": "feature_lighting.html#5",
+"ja": "<span class=\"ph-id\">P04-FRESNEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>フレネル</b></span>"
+},
+{
+"key": "feature_lighting.html#6",
+"ja": "<b>フレネル</b>タングステン650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#7",
+"ja": "<span class=\"ph-id\">P04-OPENFACE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>オープンフェイス · レッドヘッド</b></span>"
+},
+{
+"key": "feature_lighting.html#8",
+"ja": "<b>オープンフェイス · レッドヘッド</b>800 W–2Kタングステン"
+},
+{
+"key": "feature_lighting.html#9",
+"ja": "<span class=\"ph-id\">P04-HMI</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>HMI · PAR</b></span>"
+},
+{
+"key": "feature_lighting.html#10",
+"ja": "<b>HMI · PAR</b>575 W–18K · 5600 K"
+},
+{
+"key": "feature_lighting.html#11",
+"ja": "<span class=\"ph-id\">P04-LEDPANEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LEDパネル（バイカラー）</b></span>"
+},
+{
+"key": "feature_lighting.html#12",
+"ja": "<b>LEDパネル（バイカラー）</b>30–200 W · 2700–6500 K"
+},
+{
+"key": "feature_lighting.html#13",
+"ja": "<span class=\"ph-id\">P04-COBSOFT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LED COB + ソフトボックス</b></span>"
+},
+{
+"key": "feature_lighting.html#14",
+"ja": "<b>LED COB + ソフトボックス</b>100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#15",
+"ja": "<span class=\"ph-id\">P04-TUBE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LEDチューブRGBWW</b></span>"
+},
+{
+"key": "feature_lighting.html#16",
+"ja": "<b>LEDチューブRGBWW</b>30–120 cm · フルカラー"
+},
+{
+"key": "feature_lighting.html#17",
+"ja": "<span class=\"ph-id\">P04-KINO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>キノフロ · 蛍光灯バンク</b></span>"
+},
+{
+"key": "feature_lighting.html#18",
+"ja": "<b>キノフロ · 蛍光灯バンク</b>4 ft 4灯"
+},
+{
+"key": "feature_lighting.html#19",
+"ja": "<span class=\"ph-id\">P04-RING</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>リングライト</b></span>"
+},
+{
+"key": "feature_lighting.html#20",
+"ja": "<b>リングライト</b>10–60 W"
+},
+{
+"key": "feature_lighting.html#21",
+"ja": "<span class=\"ph-id\">P04-CHINABALL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>チャイナボール · ランタン</b></span>"
+},
+{
+"key": "feature_lighting.html#22",
+"ja": "<b>チャイナボール · ランタン</b>電球 + 紙/布の球体"
+},
+{
+"key": "feature_lighting.html#23",
+"ja": "<span class=\"ph-id\">P04-DEDO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>デドライト · ピンスポット</b></span>"
+},
+{
+"key": "feature_lighting.html#24",
+"ja": "<b>デドライト · ピンスポット</b>40–150 W · 4–50°"
+},
+{
+"key": "feature_lighting.html#25",
+"ja": "<span class=\"ph-id\">P04-PRACTICAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>プラクティカル（画面内の光源）</b></span>"
+},
+{
+"key": "feature_lighting.html#26",
+"ja": "<b>プラクティカル（画面内の光源）</b>ランプ · ネオン · ろうそく · テレビ"
+},
+{
+"key": "feature_lighting.html#27",
+"ja": "<span class=\"ph-id\">P04-REFLECTOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>レフ板 · 黒布</b></span>"
+},
+{
+"key": "feature_lighting.html#28",
+"ja": "<b>レフ板 · 黒布</b>電源のいらない光"
+},
+{
+"key": "feature_lighting.html#29",
+"ja": "機材"
+},
+{
+"key": "feature_lighting.html#30",
+"ja": "出力 · 色温度"
+},
+{
+"key": "feature_lighting.html#31",
+"ja": "光の質と用途"
+},
+{
+"key": "feature_lighting.html#32",
+"ja": "対応するAE 3Dライト"
+},
+{
+"key": "feature_lighting.html#33",
+"ja": "フレネル"
+},
+{
+"key": "feature_lighting.html#34",
+"ja": "タングステン650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#35",
+"ja": "ハード→ミディアム、スポット/フラッド10–60°。キー · バックライトの標準"
+},
+{
+"key": "feature_lighting.html#36",
+"ja": "Spot · Cone 30–60 · Feather 50"
+},
+{
+"key": "feature_lighting.html#37",
+"ja": "オープンフェイス · レッドヘッド"
+},
+{
+"key": "feature_lighting.html#38",
+"ja": "800 W–2Kタングステン"
+},
+{
+"key": "feature_lighting.html#39",
+"ja": "レンズなし → 広く、荒いハードライト。ディフューズ · バウンスの光源に"
+},
+{
+"key": "feature_lighting.html#40",
+"ja": "Point · Intensity↑ · 急な減衰"
+},
+{
+"key": "feature_lighting.html#41",
+"ja": "HMI · PAR"
+},
+{
+"key": "feature_lighting.html#42",
+"ja": "太陽光を再現。バラスト · 発電機 · フリッカーを確認"
+},
+{
+"key": "feature_lighting.html#43",
+"ja": "Parallel · くっきりした影"
+},
+{
+"key": "feature_lighting.html#44",
+"ja": "LEDパネル（バイカラー）"
+},
+{
+"key": "feature_lighting.html#45",
+"ja": "面光源 · 軽量 · バッテリー駆動。1.5 m以内のフィル · 補助光"
+},
+{
+"key": "feature_lighting.html#46",
+"ja": "大きなSpot · Feather 100 / Ambient"
+},
+{
+"key": "feature_lighting.html#47",
+"ja": "LED COB + ソフトボックス"
+},
+{
+"key": "feature_lighting.html#48",
+"ja": "100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#49",
+"ja": "小規模な現場の標準キー。ボックスの大きさ = 柔らかさ"
+},
+{
+"key": "feature_lighting.html#50",
+"ja": "Spot · Cone 90 · Feather 100"
+},
+{
+"key": "feature_lighting.html#51",
+"ja": "LEDチューブRGBWW"
+},
+{
+"key": "feature_lighting.html#52",
+"ja": "30–120 cm · フルカラー"
+},
+{
+"key": "feature_lighting.html#53",
+"ja": "線光源 → 長いハイライト。ネオン · プラクティカル風の色味"
+},
+{
+"key": "feature_lighting.html#54",
+"ja": "細長いSolid + Glow / Light Sweep"
+},
+{
+"key": "feature_lighting.html#55",
+"ja": "キノフロ · 蛍光灯バンク"
+},
+{
+"key": "feature_lighting.html#56",
+"ja": "4 ft 4灯"
+},
+{
+"key": "feature_lighting.html#57",
+"ja": "広く均一なソフトライト。インタビュー · クロマキーの背景"
+},
+{
+"key": "feature_lighting.html#58",
+"ja": "Ambient + 広いSpot 2灯"
+},
+{
+"key": "feature_lighting.html#59",
+"ja": "リングライト"
+},
+{
+"key": "feature_lighting.html#60",
+"ja": "影のない正面光。ビューティー · トーク専用"
+},
+{
+"key": "feature_lighting.html#61",
+"ja": "カメラ位置にPoint + 低コントラスト"
+},
+{
+"key": "feature_lighting.html#62",
+"ja": "チャイナボール · ランタン"
+},
+{
+"key": "feature_lighting.html#63",
+"ja": "電球 + 紙/布の球体"
+},
+{
+"key": "feature_lighting.html#64",
+"ja": "全方向に柔らかい光。頭上の「部屋の明かり」、ブームライト"
+},
+{
+"key": "feature_lighting.html#65",
+"ja": "Point · Falloff Smooth"
+},
+{
+"key": "feature_lighting.html#66",
+"ja": "デドライト · ピンスポット"
+},
+{
+"key": "feature_lighting.html#67",
+"ja": "シャープなビーム。商品のアクセント · キャッチライト · ゴボ投影"
+},
+{
+"key": "feature_lighting.html#68",
+"ja": "Spot · Cone 5–10 · Feather 10–20"
+},
+{
+"key": "feature_lighting.html#69",
+"ja": "プラクティカル（画面内の光源）"
+},
+{
+"key": "feature_lighting.html#70",
+"ja": "ランプ · ネオン · ろうそく · テレビ"
+},
+{
+"key": "feature_lighting.html#71",
+"ja": "光の「言い訳」。電球の交換 · 調光器で露出を合わせる"
+},
+{
+"key": "feature_lighting.html#72",
+"ja": "同じ位置にGlow + Point"
+},
+{
+"key": "feature_lighting.html#73",
+"ja": "レフ板 · 黒布"
+},
+{
+"key": "feature_lighting.html#74",
+"ja": "電源のいらない光"
+},
+{
+"key": "feature_lighting.html#75",
+"ja": "白=ソフト、銀=ハード、金=暖色、黒=引く"
+},
+{
+"key": "feature_lighting.html#76",
+"ja": "Ambient↓ / 暗いSolidのマスク"
+},
+{
+"key": "feature_lighting.html#77",
+"ja": "機材名より先に確認すること：ハードかソフトか、狭いか広いか、何Kか。最後の列は、同じ光を再現するAfter Effectsの3Dライトである。"
+},
+{
+"key": "feature_lighting.html#78",
+"ja": "<small>見開き02</small>ピンスポットからアンビエントまで — ビーム角で決まる5つの光"
+},
+{
+"key": "feature_lighting.html#79",
+"ja": "ピンスポットからアンビエントまで — ビーム角で決まる5つの光"
+},
+{
+"key": "feature_lighting.html#80",
+"ja": "<b>ピンスポット</b><span class=\"deg\">4–10° · きわめて狭い</span><span>顔1つだけ — ステージのソロ、商品のハイライト</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"ja": "<b>スポット</b><span class=\"deg\">15–30° · 狭い</span><span>縁の見える円 — フレネル、Leko · アクセントと分離</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"ja": "<b>フラッド</b><span class=\"deg\">45–70° · 広い</span><span>広く均一 — オープンフェイス、LEDパネル · ベースライト</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"ja": "<b>ソフト</b><span class=\"deg\">拡散 · 縁なし</span><span>包み込む光 — ソフトボックス、ブックライト · 肌 · インタビュー</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"ja": "<b>アンビエント</b><span class=\"deg\">無指向 · 全周</span><span>影のないベースの明るさ — 天井バウンス、曇りの日</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"ja": "<span>← 狭い · ハード · 縁がくっきり · 劇的</span><span>広い · ソフト · 縁なし · 全体 →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"ja": "<b>図版 LT-2</b> ビーム角による5つの光 — 同じ人物、同じ位置。変えたのはランプの前の道具だけ。左へ行くほど「何を見せるか」を、右へ行くほど「どれだけ明るくするか」を決める。"
+},
+{
+"key": "feature_lighting.html#87",
+"ja": "ビーム"
+},
+{
+"key": "feature_lighting.html#88",
+"ja": "角度"
+},
+{
+"key": "feature_lighting.html#89",
+"ja": "影の縁"
+},
+{
+"key": "feature_lighting.html#90",
+"ja": "用途"
+},
+{
+"key": "feature_lighting.html#91",
+"ja": "代表的な機材 · アクセサリー"
+},
+{
+"key": "feature_lighting.html#92",
+"ja": "AE 3Dライトの設定"
+},
+{
+"key": "feature_lighting.html#93",
+"ja": "よくある失敗"
+},
+{
+"key": "feature_lighting.html#94",
+"ja": "ピンスポット"
+},
+{
+"key": "feature_lighting.html#95",
+"ja": "きわめて鋭い"
+},
+{
+"key": "feature_lighting.html#96",
+"ja": "商品1点のアクセント、キャッチライト、ゴボのパターン"
+},
+{
+"key": "feature_lighting.html#97",
+"ja": "デドライト、スヌート、プロジェクションアタッチメント"
+},
+{
+"key": "feature_lighting.html#98",
+"ja": "Spot · Cone 5–10 · Feather 10"
+},
+{
+"key": "feature_lighting.html#99",
+"ja": "顔にピンスポット → まだらになる"
+},
+{
+"key": "feature_lighting.html#100",
+"ja": "スポット"
+},
+{
+"key": "feature_lighting.html#101",
+"ja": "はっきり"
+},
+{
+"key": "feature_lighting.html#102",
+"ja": "人物のキー（劇的）、ステージ、バックライト"
+},
+{
+"key": "feature_lighting.html#103",
+"ja": "フレネルのスポット、COBの標準リフレクター、バーンドア"
+},
+{
+"key": "feature_lighting.html#104",
+"ja": "Spot · Cone 30 · Feather 40"
+},
+{
+"key": "feature_lighting.html#105",
+"ja": "バーンドアなしで壁に光が漏れる"
+}
+]

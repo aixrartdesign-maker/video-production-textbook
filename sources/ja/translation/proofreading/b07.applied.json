@@ -1,0 +1,50 @@
+[
+ {
+  "key": "part05.html#729",
+  "find": "loopOut('cycle')",
+  "replace": "loopOut()",
+  "why": "meaning: code altered, source is loopOut()"
+ },
+ {
+  "key": "part05.html#726",
+  "find": "周波数、振幅",
+  "replace": "周波数, 振幅",
+  "why": "typography: half-width comma inside code syntax, as in linear(...)"
+ },
+ {
+  "key": "part05.html#339",
+  "find": "スピルサプレッション、高度なスピルサプレッション",
+  "replace": "スピルサプレッサー、高度なスピルサプレッサー",
+  "why": "term: AE Japanese effect names"
+ },
+ {
+  "key": "part05.html#420",
+  "find": "高度なスピルサプレッション",
+  "replace": "高度なスピルサプレッサー",
+  "why": "term: AE Japanese effect name"
+ },
+ {
+  "key": "part05.html#422",
+  "find": "高度なスピルサプレッション",
+  "replace": "高度なスピルサプレッサー",
+  "why": "term: AE Japanese effect name"
+ },
+ {
+  "key": "part05.html#426",
+  "find": "生成延長",
+  "replace": "生成拡張",
+  "why": "term: Premiere Japanese feature name (Generative Extend)"
+ },
+ {
+  "key": "part05.html#428",
+  "find": "生成延長",
+  "replace": "生成拡張",
+  "why": "term: Premiere Japanese feature name (Generative Extend)"
+ },
+ {
+  "key": "part07.html#208",
+  "find": "演出家が持つのは",
+  "replace": "監督が持つのは",
+  "why": "term: director → 監督"
+ }
+]

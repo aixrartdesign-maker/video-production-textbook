@@ -1,0 +1,5 @@
+[
+ {"key": "part14b.html#461", "find": "光量を比例させる注意書き", "replace": "光量をフレームレートに比例させる注意書き", "why": "other: unclear phrasing, light scales with frame rate"},
+ {"key": "part14b.html#470", "find": "照度と光の単位を扱う", "replace": "照度と光出力の単位を扱う", "why": "meaning: 'light output' dropped"},
+ {"key": "part14b.html#486", "find": "PPM資料を形だけで書く", "replace": "PPM資料を形式的に書く", "why": "other: unnatural phrasing for 'as a formality'"}
+]

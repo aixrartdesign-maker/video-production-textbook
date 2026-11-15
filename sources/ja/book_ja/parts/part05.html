@@ -1,0 +1,654 @@
+<!-- PART 05 편집과 후반 작업 -->
+<section class="part" id="part5">
+  <div class="photo"><img src="img_new/OPEN-EDIT.jpg" alt=""><div class="label">PART</div><div class="num"><small>PART</small>05</div></div>
+  <div class="body">
+    <div class="makes"><b>このPARTで作るもの</b><ol><li>目的のあるカットで切り詰めた1分の編集</li><li>イージングをかけた5秒のロゴアニメーション</li><li>合成 · グレーディング · 出力仕様を満たした納品用マスター</li></ol></div>
+    <div><h1>編集とポストプロダクション</h1><p class="intro">撮影は素材を集め、編集は意味をつくる。順番と長さを変えれば、同じ素材が別の映像になる。このPARTでは、編集の歴史と原理から、Premiere Pro、After Effects、DaVinci Resolveの地図へと進む。この章を開く問いはこれだ。人は何があれば最後まで見続けるのか？</p></div>
+  </div>
+  <div class="credit">写真 P-05 夜の編集室 — タイムラインとグレーディングモニター · 生成画像</div>
+</section>
+
+<section class="howto page">
+  <figure class="hero wide"><img src="img/p183_210_1344x752.png" alt=""><figcaption><b>P-05</b> 夜の編集室 — タイムラインとグレーディングモニター</figcaption></figure>
+  <div class="kicker">授業での使い方</div>
+  <p class="goal">理由をもって切り、イージングをかける</p>
+  <p class="prep"><b>準備するもの</b>インストール済みの編集アプリ、練習用素材のフォルダー、音楽1曲</p>
+  <div class="timeline">
+    <div class="slot"><b>10分</b><i>導入</i><span>音楽を先に敷いた編集と、最後に入れた編集を見比べる</span></div>
+    <div class="slot"><b>15分</b><i>概念</i><span>編集の8原則、アクションカットとマッチカット、PremiereとAfter Effectsの役割の違い</span></div>
+    <div class="slot"><b>10分</b><i>図版</i><span>バウンドするボールとタイミング図でイージングを説明する</span></div>
+    <div class="slot"><b>10分</b><i>演習</i><span>同じ素材で30秒の編集を2通り作る</span></div>
+    <div class="slot"><b>5分</b><i>まとめ</i><span>プロジェクトフォルダーの命名ルールを決める</span></div>
+  </div>
+  <div class="check"><b>チェックポイント</b>各カットを入れた理由を1行で言える</div>
+</section>
+
+<section class="essay page" id="intro-5">
+  <header><div class="crumb">PART 05</div><h2>はじめに</h2></header>
+  <div class="cols">
+    <p>撮影は素材を集め、編集は意味をつくる。順番と長さを変えれば、同じ素材からまったく別の映像が生まれる。クレショフが100年前に証明したこの事実は、カットが短くなり続けるショート動画の時代に、いっそう強く働いている。</p>
+    <p>このPARTでは、編集技術の歴史から始め、Premiere ProとAfter Effectsの機能を体系的に整理する。機能の一覧は地図であって、暗記するものではない。問題がどのツールのどの領域に属するかを知っていれば、1回の検索で解決する。地図がなければ、何時間もさまようことになる。</p>
+    <p>特にAfter Effectsは、Premiereとは考え方が違う。Premiereは時間を横に扱い、After Effectsはレイヤーを縦に扱う。これを知らずにAfter Effectsでカット編集をしようとするのが、初心者の典型的な失敗だ。2つのツールの役割を分けるだけで、作業時間は半分になる。</p>
+  </div>
+</section>
+
+<section class="essay page" id="essay-7">
+  <header><div class="crumb">背景 7</div><h2>見えない編集</h2></header>
+  <div class="cols">
+    <p>優れた編集は、観客に編集を気づかせない。カットは時間と空間を切り刻むが、観客にはそれが自然な流れとして感じられなければならない。</p>
+    <p>編集者ウォルター・マーチの『映画の瞬き』（1995年）は、まばたきをカットにたとえる。人は、考えが切り替わるときや視線が移るときにまばたきをする。優れたカットも同じように、観客の思考のひと区切りが終わるところに入る。だから編集者がまず見るのは画面ではなく、観客の心がどこまで来ているかである。</p>
+    <p>マーチはカットの基準に順位をつけた。感情51%、物語23%、リズム10%、視線の動き7%、画面の2次元平面5%、3次元空間の連続性4%である。数字より重要なのは順序だ。つながりが多少崩れても、感情の合うカットを選ぶ。学生作品はこの順序を逆にしがちで、動きのつながりにこだわって感情の流れを失う。</p>
+    <p>アクションつなぎ、アイラインマッチ、180度ルールといったコンティニュイティの技法は、どれも観客が空間と時間の中で迷わないようにするためのものだ。エイゼンシュテインのモンタージュの伝統は逆に、つなぎ目をあらわにして衝突と意味を生み出した。つなぎ目を隠すか見せるかは、編集者がその都度選ぶ。</p>
+    <p>編集は時間の芸術でもある。カットを短くすれば緊張が高まり、長くすれば観客に考える余地が生まれる。広告やショート動画でカットが速くなるのは、情報を詰め込むためだけでなく、視聴者の注意を繰り返しつかみ直すためでもある。</p>
+    <p>デジタルのノンリニア編集によって、すべてがやり直せるようになった。だが、判断力まで与えてくれるわけではない。ソフトウェアを学んでいる間も、カットのたびに「いま観客は何を感じているか」と問う習慣をつける。参考図書：ウォルター・マーチ『映画の瞬き』、ケン・ダンシガー『The Technique of Film and Video Editing』。</p>
+  </div>
+</section>
+
+<article class="sec page" id="s5-1">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.1</div>
+    <h2>編集ツールの歴史</h2>
+    <p class="lead">道具はフィルム用のはさみから生成AIへと変わったが、仕事の骨格はほとんど変わっていない。</p>
+  </header>
+  <div class="gallery cols-2 wide big"><div class="title"><b>参考写真 5.1A</b>生成画像 — フィルムを切り貼りした時代</div>
+    <figure class="ph" data-id="P05-SPLICER" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. editor's hands at a vintage 35mm film splicer, cut film strips, tape, a pair of white cotton gloves, warm lamp">
+      <div class="ph-box"><span class="ph-id">P05-SPLICER</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>フィルムを切ってつないでいた頃</b>スプライサーを扱う編集者の手、切ったフィルム片とテープ</span></div>
+      <figcaption><b>a</b>スプライサー — フィルムを物理的に切り、テープやセメントでつなぐ道具。編集の単位をいまも「カット」と呼ぶのは、はさみでフィルムを切るというこの物理的な行為に由来する。</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-FLATBED" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a flatbed film editing table with reels, small viewing screen and film threaded through, dim editing room">
+      <div class="ph-box"><span class="ph-id">P05-FLATBED</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>フラットベッド編集機</b>リールと小さなスクリーンを備えた水平の編集台、暗い編集室</span></div>
+      <figcaption><b>b</b>フラットベッド編集機 — スティーンベックなどの水平型の編集台。フィルムを前後に巻きながらカット点を探した。指先でフレームを数える感覚は、ここで鍛えられた。</figcaption>
+    </figure>
+  </div>
+  <aside class="term"><b>EDL</b><p>編集決定リスト。オフライン編集での決定を、オンライン編集で高画質に再構築するための基準となる文書。</p></aside>
+  <table class="t compact">
+    <thead><tr><th>年代</th><th>変化</th></tr></thead>
+    <tbody>
+      <tr><td>1920年代</td><td>物理的な編集：フィルムを手で切ってつなぐ。編集者はムビオラやスティーンベックでフィルムを巻いて編集点を探し、指先でフレームを数えた。</td></tr>
+      <tr><td>1956–</td><td>ビデオテープの登場。編集は、2台のデッキの間でコピーしながら順につなぐリニア編集に移行する。</td></tr>
+      <tr><td>1970–80年代</td><td>タイムコードの標準化、EDLの導入。オフラインで決め、オンラインで高画質に再構築する2段階方式が定着する。</td></tr>
+      <tr><td>1989</td><td>ノンリニア編集システムの商用化。ランダムアクセスによって、編集は素材を並べ替える思考の作業になる。</td></tr>
+      <tr><td>1991–1999</td><td>デスクトップ編集ソフトが相次いで登場。パソコンが編集室になり、参入コストが急落する。</td></tr>
+      <tr><td>2000年代</td><td>HDへの移行、コーデックの多様化。プロキシ編集が主流になる。</td></tr>
+      <tr><td>2010年代</td><td>クラウドでの共同作業、自動カラーマッチ、GPUアクセラレーション。プロ用のグレーディングツールが無料になり、カラーコレクションが一般的なスキルになる。</td></tr>
+      <tr><td>2020年代</td><td>モバイル編集アプリ、自動字幕、自動カット。生成AIが編集アシスタントとして加わる。最初のラフカットは自動化が進み、人は判断に集中するようになっている。</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>歴史が残した習慣</h4><p>オフラインとオンラインというかつての区分は、今日のプロキシ編集に生きている。EDLとタイムコードはいまも共同作業の基盤であり、ムビオラ時代のフレーム感覚は、いまも優れた編集者の証しである。</p></div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.1</div>
+    <dl><dt>課題</dt><dd>同じシーンを2つのバージョンで作る。ムビオラ時代のように順番どおりにつないだものと、ノンリニアで編集したものである。</dd><dt>ヒント</dt><dd>順番どおりにつなぐバージョンでは、取り消し（アンドゥ）を使わないというルールを決める。</dd><dt>評価</dt><dd>方法が作業の姿勢に与える影響</dd><dt>解答例</dt><dd>両方の方法の作業時間と結果を記録する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-2">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.2</div>
+    <h2>編集の基本原則</h2>
+    <p class="lead">カットは、退屈だから入れるのではない。次のカットがよりよい情報をもたらすときに入れる。</p>
+  </header>
+  <figure class="ph wide" data-id="P05-NLE" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. editor at a dual-monitor nonlinear editing suite, timeline with color-coded clips, a reference monitor showing a city shot">
+    <div class="ph-box"><span class="ph-id">P05-NLE</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>ノンリニア編集</b>デュアルモニターの編集室、色分けされたクリップが並ぶタイムライン、リファレンスモニター</span></div>
+    <figcaption><b>注意</b>ノンリニア編集 — どの地点にも瞬時にアクセスできるようになり、編集は「切ること」から「選んで並べながら考えること」に変わった</figcaption>
+  </figure>
+  <figure class="fg wide"><div class="ttl">タイムラインを4段で読む</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><text x="62" y="46" text-anchor="end" font-weight="500" fill="#1B1B1D">V2 タイトル</text><rect x="117.6" y="30" width="65.6" height="24" fill="#D8C7CB"/><rect x="317.5" y="30" width="65.6" height="24" fill="#D8C7CB"/><text x="62" y="78" text-anchor="end" font-weight="500" fill="#1B1B1D">V1 映像</text><rect x="70.0" y="62" width="141.8" height="24" fill="#B9B5AC"/><rect x="212.8" y="62" width="132.3" height="24" fill="#8E8A82"/><rect x="346.1" y="62" width="198.9" height="24" fill="#B9B5AC"/><text x="62" y="120" text-anchor="end" font-weight="500" fill="#1B1B1D">A1 セリフ</text><rect x="70.0" y="104" width="170.4" height="24" fill="#C9D6D0"/><rect x="241.4" y="104" width="75.2" height="24" fill="#A8BFB4"/><rect x="317.5" y="104" width="227.5" height="24" fill="#C9D6D0"/><text x="62" y="152" text-anchor="end" font-weight="500" fill="#1B1B1D">A2 音楽 · 効果音</text><rect x="70.0" y="136" width="475.0" height="24" fill="#EFE9DF"/><line x1="212.8" y1="56" x2="212.8" y2="90" stroke="#1B1B1D" stroke-width="1.2"/><line x1="241.4" y1="98" x2="241.4" y2="132" stroke="#1B1B1D" stroke-width="1.2"/><path d="M212.8,88 L212.8,96 L241.4,96 L241.4,100" fill="none" stroke="#7A1C2B" stroke-width="1.4"/><text x="227.1" y="176" text-anchor="middle" fill="#7A1C2B" font-weight="500">Lカット</text><text x="241.4" y="188" text-anchor="end" fill="#3C3C40" font-size="8">前のショットの音が残る</text><line x1="346.1" y1="56" x2="346.1" y2="90" stroke="#1B1B1D" stroke-width="1.2"/><line x1="317.5" y1="98" x2="317.5" y2="132" stroke="#1B1B1D" stroke-width="1.2"/><path d="M346.1,88 L346.1,96 L317.5,96 L317.5,100" fill="none" stroke="#7A1C2B" stroke-width="1.4"/><text x="331.8" y="176" text-anchor="middle" fill="#7A1C2B" font-weight="500">Jカット</text><text x="317.5" y="188" text-anchor="start" fill="#3C3C40" font-size="8">次のショットの音が先に入る</text><line x1="279.4" y1="20" x2="279.4" y2="164" stroke="#7A1C2B" stroke-width="1.6"/><polygon points="274.4,14 284.4,14 279.4,22" fill="#7A1C2B"/><text x="285.4" y="18" fill="#7A1C2B" font-size="8">再生ヘッド</text><text x="70" y="214" fill="#1B1B1D" font-weight="500">画と音の編集点をずらすと、カットが流れる。両方を同じ点で切ると「ガクッ」となる。</text></svg><figcaption><b>図 46</b> 編集タイムラインの構造 — 上の2段は「見えるもの」、下の2段は「聞こえるもの」。JカットとLカットは、音の編集点を画の編集点の前か後ろに置く。</figcaption></figure>
+  <aside class="tip"><b>ヒント</b><p>音を先に敷く。音楽とセリフのタイミングを決めてから画を載せると、仕上がりがよくなる。</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>理由があるときだけ切る。次のカットがよりよい情報をもたらすときだ。</span></li>
+    <li><b>02</b><span>動きの途中で切る。動きが終わってから切ると、リズムがたるむ。</span></li>
+    <li><b>03</b><span>音を先に敷く。音楽とセリフのタイミングを決めてから、画を加える。</span></li>
+    <li><b>04</b><span>サイズとアングルは一緒に変える。片方だけ変えると、画が飛んで見える。</span></li>
+    <li><b>05</b><span>視線を保つ。左を見ていた人物が次のカットで右を見ると、関係が壊れる。</span></li>
+    <li><b>06</b><span>思い切って捨てる。苦労して撮ったからといって残すと、映像が間延びする。</span></li>
+    <li><b>07</b><span>オープニングとエンディングを先に固める。そこが決まれば、中間は自然に整う。</span></li>
+    <li><b>08</b><span>完成の翌日に見直す。その日は見えなかった緩みが見えてくる。</span></li>
+  </ol>
+  <blockquote class="pull">残すのは、よいカットではなく必要なカットだ。<small>5.2 編集の基本原則</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.2</div>
+    <dl><dt>課題</dt><dd>3分の素材を1分に切り詰める。捨てたものを書き出す。</dd><dt>ヒント</dt><dd>残すのは、よいカットではなく必要なカット。各カットは動きの途中から始める。</dd><dt>評価</dt><dd>物語の明快さ、自然なカット点</dd><dt>解答例</dt><dd>ウォルター・マーチの編集の優先順位（感情、物語、リズム）。各カットを落とした理由を1行ずつ書く。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-3">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.3</div>
+    <h2>編集ソフトの比較</h2>
+    <p class="lead">就職には、3つのツールを浅く知るより、2つを深く知るほうが強い。</p>
+  </header>
+  <aside class="note"><b>注意</b><p>先に確認すること：CapCutの商用利用の条件、Final CutがMac専用であることと共同作業の制約。</p></aside>
+  <table class="t compact wide">
+    <thead><tr><th>ツール</th><th>強み</th><th>弱み</th><th>向いている用途</th><th>価格</th></tr></thead>
+    <tbody>
+      <tr><td>Premiere Pro</td><td>汎用性、After Effectsとの連携、韓国の採用標準</td><td>安定性にむら、プロジェクトの破損</td><td>広告、ウェブ動画、プロの仕事の大半</td><td>サブスクリプション</td></tr>
+      <tr><td>Final Cut Pro</td><td>速度、安定性、マグネティックタイムライン</td><td>Mac専用、共同作業に制約</td><td>個人クリエイター、Macユーザー</td><td>買い切り</td></tr>
+      <tr><td>DaVinci Resolve</td><td>最高水準のグレーディング、充実した無料版</td><td>習得の難しさ、高い要求スペック</td><td>カラー重視、予算ゼロの作品</td><td>無料 + 有料版</td></tr>
+      <tr><td>After Effects</td><td>合成、モーショングラフィックス、3D空間</td><td>カット編集には不向き</td><td>タイトル、VFX、インフォグラフィックス</td><td>サブスクリプション</td></tr>
+      <tr><td>CapCut</td><td>自動字幕、テンプレート、モバイル連携</td><td>商用利用の条件を要確認</td><td>ショート動画、急ぎの仕事</td><td>無料 + 有料</td></tr>
+      <tr><td>Vrew</td><td>音声認識による字幕、無音部分の削除</td><td>精密な編集に限界</td><td>講義、インタビュー、解説動画</td><td>無料 + 有料</td></tr>
+      <tr><td>Avid Media Composer</td><td>大規模チーム、放送業界の標準</td><td>高い参入障壁</td><td>テレビドラマ、放送局</td><td>サブスクリプション</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>何から学ぶか</h4><p>韓国の求人で最も多く求められるのは、Premiere ProとAfter Effectsの組み合わせである。カラーを深めたいならDaVinci Resolveを、ショート動画を量産するならCapCutを加える。</p></div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.3</div>
+    <dl><dt>課題</dt><dd>同じ10カットの編集を2つの編集ソフトで行い、ワークフローを比較する。</dd><dt>ヒント</dt><dd>比較はショートカットとプロジェクト構造に絞る。</dd><dt>評価</dt><dd>比較項目の具体性、選んだ理由</dd><dt>解答例</dt><dd>用途別（ショート動画、広告、長編）の推奨ツールを表にまとめる。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-4">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.4</div>
+    <h2>ひと目でわかるPremiere Pro</h2>
+    <p class="lead">各パネルの役割を知り、20の機能がいつ必要になるかという地図を持っていれば、どんな問題も1回の検索で解決する。</p>
+  </header>
+  <aside class="tip"><b>ヒント</b><p>撮影日、シーン、音楽、グラフィックでビンを分ける習慣が、編集のスピードを決める。</p></aside>
+  <h3>ワークスペースの構成</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>管理</small>プロジェクトパネル</h4><ul><li>素材ファイルの引き出し</li><li>撮影日 · シーン · 音楽 · グラフィック別のビン</li></ul></div>
+    <div class="card"><h4><small>確認</small>ソースモニター</h4><ul><li>元のクリップを見て、イン点 · アウト点を設定</li><li>タイムラインに置く前に、ここでクリップを選別</li></ul></div>
+    <div class="card"><h4><small>確認</small>プログラムモニター</h4><ul><li>編集結果を映すウィンドウ</li><li>セーフゾーンのガイドとマージンを常に表示</li></ul></div>
+    <div class="card"><h4><small>編集</small>タイムライン</h4><ul><li>実際の編集を行う場所</li><li>ビデオトラックは上へ、オーディオトラックは下へ重なる</li></ul></div>
+    <div class="card"><h4><small>エフェクト</small>エフェクトパネル · エフェクトコントロール</h4><ul><li>トランジションとエフェクト。よく使うものはお気に入りに登録</li><li>位置 · スケール · 回転 · 不透明度とエフェクトの値を調整し、キーフレームを追加</li></ul></div>
+    <div class="card"><h4><small>カラー</small>Lumetriカラー</h4><ul><li>カラー専用のパネル</li><li>基本補正、クリエイティブ、カーブ、カラーホイール、HSLセカンダリ、ビネット</li></ul></div>
+    <div class="card"><h4><small>グラフィック</small>エッセンシャルグラフィックス</h4><ul><li>タイトルとグラフィックのテンプレート</li><li>モーショングラフィックステンプレートを読み込み、文字だけを変える</li></ul></div>
+    <div class="card"><h4><small>サウンド</small>オーディオトラックミキサー</h4><ul><li>トラックごとの音量とパン</li><li>オーディオエフェクトの管理</li></ul></div>
+    <div class="card"><h4><small>サウンド</small>エッセンシャルサウンド</h4><ul><li>セリフ · 音楽 · 効果音 · 環境音のタグを付けて自動処理</li><li>セリフのノイズ除去、ラウドネスのノーマライズ</li></ul></div>
+  </div>
+  <h3>必ず覚える20の機能</h3>
+  <table class="t compact wide">
+    <thead><tr><th>機能</th><th>働き</th><th>使う場面</th></tr></thead>
+    <tbody>
+      <tr><td>シーケンス設定</td><td>解像度、fps、アスペクト比を設定</td><td>新規プロジェクトで最初に</td></tr>
+      <tr><td>プロキシの作成</td><td>軽い代替ファイルで編集</td><td>4K以上の素材、低スペックPC</td></tr>
+      <tr><td>マルチカメラ編集</td><td>複数のカメラを同期して切り替える</td><td>イベント、インタビュー、番組</td></tr>
+      <tr><td>オーディオ同期</td><td>波形で自動同期</td><td>外部レコーダー使用時</td></tr>
+      <tr><td>リップル編集</td><td>トリミングすると後続が詰まる</td><td>ラフカット全般</td></tr>
+      <tr><td>ローリング編集</td><td>編集点だけを動かす</td><td>タイミングの微調整</td></tr>
+      <tr><td>スリップとスライド</td><td>長さは同じまま、内容または位置を変える</td><td>内容を差し替え、リズムは保つ</td></tr>
+      <tr><td>マーカー</td><td>タイムライン上の目印とメモ</td><td>フィードバックの反映、ビートの目印</td></tr>
+      <tr><td>ネスト</td><td>複数のクリップを1つにまとめる</td><td>まとめてエフェクトをかける</td></tr>
+      <tr><td>調整レイヤー</td><td>下のクリップすべてに一括でエフェクト</td><td>全体のグレーディング、グレイン</td></tr>
+      <tr><td>速度変更</td><td>スロー、早送り、逆再生</td><td>スローモーション、タイムラプス</td></tr>
+      <tr><td>時間補間</td><td>フレームブレンド、オプティカルフロー</td><td>なめらかなスローモーション</td></tr>
+      <tr><td>マスクとトラッキング</td><td>一部の領域だけにエフェクト</td><td>顔のぼかし、ロゴ隠し</td></tr>
+      <tr><td>ワープスタビライザー</td><td>手ぶれを除去</td><td>手持ちショット</td></tr>
+      <tr><td>Lumetri LUT</td><td>Log素材を変換</td><td>グレーディングの第1段階</td></tr>
+      <tr><td>カラーマッチ</td><td>2つのショットの色を自動で合わせる</td><td>別々のカメラで撮ったショット</td></tr>
+      <tr><td>自動字幕</td><td>音声認識による字幕</td><td>インタビュー、解説動画</td></tr>
+      <tr><td>エッセンシャルグラフィックスのテンプレート</td><td>繰り返し使うタイトルのスタイルを再利用</td><td>シリーズコンテンツ</td></tr>
+      <tr><td>オフラインメディアの再リンク</td><td>パスが切れた素材をつなぎ直す</td><td>フォルダーの移動後</td></tr>
+      <tr><td>プロジェクトマネージャー</td><td>使用したメディアだけを収集</td><td>バックアップ、外注先への受け渡し</td></tr>
+    </tbody>
+  </table>
+  <h3>よく使うショートカット</h3>
+  <table class="t compact">
+    <thead><tr><th>ショートカット</th><th>機能</th><th>ショートカット</th><th>機能</th></tr></thead>
+    <tbody>
+      <tr><td>C</td><td>レーザーツール</td><td>V</td><td>選択ツール</td></tr>
+      <tr><td>A</td><td>トラックの前方選択</td><td>B</td><td>リップル編集ツール</td></tr>
+      <tr><td>I / O</td><td>イン点 / アウト点</td><td>スペース</td><td>再生と停止</td></tr>
+      <tr><td>Q / W</td><td>リップルトリミング（前 / 次）</td><td>M</td><td>マーカーを追加</td></tr>
+      <tr><td>Ctrl+K</td><td>再生ヘッドの位置でカット</td><td>Shift+Delete</td><td>リップル削除</td></tr>
+      <tr><td>J / K / L</td><td>逆再生 / 停止 / 再生</td><td>矢印キー</td><td>1フレーム移動</td></tr>
+      <tr><td>Ctrl+M</td><td>書き出し</td><td>Ctrl+S</td><td>保存</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.4</div>
+    <dl><dt>課題</dt><dd>Premiere Proで1分の動画を仕上げる。カット編集、字幕、音声の整音、カラー、書き出しまで行う。</dd><dt>ヒント</dt><dd>シーケンス設定を素材に合わせ、ショートカットは早めに設定しておく。</dd><dt>評価</dt><dd>整理されたタイムライン、出力仕様の順守</dd><dt>解答例</dt><dd>役割（セリフ、効果音、音楽）ごとにトラックを分け、ラベルで色分けする。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-5">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.5</div>
+    <h2>ひと目でわかるAfter Effects</h2>
+    <p class="lead">After Effectsはカット編集のツールではなく、1つのフレームの中で要素を重ね、動かし、合成するためのツールである。Premiereは時間を横に扱い、After Effectsはレイヤーを縦に扱う。</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">編集は時間で、合成はレイヤーで</div><div class="grid plan"><img src="img_new/LAYERS-ISO.jpg"><ol class="misel"><li><i>6</i><span><b>カメラ</b> — 仮想カメラ — すべてのレイヤーを見る</span></li><li><i>5</i><span><b>ライト</b> — 3Dレイヤーにだけ影と明るさを与える</span></li><li><i>4</i><span><b>3Dテキスト</b> — 奥行きのある文字 — カメラが回ると側面が見える</span></li><li><i>3</i><span><b>人物（キーイング済み）</b> — 背景を抜いた映像素材</span></li><li><i>2</i><span><b>中景</b> — グラフィック · グラデーション — 奥行き</span></li><li><i>1</i><span><b>背景プレート</b> — 最下層 — ベースの映像</span></li><li class="x">いちばん上のレイヤーが画面の手前になる。順番を入れ替えると、隠れるものが変わる — 編集は時間で、合成はレイヤーで。</li></ol></div><figcaption><b>図 47</b> After Effectsのレイヤースタック — 下から上へ重なる6つのレイヤー。カメラとライトは画像ではなく、「レイヤーの見方」である。</figcaption></figure>
+  <aside class="term"><b>P · S · R · T</b><p>位置、スケール、回転、不透明度。5つの基本キーフレームプロパティを呼び出すショートカット。</p></aside>
+  <h3>基本概念</h3>
+  <div class="cards">
+    <div class="card"><h4><small>単位</small>コンポジション</h4><ul><li>作業の単位となるキャンバス。解像度 · フレームレート · 長さはここで決まる</li><li>最初に確認 — 設定を誤るとすべてやり直し</li></ul></div>
+    <div class="card"><h4><small>要素</small>レイヤー</h4><ul><li>上のレイヤーが下のレイヤーを隠す</li><li>フッテージ、平面、テキスト、シェイプ、カメラ、ライト、ヌル</li></ul></div>
+    <div class="card"><h4><small>動き</small>キーフレーム</h4><ul><li>値が変わる時点を記録する</li><li>基本：位置 · スケール · 回転 · 不透明度、ショートカットはP S R T</li></ul></div>
+    <div class="card"><h4><small>まとめる</small>プリコンポーズ</h4><ul><li>複数のレイヤーを1つにまとめる</li><li>エフェクトの適用順を制御する鍵</li></ul></div>
+    <div class="card"><h4><small>切り抜き</small>トラックマット</h4><ul><li>別のレイヤーの形（アルファ）や明るさ（ルミナンス）で切り抜く</li><li>3Dテキストのマスクで頻繁に使う</li></ul></div>
+    <div class="card"><h4><small>階層</small>ペアレント</h4><ul><li>レイヤー同士を結び、一緒に動かす</li><li>ヌルを親にすれば、複雑な動きをまとめて操れる</li></ul></div>
+    <div class="card"><h4><small>数式</small>エクスプレッション</h4><ul><li>数式で値を決める：ループ · 揺れ · 連動をキーフレームなしで</li><li>入門の必須はwiggleとloopOut</li></ul></div>
+  </div>
+  <h3>分野別の機能</h3>
+  <table class="t compact wide">
+    <thead><tr><th>区分</th><th>主な機能</th><th>実務での用途</th></tr></thead>
+    <tbody>
+      <tr><td>テキスト</td><td>テキストアニメーター、ソーステキスト、パステキスト</td><td>タイトル、字幕のモーション、コピーの出現</td></tr>
+      <tr><td>シェイプ</td><td>シェイプレイヤー、パスのトリミング、リピーター</td><td>インフォグラフィック、線のアニメーション、図形のトランジション</td></tr>
+      <tr><td>マスク</td><td>ペンマスク、マスクの境界のぼかし、マスクの拡張</td><td>部分的な出現、トランジション</td></tr>
+      <tr><td>ロト</td><td>ロトブラシ、エッジを調整</td><td>クロマキーが使えないときの人物の切り抜き</td></tr>
+      <tr><td>キーイング</td><td>Keylight、スピルサプレッサー、高度なスピルサプレッサー</td><td>グリーンバック合成</td></tr>
+      <tr><td>トラッキング</td><td>2Dポイント、コーナーピン、3Dカメラトラッカー、Mocha</td><td>要素の固定、画面のはめ替え</td></tr>
+      <tr><td>3D</td><td>3Dレイヤー、カメラ、ライト、シャドウ、被写界深度</td><td>3Dタイトル、空間演出</td></tr>
+      <tr><td>パペット</td><td>パペットピン、スターチツール</td><td>イラストのキャラクターを動かす</td></tr>
+      <tr><td>時間</td><td>タイムリマップ、フォースモーションブラー、ピクセルモーション</td><td>リタイミング、スピードランプ</td></tr>
+      <tr><td>カラー</td><td>Lumetriカラー、トーンカーブ、カラーバランス</td><td>素材同士の色合わせ</td></tr>
+      <tr><td>エフェクト</td><td>グロー、ブラー、ディスプレイスメント、フラクタルノイズ</td><td>光、歪み、質感</td></tr>
+      <tr><td>出力</td><td>レンダーキュー、Media Encoder連携</td><td>アルファ付き出力、最終納品</td></tr>
+    </tbody>
+  </table>
+  <h3>3Dテキストとライティングの作業順</h3>
+  <aside class="tip"><b>ヒント</b><p>カメラの焦点距離を実写のレンズに合わせる。合わせないとパースがそろわない。</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>書体を選ぶ。字間が狭いと3Dの押し出しで面がぶつかるので、字間は広めに、ウェイトは太めにする。</span></li>
+    <li><b>02</b><span>テキストレイヤーを3Dにし、押し出しの深さを設定する。文字の高さの15–30%が無難だ。</span></li>
+    <li><b>03</b><span>マテリアルを設定する。金属は反射とハイライト、マットは拡散が中心。</span></li>
+    <li><b>04</b><span>カメラを追加する。焦点距離を実写のレンズに合わせる。</span></li>
+    <li><b>05</b><span>ライトを配置する。素材の影の向きを確認し、キーライトを同じ角度に置く。</span></li>
+    <li><b>06</b><span>影を受ける床のレイヤーを作る。これがないと、テキストは宙に浮いたステッカーに見える。</span></li>
+    <li><b>07</b><span>動きを付ける。基本は、登場はイーズアウト、退場はイーズイン。</span></li>
+    <li><b>08</b><span>モーションブラーをオンにし、グレインを実写に合わせる。</span></li>
+  </ol>
+  <h3>イージング（加速 · 減速）の目安</h3>
+  <aside class="term"><b>イージング</b><p>動きの加速 · 減速のカーブ。リニアは機械的で、イージーイーズは動き出しと止まり際が緩やかになる。グラフエディターで速度カーブとして整える。</p></aside>
+  <table class="t compact">
+    <thead><tr><th>イージングの種類</th><th>印象</th><th>用途</th><th>24 fpsでのフレーム数</th></tr></thead>
+    <tbody>
+      <tr><td>リニア</td><td>機械的で生気がない</td><td>無限ループ、回転する背景</td><td>-</td></tr>
+      <tr><td>イーズアウト</td><td>速く着いて、柔らかく止まる</td><td>登場</td><td>10–15フレーム</td></tr>
+      <tr><td>イーズイン</td><td>ゆっくり動き出し、加速して去る</td><td>退場</td><td>8–12フレーム</td></tr>
+      <tr><td>イーズインアウト</td><td>最も自然</td><td>ほとんどの動き</td><td>12–18フレーム</td></tr>
+      <tr><td>オーバーシュート</td><td>目標を行き過ぎて戻る</td><td>躍動感のあるロゴの登場</td><td>15–20フレーム</td></tr>
+      <tr><td>バウンス</td><td>弾みながら止まる</td><td>カジュアル、子ども向けコンテンツ</td><td>20–25フレーム</td></tr>
+    </tbody>
+  </table>
+  <h3>モーショングラフィックスの手直しの順序</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>イージングをかける</i>速度カーブに直角の折れ目を作らない</div>
+    <div class="step"><b>02</b><i>予備動作を加える</i>まず反対方向に動かす</div>
+    <div class="step"><b>03</b><i>フォロースルーを分ける</i>付属するパーツを遅らせて追わせる</div>
+    <div class="step"><b>04</b><i>誇張を強める</i>現実より大きく</div>
+  </div>
+  <p>この4段階を順に適用するだけで、初心者らしさは消える。グラフエディターで速度カーブが直角に折れていると必ずぎこちなく見えるので、滑らかに整える。</p>
+  <h3>最近のアップデートで変わったこと</h3>
+  <aside class="note"><b>注意</b><p>機能の名称と動作はバージョンによって変わる。演習の前に、インストールしているバージョンの新機能の案内を確認する。</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>ロト</small>ロトブラシ3.0</h4><ul><li>AIモデルによるロトブラシ。1フレームに大まかな線を引くだけで、髪の毛 · 柔らかい輪郭まで追従する</li><li>クロマキーなしで撮った人物を切り抜く標準ツールになった</li></ul></div>
+    <div class="card"><h4><small>3D</small>高度な3Dレンダラー</h4><ul><li>.glb · .gltf · .obj · .fbxの3Dモデルをコンポジションに直接読み込む</li><li>実写になじむ3Dライト、シャドウ、環境光</li></ul></div>
+    <div class="card"><h4><small>カメラ</small>3Dカメラ · ヌルオブジェクト</h4><ul><li>カメラをヌルの子にすれば、ドリー · オービット · プッシュインを1つのプロパティで操れる</li><li>テキスト · モデル · 平面レイヤーが、1つの空間で同じパースを共有する</li></ul></div>
+    <div class="card"><h4><small>キーイング</small>Keylight + キークリーナー · 高度なスピルサプレッサー</h4><ul><li>Keylightで一次キーを抜き、キークリーナーで輪郭を整える</li><li>肌に乗った緑かぶりは高度なスピルサプレッサーで取り除く。この3つを順に重ねるのが基本セット</li></ul></div>
+    <div class="card"><h4><small>プロパティ</small>プロパティパネル · エッセンシャルプロパティ</h4><ul><li>選択したレイヤーの主なプロパティを1つのパネルに表示。タイムラインを開かずに編集できる</li><li>エッセンシャルプロパティはプリコンポジション内の値を外に出し、複製ごとに変えられるようにする</li></ul></div>
+    <div class="card"><h4><small>連携</small>Dynamic Link · 文字起こしベースの編集 · 生成拡張</h4><ul><li>Dynamic Linkは、AEのコンポジションをレンダリングなしでPremiereのタイムラインに配置する</li><li>Premiereの文字起こしベースの編集（文字起こしからカットする機能）と生成拡張（クリップの端に足りない尺を生成する機能）で、カット編集が速くなる</li></ul></div>
+  </div>
+  <div class="gallery cols-2 wide big"><div class="title"><b>参考写真 5.5A</b>生成画像 — 合成とモーショングラフィックス</div>
+    <figure class="ph" data-id="P05-ROTO" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. split-screen style still: left half a person in front of a green screen with a dashed mask outline, right half the same person composited into a street scene">
+      <div class="ph-box"><span class="ph-id">P05-ROTO</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>ロト · キーイング · 合成</b>左はグリーンバックの前に立つ人物とマスクの線、右は街の風景に合成した結果</span></div>
+      <figcaption><b>a</b>ロト · キーイング · 合成 — 分離（ロト · キー）、整理（スピル除去）、背景との色合わせで1セット</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-MOGRAPH" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. motion designer at a workstation with a 3D viewport showing a camera rig and null objects, animated text layers">
+      <div class="ph-box"><span class="ph-id">P05-MOGRAPH</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>モーショングラフィックスの作業</b>カメラリグとヌルオブジェクトが見える3Dビューポート、アニメーションを付けたテキストレイヤー</span></div>
+      <figcaption><b>b</b>モーショングラフィックスの作業 — 3Dカメラとヌルオブジェクトでカメラワークを設計し、テキストレイヤーにイージングをかける</figcaption>
+    </figure>
+  </div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.5</div>
+    <dl><dt>課題</dt><dd>After Effectsで、ロゴが登場する5秒のモーショングラフィックスを作る。</dd><dt>ヒント</dt><dd>グラフエディターでイーズイン · イーズアウトを調整する。</dd><dt>評価</dt><dd>加速と減速、ブランドのトーンとの相性</dd><dt>解答例</dt><dd>リニア版とカーブ版を並べて比較する。</dd></dl></div>
+</article>
+
+<section class="essay page" id="essay-8">
+  <header><div class="crumb">背景 8</div><h2>生命の幻影<br>— アニメーションの原則の起源</h2></header>
+  <div class="cols">
+    <p>動かない絵に、重さと性格と感情をどう吹き込むか。その方法は、数十年にわたる試行錯誤のなかで見いだされた。アニメーションの原則は、物理学であると同時に演技論でもある。</p>
+    <p>1914年、ウィンザー・マッケイの『恐竜ガーティ』は、観客の前で指示を受けて反応するキャラクターを見せ、アニメーションが個性を持つ存在を生み出せることを証明した。『白雪姫』（1937年）の準備にあたり、ウォルト・ディズニー・スタジオは、アニメーターに実際の動物や人間の動きを観察させ、デッサンと解剖学を教えた。</p>
+    <p>当時のディズニーの中核アニメーターたちは「ナイン・オールドメン」と呼ばれた。そのうちの2人、フランク・トーマスとオリー・ジョンストンは、スタジオの原則を『The Illusion of Life』（1981年、邦題『生命を吹き込む魔法』）で12項目にまとめた。スクワッシュ＆ストレッチ、予備動作、ステージング、ポーズ・トゥ・ポーズ、フォロースルー、スローイン・スローアウト、アーク、セカンダリーアクション、タイミング、誇張、ソリッドドローイング、アピールである。これらは規則というより、観察した現実を、観客がより強く感じられるように翻訳する方法だ。</p>
+    <p>原則の半分は物理学だ。着地でつぶれ、弾むときに伸びるボール。ゆっくり動き出し、ゆっくり止まる重い物体。これらは質量と慣性を目に見えるものにする。残りの半分は演技だ。予備動作は次の行動を予告し、誇張は感情を明確にし、アピールは観客がキャラクターに心を寄せるようにする。</p>
+    <p>1987年、ピクサーのジョン・ラセターはSIGGRAPHで「Principles of Traditional Animation Applied to 3D Computer Animation」を発表した。要点はこうだ。道具は鉛筆からコンピューターに変わったが、観客が動きに生命を感じる仕組みは変わっていない。今日、モーションデザイナーがグラフエディターでロゴにイージングをかけるときも、同じ原則に従っている。</p>
+    <p>原則を暗記する前に、身の回りの動きを観察する習慣をつける。人が椅子から立ち上がる順序や、ボールが階段を転がり落ちる順序を見る目があってこそ、原則は生きた道具になる。参考図書：フランク・トーマス · オリー・ジョンストン『The Illusion of Life』、リチャード・ウィリアムズ『アニメーターズ・サバイバルキット』。</p>
+  </div>
+</section>
+
+<article class="sec page" id="s5-6">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.6</div>
+    <h2>アニメーションの12原則</h2>
+    <p class="lead">12の原則を広告に応用する。半分は物理学、半分は演技だ。イージング · 予備動作 · フォロースルー · 誇張の順に直せば、初心者らしさは消える。</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">12原則 — 1人のキャラクターで見る動き</div><div class="grid c4"><div class="it"><img src="img_new/ANIM-01.jpg"><b><i>01</i>スクワッシュ＆ストレッチ</b><span>体積を保ったまま、つぶれて伸びる — 重さと弾力</span></div><div class="it"><img src="img_new/ANIM-02.jpg"><b><i>02</i>予備動作</b><span>大きな動きの前に、反対方向へ動く</span></div><div class="it"><img src="img_new/ANIM-03.jpg"><b><i>03</i>ステージング</b><span>シルエットだけで意図が伝わる</span></div><div class="it"><img src="img_new/ANIM-04.jpg"><b><i>04</i>ポーズ・トゥ・ポーズ</b><span>先にキーポーズを決め、間を埋める</span></div><div class="it"><img src="img_new/ANIM-05.jpg"><b><i>05</i>フォロースルー · オーバーラップ</b><span>体が止まり、髪と服は遅れて止まる</span></div><div class="it"><img src="img_new/ANIM-06.jpg"><b><i>06</i>スローイン · スローアウト</b><span>動きの始めと終わりにフレームを詰める</span></div><div class="it"><img src="img_new/ANIM-07.jpg"><b><i>07</i>アーク</b><span>関節は直線ではなく、弧を描いて動く</span></div><div class="it"><img src="img_new/ANIM-08.jpg"><b><i>08</i>セカンダリーアクション</b><span>主な動きを支える小さな動きが性格を作る</span></div><div class="it"><img src="img_new/ANIM-09.jpg"><b><i>09</i>タイミング</b><span>同じ距離 — フレーム数が重さと速さを決める</span></div><div class="it"><img src="img_new/ANIM-10.jpg"><b><i>10</i>誇張</b><span>現実より一歩先へ — 意図を際立たせる</span></div><div class="it"><img src="img_new/ANIM-11.jpg"><b><i>11</i>ソリッドドローイング</b><span>体積 · 重さ · バランスのある形を描く</span></div><div class="it"><img src="img_new/ANIM-12.jpg"><b><i>12</i>アピール</b><span>単純な形と明確な性格が魅力を生む</span></div></div><figcaption><b>図 48</b> アニメーションの12原則 — 1人のキャラクターで示す、動きの12の法則（ディズニー、1981年）。赤い線は、それぞれの原則が指す「動き」を示す。</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">弾むボール1つに4つの原則がある</div><svg viewBox="0 0 560 210" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect width="560" height="210" fill="#F6F5F3"/><line x1="10" y1="180" x2="550" y2="180" stroke="#1B1B1D" stroke-width="1.2"/><ellipse cx="20.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="36.4" cy="119.5" rx="6.7" ry="10.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="52.7" cy="80.5" rx="7.0" ry="10.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="69.1" cy="51.4" rx="7.3" ry="9.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="85.5" cy="32.2" rx="7.6" ry="9.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="101.8" cy="22.9" rx="7.9" ry="8.3" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="118.2" cy="22.9" rx="7.9" ry="8.3" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="134.5" cy="32.2" rx="7.6" ry="9.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="150.9" cy="51.4" rx="7.3" ry="9.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="167.3" cy="80.5" rx="7.0" ry="10.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="183.6" cy="119.5" rx="6.7" ry="10.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="200.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M20,180 Q110.0,-120 200,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="200.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="214.4" cy="131.7" rx="6.8" ry="10.7" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="228.9" cy="104.4" rx="7.1" ry="9.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="243.3" cy="86.4" rx="7.5" ry="9.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="257.8" cy="77.8" rx="7.8" ry="8.4" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="272.2" cy="77.8" rx="7.8" ry="8.4" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="286.7" cy="86.4" rx="7.5" ry="9.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="301.1" cy="104.4" rx="7.1" ry="9.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="315.6" cy="131.7" rx="6.8" ry="10.7" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="330.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M200,180 Q265.0,-10 330,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="330.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="341.9" cy="145.3" rx="6.8" ry="10.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="353.8" cy="129.0" rx="7.2" ry="9.8" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="365.6" cy="119.6" rx="7.6" ry="8.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="377.5" cy="117.0" rx="8.0" ry="8.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="389.4" cy="119.6" rx="7.6" ry="8.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="401.2" cy="129.0" rx="7.2" ry="9.8" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="413.1" cy="145.3" rx="6.8" ry="10.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="425.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M330,180 Q377.5,70 425,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="425.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="434.3" cy="154.8" rx="6.9" ry="10.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="443.6" cy="146.0" rx="7.3" ry="9.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="452.9" cy="142.1" rx="7.8" ry="8.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="462.1" cy="142.1" rx="7.8" ry="8.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="471.4" cy="146.0" rx="7.3" ry="9.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="480.7" cy="154.8" rx="6.9" ry="10.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="490.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M425,180 Q457.5,120 490,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><text x="230" y="22" fill="#1B1B1D" font-weight="500">頂点 — 間隔が詰まる（遅い · スローイン/アウト）</text><text x="20" y="200" fill="#7A1C2B" font-weight="500">赤いボール = 着地、平たくつぶれる（スクワッシュ）</text><text x="260" y="200" fill="#3C3C40">落下 — 間隔が広く、縦に伸びる（ストレッチ）</text><text x="330" y="80" fill="#7A7A80">弾むたびに低く、短くなる（タイミング）</text></svg><figcaption><b>図 49</b> 弾むボール — アーク · タイミング · スペーシング · スクワッシュ＆ストレッチが、すべて1つのボールにある。ボールは等しい時間間隔で描いてあり、頂点では遅く密に、床の近くでは速くまばらになる。赤いボールは床に当たった瞬間（スクワッシュ）。</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">同じ距離とフレーム数 — スペーシングだけで別の動きになる</div><svg viewBox="0 0 560 190" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="190" fill="#F6F5F3"/><text x="14" y="34" font-weight="500" fill="#1B1B1D">等間隔 — 機械的</text><text x="14" y="46" fill="#7A7A80" font-size="8">ロボット · コンベヤー。生気がない</text><circle cx="230.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="261.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="292.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="323.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="354.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="385.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="416.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="447.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="478.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="509.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="540.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><text x="14" y="74" font-weight="500" fill="#1B1B1D">イーズイン·アウト — 自然</text><text x="14" y="86" fill="#7A7A80" font-size="8">柔らかな出発と到着。ほとんどの動き</text><circle cx="230.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="237.6" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="259.6" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="293.9" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="337.1" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="385.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="432.9" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="476.1" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="510.4" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="532.4" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="540.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><text x="14" y="114" font-weight="500" fill="#1B1B1D">速い → 遅い — 到着を強調</text><text x="14" y="126" fill="#7A7A80" font-size="8">飛び出して止まる。ポップアップ · 強調 · UI</text><circle cx="230.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="299.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="358.5" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="408.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="449.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="481.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="505.6" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="522.8" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="533.5" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="538.8" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="540.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><text x="14" y="154" font-weight="500" fill="#1B1B1D">遅い → 速い — 出発を強調</text><text x="14" y="166" fill="#7A7A80" font-size="8">ためらってから進む。ジャンプ · 発射</text><circle cx="230.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="231.2" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="236.5" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="247.2" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="264.4" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="288.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="321.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="361.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="411.5" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="470.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="540.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><text x="14" y="184" fill="#3C3C40" font-size="8.6">同じ距離 · 同じ11フレーム — 違うのはスペーシングだけ。<tspan font-weight="500">タイミング</tspan> = フレーム数、<tspan font-weight="500">スペーシング</tspan> = フレーム間の間隔</text></svg><figcaption><b>図 50</b> タイミングとスペーシング — どの段も、同じ距離を同じフレーム数で進む。円の間隔が広いところは、動きが速い。</figcaption></figure>
+  <aside class="tip"><b>ヒント</b><p>先にキーポーズを決め、あとから中割りを埋める。スペーシングチャートを最初に描く。</p></aside>
+  <h3>12の原則 — ストップモーション短編の場面で見る</h3>
+  <div class="cards cols-3 anim">
+    <div class="card"><img src="img_new/ANIMX-01.jpg" alt=""><h4><small>01</small>スクワッシュ＆ストレッチ</h4><p>体積を保ったまま、つぶれて伸びる — 重さと弾力</p></div>
+    <div class="card"><img src="img_new/ANIMX-02.jpg" alt=""><h4><small>02</small>予備動作</h4><p>大きな動きの前に、反対方向へ動く</p></div>
+    <div class="card"><img src="img_new/ANIMX-03.jpg" alt=""><h4><small>03</small>ステージング</h4><p>シルエットだけで意図が伝わる</p></div>
+    <div class="card"><img src="img_new/ANIMX-04.jpg" alt=""><h4><small>04</small>ポーズ・トゥ・ポーズ</h4><p>先にキーポーズを決め、間を埋める</p></div>
+    <div class="card"><img src="img_new/ANIMX-05.jpg" alt=""><h4><small>05</small>フォロースルー · オーバーラップ</h4><p>体が止まり、髪と服は遅れて止まる</p></div>
+    <div class="card"><img src="img_new/ANIMX-06.jpg" alt=""><h4><small>06</small>スローイン · スローアウト</h4><p>動きの始めと終わりにフレームを詰める</p></div>
+    <div class="card"><img src="img_new/ANIMX-07.jpg" alt=""><h4><small>07</small>アーク</h4><p>関節は直線ではなく、弧を描いて動く</p></div>
+    <div class="card"><img src="img_new/ANIMX-08.jpg" alt=""><h4><small>08</small>セカンダリーアクション</h4><p>主な動きを支える小さな動きが性格を作る</p></div>
+    <div class="card"><img src="img_new/ANIMX-09.jpg" alt=""><h4><small>09</small>タイミング</h4><p>同じ距離 — フレーム数が重さと速さを決める</p></div>
+    <div class="card"><img src="img_new/ANIMX-10.jpg" alt=""><h4><small>10</small>誇張</h4><p>現実より一歩先へ — 意図を際立たせる</p></div>
+    <div class="card"><img src="img_new/ANIMX-11.jpg" alt=""><h4><small>11</small>ソリッドドローイング</h4><p>体積 · 重さ · バランスのある形を描く</p></div>
+    <div class="card"><img src="img_new/ANIMX-12.jpg" alt=""><h4><small>12</small>アピール</h4><p>単純な形と明確な性格が魅力を生む</p></div>
+  </div>
+  <figure class="fg wide"><div class="ttl">スクワッシュ＆ストレッチ — 弾むボールの連続図</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><line x1="20" y1="186" x2="540" y2="186" stroke="#1B1B1D" stroke-width="1.2"/><path d="M70,186 Q280.0,-74 490,186" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="70.0" cy="177.9" rx="14.9" ry="8.1" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.3"/><ellipse cx="100.0" cy="136.9" rx="8.3" ry="14.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="130.0" cy="108.8" rx="8.9" ry="13.5" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="160.0" cy="85.8" rx="9.6" ry="12.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="190.0" cy="68.0" rx="10.2" ry="11.9" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="220.0" cy="55.2" rx="10.6" ry="11.4" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="250.0" cy="47.6" rx="10.9" ry="11.1" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="280.0" cy="45.0" rx="11.0" ry="11.0" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><text x="280.0" y="26.0" text-anchor="middle" fill="#1B1B1D" font-weight="500">頂点 — 丸く、遅い（間隔が詰まる）</text><ellipse cx="310.0" cy="47.6" rx="10.9" ry="11.1" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="340.0" cy="55.2" rx="10.6" ry="11.4" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="370.0" cy="68.0" rx="10.2" ry="11.9" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="400.0" cy="85.8" rx="9.6" ry="12.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="430.0" cy="108.8" rx="8.9" ry="13.5" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="460.0" cy="136.9" rx="8.3" ry="14.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="490.0" cy="177.9" rx="14.9" ry="8.1" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.3"/><text x="70" y="206" text-anchor="middle" fill="#7A1C2B" font-weight="500">接地 — 平たくつぶれる</text><text x="490" y="206" text-anchor="middle" fill="#7A1C2B" font-weight="500">接地 — 再びつぶれる</text><text x="150" y="150" text-anchor="middle" fill="#3C3C40">速いほど、軌道に沿って長く伸びる</text><text x="410" y="150" text-anchor="middle" fill="#3C3C40">間隔が広い = 速い</text><text x="20" y="224" fill="#1B1B1D" font-weight="500">ルール：伸びれば細く、つぶれれば広がる。体積（面積）は変わらない。ボールはすべて等しい時間間隔で描いてある。</text></svg><figcaption><b>G-15</b> スクワッシュ＆ストレッチ — 弾むボールが描く1つの放物線。頂点では丸く密に、落ちるにつれて長くまばらに、着地の瞬間は平たくなる。ボールの面積は15枚の絵すべてで同じだ。</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.6</div>
+    <dl><dt>課題</dt><dd>弾むボール、重いボール · 軽いボール、キャラクターのジャンプの順にアニメーションを作る。</dd><dt>ヒント</dt><dd>先にキーポーズを決め、あとから中割りを埋める。スペーシングチャートを最初に描く。</dd><dt>評価</dt><dd>スクワッシュ · タイミング · アークの活用</dd><dt>解答例</dt><dd>ディズニーの『The Illusion of Life』の12原則を使う。重さの違う2人のキャラクターで、同じジャンプを比較する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-7">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.7</div>
+    <h2>合成とキーイングの実践</h2>
+    <p class="lead">キーイングは6つの段階で判断する。合成だと見破られるときは、黒レベル · 空気遠近法 · グレインの3つの原因を疑う。</p>
+  </header>
+  <figure class="wide diagram"><img src="img_en/EN-p201_222_1369x331.png" alt=""><figcaption><b>図 51</b> キーイングの6段階 — ガベージマット › 一次キー › マットの整理 › スピル除去 › エッジ処理 › 色合わせ</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>段階</th><th>作業内容</th><th>判断基準</th></tr></thead>
+    <tbody>
+      <tr><td>ガベージマット</td><td>グリーンの外側をマスクで除く</td><td>照明スタンドと床の端が消えている</td></tr>
+      <tr><td>一次キー</td><td>スクリーンの色を抜く</td><td>髪の毛が残っている</td></tr>
+      <tr><td>マットの整理</td><td>アルファを白黒で表示して整える</td><td>被写体は真っ白、背景は真っ黒</td></tr>
+      <tr><td>スピル除去</td><td>肌と服に乗った緑を取り除く</td><td>肌が灰色になっていない</td></tr>
+      <tr><td>エッジ処理</td><td>輪郭を削り、ぼかす</td><td>拡大してもジャギーがない</td></tr>
+      <tr><td>色合わせ</td><td>背景の色と明るさに合わせる</td><td>光の向き、色温度が一致</td></tr>
+    </tbody>
+  </table>
+  <h3>合成だと見破られる3つの理由</h3>
+  <div class="cards">
+    <div class="card"><h4><small>原因 1</small>黒レベル</h4><ul><li>素材の黒が実写より暗いと、すぐに違和感が出る</li><li>黒をわずかに持ち上げる</li></ul></div>
+    <div class="card"><h4><small>原因 2</small>空気遠近法</h4><ul><li>遠いほどコントラストが下がり、背景の色が混ざる</li><li>距離に応じて彩度とコントラストを下げる</li></ul></div>
+    <div class="card"><h4><small>原因 3</small>グレインとノイズ</h4><ul><li>実写にはノイズがあり、CGにはない</li><li>素材に同じ質のグレインを加える</li></ul></div>
+  </div>
+  <aside class="tip"><b>最終確認</b><p>画像を縮小するか、白黒に切り替える。不一致は、小さな画面と白黒でこそ目立つ。</p></aside>
+  <figure class="wide"><img src="img/p202_224_1369x774.png" alt=""><figcaption><b>G-16</b> 合成の前と後 — クロマキー素材と完成フレーム · GPT生成画像、概念説明用</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.7</div>
+    <dl><dt>課題</dt><dd>クロマキー素材と背景プレートから、1つのシーンを合成する。</dd><dt>ヒント</dt><dd>キーイングのあと、エッジ、スピル、影、色合わせの順に仕上げる。</dd><dt>評価</dt><dd>エッジの品質、光と色の一致</dd><dt>解答例</dt><dd>合成前後の比較に、レイヤー構成を添えて提出する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-8">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.8</div>
+    <h2>カラーグレーディング</h2>
+    <p class="lead">色に触る前に、明るさを整える。ルックは一次補正を終えてから始まる。</p>
+  </header>
+  <figure class="ph wide" data-id="P05-COLOR" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. color grading suite: colorist at a control surface with trackballs, scopes on one screen, graded image on a calibrated monitor">
+    <div class="ph-box"><span class="ph-id">P05-COLOR</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>カラーグレーディングルーム</b>トラックボール式コントロールパネルに向かうカラリスト。一方の画面にスコープ、キャリブレーション済みモニターにグレーディング中の映像</span></div>
+    <figcaption><b>注意</b>カラーグレーディングルーム — 目ではなくスコープでまず明るさを決め、それからルックを適用する</figcaption>
+  </figure>
+  <figure class="wide diagram"><img src="img_en/EN-p203_225_1372x747.png" alt=""><figcaption><b>図 52</b> グレーディングの各段階でのトーンの変化</figcaption></figure>
+  <h3>作業順</h3>
+  <div class="steps cols-6">
+    <div class="step"><b>01</b><i>露出 · コントラスト</i>色より先に明るさ</div>
+    <div class="step"><b>02</b><i>ホワイトバランス</i>グレーをグレーに見せる</div>
+    <div class="step"><b>03</b><i>ショットマッチ</i>1つのシーンは1つの時間帯</div>
+    <div class="step"><b>04</b><i>ルック</i>ここで初めて色を決める</div>
+    <div class="step"><b>05</b><i>セカンダリー</i>顔、空、商品だけ</div>
+    <div class="step"><b>06</b><i>出力の確認</i>モニター、スマートフォン、テレビで</div>
+  </div>
+  <aside class="note"><b>基本のルック</b><p>シャドウは寒色、ハイライトは暖色。肌の色はガンマに最も敏感に反応する。</p></aside>
+  <table class="t compact">
+    <thead><tr><th>ツール</th><th>調整対象</th><th>注意</th></tr></thead>
+    <tbody>
+      <tr><td>リフト</td><td>シャドウ</td><td>上げすぎると画が白っぽく濁る</td></tr>
+      <tr><td>ガンマ</td><td>ミッドトーン</td><td>肌の色が最も反応する</td></tr>
+      <tr><td>ゲイン</td><td>ハイライト</td><td>ハイライトが飛びやすい</td></tr>
+      <tr><td>カーブ</td><td>範囲ごとの精密な調整</td><td>コントラストを上げる基本はS字カーブ</td></tr>
+      <tr><td>HSLセカンダリー</td><td>選択した色だけを調整</td><td>肌の補正に必須</td></tr>
+      <tr><td>カラーホイール</td><td>トーンの範囲ごとに色を乗せる</td><td>シャドウは寒色、ハイライトは暖色：基本のルック</td></tr>
+    </tbody>
+  </table>
+  <figure class="wide"><img src="img/p204_227_1369x774.png" alt=""><figcaption><b>G-17</b> カラーグレーディング — Logの原版と2つのルック · GPT生成画像、概念説明用</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.8</div>
+    <dl><dt>課題</dt><dd>同じ素材で2つの異なるルックを作り、それぞれが生む感情を説明する。</dd><dt>ヒント</dt><dd>一次補正（露出、ホワイトバランス）を終えてからセカンダリーに進む。スコープを見る。</dd><dt>評価</dt><dd>肌の色の保持、ルックの一貫性</dd><dt>解答例</dt><dd>リファレンスのスチルにルックを合わせ、スコープのキャプチャーを添付する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-9">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.9</div>
+    <h2>モバイル編集と自動化ツール</h2>
+    <p class="lead">自動化の出力は下書きだ。確認せずに納品すれば、信頼は一度で失われる。</p>
+  </header>
+  <aside class="note"><b>注意</b><p>商用利用では、テンプレートと音楽のライセンス範囲を確認する。実在の人物の声を無断で複製してはならない。</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>ショート動画</small>CapCut</h4><ul><li>テンプレート、自動字幕、ビート同期、背景の除去</li><li>ショート動画の量産に効率的</li><li>商用利用：テンプレート · 音楽のライセンスを確認</li></ul></div>
+    <div class="card"><h4><small>字幕</small>Vrew</h4><ul><li>音声からの自動字幕、無音部分の一括削除</li><li>講義、インタビュー、解説動画の一次ラフカット</li><li>固有名詞の誤りは人が確認</li></ul></div>
+    <div class="card"><h4><small>音声</small>Typecast</h4><ul><li>テキストの音声化</li><li>ナレーションの下書き、多言語吹き替え</li><li>実在の声の無断複製は禁止</li></ul></div>
+    <div class="card"><h4><small>生成</small>Runwayなど</h4><ul><li>テキストと画像からの動画生成、背景の除去</li><li>撮影できないインサートの代用</li></ul></div>
+    <div class="card"><h4><small>3D</small>Meshy</h4><ul><li>画像を3Dモデルに変換</li><li>小道具 · キャラクターの試作、リギングとアニメーションのプレビュー</li></ul></div>
+    <div class="card"><h4><small>画像</small>Photoroomなど</h4><ul><li>背景の自動除去、レタッチ</li><li>商品写真の仕上げ</li></ul></div>
+  </div>
+  <div class="callout"><h4>自動化ツールを使うときのルール</h4><p>自動字幕の固有名詞、自動カットのテンポ、生成動画の指と文字。これらは必ず人が確認する。</p></div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.9</div>
+    <dl><dt>課題</dt><dd>モバイル編集アプリと自動化機能を使い、同じ素材を15分以内でショート動画に仕上げる。</dd><dt>ヒント</dt><dd>自動字幕は必ず校正する。</dd><dt>評価</dt><dd>速さと品質のバランス、自動化の出力に加えた修正</dd><dt>解答例</dt><dd>自動編集の結果に人が加えた修正を一覧にする。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-10">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.10</div>
+    <h2>出力仕様と納品</h2>
+    <p class="lead">コーデックは用途によって異なる。よくある出力トラブルには、決まった原因がある。</p>
+  </header>
+  <figure class="ph" data-id="P05-DELIVER" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. two labeled portable SSDs, a checklist on paper and a laptop showing an export progress bar, tidy desk">
+    <div class="ph-box"><span class="ph-id">P05-DELIVER</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>納品とバックアップ</b>ラベルを貼った2台のポータブルSSD、紙のチェックリスト、書き出しの進行バーを表示したノートパソコン</span></div>
+    <figcaption><b>注意</b>納品とバックアップ — 書き出したファイルは別々の2つのメディアに保存し、仕様はチェックリストで1つずつ確認する</figcaption>
+  </figure>
+  <aside class="tip"><b>ヒント</b><p>書き出す前に、解像度、ビットレート、ラウドネス（LUFS）、ファイル名のルールを表にまとめる。</p></aside>
+  <h3>用途別の出力仕様</h3>
+  <table class="t compact">
+    <thead><tr><th>用途</th><th>コーデック / 形式</th><th>主な設定</th></tr></thead>
+    <tbody>
+      <tr><td>編集ソフトへの受け渡し</td><td>ProRes 422 HQ</td><td>アルファが不要な場合の標準</td></tr>
+      <tr><td>アルファ付きの中間ファイル</td><td>ProRes 4444またはPNG連番</td><td>アルファチャンネルを有効にする</td></tr>
+      <tr><td>オンライン公開</td><td>H.264 mp4</td><td>4Kで40–60 Mbps</td></tr>
+      <tr><td>上映、展示</td><td>ProRes 422 HQまたは非圧縮</td><td>ループの開始と終了のフレームを確認</td></tr>
+      <tr><td>屋外LED</td><td>媒体運営者の仕様</td><td>解像度とフレームレートを事前に確認</td></tr>
+      <tr><td>アーカイブ</td><td>元のコーデックを維持</td><td>プロジェクトファイルを素材と一緒に保管</td></tr>
+    </tbody>
+  </table>
+  <h3>症状別の対処法</h3>
+  <table class="t compact">
+    <thead><tr><th>症状</th><th>原因</th><th>対処</th></tr></thead>
+    <tbody>
+      <tr><td>レンダリングが非常に遅い</td><td>高解像度の素材、エフェクトの重ねすぎ</td><td>プロキシ、プリレンダリング、エフェクトの削減</td></tr>
+      <tr><td>テキストの輪郭が粗い</td><td>連続ラスタライズがオフ</td><td>そのオプションをオンにする</td></tr>
+      <tr><td>色が違って見える</td><td>カラーマネジメントの不一致</td><td>プロジェクトの色空間を固定する</td></tr>
+      <tr><td>合成した要素が震える</td><td>トラッキングデータが不安定</td><td>再トラッキング、スムージングの適用</td></tr>
+      <tr><td>ファイルが開かない</td><td>コーデックが未インストール</td><td>汎用コーデックで書き出し直す</td></tr>
+      <tr><td>音が小さすぎる</td><td>ラウドネスが未調整</td><td>プラットフォームのラウドネスに合わせてノーマライズ</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.10</div>
+    <dl><dt>課題</dt><dd>同じ動画を、YouTube、Instagram Reels、劇場上映の3つの仕様で書き出す。</dd><dt>ヒント</dt><dd>最初に、解像度、ビットレート、ラウドネス（LUFS）、ファイル名のルールを表にまとめる。</dd><dt>評価</dt><dd>仕様の順守、ファイル管理</dd><dt>解答例</dt><dd>自分用の納品チェックリストを作り、書き出しごとの結果を添付する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-11">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.11</div>
+    <h2>エクスプレッションと自動化</h2>
+    <p class="lead">After Effectsの上級編。エクスプレッションは、キーフレームなしで値を計算する。文法を知らなくてもよい。5つ覚えるだけで、作業時間は大きく縮まる。</p>
+  </header>
+  <figure class="wide diagram"><img src="img_en/EN-p207_228_1370x384.png" alt=""><figcaption><b>図 53</b> 5つのイージングカーブ</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>エクスプレッション</th><th>役割</th><th>使用例</th></tr></thead>
+    <tbody>
+      <tr><td>wiggle(周波数, 振幅)</td><td>ランダムな揺れ</td><td>手持ち感、グリッチ、震え</td></tr>
+      <tr><td>loopOut()</td><td>キーフレームを打った区間を無限に繰り返す</td><td>回転するロゴ、ループする背景</td></tr>
+      <tr><td>time * 値</td><td>時間とともに値が変わる</td><td>一定速度の回転、スクロール</td></tr>
+      <tr><td>linear(t, tMin, tMax, 値1, 値2)</td><td>ある値の変化を別の値に対応させる</td><td>1つのスライダーで複数のプロパティを操作</td></tr>
+      <tr><td>ペアレント（ピックウイップ）</td><td>別のプロパティの値をそのまま受け取る</td><td>多数の要素をまとめて制御</td></tr>
+    </tbody>
+  </table>
+  <h3>作業を速くする習慣</h3>
+  <aside class="note"><b>注意</b><p>プリコンポーズは遠慮なく使う。ただし、入れ子が3階層以上になると管理が難しくなる。</p></aside>
+  <ul class="dash">
+    <li>よく使う設定はアニメーションプリセットとして保存し、再利用する。</li>
+    <li>ヌルオブジェクトをコントローラーにして、1つのスライダーで複数の値を調整する。</li>
+    <li>レイヤーには必ず名前を付ける。名前のない40枚のレイヤーは、翌日には自分でも分からなくなる。</li>
+    <li>レイヤーをカラーラベルで分類する。テキスト、背景、エフェクト、カメラをそれぞれ別の色にする。</li>
+    <li>プロジェクト整理の機能を使い、未使用のフッテージを定期的に削除する。</li>
+  </ul>
+  <h3>PremiereとAfter Effectsの連携</h3>
+  <div class="steps">
+    <div class="step"><b>01</b><i>カットを確定</i>Premiereで。カットが変わると合成が無駄になる</div>
+    <div class="step"><b>02</b><i>コンポジションに置き換え</i>クリップをAEのコンポジションに変換。変更は自動で反映される</div>
+    <div class="step"><b>03</b><i>作業 · 保存</i>AEで保存するだけでタイムラインが更新される</div>
+    <div class="step"><b>04</b><i>アルファ付きでレンダリング</i>重くなったら、アルファ付きのファイルに書き出して戻す</div>
+    <div class="step"><b>05</b><i>最終書き出し</i>Premiereから一度で。中間ファイルは高品質コーデックで</div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.11</div>
+    <dl><dt>課題</dt><dd>エクスプレッションを使い、自動で揺れるテキストと、時間とともに変わる数字カウンターを作る。</dd><dt>ヒント</dt><dd>wiggle、time、linearのエクスプレッションから始める。</dd><dt>評価</dt><dd>エクスプレッションの理解、再利用性</dd><dt>解答例</dt><dd>スライダー制御で値を調整できるテンプレートを作る。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-12">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.12</div>
+    <h2>DaVinci Resolveの機能</h2>
+    <p class="lead">カラーコレクションの標準ツールであり、編集、合成、音響まで扱える統合環境でもある。無料版でも、商用の仕事のほとんどをこなせる。</p>
+  </header>
+  <aside class="tip"><b>ヒント</b><p>目よりも計測を信じる。波形、パレード、ベクトルスコープで数値を確認する。</p></aside>
+  <h3>7つのページ</h3>
+  <table class="t compact wide">
+    <thead><tr><th>ページ</th><th>役割</th><th>主な機能</th></tr></thead>
+    <tbody>
+      <tr><td>メディア</td><td>素材の管理と整理</td><td>クリップの読み込み、メタデータ、プロキシの生成</td></tr>
+      <tr><td>カット</td><td>素早いラフカット</td><td>ソーステープ、スマート編集ツール</td></tr>
+      <tr><td>エディット</td><td>精密な編集</td><td>タイムライン、トランジション、字幕、速度変更</td></tr>
+      <tr><td>Fusion</td><td>合成とモーショングラフィックス</td><td>ノードベースの合成、トラッキング、パーティクル</td></tr>
+      <tr><td>カラー</td><td>カラーコレクション</td><td>ノード、カーブ、クオリファイアー、パワーウィンドウ、トラッカー</td></tr>
+      <tr><td>Fairlight</td><td>音響</td><td>ミキサー、オーディオエフェクト、ラウドネスメーター</td></tr>
+      <tr><td>デリバー</td><td>出力</td><td>コーデックのプリセット、一括レンダリング、プラットフォーム別バージョン</td></tr>
+    </tbody>
+  </table>
+  <h3>カラーページの主なツール</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>構造</small>ノード</h4><ul><li>補正の工程をブロックとしてつなぎ、個別にオン · オフできる</li><li>シリアル、パラレル、レイヤーの各ノード</li></ul></div>
+    <div class="card"><h4><small>色の選択</small>クオリファイアー</h4><ul><li>特定の色だけを選んで補正する</li><li>肌の色や空だけを調整するときに使う</li></ul></div>
+    <div class="card"><h4><small>領域</small>パワーウィンドウ</h4><ul><li>画面の選んだ領域だけを補正する</li><li>トラッカーと組み合わせれば、動く被写体を追う</li></ul></div>
+    <div class="card"><h4><small>精密</small>カーブ</h4><ul><li>明るさと色を範囲ごとに微調整する</li><li>コントラストを上げる基本はS字カーブ</li></ul></div>
+    <div class="card"><h4><small>自動</small>ショットマッチ</h4><ul><li>2つのショットの色を自動で合わせる</li><li>異なるカメラの映像をつなぐときの出発点</li></ul></div>
+    <div class="card"><h4><small>計測</small>スコープ</h4><ul><li>波形、パレード、ベクトルスコープ</li><li>目よりも計測を信じる</li></ul></div>
+  </div>
+  <h3>カラーノード構成の例</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>テクニカル変換</i>Logから標準へ</div>
+    <div class="step"><b>02</b><i>露出 · コントラスト</i>明るさを決める</div>
+    <div class="step"><b>03</b><i>ホワイトバランス</i>グレーをグレーに</div>
+    <div class="step"><b>04</b><i>ショットマッチ</i>1つのシーンは1つの時間帯</div>
+    <div class="step"><b>05</b><i>ルックの適用</i>作品の色を決める</div>
+    <div class="step"><b>06</b><i>肌の色</i>クオリファイアーで部分補正</div>
+    <div class="step"><b>07</b><i>空 · 背景</i>パワーウィンドウで部分補正</div>
+    <div class="step"><b>08</b><i>ビネット · グレイン</i>仕上げ</div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.12</div>
+    <dl><dt>課題</dt><dd>DaVinci Resolveで、3つ以上のノードからなる補正パイプラインを組む。</dd><dt>ヒント</dt><dd>1つのノードには1つの役割（露出、色、ルック）だけを与える。</dd><dt>評価</dt><dd>ノード構成の論理性、仕上がりの品質</dd><dt>解答例</dt><dd>各ノードに名前を付け、ノードごとにオン · オフを切り替えた比較スチルを提出する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-13">
+  <header>
+    <div class="crumb"><b>PART 05</b>編集とポストプロダクション</div>
+    <div class="num">5.13</div>
+    <h2>アニメーションの種類</h2>
+    <p class="lead">アニメーションは、1コマ1コマを何で作るかによって分類され、大きく2Dと3Dに分かれる。素材が変われば、動きの質感も作り方も変わる。</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">1コマを何で作るかで技法が分かれる</div><div class="grid c4"><div class="it"><img src="img_new/AM-CEL.jpg" alt=""><b>セルアニメーション</b><span>透明なセルに描き、背景に重ねる</span></div><div class="it"><img src="img_new/AM-CUTOUT.jpg" alt=""><b>切り絵</b><span>関節のある紙を少しずつ動かす</span></div><div class="it"><img src="img_new/AM-SAND.jpg" alt=""><b>砂アニメーション</b><span>光の上に砂を広げ、1コマずつ撮る</span></div><div class="it"><img src="img_new/AM-PIXIL.jpg" alt=""><b>ピクシレーション</b><span>人を人形のように1コマずつ撮る</span></div><div class="it"><img src="img_new/AM-PAPER.jpg" alt=""><b>ペーパードローイング</b><span>紙1枚に1コマ、めくって確認する</span></div><div class="it"><img src="img_new/AM-CLAY.jpg" alt=""><b>クレイ · ストップモーション</b><span>実物の人形を少しずつ動かして撮る</span></div><div class="it"><img src="img_new/AM-3D.jpg" alt=""><b>3D CG</b><span>リグを動かせば、コンピューターが計算する</span></div><div class="it"><img src="img_new/AM-ROTO.jpg" alt=""><b>ロトスコープ</b><span>実写を1コマずつなぞって描く</span></div></div><figcaption><b>図 54</b> アニメーションの8つの技法 — 素材が変われば、動きの質感も作り方も変わる。左上から右下へ進むにつれ、作業は「描く」から「計算する」へ移っていく。</figcaption></figure>
+  <h3>技法ごとの特徴</h3>
+  <div class="cards">
+    <div class="card"><h4><small>セル</small>セルアニメーション</h4><ul><li>透明なセルロイドにキャラクターを描き、背景に重ねて撮影する</li><li>商業長編の標準であり、デジタルレイヤーの原点</li></ul></div>
+    <div class="card"><h4><small>切り抜き</small>切り絵</h4><ul><li>紙や布から切り抜いた人形の関節をピンで留め、少しずつ動かして撮影する</li><li>ロッテ・ライニガーの『アクメッド王子の冒険』（1926年）。現在はデジタルパペットで作る</li></ul></div>
+    <div class="card"><h4><small>砂</small>砂アニメーション</h4><ul><li>ライトボックスの上の砂を手で動かし、形を変えながら撮影する</li><li>1つの形が次の場面へ流れるように変わるモーフィングが持ち味</li></ul></div>
+    <div class="card"><h4><small>人</small>ピクシレーション</h4><ul><li>人を人形のように1コマずつ撮影する</li><li>滑ったり宙に浮いたりする、現実にはない動き。ノーマン・マクラレンの『隣人』（1952年）</li></ul></div>
+    <div class="card"><h4><small>紙</small>ペーパー · ドローイング</h4><ul><li>紙に1枚ずつ描く、最も基本的な技法</li><li>原理を最も簡単に示すのがパラパラ漫画</li></ul></div>
+    <div class="card"><h4><small>粘土</small>クレイ · ストップモーション</h4><ul><li>粘土や関節付きの人形をセットの上で少しずつ動かして撮影する</li><li>素材の手作り感と、本物の光がそのまま残る</li></ul></div>
+    <div class="card"><h4><small>コンピューター</small>3D CG</h4><ul><li>モデルに骨格（リグ）を入れ、キーフレームを打ってからレンダリングする</li><li>『トイ・ストーリー』（1995年）は世界初のフルCG長編</li></ul></div>
+    <div class="card"><h4><small>トレース</small>ロトスコープ</h4><ul><li>実写の映像を1コマずつなぞって描く</li><li>リアルな動きを絵の質感に移したいときに使う</li></ul></div>
+  </div>
+  <div class="gallery cols-3 wide"><div class="title"><b>参考写真 5.13A</b>生成画像 — 1コマを作る3つの素材</div>
+    <figure class="ph" data-id="P05-ANIMCEL" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. animator at a light table flipping stacked drawing sheets, pencil keyframes of a bouncing ball">
+      <div class="ph-box"><span class="ph-id">P05-ANIMCEL</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>キーポーズと中割り</b>ライトテーブルの上で重ねた紙をめくるアニメーター。鉛筆で描いた弾むボール</span></div>
+      <figcaption><b>a</b>作画 — 先にキーポーズを描き、あとから中割りを埋める</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-STOPMO" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. stop-motion set: a small puppet on a miniature kitchen set, DSLR on a rig, animator adjusting the arm with tweezers">
+      <div class="ph-box"><span class="ph-id">P05-STOPMO</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>ストップモーション</b>ミニチュアのキッチンセットに置かれた人形、リグに固定したカメラ、ピンセットで腕を動かす手</span></div>
+      <figcaption><b>b</b>ストップモーション — 本物の光と素材の質感がそのまま残る</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-3D" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 3D animation workstation showing a wireframe character rig in the viewport, graph editor curves below">
+      <div class="ph-box"><span class="ph-id">P05-3D</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>3Dアニメーション</b>ビューポートに表示したワイヤーフレームのキャラクターリグ、その下にグラフエディターのカーブ</span></div>
+      <figcaption><b>c</b>3D — リグにキーフレームを打ち、グラフエディターでイージングを整える</figcaption>
+    </figure>
+  </div>
+  <figure class="fg wide"><div class="ttl">2Dは動きを描く。3Dは動きを設計し、計算する</div><div class="grid c2"><div class="it"><img src="img_new/AN-2D.jpg"><b>2D — 1枚ずつ描く</b><span>1枚の絵 = 1コマ。次の絵は前の絵に重ねて描く · 線 · 色 · 動きが1人の手から生まれる · 修正は描き直し</span></div><div class="it"><img src="img_new/AN-3D.jpg"><b>3D — モデルを動かす</b><span>リグ（骨格）を組み、ポーズ = キーフレームだけを決める · 中割りはコンピューターが計算する · カメラ · ライティング · マテリアルは個別に変えられる · 修正は値の変更</span></div></div><div class="rulebar"><b>選び方</b> — 手作り感と誇張が必要なら2D。カメラが回り込み、同じキャラクターを多くのアングル · 多くの話数で使うなら3D。実際の制作では両者を混ぜる（2Dルックの3D、3D背景に2Dキャラクター）。</div><figcaption><b>図 55</b> 2Dと3D — 絵が作る動きと、設計による動き。左は連続するコマの絵、右はリグとキーフレームが見える3Dビューポート。</figcaption></figure>
+  <h3>2Dと3Dの違い</h3>
+  <aside class="term"><b>2.5D</b><p>2Dの質感をまとった3D。増えつつあるハイブリッドだ。</p></aside>
+  <table class="t compact">
+    <thead><tr><th>観点</th><th>2D</th><th>3D</th></tr></thead>
+    <tbody>
+      <tr><td>作業の単位</td><td>1コマごとに新しい絵を描く</td><td>モデルを一度作り、ポーズとカメラを変える</td></tr>
+      <tr><td>空間</td><td>描いた遠近法で奥行きを見せる</td><td>仮想空間に奥行きが実在し、カメラはどこへでも行ける</td></tr>
+      <tr><td>修正</td><td>形を変えるには描き直すしかない</td><td>モデルとリグを直せば全ショットに反映される。初期の構築コストは高い</td></tr>
+      <tr><td>表現</td><td>自由な線と誇張</td><td>リアルな体積 · ライティング · マテリアル</td></tr>
+      <tr><td>広告での用途</td><td>モーショングラフィックス、キャラクター広告</td><td>商品デモ、構造の説明。実際には混在が最も多い</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>現場で使える一文</h4><p>技法を選ぶときは、まずどんな質感で記憶に残りたいかを決める。予算とスケジュールはその次だ。</p></div>
+  <div class="gallery cols-3"><div class="title"><b>参考写真 5.13A</b>生成画像 — 演出の参考</div>
+    <figure><img src="img/p213_234_449x251.png" alt=""><figcaption><b>a</b>セルアニメーション — 透明なセルに彩色する</figcaption></figure>
+    <figure><img src="img/p213_235_449x251.png" alt=""><figcaption><b>b</b>切り絵アニメーション — 切り抜いたパーツを動かす</figcaption></figure>
+    <figure><img src="img/p213_237_449x251.png" alt=""><figcaption><b>c</b>砂アニメーション — 砂で場面を描く</figcaption></figure>
+  </div>
+  <div class="gallery cols-3"><div class="title"><b>参考写真 5.13B</b>生成画像 — 演出の参考</div>
+    <figure><img src="img/p213_238_449x251.png" alt=""><figcaption><b>a</b>ピクシレーション — 人を1コマずつ撮る</figcaption></figure>
+    <figure><img src="img/p213_239_449x251.png" alt=""><figcaption><b>b</b>ペーパー · クレイのストップモーション</figcaption></figure>
+    <figure><img src="img/p213_240_449x251.png" alt=""><figcaption><b>c</b>3D CG — 仮想空間のキャラクター</figcaption></figure>
+  </div>
+  <div class="gallery cols-3"><div class="title"><b>参考写真 5.13C</b>生成画像 — 演出の参考</div>
+    <figure><img src="img/p213_241_449x251.png" alt=""><figcaption><b>a</b>2D — 線と面で描く</figcaption></figure>
+    <figure><img src="img/p213_242_449x251.png" alt=""><figcaption><b>b</b>3D — 体積と光</figcaption></figure>
+    <figure><img src="img/p213_243_449x251.png" alt=""><figcaption><b>c</b>2.5D — 2Dの質感をまとった3D</figcaption></figure>
+  </div>
+  <div class="lab"><div class="lab-n"><small>演習</small>5.13</div>
+    <dl><dt>課題</dt><dd>同じ5秒の動きを2回作る。1回は2Dセルで、もう1回は3Dまたはストップモーションで。</dd><dt>ヒント</dt><dd>作業時間を記録する。それが技法を選ぶうえで最も現実的な根拠になる。</dd><dt>評価</dt><dd>各技法の特性と制作コストの理解</dd><dt>解答例</dt><dd>成果物に制作時間の記録表を添え、技法選びの指針としてまとめる。</dd></dl></div>
+</article>
+
+<section class="part-end page" id="end5">
+  <header><div class="crumb">PART 05のまとめ</div><h2>演習と振り返り</h2></header>
+  <ol class="missions">
+    <li><b>2回編集する</b>同じ素材から30秒の動画を2回編集する。1回は音楽を先に敷き、もう1回は映像を先につなぐ。結果を比較する。</li>
+    <li><b>3つの登場</b>After Effectsで、1行のテキストをリニア、イーズアウト、オーバーシュートの3通りで登場させ、比較する。</li>
+    <li><b>色補正の前と後</b>同じショットのカラーコレクション前と後を並べて見せる比較動画を作る。</li>
+    <li><b>自動字幕の確認</b>自動字幕ツールで1分のインタビューに字幕を生成し、誤りの数を数える。</li>
+  </ol>
+  <h3>1ページまとめ</h3>
+  <div class="summary">
+    <div class="card"><h4>5.1 編集技術の歴史</h4><p>道具は変わったが、プロキシ、EDL、タイムコード、そしてフレームの感覚は残っている。</p></div>
+    <div class="card"><h4>5.2 編集の基本原則</h4><p>退屈だから切るのではない。次のショットのほうがよい情報を与えるときに、動きの途中で切る。音を先に敷く。</p></div>
+    <div class="card"><h4>5.3 編集ソフトの比較</h4><p>PremiereとAfter Effectsは採用の標準だ。両方を深く知っておく。</p></div>
+    <div class="card"><h4>5.4 · 5.5 PremiereとAfter Effects</h4><p>Premiereは時間を横に扱い、After Effectsはレイヤーを縦に扱う。役割を分ければ、時間は半分になる。</p></div>
+    <div class="card"><h4>5.6 アニメーションの12原則</h4><p>イージング、予備動作、フォロースルー、誇張の順に直せば、初心者らしさは消える。</p></div>
+    <div class="card"><h4>5.7 合成とキーイング</h4><p>合成が浮いて見える理由は3つ。黒レベル、空気遠近法、グレインだ。</p></div>
+    <div class="card"><h4>5.8 カラーグレーディング</h4><p>露出とホワイトバランスが先、ルックはあと。リフト · ガンマ · ゲインは、シャドウ · ミッドトーン · ハイライトを調整する。</p></div>
+    <div class="card"><h4>5.9 自動化ツール</h4><p>自動化の出力は下書きだ。固有名詞、テンポ、指、文字は人が確認する。</p></div>
+    <div class="card"><h4>5.10 · 5.11 書き出しとエクスプレッション</h4><p>用途に合ったコーデックを守り、wiggle · loopOut · time · linearでキーフレームを減らす。</p></div>
+    <div class="card"><h4>5.12 · 5.13 Resolveとアニメーション</h4><p>1つのノードに1つの役割。技法は質感で選び、予算はその次。品質を決めるのはトランジションの数ではなく、カットの順序だ。</p></div>
+  </div>
+  <h3>考えてみよう</h3>
+  <dl class="qa">
+    <dt>自分の編集では、何をきっかけにカットを決めているか？</dt><dd>退屈だからか、それとも次のショットのほうがよい情報を与えるからか。カットを捨てるたびに理由を1行で書いていけば、自分の基準が見えてくる。</dd>
+    <dt>トランジションを入れたくなったとき、その箇所に本当に必要なものは何か？</dt><dd>本当にエフェクトが必要なのか、カットの順序を変えるだけでよいのかを、まず確認する。</dd>
+    <dt>セルフチェック</dt><dd>次のそれぞれを説明できるか。PremiereとAfter Effectsの役割の違い、プリコンポーズが必要になる場面、アルファとルミナンスのトラックマットの違い、合成が浮いて見える3つの理由、リフト · ガンマ · ゲインがそれぞれ何を調整するか。</dd>
+    <dt>現場のヒント</dt><dd>プロジェクトのフォルダー構成とファイル名のルールは、初日に決めておく。よく使うタイトルやエフェクトはプリセットとして保存する（2か月で1日分の時間が浮く）。修正依頼は必ずタイムコードで受け取る。「全体的に何か物足りない」というフィードバックは差し戻し、具体的な指摘を求める。</dd>
+  </dl>
+</section>

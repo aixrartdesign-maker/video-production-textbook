@@ -1,0 +1,442 @@
+[
+{
+"key": "part02.html#1234",
+"ja": "1.18 · 1.20 視線、時間と空間"
+},
+{
+"key": "part02.html#1235",
+"ja": "視線が届く先に次のカットを置き、2つのカットの間にどれだけの時間と距離があるかを先に決める。"
+},
+{
+"key": "part02.html#1236",
+"ja": "考えてみよう"
+},
+{
+"key": "part02.html#1237",
+"ja": "自分が最もよく使うショットサイズはどれか？それは習慣か、選択か？"
+},
+{
+"key": "part02.html#1238",
+"ja": "8ショット比較表を使い、最も多く撮ったサイズと一度も撮っていないサイズに印をつける。"
+},
+{
+"key": "part02.html#1239",
+"ja": "最近見た作品で最も記憶に残っているカットは何か？なぜ記憶に残ったのか？"
+},
+{
+"key": "part02.html#1240",
+"ja": "サイズ、アングル、長さに分解して考える。"
+},
+{
+"key": "part02.html#1241",
+"ja": "現場で、フレーミングの指示をどう言葉にするか？"
+},
+{
+"key": "part02.html#1242",
+"ja": "「もう少しタイトに」のような業界用語を使う。「もう少し小さく」では、3人が3通りに解釈する。"
+},
+{
+"key": "feature_storyboard.html#0",
+"ja": "特集 · 絵コンテ"
+},
+{
+"key": "feature_storyboard.html#1",
+"ja": "絵コンテ、<br>絵で交わす約束"
+},
+{
+"key": "feature_storyboard.html#2",
+"ja": "絵コンテは画力の問題ではなく、情報設計の問題だ。この特集では、10人が同じシーンを撮るために1コマが何を伝えるべきか、そしてコマが媒体――横型・縦型・ウルトラワイド・360度・曲面・ファサード・AR/VR/MR/XR――によってどう変わるかを、1か所にまとめる。"
+},
+{
+"key": "feature_storyboard.html#3",
+"ja": "<b>G-18</b> 絵コンテの作成 — すべてのコマにショット · 動き · 時間を書く。絵は粗くてもよいが、情報は粗くてはならない。"
+},
+{
+"key": "feature_storyboard.html#4",
+"ja": "<b>01</b><i>ラフコンテ</i>監督がアイデアを整理する段階。ラフな絵で複数の案を比較し、内部の打ち合わせに使う。1–2時間。"
+},
+{
+"key": "feature_storyboard.html#5",
+"ja": "<b>02</b><i>絵コンテ</i>スタッフ全員のための設計図。正確なフレーミング · タイミング · 音。PPM承認後の変更は最小限に。1–2日。"
+},
+{
+"key": "feature_storyboard.html#6",
+"ja": "<b>03</b><i>アニマティック</i>絵コンテをタイムラインに並べ、仮の音楽 · ナレーションをつけたもの。リズムと尺の問題がすぐに見える。2–3日。"
+},
+{
+"key": "feature_storyboard.html#7",
+"ja": "<b>ヒント</b>"
+},
+{
+"key": "feature_storyboard.html#8",
+"ja": "15秒広告や1分のショート動画では、アニマティックまでつくる。リズムの問題は静止画では見えない。"
+},
+{
+"key": "feature_storyboard.html#9",
+"ja": "絵コンテは、制作工程の中でミスを安く直せる最後の地点だ。企画段階での修正コストを1とすれば、絵コンテ段階では3、撮影当日は20、ポストプロダクションでは50になる。だから絵コンテは、きれいに描くための書類ではなく、<b>早く間違えるための書類</b>である。"
+},
+{
+"key": "feature_storyboard.html#10",
+"ja": "<b>参考写真 1.1A</b>生成画像 — 絵コンテの4つの顔"
+},
+{
+"key": "feature_storyboard.html#11",
+"ja": "<span class=\"ph-id\">P06-SB-HAND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>手描きの絵コンテ — コマ · 矢印 · タイミングのメモを1枚に</b></span>"
+},
+{
+"key": "feature_storyboard.html#12",
+"ja": "<b>メモ</b>手描きの絵コンテ — コマ · 矢印 · タイミングのメモを1枚に"
+},
+{
+"key": "feature_storyboard.html#13",
+"ja": "<span class=\"ph-id\">P06-SB-VERT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>縦型動画の絵コンテ — コマは細く縦長になる</b></span>"
+},
+{
+"key": "feature_storyboard.html#14",
+"ja": "<b>メモ</b>縦型動画の絵コンテ — コマは細く縦長になる"
+},
+{
+"key": "feature_storyboard.html#15",
+"ja": "<span class=\"ph-id\">P06-SB-DIGITAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>デジタル絵コンテ — タブレットで描き、そのままアニマティックへ</b></span>"
+},
+{
+"key": "feature_storyboard.html#16",
+"ja": "<b>メモ</b>デジタル絵コンテ — タブレットで描き、そのままアニマティックへ"
+},
+{
+"key": "feature_storyboard.html#17",
+"ja": "<span class=\"ph-id\">P06-ANIMATIC</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>アニマティック — 絵コンテをタイムラインに並べてリズムを確かめる</b></span>"
+},
+{
+"key": "feature_storyboard.html#18",
+"ja": "<b>メモ</b>アニマティック — 絵コンテをタイムラインに並べてリズムを確かめる"
+},
+{
+"key": "feature_storyboard.html#19",
+"ja": "<b>参考写真 1.1B</b>生成画像 — 演出の参考"
+},
+{
+"key": "feature_storyboard.html#20",
+"ja": "<b>a</b>手描きの絵コンテ"
+},
+{
+"key": "feature_storyboard.html#21",
+"ja": "<b>b</b>アニマティックの編集画面"
+},
+{
+"key": "feature_storyboard.html#22",
+"ja": "<b>c</b>ロケハン"
+},
+{
+"key": "feature_storyboard.html#23",
+"ja": "<small>見開き 01</small>コマの解剖 — 9項目がそろわなければ、ほかの誰も撮れない"
+},
+{
+"key": "feature_storyboard.html#24",
+"ja": "コマの解剖 — 9つの項目"
+},
+{
+"key": "feature_storyboard.html#25",
+"ja": "<span>CUT 02</span><span class=\"sc\">S#1 カフェ · 昼 · 屋内</span><span>2.5秒 · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#26",
+"ja": "MCU · EYE · 50 mm · DOLLY IN ゆっくり · CUT TO"
+},
+{
+"key": "feature_storyboard.html#27",
+"ja": "ト書き：商品を手に取る · 視線は商品へ"
+},
+{
+"key": "feature_storyboard.html#28",
+"ja": "N 一日の始まりが変わる · SE キャップ音 · M ピアノ イン"
+},
+{
+"key": "feature_storyboard.html#29",
+"ja": "<i>1</i><b>カット番号 · シーン</b><span>順序と参照の基準</span>"
+},
+{
+"key": "feature_storyboard.html#30",
+"ja": "<i>2</i><b>時間</b><span>秒数 + 通しのタイムコード</span>"
+},
+{
+"key": "feature_storyboard.html#31",
+"ja": "<i>3</i><b>絵（フレーム）</b><span>構図 · 位置 · 視線 · 矢印</span>"
+},
+{
+"key": "feature_storyboard.html#32",
+"ja": "<i>4</i><b>ショットサイズ · アングル · レンズ</b><span>ELS–ECU · EYE/HIGH/LOW</span>"
+},
+{
+"key": "feature_storyboard.html#33",
+"ja": "<i>5</i><b>カメラワーク</b><span>方向 + 速度をひと言で</span>"
+},
+{
+"key": "feature_storyboard.html#34",
+"ja": "<i>6</i><b>ト書き</b><span>出来事を動詞で</span>"
+},
+{
+"key": "feature_storyboard.html#35",
+"ja": "<i>7</i><b>ナレーション · セリフ</b><span>N / V.O. / SYNC</span>"
+},
+{
+"key": "feature_storyboard.html#36",
+"ja": "<i>8</i><b>音</b><span>M · SE · ATM</span>"
+},
+{
+"key": "feature_storyboard.html#37",
+"ja": "<i>9</i><b>トランジション</b><span>CUT / DIS / FI / FO</span>"
+},
+{
+"key": "feature_storyboard.html#38",
+"ja": "<b>図 57</b> 絵コンテのコマの構成要素。9つすべてが書かれてはじめて、他人が同じ画を撮れる。"
+},
+{
+"key": "feature_storyboard.html#39",
+"ja": "<small>コマの中</small>見えるものだけ"
+},
+{
+"key": "feature_storyboard.html#40",
+"ja": "人物 · 物の位置と大きさ（ショットサイズは絵の大きさ）"
+},
+{
+"key": "feature_storyboard.html#41",
+"ja": "視線の方向、動きの矢印（被写体 = 黒、カメラ = ワイン色）"
+},
+{
+"key": "feature_storyboard.html#42",
+"ja": "画面に入るテロップ · ロゴの領域は点線の枠で"
+},
+{
+"key": "feature_storyboard.html#43",
+"ja": "セーフエリアの点線 — テロップはその内側だけ"
+},
+{
+"key": "feature_storyboard.html#44",
+"ja": "<small>コマの外</small>聞こえるもの、そして数値"
+},
+{
+"key": "feature_storyboard.html#45",
+"ja": "時間：秒数と通しのタイムコードの両方"
+},
+{
+"key": "feature_storyboard.html#46",
+"ja": "略号：SIZE / ANGLE / LENS / MOVE / TR"
+},
+{
+"key": "feature_storyboard.html#47",
+"ja": "ト書きは動詞で、感情は形容詞で、分けて書く"
+},
+{
+"key": "feature_storyboard.html#48",
+"ja": "N · V.O. · SYNC · M · SE — 音の4つの層を1行に"
+},
+{
+"key": "feature_storyboard.html#49",
+"ja": "<small>見開き 02</small>アスペクト比別のコマのテンプレート — 比率が変われば構図の文法も変わる"
+},
+{
+"key": "feature_storyboard.html#50",
+"ja": "絵コンテのコマは、必ず<b>納品するアスペクト比のとおりに</b>描く。16:9で描いてから縦型に切り抜いたものは、絵コンテではない。以下の各テンプレートは、同じシーン（人物・商品・背景）をそれぞれの比率に合わせて演出し直したものだ。点線はアクションセーフ（90%）とタイトルセーフ（80%）を示す。"
+},
+{
+"key": "feature_storyboard.html#51",
+"ja": "アスペクト比別のコマのテンプレート"
+},
+{
+"key": "feature_storyboard.html#52",
+"ja": "<b>4:3</b><span>1440×1080 · レトロ</span>"
+},
+{
+"key": "feature_storyboard.html#53",
+"ja": "<b>16:9</b><span>1920×1080 · 標準</span>"
+},
+{
+"key": "feature_storyboard.html#54",
+"ja": "<b>21:9</b><span>3840×1608 · シネマ</span>"
+},
+{
+"key": "feature_storyboard.html#55",
+"ja": "<b>1:1</b><span>1080×1080 · フィード</span>"
+},
+{
+"key": "feature_storyboard.html#56",
+"ja": "<b>4:5</b><span>1080×1350 · フィード最大</span>"
+},
+{
+"key": "feature_storyboard.html#57",
+"ja": "<b>9:16</b><span>1080×1920 · ショート動画</span>"
+},
+{
+"key": "feature_storyboard.html#58",
+"ja": "<b>9:21</b><span>1080×2520 · 縦型LED</span>"
+},
+{
+"key": "feature_storyboard.html#59",
+"ja": "<b>2:1 正距円筒図法</b><span>4096×2048 · 360/VR — 赤枠は正面90°</span>"
+},
+{
+"key": "feature_storyboard.html#60",
+"ja": "<b>図版 SB-1</b> 1つのシーン、9つの比率。比率が変われば、被写体の大きさと背景の割合が変わる — 絵コンテは納品するアスペクト比のとおりに描く。"
+},
+{
+"key": "feature_storyboard.html#61",
+"ja": "比率"
+},
+{
+"key": "feature_storyboard.html#62",
+"ja": "代表的な解像度"
+},
+{
+"key": "feature_storyboard.html#63",
+"ja": "用途"
+},
+{
+"key": "feature_storyboard.html#64",
+"ja": "構図のルールをひと言で"
+},
+{
+"key": "feature_storyboard.html#65",
+"ja": "描くときの注意"
+},
+{
+"key": "feature_storyboard.html#66",
+"ja": "YouTube、テレビ、モニター、プレゼンテーション"
+},
+{
+"key": "feature_storyboard.html#67",
+"ja": "目と商品を三分割線の上に"
+},
+{
+"key": "feature_storyboard.html#68",
+"ja": "4Kで撮影 → 縦型を切り出す余裕"
+},
+{
+"key": "feature_storyboard.html#69",
+"ja": "映画、ブランドフィルム"
+},
+{
+"key": "feature_storyboard.html#70",
+"ja": "横の余白が感情になる。1カットに2人"
+},
+{
+"key": "feature_storyboard.html#71",
+"ja": "16:9のレターボックスで納品。テロップ位置を確認"
+},
+{
+"key": "feature_storyboard.html#72",
+"ja": "Reels · Shorts · TikTok"
+},
+{
+"key": "feature_storyboard.html#73",
+"ja": "中央60%、顔は上1/3に"
+},
+{
+"key": "feature_storyboard.html#74",
+"ja": "UIが上14% · 下25%を覆う"
+},
+{
+"key": "feature_storyboard.html#75",
+"ja": "縦型LED、エレベーター · 柱"
+},
+{
+"key": "feature_storyboard.html#76",
+"ja": "上→下の流れ、縦の中心線"
+},
+{
+"key": "feature_storyboard.html#77",
+"ja": "視聴距離2 m以上 → 文字は60 px以上"
+},
+{
+"key": "feature_storyboard.html#78",
+"ja": "フィード広告"
+},
+{
+"key": "feature_storyboard.html#79",
+"ja": "中央配置、均等な余白"
+},
+{
+"key": "feature_storyboard.html#80",
+"ja": "16:9素材は左右で44%を失う"
+},
+{
+"key": "feature_storyboard.html#81",
+"ja": "VRヘッドセット、360度プレーヤー"
+},
+{
+"key": "feature_storyboard.html#82",
+"ja": "アクションは正面90°以内、音は背後"
+},
+{
+"key": "feature_storyboard.html#83",
+"ja": "天頂 · 天底の歪み、三脚を消す"
+},
+{
+"key": "feature_storyboard.html#84",
+"ja": "自由比率"
+},
+{
+"key": "feature_storyboard.html#85",
+"ja": "LEDモジュール数 × ピクセルピッチ"
+},
+{
+"key": "feature_storyboard.html#86",
+"ja": "曲面 · ファサード · ドーム"
+},
+{
+"key": "feature_storyboard.html#87",
+"ja": "基準は面ではなく「視聴位置」"
+},
+{
+"key": "feature_storyboard.html#88",
+"ja": "展開図 + 上面図の2枚をセットで"
+},
+{
+"key": "feature_storyboard.html#89",
+"ja": "<small>見開き 03</small>横型と縦型は別の媒体ではなく、別の言語 — 同じカットを2度設計する"
+},
+{
+"key": "feature_storyboard.html#90",
+"ja": "同じカットを2度設計する"
+},
+{
+"key": "feature_storyboard.html#91",
+"ja": "<b>✕ 16:9を中央で切り抜いた縦型</b><span>人物が半分、窓が半分 — 切り抜きは設計ではない</span>"
+},
+{
+"key": "feature_storyboard.html#92",
+"ja": "<b>○ 縦型用に再設計したカット</b><span>顔は上1/3、商品は中央、背景は少なく</span>"
+},
+{
+"key": "feature_storyboard.html#93",
+"ja": "<b>縦型に移すとき</b><span>ショットは1サイズ寄る</span><span>背景は別カットにする</span><span>視線と動きは上から下へ</span><span>テロップは中央60%の帯の中に</span><span>カット数は20–30%増える</span>"
+},
+{
+"key": "feature_storyboard.html#94",
+"ja": "<b>図版 SB-2</b> 横型と縦型は別の言語。中央切り抜き（左）と再設計（中央）の違い。"
+},
+{
+"key": "feature_storyboard.html#95",
+"ja": "縦型絵コンテのサンプル — 15秒のショート動画広告（9:16、6カット）"
+},
+{
+"key": "feature_storyboard.html#96",
+"ja": "縦型絵コンテのサンプル"
+},
+{
+"key": "feature_storyboard.html#97",
+"ja": "<b>CU · LOCKED</b><span>あくび · テロップ「毎朝、これ？」</span>"
+},
+{
+"key": "feature_storyboard.html#98",
+"ja": "<b>ECU · HIGH · プッシュイン</b><span>手がボトルを取る · SE キャップ音</span>"
+},
+{
+"key": "feature_storyboard.html#99",
+"ja": "<b>MCU · HH</b><span>ひと口、目が開く · 「おっ。」</span>"
+},
+{
+"key": "feature_storyboard.html#100",
+"ja": "<b>LS · LOW · TILT UP</b><span>窓の外の街 · N 街より先に</span>"
+}
+]

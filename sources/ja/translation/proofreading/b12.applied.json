@@ -1,0 +1,4 @@
+[
+ {"key": "part12.html#33", "find": "（最大の場合）", "replace": "（最良の場合）", "why": "meaning: best case, not maximum"},
+ {"key": "part12.html#52", "find": "韓国初期の", "replace": "韓国で最初期の", "why": "meaning: one of Korea's first, not 'early Korea'"}
+]

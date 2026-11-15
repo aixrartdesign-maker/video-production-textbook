@@ -1,0 +1,7 @@
+[
+{"key": "part07.html#369", "find": "1度に1行", "replace": "一度に1行", "why": "typo: 一度に (at a time), 1度 reads as one degree"},
+{"key": "part07.html#581", "find": "ピクセルピッチやニトといった", "replace": "ピクセルピッチやニットといった", "why": "term: nit = ニット"},
+{"key": "part07.html#594", "find": "輝度（ニト）", "replace": "輝度（ニット）", "why": "term: nit = ニット"},
+{"key": "part07.html#833", "find": "ニトで表示", "replace": "ニットで表示", "why": "term: nit = ニット"},
+{"key": "part07.html#989", "find": "ピクセルピッチやニトといった", "replace": "ピクセルピッチやニットといった", "why": "term: nit = ニット"}
+]

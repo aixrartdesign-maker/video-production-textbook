@@ -1,0 +1,3 @@
+[{"key": "part12.html#517", "find": "履歴書や自己紹介書を添付", "replace": "履歴書やカバーレターを添付", "why": "other: cover letter = カバーレター; 自己紹介書 is a Korean calque"},
+ {"key": "part12.html#617", "find": "ほうき型 ―― T字型", "replace": "ほうき型――T字型", "why": "typography: no spaces around ―― in Japanese prose"},
+ {"key": "part12.html#732", "find": "課題", "replace": "問題", "why": "term: Problem page; neighbouring #733/#735 say 問題, 課題 is the fixed term for Task"}]

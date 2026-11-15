@@ -1,0 +1,6 @@
+[
+ {"key": "part02.html#436", "find": "視聴者を見るのではなく", "replace": "視聴者をまっすぐ見るのではなく", "why": "meaning: 'instead of at them' = looking straight at the viewer"},
+ {"key": "part02.html#771", "find": "信頼、冷たさ、テクノロジー", "replace": "信頼、クールさ、テクノロジー", "why": "meaning: positive 'coolness', not coldness"},
+ {"key": "part02.html#779", "find": "節制", "replace": "抑制", "why": "other: 'restraint' of color is 抑制, not 節制 (temperance)"},
+ {"key": "part02.html#883", "find": "節制", "replace": "抑制", "why": "other: 'restraint' of color is 抑制, not 節制 (temperance)"}
+]

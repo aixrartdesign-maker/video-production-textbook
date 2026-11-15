@@ -1,0 +1,5 @@
+[
+ {"key": "part03.html#93", "find": "画質と暗所に弱い", "replace": "画質が劣る、暗所に弱い", "why": "other: unnatural phrasing"},
+ {"key": "part03.html#480", "find": "ぱらついた鋭さ", "replace": "カクカクした鋭さ", "why": "other: unnatural word for choppy"},
+ {"key": "part03.html#538", "find": "ぱらついた鋭さ", "replace": "カクカクした鋭さ", "why": "other: unnatural word for choppy"}
+]

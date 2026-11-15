@@ -1,0 +1,699 @@
+<!-- PART 09 플랫폼 운영과 생성형 AI -->
+<section class="part" id="part9">
+  <div class="photo"><img src="img_new/OPEN-PLATFORM.jpg" alt=""><div class="label">PART</div><div class="num"><small>PART</small>09</div></div>
+  <div class="body">
+    <div class="makes"><b>このPARTで作るもの</b><ol><li>YouTubeチャンネルの企画（説明文 · バナー · 再生リスト · 最初の動画3本）</li><li>1か月のコンテンツカレンダーと2週間の運用記録</li><li>各段階にAIツールを配置した制作パイプラインと、1分の動画</li></ol></div>
+    <div><h1>プラットフォーム運用と生成AI</h1><p class="intro">よい動画を作ることと、見つけてもらうことは別の技術だ。プラットフォームごとに評価される行動は異なり、タイトルとサムネイルはすでに演出の一部になっている。このPARTでは「どうすれば再生数が伸びるのか」という問いに、プラットフォームの文法、指標の読み方、生成AIの位置づけから答える。</p></div>
+  </div>
+  <div class="credit">写真 P-09 縦型撮影リグとパフォーマンスダッシュボードのある作業机 · 生成画像</div>
+</section>
+
+<section class="howto page">
+  <figure class="hero wide"><img src="img/p340_323_1344x752.png" alt=""><figcaption><b>P-09</b> 縦型撮影リグとパフォーマンスダッシュボードのある作業机</figcaption></figure>
+  <div class="kicker">授業での使い方</div>
+  <p class="goal">プラットフォームごとの文法を見分け、パイプラインにAIを配置する</p>
+  <p class="prep"><b>準備するもの</b>各自のアカウントまたは模擬アカウント、言語モデルを使える環境</p>
+  <div class="timeline">
+    <div class="slot"><b>10分</b><i>導入</i><span>同じ動画に付けた2つのタイトルのCTRを予想する</span></div>
+    <div class="slot"><b>15分</b><i>概念</i><span>各プラットフォームが評価するもの、指標を読む順序</span></div>
+    <div class="slot"><b>10分</b><i>図版</i><span>AIパイプラインの6段階とツールの全体像</span></div>
+    <div class="slot"><b>10分</b><i>演習</i><span>アイデアを20個生成し、3つに絞り、理由を記録する</span></div>
+    <div class="slot"><b>5分</b><i>まとめ</i><span>AI使用記録の書式を紹介する</span></div>
+  </div>
+  <div class="check"><b>チェックポイント</b>AIをどの段階に、なぜ入れたかを説明できる</div>
+</section>
+
+<section class="essay page" id="intro-9">
+  <header><div class="crumb">PART 09</div><h2>はじめに</h2></header>
+  <div class="cols">
+    <p>よい動画を作ることと、見つけてもらうことは別の技術だ。YouTubeが配信の壁を取り払って以来、企画の出発点はアイデアから「見つけてもらえるか」へ移った。タイトルとサムネイルが演出の一部になったのは、そのためだ。</p>
+    <p>プラットフォームにはそれぞれの文法がある。YouTubeは検索と視聴時間、Instagramは保存とシェア、TikTokは参加と二次創作で動く。同じ動画をそのまま投稿しておいて結果が違うと言うのは、各プラットフォームが何を評価するかを知らないと明かしているにすぎない。</p>
+    <p>このPARTでは、タイトルの書き方からハッシュタグの組み方、コメントへの返信、成果指標の読み解き、広告運用の基礎までを扱う。なぜ作り手にこれが必要なのか。いまの就職市場で最も求められているのが、作り、投稿し、数字を読める人だからだ。</p>
+  </div>
+</section>
+
+<section class="essay page" id="essay-16">
+  <header><div class="crumb">背景 16</div><h2>アテンションエコノミーとアルゴリズムの観客</h2></header>
+  <div class="cols">
+    <p>プラットフォームの時代、映像は観客に直接届かない。レコメンドのアルゴリズムを経由して届く。再生数を理解するには、まず「注意」という希少な資源を理解しなければならない。ハーバート・サイモンは1971年の講演で「情報の豊かさは注意の貧困を生む」と述べ、1990年代後半にはマイケル・ゴールドハーバーらがこの状況を「アテンションエコノミー」と呼んだ。今日、あらゆる動画が同じ画面の上で、人々の数秒を奪い合っている。</p>
+    <p>プラットフォームは、この競争の審判をアルゴリズムに任せている。YouTubeは2012年、レコメンドの基準をクリック数から視聴時間へ移すと発表した。それ以来、多くのプラットフォームが視聴維持率、視聴完了率、再視聴、シェアといった行動シグナルを重視するようになった。仕組みは非公開で頻繁に変わるが、原理ははっきりしている。最後まで見られ、もう一度見られ、人に送られる動画が、より多くの人に表示される。</p>
+    <p>作り手にとっての教訓は2つある。第一に、サムネイルとタイトルでクリックを得ても、内容が約束を破れば視聴維持率が落ち、おすすめへの表示は減る。誇張したタイトルは短期のクリックを得て、長期の信頼を失う。第二に、重要なのは、序盤と中盤の離脱ポイントをデータで確認し、学んだことを次の動画に生かすというループだ。9章の指標の読み方は、このループのための道具である。</p>
+    <p>共通する構造もある。システムはまず少数のユーザーに動画をテスト表示し、その反応をもとにリーチを広げたり狭めたりする。読み取るシグナルは、どれだけ長く見たか、最後まで見たか、保存やシェアをしたか、また戻ってきたかである。再生数は結果であって原因ではない。作り手が動かせる変数は再生数ではなく、視聴維持率と反応率だ。</p>
+    <p>落とし穴が1つある。指標は目標になったとたんに機能しなくなる――この指摘はグッドハートの法則として知られる。扇情的なサムネイルと誇張したタイトルは短期のCTRを上げるが、離脱を増やし、チャンネル全体への信頼を損なう。指標は観客の反応をのぞく窓であって、観客そのものではない。</p>
+    <p>アルゴリズムの時代には、作り手の責任も大きくなる。虚偽情報、他人の肖像権の侵害、生成AIの画像を本物と偽ること。どれも、短期の再生数がどれほど伸びようと割に合わない。よいチャンネルはアルゴリズムをだまさない。特定の観客に、着実に価値を届ける。結局のところ、アルゴリズムはその価値を見いだした人々の行動についていく。</p>
+    <p>参考図書 — ティム・ウー『The Attention Merchants』 · マイケル・ゴールドハーバー「The Attention Economy and the Net」</p>
+  </div>
+</section>
+
+<article class="sec page" id="s9-1">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.1</div>
+    <h2>プラットフォームマップ</h2>
+    <p class="lead">視聴者はこの動画を見に来たのか、それとも別の目的で来て偶然出会ったのか。この判断1つで、最初の3秒の戦略はまったく変わる。</p>
+  </header>
+  <figure class="ph" data-id="P09-FEED"><div class="ph-box r3-2"><span class="ph-id">P09-FEED</span><span class="ph-icon"></span><span class="ph-desc"><b>フィードをはじく親指</b>縦型ショート動画のフィードをスクロールする親指のクローズアップ、ぼけた色とりどりのフレーム</span></div><figcaption><b>注意</b>フィードをはじく親指 — 「通りすがりの視聴者」に対して、最初の3秒はこの親指を止めるためにある</figcaption></figure>
+  <table class="t wide compact">
+    <thead><tr><th>プラットフォーム</th><th>視聴モード</th><th>注意度</th><th>音</th><th>最初の3秒の役割</th></tr></thead>
+    <tbody>
+      <tr><td>テレビ</td><td>着席、受動的</td><td>低い</td><td>オン</td><td>ザッピングを止める</td></tr>
+      <tr><td>映画館</td><td>没入、席を立てない</td><td>非常に高い</td><td>高音質</td><td>世界に引き込む</td></tr>
+      <tr><td>YouTubeインストリーム</td><td>本編を待っている</td><td>低い、敵対的</td><td>オン</td><td>スキップを防ぐ</td></tr>
+      <tr><td>YouTube動画</td><td>検索またはおすすめ経由</td><td>高い</td><td>オン</td><td>期待どおりだと確認させる</td></tr>
+      <tr><td>ショート動画</td><td>スクロール中、能動的</td><td>非常に低い</td><td>ほぼオフ</td><td>スクロールを止める</td></tr>
+      <tr><td>Instagramフィード</td><td>流し見</td><td>低い</td><td>オフ</td><td>サムネイルで目を引く</td></tr>
+      <tr><td>屋外メディア</td><td>移動中、偶然</td><td>非常に低い</td><td>なし</td><td>形と色で認識させる</td></tr>
+      <tr><td>ブログ埋め込み</td><td>読んでいる途中で再生</td><td>高い</td><td>任意</td><td>本文との連動</td></tr>
+    </tbody>
+  </table>
+  <aside class="tip"><b>ヒント</b><p>各プラットフォームで1日に過ごす時間を計ってみると、マップがはっきり見えてくる。</p></aside>
+  <div class="vs">
+    <div><h4>見に来た視聴者</h4><ul><li>検索 · おすすめ経由のYouTube動画、ブログ埋め込み</li><li>期待に応えればよい</li><li>最初の3秒で「ここで合っている」と確認させる</li></ul></div>
+    <div><h4>通りすがりの視聴者</h4><ul><li>インストリーム、ショート動画、フィード、屋外</li><li>期待をつくらなければならない</li><li>最初の3秒でスキップとスクロールを止める</li></ul></div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.1</div>
+    <dl><dt>課題</dt><dd>自分が使っているプラットフォーム5つを、目的別（発見、会話、販売、アーカイブ）のマップに配置する。</dd><dt>ヒント</dt><dd>各プラットフォームで1日に過ごす時間を計る。</dd><dt>評価</dt><dd>プラットフォームの特性の理解</dd><dt>解答例</dt><dd>1つのコンテンツが形を変えながらプラットフォーム間を移っていく流れを設計する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-2">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.2</div>
+    <h2>YouTubeの運用</h2>
+    <p class="lead">YouTubeは検索と視聴時間で動く。順序はこうだ。タイトル · サムネイルでクリックを得て、内容で約束を守り、次の動画でセッションを延ばす。</p>
+  </header>
+  <h3>タイトルの書き方</h3>
+  <aside class="note"><b>注意</b><p>誇張した釣りタイトルは序盤のクリックを得るが、視聴維持率を下げ、結局は表示回数を減らす。</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>キーワードは最初の25文字以内に入れる。モバイルでは末尾が切れる。</span></li>
+    <li><b>02</b><span>全体の長さは40〜60文字。100文字を超えると大半が切れる。</span></li>
+    <li><b>03</b><span>抽象的な言葉より、数字と具体的な言葉が強い。「よい方法」より「3つの方法」。</span></li>
+    <li><b>04</b><span>検索流入を狙うなら、人々が実際に検索窓に打ち込む言い回しをそのまま使う。</span></li>
+    <li><b>05</b><span>ブランド名は末尾に置く。冒頭に置くと広告に見え、CTRが下がる。</span></li>
+  </ol>
+  <h3>サムネイルの設計</h3>
+  <figure class="ph" data-id="P09-THUMB"><div class="ph-box"><span class="ph-id">P09-THUMB</span><span class="ph-icon"></span><span class="ph-desc"><b>タイトルとサムネイルのA/B</b>同じ動画のサムネイル案3つをモニターで見比べるデザイナー、マウスに置いた手</span></div><figcaption><b>注意</b>タイトルとサムネイルのA/B — 同じ動画でも、サムネイル次第でCTRは数倍変わる</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>要素</th><th>基準</th><th>よくある失敗</th></tr></thead>
+    <tbody>
+      <tr><td>文字数</td><td>3–7文字、最大2行</td><td>文をまるごと詰め込む</td></tr>
+      <tr><td>文字サイズ</td><td>画面の高さの15%以上</td><td>モバイルで読めない</td></tr>
+      <tr><td>コントラスト</td><td>背景との明度差を大きく</td><td>似た明るさに埋もれる</td></tr>
+      <tr><td>顔</td><td>表情のはっきりしたクローズアップ</td><td>全身ショットで顔が小さい</td></tr>
+      <tr><td>色</td><td>チャンネルの固定色2–3色</td><td>毎回色が変わり、個性がない</td></tr>
+      <tr><td>一貫性</td><td>シリーズで同じレイアウト</td><td>同じチャンネルに見えない</td></tr>
+    </tbody>
+  </table>
+  <h3>説明文、タグ、チャプター</h3>
+  <ul class="dash">
+    <li>説明文の最初の2〜3行は、検索結果とプレビューに表示される。要点とリンクはここに置く。</li>
+    <li>説明文の先頭から3つまでのハッシュタグが、タイトルの上に表示される。最も重要な3つを先に書く。</li>
+    <li>タイムスタンプでチャプターに分けると、動画内を移動しやすくなり、平均視聴時間が伸びる。</li>
+    <li>補足情報や質問を固定コメントにするとコメントでの交流が増え、終了画面とカードで次の動画へつなぐとセッションの視聴時間が延びる。</li>
+  </ul>
+  <h3>アルゴリズムが見るもの</h3>
+  <table class="t compact">
+    <thead><tr><th>指標</th><th>意味</th><th>改善方法</th></tr></thead>
+    <tbody>
+      <tr><td>クリック率(CTR)</td><td>表示回数あたりのクリック数</td><td>タイトルとサムネイルを作り直す</td></tr>
+      <tr><td>平均視聴時間</td><td>実際に引きとめた時間</td><td>離脱直前のカットを分析する</td></tr>
+      <tr><td>視聴維持率</td><td>全体の長さのうち視聴された割合</td><td>短くする、中盤の中だるみを削る</td></tr>
+      <tr><td>セッション時間</td><td>自分の動画のあとプラットフォームにとどまった時間</td><td>関連動画をつなぐ</td></tr>
+      <tr><td>エンゲージメント</td><td>高評価、コメント、シェア、保存</td><td>問いかける、シェアする理由を設計する</td></tr>
+      <tr><td>再訪問</td><td>登録者の再視聴率</td><td>定期的な投稿スケジュールを守る</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>離脱ポイントの分析</h4><p>視聴維持率のグラフで急な落ち込みを探し、それぞれの直前のカットを確認する。原因はたいていそのカットにある。学生作品の場合は、代わりに小規模な試写会（10人ほど）を開き、どこで集中が切れるかを観察する。</p></div>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.2</div>
+    <dl><dt>課題</dt><dd>YouTubeチャンネルを開設し、説明文、バナー、再生リスト、最初の動画3本を企画する。</dd><dt>ヒント</dt><dd>このチャンネルが誰の、どんな問題を解決するのかを一文で定義する。</dd><dt>評価</dt><dd>チャンネルのアイデンティティの明確さ</dd><dt>解答例</dt><dd>最初の3本が互いをすすめ合うように、再生リストと終了画面を設計する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-3">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.3</div>
+    <h2>ショート動画3大プラットフォームの比較</h2>
+    <p class="lead">同じ30秒の縦型動画でも、Shorts · Reels · TikTokでは受け取られ方が違う。ユーザーの習慣も、無難な長さも、拡散の経路もそれぞれ異なる。</p>
+  </header>
+  <figure class="ph" data-id="P09-DANCE"><div class="ph-box"><span class="ph-id">P09-DANCE</span><span class="ph-icon"></span><span class="ph-desc"><b>チャレンジ文化</b>公園で、三脚に載せたスマートフォンでダンスチャレンジを撮る10代の若者たち、1人がテイクを確認している</span></div><figcaption><b>注意</b>チャレンジ文化 — 同じ曲、同じ振り付けでも、プラットフォームごとに広がる速さが違う</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>項目</th><th>YouTube Shorts</th><th>Instagram Reels</th><th>TikTok</th></tr></thead>
+    <tbody>
+      <tr><td>ユーザーの習慣</td><td>検索や情報収集と結びつく</td><td>見た目の完成度とセンス</td><td>流行と参加</td></tr>
+      <tr><td>コンテンツの型</td><td>情報系、まとめ系が強い</td><td>美的な完成度を重視</td><td>ミームとチャレンジが強い</td></tr>
+      <tr><td>編集のトーン</td><td>字幕中心の解説</td><td>色とリズムを優先</td><td>速い切り替えと音</td></tr>
+      <tr><td>音楽の使い方</td><td>主にBGM</td><td>雰囲気をつくる</td><td>流行の音源が拡散を生む</td></tr>
+      <tr><td>広告の受け止められ方</td><td>情報性があれば受け入れられる</td><td>広告に見えると離脱される</td><td>広告だと明かし、面白さで勝負する</td></tr>
+      <tr><td>無難な長さ</td><td>20–60 s</td><td>15–30 s</td><td>9–21 s</td></tr>
+      <tr><td>拡散の経路</td><td>おすすめフィードと検索</td><td>発見タブとシェア</td><td>「おすすめ」フィード</td></tr>
+      <tr><td>二次創作</td><td>リミックス、Shortsのリミックス</td><td>リミックス、テンプレート</td><td>デュエット、スティッチ、リミックス</td></tr>
+    </tbody>
+  </table>
+  <h3>縦型フレーミングの原則</h3>
+  <div class="kv cols-3">
+    <div><b>12<em>%</em></b>UIに隠れる上部</div>
+    <div><b>20<em>%</em></b>UIに隠れる下部</div>
+    <div><b>1/3<em>下</em></b>字幕は中央揃えで、画面の下1/3に</div>
+  </div>
+  <aside class="tip"><b>ヒント</b><p>プラットフォーム間の比較は、投稿時間とハッシュタグをそろえて初めて成り立つ。</p></aside>
+  <ul class="dash">
+    <li>被写体はフレーム中央の縦軸上に置く。</li>
+    <li>クローズアップの比率を大きく上げる。ロングショットでは情報がつぶれる。</li>
+    <li>ループ再生を前提に、最初と最後のフレームをつなげる。</li>
+  </ul>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.3</div>
+    <dl><dt>課題</dt><dd>同じ30秒の動画をShorts、Reels、TikTokに投稿し、1週間の指標を比較する。</dd><dt>ヒント</dt><dd>投稿時間とハッシュタグをそろえる。</dd><dt>評価</dt><dd>比較条件の統制、指標の解釈</dd><dt>解答例</dt><dd>プラットフォームごとに何が違ったのか仮説を立て、次の投稿で検証する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-4">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.4</div>
+    <h2>Instagramの運用</h2>
+    <p class="lead">Instagramは保存とシェアで動く。最初のフレームがサムネイルになり、「続きを読む」の前に表示されるのはキャプションの1行目だけだ。</p>
+  </header>
+  <figure class="ph" data-id="P09-GRID"><div class="ph-box"><span class="ph-id">P09-GRID</span><span class="ph-icon"></span><span class="ph-desc"><b>フィードのグリッド設計</b>印刷した正方形の写真9枚をテーブルに3×3で並べ、フィードを計画する担当者</span></div><figcaption><b>注意</b>フィードのグリッド設計 — 1つの投稿ではなく、9マス全体が1つの世界に見えなければならない</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>形式</th><th>推奨仕様</th><th>特徴</th><th>制作のルール</th></tr></thead>
+    <tbody>
+      <tr><td>フィード</td><td>4:5または1:1</td><td>スクロールを止める</td><td>最初のフレームがサムネイル</td></tr>
+      <tr><td>リール</td><td>9:16</td><td>発見タブ経由で拡散</td><td>最初と最後をループするように作る</td></tr>
+      <tr><td>ストーリーズ</td><td>9:16</td><td>24時間で消える、全画面</td><td>タップを誘う要素を入れる</td></tr>
+      <tr><td>カルーセル</td><td>4:5</td><td>保存率が高い</td><td>1枚に1ポイント</td></tr>
+      <tr><td>ライブ</td><td>9:16</td><td>リアルタイムの交流</td><td>固定の照明、安定した音声</td></tr>
+    </tbody>
+  </table>
+  <h3>キャプションとハッシュタグ</h3>
+  <aside class="term"><b>ハッシュタグの規模</b><p>目安として、大規模タグは数十万件以上の投稿、中規模は数万件、小規模は数千件と考える。</p></aside>
+  <div class="cards">
+    <div class="card"><h4><small>1行目</small>結論から書く</h4><ul><li>「続きを読む」の前に見えるのはここだけ</li><li>質問で終えるとコメントが増える</li></ul></div>
+    <div class="card"><h4><small>ハッシュタグ</small>10–15個、大 · 中 · 小を混ぜる</h4><ul><li>大規模タグだけでは埋もれ、小規模タグだけではリーチが伸びない</li><li>ブランド固有のハッシュタグを1つ、アーカイブとして全投稿に付ける</li></ul></div>
+    <div class="card"><h4><small>タグ</small>位置情報 · アカウントのタグ</h4><ul><li>実際にリーチを伸ばす</li></ul></div>
+  </div>
+  <h3>コメントとコミュニティの管理</h3>
+  <ul class="dash">
+    <li>投稿後1時間の反応が、その後のリーチを左右する。この1時間はコメントに返信する。</li>
+    <li>否定的なコメントは、削除するより公開の場で答えるほうがよい。明らかな誹謗中傷とスパムは例外だ。</li>
+    <li>アルゴリズムは「いいね」より保存とシェアを重く見る。保存したくなる情報を入れる。</li>
+  </ul>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.4</div>
+    <dl><dt>課題</dt><dd>Instagramアカウントの9マスのグリッドを、1つの世界観で統一して企画する。</dd><dt>ヒント</dt><dd>3投稿を1セット（写真、動画、テキスト）としてリズムをつくる。</dd><dt>評価</dt><dd>ビジュアルの一貫性、運用計画</dd><dt>解答例</dt><dd>グリッド全体が1つのブランドの世界として読める。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-5">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.5</div>
+    <h2>TikTokとリミックス文化</h2>
+    <p class="lead">TikTokの本質は、完成したコンテンツを見せることではなく、参加の余地を残すことにある。デュエット、スティッチ、リミックスは、自分の動画を他人が素材として使えるようにする仕組みであり、拡散の主な経路でもある。</p>
+  </header>
+  <table class="t compact">
+    <thead><tr><th>機能</th><th>仕組み</th><th>企画への生かし方</th></tr></thead>
+    <tbody>
+      <tr><td>デュエット</td><td>他人の動画が自分の動画と並んで再生される</td><td>他人が反応できる瞬間を残す</td></tr>
+      <tr><td>スティッチ</td><td>他人が自分の動画の一部を切り取り、その人の動画の冒頭に使う</td><td>質問か、言いかけの文で終える</td></tr>
+      <tr><td>リミックス</td><td>元の動画を編集して新しい動画にする</td><td>編集しやすい単純な構成</td></tr>
+      <tr><td>流行の音源</td><td>同じ音源を使った動画がまとめられる</td><td>伸びている音源に早めに乗る</td></tr>
+      <tr><td>チャレンジ</td><td>同じ動きやフォーマットをまねる</td><td>誰でも3秒でまねできる単純な動き</td></tr>
+    </tbody>
+  </table>
+  <aside class="tip"><b>ヒント</b><p>元のフォーマットのルールは守り、要素を1つだけひねる。</p></aside>
+  <div class="callout"><h4>参加を促す設計の原則</h4><p>拡散は、まねしたい、反論したい、付け足したいと思わせる余地を残すことから生まれる。広告でも同じだ。</p></div>
+  <blockquote class="pull">完璧に作ると、誰も手を出さない。<small>8.5 TikTokとリミックス文化</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.5</div>
+    <dl><dt>課題</dt><dd>流行のフォーマットを1つ選び、自分なりのひねりを加えたTikTok動画を作る。</dd><dt>ヒント</dt><dd>元のフォーマットのルールは守り、要素を1つだけひねる。</dd><dt>評価</dt><dd>フォーマットの理解、ひねりの独創性</dd><dt>解答例</dt><dd>元の作者を尊重する形で参加する（デュエット、クレジット表記）。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-6">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.6</div>
+    <h2>Threadsとテキスト中心のメディア</h2>
+    <p class="lead">主役は短いテキストで、画像と動画は脇役だ。文そのものがフックになる。</p>
+  </header>
+  <figure class="ph" data-id="P09-TEXT"><div class="ph-box r3-2"><span class="ph-id">P09-TEXT</span><span class="ph-icon"></span><span class="ph-desc"><b>テキスト中心のメディア</b>カフェでスマートフォンに短い投稿を書く人、1杯のコーヒー、ミニマルな構図</span></div><figcaption><b>注意</b>テキスト中心のメディア — 文そのものがフック。動画はそのあとに続く</figcaption></figure>
+  <div class="cards">
+    <div class="card"><h4><small>Threads</small>会話を始める一文</h4><ul><li>自動再生の短い動画が強い</li><li>会話を誘う一文がアルゴリズムに優遇される</li></ul></div>
+    <div class="card"><h4><small>X（旧Twitter）</small>速報とミーム</h4><ul><li>リンクが速く広がる</li><li>動画は30秒未満、字幕は必須</li></ul></div>
+    <div class="card"><h4><small>LinkedIn</small>仕事とキャリア</h4><ul><li>仕事関連の情報が中心</li><li>ポートフォリオの公開と就職活動に直結する</li></ul></div>
+  </div>
+  <aside class="tip"><b>ヒント</b><p>最初の一文で問いかけ、動画のリンクは最後に置く。</p></aside>
+  <p>動画1本を宣伝する投稿であっても、そのメディアの文法に従う。Threadsは会話を、Xは速さを、LinkedInは職業上の文脈を評価する。</p>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.6</div>
+    <dl><dt>課題</dt><dd>1本の動画を宣伝するテキスト投稿を、Threadsのスタイルで5つ書く。</dd><dt>ヒント</dt><dd>最初の一文で問いかけ、動画のリンクは最後に置く。</dd><dt>評価</dt><dd>文章の引きの強さ、会話の誘発</dd><dt>解答例</dt><dd>コメントで出た質問を、次の動画のテーマにする。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-7">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.7</div>
+    <h2>ブログプラットフォームの比較</h2>
+    <p class="lead">ブログは検索流入と滞在時間を同時に確保できる。動画だけを載せれば滞在は短く、文章だけを書けば見せるものがない。</p>
+  </header>
+  <table class="t wide compact">
+    <thead><tr><th>プラットフォーム</th><th>強み</th><th>弱み</th><th>動画の扱い</th><th>向いている用途</th></tr></thead>
+    <tbody>
+      <tr><td>NAVERブログ</td><td>韓国内の検索流入が最大</td><td>他の検索エンジンでは表示されにくい</td><td>独自プレーヤーまたはYouTube埋め込み</td><td>韓国語の情報記事、地域の話題</td></tr>
+      <tr><td>Tistory</td><td>自由なカスタマイズ、Google検索に強い</td><td>初期の流入が遅い</td><td>主にYouTube埋め込み</td><td>長文のアーカイブ、AdSense</td></tr>
+      <tr><td>Brunch</td><td>文章の質にもとづく露出</td><td>審査が必要、商用利用に制限</td><td>動画の埋め込みが可能</td><td>エッセイ、ブランディング</td></tr>
+      <tr><td>WordPress</td><td>完全な自由度、拡張性</td><td>すべて自分で運営する</td><td>何でも埋め込める</td><td>ポートフォリオサイト</td></tr>
+      <tr><td>Medium</td><td>世界中の読者、すっきりしたレイアウト</td><td>韓国からの流入が少ない</td><td>主に埋め込み</td><td>英語の記事、海外へのリーチ</td></tr>
+      <tr><td>Notionの公開ページ</td><td>すぐ作れる、無料</td><td>SEOに弱い</td><td>埋め込み</td><td>手早く作るポートフォリオ</td></tr>
+    </tbody>
+  </table>
+  <h3>ブログに動画を載せる</h3>
+  <aside class="tip"><b>ヒント</b><p>動画の台本を本文に移すと、検索流入が大きく伸びる。自動字幕を整えるのが手早い方法だ。</p></aside>
+  <ul class="dash">
+    <li>動画の上下に要約文を置き、検索での表示と滞在時間の両方を確保する。</li>
+    <li>検索語はタイトルと最初の段落に自然に織り込む。無理な繰り返しはかえって評価を下げる。</li>
+    <li>画像には代替テキストを付ける。アクセシビリティにも検索にも役立つ。</li>
+    <li>ポートフォリオでは、制作過程、問題解決、結果の順に書く。結果だけの記事は目立たない。</li>
+  </ul>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.7</div>
+    <dl><dt>課題</dt><dd>同じメイキング記事を2つのブログに投稿し、検索流入を比較する。</dd><dt>ヒント</dt><dd>検索語をタイトルに入れ、本文で画像を説明する。</dd><dt>評価</dt><dd>SEOの理解</dd><dt>解答例</dt><dd>1か月分の流入検索語を分析し、次の記事を企画する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-8">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.8</div>
+    <h2>主要な成果指標</h2>
+    <p class="lead">指標は順番に読む。リーチ、CTR、視聴維持率、エンゲージメント。順に確認すれば、原因をすばやく絞り込める。</p>
+  </header>
+  <figure class="ph" data-id="P09-ANALYTICS"><div class="ph-box"><span class="ph-id">P09-ANALYTICS</span><span class="ph-icon"></span><span class="ph-desc"><b>視聴維持率の曲線</b>モニターに映る動画分析のダッシュボード、最初の数秒で急落する視聴維持率の曲線</span></div><figcaption><b>注意</b>視聴維持率の曲線 — 原因は急落の直前のカットにある</figcaption></figure>
+  <h3>指標を読む順序</h3>
+  <div class="kv">
+    <div><b>01<em>リーチ</em></b>低ければ、投稿戦略の問題</div>
+    <div><b>02<em>CTR</em></b>低ければ、タイトルとサムネイルの問題</div>
+    <div><b>03<em>視聴維持率</em></b>低ければ、内容の問題</div>
+    <div><b>04<em>エンゲージメント</em></b>低ければ、関係性の問題</div>
+  </div>
+  <aside class="tip"><b>ヒント</b><p>視聴維持率のグラフで急な落ち込みを探し、そのシーンを見直す。</p></aside>
+  <table class="t wide compact">
+    <thead><tr><th>指標</th><th>意味</th><th>計算式またはデータ元</th><th>改善方法</th></tr></thead>
+    <tbody>
+      <tr><td>リーチ</td><td>何人が見たか</td><td>プラットフォームのインサイト</td><td>投稿時間、ハッシュタグ</td></tr>
+      <tr><td>クリック率</td><td>表示回数あたりのクリック数</td><td>クリック数 ÷ 表示回数</td><td>タイトルとサムネイル</td></tr>
+      <tr><td>視聴率(VTR)</td><td>表示回数あたりの視聴回数</td><td>視聴回数 ÷ 表示回数</td><td>最初の3秒を作り直す</td></tr>
+      <tr><td>視聴完了率</td><td>最後まで見た人の割合</td><td>完了視聴数 ÷ 視聴回数</td><td>短くする</td></tr>
+      <tr><td>平均視聴時間</td><td>実際に引きとめた時間</td><td>総視聴時間 ÷ 視聴回数</td><td>離脱ポイントを分析する</td></tr>
+      <tr><td>エンゲージメント率</td><td>いいね、コメント、シェア、保存</td><td>エンゲージメント数 ÷ リーチ</td><td>シェアする理由を設計する</td></tr>
+      <tr><td>フォロワー増加率</td><td>投稿ごとの純増数</td><td>増加数 ÷ リーチ</td><td>チャンネルのアイデンティティを明確にする</td></tr>
+      <tr><td>保存率</td><td>リーチに対する保存数</td><td>保存数 ÷ リーチ</td><td>情報密度を上げる</td></tr>
+      <tr><td>視聴単価</td><td>広告の効率</td><td>費用 ÷ 視聴回数</td><td>ターゲティング、クリエイティブの差し替え</td></tr>
+      <tr><td>ブランドリフト</td><td>認知度と好意度の変化</td><td>事前・事後調査</td><td>メッセージの明確さ</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.8</div>
+    <dl><dt>課題</dt><dd>自分の動画3本について再生数、平均視聴時間、CTRを表にまとめ、改善点を見つける。</dd><dt>ヒント</dt><dd>視聴維持率のグラフで急な落ち込みを探し、そのシーンを見直す。</dd><dt>評価</dt><dd>指標の解釈の正確さ、原因の仮説</dd><dt>解答例</dt><dd>離脱ポイントを直した新しいバージョンを投稿し、変化を確認する。</dd></dl></div>
+</article>
+
+<section class="essay page" id="essay-17">
+  <header><div class="crumb">背景 17</div><h2>生成AIが変えるもの</h2></header>
+  <div class="cols">
+    <p>ツールを比べる前に、まずこの技術が制作工程のどこに入るのかを整理しておく。映像のための生成AIは、3つの系統で発展してきた。テキストから画像を作るモデル、画像とテキストから動きを作る動画モデル、声と音楽を作る音声モデルである。出自は異なるが、動く仕組みは似ている。膨大なデータからパターンを学習し、与えられた条件に合う結果を確率的に生成する。同じプロンプトでも毎回違う結果が出るのは、そのためだ。</p>
+    <p>実務では、この確率的な性質が2つの形で表れる。下書きは非常に速く出てくるが、同じ結果を2度得るのは難しい。そのため現場では、AIは最終成果物の作り手というより、初期の探索のための道具として使われる。多くの選択肢をすばやく見たい段階に向いている。絵コンテ用のラフ画像、コンセプトアート、レイアウト案、字幕の下書き、コピーの別案などだ。</p>
+    <p>最大の課題は一貫性だ。同じ人物の顔がシーンごとに微妙に変わり、同じ空間の照明がカットごとに変わる。対策としては、参照画像を与える、先にキーとなる画像を作って残りをそれに合わせて生成する、ポストプロダクションで補正する、といった方法がある。「AIがどこまでやり、どこから人が引き継ぐか」をあらかじめ決めておかなければ、スケジュールは崩れる。</p>
+    <p>結局のところ、物差しは問題解決である。AIは平均的にもっともらしい結果をすばやく出すが、なぜこのブランドがいまこのメッセージを語らなければならないのか、このシーンで観客に何を感じてほしいのかには答えられない。企画、構成、審美眼にかかわる判断は、いまも人のものだ。ツールが安くなるほど、差は使う人の問いに表れる。</p>
+    <p>倫理と法律の問題もついてくる。学習データの出所、特定の作家の作風の模倣、実在の人物の顔や声の合成は、いずれも慎重な扱いが要る。商業案件では、利用規約で商用利用の可否と権利の帰属を確認し、AIをどこまで使うかを事前にクライアントに伝える。人の顔や声を使うときは、必ず本人の同意を得る。</p>
+    <p>要するに、この技術は制作の工程をなくすのではない。あらゆる工程で、最初の下書きのコストを大きく下げるのだ。増えるのは余裕ではなく、選択肢である。この時代の実力者とは、増えた下書きの山から何を選ぶべきかを知っている人だ。</p>
+    <p>参考図書 — イーサン・モリック『Co-Intelligence』 · 韓国著作権委員会『生成AI著作権ガイド』 · カイフー・リー『AI世界秩序』</p>
+  </div>
+</section>
+
+<article class="sec page" id="s9-9">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.9</div>
+    <h2>生成AIツールの比較</h2>
+    <p class="lead">ツールの比較と使い方。各分野のツールは、実務の中でそれぞれ違う場所に位置する。どこで使い、何に注意するかを知っていれば、ツールの名前が変わっても判断はぶれない。</p>
+  </header>
+  <figure class="wide diagram">
+<svg viewBox="0 0 980 360" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="10">
+<text x="30" y="22" font-size="11.5" font-weight="500" fill="#1B1B1D">生成AI映像ツールの10年 — 研究室から編集室へ</text>
+<rect x="30" y="36" width="300" height="250" fill="#F6F5F3"/>
+<text x="38" y="52" font-size="9" font-weight="500" fill="#7A1C2B">基礎研究 2014–2020</text>
+<rect x="345" y="36" width="215" height="250" fill="#EBD7DB"/>
+<text x="353" y="52" font-size="9" font-weight="500" fill="#7A1C2B">大衆化 2022–2023 — 画像から動画へ</text>
+<rect x="575" y="36" width="375" height="250" fill="#F6EEF0"/>
+<text x="583" y="52" font-size="9" font-weight="500" fill="#7A1C2B">実務へ 2024– — 動画モデル競争 · エージェント</text>
+<line x1="30" y1="170" x2="950" y2="170" stroke="#1B1B1D" stroke-width="1.5"/>
+<circle cx="90" cy="170" r="5" fill="#3C3C40"/>
+<text x="90" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2014</text>
+<line x1="90" y1="146" x2="90" y2="164" stroke="#3C3C40" stroke-width="1"/>
+<text x="90" y="126" text-anchor="middle" font-size="9.5" font-weight="500" fill="#3C3C40">GAN</text>
+<text x="90" y="140" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">敵対的生成ネットワークの論文</text>
+<circle cx="185" cy="170" r="5" fill="#3C3C40"/>
+<text x="185" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2017</text>
+<line x1="185" y1="192" x2="185" y2="202" stroke="#3C3C40" stroke-width="1"/>
+<text x="185" y="212" text-anchor="middle" font-size="9.5" font-weight="500" fill="#3C3C40">Transformer</text>
+<text x="185" y="226" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">アテンション — 以後のすべてのモデルの土台</text>
+<circle cx="300" cy="170" r="5" fill="#3C3C40"/>
+<text x="300" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2020</text>
+<line x1="300" y1="146" x2="300" y2="164" stroke="#3C3C40" stroke-width="1"/>
+<text x="300" y="126" text-anchor="middle" font-size="9.5" font-weight="500" fill="#3C3C40">GPT-3</text>
+<text x="300" y="140" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">大規模言語モデルが可能性を示す</text>
+<circle cx="415" cy="170" r="6" fill="#7A1C2B"/>
+<text x="415" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2022</text>
+<line x1="415" y1="192" x2="415" y2="202" stroke="#7A1C2B" stroke-width="1"/>
+<text x="415" y="212" text-anchor="middle" font-size="9.5" font-weight="500" fill="#7A1C2B">Stable Diffusion · Midjourney</text>
+<text x="415" y="226" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">ChatGPT</text>
+<text x="415" y="240" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">画像生成の大衆化、対話型AI</text>
+<circle cx="520" cy="170" r="6" fill="#7A1C2B"/>
+<text x="520" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2023</text>
+<line x1="520" y1="146" x2="520" y2="164" stroke="#7A1C2B" stroke-width="1"/>
+<text x="520" y="126" text-anchor="middle" font-size="9.5" font-weight="500" fill="#7A1C2B">Runway Gen-2 · Pika</text>
+<text x="520" y="140" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">テキスト·画像 → 短い動画</text>
+<circle cx="640" cy="170" r="6" fill="#7A1C2B"/>
+<text x="640" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2024</text>
+<line x1="640" y1="192" x2="640" y2="202" stroke="#7A1C2B" stroke-width="1"/>
+<text x="640" y="212" text-anchor="middle" font-size="9.5" font-weight="500" fill="#7A1C2B">Sora発表 · Kling · Veo</text>
+<text x="640" y="226" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">MCP(Model Context Protocol)発表</text>
+<text x="640" y="240" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">動画モデル競争の始まり、ツール連携プロトコル</text>
+<circle cx="770" cy="170" r="6" fill="#7A1C2B"/>
+<text x="770" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2025</text>
+<line x1="770" y1="146" x2="770" y2="164" stroke="#7A1C2B" stroke-width="1"/>
+<text x="770" y="112" text-anchor="middle" font-size="9.5" font-weight="500" fill="#7A1C2B">Veo 3 · Seedance 1.0</text>
+<text x="770" y="126" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">Higgsfield · Nano Banana</text>
+<text x="770" y="140" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">音の生成、キャラクター一貫性ツール</text>
+<circle cx="885" cy="170" r="6" fill="#7A1C2B"/>
+<text x="885" y="188" text-anchor="middle" font-size="10" font-weight="500" fill="#1B1B1D">2026</text>
+<line x1="885" y1="192" x2="885" y2="202" stroke="#7A1C2B" stroke-width="1"/>
+<text x="885" y="212" text-anchor="middle" font-size="9.5" font-weight="500" fill="#7A1C2B">Seedance 2.0など</text>
+<text x="885" y="226" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3C3C40">四半期ごとにモデルが入れ替わる</text>
+<text x="30" y="306" font-size="9" fill="#3C3C40">図の読み方 — 2014–2020年は論文の時代。2022年に画像が大衆化し、2023年から動画が続いた。</text>
+<text x="30" y="322" font-size="9" fill="#3C3C40">2024年以降は、モデル名ではなく流れを覚える。動画モデル競争、エージェントがツールを直接操作するためのプロトコル(MCP)、キャラクター·シーンの一貫性。</text>
+<text x="30" y="344" font-size="8.5" fill="#7A7A80">年は公開·発表の時期。サービス名は変わっても、分類は残る（9.13のツールマップ参照）。</text>
+</svg>
+<figcaption><b>図 83-1</b> 生成AI映像ツールの10年 — GAN（2014）からTransformer（2017）、画像生成の大衆化（2022）、動画モデル競争とMCP（2024）を経て、2026年の世代交代まで</figcaption>
+</figure>
+  <h3>現在の潮流</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>潮流 1</small>動画モデル競争</h4><ul><li>Veo · Sora · Kling · Seedance · Runway：四半期ごとに新世代</li><li>長さ、音、物理の正確さで比較される</li><li>ツールを選ぶより、ツールを入れ替えられるパイプラインを組む</li></ul></div>
+    <div class="card"><h4><small>潮流 2</small>エージェントとMCP</h4><ul><li>Claudeのような言語モデルが生成ツールを直接操作できるようにする接続プロトコル</li><li>モデルがツールを呼び出す。人がプロンプトをコピーして貼り付ける作業はなくなる</li><li>本書の参考写真もこの方法で作った — 企画書から生成までが1つの流れ</li></ul></div>
+    <div class="card"><h4><small>潮流 3</small>一貫性ツール</h4><ul><li>カットをまたいで人物とシーンの一貫性を保つ機能</li><li>複数画像の参照 — 顔、衣装、空間を複数の画像で固定する</li><li>背景 17で挙げた最大の課題が、製品の機能になりつつある</li></ul></div>
+  </div>
+  <figure class="ph" data-id="P09-MCP"><div class="ph-box"><span class="ph-id">P09-MCP</span><span class="ph-icon"></span><span class="ph-desc"><b>ツールの連携 — MCP</b>抽象的なイラスト：机の上のノートパソコンから、宙に浮かぶ半透明のサービスパネルへ光の線が伸びる</span></div><figcaption><b>注意</b>ツールの連携 — MCP。言語モデルが生成ツール、ストレージ、カレンダーを直接呼び出す</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>分野</th><th>ツールの種類</th><th>実務での役割</th><th>注意点</th></tr></thead>
+    <tbody>
+      <tr><td>企画、文章</td><td>対話型言語モデル</td><td>アイデアの展開、脚本の下書き、コピーの別案</td><td>事実確認を行う。最終判断は人がする</td></tr>
+      <tr><td>画像</td><td>画像生成モデル</td><td>ムードボード、コンセプトアート、絵コンテの下書き</td><td>商用利用の規約を確認</td></tr>
+      <tr><td>動画</td><td>テキストまたは画像からの動画生成</td><td>インサート、背景、撮影不可能なショット</td><td>一貫性が課題</td></tr>
+      <tr><td>音声</td><td>音声合成</td><td>仮ナレーション、多言語吹き替え</td><td>実在の人物の声は決して複製しない</td></tr>
+      <tr><td>字幕、ラフカット</td><td>音声認識による編集ツール</td><td>最初のラフカット、字幕生成</td><td>固有名詞の誤りを必ず確認</td></tr>
+      <tr><td>3D</td><td>画像からの3D生成</td><td>小道具、キャラクターの試作</td><td>ポリゴンの整理が必要</td></tr>
+      <tr><td>翻訳</td><td>機械翻訳</td><td>外国語字幕、海外資料の読解</td><td>専門用語の誤訳を確認</td></tr>
+    </tbody>
+  </table>
+  <h3>言語モデルのよい使い方、悪い使い方</h3>
+  <div class="vs">
+    <div><h4>効果的な使い方</h4><ul><li>アイデアの展開 — 条件を決め、20個出させ、3つに絞る</li><li>脚本の下書き — 先に構成を決め、肉付けを頼む</li><li>コピーの別案 — 承認済みの1行について10案を頼む</li><li>リサーチの整理 — 集めた資料を貼り付け、構造化を頼む</li><li>フィードバック — 企画書を貼り付け、弱点を尋ねる</li><li>翻訳 — 文脈と用語集を渡す</li></ul></div>
+    <div><h4>してはいけないこと</h4><ul><li>最初の回答をそのまま使う</li><li>白紙の状態からすべて書かせる</li><li>コンセプトそのものを任せる</li><li>事実確認をせずに引用する</li><li>褒められたところで止める</li><li>専門用語を確認せずに使う</li></ul></div>
+  </div>
+  <h3>AIツールのワークフロー例</h3>
+  <aside class="note"><b>注意</b><p>一文コンセプトは人が書く。この工程は決して任せない。</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>言語モデルでターゲットのペルソナと悩み20個を生成し、自分で3つに絞る。</span></li>
+    <li><b>02</b><span>絞ったアイデアから、人が一文コンセプトを書く。</span></li>
+    <li><b>03</b><span>画像生成ツールでムードボードと絵コンテの下書きを作る。トーン＆マナーの合意がずっと速くなる。</span></li>
+    <li><b>04</b><span>実写で撮れないインサートだけを生成する。全編を生成映像で埋めると、一貫性が崩れる。</span></li>
+    <li><b>05</b><span>音声合成で仮ナレーションを作り、長さとリズムを確かめる。完成版では声優か自分の録音に差し替える。</span></li>
+    <li><b>06</b><span>字幕の初稿は自動で作り、固有名詞と表記は人が確認する。</span></li>
+    <li><b>07</b><span>AIの使用を制作資料に記録する。コンテストやクライアントへの納品で、開示を求められることが増えている。</span></li>
+  </ol>
+  <div class="callout"><h4>AIに代われないもの</h4><p>何を撮るかを決める判断力、なぜそのカットでなければならないかを説明する言葉、クライアントと合意にたどり着く調整力、現場の想定外に対処する決断。ツールが強力になるほど、判断力の価値は上がる。新卒採用でも、ツールの技能より判断の理由を説明できることが重視され始めている。</p></div>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.9</div>
+    <dl><dt>課題</dt><dd>同じカットを3つの生成AIツールで作り、品質、速度、費用、権利条件を比較する。</dd><dt>ヒント</dt><dd>利用規約の商用利用の条項を確認する。</dd><dt>評価</dt><dd>比較基準の公平さ、権利の確認</dd><dt>解答例</dt><dd>プロンプトと設定を結果とともに公開し、再現できるようにしている。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-10">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.10</div>
+    <h2>チャンネル運用とコンテンツカレンダー</h2>
+    <p class="lead">よい動画1本より、地道な10本のほうがチャンネルを育てる。チャンネル運用は動画制作とは別の技術であり、新卒採用で実際に最も高く評価される経験でもある。</p>
+  </header>
+  <h3>チャンネル設計の5ステップ</h3>
+  <div class="steps">
+    <div class="step"><b>01</b><i>一文での定義</i>誰に、何を届けるチャンネルか</div>
+    <div class="step"><b>02</b><i>2–3の固定フォーマット</i>視聴者に、期待できるものを与える</div>
+    <div class="step"><b>03</b><i>投稿スケジュール</i>週3本を投稿して途中でやめるより、週1本を守る</div>
+    <div class="step"><b>04</b><i>ビジュアルルールの固定</i>サムネイルのレイアウト、字幕のフォント、イントロの有無</div>
+    <div class="step"><b>05</b><i>成果指標を1つ</i>登録者数ではなく、平均視聴時間のように自分で改善できるもの</div>
+  </div>
+  <h3>月間コンテンツカレンダーの例</h3>
+  <table class="t wide compact">
+    <thead><tr><th>週</th><th>コンテンツの型</th><th>目的</th><th>難易度</th><th>再利用</th></tr></thead>
+    <tbody>
+      <tr><td>第1週</td><td>情報系の長尺動画1本</td><td>検索流入</td><td>高</td><td>ショート動画3本に分割</td></tr>
+      <tr><td>第2週</td><td>ショート動画3本</td><td>新規リーチ</td><td>低</td><td>InstagramとTikTokに同時投稿</td></tr>
+      <tr><td>第3週</td><td>インタビューまたはコラボ</td><td>信頼と成長</td><td>中</td><td>ブログ記事にする</td></tr>
+      <tr><td>第4週</td><td>コミュニティ向けコンテンツ</td><td>関係の維持</td><td>ごく低</td><td>来月のアイデア</td></tr>
+    </tbody>
+  </table>
+  <h3>1つのアイデアを、多くの媒体へ</h3>
+  <aside class="term"><b>ワンソース・マルチユース</b><p>同じメッセージを、各媒体の文法で作り直すこと。制作費に対するリーチを伸ばす最も確実な方法だ。</p></aside>
+  <table class="t compact">
+    <thead><tr><th>元素材</th><th>派生コンテンツ</th><th>作業量</th><th>効果</th></tr></thead>
+    <tbody>
+      <tr><td>10分の長尺動画</td><td>ショート動画3本</td><td>少ない</td><td>新規視聴者</td></tr>
+      <tr><td>10分の長尺動画</td><td>ブログ記事1本</td><td>少ない</td><td>検索流入</td></tr>
+      <tr><td>10分の長尺動画</td><td>カルーセル1セット</td><td>少ない</td><td>Instagramでの保存</td></tr>
+      <tr><td>10分の長尺動画</td><td>ニュースレター1号</td><td>ごく少ない</td><td>直接のつながり</td></tr>
+      <tr><td>撮影素材</td><td>舞台裏のショート動画</td><td>ごく少ない</td><td>親近感</td></tr>
+    </tbody>
+  </table>
+  <blockquote class="pull">再利用は手抜きではなく、戦略だ。<small>8.10 チャンネル運用とコンテンツカレンダー</small></blockquote>
+  <figure class="fg wide"><div class="ttl">生成AIは描くのではなく、ノイズを取り除く</div><div class="grid genai"><div class="it"><img src="img_new/DIFFUSION.jpg"><b>拡散モデル — ノイズの中から絵を「取り出す」</b><span>学習では、写真にノイズを少しずつ加えると画像がどう壊れていくかを学ぶ。生成ではその逆に、純粋なノイズから段階的にノイズを取り除いていく。プロンプトは、どの方向へ取り除くかを決める羅針盤だ</span></div><div class="steps3"><div class="st"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="4" y="6" width="32" height="26" rx="2" fill="none" stroke="#1B1B1D" stroke-width="2"/><line x1="9" y1="13" x2="31" y2="13" stroke="#1B1B1D" stroke-width="2.4"/><line x1="9" y1="19" x2="27" y2="19" stroke="#1B1B1D" stroke-width="2.4"/><line x1="9" y1="25" x2="22" y2="25" stroke="#1B1B1D" stroke-width="2.4"/></svg></div><b>① プロンプト</b><span>テキストが数値のベクトルになる — 「朝日、白いマグカップ」</span></div><div class="st"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="4" y="6" width="32" height="26" fill="none" stroke="#1B1B1D" stroke-width="2"/><rect x="6" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.0"/><rect x="10" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.7"/><rect x="13" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.4"/><rect x="17" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.1"/><rect x="20" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.8"/><rect x="24" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.5"/><rect x="28" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.2"/><rect x="31" y="8" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.9"/><rect x="6" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.6"/><rect x="10" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.3"/><rect x="13" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.0"/><rect x="17" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.7"/><rect x="20" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.4"/><rect x="24" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.1"/><rect x="28" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.8"/><rect x="31" y="12" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.5"/><rect x="6" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.2"/><rect x="10" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.9"/><rect x="13" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.6"/><rect x="17" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.3"/><rect x="20" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.0"/><rect x="24" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.7"/><rect x="28" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.4"/><rect x="31" y="15" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.1"/><rect x="6" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.8"/><rect x="10" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.5"/><rect x="13" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.2"/><rect x="17" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.9"/><rect x="20" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.6"/><rect x="24" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.3"/><rect x="28" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.0"/><rect x="31" y="19" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.7"/><rect x="6" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.4"/><rect x="10" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.1"/><rect x="13" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.8"/><rect x="17" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.5"/><rect x="20" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.2"/><rect x="24" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.9"/><rect x="28" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.6"/><rect x="31" y="22" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.3"/><rect x="6" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.0"/><rect x="10" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.7"/><rect x="13" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.4"/><rect x="17" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.1"/><rect x="20" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.8"/><rect x="24" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.5"/><rect x="28" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.2"/><rect x="31" y="26" width="2.6" height="2.6" fill="#1B1B1D" opacity="0.9"/></svg></div><b>② ノイズ</b><span>ランダムな点で埋まった画面から始める</span></div><div class="st"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><path d="M14,8 C8,8 6,14 9,18 C5,21 7,29 13,29 C14,33 22,34 24,29 C30,30 33,23 29,19 C32,14 29,8 23,9 C21,5 15,5 14,8 Z" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><line x1="19" y1="9" x2="19" y2="32" stroke="#1B1B1D" stroke-width="1.6"/></svg></div><b>③ 20–50ステップのノイズ除去</b><span>各ステップで「何を消せばこの画像がプロンプトに近づくか」を予測する</span></div><div class="st"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="4" y="6" width="32" height="26" rx="2" fill="none" stroke="#1B1B1D" stroke-width="2"/><circle cx="13" cy="14" r="3" fill="#1B1B1D"/><polygon points="7,29 17,18 23,24 27,20 34,29" fill="#1B1B1D"/></svg></div><b>④ 結果</b><span>同じプロンプトでも、最初のノイズ（シード）が違えば絵も違う</span></div></div></div><figcaption><b>図 83-1</b> 生成AIの仕組み — 拡散モデル。動画生成モデルは、同じ原理を時間軸に広げたものだ。だから「まさにこのシーン」より「こんな雰囲気」のほうが得意で、指の本数のような細部を間違える。</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.10</div>
+    <dl><dt>課題</dt><dd>1か月のコンテンツカレンダーを作り、実際に2週間運用する。</dd><dt>ヒント</dt><dd>週2本など、続けられるペースを選ぶ。</dd><dt>評価</dt><dd>計画に対する実行度、振り返り</dd><dt>解答例</dt><dd>運用中に指標をもとにカレンダーを修正した記録を残している。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-11">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.11</div>
+    <h2>タイトルとフックの書き方</h2>
+    <p class="lead">同じ動画でも、タイトル次第で再生数は数倍変わる。コピーは独立した技術であり、映像の作り手なら誰もが身につけるべきものだ。</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">タイトルは最初の12文字で決まる — スマートフォンの画面に見える範囲</div><div class="grid c4"><div class="it"><svg viewBox="0 0 160 200" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect x="8" y="4" width="144" height="192" rx="14" fill="#fff" stroke="#1B1B1D" stroke-width="1.5"/><rect x="18" y="22" width="124" height="70" fill="#D7D4CD"/><polygon points="72,48 90,57 72,66" fill="#fff"/><rect x="18" y="98" width="124" height="30" fill="#F6F5F3"/><text x="22" y="112" font-size="8.5" font-weight="600" fill="#1B1B1D">3日で10kg減？ </text><text x="22" y="123" font-size="8.5" fill="#7A7A80">医師が止める理由</text><rect x="123" y="103" width="1.4" height="12" fill="#7A1C2B"/><text x="126" y="100" font-size="6.5" fill="#7A1C2B" font-weight="500">12字</text><circle cx="26" cy="140" r="5" fill="#B9B5AC"/><rect x="36" y="136" width="60" height="3" fill="#D7D4CD"/><rect x="36" y="142" width="40" height="3" fill="#E5E3DE"/><rect x="18" y="158" width="124" height="30" fill="#F6F5F3"/><rect x="22" y="166" width="90" height="4" fill="#D7D4CD"/><rect x="22" y="175" width="60" height="4" fill="#E5E3DE"/></svg><b style="color:#7A1C2B">○ 数字 + 疑問 — 最初の12文字に要点</b><span>3日で10kg減？医師が止める理由</span></div><div class="it"><svg viewBox="0 0 160 200" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect x="8" y="4" width="144" height="192" rx="14" fill="#fff" stroke="#1B1B1D" stroke-width="1.5"/><rect x="18" y="22" width="124" height="70" fill="#D7D4CD"/><polygon points="72,48 90,57 72,66" fill="#fff"/><rect x="18" y="98" width="124" height="30" fill="#F6F5F3"/><text x="22" y="112" font-size="8.5" font-weight="600" fill="#1B1B1D">当社の新しい</text><text x="22" y="123" font-size="8.5" fill="#7A7A80">健康プログラムの紹介…</text><rect x="123" y="103" width="1.4" height="12" fill="#7A1C2B"/><text x="126" y="100" font-size="6.5" fill="#7A1C2B" font-weight="500">12字</text><circle cx="26" cy="140" r="5" fill="#B9B5AC"/><rect x="36" y="136" width="60" height="3" fill="#D7D4CD"/><rect x="36" y="142" width="40" height="3" fill="#E5E3DE"/><rect x="18" y="158" width="124" height="30" fill="#F6F5F3"/><rect x="22" y="166" width="90" height="4" fill="#D7D4CD"/><rect x="22" y="175" width="60" height="4" fill="#E5E3DE"/></svg><b style="color:#7A7A80">✕ 最初の12文字が主語だけ — 要点は後ろ</b><span>当社の新しい健康プログラムの紹介動画</span></div><div class="it"><svg viewBox="0 0 160 200" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect x="8" y="4" width="144" height="192" rx="14" fill="#fff" stroke="#1B1B1D" stroke-width="1.5"/><rect x="18" y="22" width="124" height="70" fill="#D7D4CD"/><polygon points="72,48 90,57 72,66" fill="#fff"/><rect x="18" y="98" width="124" height="30" fill="#F6F5F3"/><text x="22" y="112" font-size="8.5" font-weight="600" fill="#1B1B1D">寮の電子レンジ飯</text><text x="22" y="123" font-size="8.5" fill="#7A7A80">：これだけはやるな</text><rect x="123" y="103" width="1.4" height="12" fill="#7A1C2B"/><text x="126" y="100" font-size="6.5" fill="#7A1C2B" font-weight="500">12字</text><circle cx="26" cy="140" r="5" fill="#B9B5AC"/><rect x="36" y="136" width="60" height="3" fill="#D7D4CD"/><rect x="36" y="142" width="40" height="3" fill="#E5E3DE"/><rect x="18" y="158" width="124" height="30" fill="#F6F5F3"/><rect x="22" y="166" width="90" height="4" fill="#D7D4CD"/><rect x="22" y="175" width="60" height="4" fill="#E5E3DE"/></svg><b style="color:#7A1C2B">○ 対象 + 禁止 — 1行目で決まる</b><span>寮の電子レンジ飯：これだけはやるな</span></div><div class="it"><svg viewBox="0 0 160 200" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect x="8" y="4" width="144" height="192" rx="14" fill="#fff" stroke="#1B1B1D" stroke-width="1.5"/><rect x="18" y="22" width="124" height="70" fill="#D7D4CD"/><polygon points="72,48 90,57 72,66" fill="#fff"/><rect x="18" y="98" width="124" height="30" fill="#F6F5F3"/><text x="22" y="112" font-size="8.5" font-weight="600" fill="#1B1B1D">2024年春の新製品 </text><text x="22" y="123" font-size="8.5" fill="#7A7A80">ラインナップ公開…</text><rect x="123" y="103" width="1.4" height="12" fill="#7A1C2B"/><text x="126" y="100" font-size="6.5" fill="#7A1C2B" font-weight="500">12字</text><circle cx="26" cy="140" r="5" fill="#B9B5AC"/><rect x="36" y="136" width="60" height="3" fill="#D7D4CD"/><rect x="36" y="142" width="40" height="3" fill="#E5E3DE"/><rect x="18" y="158" width="124" height="30" fill="#F6F5F3"/><rect x="22" y="166" width="90" height="4" fill="#D7D4CD"/><rect x="22" y="175" width="60" height="4" fill="#E5E3DE"/></svg><b style="color:#7A7A80">✕ 日付 · 公開 · 共有 — 情報のない言葉</b><span>2024年春の新製品ラインナップ公開およびユーザーレビュー共有</span></div></div><div class="chips"><b>フックの5つの公式 — 実際のタイトルで</b><span><b>数字</b> 30秒で終わるカラーグレーディング</span><span><b>疑問</b> 私の動画が再生されない理由</span><span><b>禁止</b> 初心者が絶対に買ってはいけないレンズ</span><span><b>ビフォーアフター</b> 50,000ウォンの照明が生む違い</span><span><b>秘密</b> 広告PDが教えてくれないカットの順番</span></div><figcaption><b>図 85-1</b> タイトルは最初の12文字で決まる — モバイルのフィードに表示される文字数。赤い線が12文字の境界で、その手前にキーワードがなければ残りは読まれない。5つの公式から1つだけを選ぶ。</figcaption></figure>
+  <h3>タイトルの12類型</h3>
+  <table class="t compact">
+    <thead><tr><th>類型</th><th>構造</th><th>例</th></tr></thead>
+    <tbody>
+      <tr><td>数字</td><td>N個のこと + 対象</td><td>映像初心者が知っておくべき5つのこと</td></tr>
+      <tr><td>結果を先に</td><td>結果 + 方法</td><td>再生数を10倍にした編集</td></tr>
+      <tr><td>逆張り</td><td>通説に逆らう</td><td>高価なカメラが要らない理由</td></tr>
+      <tr><td>疑問</td><td>好奇心を刺激する</td><td>私の動画が3秒でスワイプされる理由</td></tr>
+      <tr><td>対象を名指す</td><td>誰のためのものかを言う</td><td>1年生のための撮影の基礎</td></tr>
+      <tr><td>比較</td><td>AかBか</td><td>PremiereとFinal Cut、学ぶならどっち</td></tr>
+      <tr><td>期限</td><td>期間を明示する</td><td>1週間で作った15秒広告</td></tr>
+      <tr><td>失敗談</td><td>経験を共有する</td><td>初めての撮影で失敗した7つのこと</td></tr>
+      <tr><td>ツールを名指す</td><td>特定のツール</td><td>スマートフォンだけで撮った広告</td></tr>
+      <tr><td>ビフォーアフター</td><td>変化を強調する</td><td>照明1つが生む違い</td></tr>
+      <tr><td>秘密</td><td>希少な情報</td><td>現場でしか使われない撮影の表記法</td></tr>
+      <tr><td>チェックリスト</td><td>実用性</td><td>撮影前日に確認すること</td></tr>
+    </tbody>
+  </table>
+  <h3>フックを書くルール</h3>
+  <aside class="tip"><b>ヒント</b><p>ショート動画では、最初の字幕がタイトルの役割を果たす。0.5秒で読める短さにする。</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>最も重要な言葉を先頭に置く。モバイルでは末尾が切れる。</span></li>
+    <li><b>02</b><span>抽象的な言葉より具体的な言葉が強い。「よい方法」ではなく「3秒で」。</span></li>
+    <li><b>03</b><span>対象を名指すとクリック率が上がる。全員に向けたタイトルは誰にも届かない。</span></li>
+    <li><b>04</b><span>大げさな釣りタイトルは序盤のクリックを得るが、視聴維持率を下げ、結局は表示回数が減る。</span></li>
+    <li><b>05</b><span>ブランド名は最後に置く。冒頭に置くと広告に見える。</span></li>
+  </ol>
+  <h3>説明文とキャプションの書き方</h3>
+  <table class="t compact">
+    <thead><tr><th>プラットフォーム</th><th>1行目</th><th>長さ</th><th>締め</th></tr></thead>
+    <tbody>
+      <tr><td>YouTubeの説明文</td><td>動画の要約と主要リンク</td><td>2–3行 + 詳細</td><td>チャプターと関連動画</td></tr>
+      <tr><td>Instagramのキャプション</td><td>結論または質問</td><td>1–3行</td><td>質問でコメントを誘う</td></tr>
+      <tr><td>TikTokのキャプション</td><td>短いフック</td><td>1行</td><td>ハッシュタグ3–5個</td></tr>
+      <tr><td>Threads</td><td>会話のきっかけ</td><td>2–4行</td><td>意見を求める</td></tr>
+      <tr><td>ブログ</td><td>検索語を含む要約</td><td>3–5行</td><td>次の記事へのリンク</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.11</div>
+    <dl><dt>課題</dt><dd>同じ動画にタイトル5つとサムネイル5つを作り、友人20人にどれをクリックするか尋ねる。</dd><dt>ヒント</dt><dd>各タイトルは、好奇心、利益、数字、対比のいずれか1つの型で書く。誇張や釣りは信頼を損なう。</dd><dt>評価</dt><dd>コピーの明快さ、テスト結果の活用</dd><dt>解答例</dt><dd>最もクリックされた組み合わせが実際の内容と合っているかまで確認している。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-12">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.12</div>
+    <h2>SNS広告運用の基礎</h2>
+    <p class="lead">完成した動画に費用をかけて広く届けることも、作り手の仕事の一部になった。仕組みを知らなければ、よいクリエイティブも成果を出せない。</p>
+  </header>
+  <figure class="ph wide" data-id="P09-LIVECOM"><div class="ph-box"><span class="ph-id">P09-LIVECOM</span><span class="ph-icon"></span><span class="ph-desc"><b>ライブコマース</b>リングライトの前で、スマートフォンに向かってスキンケア製品を紹介する配信者、光の破片として抽象化されたコメントの吹き出し</span></div><figcaption><b>注意</b>ライブコマース — 放送と店舗が1つの画面になった。作り手は広告を作り、運用もする</figcaption></figure>
+  <h3>SNSが店舗になるまで</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>オープンマーケット</i>商品一覧と検索。動画は商品詳細ページを補う</div>
+    <div class="step"><b>02</b><i>ソーシャルコマース</i>共同購入とセール。タイムラインに商品が現れ始める</div>
+    <div class="step"><b>03</b><i>ショッピングタグ · ライブコマース</i>投稿から、または配信中にそのまま購入。動画が店舗になる</div>
+    <div class="step"><b>04</b><i>ショート動画コマース · 広告の自動化</i>動画内に商品リンク。機械学習による入札と自動クリエイティブが素材を組み合わせる</div>
+  </div>
+  <div class="gallery cols-2"><div class="title"><b>参考写真 8.12A</b>運用と自動化</div>
+    <figure class="ph" data-id="P09-ECOM"><div class="ph-box"><span class="ph-id">P09-ECOM</span><span class="ph-icon"></span><span class="ph-desc"><b>オンラインストアの運営</b>机で注文品を梱包する小さなオンラインショップの店主、注文ダッシュボードを映すノートパソコン、発送用の箱</span></div><figcaption><b>注意</b>オンラインストアの運営 — 1本の動画が注文画面へつながる</figcaption></figure>
+    <figure class="ph" data-id="P09-AUTOMATION"><div class="ph-box"><span class="ph-id">P09-AUTOMATION</span><span class="ph-icon"></span><span class="ph-desc"><b>広告の自動化</b>自動化された広告キャンペーンのダッシュボードを映す2台のモニター、抽象的なグラフとターゲットセグメント、暗いオフィス</span></div><figcaption><b>注意</b>広告の自動化 — 入札と組み合わせは機械が、クリエイティブとメッセージは人が担う</figcaption></figure>
+  </div>
+  <h3>広告アカウントの構造</h3>
+  <table class="t compact">
+    <thead><tr><th>階層</th><th>設定する内容</th><th>作り手が関わる部分</th></tr></thead>
+    <tbody>
+      <tr><td>キャンペーン</td><td>目的（認知、トラフィック、コンバージョン）</td><td>目的に合ったクリエイティブの長さと構成</td></tr>
+      <tr><td>広告セット</td><td>オーディエンス、予算、配置、期間</td><td>配置ごとのアスペクト比バージョン</td></tr>
+      <tr><td>広告</td><td>実際のクリエイティブ、コピー、リンク</td><td>サムネイル、最初の3秒、コピー</td></tr>
+    </tbody>
+  </table>
+  <h3>クリエイティブ管理のルール</h3>
+  <aside class="tip"><b>ヒント</b><p>変数を1つずつ変えてテストする。最初の3秒だけが違う2本、字幕だけが違う2本、というように。</p></aside>
+  <ul class="dash">
+    <li>1つのキャンペーンで3〜5本のクリエイティブを同時に配信し、結果を比較する。1本だけでは比べる対象がない。</li>
+    <li>強いクリエイティブでも、2〜3週間たつと飽きられて効果が落ちる。入れ替えをあらかじめ計画しておく。</li>
+    <li>縦型と正方形のバージョンを一緒に用意する。配置ごとに最適なアスペクト比が違う。</li>
+    <li>最初のフレームがサムネイルになる。静止画としてもメッセージが読めなければならない。</li>
+  </ul>
+  <h3>優先順に見る指標</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>表示回数</i>オーディエンスが狭すぎるか、入札額が低すぎる — オーディエンスを広げ、予算を調整する</div>
+    <div class="step"><b>02</b><i>視聴率またはクリック率</i>最初の3秒かサムネイルの問題 — フックを作り直す</div>
+    <div class="step"><b>03</b><i>視聴維持率</i>中盤が退屈 — 短くし、カットのリズムを調整する</div>
+    <div class="step"><b>04</b><i>コンバージョンまたはエンゲージメント</i>メッセージとランディングページが合っていない — コピーとリンク先のページを確認する</div>
+  </div>
+  <div class="callout"><h4>表示義務を守る</h4><p>提供や広告は、必ず明確に表示しなければならない。「有料広告を含む」などの文言を、本文の1行目か画面の冒頭に入れる。表示漏れは、ブランドにとっても作り手にとっても法的リスクになる。</p></div>
+  <figure class="fg wide"><div class="ttl">クリエイター広告はどこまで伸び、何が義務になったか</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><rect x="50" y="183.2" width="36" height="6.8" fill="#7A1C2B" opacity="0.45"/><text x="68.0" y="178.2" text-anchor="middle" font-weight="500" fill="#1B1B1D">1.7</text><text x="68.0" y="204" text-anchor="middle" fill="#3C3C40">2016</text><rect x="100" y="178.0" width="36" height="12.0" fill="#7A1C2B" opacity="0.51"/><text x="118.0" y="173.0" text-anchor="middle" font-weight="500" fill="#1B1B1D">3.0</text><text x="118.0" y="204" text-anchor="middle" fill="#3C3C40">2017</text><rect x="150" y="171.6" width="36" height="18.4" fill="#7A1C2B" opacity="0.56"/><text x="168.0" y="166.6" text-anchor="middle" font-weight="500" fill="#1B1B1D">4.6</text><text x="168.0" y="204" text-anchor="middle" fill="#3C3C40">2018</text><rect x="200" y="164.0" width="36" height="26.0" fill="#7A1C2B" opacity="0.61"/><text x="218.0" y="159.0" text-anchor="middle" font-weight="500" fill="#1B1B1D">6.5</text><text x="218.0" y="204" text-anchor="middle" fill="#3C3C40">2019</text><rect x="250" y="151.2" width="36" height="38.8" fill="#7A1C2B" opacity="0.67"/><text x="268.0" y="146.2" text-anchor="middle" font-weight="500" fill="#1B1B1D">9.7</text><text x="268.0" y="204" text-anchor="middle" fill="#3C3C40">2020</text><rect x="300" y="134.8" width="36" height="55.2" fill="#7A1C2B" opacity="0.73"/><text x="318.0" y="129.8" text-anchor="middle" font-weight="500" fill="#1B1B1D">13.8</text><text x="318.0" y="204" text-anchor="middle" fill="#3C3C40">2021</text><rect x="350" y="124.4" width="36" height="65.6" fill="#7A1C2B" opacity="0.78"/><text x="368.0" y="119.4" text-anchor="middle" font-weight="500" fill="#1B1B1D">16.4</text><text x="368.0" y="204" text-anchor="middle" fill="#3C3C40">2022</text><rect x="400" y="105.6" width="36" height="84.4" fill="#7A1C2B" opacity="0.83"/><text x="418.0" y="100.6" text-anchor="middle" font-weight="500" fill="#1B1B1D">21.1</text><text x="418.0" y="204" text-anchor="middle" fill="#3C3C40">2023</text><rect x="450" y="94.0" width="36" height="96.0" fill="#7A1C2B" opacity="0.89"/><text x="468.0" y="89.0" text-anchor="middle" font-weight="500" fill="#1B1B1D">24.0</text><text x="468.0" y="204" text-anchor="middle" fill="#3C3C40">2024</text><rect x="500" y="59.6" width="36" height="130.4" fill="#7A1C2B" opacity="0.95"/><text x="518.0" y="54.6" text-anchor="middle" font-weight="500" fill="#1B1B1D">32.6</text><text x="518.0" y="204" text-anchor="middle" fill="#3C3C40">2025</text><line x1="44" y1="190" x2="550" y2="190" stroke="#1B1B1D"/><text x="44" y="22" fill="#1B1B1D" font-weight="500">世界のインフルエンサーマーケティング市場（億ドル → 単位：10億ドル）</text><text x="550" y="22" text-anchor="end" fill="#7A7A80" font-size="8">Statista · Influencer Marketing Hubの推計</text><text x="518.0" y="40" text-anchor="middle" fill="#7A1C2B" font-weight="600" font-size="11">10年で約19倍</text></svg><div class="grid c4 picto"><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><path d="M6,6 L22,6 L35,19 L19,35 L6,22 Z" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><circle cx="13" cy="13" r="2.5" fill="#1B1B1D"/></svg></div><b>表示義務（2020.9–）</b><span>韓国公正取引委員会の推薦 · 保証に関する指針を改正 — 動画の冒頭と説明文の最上部に「有料広告を含む」</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="4" y="8" width="32" height="24" rx="4" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><polygon points="16,13 28,20 16,27" fill="#1B1B1D"/></svg></div><b>YouTuber · クリエイター広告</b><span>ブランデッドコンテンツ · PPL · 提供レビュー — 広告費がテレビからクリエイターへ移る</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><path d="M3,20 C10,8 30,8 37,20 C30,32 10,32 3,20 Z" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><circle cx="20" cy="20" r="5" fill="#1B1B1D"/></svg></div><b>視聴者の信頼</b><span>表示がなければ「裏広告」（ステルスマーケティング） — 発覚すれば広告主 · クリエイターの双方に制裁と信頼の失墜</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><circle cx="20" cy="20" r="13" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><text x="20" y="25" text-anchor="middle" font-size="14" font-weight="700" fill="#1B1B1D">₩</text></svg></div><b>単価の構造</b><span>再生数 · 登録者数から視聴維持率とコンバージョンへ — 成果連動型の契約が増える</span></div></div><figcaption><b>図 85-2</b> クリエイター広告の成長と表示義務 — 市場は10年で約19倍に伸び、それに合わせて表示と信頼のルールも厳しくなった。数値は推計であり、出典によって異なる。</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.12</div>
+    <dl><dt>課題</dt><dd>少額の（または架空の）予算でSNS広告の計画を書く（目標、ターゲット、クリエイティブ、予算、指標）。</dd><dt>ヒント</dt><dd>クリエイティブを2本以上用意し、比較テストを設計する。</dd><dt>評価</dt><dd>目標と指標の対応、予算配分</dd><dt>解答例</dt><dd>配信後に結果レポートまでまとめる。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-13">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.13</div>
+    <h2>AI制作パイプラインの設計</h2>
+    <p class="lead">生成ツールを使う人と使わない人を分けるのは、速さではなく構造である。全工程をAIに任せれば一貫性が崩れ、まったく使わなければ量で負ける。要は、パイプラインのどの時点に何を組み込むかの設計である。</p>
+  </header>
+  <figure class="ph wide" data-id="P09-AISTUDIO"><div class="ph-box"><span class="ph-id">P09-AISTUDIO</span><span class="ph-icon"></span><span class="ph-desc"><b>AI制作パイプライン</b>大型スクリーンの前で生成映像をディレクションするつくり手、生成クリップのバリエーションが並ぶグリッドとプロンプトパネル、暗いスタジオ</span></div><figcaption><b>注意</b>AI制作パイプライン — ディレクターとは、数十の案からどれを選ぶべきかを知っている人</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">AIは全工程を置き換えない。入るのは3つのポイント</div><div class="grid c6 pipe"><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><circle cx="20" cy="16" r="10" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><rect x="15" y="27" width="10" height="4" fill="#1B1B1D"/><rect x="16" y="32" width="8" height="3" fill="#1B1B1D"/><line x1="20" y1="2" x2="20" y2="-1" stroke="#1B1B1D" stroke-width="2"/></svg></div><b>企画</b><span class="deg">言語モデル</span><span>アイデア20個 → 3個に絞る</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="3" y="6" width="34" height="26" rx="2" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><line x1="14" y1="6" x2="14" y2="32" stroke="#1B1B1D" stroke-width="2"/><line x1="26" y1="6" x2="26" y2="32" stroke="#1B1B1D" stroke-width="2"/><rect x="6" y="10" width="5" height="4" fill="#1B1B1D"/></svg></div><b>視覚化</b><span class="deg">画像生成</span><span>ムードボード · 絵コンテの下描き</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="4" y="12" width="24" height="18" rx="2" fill="none" stroke="#1B1B1D" stroke-width="2.2"/><polygon points="28,17 37,12 37,30 28,25" fill="#1B1B1D"/><circle cx="16" cy="21" r="4" fill="none" stroke="#1B1B1D" stroke-width="2"/></svg></div><b>撮影 / 生成</b><span class="deg">映像生成</span><span>撮影できないインサートの代役</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><path d="M3,20 L8,20 L11,10 L15,30 L19,14 L23,26 L27,18 L31,22 L37,20" fill="none" stroke="#1B1B1D" stroke-width="2.4" stroke-linejoin="round"/></svg></div><b>音声</b><span class="deg">音声合成</span><span>仮ナレーション · 多言語</span></div><div class="it"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><rect x="3" y="8" width="34" height="8" fill="none" stroke="#1B1B1D" stroke-width="2"/><rect x="3" y="20" width="22" height="8" fill="#1B1B1D"/><line x1="30" y1="4" x2="30" y2="32" stroke="#7A1C2B" stroke-width="2.2"/><polygon points="26,4 34,4 30,9" fill="#7A1C2B"/></svg></div><b>編集</b><span class="deg">自動字幕 · ラフカット</span><span>初回カットと字幕の下書き</span></div><div class="it hi"><div class="pic"><svg viewBox="0 -2 40 38" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR"><circle cx="20" cy="9" r="6" fill="#fff"/><path d="M8,32 C8,20 32,20 32,32 Z" fill="#fff"/><circle cx="31" cy="27" r="7" fill="#fff" stroke="#fff" stroke-width="2"/><path d="M27,27 L30,30 L35,24" fill="none" stroke="#7A1C2B" stroke-width="2.2"/></svg></div><b>検証</b><span class="deg">人</span><span>事実 · 権利 · 品質の最終判断</span></div></div><div class="rulebar">AIは全工程を置き換えるのではなく、<b>3つのポイント</b>――アイデアの拡張 · 下案の視覚化 · ポストプロダクションの自動化――に入る。判断と合意は人の仕事として残る。</div><figcaption><b>図 84</b> AI制作パイプライン — 6段階のうち5段階にAIが入り、最終検証は人が行う。</figcaption></figure>
+  <figure class="wide diagram"><img src="img_en/EN-p364_326_1373x650.png" alt=""><figcaption><b>図 85</b> 生成ツールのマップ</figcaption></figure>
+  <h3>ツールマップ</h3>
+  <aside class="note"><b>注意</b><p>ツールは変わり続ける。覚えるべきはサービス名ではなく、カテゴリーと限界である。</p></aside>
+  <table class="t wide compact">
+    <thead><tr><th>カテゴリー</th><th>代表的なツール</th><th>実務での用途</th><th>限界</th></tr></thead>
+    <tbody>
+      <tr><td>言語モデル</td><td>ChatGPT、Gemini、Claude</td><td>アイデアの拡張、脚本の下書き、コピーのバリエーション、リサーチの整理</td><td>事実確認が必要、最終判断は不可</td></tr>
+      <tr><td>画像生成</td><td>GPT Image、Nano Banana、Midjourney、Seedream</td><td>ムードボード、コンセプトアート、絵コンテの下描き、背景素材</td><td>文字の描写が不安定、一貫性の維持が困難</td></tr>
+      <tr><td>映像生成</td><td>Sora、Veo、Kling、Seedance、Runway、Higgsfield</td><td>インサート、背景、撮影できないシーン、プリビズ</td><td>長さの制限、キャラクターの一貫性、物理法則の誤り</td></tr>
+      <tr><td>音声合成</td><td>ElevenLabs、Typecast、Seed Audio</td><td>仮ナレーション、多言語吹き替え、下案のテスト</td><td>実在の人物の声は決して複製しない</td></tr>
+      <tr><td>音楽生成</td><td>Suno、Udio</td><td>下案用の仮音楽、ムードの探索</td><td>商用利用の規約を要確認</td></tr>
+      <tr><td>編集補助</td><td>Vrew、CapCut、PremiereのAI機能</td><td>自動字幕、無音部分の削除、初回ラフカット</td><td>固有名詞の誤り、テンポの感覚がない</td></tr>
+      <tr><td>3D生成</td><td>Meshy、Tripo</td><td>小道具、キャラクターの試作</td><td>ポリゴンの整理が必要</td></tr>
+    </tbody>
+  </table>
+  <h3>AIで15秒広告をつくる手順</h3>
+  <div class="steps">
+    <div class="step"><b>01</b><i>発散</i>ブリーフを言語モデルに入力し、ペインポイント20個とコンセプト候補10個を得る</div>
+    <div class="step"><b>02</b><i>収束</i>人が3つに絞り、一文コンセプトを書く。この一文だけは決して任せない</div>
+    <div class="step"><b>03</b><i>視覚化</i>画像生成でムードボードと6カットの絵コンテの下描きをつくる。トーン＆マナーの合意がもっとも速くなるのはここである</div>
+    <div class="step"><b>04</b><i>プリビズ</i>絵コンテを映像生成にかけてアニマティックにする。リズムの問題を撮影前につかむ</div>
+    <div class="step"><b>05</b><i>カットの振り分け</i>実写カットと生成カットを分ける。顔がはっきり見えるカットは実写で撮るほうが安全である</div>
+  </div>
+  <div class="steps">
+    <div class="step"><b>06</b><i>統一</i>ポストプロダクションで、生成カットを実写カットの色温度とグレインに合わせる。これを省くとすぐに見破られる</div>
+    <div class="step"><b>07</b><i>仮ナレーション</i>音声合成で長さとリズムを試す。本番では声優か自分の録音に差し替える</div>
+    <div class="step"><b>08</b><i>仮音楽</i>生成音楽で編集のリズムを決めるが、納品時には権利の明確な楽曲に差し替える</div>
+    <div class="step"><b>09</b><i>字幕の確認</i>初稿は自動生成し、固有名詞と表記は人が確認する</div>
+    <div class="step"><b>10</b><i>使用の記録</i>AIの使用を制作書類に記録する。コンテストや納品で開示を求められることが増えている</div>
+  </div>
+  <h3>生成カットを実写に混ぜるときの3つのルール</h3>
+  <div class="kv cols-3">
+    <div><b>顔<em>禁止</em></b>顔が大きく映るカットには使わない</div>
+    <div><b>1/3<em>以下</em></b>生成カットは作品全体の1/3以下に抑える</div>
+    <div><b>レンズ<em>+グレイン</em></b>実写カットのレンズの歪みとグレインを生成カットに重ねる</div>
+  </div>
+  <h3>プロンプトを書くときの5つのルール</h3>
+  <ul class="dash">
+    <li>被写体、動作、場所、時間、ライティング、レンズ、ムードの順に書く。撮影指示書のように具体的であるほど、結果は安定する。</li>
+    <li>否定形より肯定形のほうがよく効く。「人がいない通り」ではなく「がらんとした通り」と書く。</li>
+    <li>カメラ用語を使う。広角、望遠、ローアングル、浅い被写界深度といった言葉は、ほとんどのモデルが学習している。</li>
+    <li>画像の中に文字を入れさせない。文字は編集で自分で入れるほうが、つねに正確である。</li>
+    <li>完璧なプロンプトを一度で書こうと苦心するより、同じプロンプトを何度か実行して選ぶほうが速い。</li>
+  </ul>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.13</div>
+    <dl><dt>課題</dt><dd>企画から編集までの各段階にAIツールを配置した制作パイプラインを設計し、1分の動画を完成させる。</dd><dt>ヒント</dt><dd>人が判断すべきポイントに印をつける。</dd><dt>評価</dt><dd>パイプラインの効率、品質管理、使用の開示</dd><dt>解答例</dt><dd>どの部分をAIがつくり、どの部分を人がつくったかを明示する。</dd></dl></div>
+</article>
+
+<article class="sec page" id="s9-14">
+  <header>
+    <div class="crumb"><b>PART 09</b>プラットフォーム運用と生成AI</div>
+    <div class="num">8.14</div>
+    <h2>企業の勢力図と市場の行方</h2>
+    <p class="lead">生成ツールの勢力図は目まぐるしく変わるが、そこにいる企業はいくつかの類型に分けられる。どの企業が何を狙っているかを知れば、ツール選びも学習の優先順位づけも楽になる。</p>
+  </header>
+  <table class="t wide compact">
+    <thead><tr><th>類型</th><th>主な企業</th><th>映像における位置</th><th>つくり手にとっての意味</th></tr></thead>
+    <tbody>
+      <tr><td>基盤モデル</td><td>OpenAI、Google、Anthropic</td><td>言語と映像生成の基盤モデルを供給</td><td>企画と文書作成の生産性</td></tr>
+      <tr><td>プラットフォーム</td><td>Google（YouTube）、Meta、ByteDance</td><td>流通とレコメンドアルゴリズムを掌握</td><td>成果を左右するのは制作力より、見つけられやすさ</td></tr>
+      <tr><td>デバイス</td><td>Apple、Google、Meta</td><td>空間コンピューティングと撮影デバイス</td><td>新しい画面形式の登場</td></tr>
+      <tr><td>映像生成の専業</td><td>Runway、Higgsfield、Kling、Seedance</td><td>制作ワークフローに直接組み込まれる</td><td>実務ツールとして即導入</td></tr>
+      <tr><td>オーディオ</td><td>ElevenLabs、Suno</td><td>音声と音楽の生成</td><td>下案のコストが急落</td></tr>
+      <tr><td>ソフトウェア</td><td>Adobe、Blackmagic</td><td>既存の編集ツールにAIを内蔵</td><td>新しいツールを覚える必要なし</td></tr>
+    </tbody>
+  </table>
+  <aside class="tip"><b>ヒント</b><p>サービス名を暗記するのではなくカテゴリーを理解しておけば、新しいサービスが現れても、どの枠に入るかがすぐにわかる。</p></aside>
+  <div class="cards">
+    <div class="card"><h4><small>プラットフォーム</small>アルゴリズムを握る者が成果を決める</h4><ul><li>制作力だけでは成果は出ない</li><li>タイトル · サムネイル · 投稿戦略が演出の一部になった理由</li></ul></div>
+    <div class="card"><h4><small>デバイス</small>新しい画面形式が新しい表現を生む</h4><ul><li>縦型画面がショート動画を生んだように</li><li>空間ディスプレイもまた別の表現を生む</li></ul></div>
+    <div class="card"><h4><small>ソフトウェア</small>内蔵AIは新人に有利</h4><ul><li>追加ツールなしで自動字幕と背景除去</li><li>標準機能としてすぐ使える</li></ul></div>
+  </div>
+  <figure class="wide diagram"><img src="img_en/EN-p367_328_1375x412.png" alt=""><figcaption><b>図 86</b> 成果指標を読む順序</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>演習</small>8.14</div>
+    <dl><dt>課題</dt><dd>関心のある映像企業を1社調べ、そのビジネスモデルと最近の動向を1ページにまとめる。</dd><dt>ヒント</dt><dd>公式発表と記事の日付を確認する。</dd><dt>評価</dt><dd>情報の正確さ、分析の視点</dd><dt>解答例</dt><dd>その企業に応募するにはどんなポートフォリオが必要かまで述べる。</dd></dl></div>
+</article>
+
+<section class="part-end page" id="end9">
+  <header><div class="crumb">PART 08–09 まとめ</div><h2>演習と振り返り</h2></header>
+  <ol class="missions">
+    <li><b>フックの類型を分類する</b>好きな広告3本の最初の3秒をキャプチャーし、フックの類型を分類する。</li>
+    <li><b>タイトル5案、サムネイル3案</b>自分の動画1本についてつくり、どれをクリックするかを10人に尋ねる。</li>
+    <li><b>プラットフォーム別キャプション</b>同じ素材から、YouTube Shorts、Instagram Reels、TikTokの3バージョンでキャプションとハッシュタグを書く。</li>
+    <li><b>脚本をブログに</b>自分の動画1本の脚本をブログ記事に書き直し、検索キーワードを3つ入れる。</li>
+    <li><b>20個のアイデアを3個に</b>言語モデルからアイデアを20個得て3個に絞り、その過程を記録する。</li>
+    <li><b>生成カットを混ぜる</b>実写カットの間に生成カットを1つ入れ、色とグレインを合わせる。</li>
+  </ol>
+  <h3>1ページまとめ</h3>
+  <div class="summary">
+    <div class="card"><h4>PART 08 広告の最初の3秒</h4><p>3秒フックの6類型を見分け、好きな広告の最初の3秒がどの類型かを説明できる。</p></div>
+    <div class="card"><h4>8.1 プラットフォームマップ</h4><p>視聴者が見に来たのか、別のものを見ている途中で出会ったのかで、最初の3秒の戦略が決まる。</p></div>
+    <div class="card"><h4>8.2 YouTubeの運用</h4><p>キーワードはタイトルの最初の25文字以内に。サムネイルの文字は3–7文字、画面の高さの15%以上。</p></div>
+    <div class="card"><h4>8.3 ショート動画の3大プラットフォーム</h4><p>Shortsは20–60秒、Reelsは15–30秒、TikTokは9–21秒。上部12%と下部20%はUIに隠れる。</p></div>
+    <div class="card"><h4>8.4 Instagramの運用</h4><p>ハッシュタグは10–15個、大 · 中 · 小を混ぜる。投稿後1時間以内のコメントに返信する。</p></div>
+    <div class="card"><h4>8.5 TikTokとリミックス</h4><p>完璧につくると誰も手を出さない。真似できる余地が拡散を生む。</p></div>
+    <div class="card"><h4>8.7 ブログプラットフォーム</h4><p>動画の上下に要約文を置き、脚本を本文に移すと、検索流入が増える。</p></div>
+    <div class="card"><h4>8.8 主要な成果指標</h4><p>指標は、リーチ、クリック率、視聴維持率、エンゲージメントの順に読む。</p></div>
+    <div class="card"><h4>8.9 生成AIツール</h4><p>AIの出番は、アイデアの拡張、下案の視覚化、ポストプロダクションの自動化の3つに絞る。一文コンセプトは決して任せない。</p></div>
+    <div class="card"><h4>8.10 チャンネル運用</h4><p>一文での定義、固定フォーマット、アップロード日程、ビジュアルのルール、1つの指標。1つのアイデアを複数の媒体で使い回す。</p></div>
+    <div class="card"><h4>8.12 SNS広告</h4><p>クリエイティブは3–5本を同時に回し、変数を1つずつ比較する。協賛 · 広告の表示は必ず入れる。</p></div>
+    <div class="card"><h4>8.13 AIパイプライン</h4><p>生成カットは顔を避けて全体の1/3以下に抑え、実写のレンズの歪みとグレインを重ねる。AIの使用は記録する。</p></div>
+  </div>
+  <h3>セルフチェック</h3>
+  <ul class="dash">
+    <li>3秒フックの6類型を説明できるか？</li>
+    <li>インプレッションのクリック率と視聴維持率の違いがわかるか？</li>
+    <li>大、中、小のハッシュタグを混ぜる理由を説明できるか？</li>
+    <li>デュエットとステッチを念頭に置いて企画できるか？</li>
+    <li>AIツールをどの段階で導入するかを判断できるか？</li>
+  </ul>
+  <div class="callout"><h4>現場のヒント</h4><p>投稿後1時間の反応がその後のリーチを左右するので、コメントに返信できる時間帯に投稿する。自動字幕の固有名詞は必ず人が確認する。社名を1つ誤記しただけで、信頼は一瞬で崩れる。AIの使用は制作書類に記録する。開示義務のついた依頼が増えている。</p></div>
+  <h3>考えてみよう</h3>
+  <dl class="qa">
+    <dt>自分のチャンネルを一文で定義できるか？その一文に、登録する理由は入っているか？</dt>
+    <dd>8.10のチャンネル設計5ステップの最初である。チャンネルが誰に何を与えるのかを言えなければ、登録する理由はない。</dd>
+    <dt>自分の仕事のうち、AIが代わりにできない部分はどこか？</dt>
+    <dd>何を撮るかを決める判断、なぜそのカットでなければならないかを説明する言葉、クライアントとの調整、現場での不測の事態への対応。ツールが強力になるほど、判断の価値は高まる。</dd>
+  </dl>
+</section>

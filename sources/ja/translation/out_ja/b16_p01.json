@@ -1,0 +1,614 @@
+[
+{
+"key": "part14a.html#347",
+"ja": "<small>線の太さ</small>細く均一に"
+},
+{
+"key": "part14a.html#348",
+"ja": "thin uniform line weight"
+},
+{
+"key": "part14a.html#349",
+"ja": "<small>文字</small>なし"
+},
+{
+"key": "part14a.html#350",
+"ja": "no text, no lettering"
+},
+{
+"key": "part14a.html#351",
+"ja": "<small>人物</small>シルエットまたは中立的な人物像"
+},
+{
+"key": "part14a.html#352",
+"ja": "neutral silhouette figure"
+},
+{
+"key": "part14a.html#353",
+"ja": "<small>比率</small>横長の図解は16:9、人物比較は4:3"
+},
+{
+"key": "part14a.html#354",
+"ja": "aspect ratio 16:9 or 4:3"
+},
+{
+"key": "part14a.html#355",
+"ja": "図版制作の注意点"
+},
+{
+"key": "part14a.html#356",
+"ja": "生成画像の中の文字は、たいてい崩れる。文字は編集段階で自分で入れる。"
+},
+{
+"key": "part14a.html#357",
+"ja": "人物を含む図版は、実在の人物に見えないよう、シルエットか中立的な人物像を指定する。"
+},
+{
+"key": "part14a.html#358",
+"ja": "特定の映画や広告のフレームを再現させてはならない。著作権にも倫理にも反する。"
+},
+{
+"key": "part14a.html#359",
+"ja": "商用利用についてツールの規約を確認し、印刷や配布の前にライセンスの範囲を見直す。"
+},
+{
+"key": "part14a.html#360",
+"ja": "印刷用は、300 dpiで必要な解像度を計算してからアップスケールする。"
+},
+{
+"key": "part14a.html#361",
+"ja": "<b>付録</b>現場の書類"
+},
+{
+"key": "part14a.html#362",
+"ja": "参考文献と出典"
+},
+{
+"key": "part14a.html#363",
+"ja": "本文中の数値と規格は、以下の分類の公開資料と業界の慣行に基づいている。"
+},
+{
+"key": "part14a.html#364",
+"ja": "<b>出典について</b>"
+},
+{
+"key": "part14a.html#365",
+"ja": "技術仕様とプラットフォームのポリシーは頻繁に変わる。制作と納品の前に、必ず最新の公式文書を確認する。引用した監督や制作会社の作品は、技法の分析のためにのみ言及しており、フレームは一切転載していない。"
+},
+{
+"key": "part14a.html#366",
+"ja": "<small>理論と歴史</small>知覚から照明の手引きまで"
+},
+{
+"key": "part14a.html#367",
+"ja": "仮現運動とファイ現象に関する心理学の古典的文献"
+},
+{
+"key": "part14a.html#368",
+"ja": "映画史の概説書と映画理論の入門書（モンタージュ理論、古典的な編集文法）"
+},
+{
+"key": "part14a.html#369",
+"ja": "ソビエト・モンタージュ理論の原典の翻訳（クレショフ効果、衝突のモンタージュ）"
+},
+{
+"key": "part14a.html#370",
+"ja": "撮影と照明の手引き（3点照明、照明比、ポートレートのライティングパターン）"
+},
+{
+"key": "part14a.html#371",
+"ja": "<small>技術規格</small>規格とメーカーの資料"
+},
+{
+"key": "part14a.html#372",
+"ja": "放送と映画の国際規格（解像度、フレームレート、色空間）"
+},
+{
+"key": "part14a.html#373",
+"ja": "カメラメーカーの公式マニュアルとホワイトペーパー"
+},
+{
+"key": "part14a.html#374",
+"ja": "Adobe Premiere ProとAfter Effectsの公式ヘルプ"
+},
+{
+"key": "part14a.html#375",
+"ja": "Blackmagic Design DaVinci Resolveの公式マニュアル"
+},
+{
+"key": "part14a.html#376",
+"ja": "LEDディスプレイメーカーの仕様書（ピクセルピッチ、輝度、リフレッシュレート）"
+},
+{
+"key": "part14a.html#377",
+"ja": "<small>プラットフォームのガイド</small>各サービスの公式案内"
+},
+{
+"key": "part14a.html#378",
+"ja": "YouTube Creator Academyと公式ヘルプセンターのガイド"
+},
+{
+"key": "part14a.html#379",
+"ja": "Metaビジネスヘルプセンターの広告仕様資料"
+},
+{
+"key": "part14a.html#380",
+"ja": "TikTok Creator PortalとBusiness Centerのガイド"
+},
+{
+"key": "part14a.html#381",
+"ja": "NAVERの検索とブログの公式ガイド"
+},
+{
+"key": "part14a.html#382",
+"ja": "<small>産業と法律</small>統計 · 著作権 · 契約"
+},
+{
+"key": "part14a.html#383",
+"ja": "韓国コンテンツ振興院の産業統計と調査"
+},
+{
+"key": "part14a.html#384",
+"ja": "韓国放送広告振興公社の広告市場データ"
+},
+{
+"key": "part14a.html#385",
+"ja": "韓国著作権委員会の相談と案内の資料"
+},
+{
+"key": "part14a.html#386",
+"ja": "国土交通部および関係機関のドローン規則"
+},
+{
+"key": "part14a.html#387",
+"ja": "文化体育観光部の標準契約書式"
+},
+{
+"key": "part14a.html#388",
+"ja": "<b>付録</b>現場の書類"
+},
+{
+"key": "part14a.html#389",
+"ja": "演習ワークシートの書式"
+},
+{
+"key": "part14a.html#390",
+"ja": "印刷してそのまま使う。授業ではコピーして配り、独習ではノートに描き写す。"
+},
+{
+"key": "part14a.html#391",
+"ja": "<b>ヒント</b>"
+},
+{
+"key": "part14a.html#392",
+"ja": "1学期分の記入済みワークシートの束は、それだけで作業の完全な記録になる。"
+},
+{
+"key": "part14a.html#393",
+"ja": "ワークシート"
+},
+{
+"key": "part14a.html#394",
+"ja": "書式"
+},
+{
+"key": "part14a.html#395",
+"ja": "1ページ企画書の書式"
+},
+{
+"key": "part14a.html#396",
+"ja": "ショットリストの書式"
+},
+{
+"key": "part14a.html#397",
+"ja": "6コマ絵コンテの書式"
+},
+{
+"key": "part14a.html#398",
+"ja": "PPMチェックリストの書式"
+},
+{
+"key": "part14a.html#399",
+"ja": "リファレンスのカット分析シート"
+},
+{
+"key": "part14a.html#400",
+"ja": "ポートフォリオのセルフチェックシート"
+},
+{
+"key": "part14a.html#401",
+"ja": "<b>付録</b>現場の書類"
+},
+{
+"key": "part14a.html#402",
+"ja": "よくある50の失敗"
+},
+{
+"key": "part14a.html#403",
+"ja": "撮影の前日に一度、納品の直前にもう一度、ざっと目を通す。失敗の大半は才能の不足からではなく、誰も確認しなかった工程から生まれる。"
+},
+{
+"key": "part14a.html#404",
+"ja": "企画段階"
+},
+{
+"key": "part14a.html#405",
+"ja": "<b>01</b><span>プラットフォームを決める前に企画を始める</span>"
+},
+{
+"key": "part14a.html#406",
+"ja": "<b>02</b><span>メッセージを2つ以上詰め込む</span>"
+},
+{
+"key": "part14a.html#407",
+"ja": "<b>03</b><span>すべての人をターゲットにする</span>"
+},
+{
+"key": "part14a.html#408",
+"ja": "<b>04</b><span>リファレンスを分解せず、雰囲気だけを借りる</span>"
+},
+{
+"key": "part14a.html#409",
+"ja": "<b>05</b><span>予算と日程に合わないアイデアに固執する</span>"
+},
+{
+"key": "part14a.html#410",
+"ja": "<b>06</b><span>絵コンテを描かずに撮影に入る</span>"
+},
+{
+"key": "part14a.html#411",
+"ja": "<b>07</b><span>テロップとロゴのスペースを設計しない</span>"
+},
+{
+"key": "part14a.html#412",
+"ja": "<b>08</b><span>PPMを開かず、チーム内の合意だけで進める</span>"
+},
+{
+"key": "part14a.html#413",
+"ja": "<b>09</b><span>出演同意書とロケ地の許可を取らない</span>"
+},
+{
+"key": "part14a.html#414",
+"ja": "<b>10</b><span>音楽のライセンスを撮影後に調べる</span>"
+},
+{
+"key": "part14a.html#415",
+"ja": "撮影段階"
+},
+{
+"key": "part14a.html#416",
+"ja": "<b>11</b><span>オート露出とオートホワイトバランスで撮る</span>"
+},
+{
+"key": "part14a.html#417",
+"ja": "<b>12</b><span>シャッタースピードで露出を調整する</span>"
+},
+{
+"key": "part14a.html#418",
+"ja": "<b>13</b><span>日中にNDフィルターなしで絞り開放で撮る</span>"
+},
+{
+"key": "part14a.html#419",
+"ja": "<b>14</b><span>マスターショットとインサートを押さえない</span>"
+},
+{
+"key": "part14a.html#420",
+"ja": "<b>15</b><span>180度ルールを確認せずに撮る</span>"
+},
+{
+"key": "part14a.html#421",
+"ja": "<b>16</b><span>同じサイズとアングルのカットばかり撮る</span>"
+},
+{
+"key": "part14a.html#422",
+"ja": "<b>17</b><span>メインの音声をカメラの内蔵マイクで録る</span>"
+},
+{
+"key": "part14a.html#423",
+"ja": "<b>18</b><span>ルームトーンを録らない</span>"
+},
+{
+"key": "part14a.html#424",
+"ja": "<b>19</b><span>バッテリーとメモリーカードの予備を持たない</span>"
+},
+{
+"key": "part14a.html#425",
+"ja": "<b>20</b><span>バックアップせずに撮影の途中でカードをフォーマットする</span>"
+},
+{
+"key": "part14a.html#426",
+"ja": "<b>21</b><span>ライトスタンドにサンドバッグを載せない</span>"
+},
+{
+"key": "part14a.html#427",
+"ja": "<b>22</b><span>出演者をクロマキーの背景のすぐ前に立たせる</span>"
+},
+{
+"key": "part14a.html#428",
+"ja": "<b>23</b><span>衣装の色が背景の色と同じ</span>"
+},
+{
+"key": "part14a.html#429",
+"ja": "<b>24</b><span>他社のロゴが画面に映り込む</span>"
+},
+{
+"key": "part14a.html#430",
+"ja": "<b>25</b><span>絵コンテの全カットを撮ったか確認せずに撤収する</span>"
+},
+{
+"key": "part14a.html#431",
+"ja": "編集とポストプロダクション"
+},
+{
+"key": "part14a.html#432",
+"ja": "<b>26</b><span>音楽なしで映像を先に編集する</span>"
+},
+{
+"key": "part14a.html#433",
+"ja": "<b>27</b><span>すべてのカットを同じ長さにする</span>"
+},
+{
+"key": "part14a.html#434",
+"ja": "<b>28</b><span>動きが終わってからカットする</span>"
+},
+{
+"key": "part14a.html#435",
+"ja": "<b>29</b><span>すべてのカットにトランジションをかける</span>"
+},
+{
+"key": "part14a.html#436",
+"ja": "<b>30</b><span>テロップをセーフゾーンの外に置く</span>"
+},
+{
+"key": "part14a.html#437",
+"ja": "<b>31</b><span>テロップを校正しない</span>"
+},
+{
+"key": "part14a.html#438",
+"ja": "<b>32</b><span>カットごとに色がばらついたまま納品する</span>"
+},
+{
+"key": "part14a.html#439",
+"ja": "<b>33</b><span>合成に影とグレインを加えない</span>"
+},
+{
+"key": "part14a.html#440",
+"ja": "<b>34</b><span>音量が区間ごとにばらつく</span>"
+},
+{
+"key": "part14a.html#441",
+"ja": "<b>35</b><span>冒頭と末尾に黒フレームが残る</span>"
+},
+{
+"key": "part14a.html#442",
+"ja": "<b>36</b><span>プロキシを使わずに4K素材をそのまま編集し、フリーズさせる</span>"
+},
+{
+"key": "part14a.html#443",
+"ja": "<b>37</b><span>ファイル名を「最終」「本当の最終」にする</span>"
+},
+{
+"key": "part14a.html#444",
+"ja": "<b>38</b><span>プロジェクトフォルダーの外にある素材をリンクする</span>"
+},
+{
+"key": "part14a.html#445",
+"ja": "<b>39</b><span>1台のモニターだけで色を確認する</span>"
+},
+{
+"key": "part14a.html#446",
+"ja": "<b>40</b><span>自動字幕の固有名詞を確認しない</span>"
+},
+{
+"key": "part14a.html#447",
+"ja": "納品と公開"
+},
+{
+"key": "part14a.html#448",
+"ja": "<b>41</b><span>指定の仕様を確認せずに書き出す</span>"
+},
+{
+"key": "part14a.html#449",
+"ja": "<b>42</b><span>ほかの端末で再生を確認しない</span>"
+},
+{
+"key": "part14a.html#450",
+"ja": "<b>43</b><span>音を消した状態で確認しない</span>"
+},
+{
+"key": "part14a.html#451",
+"ja": "<b>44</b><span>横型をクロップしただけで縦型をつくる</span>"
+},
+{
+"key": "part14a.html#452",
+"ja": "<b>45</b><span>最初のフレームがサムネイルになることを忘れる</span>"
+},
+{
+"key": "part14a.html#453",
+"ja": "<b>46</b><span>タイトルを最後に慌てて付ける</span>"
+},
+{
+"key": "part14a.html#454",
+"ja": "<b>47</b><span>規模の大きいハッシュタグだけを使う</span>"
+},
+{
+"key": "part14a.html#455",
+"ja": "<b>48</b><span>投稿後に指標を確認しない</span>"
+},
+{
+"key": "part14a.html#456",
+"ja": "<b>49</b><span>ポートフォリオのリンクの公開設定を確認しない</span>"
+},
+{
+"key": "part14a.html#457",
+"ja": "<b>50</b><span>プロジェクトファイルと素材をバックアップしない</span>"
+},
+{
+"key": "part14a.html#458",
+"ja": "この50のうち半分を避けるだけで、作品の質は目に見えて変わる。<small>付録P よくある50の失敗</small>"
+},
+{
+"key": "part14a.html#459",
+"ja": "<b>付録</b>現場の書類"
+},
+{
+"key": "part14a.html#460",
+"ja": "現場用語"
+},
+{
+"key": "part14a.html#461",
+"ja": "現場で実際に使われる言葉。聞き取れなければ、学ぶ機会がそれだけ減る。"
+},
+{
+"key": "part14a.html#462",
+"ja": "<b>現場の言葉のルール</b>"
+},
+{
+"key": "part14a.html#463",
+"ja": "短く、はっきり話す。指示を受けたら必ず復唱する。わかったふりをした指示が、最悪の事故を招く。"
+},
+{
+"key": "part14a.html#464",
+"ja": "用語"
+},
+{
+"key": "part14a.html#465",
+"ja": "意味"
+},
+{
+"key": "part14a.html#466",
+"ja": "使う場面"
+},
+{
+"key": "part14a.html#467",
+"ja": "回す"
+},
+{
+"key": "part14a.html#468",
+"ja": "収録開始の合図"
+},
+{
+"key": "part14a.html#469",
+"ja": "録音、カメラの順に回す"
+},
+{
+"key": "part14a.html#470",
+"ja": "カット"
+},
+{
+"key": "part14a.html#471",
+"ja": "停止の合図"
+},
+{
+"key": "part14a.html#472",
+"ja": "かけるのは監督だけ"
+},
+{
+"key": "part14a.html#473",
+"ja": "OK"
+},
+{
+"key": "part14a.html#474",
+"ja": "テイクの採用"
+},
+{
+"key": "part14a.html#475",
+"ja": "スクリプターが記録する"
+},
+{
+"key": "part14a.html#476",
+"ja": "キープ"
+},
+{
+"key": "part14a.html#477",
+"ja": "ひとまず保留"
+},
+{
+"key": "part14a.html#478",
+"ja": "微妙だが捨てない"
+},
+{
+"key": "part14a.html#479",
+"ja": "NG"
+},
+{
+"key": "part14a.html#480",
+"ja": "失敗したテイク"
+},
+{
+"key": "part14a.html#481",
+"ja": "撮り直す"
+},
+{
+"key": "part14a.html#482",
+"ja": "テイク"
+},
+{
+"key": "part14a.html#483",
+"ja": "同じショットを撮る1回ごと"
+},
+{
+"key": "part14a.html#484",
+"ja": "「テイク3、いきます」"
+},
+{
+"key": "part14a.html#485",
+"ja": "カチンコ"
+},
+{
+"key": "part14a.html#486",
+"ja": "カット情報を記したボード"
+},
+{
+"key": "part14a.html#487",
+"ja": "同期の基準点"
+},
+{
+"key": "part14a.html#488",
+"ja": "スタンバイ"
+},
+{
+"key": "part14a.html#489",
+"ja": "準備を終えて待機"
+},
+{
+"key": "part14a.html#490",
+"ja": "「お静かに願います」"
+},
+{
+"key": "part14a.html#491",
+"ja": "リハーサル"
+},
+{
+"key": "part14a.html#492",
+"ja": "収録なしの通し"
+},
+{
+"key": "part14a.html#493",
+"ja": "動きとタイミングの確認"
+},
+{
+"key": "part14a.html#494",
+"ja": "セッティング"
+},
+{
+"key": "part14a.html#495",
+"ja": "機材の設置と調整"
+},
+{
+"key": "part14a.html#496",
+"ja": "カメラのセッティング、照明のセッティング"
+},
+{
+"key": "part14a.html#497",
+"ja": "ムーブ"
+},
+{
+"key": "part14a.html#498",
+"ja": "カメラワーク"
+},
+{
+"key": "part14a.html#499",
+"ja": "「ムーブ、いきます」"
+}
+]

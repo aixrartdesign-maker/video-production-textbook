@@ -1,0 +1,614 @@
+[
+{
+"key": "part14a.html#500",
+"ja": "タイトに"
+},
+{
+"key": "part14a.html#501",
+"ja": "もっと寄る"
+},
+{
+"key": "part14a.html#502",
+"ja": "フレーミングの指示"
+},
+{
+"key": "part14a.html#503",
+"ja": "ルーズに"
+},
+{
+"key": "part14a.html#504",
+"ja": "もっと引く"
+},
+{
+"key": "part14a.html#505",
+"ja": "フレーミングの指示"
+},
+{
+"key": "part14a.html#506",
+"ja": "目線"
+},
+{
+"key": "part14a.html#507",
+"ja": "被写体の視線の高さと向き"
+},
+{
+"key": "part14a.html#508",
+"ja": "「目線を合わせてください」"
+},
+{
+"key": "part14a.html#509",
+"ja": "ヘッドルーム"
+},
+{
+"key": "part14a.html#510",
+"ja": "頭上の余白"
+},
+{
+"key": "part14a.html#511",
+"ja": "「ヘッドルームが空きすぎ」"
+},
+{
+"key": "part14a.html#512",
+"ja": "マイクの見切れ"
+},
+{
+"key": "part14a.html#513",
+"ja": "画面にマイクが映り込む"
+},
+{
+"key": "part14a.html#514",
+"ja": "すぐに撮り直す"
+},
+{
+"key": "part14a.html#515",
+"ja": "ピン"
+},
+{
+"key": "part14a.html#516",
+"ja": "ピンマイク（ラベリアマイク）"
+},
+{
+"key": "part14a.html#517",
+"ja": "「ピンを付けてください」"
+},
+{
+"key": "part14a.html#518",
+"ja": "レフを当てる"
+},
+{
+"key": "part14a.html#519",
+"ja": "被写体に光を反射させる"
+},
+{
+"key": "part14a.html#520",
+"ja": "影がやわらぐ"
+},
+{
+"key": "part14a.html#521",
+"ja": "消す"
+},
+{
+"key": "part14a.html#522",
+"ja": "ライトを消す"
+},
+{
+"key": "part14a.html#523",
+"ja": "「そのライト、消して」"
+},
+{
+"key": "part14a.html#524",
+"ja": "カバレッジ"
+},
+{
+"key": "part14a.html#525",
+"ja": "押さえたサイズの数"
+},
+{
+"key": "part14a.html#526",
+"ja": "「カバレッジが足りない」"
+},
+{
+"key": "part14a.html#527",
+"ja": "インサートを押さえる"
+},
+{
+"key": "part14a.html#528",
+"ja": "寄りのディテールカットを撮る"
+},
+{
+"key": "part14a.html#529",
+"ja": "編集に余裕が生まれる"
+},
+{
+"key": "part14a.html#530",
+"ja": "もう1回"
+},
+{
+"key": "part14a.html#531",
+"ja": "もう一度"
+},
+{
+"key": "part14a.html#532",
+"ja": "テイクを追加"
+},
+{
+"key": "part14a.html#533",
+"ja": "チェック"
+},
+{
+"key": "part14a.html#534",
+"ja": "撮影素材の確認"
+},
+{
+"key": "part14a.html#535",
+"ja": "モニターで再生"
+},
+{
+"key": "part14a.html#536",
+"ja": "撤収"
+},
+{
+"key": "part14a.html#537",
+"ja": "機材の片づけと原状回復"
+},
+{
+"key": "part14a.html#538",
+"ja": "ロケ地の原状回復を含む"
+},
+{
+"key": "part14a.html#539",
+"ja": "<b>付録</b>現場の書類"
+},
+{
+"key": "part14a.html#540",
+"ja": "日英用語対照表"
+},
+{
+"key": "part14a.html#541",
+"ja": "海外の資料を読むときや、英文の履歴書とショーリールをつくるときのための基本の対照表。"
+},
+{
+"key": "part14a.html#542",
+"ja": "日本語"
+},
+{
+"key": "part14a.html#543",
+"ja": "英語"
+},
+{
+"key": "part14a.html#544",
+"ja": "日本語"
+},
+{
+"key": "part14a.html#545",
+"ja": "英語"
+},
+{
+"key": "part14a.html#546",
+"ja": "企画"
+},
+{
+"key": "part14a.html#547",
+"ja": "Planning / Development"
+},
+{
+"key": "part14a.html#548",
+"ja": "演出"
+},
+{
+"key": "part14a.html#549",
+"ja": "Directing"
+},
+{
+"key": "part14a.html#550",
+"ja": "企画意図"
+},
+{
+"key": "part14a.html#551",
+"ja": "Concept Statement"
+},
+{
+"key": "part14a.html#552",
+"ja": "シノプシス"
+},
+{
+"key": "part14a.html#553",
+"ja": "Synopsis"
+},
+{
+"key": "part14a.html#554",
+"ja": "シナリオ"
+},
+{
+"key": "part14a.html#555",
+"ja": "Screenplay / Script"
+},
+{
+"key": "part14a.html#556",
+"ja": "コンテ"
+},
+{
+"key": "part14a.html#557",
+"ja": "Continuity"
+},
+{
+"key": "part14a.html#558",
+"ja": "絵コンテ"
+},
+{
+"key": "part14a.html#559",
+"ja": "Storyboard"
+},
+{
+"key": "part14a.html#560",
+"ja": "アニマティック"
+},
+{
+"key": "part14a.html#561",
+"ja": "Animatic"
+},
+{
+"key": "part14a.html#562",
+"ja": "撮影監督"
+},
+{
+"key": "part14a.html#563",
+"ja": "Director of Photography"
+},
+{
+"key": "part14a.html#564",
+"ja": "助監督"
+},
+{
+"key": "part14a.html#565",
+"ja": "Assistant Director"
+},
+{
+"key": "part14a.html#566",
+"ja": "照明技師"
+},
+{
+"key": "part14a.html#567",
+"ja": "Gaffer"
+},
+{
+"key": "part14a.html#568",
+"ja": "撮影助手"
+},
+{
+"key": "part14a.html#569",
+"ja": "Camera Assistant"
+},
+{
+"key": "part14a.html#570",
+"ja": "美術監督"
+},
+{
+"key": "part14a.html#571",
+"ja": "Production Designer"
+},
+{
+"key": "part14a.html#572",
+"ja": "小道具"
+},
+{
+"key": "part14a.html#573",
+"ja": "Props"
+},
+{
+"key": "part14a.html#574",
+"ja": "編集者"
+},
+{
+"key": "part14a.html#575",
+"ja": "Editor"
+},
+{
+"key": "part14a.html#576",
+"ja": "カラーグレーディング"
+},
+{
+"key": "part14a.html#577",
+"ja": "Color Grading"
+},
+{
+"key": "part14a.html#578",
+"ja": "合成"
+},
+{
+"key": "part14a.html#579",
+"ja": "Compositing"
+},
+{
+"key": "part14a.html#580",
+"ja": "モーショングラフィックス"
+},
+{
+"key": "part14a.html#581",
+"ja": "Motion Graphics"
+},
+{
+"key": "part14a.html#582",
+"ja": "ショットサイズ"
+},
+{
+"key": "part14a.html#583",
+"ja": "Shot Size"
+},
+{
+"key": "part14a.html#584",
+"ja": "クローズアップ"
+},
+{
+"key": "part14a.html#585",
+"ja": "Close Up"
+},
+{
+"key": "part14a.html#586",
+"ja": "俯瞰"
+},
+{
+"key": "part14a.html#587",
+"ja": "High Angle"
+},
+{
+"key": "part14a.html#588",
+"ja": "あおり"
+},
+{
+"key": "part14a.html#589",
+"ja": "Low Angle"
+},
+{
+"key": "part14a.html#590",
+"ja": "逆光"
+},
+{
+"key": "part14a.html#591",
+"ja": "Backlight"
+},
+{
+"key": "part14a.html#592",
+"ja": "キーライト"
+},
+{
+"key": "part14a.html#593",
+"ja": "Key Light"
+},
+{
+"key": "part14a.html#594",
+"ja": "フィルライト"
+},
+{
+"key": "part14a.html#595",
+"ja": "Fill Light"
+},
+{
+"key": "part14a.html#596",
+"ja": "レフ板"
+},
+{
+"key": "part14a.html#597",
+"ja": "Reflector"
+},
+{
+"key": "part14a.html#598",
+"ja": "被写界深度"
+},
+{
+"key": "part14a.html#599",
+"ja": "Depth of Field"
+},
+{
+"key": "part14a.html#600",
+"ja": "露出"
+},
+{
+"key": "part14a.html#601",
+"ja": "Exposure"
+},
+{
+"key": "part14a.html#602",
+"ja": "ホワイトバランス"
+},
+{
+"key": "part14a.html#603",
+"ja": "White Balance"
+},
+{
+"key": "part14a.html#604",
+"ja": "色温度"
+},
+{
+"key": "part14a.html#605",
+"ja": "Color Temperature"
+},
+{
+"key": "part14a.html#606",
+"ja": "フレームレート"
+},
+{
+"key": "part14a.html#607",
+"ja": "Frame Rate"
+},
+{
+"key": "part14a.html#608",
+"ja": "解像度"
+},
+{
+"key": "part14a.html#609",
+"ja": "Resolution"
+},
+{
+"key": "part14a.html#610",
+"ja": "アスペクト比"
+},
+{
+"key": "part14a.html#611",
+"ja": "Aspect Ratio"
+},
+{
+"key": "part14a.html#612",
+"ja": "セーフゾーン"
+},
+{
+"key": "part14a.html#613",
+"ja": "Safe Area"
+},
+{
+"key": "part14a.html#614",
+"ja": "粗編集"
+},
+{
+"key": "part14a.html#615",
+"ja": "Rough Cut"
+},
+{
+"key": "part14a.html#616",
+"ja": "最終版"
+},
+{
+"key": "part14a.html#617",
+"ja": "Final Cut / Master"
+},
+{
+"key": "part14a.html#618",
+"ja": "納品"
+},
+{
+"key": "part14a.html#619",
+"ja": "Delivery"
+},
+{
+"key": "part14a.html#620",
+"ja": "修正"
+},
+{
+"key": "part14a.html#621",
+"ja": "Revision"
+},
+{
+"key": "part14a.html#622",
+"ja": "予算"
+},
+{
+"key": "part14a.html#623",
+"ja": "Budget"
+},
+{
+"key": "part14a.html#624",
+"ja": "見積もり"
+},
+{
+"key": "part14a.html#625",
+"ja": "Quotation"
+},
+{
+"key": "part14a.html#626",
+"ja": "出演交渉"
+},
+{
+"key": "part14a.html#627",
+"ja": "Casting / Booking"
+},
+{
+"key": "part14a.html#628",
+"ja": "ロケハン"
+},
+{
+"key": "part14a.html#629",
+"ja": "Location Scouting"
+},
+{
+"key": "part14a.html#630",
+"ja": "香盤表"
+},
+{
+"key": "part14a.html#631",
+"ja": "Call Sheet"
+},
+{
+"key": "part14a.html#632",
+"ja": "現場"
+},
+{
+"key": "part14a.html#633",
+"ja": "On Set"
+},
+{
+"key": "part14a.html#634",
+"ja": "出演同意書"
+},
+{
+"key": "part14a.html#635",
+"ja": "Talent Release"
+},
+{
+"key": "part14a.html#636",
+"ja": "著作権"
+},
+{
+"key": "part14a.html#637",
+"ja": "Copyright"
+},
+{
+"key": "part14a.html#638",
+"ja": "ポートフォリオ"
+},
+{
+"key": "part14a.html#639",
+"ja": "Portfolio"
+},
+{
+"key": "part14a.html#640",
+"ja": "ショーリール"
+},
+{
+"key": "part14a.html#641",
+"ja": "Showreel / Demo Reel"
+},
+{
+"key": "part14a.html#642",
+"ja": "<b>付録</b>現場の書類"
+},
+{
+"key": "part14a.html#643",
+"ja": "標準制作スケジュールのテンプレート"
+},
+{
+"key": "part14a.html#644",
+"ja": "スケジュールは約束ではなく道具だ。予定から外れたときに、何が遅れたのかを見極めるためにつくる。"
+},
+{
+"key": "part14a.html#645",
+"ja": "<b>ヒント</b>"
+},
+{
+"key": "part14a.html#646",
+"ja": "各工程に実際にかかった時間を記録しておけば、次のプロジェクトの見積もりが正確になる。"
+},
+{
+"key": "part14a.html#647",
+"ja": "15秒広告（全3週間）"
+},
+{
+"key": "part14a.html#648",
+"ja": "日"
+},
+{
+"key": "part14a.html#649",
+"ja": "工程"
+},
+{
+"key": "part14a.html#650",
+"ja": "成果物"
+},
+{
+"key": "part14a.html#651",
+"ja": "ブリーフの受領、リサーチ"
+},
+{
+"key": "part14a.html#652",
+"ja": "リファレンス10点、リサーチメモ"
+}
+]

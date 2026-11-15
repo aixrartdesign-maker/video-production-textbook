@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#57",
+"ja": "ディレクター"
+},
+{
+"key": "feature_ppm.html#58",
+"ja": "2.1 見開き08"
+},
+{
+"key": "feature_ppm.html#59",
+"ja": "ポストプロダクション計画"
+},
+{
+"key": "feature_ppm.html#60",
+"ja": "CGの範囲、合成の方法、グレーディングの方向性"
+},
+{
+"key": "feature_ppm.html#61",
+"ja": "ポスト責任者"
+},
+{
+"key": "feature_ppm.html#62",
+"ja": "PART 5"
+},
+{
+"key": "feature_ppm.html#63",
+"ja": "スケジュール"
+},
+{
+"key": "feature_ppm.html#64",
+"ja": "撮影日、撮影タイムテーブル、香盤表、予備日"
+},
+{
+"key": "feature_ppm.html#65",
+"ja": "制作"
+},
+{
+"key": "feature_ppm.html#66",
+"ja": "見開き05 · 06"
+},
+{
+"key": "feature_ppm.html#67",
+"ja": "予算とリスク"
+},
+{
+"key": "feature_ppm.html#68",
+"ja": "項目別の予算、雨天時の対応、代替案"
+},
+{
+"key": "feature_ppm.html#69",
+"ja": "制作、クライアント"
+},
+{
+"key": "feature_ppm.html#70",
+"ja": "見開き07"
+},
+{
+"key": "feature_ppm.html#71",
+"ja": "<small>見開き01 · 演出意図</small>トーン＆マナーボード — 形容詞を数値に変えるページ"
+},
+{
+"key": "feature_ppm.html#72",
+"ja": "「温かく洗練された」は合意ではない。トーン＆マナーボードは、形容詞を<b>色温度 · コントラスト · 彩度 · 質感 · テンポ</b>という測れる値に置き換え、撮影・美術・ポストプロダクションが同じ数字を見られるようにするものだ。リファレンスは必ず画面で一緒に確認する。トーンを言葉で説明すれば、全員が別のものを想像する。"
+},
+{
+"key": "feature_ppm.html#73",
+"ja": "トーン＆マナーボード · 朝のドリンク15秒"
+},
+{
+"key": "feature_ppm.html#74",
+"ja": "<b>光</b><span>早朝のサイド光 · 長い影 · 5600 K</span>"
+},
+{
+"key": "feature_ppm.html#75",
+"ja": "<b>色</b><span>ウォームグレー60 · ダスティブルー30 · ワイン10</span>"
+},
+{
+"key": "feature_ppm.html#76",
+"ja": "<b>質感</b><span>リネン · ガラス · 水滴 · 木目</span>"
+},
+{
+"key": "feature_ppm.html#77",
+"ja": "<b>動き</b><span>ゆっくりしたドリーのみ · 手持ちなし</span>"
+},
+{
+"key": "feature_ppm.html#78",
+"ja": "<b>人物</b><span>抑えた表情 · 視線は下→カメラ</span>"
+},
+{
+"key": "feature_ppm.html#79",
+"ja": "<b>✕ アンチリファレンス</b><span>彩度の高いショート動画風 — この方向ではない</span>"
+},
+{
+"key": "feature_ppm.html#80",
+"ja": "<b>澄んだ</b><span>中〜高コントラスト · 白飛びさせない</span>"
+},
+{
+"key": "feature_ppm.html#81",
+"ja": "<b>早朝の</b><span>窓からの単一光源 · 長い影</span>"
+},
+{
+"key": "feature_ppm.html#82",
+"ja": "<b>軽やかな</b><span>平均カット2.5秒 · ピアノ92 BPM</span>"
+},
+{
+"key": "feature_ppm.html#83",
+"ja": "<b>図版 PPM-1</b> トーン＆マナーボード — 形容詞3つ、リファレンス5点とアンチリファレンス1点、そしてパレット。この1枚が撮影 · 美術 · ポストの共通言語になる。"
+},
+{
+"key": "feature_ppm.html#84",
+"ja": "<b>ヒント</b>"
+},
+{
+"key": "feature_ppm.html#85",
+"ja": "パレットは衣装・小道具・背景・グラフィックに等しく適用する。色見本のコードは、美術チームとポストチームに同じファイルで送る。"
+},
+{
+"key": "feature_ppm.html#86",
+"ja": "リファレンスの各コマには、「何を参考にするのか」（光・色・質感・動き・人物）を必ず一言書く。リファレンスを丸ごと写せば盗用、要素を1つだけ取れば研究だ。たった1コマのアンチリファレンスが、ほかのどのコマよりも会議の時間を節約する。"
+},
+{
+"key": "feature_ppm.html#87",
+"ja": "<small>見開き02 · ロケ地</small>ロケ地資料シート — 4枚の写真と1枚の平面図"
+},
+{
+"key": "feature_ppm.html#88",
+"ja": "ロケ地資料シート · L-01 カフェ2階"
+},
+{
+"key": "feature_ppm.html#89",
+"ja": "<b>N 窓</b><span>メインの撮影場所 · 直射日光 07–10時</span>"
+},
+{
+"key": "feature_ppm.html#90",
+"ja": "<b>E カウンター</b><span>騒音源 · テイク中は10分停止</span>"
+},
+{
+"key": "feature_ppm.html#91",
+"ja": "<b>S 階段</b><span>機材は2人で運ぶ · エレベーターなし</span>"
+},
+{
+"key": "feature_ppm.html#92",
+"ja": "<b>W 壁</b><span>切り返しショットの背景</span>"
+},
+{
+"key": "feature_ppm.html#93",
+"ja": "窓（南東） · 直射日光 07–10時"
+},
+{
+"key": "feature_ppm.html#94",
+"ja": "テーブル"
+},
+{
+"key": "feature_ppm.html#95",
+"ja": "俳優A"
+},
+{
+"key": "feature_ppm.html#96",
+"ja": "ドリー 2 m"
+},
+{
+"key": "feature_ppm.html#97",
+"ja": "K キーライト LED 600 W"
+},
+{
+"key": "feature_ppm.html#98",
+"ja": "F レフ板 4×4"
+},
+{
+"key": "feature_ppm.html#99",
+"ja": "B チューブ 3200 K"
+},
+{
+"key": "feature_ppm.html#100",
+"ja": "階段"
+},
+{
+"key": "feature_ppm.html#101",
+"ja": "カウンター"
+},
+{
+"key": "feature_ppm.html#102",
+"ja": "<b>実測値</b><span>電源 220 V 2口 × 3（3 kW）→ 照明は最大2 kW</span><span>天井高2.9 m · 窓幅3.2 m · フローリング（ドリー可）</span><span>騒音72 dB（マシン） · 駐車2台 · トイレは1階</span><span>許可：レンタル 07:00–10:30 · 保険 ✔</span><b>雨天時の対応</b><span>キーライトのLEDで窓の光を再現するか、予備日D+2に延期 · L-02スタジオを仮押さえ</span>"
+},
+{
+"key": "feature_ppm.html#103",
+"ja": "<b>図版 PPM-2</b> ロケ地シート — 4方向の写真（同じ時刻、同じ24 mm）と平面図。平面図にカメラ · 照明 · ドリー · 電源 · 騒音源を書き込めば、当日のセッティング時間は半分になる。"
+},
+{
+"key": "feature_ppm.html#104",
+"ja": "確認項目"
+},
+{
+"key": "feature_ppm.html#105",
+"ja": "L-01 カフェ（第1候補）"
+},
+{
+"key": "feature_ppm.html#106",
+"ja": "L-02 スタジオ（予備）"
+},
+{
+"key": "feature_ppm.html#107",
+"ja": "決め手"
+},
+{
+"key": "feature_ppm.html#108",
+"ja": "光"
+},
+{
+"key": "feature_ppm.html#109",
+"ja": "自然光：直射は07–10時、以降は拡散光"
+},
+{
+"key": "feature_ppm.html#110",
+"ja": "人工光、完全に制御可能"
+},
+{
+"key": "feature_ppm.html#111",
+"ja": "トーン＆マナー「早朝の光」→ L-01"
+},
+{
+"key": "feature_ppm.html#112",
+"ja": "騒音"
+},
+{
+"key": "feature_ppm.html#113",
+"ja": "マシン72 dB、10分停止で合意"
+},
+{
+"key": "feature_ppm.html#114",
+"ja": "無音"
+},
+{
+"key": "feature_ppm.html#115",
+"ja": "SYNCは1カットのみ → 許容範囲"
+},
+{
+"key": "feature_ppm.html#116",
+"ja": "電源 · スペース"
+},
+{
+"key": "feature_ppm.html#117",
+"ja": "3 kW、天井2.9 m、ドリー可"
+},
+{
+"key": "feature_ppm.html#118",
+"ja": "15 kW、4.5 m、クレーン可"
+},
+{
+"key": "feature_ppm.html#119",
+"ja": "クレーンのカット（04）はL-01の階段踊り場に変更"
+},
+{
+"key": "feature_ppm.html#120",
+"ja": "費用 · 許可"
+},
+{
+"key": "feature_ppm.html#121",
+"ja": "レンタル3.5時間、保険 ✔、駐車2台"
+},
+{
+"key": "feature_ppm.html#122",
+"ja": "レンタル8時間、駐車10台"
+},
+{
+"key": "feature_ppm.html#123",
+"ja": "予算内 → L-01"
+},
+{
+"key": "feature_ppm.html#124",
+"ja": "雨天時の対応"
+},
+{
+"key": "feature_ppm.html#125",
+"ja": "窓からの直射なし → キーライトで再現"
+},
+{
+"key": "feature_ppm.html#126",
+"ja": "影響なし"
+},
+{
+"key": "feature_ppm.html#127",
+"ja": "予備日D+2、追加のLED 600 Wを待機"
+},
+{
+"key": "feature_ppm.html#128",
+"ja": "<small>見開き03 · キャスティング</small>俳優シート — 印象のキーワードと出演可能日を同じコマに"
+},
+{
+"key": "feature_ppm.html#129",
+"ja": "キャスティングのページは、顔写真を並べるものではない。まず<b>コンセプトが求める印象</b>をキーワードで書き、各候補者がそれにどれだけ合うかを、日程・出演料・契約条件とともに同じコマに入れる。クライアントが承認するのは顔ではなく、「この人が15秒間に何をするか」だ。"
+},
+{
+"key": "feature_ppm.html#130",
+"ja": "俳優シート · 役A「朝を始める人」"
+},
+{
+"key": "feature_ppm.html#131",
+"ja": "<b>候補A — 第1候補 ★</b><span>印象 ●●●●○ · CM出演3本</span><span>可能日 4/9 · 4/11 · 予備日 ○</span><span>肖像権 1年 オンライン+屋外</span><span>笑顔は小さいが、目が先に笑う</span>"
+},
+{
+"key": "feature_ppm.html#132",
+"ja": "<b>候補B — 第2候補</b><span>印象 ●●●○○ · ミュージックビデオ出演1本</span><span>可能日 4/9のみ · 予備日 ✕</span><span>肖像権 6か月 オンライン</span><span>大きな笑顔 → 「口角だけ」と指示</span>"
+},
+{
+"key": "feature_ppm.html#133",
+"ja": "<b>候補C — 補欠</b><span>印象 ●●○○○ · 出演経験なし</span><span>全日可能 · 予備日 ○</span><span>教育目的の利用のみ</span><span>リハーサル+30分 · 学生作品なら第1候補</span>"
+},
+{
+"key": "feature_ppm.html#134",
+"ja": "<b>図版 PPM-3</b> キャスティングシート — 同じ背景 · 同じ光で撮った正面の1カットと、4行（印象 · 可能日 · 肖像権 · 選んだ理由）。理由はトーン＆マナーの言葉で書く。"
+},
+{
+"key": "feature_ppm.html#135",
+"ja": "<small>写真</small>同じ条件で4カット"
+},
+{
+"key": "feature_ppm.html#136",
+"ja": "無表情の正面 · 自然な笑顔 · 横顔 · 動きのフレームキャプチャ"
+},
+{
+"key": "feature_ppm.html#137",
+"ja": "無修正、同じ照明 — 目的は比較"
+},
+{
+"key": "feature_ppm.html#138",
+"ja": "自撮り · 加工した宣材写真は参考にとどめる"
+},
+{
+"key": "feature_ppm.html#139",
+"ja": "<small>条件</small>顔より先に書く"
+},
+{
+"key": "feature_ppm.html#140",
+"ja": "出演可能日と、予備日に対応できるか"
+},
+{
+"key": "feature_ppm.html#141",
+"ja": "出演料の単位（日/時間）と肖像権の範囲（媒体 · 期間 · 地域）"
+},
+{
+"key": "feature_ppm.html#142",
+"ja": "衣装のサイズ、アレルギー、得意なアングル、同行者"
+},
+{
+"key": "feature_ppm.html#143",
+"ja": "<small>演出メモ</small>PPMで事前に合意する"
+},
+{
+"key": "feature_ppm.html#144",
+"ja": "「この俳優にさせないこと」を1行で"
+},
+{
+"key": "feature_ppm.html#145",
+"ja": "リハーサル時間（未経験なら+30分）"
+},
+{
+"key": "feature_ppm.html#146",
+"ja": "SYNCのセリフがあれば、声のサンプルを添付"
+},
+{
+"key": "feature_ppm.html#147",
+"ja": "<small>見開き04 · 衣装 · 美術 · 小道具</small>衣装ボードとミザンセーヌ・マップ — 画面内のすべての物に名前を付ける"
+},
+{
+"key": "feature_ppm.html#148",
+"ja": "衣装ボード · ミザンセーヌ・マップ（CUT 06）"
+},
+{
+"key": "feature_ppm.html#149",
+"ja": "<b>LOOK 1 · 俳優A</b><span>リネンシャツ（ウォームグレー） + コットンパンツ（チャコール） · CUT 02 · 03 · 05 · 06 · 予備1着 · 禁止：ロゴ · ストライプ · 純白</span>"
+},
+{
+"key": "feature_ppm.html#150",
+"ja": "<b>LOOK 2 · 俳優B</b><span>ニット（ダスティブルー） + オフホワイト · CUT 05 · Aと明度2段階の差</span>"
+},
+{
+"key": "feature_ppm.html#151",
+"ja": "<i>1</i>商品 — ラベルは正面向き。ワイン色はここだけ"
+},
+{
+"key": "feature_ppm.html#152",
+"ja": "<i>2</i>コーヒーカップ — 朝の合図、60%の色"
+},
+{
+"key": "feature_ppm.html#153",
+"ja": "<i>3</i>本 + リネンのナプキン — 30%の色、前景の奥行き"
+},
+{
+"key": "feature_ppm.html#154",
+"ja": "<i>4</i>窓 + ブラインド — 光が来る方向を示す"
+},
+{
+"key": "feature_ppm.html#155",
+"ja": "<i>5</i>ユーカリ — 左の余白、リーディングライン"
+},
+{
+"key": "feature_ppm.html#156",
+"ja": "<i>6</i>木の天板 — 質感のキーワード"
+},
+{
+"key": "feature_ppm.html#157",
+"ja": "撤去：メニュー · ナプキン立て · コンセント · ポスター"
+},
+{
+"key": "feature_ppm.html#158",
+"ja": "<b>図版 PPM-4</b> 衣装ボードとミザンセーヌ・マップ。画面内の物について「なぜそこにあるのか」を書けないなら、取り除く — ミザンセーヌとは、それだけのことだ。"
+},
+{
+"key": "feature_ppm.html#159",
+"ja": "<b>参考写真 2.2D</b>生成画像 — 衣装 · 小道具 · セットの資料"
+},
+{
+"key": "feature_ppm.html#160",
+"ja": "<span class=\"ph-id\">P06-CALLSHEET</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>香盤表 — 夜明けに最初に開く書類</b></span>"
+},
+{
+"key": "feature_ppm.html#161",
+"ja": "<b>注意</b>香盤表 — 夜明けに最初に開く書類"
+},
+{
+"key": "feature_ppm.html#162",
+"ja": "<span class=\"ph-id\">P06-SLATE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>カチンコ — カット番号 · テイクが音と映像を結びつける</b></span>"
+},
+{
+"key": "feature_ppm.html#163",
+"ja": "<b>注意</b>カチンコ — カット番号 · テイクが音と映像を結びつける"
+},
+{
+"key": "feature_ppm.html#164",
+"ja": "<small>見開き05 · スケジュール</small>撮影スケジュール — 日付ではなく「光と俳優」を軸に組む"
+},
+{
+"key": "feature_ppm.html#165",
+"ja": "<b>ヒント</b>"
+},
+{
+"key": "feature_ppm.html#166",
+"ja": "スケジュールはシーンの順番ではなく、<b>ロケ地 → 光 → 俳優の日程</b>の順にまとめる。同じロケ地・同じライティングのカットを続けて撮れば、時間を80%節約できる。"
+},
+{
+"key": "feature_ppm.html#167",
+"ja": "撮影スケジュールは「どの日に何を撮るか」の表であり、撮影タイムテーブル（次ページ）は「その日の何時に何をするか」の表だ。2つを1つの表に混ぜると、どちらも読めなくなる。"
+},
+{
+"key": "feature_ppm.html#168",
+"ja": "日"
+},
+{
+"key": "feature_ppm.html#169",
+"ja": "時間"
+},
+{
+"key": "feature_ppm.html#170",
+"ja": "場所"
+},
+{
+"key": "feature_ppm.html#171",
+"ja": "カット（コンテ）"
+},
+{
+"key": "feature_ppm.html#172",
+"ja": "内容"
+},
+{
+"key": "feature_ppm.html#173",
+"ja": "出演者"
+},
+{
+"key": "feature_ppm.html#174",
+"ja": "主な機材 · 照明"
+},
+{
+"key": "feature_ppm.html#175",
+"ja": "備考"
+},
+{
+"key": "feature_ppm.html#176",
+"ja": "DAY 1 · 4/9（水） · カフェ L-01 · 日の出 06:12 · 窓からの直射 07:00–10:00 · レンタル 07:00–10:30"
+},
+{
+"key": "feature_ppm.html#177",
+"ja": "カフェ2階"
+},
+{
+"key": "feature_ppm.html#178",
+"ja": "セッティング：ドリーレール、キーライトLED、美術の飾り込み"
+},
+{
+"key": "feature_ppm.html#179",
+"ja": "LED 600 W、4×4レフ板"
+},
+{
+"key": "feature_ppm.html#180",
+"ja": "俳優A入り 07:15、メイク車"
+},
+{
+"key": "feature_ppm.html#181",
+"ja": "窓際のテーブル"
+},
+{
+"key": "feature_ppm.html#182",
+"ja": "ボトルを手に取る（MCU、ドリーイン） · 一口飲む（CU）"
+},
+{
+"key": "feature_ppm.html#183",
+"ja": "50 mm · 85 mm、自然光 + キーライトで補強"
+},
+{
+"key": "feature_ppm.html#184",
+"ja": "<b>直射日光のカットを先に</b>"
+},
+{
+"key": "feature_ppm.html#185",
+"ja": "窓際のテーブル"
+},
+{
+"key": "feature_ppm.html#186",
+"ja": "エンディング：商品を中央に、ロゴCG用の余白（ドリーイン、ゆっくり）"
+},
+{
+"key": "feature_ppm.html#187",
+"ja": "50 mm、トラッキングマーカー、クリーンプレート"
+},
+{
+"key": "feature_ppm.html#188",
+"ja": "CGの基準カット — LOCKEDで1テイク必須"
+},
+{
+"key": "feature_ppm.html#189",
+"ja": "窓際のテーブル"
+},
+{
+"key": "feature_ppm.html#190",
+"ja": "同僚とボトルで乾杯（2S）"
+},
+{
+"key": "feature_ppm.html#191",
+"ja": "35 mm、レフ板でフィル"
+},
+{
+"key": "feature_ppm.html#192",
+"ja": "B入り 09:00、ほぼ後ろ姿"
+},
+{
+"key": "feature_ppm.html#193",
+"ja": "テーブルの上"
+},
+{
+"key": "feature_ppm.html#194",
+"ja": "01 · 02 INS"
+},
+{
+"key": "feature_ppm.html#195",
+"ja": "水滴のECU · 手元のインサート"
+},
+{
+"key": "feature_ppm.html#196",
+"ja": "Aの手"
+},
+{
+"key": "feature_ppm.html#197",
+"ja": "マクロ100 mm、グリセリン"
+},
+{
+"key": "feature_ppm.html#198",
+"ja": "新しいボトルに6回交換"
+},
+{
+"key": "feature_ppm.html#199",
+"ja": "全員"
+},
+{
+"key": "feature_ppm.html#200",
+"ja": "撤収、原状回復、1次バックアップ"
+},
+{
+"key": "feature_ppm.html#201",
+"ja": "3-2-1バックアップ後に解散"
+},
+{
+"key": "feature_ppm.html#202",
+"ja": "DAY 2 · 4/11（金） · キャンパス屋上 + 実習室 · 日の入り 19:02 · ゴールデンアワー 18:20–19:00"
+},
+{
+"key": "feature_ppm.html#203",
+"ja": "屋上の階段踊り場"
+},
+{
+"key": "feature_ppm.html#204",
+"ja": "セッティング：クレーンの代わりに一脚でティルト、安全ロープ"
+},
+{
+"key": "feature_ppm.html#205",
+"ja": "24 mm、ND 8"
+},
+{
+"key": "feature_ppm.html#206",
+"ja": "風速12 m/sを超えたら中止"
+}
+]

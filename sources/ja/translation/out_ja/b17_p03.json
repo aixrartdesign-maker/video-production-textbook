@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#806",
+"ja": "視線の2つの使い方 — 対面のアイラインマッチと、追従の視線つなぎ"
+},
+{
+"key": "part14b.html#807",
+"ja": "プロジェクターの投写距離と画面サイズ"
+},
+{
+"key": "part14b.html#808",
+"ja": "物語の時間と画面の時間 — 時間と空間の6つの移動"
+},
+{
+"key": "part14b.html#809",
+"ja": "4つのXR機器の比較"
+},
+{
+"key": "part14b.html#810",
+"ja": "センサーサイズの比較"
+},
+{
+"key": "part14b.html#811",
+"ja": "空間ビデオの両眼記録"
+},
+{
+"key": "part14b.html#812",
+"ja": "焦点距離ごとの画角"
+},
+{
+"key": "part14b.html#813",
+"ja": "形の次元 — 動きは次元を1つずつ加える"
+},
+{
+"key": "part14b.html#814",
+"ja": "露出の三角形 — 絞り、シャッタースピード、ISO感度の補い合い"
+},
+{
+"key": "part14b.html#815",
+"ja": "15秒広告の標準構成"
+},
+{
+"key": "part14b.html#816",
+"ja": "絞りによる被写界深度の違い — 同じシーン、異なる背景"
+},
+{
+"key": "part14b.html#817",
+"ja": "3秒のフック（つかみ）をつくる6つの仕掛け"
+},
+{
+"key": "part14b.html#818",
+"ja": "解像度規格の比較"
+},
+{
+"key": "part14b.html#819",
+"ja": "動画フォーマットとマーケティングファネルの対応"
+},
+{
+"key": "part14b.html#820",
+"ja": "主なアスペクト比の比較"
+},
+{
+"key": "part14b.html#821",
+"ja": "ライン・オブ・アクション — ポーズを貫く1本の曲線"
+},
+{
+"key": "part14b.html#822",
+"ja": "フレームレートの比較 — 1秒を何枚の絵に分けるか"
+},
+{
+"key": "part14b.html#823",
+"ja": "歩行サイクル1周期の8ポーズ"
+},
+{
+"key": "part14b.html#824",
+"ja": "シャッターアングルと露光時間（24 fpsの場合）"
+},
+{
+"key": "part14b.html#825",
+"ja": "長さ別の動画フォーマット — 短いほどメッセージは1つに、長いほど人物は深く"
+},
+{
+"key": "part14b.html#826",
+"ja": "光源ごとの色温度スケール"
+},
+{
+"key": "part14b.html#827",
+"ja": "1分広告の再フック — 離脱の直前に視聴者をもう一度つかむ"
+},
+{
+"key": "part14b.html#828",
+"ja": "ホワイトバランスの設定と光源 — 基準は白い紙"
+},
+{
+"key": "part14b.html#829",
+"ja": "15秒の屋外LEDループ — 無音、遠くから見る、継ぎ目のない反復"
+},
+{
+"key": "part14b.html#830",
+"ja": "逆二乗の法則 — 距離が2倍で明るさは1/4"
+},
+{
+"key": "part14b.html#831",
+"ja": "AI制作パイプライン"
+},
+{
+"key": "part14b.html#832",
+"ja": "三点照明 — 平面図と各段階の効果"
+},
+{
+"key": "part14b.html#833",
+"ja": "生成ツールのマップ"
+},
+{
+"key": "part14b.html#834",
+"ja": "キーライトの位置による6つのポートレートライティング"
+},
+{
+"key": "part14b.html#835",
+"ja": "成果指標を読む順序"
+},
+{
+"key": "part14b.html#836",
+"ja": "照明比によるコントラストの変化"
+},
+{
+"key": "part14b.html#837",
+"ja": "職種別のキャリアパス"
+},
+{
+"key": "part14b.html#838",
+"ja": "クロマキースタジオの配置と合成の3ステップ"
+},
+{
+"key": "part14b.html#839",
+"ja": "映像の仕事マップ"
+},
+{
+"key": "part14b.html#840",
+"ja": "録音レベルの安全範囲"
+},
+{
+"key": "part14b.html#841",
+"ja": "ポートフォリオページの標準レイアウト"
+},
+{
+"key": "part14b.html#842",
+"ja": "マイクの4つの指向性"
+},
+{
+"key": "part14b.html#843",
+"ja": "職種別の就職準備マトリクス"
+},
+{
+"key": "part14b.html#844",
+"ja": "15秒広告のサウンドタイムライン（4層）"
+},
+{
+"key": "part14b.html#845",
+"ja": "ポートフォリオの6か月ロードマップ"
+},
+{
+"key": "part14b.html#846",
+"ja": "編集タイムラインの構造"
+},
+{
+"key": "part14b.html#847",
+"ja": "あとがき"
+},
+{
+"key": "part14b.html#848",
+"ja": "15秒は短くない"
+},
+{
+"key": "part14b.html#849",
+"ja": "良い映像は機材からは生まれない。何を見せるかを決めた人がつくる。"
+},
+{
+"key": "part14b.html#850",
+"ja": "本書の図版、表、チェックリストはすべて、決断の瞬間を短くするための道具だ。決断が速いほど多く試せる。そして、試した分だけうまくなる。"
+},
+{
+"key": "part14b.html#851",
+"ja": "読んだものは消え、つくったものは残る。今日、1カットでも撮ろう。"
+},
+{
+"key": "part14b.html#852",
+"ja": "最初の3秒をつくった者が、残りの12秒を手にする。"
+},
+{
+"key": "part14b.html#853",
+"ja": "最初の3秒をつくった者が、残りの12秒を手にする。<small>アン・ジア</small>"
+},
+{
+"key": "templates.html#0",
+"ja": "<b>付録</b>テンプレート"
+},
+{
+"key": "templates.html#1",
+"ja": "絵コンテのテンプレート8種"
+},
+{
+"key": "templates.html#2",
+"ja": "比率ごとの9コマ（または8 · 6コマ）のテンプレート。A4でコピーするか、A3に拡大して壁に貼る。コマの外の5行はどのテンプレートも共通だ――数値、動き、ト書き、言葉、音。"
+},
+{
+"key": "templates.html#3",
+"ja": "<small>使い方</small>最初のコマは凡例"
+},
+{
+"key": "templates.html#4",
+"ja": "比率 · 解像度 · バージョン · 日付は最初のコマに"
+},
+{
+"key": "templates.html#5",
+"ja": "矢印：人物は黒、カメラはワイン色"
+},
+{
+"key": "templates.html#6",
+"ja": "時間：秒数 + 通しのタイムコード"
+},
+{
+"key": "templates.html#7",
+"ja": "<small>縦型テンプレート</small>UIの重なりを避ける"
+},
+{
+"key": "templates.html#8",
+"ja": "グレーの帯にテロップ · ロゴを置かない"
+},
+{
+"key": "templates.html#9",
+"ja": "顔は上1/3、商品は中央"
+},
+{
+"key": "templates.html#10",
+"ja": "カット数は横型より20–30%多く"
+},
+{
+"key": "templates.html#11",
+"ja": "<small>360度 · 曲面</small>展開図 + 視点マップ"
+},
+{
+"key": "templates.html#12",
+"ja": "すべてのコマに正面の角度を書く"
+},
+{
+"key": "templates.html#13",
+"ja": "回転の合計は1シーン180°未満に"
+},
+{
+"key": "templates.html#14",
+"ja": "継ぎ目 · 床 · 天井は空けておく"
+},
+{
+"key": "templates.html#15",
+"ja": "絵コンテのテンプレート · 16:9"
+},
+{
+"key": "templates.html#16",
+"ja": "横型の基本 — YouTube·TV·プレゼンテーション · 1920×1080 · 3840×2160"
+},
+{
+"key": "templates.html#17",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#18",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#19",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#20",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#21",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#22",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#23",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#24",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#25",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#26",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#27",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#28",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#29",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#30",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#31",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#32",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#33",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#34",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#35",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#36",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#37",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#38",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#39",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#40",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#41",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#42",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#43",
+"ja": "CUT 05"
+},
+{
+"key": "templates.html#44",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#45",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#46",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#47",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#48",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#49",
+"ja": "CUT 06"
+},
+{
+"key": "templates.html#50",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#51",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#52",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#53",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#54",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#55",
+"ja": "CUT 07"
+},
+{
+"key": "templates.html#56",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#57",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#58",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#59",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#60",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#61",
+"ja": "CUT 08"
+},
+{
+"key": "templates.html#62",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#63",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#64",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#65",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#66",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#67",
+"ja": "CUT 09"
+},
+{
+"key": "templates.html#68",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#69",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#70",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#71",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#72",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#73",
+"ja": "点線 = アクションセーフ90% · 細線 = 3分割。各コマの外に5行：SIZE/ANGLE/LENS · MOVE/TR · ト書き · 言葉 · 音。"
+},
+{
+"key": "templates.html#74",
+"ja": "絵コンテのテンプレート · 21:9"
+},
+{
+"key": "templates.html#75",
+"ja": "シネマスコープ — ブランドフィルム·映画館 · 2048×858 · 3840×1608"
+},
+{
+"key": "templates.html#76",
+"ja": "作品名 ____________  シーン ____  ページ ___/___"
+},
+{
+"key": "templates.html#77",
+"ja": "監督 ________  日付 ________  バージョン v___"
+},
+{
+"key": "templates.html#78",
+"ja": "CUT 01"
+},
+{
+"key": "templates.html#79",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#80",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#81",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#82",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#83",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#84",
+"ja": "CUT 02"
+},
+{
+"key": "templates.html#85",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#86",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#87",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#88",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#89",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#90",
+"ja": "CUT 03"
+},
+{
+"key": "templates.html#91",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#92",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#93",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#94",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#95",
+"ja": "M · SE"
+},
+{
+"key": "templates.html#96",
+"ja": "CUT 04"
+},
+{
+"key": "templates.html#97",
+"ja": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#98",
+"ja": "MOVE / TR"
+},
+{
+"key": "templates.html#99",
+"ja": "ト書き"
+},
+{
+"key": "templates.html#100",
+"ja": "N · SYNC"
+},
+{
+"key": "templates.html#101",
+"ja": "M · SE"
+}
+]

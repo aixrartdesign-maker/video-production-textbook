@@ -1,0 +1,5 @@
+[
+{"key": "part08.html#819", "find": "タブレットのシリーズ作品を見る", "replace": "タブレットでシリーズ作品を見る", "why": "grammar: particle — watching a series on a tablet (で, not の)"},
+{"key": "part09.html#320", "find": "会話を開く一文", "replace": "会話を始める一文", "why": "other: unnatural literal phrasing for 'open a conversation'"},
+{"key": "part09.html#759", "find": "誇張と釣りは信頼を失う", "replace": "誇張や釣りは信頼を損なう", "why": "grammar: exaggeration doesn't 'lose' trust itself; it costs trust"}
+]

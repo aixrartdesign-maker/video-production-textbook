@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#251",
+"ja": "<small>見開き10</small>表記記号の一覧 — 凡例としてそのまま写せる表"
+},
+{
+"key": "feature_storyboard.html#252",
+"ja": "<small>ショットサイズ</small>ELS · LS · FS · KS · MS · MCU · BS · CU · ECU"
+},
+{
+"key": "feature_storyboard.html#253",
+"ja": "超ロング / ロング / フル / ニー / ミディアム"
+},
+{
+"key": "feature_storyboard.html#254",
+"ja": "ミディアムクローズアップ / バスト / クローズアップ / 超クローズアップ"
+},
+{
+"key": "feature_storyboard.html#255",
+"ja": "人数：1S · 2S · 3S · GS（グループ）"
+},
+{
+"key": "feature_storyboard.html#256",
+"ja": "状況：OSS（肩越し） · POV（主観） · INS（インサート） · CA（カットアウェイ）"
+},
+{
+"key": "feature_storyboard.html#257",
+"ja": "<small>アングル · 視点</small>EYE · HA · LA · BEV · WEV · DUTCH"
+},
+{
+"key": "feature_storyboard.html#258",
+"ja": "アイレベル / ハイアングル / ローアングル"
+},
+{
+"key": "feature_storyboard.html#259",
+"ja": "俯瞰（バーズアイ） / あおり（ワームズアイ）"
+},
+{
+"key": "feature_storyboard.html#260",
+"ja": "ダッチ（傾き） — 角度も書く：DUTCH 15°"
+},
+{
+"key": "feature_storyboard.html#261",
+"ja": "レンズ：焦点距離をmmで書くか、W（広角） · N（標準） · T（望遠）"
+},
+{
+"key": "feature_storyboard.html#262",
+"ja": "区分"
+},
+{
+"key": "feature_storyboard.html#263",
+"ja": "表記"
+},
+{
+"key": "feature_storyboard.html#264",
+"ja": "読み方"
+},
+{
+"key": "feature_storyboard.html#265",
+"ja": "現場では"
+},
+{
+"key": "feature_storyboard.html#266",
+"ja": "動き"
+},
+{
+"key": "feature_storyboard.html#267",
+"ja": "DOLLY IN（ゆっくり）"
+},
+{
+"key": "feature_storyboard.html#268",
+"ja": "ゆっくり寄る"
+},
+{
+"key": "feature_storyboard.html#269",
+"ja": "スライダー、5秒で2 m"
+},
+{
+"key": "feature_storyboard.html#270",
+"ja": "動き"
+},
+{
+"key": "feature_storyboard.html#271",
+"ja": "PAN R 90"
+},
+{
+"key": "feature_storyboard.html#272",
+"ja": "右へ90度パン"
+},
+{
+"key": "feature_storyboard.html#273",
+"ja": "雲台を回す。始点と終点を決めておく"
+},
+{
+"key": "feature_storyboard.html#274",
+"ja": "動き"
+},
+{
+"key": "feature_storyboard.html#275",
+"ja": "TILT U 足元→顔"
+},
+{
+"key": "feature_storyboard.html#276",
+"ja": "足元から顔へティルトアップ"
+},
+{
+"key": "feature_storyboard.html#277",
+"ja": "等速で動かし、終わりで0.5秒止める"
+},
+{
+"key": "feature_storyboard.html#278",
+"ja": "動き"
+},
+{
+"key": "feature_storyboard.html#279",
+"ja": "TRACK L 被写体と並走"
+},
+{
+"key": "feature_storyboard.html#280",
+"ja": "被写体と並んで左へトラック"
+},
+{
+"key": "feature_storyboard.html#281",
+"ja": "ジンバル、被写体の歩調に合わせる"
+},
+{
+"key": "feature_storyboard.html#282",
+"ja": "動き"
+},
+{
+"key": "feature_storyboard.html#283",
+"ja": "ARC R 180"
+},
+{
+"key": "feature_storyboard.html#284",
+"ja": "右へ半円を描いて移動"
+},
+{
+"key": "feature_storyboard.html#285",
+"ja": "商品を中心に、半径を一定に保つ"
+},
+{
+"key": "feature_storyboard.html#286",
+"ja": "動き"
+},
+{
+"key": "feature_storyboard.html#287",
+"ja": "HH（わずか） · LOCKED"
+},
+{
+"key": "feature_storyboard.html#288",
+"ja": "わずかな手持ち · 完全固定"
+},
+{
+"key": "feature_storyboard.html#289",
+"ja": "呼吸程度の揺れ · 三脚、合成の基準カット"
+},
+{
+"key": "feature_storyboard.html#290",
+"ja": "トランジション"
+},
+{
+"key": "feature_storyboard.html#291",
+"ja": "CUT TO · DIS · FI · FO"
+},
+{
+"key": "feature_storyboard.html#292",
+"ja": "カットつなぎ · ディゾルブ · フェードイン/アウト"
+},
+{
+"key": "feature_storyboard.html#293",
+"ja": "瞬時の切り替え · やわらかな切り替え（長さを秒で）"
+},
+{
+"key": "feature_storyboard.html#294",
+"ja": "トランジション"
+},
+{
+"key": "feature_storyboard.html#295",
+"ja": "WIPE · MATCH · J/L CUT"
+},
+{
+"key": "feature_storyboard.html#296",
+"ja": "ワイプ · マッチカット · 音の先行/残し"
+},
+{
+"key": "feature_storyboard.html#297",
+"ja": "形でつなぐ切り替え · 音のずり上げ/ずり下げを記す"
+},
+{
+"key": "feature_storyboard.html#298",
+"ja": "ポスト"
+},
+{
+"key": "feature_storyboard.html#299",
+"ja": "INS · CG · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#300",
+"ja": "インサート · グラフィック · 視覚効果 · 特殊効果"
+},
+{
+"key": "feature_storyboard.html#301",
+"ja": "トラッキングマーカーと光の向きは現場で別途記録する"
+},
+{
+"key": "feature_storyboard.html#302",
+"ja": "言葉"
+},
+{
+"key": "feature_storyboard.html#303",
+"ja": "N · V.O. · O.S. · SYNC"
+},
+{
+"key": "feature_storyboard.html#304",
+"ja": "ナレーション · 心の声 · 画面外のセリフ · 画面内のセリフ"
+},
+{
+"key": "feature_storyboard.html#305",
+"ja": "N：毎朝、違う始まり。/ SYNC ミンソ：これ、すごくいい。"
+},
+{
+"key": "feature_storyboard.html#306",
+"ja": "文字"
+},
+{
+"key": "feature_storyboard.html#307",
+"ja": "CAP · SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#308",
+"ja": "字幕 · スーパー · 締めのブランドコピー"
+},
+{
+"key": "feature_storyboard.html#309",
+"ja": "CAP：今日から試そう / TAG：今日も、ブランド名"
+},
+{
+"key": "feature_storyboard.html#310",
+"ja": "音"
+},
+{
+"key": "feature_storyboard.html#311",
+"ja": "M · SE · ATM · MUTE"
+},
+{
+"key": "feature_storyboard.html#312",
+"ja": "音楽 · 効果音 · 環境音 · 無音"
+},
+{
+"key": "feature_storyboard.html#313",
+"ja": "Mのイン/アウト点、dBのメモ"
+},
+{
+"key": "feature_storyboard.html#314",
+"ja": "<b>注意</b>"
+},
+{
+"key": "feature_storyboard.html#315",
+"ja": "韓国語のナレーションは1秒に約3字。上限は、15秒広告1本で35–45字、1分の動画で150–180字だ。"
+},
+{
+"key": "feature_storyboard.html#316",
+"ja": "字幕とナレーションを同じ文にしない。字幕はキーワードだけ、ナレーションは文で書く。音を消して見られることを前提に設計し、字幕はセーフゾーンの内側に収める。記号はチーム内で統一し、凡例は最初のコマに置く。"
+},
+{
+"key": "feature_storyboard.html#317",
+"ja": "<small>演習</small>2.1"
+},
+{
+"key": "feature_storyboard.html#318",
+"ja": "課題"
+},
+{
+"key": "feature_storyboard.html#319",
+"ja": "30秒の動画を8コマ以上の絵コンテにする。16:9と9:16の2バージョンで描く。"
+},
+{
+"key": "feature_storyboard.html#320",
+"ja": "ヒント"
+},
+{
+"key": "feature_storyboard.html#321",
+"ja": "画力よりも、ショットサイズ、向き、動きの矢印が大切だ。縦型コンテでは、ふつうカット数が増える。"
+},
+{
+"key": "feature_storyboard.html#322",
+"ja": "評価"
+},
+{
+"key": "feature_storyboard.html#323",
+"ja": "コマ同士の流れ、カメラの表記、2つの比率での構図の違い"
+},
+{
+"key": "feature_storyboard.html#324",
+"ja": "解答例"
+},
+{
+"key": "feature_storyboard.html#325",
+"ja": "絵コンテを撮影し、コマをつないでアニマティクスにして、タイミングを確かめる。"
+},
+{
+"key": "feature_storyboard.html#326",
+"ja": "<small>演習</small>2.1"
+},
+{
+"key": "feature_storyboard.html#327",
+"ja": "課題"
+},
+{
+"key": "feature_storyboard.html#328",
+"ja": "コマの9要素（番号 · 時間 · 絵 · サイズ/アングル · 動き · ト書き · セリフ · 音 · トランジション）をすべて記入したテンプレートを作る。さらに、360度版またはAR版のコマを1つ設計する。"
+},
+{
+"key": "feature_storyboard.html#329",
+"ja": "ヒント"
+},
+{
+"key": "feature_storyboard.html#330",
+"ja": "文字の大きさとコマの配置は、現場で読む人に合わせて決める。360度のコマには視点の図も添える。"
+},
+{
+"key": "feature_storyboard.html#331",
+"ja": "評価"
+},
+{
+"key": "feature_storyboard.html#332",
+"ja": "情報の完成度、現場での使いやすさ、メディアへの適合"
+},
+{
+"key": "feature_storyboard.html#333",
+"ja": "解答例"
+},
+{
+"key": "feature_storyboard.html#334",
+"ja": "チームメイトが読むだけで、説明なしに撮影できるかを試す。"
+},
+{
+"key": "feature_storyboard.html#335",
+"ja": "<small>演習</small>2.1"
+},
+{
+"key": "feature_storyboard.html#336",
+"ja": "課題"
+},
+{
+"key": "feature_storyboard.html#337",
+"ja": "パン、ズーム、ドリー、トラック、カットのトランジションの記号をすべて使い、絵コンテ1ページを3レーン（映像 · 言葉 · 音）で描く。"
+},
+{
+"key": "feature_storyboard.html#338",
+"ja": "ヒント"
+},
+{
+"key": "feature_storyboard.html#339",
+"ja": "記号はチーム内で統一する。凡例は最初のコマに置く。ナレーションの長さを1秒3字で換算し、レーンの幅を決める。"
+},
+{
+"key": "feature_storyboard.html#340",
+"ja": "評価"
+},
+{
+"key": "feature_storyboard.html#341",
+"ja": "記号の使い方の正確さ、音とカットの境目の一致"
+},
+{
+"key": "feature_storyboard.html#342",
+"ja": "解答例"
+},
+{
+"key": "feature_storyboard.html#343",
+"ja": "記号だけでカメラの動きを再現できるほど明確に描かれている。"
+},
+{
+"key": "feature_ppm.html#0",
+"ja": "特集 · プリプロダクション・ミーティング"
+},
+{
+"key": "feature_ppm.html#1",
+"ja": "PPM、<br>撮影前の最後の合意"
+},
+{
+"key": "feature_ppm.html#2",
+"ja": "PPMはプリプロダクション・ミーティングの略だ。撮影の直前にクライアント・企画・演出・制作がすべての決定を確定させる会議であり、それを記録した文書でもある。承認されたPPM資料は、あとで食い違いが生じたときの基準になる。記録されていない口約束は、存在しないのと同じだ。この特集では、1冊のPPM資料を1ページずつ見ていく。"
+},
+{
+"key": "feature_ppm.html#3",
+"ja": "同じ変更でも、時期によってコストは最大50倍になる"
+},
+{
+"key": "feature_ppm.html#4",
+"ja": "紙の上の修正 — コストは時間だけ"
+},
+{
+"key": "feature_ppm.html#5",
+"ja": "人·機材·日程が動いている"
+},
+{
+"key": "feature_ppm.html#6",
+"ja": "コンセプト"
+},
+{
+"key": "feature_ppm.html#7",
+"ja": "絵コンテ"
+},
+{
+"key": "feature_ppm.html#8",
+"ja": "PPM"
+},
+{
+"key": "feature_ppm.html#9",
+"ja": "撮影日"
+},
+{
+"key": "feature_ppm.html#10",
+"ja": "ポストプロダクション"
+},
+{
+"key": "feature_ppm.html#11",
+"ja": "← コスト曲線が跳ね上がる前の、最後の平らな区間"
+},
+{
+"key": "feature_ppm.html#12",
+"ja": "<b>図 59</b> 制作段階ごとの変更コスト — 同じ変更でも、時期によってコストは最大50倍になる。PPMは、コスト曲線が跳ね上がる前の最後の平らな区間だ。"
+},
+{
+"key": "feature_ppm.html#13",
+"ja": "<b>48<em>時間</em></b>会議前に資料を送る期限"
+},
+{
+"key": "feature_ppm.html#14",
+"ja": "<b>12<em>項目</em></b>PPM資料の必須項目"
+},
+{
+"key": "feature_ppm.html#15",
+"ja": "<b>5<em>倍</em></b>PPM段階の変更コスト（コンセプト = 1）"
+},
+{
+"key": "feature_ppm.html#16",
+"ja": "<b>1<em>か条</em></b>終了条件 — 全員が「当日の自分の仕事」を言える"
+},
+{
+"key": "feature_ppm.html#17",
+"ja": "<span class=\"ph-id\">P06-PPM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>PPM会議 — 絵コンテ · ムードボード · スケジュールを1つのテーブルに</b></span>"
+},
+{
+"key": "feature_ppm.html#18",
+"ja": "<b>注意</b>PPM会議 — 絵コンテ · ムードボード · スケジュールを1つのテーブルに"
+},
+{
+"key": "feature_ppm.html#19",
+"ja": "PPM資料の12ページ — ページの順番が会議の順番"
+},
+{
+"key": "feature_ppm.html#20",
+"ja": "項目"
+},
+{
+"key": "feature_ppm.html#21",
+"ja": "内容"
+},
+{
+"key": "feature_ppm.html#22",
+"ja": "承認者"
+},
+{
+"key": "feature_ppm.html#23",
+"ja": "本特集のサンプル"
+},
+{
+"key": "feature_ppm.html#24",
+"ja": "企画意図"
+},
+{
+"key": "feature_ppm.html#25",
+"ja": "一文コンセプト、ターゲット、キーメッセージ"
+},
+{
+"key": "feature_ppm.html#26",
+"ja": "クライアント"
+},
+{
+"key": "feature_ppm.html#27",
+"ja": "絵コンテ"
+},
+{
+"key": "feature_ppm.html#28",
+"ja": "最終カットリストとタイミング、アニマティクス"
+},
+{
+"key": "feature_ppm.html#29",
+"ja": "クライアント、ディレクター"
+},
+{
+"key": "feature_ppm.html#30",
+"ja": "2.1 特集"
+},
+{
+"key": "feature_ppm.html#31",
+"ja": "演出意図 · トーン＆マナー"
+},
+{
+"key": "feature_ppm.html#32",
+"ja": "光 · 色 · 質感 · テンポのキーワード、参考映像"
+},
+{
+"key": "feature_ppm.html#33",
+"ja": "ディレクター"
+},
+{
+"key": "feature_ppm.html#34",
+"ja": "見開き01"
+},
+{
+"key": "feature_ppm.html#35",
+"ja": "キャスティング"
+},
+{
+"key": "feature_ppm.html#36",
+"ja": "モデルの候補と最終決定、契約条件"
+},
+{
+"key": "feature_ppm.html#37",
+"ja": "クライアント"
+},
+{
+"key": "feature_ppm.html#38",
+"ja": "見開き03"
+},
+{
+"key": "feature_ppm.html#39",
+"ja": "ロケ地"
+},
+{
+"key": "feature_ppm.html#40",
+"ja": "候補地の写真、動線計画、許可"
+},
+{
+"key": "feature_ppm.html#41",
+"ja": "制作"
+},
+{
+"key": "feature_ppm.html#42",
+"ja": "見開き02"
+},
+{
+"key": "feature_ppm.html#43",
+"ja": "美術 · 小道具 · ミザンセーヌ"
+},
+{
+"key": "feature_ppm.html#44",
+"ja": "セット、小道具、商品の準備リスト、画面内の物の配置図"
+},
+{
+"key": "feature_ppm.html#45",
+"ja": "美術"
+},
+{
+"key": "feature_ppm.html#46",
+"ja": "見開き04"
+},
+{
+"key": "feature_ppm.html#47",
+"ja": "衣装 · スタイリング"
+},
+{
+"key": "feature_ppm.html#48",
+"ja": "衣装の案、ヘア · メイクの方向性"
+},
+{
+"key": "feature_ppm.html#49",
+"ja": "スタイリスト"
+},
+{
+"key": "feature_ppm.html#50",
+"ja": "見開き04"
+},
+{
+"key": "feature_ppm.html#51",
+"ja": "撮影計画"
+},
+{
+"key": "feature_ppm.html#52",
+"ja": "カメラ、レンズ、照明、特殊機材"
+},
+{
+"key": "feature_ppm.html#53",
+"ja": "DP"
+},
+{
+"key": "feature_ppm.html#54",
+"ja": "PART 3 · 4"
+},
+{
+"key": "feature_ppm.html#55",
+"ja": "サウンド計画"
+},
+{
+"key": "feature_ppm.html#56",
+"ja": "音楽の案、声優、効果音"
+}
+]

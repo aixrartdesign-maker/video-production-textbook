@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#101",
+"ja": "<b>2S · LOCKED</b><span>ボトルで乾杯 · SYNC 笑い声</span>"
+},
+{
+"key": "feature_storyboard.html#102",
+"ja": "<b>MS · 寄り</b><span>商品を中央に · ロゴCG · N 今日も</span>"
+},
+{
+"key": "feature_storyboard.html#103",
+"ja": "<b>図版 SB-9</b> 縦型コンテの例 — 15秒のショート動画広告（9:16、6カット）。縦型のコマは幅が狭い。ト書きは1行、音は一言。"
+},
+{
+"key": "feature_storyboard.html#104",
+"ja": "縦型コンテは、1段6コマまでなら読める。縦型のコマは幅が狭く、下に書く情報が長くなりがちなので、<b>ト書きは1行、音は一言</b>にとどめる。字幕はUI領域（グレー）を避け、中央の帯にだけ描く。"
+},
+{
+"key": "feature_storyboard.html#105",
+"ja": "<small>見開き04</small>360度 · VRコンテ — 設計するのはタイムラインではなく「注目の軸」"
+},
+{
+"key": "feature_storyboard.html#106",
+"ja": "平面映像のコンテは「このカットで何が見えるか」を記録する。360度コンテが記録するのは、<b>観客がどこを見ているか</b>と<b>何が観客を振り向かせるか</b>だ。コマは2:1の正距円筒図法の展開図で、必ずその上に上面図を添える。"
+},
+{
+"key": "feature_storyboard.html#107",
+"ja": "360度 · VRコンテ — 注目の軸を設計する"
+},
+{
+"key": "feature_storyboard.html#108",
+"ja": "<b><i>01</i>0–8秒 · 正面固定</b><span>Aの独白。観客が空間を把握する</span>"
+},
+{
+"key": "feature_storyboard.html#109",
+"ja": "<b><i>02</i>8–14秒 · 音が呼ぶ</b><span>左後方でドアの音 → Aが振り向く → 観客も振り向く</span>"
+},
+{
+"key": "feature_storyboard.html#110",
+"ja": "<b><i>03</i>14–22秒 · 新しい正面</b><span>−130°が新しい正面になる。B登場</span>"
+},
+{
+"key": "feature_storyboard.html#111",
+"ja": "カメラ = 観客"
+},
+{
+"key": "feature_storyboard.html#112",
+"ja": "正面90°"
+},
+{
+"key": "feature_storyboard.html#113",
+"ja": "<b>上面図</b><span>出来事が起こる位置を角度で記す。1シーンの振り向きの合計が180°を超えると酔う。</span><span>全コマに記入：想定する正面の角度 · 注目の合図（音 · 光 · 視線） · 振り向き時間（90°あたり2秒以上）</span>"
+},
+{
+"key": "feature_storyboard.html#114",
+"ja": "<b>図版 SB-3</b> 360度 · VRコンテ — 展開図の3コマと1枚の上面図。観客の背後の出来事は、絵ではなく音で知らせる。"
+},
+{
+"key": "feature_storyboard.html#115",
+"ja": "<span class=\"ph-id\">P06-SB-360</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>360度コンテのスケッチ — 展開図に角度と音の位置を記す</b></span>"
+},
+{
+"key": "feature_storyboard.html#116",
+"ja": "<b>注意</b>360度コンテのスケッチ — 展開図に角度と音の位置を記す"
+},
+{
+"key": "feature_storyboard.html#117",
+"ja": "<small>360度映像</small>観客が振り向く"
+},
+{
+"key": "feature_storyboard.html#118",
+"ja": "カメラ固定、目の高さ1.2–1.6 m"
+},
+{
+"key": "feature_storyboard.html#119",
+"ja": "長いカット（8秒以上）、フェードでつなぐ"
+},
+{
+"key": "feature_storyboard.html#120",
+"ja": "近くの被写体は1.5 m以上離す — ステレオの歪み"
+},
+{
+"key": "feature_storyboard.html#121",
+"ja": "<small>VR（ヘッドセット）</small>観客がシーンの中に立つ"
+},
+{
+"key": "feature_storyboard.html#122",
+"ja": "FOV 90–110°、目の前2–5 mが主な舞台"
+},
+{
+"key": "feature_storyboard.html#123",
+"ja": "頭に固定したUI · 字幕は禁止。空間側に貼り付ける"
+},
+{
+"key": "feature_storyboard.html#124",
+"ja": "酔い対策：カメラは動かさない。動かすなら等速の直線のみ"
+},
+{
+"key": "feature_storyboard.html#125",
+"ja": "<small>コンテの成果物</small>3枚1組"
+},
+{
+"key": "feature_storyboard.html#126",
+"ja": "正距円筒図法の展開図（コマ）"
+},
+{
+"key": "feature_storyboard.html#127",
+"ja": "上面図（角度 · 動き）"
+},
+{
+"key": "feature_storyboard.html#128",
+"ja": "注目のタイムライン（秒 × 正面角度のグラフ）"
+},
+{
+"key": "feature_storyboard.html#129",
+"ja": "<small>見開き05</small>曲面LED · ドーム · メディアファサード — 描くのは「画面」ではなく「人が見る場所」"
+},
+{
+"key": "feature_storyboard.html#130",
+"ja": "曲面LED · メディアファサード — 見る位置を描く"
+},
+{
+"key": "feature_storyboard.html#131",
+"ja": "<b>曲面 · 円筒LED — 平面図 + 展開図</b><span>まず視点から歪みのない半径を決める · 文字と顔は目線の帯（床上1.4–1.8 m）だけに置く · 継ぎ目に文字を置かない · 水平移動は毎秒15°以下</span>"
+},
+{
+"key": "feature_storyboard.html#132",
+"ja": "<b>メディアファサード — 立面ピクセルマップ + 視聴距離</b><span>最短視聴距離（m）≈ ピクセルピッチ（mm） · 文字の高さは距離の1/250 → 事実上、文字は使えず形と色だけ · 3地点でシミュレーションする：歩行者20 m / 道路の向かい60 m / 遠景150 m</span>"
+},
+{
+"key": "feature_storyboard.html#133",
+"ja": "<b>図版 SB-4</b> 曲面LEDとメディアファサードのコンテ。最初のコマは「画面」ではなく、「観客がどこから、どれだけの時間見るか」。"
+},
+{
+"key": "feature_storyboard.html#134",
+"ja": "メディア"
+},
+{
+"key": "feature_storyboard.html#135",
+"ja": "コマの形"
+},
+{
+"key": "feature_storyboard.html#136",
+"ja": "併せて描くもの"
+},
+{
+"key": "feature_storyboard.html#137",
+"ja": "時間の単位"
+},
+{
+"key": "feature_storyboard.html#138",
+"ja": "禁止事項"
+},
+{
+"key": "feature_storyboard.html#139",
+"ja": "曲面 · 円筒LED"
+},
+{
+"key": "feature_storyboard.html#140",
+"ja": "展開図（弧長 : 高さ）"
+},
+{
+"key": "feature_storyboard.html#141",
+"ja": "平面図 + 視点 + 目線の帯"
+},
+{
+"key": "feature_storyboard.html#142",
+"ja": "1シーン20–40秒"
+},
+{
+"key": "feature_storyboard.html#143",
+"ja": "継ぎ目の文字、毎秒15°を超える水平移動"
+},
+{
+"key": "feature_storyboard.html#144",
+"ja": "ドーム（フルドーム）"
+},
+{
+"key": "feature_storyboard.html#145",
+"ja": "魚眼の円（ドームマスター 4096×4096）"
+},
+{
+"key": "feature_storyboard.html#146",
+"ja": "断面図 + 座席の傾き"
+},
+{
+"key": "feature_storyboard.html#147",
+"ja": "1シーン30秒以上"
+},
+{
+"key": "feature_storyboard.html#148",
+"ja": "地平線より下の動き、速い回転"
+},
+{
+"key": "feature_storyboard.html#149",
+"ja": "メディアファサード"
+},
+{
+"key": "feature_storyboard.html#150",
+"ja": "立面ピクセルマップ"
+},
+{
+"key": "feature_storyboard.html#151",
+"ja": "3つの視聴距離でシミュレーション"
+},
+{
+"key": "feature_storyboard.html#152",
+"ja": "ループ8–30秒"
+},
+{
+"key": "feature_storyboard.html#153",
+"ja": "本文テキスト、全面100%の白"
+},
+{
+"key": "feature_storyboard.html#154",
+"ja": "プロジェクションマッピング"
+},
+{
+"key": "feature_storyboard.html#155",
+"ja": "建物写真に重ねたUVマスク"
+},
+{
+"key": "feature_storyboard.html#156",
+"ja": "プロジェクターの位置 · 投写距離 · 重なり部分"
+},
+{
+"key": "feature_storyboard.html#157",
+"ja": "1シーン15–60秒"
+},
+{
+"key": "feature_storyboard.html#158",
+"ja": "黒背景に頼ること（壁面の質感の無視）"
+},
+{
+"key": "feature_storyboard.html#159",
+"ja": "屋外アナモルフィック"
+},
+{
+"key": "feature_storyboard.html#160",
+"ja": "角の2面の展開図 + 視点1つ"
+},
+{
+"key": "feature_storyboard.html#161",
+"ja": "「正解の位置」を示し、ほかの位置もシミュレーション"
+},
+{
+"key": "feature_storyboard.html#162",
+"ja": "正解の位置を外れると説明が必要になる内容"
+},
+{
+"key": "feature_storyboard.html#163",
+"ja": "<small>見開き06</small>AR · MR · XRコンテ — コマが「レイヤー」に分かれる"
+},
+{
+"key": "feature_storyboard.html#164",
+"ja": "AR・MRのコマは1枚の平面の絵ではなく、<b>現実レイヤー / 追跡面 / 仮想オブジェクトレイヤー / UIレイヤー</b>に分かれる。そしてトランジション記号の代わりに、「次のコマへ進むために観客がすべきこと（インタラクション）」を書く。XRステージ（LEDウォールを使うバーチャルプロダクション）は逆で、コンテがカメラ・LED背景・実物セット・照明の4トラックに分かれる。"
+},
+{
+"key": "feature_storyboard.html#165",
+"ja": "AR · MR · XRコンテ"
+},
+{
+"key": "feature_storyboard.html#166",
+"ja": "<b>AR — コマがレイヤーに分かれる</b><span>4つのレイヤーを分けて描く：現実 / 追跡面 / 仮想オブジェクト / UI · トランジション記号の代わりに「次のコマへ進む条件」（タップ · 回転 · 接近）を書く · 失敗時の分岐コマが1つ必須</span>"
+},
+{
+"key": "feature_storyboard.html#167",
+"ja": "<b>MR — 部屋の見取り図の上に描く</b><span>仮想オブジェクトは壁 · 床 · テーブルのアンカーに固定する · 実物の家具が仮想オブジェクトを隠してこそ本物に見える · 移動半径は2 m。ガーディアンの外へ誘導しない</span>"
+},
+{
+"key": "feature_storyboard.html#168",
+"ja": "<b>XRステージ — 4トラックのコンテ</b><span>実物セット · 俳優 / LED背景（Unreal） / カメラトラッキング / 照明の同期を、カットごとに4行で書く · インナー/アウターフラスタム、プレートのバージョン、ウォールの輝度を記す</span>"
+},
+{
+"key": "feature_storyboard.html#169",
+"ja": "<b>図版 SB-5</b> ARはレイヤー、MRは部屋の見取り図、XRはトラック — メディアが変われば「1コマ」の定義も変わる。共通点は、まず観客（またはカメラ）の位置を描くこと。"
+},
+{
+"key": "feature_storyboard.html#170",
+"ja": "<small>見開き07</small>コマの中に描くカメラ言語 — ショット · アングル · 動き · 構図の記号セット"
+},
+{
+"key": "feature_storyboard.html#171",
+"ja": "コマの中のカメラ言語 — 動きの記号8種"
+},
+{
+"key": "feature_storyboard.html#172",
+"ja": "<b>PAN</b><span>左右の両矢印</span>"
+},
+{
+"key": "feature_storyboard.html#173",
+"ja": "<b>TILT</b><span>上下の矢印</span>"
+},
+{
+"key": "feature_storyboard.html#174",
+"ja": "<b>ZOOM IN</b><span>内側へ集まる4本の矢印</span>"
+},
+{
+"key": "feature_storyboard.html#175",
+"ja": "<b>ZOOM OUT</b><span>外側へ広がる4本の矢印</span>"
+},
+{
+"key": "feature_storyboard.html#176",
+"ja": "<b>DOLLY IN</b><span>床に沿って奥へ進む矢印</span>"
+},
+{
+"key": "feature_storyboard.html#177",
+"ja": "<b>TRACK</b><span>被写体と平行な長い矢印</span>"
+},
+{
+"key": "feature_storyboard.html#178",
+"ja": "<b>CRANE</b><span>上へ弧を描く大きな矢印</span>"
+},
+{
+"key": "feature_storyboard.html#179",
+"ja": "<b>HANDHELD</b><span>四隅のジグザグ線</span>"
+},
+{
+"key": "feature_storyboard.html#180",
+"ja": "<b>図版 SB-6</b> 絵コンテでのカメラの動きの描き方 — 被写体の動きは黒、カメラだけを赤で描く。記号の凡例は最初のコマに置く。"
+},
+{
+"key": "feature_storyboard.html#181",
+"ja": "絵コンテの4つのスタイル"
+},
+{
+"key": "feature_storyboard.html#182",
+"ja": "<b>サムネイル — 考えるための絵</b><span>1コマ10秒。監督だけが見る。捨てやすいのが利点</span>"
+},
+{
+"key": "feature_storyboard.html#183",
+"ja": "<b>クリーンライン — 現場のための絵</b><span>情報が明快。広告 · PPM提出用の標準</span>"
+},
+{
+"key": "feature_storyboard.html#184",
+"ja": "<b>トーンボード — 光を描く絵</b><span>3階調の陰影で、光の向きまで描く。劇映画 · ブランドフィルム向き</span>"
+},
+{
+"key": "feature_storyboard.html#185",
+"ja": "<b>カラーコンプ — アニマティクスの一歩手前</b><span>色とリズムを同時に試す。モーショングラフィックス · アニメーション向き</span>"
+},
+{
+"key": "feature_storyboard.html#186",
+"ja": "<b>図版 SB-6′</b> 絵コンテの4つのスタイル。精度は目的が決める — 自分のための絵と、10人のための絵は違う。"
+},
+{
+"key": "feature_storyboard.html#187",
+"ja": "<small>見開き08</small>ナレーションと音を「見える」ようにする — 3レーンコンテと15秒広告の完成例"
+},
+{
+"key": "feature_storyboard.html#188",
+"ja": "音は、絵コンテから最も抜け落ちやすい情報だ。絵の下に1行で書いても、その長さは見えない。<b>映像レーン / 声レーン / 音レーン</b>をタイムライン上に並べれば、ナレーションがカットより長くないか、音楽の変わり目がカットに合っているかが、定規を当てたようにわかる。"
+},
+{
+"key": "feature_storyboard.html#189",
+"ja": "ナレーションと音を見えるようにする — 3レーンコンテ"
+},
+{
+"key": "feature_storyboard.html#190",
+"ja": "映像"
+},
+{
+"key": "feature_storyboard.html#191",
+"ja": "<span>ECU · 水滴</span>"
+},
+{
+"key": "feature_storyboard.html#192",
+"ja": "<span>MCU · ボトルを手に取る</span>"
+},
+{
+"key": "feature_storyboard.html#193",
+"ja": "<span>CU · 一口飲む</span>"
+},
+{
+"key": "feature_storyboard.html#194",
+"ja": "<span>LS · 街の朝</span>"
+},
+{
+"key": "feature_storyboard.html#195",
+"ja": "<span>ECU · テーブルの上</span>"
+},
+{
+"key": "feature_storyboard.html#196",
+"ja": "<span>MS · ロゴCG</span>"
+},
+{
+"key": "feature_storyboard.html#197",
+"ja": "声"
+},
+{
+"key": "feature_storyboard.html#198",
+"ja": "N 一日の始まりが変わる"
+},
+{
+"key": "feature_storyboard.html#199",
+"ja": "SYNC「うん」"
+},
+{
+"key": "feature_storyboard.html#200",
+"ja": "N 街が目覚める前に"
+},
+{
+"key": "feature_storyboard.html#201",
+"ja": "N 今日も、ブランド名"
+},
+{
+"key": "feature_storyboard.html#202",
+"ja": "MUSIC"
+},
+{
+"key": "feature_storyboard.html#203",
+"ja": "MUTE"
+},
+{
+"key": "feature_storyboard.html#204",
+"ja": "♪ ピアノIN"
+},
+{
+"key": "feature_storyboard.html#205",
+"ja": "ビート"
+},
+{
+"key": "feature_storyboard.html#206",
+"ja": "締めの一音 · フェード"
+},
+{
+"key": "feature_storyboard.html#207",
+"ja": "SE"
+},
+{
+"key": "feature_storyboard.html#208",
+"ja": "水滴"
+},
+{
+"key": "feature_storyboard.html#209",
+"ja": "キャップ"
+},
+{
+"key": "feature_storyboard.html#210",
+"ja": "ATM 街"
+},
+{
+"key": "feature_storyboard.html#211",
+"ja": "風切り音"
+},
+{
+"key": "feature_storyboard.html#212",
+"ja": "CAP"
+},
+{
+"key": "feature_storyboard.html#213",
+"ja": "一日の始まり"
+},
+{
+"key": "feature_storyboard.html#214",
+"ja": "SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#215",
+"ja": "<b>図版 SB-7</b> 15秒広告6カットの3レーンコンテ。コマの幅が時間を表す — ナレーションがコマより長ければ、その場で削る。音楽の変わり目はカットの境目に合わせる。"
+},
+{
+"key": "feature_storyboard.html#216",
+"ja": "<b>3<em>字/秒</em></b>韓国語ナレーションの速さ"
+},
+{
+"key": "feature_storyboard.html#217",
+"ja": "<b>35–45<em>字</em></b>15秒広告1本の上限"
+},
+{
+"key": "feature_storyboard.html#218",
+"ja": "<b>150–180<em>字</em></b>1分の動画の上限"
+},
+{
+"key": "feature_storyboard.html#219",
+"ja": "<b>0.5<em>秒</em></b>カットの頭から最初の一音まで"
+},
+{
+"key": "feature_storyboard.html#220",
+"ja": "<small>見開き09</small>読みやすく描く — 現場は暗く、読む人は忙しい"
+},
+{
+"key": "feature_storyboard.html#221",
+"ja": "読みやすく描く"
+},
+{
+"key": "feature_storyboard.html#222",
+"ja": "<b>✕ 読めないコマ</b><span>細いグレーの線 · 矢印が4色 · 小さな文字 · 番号なし</span>"
+},
+{
+"key": "feature_storyboard.html#223",
+"ja": "<span>CUT 02</span><span class=\"sc\">S#1 カフェ · 昼 · INT</span><span>2.5秒 · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#224",
+"ja": "MCU · EYE · 50 mm · DOLLY IN ゆっくり · CUT TO"
+},
+{
+"key": "feature_storyboard.html#225",
+"ja": "動作：商品を手に取る · 視線は商品へ"
+},
+{
+"key": "feature_storyboard.html#226",
+"ja": "N 一日の始まりが変わる · SE キャップ · M ピアノIN"
+},
+{
+"key": "feature_storyboard.html#227",
+"ja": "<b>○ 3 m先から読めるコマ</b><span>3階調 · 矢印は1色 · 番号と時間を大きく · 文字はコマの下に2行</span>"
+},
+{
+"key": "feature_storyboard.html#228",
+"ja": "<b>図版 SB-8</b> 同じ情報でも、読みやすさが違う。絵コンテはモニターで見るものではない。現場の壁に貼り、3 m先から読むものだ。"
+},
+{
+"key": "feature_storyboard.html#229",
+"ja": "<b>01</b><span><b>3階調で描く。</b>背景（明）、中景（中間）、人物/商品（暗）。3階調なら形が見え、5階調なら絵になる。絵コンテは絵ではない。</span>"
+},
+{
+"key": "feature_storyboard.html#230",
+"ja": "<b>02</b><span><b>線の太さは2種類だけ。</b>輪郭は太く、細部は細く。すべての線が同じ太さだと、何も手前に出てこない。</span>"
+},
+{
+"key": "feature_storyboard.html#231",
+"ja": "<b>03</b><span><b>矢印は1色、人物の動きは黒。</b>カメラの動きはワイン色（または赤）の1色で描く。3色を超えると、読む人は凡例を探し始める。</span>"
+},
+{
+"key": "feature_storyboard.html#232",
+"ja": "<b>04</b><span><b>カット番号と秒数は、コマの中で最も大きな文字にする。</b>現場で最もよく飛び交う言葉は「何カット目、何秒」だ。</span>"
+},
+{
+"key": "feature_storyboard.html#233",
+"ja": "<b>05</b><span><b>絵の中に文字を書かない。</b>字幕とロゴは点線の枠で示すだけにする。文字はすべてコマの下に書く。</span>"
+},
+{
+"key": "feature_storyboard.html#234",
+"ja": "<b>06</b><span><b>コマの下の情報は2行。</b>1行目は数値（SIZE · ANGLE · LENS · MOVE）。2行目は言葉と音（N · SYNC · M · SE）。3行目は誰も読まない。</span>"
+},
+{
+"key": "feature_storyboard.html#235",
+"ja": "<b>07</b><span><b>文字は11 pt以上（A4の場合）、コマ幅の1/40以上。</b>A3に拡大して貼り出す前提で描く。</span>"
+},
+{
+"key": "feature_storyboard.html#236",
+"ja": "<b>08</b><span><b>画面内の人物の大きさ = ショットサイズ。</b>MSと書いたコマ同士で人物の大きさが違えば、その絵コンテは嘘をついている。シルエットの定規を作って使う。</span>"
+},
+{
+"key": "feature_storyboard.html#237",
+"ja": "<b>09</b><span><b>1段に3–6コマ、左→右、上→下。</b>ジグザグや縦並びの配置は、現場で必ず順番を読み違えられる。</span>"
+},
+{
+"key": "feature_storyboard.html#238",
+"ja": "<b>10</b><span><b>凡例は最初のコマに置く。</b>アスペクト比、解像度、記号の一覧、バージョン、日付を1コマ目に入れる。2つのバージョンの絵コンテが出回った瞬間、その撮影は失敗する。</span>"
+},
+{
+"key": "feature_storyboard.html#239",
+"ja": "良い演技指示"
+},
+{
+"key": "feature_storyboard.html#240",
+"ja": "動作（動詞）と感情（形容詞）を分ける"
+},
+{
+"key": "feature_storyboard.html#241",
+"ja": "結果ではなく、行動を書く"
+},
+{
+"key": "feature_storyboard.html#242",
+"ja": "視線の方向を必ず明記する"
+},
+{
+"key": "feature_storyboard.html#243",
+"ja": "例：商品を持ち上げ、視線をカメラに移す"
+},
+{
+"key": "feature_storyboard.html#244",
+"ja": "例：息を1回吸ってから、口角だけを上げる"
+},
+{
+"key": "feature_storyboard.html#245",
+"ja": "悪い演技指示"
+},
+{
+"key": "feature_storyboard.html#246",
+"ja": "楽しそうに（基準があいまい）"
+},
+{
+"key": "feature_storyboard.html#247",
+"ja": "自然に（最も無責任な指示）"
+},
+{
+"key": "feature_storyboard.html#248",
+"ja": "緊張しないで（否定形の指示）"
+},
+{
+"key": "feature_storyboard.html#249",
+"ja": "もっと感情を込めて（何のことか誰にもわからない）"
+},
+{
+"key": "feature_storyboard.html#250",
+"ja": "好きなようにやって（演出の放棄）"
+}
+]

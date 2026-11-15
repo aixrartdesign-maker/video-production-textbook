@@ -1,0 +1,7 @@
+[
+{"key": "part03.html#742", "find": "多くは8ビット 4:2:0", "replace": "多くは8ビット・4:2:0", "why": "typography: no space between Japanese and digits"},
+{"key": "part03.html#893", "find": "4K縦型 30p", "replace": "4K縦型・30p", "why": "typography: no space between Japanese and digits"},
+{"key": "part03.html#905", "find": "カットごとに露出 · 色が飛ぶ", "replace": "カットごとに露出 · 色が変わる", "why": "meaning: 'jump' = shift between cuts, not 色飛び (clipping)"},
+{"key": "part03.html#1067", "find": "端の設定で", "replace": "極端な設定では", "why": "other: unnatural phrasing for 'at extreme settings'"},
+{"key": "part04.html#375", "find": "キー（ソフト 45°）", "replace": "キー（ソフト、45°）", "why": "typography: no space between Japanese and digits"}
+]

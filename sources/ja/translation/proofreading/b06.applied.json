@@ -1,0 +1,9 @@
+[
+{"key": "part04.html#612", "find": "ピアノ 92 BPM", "replace": "ピアノ92 BPM", "why": "typography: no space between Japanese and digits"},
+{"key": "part04.html#620", "find": "ないときは効果音に息をさせる", "replace": "ないときは効果音を生かす", "why": "other: unnatural literal phrasing"},
+{"key": "feature_lighting.html#8", "find": "2K タングステン", "replace": "2Kタングステン", "why": "typography: no space between Latin and Japanese"},
+{"key": "feature_lighting.html#38", "find": "2K タングステン", "replace": "2Kタングステン", "why": "typography: no space between Latin and Japanese"},
+{"key": "feature_lighting.html#15", "find": "LEDチューブ RGBWW", "replace": "LEDチューブRGBWW", "why": "typography: no space between Japanese and Latin"},
+{"key": "feature_lighting.html#16", "find": "LEDチューブ RGBWW", "replace": "LEDチューブRGBWW", "why": "typography: no space between Japanese and Latin"},
+{"key": "feature_lighting.html#51", "find": "LEDチューブ RGBWW", "replace": "LEDチューブRGBWW", "why": "typography: no space between Japanese and Latin"}
+]
