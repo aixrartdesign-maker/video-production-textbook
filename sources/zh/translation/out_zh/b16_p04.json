@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#40",
+"zh": "话筒指向性示意图"
+},
+{
+"key": "part14b.html#41",
+"zh": "裸眼3D错视示意图"
+},
+{
+"key": "part14b.html#42",
+"zh": "<b>附录</b>练习单"
+},
+{
+"key": "part14b.html#43",
+"zh": "练习单"
+},
+{
+"key": "part14b.html#44",
+"zh": "6张表格，直接打印使用。上课时复印分发；自学时在笔记本上照着画。"
+},
+{
+"key": "part14b.html#45",
+"zh": "<b>提示</b>"
+},
+{
+"key": "part14b.html#46",
+"zh": "把一学期的练习单收在一起，它们既是工作记录，也是作品集的佐证。"
+},
+{
+"key": "part14b.html#47",
+"zh": "练习单1 · 一页策划案"
+},
+{
+"key": "part14b.html#48",
+"zh": "标题"
+},
+{
+"key": "part14b.html#49",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#50",
+"zh": "一句话概念"
+},
+{
+"key": "part14b.html#51",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#52",
+"zh": "目标受众（具体到一个人）"
+},
+{
+"key": "part14b.html#53",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#54",
+"zh": "核心信息"
+},
+{
+"key": "part14b.html#55",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#56",
+"zh": "概念类型"
+},
+{
+"key": "part14b.html#57",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#58",
+"zh": "调性与风格"
+},
+{
+"key": "part14b.html#59",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#60",
+"zh": "结构（0–3 s / 展开 / 结尾）"
+},
+{
+"key": "part14b.html#61",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#62",
+"zh": "场地与日程"
+},
+{
+"key": "part14b.html#63",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#64",
+"zh": "演员与道具"
+},
+{
+"key": "part14b.html#65",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#66",
+"zh": "预算"
+},
+{
+"key": "part14b.html#67",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#68",
+"zh": "渠道与规格"
+},
+{
+"key": "part14b.html#69",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#70",
+"zh": "成功指标"
+},
+{
+"key": "part14b.html#71",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#72",
+"zh": "练习单2 · 镜头清单"
+},
+{
+"key": "part14b.html#73",
+"zh": "镜头"
+},
+{
+"key": "part14b.html#74",
+"zh": "时间"
+},
+{
+"key": "part14b.html#75",
+"zh": "景别"
+},
+{
+"key": "part14b.html#76",
+"zh": "角度"
+},
+{
+"key": "part14b.html#77",
+"zh": "运镜"
+},
+{
+"key": "part14b.html#78",
+"zh": "内容"
+},
+{
+"key": "part14b.html#79",
+"zh": "声音"
+},
+{
+"key": "part14b.html#80",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#81",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#82",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#83",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#84",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#85",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#86",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#87",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#88",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#89",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#90",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#91",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#92",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#93",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#94",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#95",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#96",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#97",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#98",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#99",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#100",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#101",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#102",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#103",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#104",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#105",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#106",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#107",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#108",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#109",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#110",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#111",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#112",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#113",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#114",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#115",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#116",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#117",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#118",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#119",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#120",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#121",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#122",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#123",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#124",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#125",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#126",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#127",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#128",
+"zh": "<b>附录</b>练习单"
+},
+{
+"key": "part14b.html#129",
+"zh": "练习单3 · 6格分镜"
+},
+{
+"key": "part14b.html#130",
+"zh": "每格写上SIZE · ANGLE · MOVE，下方写动作说明和旁白/音效（N / SE）。"
+},
+{
+"key": "part14b.html#131",
+"zh": "CUT 01 · 时间"
+},
+{
+"key": "part14b.html#132",
+"zh": "CUT 02 · 时间"
+},
+{
+"key": "part14b.html#133",
+"zh": "CUT 03 · 时间"
+},
+{
+"key": "part14b.html#134",
+"zh": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#135",
+"zh": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#136",
+"zh": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#137",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#138",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#139",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#140",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#141",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#142",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#143",
+"zh": "动作说明"
+},
+{
+"key": "part14b.html#144",
+"zh": "动作说明"
+},
+{
+"key": "part14b.html#145",
+"zh": "动作说明"
+},
+{
+"key": "part14b.html#146",
+"zh": "N / SE"
+},
+{
+"key": "part14b.html#147",
+"zh": "N / SE"
+},
+{
+"key": "part14b.html#148",
+"zh": "N / SE"
+},
+{
+"key": "part14b.html#149",
+"zh": "CUT 04 · 时间"
+},
+{
+"key": "part14b.html#150",
+"zh": "CUT 05 · 时间"
+},
+{
+"key": "part14b.html#151",
+"zh": "CUT 06 · 时间"
+},
+{
+"key": "part14b.html#152",
+"zh": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#153",
+"zh": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#154",
+"zh": "SIZE / ANGLE / MOVE"
+},
+{
+"key": "part14b.html#155",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#156",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#157",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#158",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#159",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#160",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#161",
+"zh": "动作说明"
+},
+{
+"key": "part14b.html#162",
+"zh": "动作说明"
+},
+{
+"key": "part14b.html#163",
+"zh": "动作说明"
+},
+{
+"key": "part14b.html#164",
+"zh": "N / SE"
+},
+{
+"key": "part14b.html#165",
+"zh": "N / SE"
+},
+{
+"key": "part14b.html#166",
+"zh": "N / SE"
+},
+{
+"key": "part14b.html#167",
+"zh": "<b>附录</b>练习单"
+},
+{
+"key": "part14b.html#168",
+"zh": "练习单4 · 5 · 6"
+},
+{
+"key": "part14b.html#169",
+"zh": "PPM检查表、参考镜头分析表、作品集自我检查表。"
+},
+{
+"key": "part14b.html#170",
+"zh": "练习单4 · PPM检查表"
+},
+{
+"key": "part14b.html#171",
+"zh": "项目"
+},
+{
+"key": "part14b.html#172",
+"zh": "已定"
+},
+{
+"key": "part14b.html#173",
+"zh": "待定"
+},
+{
+"key": "part14b.html#174",
+"zh": "负责人与期限"
+},
+{
+"key": "part14b.html#175",
+"zh": "项目"
+},
+{
+"key": "part14b.html#176",
+"zh": "已定"
+},
+{
+"key": "part14b.html#177",
+"zh": "待定"
+},
+{
+"key": "part14b.html#178",
+"zh": "负责人与期限"
+},
+{
+"key": "part14b.html#179",
+"zh": "策划意图"
+},
+{
+"key": "part14b.html#180",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#181",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#182",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#183",
+"zh": "服装与造型"
+},
+{
+"key": "part14b.html#184",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#185",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#186",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#187",
+"zh": "分镜"
+},
+{
+"key": "part14b.html#188",
+"zh": "&nbsp;"
+},
+{
+"key": "part14b.html#189",
+"zh": "&nbsp;"
+}
+]

@@ -1,0 +1,7 @@
+[
+ {"key": "feature_lighting.html#21", "find": "<b>中国球 · 灯笼灯</b>", "replace": "<b>灯笼球 · 灯笼灯</b>", "why": "other: calque 中国球 -> standard term 灯笼球"},
+ {"key": "feature_lighting.html#22", "find": "<b>中国球 · 灯笼灯</b>", "replace": "<b>灯笼球 · 灯笼灯</b>", "why": "other: calque 中国球 -> standard term 灯笼球"},
+ {"key": "feature_lighting.html#62", "find": "中国球", "replace": "灯笼球", "why": "other: calque 中国球 -> standard term 灯笼球"},
+ {"key": "feature_lighting.html#139", "find": "<em>个</em></b>每个画面的阴影方向", "replace": "<em>个</em></b>每个画面唯一的阴影方向", "why": "meaning: 'only' (one shadow direction) was lost"},
+ {"key": "part05.html#22", "find": "本部分从", "replace": "本PART从", "why": "term: PART kept as in neighbouring items"}
+]

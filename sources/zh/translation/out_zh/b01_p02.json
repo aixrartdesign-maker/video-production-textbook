@@ -1,0 +1,722 @@
+[
+{
+"key": "part00.html#170",
+"zh": "<em>Q19</em>横版素材直接裁成竖版行吗？"
+},
+{
+"key": "part00.html#171",
+"zh": "用4K拍，并在拍摄阶段就标出竖版参考线。构图本身会变。（6.2）"
+},
+{
+"key": "part00.html#172",
+"zh": "<em>Q20</em>短视频的字幕放在哪里？"
+},
+{
+"key": "part00.html#173",
+"zh": "居中，距底部约三分之一处。顶部12%和底部20%会被界面遮挡。（6.3）"
+},
+{
+"key": "part00.html#174",
+"zh": "<em>Q21</em>能用AI做完整条视频吗？"
+},
+{
+"key": "part00.html#175",
+"zh": "把整个流程都换成AI，一致性就会崩溃。只用在三处：构思、草稿、自动化。（8.9）"
+},
+{
+"key": "part00.html#176",
+"zh": "<em>Q22</em>使用了AI必须说明吗？"
+},
+{
+"key": "part00.html#177",
+"zh": "比赛和客户交付中，要求披露的情况越来越多。把使用情况记入文件。（8.9）"
+},
+{
+"key": "part00.html#178",
+"zh": "<em>Q23</em>作品集放几件作品？"
+},
+{
+"key": "part00.html#179",
+"zh": "5–8件。最弱的那件会被当作你的水平。（10.3）"
+},
+{
+"key": "part00.html#180",
+"zh": "<em>Q24</em>我没有经验，放什么？"
+},
+{
+"key": "part00.html#181",
+"zh": "完成的个人作品及其过程资料。算数的不只有委托作品。（10.3）"
+},
+{
+"key": "part00.html#182",
+"zh": "<em>Q25</em>作品集锦应该多长？"
+},
+{
+"key": "part00.html#183",
+"zh": "60–90秒。超过2分钟，没人会看到最后。（10.4）"
+},
+{
+"key": "part00.html#184",
+"zh": "<em>Q26</em>面试最常问什么？"
+},
+{
+"key": "part00.html#185",
+"zh": "“请讲一讲作品集里的一件作品。”按顺序回答：意图、问题、解决办法、结果。（10.6）"
+},
+{
+"key": "part00.html#186",
+"zh": "<em>Q27</em>第一份工作去哪里好？"
+},
+{
+"key": "part00.html#187",
+"zh": "去一个规模小到能看清整个流程的机构。第一个岗位并不是你最终的身份。（10.1）"
+},
+{
+"key": "part00.html#188",
+"zh": "<em>Q28</em>什么时候可以做自由职业？"
+},
+{
+"key": "part00.html#189",
+"zh": "等你存够三个月的生活费，并且会写报价单和合同之后。（10.10）"
+},
+{
+"key": "part00.html#190",
+"zh": "<em>Q29</em>修改要求没完没了"
+},
+{
+"key": "part00.html#191",
+"zh": "因为合同里没有写明修改次数。通常限定为2–3次。（9.5）"
+},
+{
+"key": "part00.html#192",
+"zh": "<em>Q30</em>我觉得自己遇到了瓶颈"
+},
+{
+"key": "part00.html#193",
+"zh": "去打磨声音。一直只盯着画面的人，在这里进步最快。（4.10）"
+},
+{
+"key": "prologue.html#0",
+"zh": "序章 · 开拍之前"
+},
+{
+"key": "prologue.html#1",
+"zh": "画面的基本单位"
+},
+{
+"key": "prologue.html#2",
+"zh": "先掌握读这本书所需的十个词：画框、画幅比、分辨率、帧率、快门、镜头、场景、段落、条和平台规格。这是一部只有四页的小词典，但后面各个PART的每一句话都建立在这些词之上。"
+},
+{
+"key": "prologue.html#3",
+"zh": "<b>序章</b>画面的基本单位"
+},
+{
+"key": "prologue.html#4",
+"zh": "画框与画幅比"
+},
+{
+"key": "prologue.html#5",
+"zh": "画框是画面四条边围成的边界；画幅比是画面宽与高的关系。先于其他一切，这两者决定了什么留在画面里，什么被切掉。"
+},
+{
+"key": "prologue.html#6",
+"zh": "<span class=\"ph-id\">P00-FRAME</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>显示构图参考线的相机监视器</b>街景画面上叠着白色参考线和安全区方框</span>"
+},
+{
+"key": "prologue.html#7",
+"zh": "<b>注意</b> 相机监视器上的参考线可以预览在最终画幅比下什么会保留、什么会被切掉"
+},
+{
+"key": "prologue.html#8",
+"zh": "画幅比写作宽除以高。16:9是1.78；宽银幕（CinemaScope）是2.39。竖版视频把同样的数字倒过来，称为9:16。"
+},
+{
+"key": "prologue.html#9",
+"zh": "画幅比"
+},
+{
+"key": "prologue.html#10",
+"zh": "常见分辨率"
+},
+{
+"key": "prologue.html#11",
+"zh": "用途"
+},
+{
+"key": "prologue.html#12",
+"zh": "老式电视和显示器、资料影像、刻意的复古风格"
+},
+{
+"key": "prologue.html#13",
+"zh": "广播电视 · YouTube · 讲课视频的标准横版规格"
+},
+{
+"key": "prologue.html#14",
+"zh": "1998×1080（DCI遮幅）"
+},
+{
+"key": "prologue.html#15",
+"zh": "影院放映用的遮幅格式；观感与16:9几乎相同"
+},
+{
+"key": "prologue.html#16",
+"zh": "2048×858（DCI宽银幕）、2560×1080"
+},
+{
+"key": "prologue.html#17",
+"zh": "宽银幕、带鱼屏显示器、加黑边的广告"
+},
+{
+"key": "prologue.html#18",
+"zh": "Instagram信息流、轮播、主页视频"
+},
+{
+"key": "prologue.html#19",
+"zh": "Instagram竖版信息流帖子；占屏最大的信息流格式"
+},
+{
+"key": "prologue.html#20",
+"zh": "Shorts · Reels · TikTok · Stories，竖版全屏"
+},
+{
+"key": "prologue.html#21",
+"zh": "竖版LED标牌、部分智能手机的全屏"
+},
+{
+"key": "prologue.html#22",
+"zh": "360度VR视频的等距柱状投影，宽为高的两倍"
+},
+{
+"key": "prologue.html#23",
+"zh": "<b>16<em>:9</em></b>横版标准，电视和YouTube"
+},
+{
+"key": "prologue.html#24",
+"zh": "<b>9<em>:16</em></b>竖版全屏，短视频和Stories"
+},
+{
+"key": "prologue.html#25",
+"zh": "<b>21<em>:9</em></b>影院和广告的电影感"
+},
+{
+"key": "prologue.html#26",
+"zh": "<b>1<em>:1</em></b>信息流里的正方形，轮播"
+},
+{
+"key": "prologue.html#27",
+"zh": "<span class=\"ph-id\">P00-RATIOS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>一个场景，三种画幅比</b>一台16:9电视、一台加黑边的带鱼屏显示器、一部竖握的手机</span>"
+},
+{
+"key": "prologue.html#28",
+"zh": "<b>注意</b> 画幅比一变，即使是同一个场景，看到的范围和被摄主体的大小也不同"
+},
+{
+"key": "prologue.html#29",
+"zh": "<b>术语</b>"
+},
+{
+"key": "prologue.html#30",
+"zh": "安全区 — 为防画面边缘被裁切或被界面遮挡而划出的内侧区域，用来放关键信息。广播电视曾要求外侧10%留空；如今，被平台按钮和字幕遮住的位置起着同样的作用。"
+},
+{
+"key": "prologue.html#31",
+"zh": "开拍前先定画幅比：横拍再裁成竖版，画面的2/3就没了。如果必须交付多种画幅比，就让被摄主体居中，两侧留出余地。"
+},
+{
+"key": "prologue.html#32",
+"zh": "<small>练习</small>0.1"
+},
+{
+"key": "prologue.html#33",
+"zh": "任务"
+},
+{
+"key": "prologue.html#34",
+"zh": "打开手机相机的网格线，在同一位置分别用16:9、1:1和9:16各拍一张照片。标出被切掉的部分。"
+},
+{
+"key": "prologue.html#35",
+"zh": "提示"
+},
+{
+"key": "prologue.html#36",
+"zh": "不要移动被摄主体，只转动相机。画幅比改变的不是被摄主体，而是你能看到多少周围环境。"
+},
+{
+"key": "prologue.html#37",
+"zh": "<b>序章</b>画面的基本单位"
+},
+{
+"key": "prologue.html#38",
+"zh": "分辨率 · 帧率 · 快门"
+},
+{
+"key": "prologue.html#39",
+"zh": "每幅画面有多细密，1秒内显示多少幅，每幅曝光多长时间。这三个数字决定了视频的质感。"
+},
+{
+"key": "prologue.html#40",
+"zh": "<b>1080<em>p</em></b>1920×1080，FHD。交付的默认规格"
+},
+{
+"key": "prologue.html#41",
+"zh": "<b>4K<em>UHD</em></b>3840×2160，面积是FHD的四倍"
+},
+{
+"key": "prologue.html#42",
+"zh": "<b>24<em>fps</em></b>电影和品牌片的惯例"
+},
+{
+"key": "prologue.html#43",
+"zh": "<b>30<em>fps</em></b>广播电视 · 讲解视频；体育 · 慢动作用60 fps"
+},
+{
+"key": "prologue.html#44",
+"zh": "<span class=\"ph-id\">P00-FPS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>每秒帧数 — 一连串静止画面变成运动</b>水滴的十二张连拍照片像胶片一样排在看片灯箱上</span>"
+},
+{
+"key": "prologue.html#45",
+"zh": "<b>注意</b> 视频归根结底是一连串静止画面；1秒内显示多少幅，决定了运动有多流畅"
+},
+{
+"key": "prologue.html#46",
+"zh": "像素汇成画面"
+},
+{
+"key": "prologue.html#47",
+"zh": "<b>16 × 9 = 144像素</b><span>看到的是点</span>"
+},
+{
+"key": "prologue.html#48",
+"zh": "<b>64 × 36 = 2,304像素</b><span>看到的是形状</span>"
+},
+{
+"key": "prologue.html#49",
+"zh": "<b>256 × 144</b><span>看到的是表情</span>"
+},
+{
+"key": "prologue.html#50",
+"zh": "<b>1920 × 1080 = 207万像素</b><span>FHD — 像素消失了</span>"
+},
+{
+"key": "prologue.html#51",
+"zh": "4K UHD 3840×2160"
+},
+{
+"key": "prologue.html#52",
+"zh": "FHD 1920×1080"
+},
+{
+"key": "prologue.html#53",
+"zh": "HD 1280×720"
+},
+{
+"key": "prologue.html#54",
+"zh": "<b>分辨率 = 点的数量</b><span>FHD是HD的4倍，4K是FHD的4倍，8K是4K的4倍</span><span>屏幕大小相同时，点越多越清晰；点数相同时，屏幕越大越粗糙（LED点间距）</span><span>用4K拍、以FHD交付，最多可以放大裁切两倍而依然清晰</span>"
+},
+{
+"key": "prologue.html#55",
+"zh": "<b>图 0-1</b> 分辨率与像素 — 同一张照片分别用144、2,304、36,000和207万个点画出。点消失的那一刻，就是“画质”。"
+},
+{
+"key": "prologue.html#56",
+"zh": "<small>分辨率</small>点的数量"
+},
+{
+"key": "prologue.html#57",
+"zh": "以像素表示的宽×高。1920×1080约为207万"
+},
+{
+"key": "prologue.html#58",
+"zh": "分辨率越高，放大显示也越清晰，但文件越大"
+},
+{
+"key": "prologue.html#59",
+"zh": "根据屏幕大小和观看距离选择"
+},
+{
+"key": "prologue.html#60",
+"zh": "<small>帧率</small>每秒帧数"
+},
+{
+"key": "prologue.html#61",
+"zh": "写作fps。电影24，广播电视30，体育和游戏60"
+},
+{
+"key": "prologue.html#62",
+"zh": "高帧率拍摄、慢速播放，就得到慢动作"
+},
+{
+"key": "prologue.html#63",
+"zh": "一个项目从头到尾保持同一数值"
+},
+{
+"key": "prologue.html#64",
+"zh": "<small>快门</small>每帧的曝光时间"
+},
+{
+"key": "prologue.html#65",
+"zh": "快门速度慢，运动会拖影；快门速度快，运动会卡顿"
+},
+{
+"key": "prologue.html#66",
+"zh": "180度快门规则 — 快门速度取帧率的两倍（24 fps时为1/48 s）"
+},
+{
+"key": "prologue.html#67",
+"zh": "自然动态模糊的基准"
+},
+{
+"key": "prologue.html#68",
+"zh": "<b>提示</b>"
+},
+{
+"key": "prologue.html#69",
+"zh": "用4K拍、以FHD交付，剪辑时就有了推近或重新裁成竖版的余地。这种重新构图的余地只能在拍摄时创造。"
+},
+{
+"key": "prologue.html#70",
+"zh": "开拍前把这三个数字一次定好，并保持到最后。中途更改，剪辑时就会出现重复帧或丢帧，画质也会不均匀。交付规格优先；从它倒推相机设置。"
+},
+{
+"key": "prologue.html#71",
+"zh": "<small>练习</small>0.2"
+},
+{
+"key": "prologue.html#72",
+"zh": "任务"
+},
+{
+"key": "prologue.html#73",
+"zh": "把同一个动作分别用24 fps和60 fps各拍一次，并排播放，用一句话写下哪个看起来有“电影感”，哪个看起来有“真实感”。"
+},
+{
+"key": "prologue.html#74",
+"zh": "提示"
+},
+{
+"key": "prologue.html#75",
+"zh": "把快门速度分别设为1/48 s和1/120 s，就能看到单由帧率造成的差别。"
+},
+{
+"key": "prologue.html#76",
+"zh": "<b>序章</b>画面的基本单位"
+},
+{
+"key": "prologue.html#77",
+"zh": "镜头 · 场景 · 段落 · 条"
+},
+{
+"key": "prologue.html#78",
+"zh": "这些是计数视频的单位。如果片场和剪辑室用的词不一样，大家对同一个场景想到的画面就不一样。"
+},
+{
+"key": "prologue.html#79",
+"zh": "<span class=\"ph-id\">P00-TIMELINE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>镜头 · 场景 · 段落是时间线的单位</b>按颜色分组的片段，和一只放在搜索飞梭上的手</span>"
+},
+{
+"key": "prologue.html#80",
+"zh": "<b>注意</b> 在剪辑时间线上，一个片段是一个镜头，同色的一组是一个场景，几组合起来是一个段落"
+},
+{
+"key": "prologue.html#81",
+"zh": "<b>01</b><i>帧</i>一幅静止画面。一条24 fps的15秒广告有360帧"
+},
+{
+"key": "prologue.html#82",
+"zh": "<b>02</b><i>镜头（Cut）</i>摄影机不间断拍下的一段。一条15秒广告通常有6–12个镜头"
+},
+{
+"key": "prologue.html#83",
+"zh": "<b>03</b><i>场景</i>同一地点 · 同一时间的一组镜头。按厨房场景、街道场景这样计数"
+},
+{
+"key": "prologue.html#84",
+"zh": "<b>04</b><i>段落</i>构成一个事件的一组场景。一条15秒广告通常是单个“问题–解决”段落"
+},
+{
+"key": "prologue.html#85",
+"zh": "镜头 — 剪辑的单位"
+},
+{
+"key": "prologue.html#86",
+"zh": "成片中一段连续的画面"
+},
+{
+"key": "prologue.html#87",
+"zh": "剪辑师剪开和接上的对象"
+},
+{
+"key": "prologue.html#88",
+"zh": "“镜头多”意味着剪辑节奏快"
+},
+{
+"key": "prologue.html#89",
+"zh": "条 — 拍摄的单位"
+},
+{
+"key": "prologue.html#90",
+"zh": "拍摄一个镜头的一次尝试。第1条、第2条"
+},
+{
+"key": "prologue.html#91",
+"zh": "片场每喊一次“再来一条”，就多一条"
+},
+{
+"key": "prologue.html#92",
+"zh": "剪辑就是从几条里选出一条"
+},
+{
+"key": "prologue.html#93",
+"zh": "分镜头拍摄（Coverage）是指把一个场景拆成几种景别和角度来拍。有了交代全貌的远景镜头、拍人物的中景镜头，以及脸和手的特写，剪辑室才有选择的余地。没有这样拍的场景无法剪辑，只能重拍。"
+},
+{
+"key": "prologue.html#94",
+"zh": "<small>练习</small>0.3"
+},
+{
+"key": "prologue.html#95",
+"zh": "任务"
+},
+{
+"key": "prologue.html#96",
+"zh": "挑一条你喜欢的15秒广告，数出它的镜头数，并列表说明它分成几个场景。"
+},
+{
+"key": "prologue.html#97",
+"zh": "提示"
+},
+{
+"key": "prologue.html#98",
+"zh": "画面每变一次就暂停一下。同一地点连续的镜头属于同一个场景。"
+},
+{
+"key": "prologue.html#99",
+"zh": "<b>序章</b>画面的基本单位"
+},
+{
+"key": "prologue.html#100",
+"zh": "横版、竖版与平台规格"
+},
+{
+"key": "prologue.html#101",
+"zh": "同一条视频发布在不同的地方，画幅比、时长和被遮挡的区域都不同。平台不是策划的最后一个变量，而是第一个条件。"
+},
+{
+"key": "prologue.html#102",
+"zh": "<span class=\"ph-id\">P00-PHONEVERT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>竖拍的时代</b>夜晚的街边摊前，一位年轻女子竖握手机拍摄，暖色灯光</span>"
+},
+{
+"key": "prologue.html#103",
+"zh": "<b>注意</b> 竖版画面把脸和手拍得很大，却舍弃了两侧的环境信息"
+},
+{
+"key": "prologue.html#104",
+"zh": "平台"
+},
+{
+"key": "prologue.html#105",
+"zh": "画幅比"
+},
+{
+"key": "prologue.html#106",
+"zh": "最长时长"
+},
+{
+"key": "prologue.html#107",
+"zh": "界面遮挡区域"
+},
+{
+"key": "prologue.html#108",
+"zh": "备注"
+},
+{
+"key": "prologue.html#109",
+"zh": "YouTube"
+},
+{
+"key": "prologue.html#110",
+"zh": "实际上不限（默认15 min，验证后12小时）"
+},
+{
+"key": "prologue.html#111",
+"zh": "底部的进度条和字幕"
+},
+{
+"key": "prologue.html#112",
+"zh": "封面图相当于第一个镜头"
+},
+{
+"key": "prologue.html#113",
+"zh": "Shorts · Reels · TikTok"
+},
+{
+"key": "prologue.html#114",
+"zh": "Shorts 3 min、Reels 3 min、TikTok 10 min"
+},
+{
+"key": "prologue.html#115",
+"zh": "右侧一列按钮；底部是账号名 · 文案 · 音乐"
+},
+{
+"key": "prologue.html#116",
+"zh": "关键信息放在中上部"
+},
+{
+"key": "prologue.html#117",
+"zh": "Instagram信息流"
+},
+{
+"key": "prologue.html#118",
+"zh": "60 s及以上的视频会变成Reels"
+},
+{
+"key": "prologue.html#119",
+"zh": "信息流中无遮挡；注意上下边距"
+},
+{
+"key": "prologue.html#120",
+"zh": "4:5占屏最大"
+},
+{
+"key": "prologue.html#121",
+"zh": "轮播"
+},
+{
+"key": "prologue.html#122",
+"zh": "最多10张卡片"
+},
+{
+"key": "prologue.html#123",
+"zh": "左右滑动箭头"
+},
+{
+"key": "prologue.html#124",
+"zh": "一张卡片一条信息"
+},
+{
+"key": "prologue.html#125",
+"zh": "电视"
+},
+{
+"key": "prologue.html#126",
+"zh": "广告15 · 30 s；节目按时段"
+},
+{
+"key": "prologue.html#127",
+"zh": "广播安全区（外侧10%）"
+},
+{
+"key": "prologue.html#128",
+"zh": "字幕大小 · 位置有规定"
+},
+{
+"key": "prologue.html#129",
+"zh": "影院"
+},
+{
+"key": "prologue.html#130",
+"zh": "片长不限"
+},
+{
+"key": "prologue.html#131",
+"zh": "无；只有上下黑边"
+},
+{
+"key": "prologue.html#132",
+"zh": "以DCP交付"
+},
+{
+"key": "prologue.html#133",
+"zh": "竖版LED"
+},
+{
+"key": "prologue.html#134",
+"zh": "15–30 s循环播放"
+},
+{
+"key": "prologue.html#135",
+"zh": "底部可能被挡住，取决于安装高度"
+},
+{
+"key": "prologue.html#136",
+"zh": "设计成无声也能看懂"
+},
+{
+"key": "prologue.html#137",
+"zh": "<b>注意</b>"
+},
+{
+"key": "prologue.html#138",
+"zh": "平台经常更改时长限制和界面布局。交付前务必重新核对平台的最新规格。"
+},
+{
+"key": "prologue.html#139",
+"zh": "横版视频往往从情境推进到人物；竖版往往从人物开始，再补充情境。要用同一批素材做出两种版式，不能只是裁切，而要重新组织结构。"
+},
+{
+"key": "prologue.html#140",
+"zh": "本书的阅读顺序"
+},
+{
+"key": "prologue.html#141",
+"zh": "本书把实践放在理论之前。先学会用视频的语言读画面，通过策划（分镜、PPM）决定拍什么，再依次经过拍摄、布光与声音和剪辑完成一部作品。接下来是媒介规格、广告案例、平台、行业与职业和AI带来的转变，最后回到历史、理论和媒体艺术。亲手做过东西之后再读历史和理论，它们就成了你能讲清楚的东西，而不是要背的东西。"
+},
+{
+"key": "prologue.html#142",
+"zh": "<small>练习</small>0.4"
+},
+{
+"key": "prologue.html#143",
+"zh": "任务"
+},
+{
+"key": "prologue.html#144",
+"zh": "在你最常看的平台上截一张视频画面，用笔涂出被按钮、字幕、账号名遮挡的区域，估算并记下剩余的安全区占画面的多少。"
+},
+{
+"key": "prologue.html#145",
+"zh": "提示"
+},
+{
+"key": "prologue.html#146",
+"zh": "遮挡区域因设备和应用版本而异。记下自己设备的数据，下次策划时马上就能用。"
+},
+{
+"key": "part02.html#0",
+"zh": "PART"
+},
+{
+"key": "part02.html#1",
+"zh": "<small>PART</small>02"
+},
+{
+"key": "part02.html#2",
+"zh": "<b>本PART要做出的成果</b>"
+},
+{
+"key": "part02.html#3",
+"zh": "同一人物8种景别的印样表"
+},
+{
+"key": "part02.html#4",
+"zh": "遵守180度规则的对话场景剪辑"
+},
+{
+"key": "part02.html#5",
+"zh": "一条30秒广告的镜头分析表"
+},
+{
+"key": "part02.html#6",
+"zh": "视频的语言"
+},
+{
+"key": "part02.html#7",
+"zh": "打开摄影机的那一刻，我们同时决定了站在哪里、把什么拍进去、拍进去多少，以及让它出现多久。区分好视频和坏视频的不是器材，而是这些决定的精确程度。在这个PART里，你要通过图画把这些决定的语法记在心里。"
+},
+{
+"key": "part02.html#8",
+"zh": "照片P-02 导演用双手取景 — 取景是第一个决定 · 生成式图像"
+}
+]

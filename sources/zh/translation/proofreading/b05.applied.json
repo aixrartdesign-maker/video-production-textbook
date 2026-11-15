@@ -1,0 +1,80 @@
+[
+ {
+  "key": "part03.html#764",
+  "find": "Log通常要过曝约1挡",
+  "replace": "Log通常要多给约1挡曝光",
+  "why": "meaning: 'exposed 1 stop bright', not overexposed/clipped"
+ },
+ {
+  "key": "part03.html#1013",
+  "find": "关键是不要一直开着自动",
+  "replace": "关键是不要停留在自动模式",
+  "why": "other: unnatural phrasing"
+ },
+ {
+  "key": "part03.html#982",
+  "find": "24mm",
+  "replace": "24 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#983",
+  "find": "16mm",
+  "replace": "16 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#986",
+  "find": "35mm",
+  "replace": "35 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#987",
+  "find": "24mm",
+  "replace": "24 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#990",
+  "find": "55mm",
+  "replace": "55 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#991",
+  "find": "35mm",
+  "replace": "35 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#994",
+  "find": "85mm",
+  "replace": "85 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#995",
+  "find": "55mm",
+  "replace": "55 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#998",
+  "find": "200mm",
+  "replace": "200 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part03.html#999",
+  "find": "135mm",
+  "replace": "135 mm",
+  "why": "typography: space before unit, as in neighbouring items"
+ },
+ {
+  "key": "part04.html#118",
+  "find": "放一块黑板",
+  "replace": "放一块黑色板子",
+  "why": "meaning: 黑板 reads as 'blackboard'"
+ }
+]

@@ -1,0 +1,4 @@
+[
+{"key": "part13.html#134", "find": "<small>Art Center Nabi</small>", "replace": "<small>Nabi艺术中心</small>", "why": "untranslated: generic part of institution name left in English"},
+{"key": "part13.html#473", "find": "“年度作家奖”", "replace": "“韩国年度艺术家奖”", "why": "meaning: 作家 reads as 'writer' in Chinese; Korea Artist Prize"}
+]

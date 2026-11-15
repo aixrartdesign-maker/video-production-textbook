@@ -1,0 +1,6 @@
+[
+{"key": "part08.html#30", "find": "篇幅短的视频广告", "replace": "时长较短的视频广告", "why": "other: 篇幅 is for text length, unnatural for video"},
+{"key": "part08.html#594", "find": "以评论所需的最低限度为限", "replace": "控制在评论所需的最低限度内", "why": "other: redundant 限度为限"},
+{"key": "part08.html#656", "find": "最高收视率在40%区间", "replace": "最高收视率达40%以上", "why": "other: unnatural phrasing of 'in the 40% range'"},
+{"key": "part08.html#659", "find": "全盘接手", "replace": "全盘沿用", "why": "other: 接手 is wrong collocation for adopting a method"}
+]

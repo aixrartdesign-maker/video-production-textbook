@@ -1,0 +1,374 @@
+[
+{
+"key": "templates.html#402",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#403",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#404",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#405",
+"zh": "动作"
+},
+{
+"key": "templates.html#406",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#407",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#408",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#409",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#410",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#411",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#412",
+"zh": "动作"
+},
+{
+"key": "templates.html#413",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#414",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#415",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#416",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#417",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#418",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#419",
+"zh": "动作"
+},
+{
+"key": "templates.html#420",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#421",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#422",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#423",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#424",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#425",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#426",
+"zh": "动作"
+},
+{
+"key": "templates.html#427",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#428",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#429",
+"zh": "酒红色框 = 正面90°（头显的一个视野）。事件控制在±30°以内；身后的内容用声音交代。同时画出视点图。"
+},
+{
+"key": "templates.html#430",
+"zh": "分镜模板 · 曲面·环绕LED"
+},
+{
+"key": "templates.html#431",
+"zh": "圆柱展开 — 沉浸式展厅 · 弧长 : 高度（例：9400×2000）"
+},
+{
+"key": "templates.html#432",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#433",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#434",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#435",
+"zh": "视线带"
+},
+{
+"key": "templates.html#436",
+"zh": "左端"
+},
+{
+"key": "templates.html#437",
+"zh": "正面"
+},
+{
+"key": "templates.html#438",
+"zh": "右端"
+},
+{
+"key": "templates.html#439",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#440",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#441",
+"zh": "动作"
+},
+{
+"key": "templates.html#442",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#443",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#444",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#445",
+"zh": "视线带"
+},
+{
+"key": "templates.html#446",
+"zh": "左端"
+},
+{
+"key": "templates.html#447",
+"zh": "正面"
+},
+{
+"key": "templates.html#448",
+"zh": "右端"
+},
+{
+"key": "templates.html#449",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#450",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#451",
+"zh": "动作"
+},
+{
+"key": "templates.html#452",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#453",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#454",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#455",
+"zh": "视线带"
+},
+{
+"key": "templates.html#456",
+"zh": "左端"
+},
+{
+"key": "templates.html#457",
+"zh": "正面"
+},
+{
+"key": "templates.html#458",
+"zh": "右端"
+},
+{
+"key": "templates.html#459",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#460",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#461",
+"zh": "动作"
+},
+{
+"key": "templates.html#462",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#463",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#464",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#465",
+"zh": "视线带"
+},
+{
+"key": "templates.html#466",
+"zh": "左端"
+},
+{
+"key": "templates.html#467",
+"zh": "正面"
+},
+{
+"key": "templates.html#468",
+"zh": "右端"
+},
+{
+"key": "templates.html#469",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#470",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#471",
+"zh": "动作"
+},
+{
+"key": "templates.html#472",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#473",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#474",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#475",
+"zh": "视线带"
+},
+{
+"key": "templates.html#476",
+"zh": "左端"
+},
+{
+"key": "templates.html#477",
+"zh": "正面"
+},
+{
+"key": "templates.html#478",
+"zh": "右端"
+},
+{
+"key": "templates.html#479",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#480",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#481",
+"zh": "动作"
+},
+{
+"key": "templates.html#482",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#483",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#484",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#485",
+"zh": "视线带"
+},
+{
+"key": "templates.html#486",
+"zh": "左端"
+},
+{
+"key": "templates.html#487",
+"zh": "正面"
+},
+{
+"key": "templates.html#488",
+"zh": "右端"
+},
+{
+"key": "templates.html#489",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#490",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#491",
+"zh": "动作"
+},
+{
+"key": "templates.html#492",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#493",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#494",
+"zh": "虚线 = 模块接缝（不放文字）。文字·脸只放在视线带内（离地1.4–1.8 m）。"
+}
+]

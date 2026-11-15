@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#806",
+"zh": "视线的两种用法 — 相对时用视线匹配，跟随时用视线连接"
+},
+{
+"key": "part14b.html#807",
+"zh": "投影机投射距离与画面尺寸"
+},
+{
+"key": "part14b.html#808",
+"zh": "故事时间与银幕时间 — 六种时空转换"
+},
+{
+"key": "part14b.html#809",
+"zh": "4种XR设备对比"
+},
+{
+"key": "part14b.html#810",
+"zh": "传感器尺寸对比"
+},
+{
+"key": "part14b.html#811",
+"zh": "空间视频的双目拍摄"
+},
+{
+"key": "part14b.html#812",
+"zh": "不同焦距的视角"
+},
+{
+"key": "part14b.html#813",
+"zh": "形态的维度 — 运动每次增加一个维度"
+},
+{
+"key": "part14b.html#814",
+"zh": "曝光三角 — 光圈、快门速度与ISO如何相互补偿"
+},
+{
+"key": "part14b.html#815",
+"zh": "15秒广告的标准结构"
+},
+{
+"key": "part14b.html#816",
+"zh": "不同光圈的景深 — 同一场景，不同背景"
+},
+{
+"key": "part14b.html#817",
+"zh": "3秒开场钩子的六种手法"
+},
+{
+"key": "part14b.html#818",
+"zh": "分辨率标准对比"
+},
+{
+"key": "part14b.html#819",
+"zh": "视频形式与营销漏斗的对应"
+},
+{
+"key": "part14b.html#820",
+"zh": "常见画幅比对比"
+},
+{
+"key": "part14b.html#821",
+"zh": "动作线 — 贯穿姿势的一条曲线"
+},
+{
+"key": "part14b.html#822",
+"zh": "帧率对比 — 把1秒切成多少张画面"
+},
+{
+"key": "part14b.html#823",
+"zh": "一个步行循环的8个姿势"
+},
+{
+"key": "part14b.html#824",
+"zh": "快门角度与曝光时间（24 fps时）"
+},
+{
+"key": "part14b.html#825",
+"zh": "不同时长的视频形式 — 越短，信息越单一；越长，人物越深入"
+},
+{
+"key": "part14b.html#826",
+"zh": "各种光源的色温标尺"
+},
+{
+"key": "part14b.html#827",
+"zh": "1分钟广告的二次钩子 — 在观众即将流失前再次抓住他们"
+},
+{
+"key": "part14b.html#828",
+"zh": "白平衡设置与光源 — 以白纸为基准"
+},
+{
+"key": "part14b.html#829",
+"zh": "15秒户外LED循环 — 无声、远观、无缝重复"
+},
+{
+"key": "part14b.html#830",
+"zh": "平方反比定律 — 距离加倍，亮度减为1/4"
+},
+{
+"key": "part14b.html#831",
+"zh": "AI制作流程"
+},
+{
+"key": "part14b.html#832",
+"zh": "三点布光 — 平面图与每一步的效果"
+},
+{
+"key": "part14b.html#833",
+"zh": "生成式工具地图"
+},
+{
+"key": "part14b.html#834",
+"zh": "按主光位置划分的6种人像布光样式"
+},
+{
+"key": "part14b.html#835",
+"zh": "解读成效指标的顺序"
+},
+{
+"key": "part14b.html#836",
+"zh": "光比如何改变反差"
+},
+{
+"key": "part14b.html#837",
+"zh": "各岗位的职业路径"
+},
+{
+"key": "part14b.html#838",
+"zh": "色键抠像摄影棚布局与合成3步"
+},
+{
+"key": "part14b.html#839",
+"zh": "视频行业岗位地图"
+},
+{
+"key": "part14b.html#840",
+"zh": "录音电平的安全范围"
+},
+{
+"key": "part14b.html#841",
+"zh": "作品集页面的标准版式"
+},
+{
+"key": "part14b.html#842",
+"zh": "4种话筒指向性"
+},
+{
+"key": "part14b.html#843",
+"zh": "各岗位求职准备矩阵"
+},
+{
+"key": "part14b.html#844",
+"zh": "15秒广告的4层声音时间线"
+},
+{
+"key": "part14b.html#845",
+"zh": "6个月作品集路线图"
+},
+{
+"key": "part14b.html#846",
+"zh": "剪辑时间线的构造"
+},
+{
+"key": "part14b.html#847",
+"zh": "后记"
+},
+{
+"key": "part14b.html#848",
+"zh": "15秒并不短"
+},
+{
+"key": "part14b.html#849",
+"zh": "好视频不是靠器材拍出来的，而是由想清楚要给人看什么的人做出来的。"
+},
+{
+"key": "part14b.html#850",
+"zh": "本书的每一张图版、表格和检查清单，都是为缩短做决定的那一刻而准备的工具。决定得越快，尝试得越多；尝试多少，就进步多少。"
+},
+{
+"key": "part14b.html#851",
+"zh": "读过的会淡去，做出来的会留下。今天至少拍一个镜头。"
+},
+{
+"key": "part14b.html#852",
+"zh": "谁做好了开头3秒，谁就赢得了后面12秒的资格。"
+},
+{
+"key": "part14b.html#853",
+"zh": "谁做好了开头3秒，谁就赢得了后面12秒的资格。<small>Jia Ahn</small>"
+},
+{
+"key": "templates.html#0",
+"zh": "<b>附录</b>模板"
+},
+{
+"key": "templates.html#1",
+"zh": "8种分镜模板"
+},
+{
+"key": "templates.html#2",
+"zh": "各画幅比的9格（或8格、6格）模板。按A4复印，或放大到A3钉在墙上。分镜格外的五行在每张模板上都相同——规格、运动、动作说明、语言、声音。"
+},
+{
+"key": "templates.html#3",
+"zh": "<small>使用方法</small>第一格是图例"
+},
+{
+"key": "templates.html#4",
+"zh": "画幅比 · 分辨率 · 版本 · 日期写在第一格"
+},
+{
+"key": "templates.html#5",
+"zh": "箭头：黑色表示人物，酒红色表示摄影机"
+},
+{
+"key": "templates.html#6",
+"zh": "时间：时长（秒）+ 累计时间码"
+},
+{
+"key": "templates.html#7",
+"zh": "<small>竖版模板</small>避开UI遮挡"
+},
+{
+"key": "templates.html#8",
+"zh": "灰色带内不放字幕 · 标志"
+},
+{
+"key": "templates.html#9",
+"zh": "脸放在上1/3，产品放在中央"
+},
+{
+"key": "templates.html#10",
+"zh": "镜头数比横版多20–30%"
+},
+{
+"key": "templates.html#11",
+"zh": "<small>360 · 曲面</small>展开图 + 视点图"
+},
+{
+"key": "templates.html#12",
+"zh": "每个分镜格都写明正面角度"
+},
+{
+"key": "templates.html#13",
+"zh": "每个场景的总旋转量控制在180°以内"
+},
+{
+"key": "templates.html#14",
+"zh": "接缝 · 地面 · 天花板留空"
+},
+{
+"key": "templates.html#15",
+"zh": "分镜模板 · 16:9"
+},
+{
+"key": "templates.html#16",
+"zh": "横版默认 — YouTube·电视·演示 · 1920×1080 · 3840×2160"
+},
+{
+"key": "templates.html#17",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#18",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#19",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#20",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#21",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#22",
+"zh": "动作"
+},
+{
+"key": "templates.html#23",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#24",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#25",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#26",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#27",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#28",
+"zh": "动作"
+},
+{
+"key": "templates.html#29",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#30",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#31",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#32",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#33",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#34",
+"zh": "动作"
+},
+{
+"key": "templates.html#35",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#36",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#37",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#38",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#39",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#40",
+"zh": "动作"
+},
+{
+"key": "templates.html#41",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#42",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#43",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#44",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#45",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#46",
+"zh": "动作"
+},
+{
+"key": "templates.html#47",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#48",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#49",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#50",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#51",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#52",
+"zh": "动作"
+},
+{
+"key": "templates.html#53",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#54",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#55",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#56",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#57",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#58",
+"zh": "动作"
+},
+{
+"key": "templates.html#59",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#60",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#61",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#62",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#63",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#64",
+"zh": "动作"
+},
+{
+"key": "templates.html#65",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#66",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#67",
+"zh": "CUT 09"
+},
+{
+"key": "templates.html#68",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#69",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#70",
+"zh": "动作"
+},
+{
+"key": "templates.html#71",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#72",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#73",
+"zh": "虚线 = 动作安全区90% · 细线 = 三等分。每格外有五行：SIZE/角度/焦距 · MOVE/TR · 动作说明 · 语言 · 声音。"
+},
+{
+"key": "templates.html#74",
+"zh": "分镜模板 · 21:9"
+},
+{
+"key": "templates.html#75",
+"zh": "宽银幕 — 品牌影片·影院 · 2048×858 · 3840×1608"
+},
+{
+"key": "templates.html#76",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#77",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#78",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#79",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#80",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#81",
+"zh": "动作"
+},
+{
+"key": "templates.html#82",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#83",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#84",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#85",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#86",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#87",
+"zh": "动作"
+},
+{
+"key": "templates.html#88",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#89",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#90",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#91",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#92",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#93",
+"zh": "动作"
+},
+{
+"key": "templates.html#94",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#95",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#96",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#97",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#98",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#99",
+"zh": "动作"
+},
+{
+"key": "templates.html#100",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#101",
+"zh": "M · SE"
+}
+]

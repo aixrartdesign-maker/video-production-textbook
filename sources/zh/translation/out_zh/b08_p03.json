@@ -1,0 +1,622 @@
+[
+{
+"key": "part07.html#567",
+"zh": "<b>a</b>瓦垄的线条和柱距成为内容的网格"
+},
+{
+"key": "part07.html#568",
+"zh": "<span class=\"ph-id\">P07-FACADE-DOME</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>穹顶建筑立面</b>隔江望见的夜间穹顶建筑，墙面上的像素网格灯光</span>"
+},
+{
+"key": "part07.html#569",
+"zh": "<b>b</b>人们怎样解读建筑的外形，本身就能成为内容"
+},
+{
+"key": "part07.html#570",
+"zh": "<small>练习</small>6.9"
+},
+{
+"key": "part07.html#571",
+"zh": "任务"
+},
+{
+"key": "part07.html#572",
+"zh": "为转角LED屏上的裸眼3D错视画一份分镜。"
+},
+{
+"key": "part07.html#573",
+"zh": "提示"
+},
+{
+"key": "part07.html#574",
+"zh": "先固定观看位置，错视才成立。"
+},
+{
+"key": "part07.html#575",
+"zh": "评价"
+},
+{
+"key": "part07.html#576",
+"zh": "视点设计、错视的清晰度"
+},
+{
+"key": "part07.html#577",
+"zh": "参考答案"
+},
+{
+"key": "part07.html#578",
+"zh": "COEX SMTOWN《Wave》（2020）。在地图上标出观看位置，并给出从该视点看到的合成图。"
+},
+{
+"key": "part07.html#579",
+"zh": "<b>PART 07</b>媒体规格与沉浸式内容"
+},
+{
+"key": "part07.html#580",
+"zh": "LED电子看板与透明LED"
+},
+{
+"key": "part07.html#581",
+"zh": "和供应商沟通时用上像素间距、尼特这样的术语，报价会更准确。做透明LED，首先要记住黑色会变成透明。"
+},
+{
+"key": "part07.html#582",
+"zh": "术语"
+},
+{
+"key": "part07.html#583",
+"zh": "含义"
+},
+{
+"key": "part07.html#584",
+"zh": "判断标准"
+},
+{
+"key": "part07.html#585",
+"zh": "对内容的影响"
+},
+{
+"key": "part07.html#586",
+"zh": "像素间距"
+},
+{
+"key": "part07.html#587",
+"zh": "LED灯珠的间隔"
+},
+{
+"key": "part07.html#588",
+"zh": "数值越小，画面越细腻"
+},
+{
+"key": "part07.html#589",
+"zh": "近距离媒体用P2.5以下"
+},
+{
+"key": "part07.html#590",
+"zh": "最小观看距离"
+},
+{
+"key": "part07.html#591",
+"zh": "画面看起来平滑的距离"
+},
+{
+"key": "part07.html#592",
+"zh": "约等于间距数值（米）"
+},
+{
+"key": "part07.html#593",
+"zh": "P4：约4 m以上"
+},
+{
+"key": "part07.html#594",
+"zh": "亮度（尼特）"
+},
+{
+"key": "part07.html#595",
+"zh": "屏幕的明亮程度"
+},
+{
+"key": "part07.html#596",
+"zh": "室内500–1500，户外5000以上"
+},
+{
+"key": "part07.html#597",
+"zh": "户外用高对比度设计"
+},
+{
+"key": "part07.html#598",
+"zh": "透光率"
+},
+{
+"key": "part07.html#599",
+"zh": "透明LED的通透程度"
+},
+{
+"key": "part07.html#600",
+"zh": "约60–80%"
+},
+{
+"key": "part07.html#601",
+"zh": "背景会透出来，暗色吃亏"
+},
+{
+"key": "part07.html#602",
+"zh": "刷新率"
+},
+{
+"key": "part07.html#603",
+"zh": "每秒刷新画面的次数"
+},
+{
+"key": "part07.html#604",
+"zh": "需要被拍摄时3840 Hz以上"
+},
+{
+"key": "part07.html#605",
+"zh": "过低时拍出来有条纹"
+},
+{
+"key": "part07.html#606",
+"zh": "箱体尺寸"
+},
+{
+"key": "part07.html#607",
+"zh": "单块面板单元的大小"
+},
+{
+"key": "part07.html#608",
+"zh": "计算总分辨率的依据"
+},
+{
+"key": "part07.html#609",
+"zh": "决定内容分辨率"
+},
+{
+"key": "part07.html#610",
+"zh": "<b>术语</b>"
+},
+{
+"key": "part07.html#611",
+"zh": "像素间距——LED灯珠之间的间隔（mm）。P4的最小观看距离约为4 m。"
+},
+{
+"key": "part07.html#612",
+"zh": "为透明LED做设计"
+},
+{
+"key": "part07.html#613",
+"zh": "背景会透出来，所以黑色变成透明"
+},
+{
+"key": "part07.html#614",
+"zh": "明亮、高饱和的图形效果最好"
+},
+{
+"key": "part07.html#615",
+"zh": "细线和小字会消失"
+},
+{
+"key": "part07.html#616",
+"zh": "白天和夜晚的背景都要检查"
+},
+{
+"key": "part07.html#617",
+"zh": "注意：拍摄LED画面"
+},
+{
+"key": "part07.html#618",
+"zh": "刷新率低，画面上会出现滚动条纹"
+},
+{
+"key": "part07.html#619",
+"zh": "让摄影机快门与LED刷新同步"
+},
+{
+"key": "part07.html#620",
+"zh": "LED前的人物：色温冲突"
+},
+{
+"key": "part07.html#621",
+"zh": "事先必须试拍"
+},
+{
+"key": "part07.html#622",
+"zh": "距离决定字号"
+},
+{
+"key": "part07.html#623",
+"zh": "距离决定字号"
+},
+{
+"key": "part07.html#624",
+"zh": "LED墙"
+},
+{
+"key": "part07.html#625",
+"zh": "至少2 cm"
+},
+{
+"key": "part07.html#626",
+"zh": "至少6 cm"
+},
+{
+"key": "part07.html#627",
+"zh": "至少16 cm"
+},
+{
+"key": "part07.html#628",
+"zh": "距离越远，字要越大才看得清 — 最小字高 ≈ 距离 ÷ 250"
+},
+{
+"key": "part07.html#629",
+"zh": "<b>图 66-1</b> 观看距离与字号 — 5 m处2 cm，15 m处6 cm，40 m处16 cm。反过来，屏幕的观看距离越近，像素间距就要越小（最小观看距离m ≈ 间距mm）。"
+},
+{
+"key": "part07.html#630",
+"zh": "<b>参考照片 6.10A</b>LED媒体的三种面貌"
+},
+{
+"key": "part07.html#631",
+"zh": "<span class=\"ph-id\">P07-TRANSLED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>透明LED</b>橱窗上的透明LED贴膜，悬浮的图形后面看得见店内</span>"
+},
+{
+"key": "part07.html#632",
+"zh": "<b>a</b>黑色变成透明 — 只显示明亮的物体"
+},
+{
+"key": "part07.html#633",
+"zh": "<span class=\"ph-id\">P07-SIGNAGE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>竖向LED电子看板</b>地铁通道里的一排竖向LED立柱，乘客从旁走过</span>"
+},
+{
+"key": "part07.html#634",
+"zh": "<b>b</b>路过时看的媒体 — 短循环，大字"
+},
+{
+"key": "part07.html#635",
+"zh": "<span class=\"ph-id\">P07-LED-DIAGRAM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>像素间距与观看距离</b>LED模组特写 — 直尺旁的灯珠间隔 / 退后几米，就融成一个平面</span>"
+},
+{
+"key": "part07.html#636",
+"zh": "<b>c</b>间距数值就是衡量最小观看距离的尺子"
+},
+{
+"key": "part07.html#637",
+"zh": "<small>练习</small>6.10"
+},
+{
+"key": "part07.html#638",
+"zh": "任务"
+},
+{
+"key": "part07.html#639",
+"zh": "为透明LED做一段10秒的循环视频。前提是黑色会显示为透明。"
+},
+{
+"key": "part07.html#640",
+"zh": "提示"
+},
+{
+"key": "part07.html#641",
+"zh": "背景留成纯黑，只让明亮的物体运动。"
+},
+{
+"key": "part07.html#642",
+"zh": "评价"
+},
+{
+"key": "part07.html#643",
+"zh": "对媒体的理解、循环的连贯性"
+},
+{
+"key": "part07.html#644",
+"zh": "参考答案"
+},
+{
+"key": "part07.html#645",
+"zh": "考虑到玻璃后面的真实空间与视频如何叠在一起。"
+},
+{
+"key": "part07.html#646",
+"zh": "<b>PART 07</b>媒体规格与沉浸式内容"
+},
+{
+"key": "part07.html#647",
+"zh": "观看环境与观众"
+},
+{
+"key": "part07.html#648",
+"zh": "视线、距离、移动。同一段视频，在哪里看，效果完全不同。观众是坐着还是站着，是一个人还是一群人，是路过还是停留，都会改变导演的条件。"
+},
+{
+"key": "part07.html#649",
+"zh": "<b>图 69</b> 不同观看环境下的屏幕大小与专注度"
+},
+{
+"key": "part07.html#650",
+"zh": "放映制式各不相同 — 银幕 · 声音 · 身体"
+},
+{
+"key": "part07.html#651",
+"zh": "<b>IMAX · 高端巨幕</b><span>1.43:1或1.90:1的巨型银幕，座位坡度陡 — 银幕填满视野。《奥德赛》（2026）这类用IMAX胶片摄影机拍摄的影片，会专门按这个画幅比设计场景</span>"
+},
+{
+"key": "part07.html#652",
+"zh": "<b>4D动感影院</b><span>会动的座椅 · 风 · 水 · 气味。要在画面之外另写一份“特效提示表” — 为每个镜头决定给什么刺激，等于第二次剪辑</span>"
+},
+{
+"key": "part07.html#653",
+"zh": "制式"
+},
+{
+"key": "part07.html#654",
+"zh": "画幅比"
+},
+{
+"key": "part07.html#655",
+"zh": "声音"
+},
+{
+"key": "part07.html#656",
+"zh": "附加要素"
+},
+{
+"key": "part07.html#657",
+"zh": "制作注意事项"
+},
+{
+"key": "part07.html#658",
+"zh": "普通2D"
+},
+{
+"key": "part07.html#659",
+"zh": "标准5.1–7.1声道"
+},
+{
+"key": "part07.html#660",
+"zh": "无"
+},
+{
+"key": "part07.html#661",
+"zh": "基准 — 所有版本的母版"
+},
+{
+"key": "part07.html#662",
+"zh": "相同"
+},
+{
+"key": "part07.html#663",
+"zh": "相同"
+},
+{
+"key": "part07.html#664",
+"zh": "偏光眼镜"
+},
+{
+"key": "part07.html#665",
+"zh": "要设计视差：近处物体会与字幕冲突，快速摇摄会引起眩晕。亮度−30%"
+},
+{
+"key": "part07.html#666",
+"zh": "IMAX"
+},
+{
+"key": "part07.html#667",
+"zh": "1.43 · 1.90:1（上下画面更多）"
+},
+{
+"key": "part07.html#668",
+"zh": "12声道 · 强化低频"
+},
+{
+"key": "part07.html#669",
+"zh": "无"
+},
+{
+"key": "part07.html#670",
+"zh": "上下多出的画面需另行拍摄（IMAX摄影机），或使用上下展开的母版"
+},
+{
+"key": "part07.html#671",
+"zh": "因影厅而异"
+},
+{
+"key": "part07.html#672",
+"zh": "相同 + 特效轨"
+},
+{
+"key": "part07.html#673",
+"zh": "座椅 · 风 · 水 · 气味 · 灯光"
+},
+{
+"key": "part07.html#674",
+"zh": "需要安排特效提示点的“喘息镜头”。特效接连不断会让人疲劳"
+},
+{
+"key": "part07.html#675",
+"zh": "<b>图 69-1</b> 2D · 3D · IMAX · 4D — 即使是同一部影片，各版本的画幅比 · 声音 · 刺激也不相同。制作方要在开拍前决定“以哪个版本为准来拍”。"
+},
+{
+"key": "part07.html#676",
+"zh": "环境"
+},
+{
+"key": "part07.html#677",
+"zh": "姿势"
+},
+{
+"key": "part07.html#678",
+"zh": "观看距离"
+},
+{
+"key": "part07.html#679",
+"zh": "视野"
+},
+{
+"key": "part07.html#680",
+"zh": "专注度"
+},
+{
+"key": "part07.html#681",
+"zh": "设计原则"
+},
+{
+"key": "part07.html#682",
+"zh": "电影院"
+},
+{
+"key": "part07.html#683",
+"zh": "固定座位，黑暗"
+},
+{
+"key": "part07.html#684",
+"zh": "银幕高度的1.5–3倍"
+},
+{
+"key": "part07.html#685",
+"zh": "很宽"
+},
+{
+"key": "part07.html#686",
+"zh": "很高"
+},
+{
+"key": "part07.html#687",
+"zh": "远景有效，可用慢节奏"
+},
+{
+"key": "part07.html#688",
+"zh": "客厅电视"
+},
+{
+"key": "part07.html#689",
+"zh": "坐姿，室内有光"
+},
+{
+"key": "part07.html#690",
+"zh": "屏幕对角线的2–3倍"
+},
+{
+"key": "part07.html#691",
+"zh": "中"
+},
+{
+"key": "part07.html#692",
+"zh": "低"
+},
+{
+"key": "part07.html#693",
+"zh": "以特写为主，台词清晰"
+},
+{
+"key": "part07.html#694",
+"zh": "电脑显示器"
+},
+{
+"key": "part07.html#695",
+"zh": "坐姿，近距离"
+},
+{
+"key": "part07.html#696",
+"zh": "50–70 cm"
+},
+{
+"key": "part07.html#697",
+"zh": "窄"
+},
+{
+"key": "part07.html#698",
+"zh": "中"
+},
+{
+"key": "part07.html#699",
+"zh": "可承载密集信息"
+},
+{
+"key": "part07.html#700",
+"zh": "智能手机"
+},
+{
+"key": "part07.html#701",
+"zh": "手持，移动中"
+},
+{
+"key": "part07.html#702",
+"zh": "25–35 cm"
+},
+{
+"key": "part07.html#703",
+"zh": "很窄"
+},
+{
+"key": "part07.html#704",
+"zh": "很低"
+},
+{
+"key": "part07.html#705",
+"zh": "大字幕、短镜头、竖屏"
+},
+{
+"key": "part07.html#706",
+"zh": "大型户外屏"
+},
+{
+"key": "part07.html#707",
+"zh": "步行路过"
+},
+{
+"key": "part07.html#708",
+"zh": "很宽"
+},
+{
+"key": "part07.html#709",
+"zh": "很低"
+},
+{
+"key": "part07.html#710",
+"zh": "单一信息，高对比度"
+},
+{
+"key": "part07.html#711",
+"zh": "展览"
+},
+{
+"key": "part07.html#712",
+"zh": "站立，走动"
+},
+{
+"key": "part07.html#713",
+"zh": "宽"
+},
+{
+"key": "part07.html#714",
+"zh": "高"
+},
+{
+"key": "part07.html#715",
+"zh": "设计停留时间，空间音频"
+},
+{
+"key": "part07.html#716",
+"zh": "店内电子看板"
+},
+{
+"key": "part07.html#717",
+"zh": "站立，短暂停留"
+},
+{
+"key": "part07.html#718",
+"zh": "中"
+},
+{
+"key": "part07.html#719",
+"zh": "低"
+},
+{
+"key": "part07.html#720",
+"zh": "价格和优惠放在最前"
+},
+{
+"key": "part07.html#721",
+"zh": "<small>电影院</small>引导视线"
+}
+]

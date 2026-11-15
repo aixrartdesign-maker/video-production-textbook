@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#207",
+"zh": "天台"
+},
+{
+"key": "feature_ppm.html#208",
+"zh": "城市清晨（以傍晚逆光代替）LS上摇"
+},
+{
+"key": "feature_ppm.html#209",
+"zh": "24 mm，60 fps"
+},
+{
+"key": "feature_ppm.html#210",
+"zh": "<b>黄金时段40分钟 — 最多3条</b>"
+},
+{
+"key": "feature_ppm.html#211",
+"zh": "实验室"
+},
+{
+"key": "feature_ppm.html#212",
+"zh": "N录音"
+},
+{
+"key": "feature_ppm.html#213",
+"zh": "录3句旁白，30秒房间底噪"
+},
+{
+"key": "feature_ppm.html#214",
+"zh": "配音演员"
+},
+{
+"key": "feature_ppm.html#215",
+"zh": "电容话筒，防喷罩"
+},
+{
+"key": "feature_ppm.html#216",
+"zh": "每句3条，按分镜的三轨计时"
+},
+{
+"key": "feature_ppm.html#217",
+"zh": "实验室"
+},
+{
+"key": "feature_ppm.html#218",
+"zh": "第2次备份，检查样片，当日总结"
+},
+{
+"key": "feature_ppm.html#219",
+"zh": "漏拍镜头清单 → 备用日D+2"
+},
+{
+"key": "feature_ppm.html#220",
+"zh": "备用日 · 4/13（周日） · 下雨或有漏拍镜头 — 演员A档期已确认 ✔ · L-02摄影棚保留档期"
+},
+{
+"key": "feature_ppm.html#221",
+"zh": "<span class=\"ph-id\">P06-SCHEDULE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>日程板 — 按场地 · 光线 · 演员归组的条带</b></span>"
+},
+{
+"key": "feature_ppm.html#222",
+"zh": "<b>注意</b>日程板 — 按场地 · 光线 · 演员归组的条带"
+},
+{
+"key": "feature_ppm.html#223",
+"zh": "<small>归组顺序</small>场地 → 光线 → 演员"
+},
+{
+"key": "feature_ppm.html#224",
+"zh": "相同的布置连着拍"
+},
+{
+"key": "feature_ppm.html#225",
+"zh": "直射阳光 · 黄金时段这类“过了就没有的时间”优先"
+},
+{
+"key": "feature_ppm.html#226",
+"zh": "演员在第一个镜头前45分钟到场"
+},
+{
+"key": "feature_ppm.html#227",
+"zh": "<small>安全余量</small>每个镜头+30%，每天+1小时"
+},
+{
+"key": "feature_ppm.html#228",
+"zh": "第一个镜头总会晚30分钟"
+},
+{
+"key": "feature_ppm.html#229",
+"zh": "移动：地图用时 × 1.5"
+},
+{
+"key": "feature_ppm.html#230",
+"zh": "午餐固定45分钟；一拖延，下午就垮"
+},
+{
+"key": "feature_ppm.html#231",
+"zh": "<small>备用日</small>没有预订，就等于没有"
+},
+{
+"key": "feature_ppm.html#232",
+"zh": "演员 · 场地两头都要留档期"
+},
+{
+"key": "feature_ppm.html#233",
+"zh": "把雨天标准定成数字（降雨概率60%）"
+},
+{
+"key": "feature_ppm.html#234",
+"zh": "当日总结时敲定漏拍镜头清单"
+},
+{
+"key": "feature_ppm.html#235",
+"zh": "<small>跨页 06 · 拍摄日</small>当日时间表与通告单 — 以15分钟为一格来画，就能看出哪里会拖延"
+},
+{
+"key": "feature_ppm.html#236",
+"zh": "<b>注意</b>"
+},
+{
+"key": "feature_ppm.html#237",
+"zh": "条的长度是计划时间。每一格实际结束时，用笔在旁边画出实际的条。这个差距，就是你下一个项目日程的精度。"
+},
+{
+"key": "feature_ppm.html#238",
+"zh": "<i class=\"move\" style=\"width:30%\"></i><span>先遣组到场 · 停车 · 检查电源 · 钥匙</span>"
+},
+{
+"key": "feature_ppm.html#239",
+"zh": "<i class=\"set\" style=\"width:45%\"></i><span>搬入设备（2人，走楼梯） · 轨道 · 架设主光LED · 开始美术陈设</span>"
+},
+{
+"key": "feature_ppm.html#240",
+"zh": "<i class=\"set\" style=\"width:45%\"></i><span>演员A到场 → 车内化妆 · 服装LOOK 1</span>"
+},
+{
+"key": "feature_ppm.html#241",
+"zh": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 02</b> MCU推近 · 排练1次 → 拍4条（直射阳光最佳07:30–08:00）</span>"
+},
+{
+"key": "feature_ppm.html#242",
+"zh": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 03</b> CU喝一口 · 85 mm · 拍5条 · 检查汗水 · 反光</span>"
+},
+{
+"key": "feature_ppm.html#243",
+"zh": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 06</b> 结尾LOCKED + 缓慢推近 · 标记点 · 干净底板2条</span>"
+},
+{
+"key": "feature_ppm.html#244",
+"zh": "<i class=\"set\" style=\"width:15%\"></i><span>演员B到场 · LOOK 2 · 排练2S走位</span>"
+},
+{
+"key": "feature_ppm.html#245",
+"zh": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 05</b> 2S碰瓶 · SYNC 笑声 · 录30秒房间底噪</span>"
+},
+{
+"key": "feature_ppm.html#246",
+"zh": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 01 · 02 INS</b> 微距水珠 · 手部插入镜头 · 更换新瓶</span>"
+},
+{
+"key": "feature_ppm.html#247",
+"zh": "<i class=\"move\" style=\"width:30%\"></i><span>收工 · 拍照记录复原后的场地 · 清点遗失物 · 第1次备份（现场） · 10:30归还场地</span>"
+},
+{
+"key": "feature_ppm.html#248",
+"zh": "<i class=\"meal\" style=\"width:30%\"></i><span>迟来的早餐 · 第1次样片检查 · 漏拍镜头清单</span>"
+},
+{
+"key": "feature_ppm.html#249",
+"zh": "<span><i style=\"background:#7A1C2B\"></i>拍摄</span><span><i style=\"background:#A8465A\"></i>布置 · 排练</span><span><i style=\"background:#A8A8AE\"></i>移动 · 收工</span><span><i style=\"background:#EFEDE9\"></i>用餐 · 整理</span>"
+},
+{
+"key": "feature_ppm.html#250",
+"zh": "通告单 — A4一页，前一天20时前发给所有人"
+},
+{
+"key": "feature_ppm.html#251",
+"zh": "栏目"
+},
+{
+"key": "feature_ppm.html#252",
+"zh": "内容"
+},
+{
+"key": "feature_ppm.html#253",
+"zh": "示例"
+},
+{
+"key": "feature_ppm.html#254",
+"zh": "抬头"
+},
+{
+"key": "feature_ppm.html#255",
+"zh": "项目 · 第几个拍摄日 · 日期 · 天气 · 日出/日落 · 2位制片联系人"
+},
+{
+"key": "feature_ppm.html#256",
+"zh": "晨间饮品15 s · DAY 1/2 · 4/9（周三） · 晴12→19℃ · 日出06:12 · PD Kim ○○ 010-… / AD 010-…"
+},
+{
+"key": "feature_ppm.html#257",
+"zh": "场地"
+},
+{
+"key": "feature_ppm.html#258",
+"zh": "地址 · 停车 · 集合点 · 洗手间 · 医院"
+},
+{
+"key": "feature_ppm.html#259",
+"zh": "麻浦区○○路12号2层 · 后巷，2个车位 · 1层入口 · 1层 · ○○医院急诊1.2 km"
+},
+{
+"key": "feature_ppm.html#260",
+"zh": "到场时间"
+},
+{
+"key": "feature_ppm.html#261",
+"zh": "各部门到场时间（设备 → 制片 → 演员 → 客户）"
+},
+{
+"key": "feature_ppm.html#262",
+"zh": "制片06:30 · 摄影/灯光07:00 · 演员A 07:15 · 演员B 09:00 · 客户08:15"
+},
+{
+"key": "feature_ppm.html#263",
+"zh": "日程"
+},
+{
+"key": "feature_ppm.html#264",
+"zh": "当日时间表摘要（见上方条形图）"
+},
+{
+"key": "feature_ppm.html#265",
+"zh": "07:30 CUT 02 → 08:00 CUT 03 → 08:30 CUT 06 → 09:10 CUT 05 → 09:40 INS → 10:10 收工"
+},
+{
+"key": "feature_ppm.html#266",
+"zh": "演员"
+},
+{
+"key": "feature_ppm.html#267",
+"zh": "角色 · 演员 · 到场时间 · 化妆 · 服装 · 经纪人联系方式"
+},
+{
+"key": "feature_ppm.html#268",
+"zh": "A主角 · 07:15 · 化妆车 · LOOK 1 · 010-… / B同事 · 09:00 · LOOK 2"
+},
+{
+"key": "feature_ppm.html#269",
+"zh": "设备 · 美术"
+},
+{
+"key": "feature_ppm.html#270",
+"zh": "摄影机 · 镜头 · 灯光清单 · 道具负责人 · 产品数量"
+},
+{
+"key": "feature_ppm.html#271",
+"zh": "FX3 · 24/35/50/85/100M · LED 600 W + 灯管2支 · 产品6瓶（冷藏） · 甘油"
+},
+{
+"key": "feature_ppm.html#272",
+"zh": "安全 · 规则"
+},
+{
+"key": "feature_ppm.html#273",
+"zh": "危险因素 · 保险 · 3条片场规则"
+},
+{
+"key": "feature_ppm.html#274",
+"zh": "楼梯搬运设备须2人 · 用电不得超过3 kW · 实拍时机器停10分钟 · 吸烟仅限室外"
+},
+{
+"key": "feature_ppm.html#275",
+"zh": "应急预案"
+},
+{
+"key": "feature_ppm.html#276",
+"zh": "下雨 · 延误的判断标准与对策 · 备用日"
+},
+{
+"key": "feature_ppm.html#277",
+"zh": "07:30仍无直射阳光，改用主光LED · 延误2小时，CUT 05移到备用日 · 备用日4/13"
+},
+{
+"key": "feature_ppm.html#278",
+"zh": "<small>跨页 07 · 预算 · 风险 · 会议</small>预算科目与PPM会议规则"
+},
+{
+"key": "feature_ppm.html#279",
+"zh": "类别"
+},
+{
+"key": "feature_ppm.html#280",
+"zh": "项目"
+},
+{
+"key": "feature_ppm.html#281",
+"zh": "学生项目"
+},
+{
+"key": "feature_ppm.html#282",
+"zh": "小型广告"
+},
+{
+"key": "feature_ppm.html#283",
+"zh": "在PPM上敲定"
+},
+{
+"key": "feature_ppm.html#284",
+"zh": "人工"
+},
+{
+"key": "feature_ppm.html#285",
+"zh": "导演、摄影、灯光、剪辑"
+},
+{
+"key": "feature_ppm.html#286",
+"zh": "0（团队成员）"
+},
+{
+"key": "feature_ppm.html#287",
+"zh": "日薪"
+},
+{
+"key": "feature_ppm.html#288",
+"zh": "加班起算时间"
+},
+{
+"key": "feature_ppm.html#289",
+"zh": "演艺人员"
+},
+{
+"key": "feature_ppm.html#290",
+"zh": "模特、配音演员、群众演员"
+},
+{
+"key": "feature_ppm.html#291",
+"zh": "0到少量酬劳"
+},
+{
+"key": "feature_ppm.html#292",
+"zh": "按次签约"
+},
+{
+"key": "feature_ppm.html#293",
+"zh": "肖像权范围 · 期限"
+},
+{
+"key": "feature_ppm.html#294",
+"zh": "设备"
+},
+{
+"key": "feature_ppm.html#295",
+"zh": "摄影机、镜头、灯光、稳定器租赁"
+},
+{
+"key": "feature_ppm.html#296",
+"zh": "学校借用"
+},
+{
+"key": "feature_ppm.html#297",
+"zh": "按日租赁"
+},
+{
+"key": "feature_ppm.html#298",
+"zh": "损坏保险、归还时间"
+},
+{
+"key": "feature_ppm.html#299",
+"zh": "场地"
+},
+{
+"key": "feature_ppm.html#300",
+"zh": "租金、协助费"
+},
+{
+"key": "feature_ppm.html#301",
+"zh": "免费，靠人情"
+},
+{
+"key": "feature_ppm.html#302",
+"zh": "按小时计费"
+},
+{
+"key": "feature_ppm.html#303",
+"zh": "超时费、复原范围"
+},
+{
+"key": "feature_ppm.html#304",
+"zh": "美术"
+},
+{
+"key": "feature_ppm.html#305",
+"zh": "道具、服装、布景"
+},
+{
+"key": "feature_ppm.html#306",
+"zh": "实报实销"
+},
+{
+"key": "feature_ppm.html#307",
+"zh": "逐项列明"
+},
+{
+"key": "feature_ppm.html#308",
+"zh": "产品数量、耗材"
+},
+{
+"key": "feature_ppm.html#309",
+"zh": "后期"
+},
+{
+"key": "feature_ppm.html#310",
+"zh": "调色、混音、CG"
+},
+{
+"key": "feature_ppm.html#311",
+"zh": "自己完成"
+},
+{
+"key": "feature_ppm.html#312",
+"zh": "外包单价"
+},
+{
+"key": "feature_ppm.html#313",
+"zh": "修改次数（通常2次）"
+},
+{
+"key": "feature_ppm.html#314",
+"zh": "音乐"
+},
+{
+"key": "feature_ppm.html#315",
+"zh": "购买授权"
+},
+{
+"key": "feature_ppm.html#316",
+"zh": "共用订阅"
+},
+{
+"key": "feature_ppm.html#317",
+"zh": "按曲或订阅"
+},
+{
+"key": "feature_ppm.html#318",
+"zh": "媒体 · 使用期限"
+},
+{
+"key": "feature_ppm.html#319",
+"zh": "其他"
+},
+{
+"key": "feature_ppm.html#320",
+"zh": "餐饮、交通、保险"
+},
+{
+"key": "feature_ppm.html#321",
+"zh": "实报实销"
+},
+{
+"key": "feature_ppm.html#322",
+"zh": "总额的10%作预备金"
+},
+{
+"key": "feature_ppm.html#323",
+"zh": "<b>写明10%的预备金</b>"
+},
+{
+"key": "feature_ppm.html#324",
+"zh": "务必留出预备金"
+},
+{
+"key": "feature_ppm.html#325",
+"zh": "不留出总预算的10%作预备金，一旦遇上下雨、迟到、设备故障或补拍，项目就会当场停摆。在学生项目里，预留一个备用拍摄日也能起到同样的作用。"
+},
+{
+"key": "feature_ppm.html#326",
+"zh": "风险表 — 可能发生什么，发生了怎么办，谁来决定"
+},
+{
+"key": "feature_ppm.html#327",
+"zh": "风险"
+},
+{
+"key": "feature_ppm.html#328",
+"zh": "触发条件"
+},
+{
+"key": "feature_ppm.html#329",
+"zh": "对策"
+},
+{
+"key": "feature_ppm.html#330",
+"zh": "决定人"
+},
+{
+"key": "feature_ppm.html#331",
+"zh": "下雨 · 阴天（无直射阳光）"
+},
+{
+"key": "feature_ppm.html#332",
+"zh": "D-1的20时，降雨概率60%以上"
+},
+{
+"key": "feature_ppm.html#333",
+"zh": "用主光LED重现窗光，或启用备用日"
+},
+{
+"key": "feature_ppm.html#334",
+"zh": "导演 + 摄影指导"
+},
+{
+"key": "feature_ppm.html#335",
+"zh": "演员迟到 · 缺席"
+},
+{
+"key": "feature_ppm.html#336",
+"zh": "到场时间+30分钟仍联系不上"
+},
+{
+"key": "feature_ppm.html#337",
+"zh": "先拍插入镜头 · 产品镜头，联系候选人B"
+},
+{
+"key": "feature_ppm.html#338",
+"zh": "制片PD"
+},
+{
+"key": "feature_ppm.html#339",
+"zh": "设备故障"
+},
+{
+"key": "feature_ppm.html#340",
+"zh": "没有备用机身"
+},
+{
+"key": "feature_ppm.html#341",
+"zh": "向租赁公司紧急调换（联系方式见通告单）"
+},
+{
+"key": "feature_ppm.html#342",
+"zh": "摄影指导"
+},
+{
+"key": "feature_ppm.html#343",
+"zh": "场地租用超时"
+},
+{
+"key": "feature_ppm.html#344",
+"zh": "10:15前未撤完"
+},
+{
+"key": "feature_ppm.html#345",
+"zh": "事先商定30分钟的延时费"
+},
+{
+"key": "feature_ppm.html#346",
+"zh": "制片PD"
+},
+{
+"key": "feature_ppm.html#347",
+"zh": "客户在片场提出修改"
+},
+{
+"key": "feature_ppm.html#348",
+"zh": "分镜上没有的镜头"
+},
+{
+"key": "feature_ppm.html#349",
+"zh": "签署“追加镜头申请”后再拍；另行计费"
+},
+{
+"key": "feature_ppm.html#350",
+"zh": "制片PD + 客户"
+},
+{
+"key": "feature_ppm.html#351",
+"zh": "<span class=\"ph-id\">P06-TEAM2</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>监视器前的三个人 — 导演 · 摄影 · 制片看的是同一幅画面</b></span>"
+},
+{
+"key": "feature_ppm.html#352",
+"zh": "<b>注意</b>监视器前的三个人 — 导演 · 摄影 · 制片看的是同一幅画面"
+},
+{
+"key": "feature_ppm.html#353",
+"zh": "会议规则"
+},
+{
+"key": "feature_ppm.html#354",
+"zh": "<b>01</b><span>会议<b>48小时前</b>发出资料。没有人能对当场才第一次看到的资料做决定。</span>"
+},
+{
+"key": "feature_ppm.html#355",
+"zh": "<b>02</b><span>每个事项都标明<b>已定或待定</b>。凡是待定事项，都要记下负责人和期限。</span>"
+},
+{
+"key": "feature_ppm.html#356",
+"zh": "<b>03</b><span>参考素材一定要<b>一起在屏幕上</b>看。只用语言描述调性，每个人想象的都不一样。</span>"
+}
+]

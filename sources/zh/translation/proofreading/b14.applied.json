@@ -1,0 +1,8 @@
+[
+{"key": "part12.html#846", "find": "在外景地 · 片场 · LED墙 · 色键抠像+生成之间选择", "replace": "在外景地、片场、LED墙、色键抠像+生成之间选择", "why": "typography: enumeration comma in running prose, as in neighbouring items"},
+{"key": "part01.html#29", "find": "用长镜头留出余白的品牌片", "replace": "用长镜头留白的品牌片", "why": "other: unnatural wording (余白), 留白 used elsewhere"},
+{"key": "part01.html#136", "find": "在收集好镜头之前", "replace": "在收集优质镜头之前", "why": "meaning: 收集好 reads as 'finish collecting', 'good' lost"},
+{"key": "part01.html#365", "find": "在收集好素材之前", "replace": "在收集优质素材之前", "why": "meaning: 收集好 reads as 'finish collecting', 'good' lost"},
+{"key": "part01.html#152", "find": "特艺色彩", "replace": "特艺彩色", "why": "term: standard name of Technicolor"},
+{"key": "part01.html#159", "find": "特艺色彩", "replace": "特艺彩色", "why": "term: standard name of Technicolor"}
+]

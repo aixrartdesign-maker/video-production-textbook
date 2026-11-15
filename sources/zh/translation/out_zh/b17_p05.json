@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#252",
+"zh": "标题区"
+},
+{
+"key": "templates.html#253",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#254",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#255",
+"zh": "动作"
+},
+{
+"key": "templates.html#256",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#257",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#258",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#259",
+"zh": "标题区"
+},
+{
+"key": "templates.html#260",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#261",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#262",
+"zh": "动作"
+},
+{
+"key": "templates.html#263",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#264",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#265",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#266",
+"zh": "标题区"
+},
+{
+"key": "templates.html#267",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#268",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#269",
+"zh": "动作"
+},
+{
+"key": "templates.html#270",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#271",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#272",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#273",
+"zh": "标题区"
+},
+{
+"key": "templates.html#274",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#275",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#276",
+"zh": "动作"
+},
+{
+"key": "templates.html#277",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#278",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#279",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#280",
+"zh": "标题区"
+},
+{
+"key": "templates.html#281",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#282",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#283",
+"zh": "动作"
+},
+{
+"key": "templates.html#284",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#285",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#286",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#287",
+"zh": "标题区"
+},
+{
+"key": "templates.html#288",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#289",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#290",
+"zh": "动作"
+},
+{
+"key": "templates.html#291",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#292",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#293",
+"zh": "CUT 09"
+},
+{
+"key": "templates.html#294",
+"zh": "标题区"
+},
+{
+"key": "templates.html#295",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#296",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#297",
+"zh": "动作"
+},
+{
+"key": "templates.html#298",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#299",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#300",
+"zh": "酒红色虚线 = 标题区。一张卡片 = 一句话。9张卡片为一组。"
+},
+{
+"key": "templates.html#301",
+"zh": "分镜模板 · 4:5信息流"
+},
+{
+"key": "templates.html#302",
+"zh": "Instagram信息流最大高度 · 1080×1350"
+},
+{
+"key": "templates.html#303",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#304",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#305",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#306",
+"zh": "标题区"
+},
+{
+"key": "templates.html#307",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#308",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#309",
+"zh": "动作"
+},
+{
+"key": "templates.html#310",
+"zh": "SE"
+},
+{
+"key": "templates.html#311",
+"zh": "笔记"
+},
+{
+"key": "templates.html#312",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#313",
+"zh": "标题区"
+},
+{
+"key": "templates.html#314",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#315",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#316",
+"zh": "动作"
+},
+{
+"key": "templates.html#317",
+"zh": "SE"
+},
+{
+"key": "templates.html#318",
+"zh": "笔记"
+},
+{
+"key": "templates.html#319",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#320",
+"zh": "标题区"
+},
+{
+"key": "templates.html#321",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#322",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#323",
+"zh": "动作"
+},
+{
+"key": "templates.html#324",
+"zh": "SE"
+},
+{
+"key": "templates.html#325",
+"zh": "笔记"
+},
+{
+"key": "templates.html#326",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#327",
+"zh": "标题区"
+},
+{
+"key": "templates.html#328",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#329",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#330",
+"zh": "动作"
+},
+{
+"key": "templates.html#331",
+"zh": "SE"
+},
+{
+"key": "templates.html#332",
+"zh": "笔记"
+},
+{
+"key": "templates.html#333",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#334",
+"zh": "标题区"
+},
+{
+"key": "templates.html#335",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#336",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#337",
+"zh": "动作"
+},
+{
+"key": "templates.html#338",
+"zh": "SE"
+},
+{
+"key": "templates.html#339",
+"zh": "笔记"
+},
+{
+"key": "templates.html#340",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#341",
+"zh": "标题区"
+},
+{
+"key": "templates.html#342",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#343",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#344",
+"zh": "动作"
+},
+{
+"key": "templates.html#345",
+"zh": "SE"
+},
+{
+"key": "templates.html#346",
+"zh": "笔记"
+},
+{
+"key": "templates.html#347",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#348",
+"zh": "标题区"
+},
+{
+"key": "templates.html#349",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#350",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#351",
+"zh": "动作"
+},
+{
+"key": "templates.html#352",
+"zh": "SE"
+},
+{
+"key": "templates.html#353",
+"zh": "笔记"
+},
+{
+"key": "templates.html#354",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#355",
+"zh": "标题区"
+},
+{
+"key": "templates.html#356",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#357",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#358",
+"zh": "动作"
+},
+{
+"key": "templates.html#359",
+"zh": "SE"
+},
+{
+"key": "templates.html#360",
+"zh": "笔记"
+},
+{
+"key": "templates.html#361",
+"zh": "CUT 09"
+},
+{
+"key": "templates.html#362",
+"zh": "标题区"
+},
+{
+"key": "templates.html#363",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#364",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#365",
+"zh": "动作"
+},
+{
+"key": "templates.html#366",
+"zh": "SE"
+},
+{
+"key": "templates.html#367",
+"zh": "笔记"
+},
+{
+"key": "templates.html#368",
+"zh": "在信息流中显示面积最大的画幅比。16:9素材两侧会损失44%。"
+},
+{
+"key": "templates.html#369",
+"zh": "分镜模板 · 2:1 360·VR"
+},
+{
+"key": "templates.html#370",
+"zh": "等距柱状展开 — 环绕 · 4096×2048 · 7680×3840"
+},
+{
+"key": "templates.html#371",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#372",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#373",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#374",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#375",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#376",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#377",
+"zh": "动作"
+},
+{
+"key": "templates.html#378",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#379",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#380",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#381",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#382",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#383",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#384",
+"zh": "动作"
+},
+{
+"key": "templates.html#385",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#386",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#387",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#388",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#389",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#390",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#391",
+"zh": "动作"
+},
+{
+"key": "templates.html#392",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#393",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#394",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#395",
+"zh": "0°正面"
+},
+{
+"key": "templates.html#396",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#397",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#398",
+"zh": "动作"
+},
+{
+"key": "templates.html#399",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#400",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#401",
+"zh": "CUT 05"
+}
+]

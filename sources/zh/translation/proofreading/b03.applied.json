@@ -1,0 +1,6 @@
+[
+{"key": "feature_ppm.html#256", "find": "晴 12→19℃", "replace": "晴12→19℃", "why": "typography: no space between Chinese and digits"},
+{"key": "feature_ppm.html#268", "find": "A 主角", "replace": "A主角", "why": "typography: no space between Latin letter and Chinese"},
+{"key": "feature_ppm.html#268", "find": "B 同事", "replace": "B同事", "why": "typography: no space between Latin letter and Chinese"},
+{"key": "feature_ppm.html#291", "find": "0至少量酬劳", "replace": "0到少量酬劳", "why": "other: 0至少量 misreads as 至少 (at least)"}
+]

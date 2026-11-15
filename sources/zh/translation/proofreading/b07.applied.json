@@ -1,0 +1,7 @@
+[
+ {"key": "part05.html#347", "find": "人偶淀粉工具", "replace": "人偶固化工具", "why": "term: AE Starch tool = 人偶固化工具"},
+ {"key": "part05.html#726", "find": "频率，振幅", "replace": "频率, 振幅", "why": "typography: half-width comma in code syntax"},
+ {"key": "part05.html#729", "find": "loopOut('cycle')", "replace": "loopOut()", "why": "meaning: code changed from source"},
+ {"key": "part05.html#732", "find": "time * 数值", "replace": "time * value", "why": "other: value is an AE expression keyword"},
+ {"key": "part05.html#735", "find": "linear(t, tMin, tMax, 值1, 值2)", "replace": "linear(t, a, b, c, d)", "why": "meaning: code arguments changed from source"}
+]

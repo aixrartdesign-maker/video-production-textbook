@@ -1,0 +1,602 @@
+[
+{
+"key": "part14a.html#84",
+"zh": "拍摄日 / 镜头 / 条"
+},
+{
+"key": "part14a.html#85",
+"zh": "02_AUDIO"
+},
+{
+"key": "part14a.html#86",
+"zh": "D01_SC01_ROOMTONE.wav"
+},
+{
+"key": "part14a.html#87",
+"zh": "环境底噪与台词分开存放"
+},
+{
+"key": "part14a.html#88",
+"zh": "03_GRAPHICS"
+},
+{
+"key": "part14a.html#89",
+"zh": "LOGO_3D_v03.aep"
+},
+{
+"key": "part14a.html#90",
+"zh": "必须带版本号"
+},
+{
+"key": "part14a.html#91",
+"zh": "04_MUSIC"
+},
+{
+"key": "part14a.html#92",
+"zh": "BGM_main_licensed.wav"
+},
+{
+"key": "part14a.html#93",
+"zh": "文件名中注明授权状态"
+},
+{
+"key": "part14a.html#94",
+"zh": "05_EXPORT"
+},
+{
+"key": "part14a.html#95",
+"zh": "AD15_v05_20260315.mp4"
+},
+{
+"key": "part14a.html#96",
+"zh": "版本和日期"
+},
+{
+"key": "part14a.html#97",
+"zh": "06_DOCS"
+},
+{
+"key": "part14a.html#98",
+"zh": "PPM_final_signed.pdf"
+},
+{
+"key": "part14a.html#99",
+"zh": "保存审批文件"
+},
+{
+"key": "part14a.html#100",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#101",
+"zh": "安全与法律检查清单"
+},
+{
+"key": "part14a.html#102",
+"zh": "事故和纠纷，只能在拍摄前阻止。"
+},
+{
+"key": "part14a.html#103",
+"zh": "<b>注意</b>"
+},
+{
+"key": "part14a.html#104",
+"zh": "无人机飞行规定和拍摄许可手续因地区和时期而异。策划时，请自行向主管部门确认最新要求。"
+},
+{
+"key": "part14a.html#105",
+"zh": "领域"
+},
+{
+"key": "part14a.html#106",
+"zh": "检查内容"
+},
+{
+"key": "part14a.html#107",
+"zh": "用电安全"
+},
+{
+"key": "part14a.html#108",
+"zh": "检查插线板负载，灯具远离易燃物，绝不湿手操作，过道上的线缆用胶带固定"
+},
+{
+"key": "part14a.html#109",
+"zh": "器材安全"
+},
+{
+"key": "part14a.html#110",
+"zh": "每个灯架都压沙袋，高处器材双重固定，三脚架腿完全张开"
+},
+{
+"key": "part14a.html#111",
+"zh": "演职人员安全"
+},
+{
+"key": "part14a.html#112",
+"zh": "长时间拍摄安排休息，尽量缩短在高温灯光下的等待，禁止危险动作"
+},
+{
+"key": "part14a.html#113",
+"zh": "无人机操作"
+},
+{
+"key": "part14a.html#114",
+"zh": "确认可飞空域，事先获批，不在人群上空飞行，确认飞手资质"
+},
+{
+"key": "part14a.html#115",
+"zh": "肖像权"
+},
+{
+"key": "part14a.html#116",
+"zh": "书面出镜授权书，路人面部打码，未成年人须监护人同意"
+},
+{
+"key": "part14a.html#117",
+"zh": "场地与商标"
+},
+{
+"key": "part14a.html#118",
+"zh": "取得场地许可，管控画面中其他品牌的标志和招牌，为室内播放的音乐办妥授权"
+},
+{
+"key": "part14a.html#119",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#120",
+"zh": "后期制作与交付检查清单"
+},
+{
+"key": "part14a.html#121",
+"zh": "检查两遍：点导出之前和发送之前。"
+},
+{
+"key": "part14a.html#122",
+"zh": "后期制作检查"
+},
+{
+"key": "part14a.html#123",
+"zh": "交付检查"
+},
+{
+"key": "part14a.html#124",
+"zh": "所有镜头的色彩和亮度一致"
+},
+{
+"key": "part14a.html#125",
+"zh": "符合规格要求（分辨率、fps、编码格式）"
+},
+{
+"key": "part14a.html#126",
+"zh": "合成元素带有颗粒和阴影"
+},
+{
+"key": "part14a.html#127",
+"zh": "时长准确"
+},
+{
+"key": "part14a.html#128",
+"zh": "字幕已检查错别字和拼写"
+},
+{
+"key": "part14a.html#129",
+"zh": "遵守文件命名规则"
+},
+{
+"key": "part14a.html#130",
+"zh": "字幕在安全区内"
+},
+{
+"key": "part14a.html#131",
+"zh": "已在其他设备上检查播放"
+},
+{
+"key": "part14a.html#132",
+"zh": "响度均匀，无峰值过载"
+},
+{
+"key": "part14a.html#133",
+"zh": "附上音乐和字体的授权证明"
+},
+{
+"key": "part14a.html#134",
+"zh": "片头片尾没有残留黑帧"
+},
+{
+"key": "part14a.html#135",
+"zh": "项目文件和素材已备份"
+},
+{
+"key": "part14a.html#136",
+"zh": "最终检查方法"
+},
+{
+"key": "part14a.html#137",
+"zh": "方法"
+},
+{
+"key": "part14a.html#138",
+"zh": "检查什么"
+},
+{
+"key": "part14a.html#139",
+"zh": "用智能手机播放"
+},
+{
+"key": "part14a.html#140",
+"zh": "小屏幕上字幕和标志的可读性"
+},
+{
+"key": "part14a.html#141",
+"zh": "静音播放"
+},
+{
+"key": "part14a.html#142",
+"zh": "没有声音也能传达信息"
+},
+{
+"key": "part14a.html#143",
+"zh": "给第一次看的人放映1次"
+},
+{
+"key": "part14a.html#144",
+"zh": "对方能立刻说出讲的是什么"
+},
+{
+"key": "part14a.html#145",
+"zh": "以1.5倍速播放"
+},
+{
+"key": "part14a.html#146",
+"zh": "找出节奏拖沓的地方"
+},
+{
+"key": "part14a.html#147",
+"zh": "黑白播放"
+},
+{
+"key": "part14a.html#148",
+"zh": "检查反差和视线引导"
+},
+{
+"key": "part14a.html#149",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#150",
+"zh": "视频术语表"
+},
+{
+"key": "part14a.html#151",
+"zh": "正文中的关键术语，按韩文字母顺序排列。"
+},
+{
+"key": "part14a.html#152",
+"zh": "术语"
+},
+{
+"key": "part14a.html#153",
+"zh": "含义"
+},
+{
+"key": "part14a.html#154",
+"zh": "垃圾遮罩"
+},
+{
+"key": "part14a.html#155",
+"zh": "抠像前遮掉不需要的区域"
+},
+{
+"key": "part14a.html#156",
+"zh": "伽马"
+},
+{
+"key": "part14a.html#157",
+"zh": "调整中间调亮度的数值"
+},
+{
+"key": "part14a.html#158",
+"zh": "增益"
+},
+{
+"key": "part14a.html#159",
+"zh": "高光亮度，或信号放大的量"
+},
+{
+"key": "part14a.html#160",
+"zh": "颗粒"
+},
+{
+"key": "part14a.html#161",
+"zh": "模拟胶片颗粒的噪点"
+},
+{
+"key": "part14a.html#162",
+"zh": "动态范围"
+},
+{
+"key": "part14a.html#163",
+"zh": "能够记录的亮度范围"
+},
+{
+"key": "part14a.html#164",
+"zh": "叠化"
+},
+{
+"key": "part14a.html#165",
+"zh": "两个画面相互重叠的转场"
+},
+{
+"key": "part14a.html#166",
+"zh": "Log"
+},
+{
+"key": "part14a.html#167",
+"zh": "压缩宽广亮度范围的记录方式"
+},
+{
+"key": "part14a.html#168",
+"zh": "逐帧转描"
+},
+{
+"key": "part14a.html#169",
+"zh": "逐帧描出轮廓以分离主体"
+},
+{
+"key": "part14a.html#170",
+"zh": "查找表（LUT）"
+},
+{
+"key": "part14a.html#171",
+"zh": "色彩转换表"
+},
+{
+"key": "part14a.html#172",
+"zh": "环境底噪"
+},
+{
+"key": "part14a.html#173",
+"zh": "拍摄现场无声状态下的录音"
+},
+{
+"key": "part14a.html#174",
+"zh": "运动空间"
+},
+{
+"key": "part14a.html#175",
+"zh": "运动主体前方留出的空间"
+},
+{
+"key": "part14a.html#176",
+"zh": "母版"
+},
+{
+"key": "part14a.html#177",
+"zh": "最终的原始文件"
+},
+{
+"key": "part14a.html#178",
+"zh": "运动匹配"
+},
+{
+"key": "part14a.html#179",
+"zh": "反求摄影机运动，以便贴合3D元素"
+},
+{
+"key": "part14a.html#180",
+"zh": "场面调度"
+},
+{
+"key": "part14a.html#181",
+"zh": "画面内一切元素的安排"
+},
+{
+"key": "part14a.html#182",
+"zh": "轮廓光（逆光）"
+},
+{
+"key": "part14a.html#183",
+"zh": "从主体后方勾出轮廓的光"
+},
+{
+"key": "part14a.html#184",
+"zh": "散景"
+},
+{
+"key": "part14a.html#185",
+"zh": "焦外模糊呈现的质感"
+},
+{
+"key": "part14a.html#186",
+"zh": "安全区"
+},
+{
+"key": "part14a.html#187",
+"zh": "画面中不会被裁掉的部分"
+},
+{
+"key": "part14a.html#188",
+"zh": "快门角度"
+},
+{
+"key": "part14a.html#189",
+"zh": "用角度表示的每帧曝光时间"
+},
+{
+"key": "part14a.html#190",
+"zh": "溢色"
+},
+{
+"key": "part14a.html#191",
+"zh": "抠像色溢到主体上"
+},
+{
+"key": "part14a.html#192",
+"zh": "段落"
+},
+{
+"key": "part14a.html#193",
+"zh": "服务于同一目的的一组场景"
+},
+{
+"key": "part14a.html#194",
+"zh": "Ambisonics"
+},
+{
+"key": "part14a.html#195",
+"zh": "360度空间音频录制格式"
+},
+{
+"key": "part14a.html#196",
+"zh": "定场镜头"
+},
+{
+"key": "part14a.html#197",
+"zh": "交代场景地点和情境的开场镜头"
+},
+{
+"key": "part14a.html#198",
+"zh": "升格拍摄"
+},
+{
+"key": "part14a.html#199",
+"zh": "高速拍摄，用于慢动作"
+},
+{
+"key": "part14a.html#200",
+"zh": "插入镜头"
+},
+{
+"key": "part14a.html#201",
+"zh": "近距离展示细节的辅助镜头"
+},
+{
+"key": "part14a.html#202",
+"zh": "跳切"
+},
+{
+"key": "part14a.html#203",
+"zh": "在同一构图内跳过时间的剪辑"
+},
+{
+"key": "part14a.html#204",
+"zh": "光比"
+},
+{
+"key": "part14a.html#205",
+"zh": "主光与辅光的亮度比"
+},
+{
+"key": "part14a.html#206",
+"zh": "覆盖拍摄"
+},
+{
+"key": "part14a.html#207",
+"zh": "用多种景别和角度把一场戏拍得多完整"
+},
+{
+"key": "part14a.html#208",
+"zh": "连贯性"
+},
+{
+"key": "part14a.html#209",
+"zh": "镜头与镜头之间的一致性"
+},
+{
+"key": "part14a.html#210",
+"zh": "色度抽样"
+},
+{
+"key": "part14a.html#211",
+"zh": "减少色彩信息记录量的压缩方式"
+},
+{
+"key": "part14a.html#212",
+"zh": "关键帧"
+},
+{
+"key": "part14a.html#213",
+"zh": "标记数值发生变化的点"
+},
+{
+"key": "part14a.html#214",
+"zh": "时间码"
+},
+{
+"key": "part14a.html#215",
+"zh": "以“时:分:秒:帧”表示的位置"
+},
+{
+"key": "part14a.html#216",
+"zh": "轨道遮罩"
+},
+{
+"key": "part14a.html#217",
+"zh": "用另一图层的形状裁出图层"
+},
+{
+"key": "part14a.html#218",
+"zh": "似动现象"
+},
+{
+"key": "part14a.html#219",
+"zh": "大脑用运动填补静止画面之间空隙的现象"
+},
+{
+"key": "part14a.html#220",
+"zh": "代理文件"
+},
+{
+"key": "part14a.html#221",
+"zh": "剪辑用的轻量替身文件"
+},
+{
+"key": "part14a.html#222",
+"zh": "预合成"
+},
+{
+"key": "part14a.html#223",
+"zh": "把多个图层合为一个"
+},
+{
+"key": "part14a.html#224",
+"zh": "辅光"
+},
+{
+"key": "part14a.html#225",
+"zh": "控制阴影深浅的辅助光"
+},
+{
+"key": "part14a.html#226",
+"zh": "头顶空间"
+},
+{
+"key": "part14a.html#227",
+"zh": "头部上方的空间"
+},
+{
+"key": "part14a.html#228",
+"zh": "白平衡"
+},
+{
+"key": "part14a.html#229",
+"zh": "设定色温基准"
+},
+{
+"key": "part14a.html#230",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#231",
+"zh": "键盘快捷键"
+},
+{
+"key": "part14a.html#232",
+"zh": "贴在显示器旁边，直到手记住为止。"
+},
+{
+"key": "part14a.html#233",
+"zh": "Premiere Pro"
+}
+]

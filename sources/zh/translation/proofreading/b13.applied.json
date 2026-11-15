@@ -1,0 +1,10 @@
+[
+ {"key": "part12.html#419", "find": "韩国雇用信息院", "replace": "韩国雇佣信息院", "why": "term: standard Chinese name of the institute"},
+ {"key": "part12.html#436", "find": "时装创业公司的代表搭档", "replace": "时装创业公司的CEO搭档", "why": "other: 代表 is a Korean calque for company head"},
+ {"key": "part12.html#438", "find": "随时招聘和经验者招聘增多", "replace": "滚动招聘和有经验者招聘增多", "why": "other: unnatural calque (经验者)"},
+ {"key": "part12.html#582", "find": "雇用劳动部", "replace": "雇佣劳动部", "why": "term: standard Chinese name of the ministry"},
+ {"key": "part12.html#584", "find": "创业公司 · 经验者 · 内推招聘", "replace": "创业公司 · 有经验者 · 内推招聘", "why": "other: unnatural calque (经验者)"},
+ {"key": "part12.html#585", "find": "自由职业零单", "replace": "自由职业零活", "why": "typo: 零单 not idiomatic for gigs"},
+ {"key": "part12.html#589", "find": "培训费用国民明日学习卡解决", "replace": "培训费用可用国民明日学习卡解决", "why": "grammar: missing verb"},
+ {"key": "part12.html#777", "find": "固定为 01_策划", "replace": "固定为01_策划", "why": "typography: no space between Chinese and digits"}
+]

@@ -1,0 +1,8 @@
+[
+{"key": "part06.html#291", "find": "0–3 s 快门声", "replace": "0–3 s快门声", "why": "typography: no space between Latin and Chinese"},
+{"key": "part06.html#291", "find": "3–45 s 用8个", "replace": "3–45 s用8个", "why": "typography: no space between Latin and Chinese"},
+{"key": "part06.html#291", "find": "45–60 s 系名", "replace": "45–60 s系名", "why": "typography: no space between Latin and Chinese"},
+{"key": "part06.html#342", "find": "构建后期", "replace": "主导后期", "why": "other: unnatural phrasing for 'shapes post'"},
+{"key": "part03.html#261", "find": "开大光圈 f/1.4", "replace": "开大光圈f/1.4", "why": "typography: no space between Chinese and Latin"},
+{"key": "part03.html#261", "find": "用更长的焦距 85→200 mm", "replace": "用更长的焦距85→200 mm", "why": "typography: no space between Chinese and digits"}
+]

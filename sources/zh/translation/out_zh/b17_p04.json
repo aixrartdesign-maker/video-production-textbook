@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#102",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#103",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#104",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#105",
+"zh": "动作"
+},
+{
+"key": "templates.html#106",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#107",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#108",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#109",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#110",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#111",
+"zh": "动作"
+},
+{
+"key": "templates.html#112",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#113",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#114",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#115",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#116",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#117",
+"zh": "动作"
+},
+{
+"key": "templates.html#118",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#119",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#120",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#121",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#122",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#123",
+"zh": "动作"
+},
+{
+"key": "templates.html#124",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#125",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#126",
+"zh": "CUT 09"
+},
+{
+"key": "templates.html#127",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#128",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#129",
+"zh": "动作"
+},
+{
+"key": "templates.html#130",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#131",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#132",
+"zh": "以16:9交付时加遮幅。一个镜头容纳两个人；空出的宽度在讲故事。"
+},
+{
+"key": "templates.html#133",
+"zh": "分镜模板 · 9:16"
+},
+{
+"key": "templates.html#134",
+"zh": "Reels·Shorts·TikTok — 竖版默认 · 1080×1920"
+},
+{
+"key": "templates.html#135",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#136",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#137",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#138",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#139",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#140",
+"zh": "动作"
+},
+{
+"key": "templates.html#141",
+"zh": "SE"
+},
+{
+"key": "templates.html#142",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#143",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#144",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#145",
+"zh": "动作"
+},
+{
+"key": "templates.html#146",
+"zh": "SE"
+},
+{
+"key": "templates.html#147",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#148",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#149",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#150",
+"zh": "动作"
+},
+{
+"key": "templates.html#151",
+"zh": "SE"
+},
+{
+"key": "templates.html#152",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#153",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#154",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#155",
+"zh": "动作"
+},
+{
+"key": "templates.html#156",
+"zh": "SE"
+},
+{
+"key": "templates.html#157",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#158",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#159",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#160",
+"zh": "动作"
+},
+{
+"key": "templates.html#161",
+"zh": "SE"
+},
+{
+"key": "templates.html#162",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#163",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#164",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#165",
+"zh": "动作"
+},
+{
+"key": "templates.html#166",
+"zh": "SE"
+},
+{
+"key": "templates.html#167",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#168",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#169",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#170",
+"zh": "动作"
+},
+{
+"key": "templates.html#171",
+"zh": "SE"
+},
+{
+"key": "templates.html#172",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#173",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#174",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#175",
+"zh": "动作"
+},
+{
+"key": "templates.html#176",
+"zh": "SE"
+},
+{
+"key": "templates.html#177",
+"zh": "CUT 09"
+},
+{
+"key": "templates.html#178",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#179",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#180",
+"zh": "动作"
+},
+{
+"key": "templates.html#181",
+"zh": "SE"
+},
+{
+"key": "templates.html#182",
+"zh": "灰色 = 平台UI遮挡（顶部14%·底部25%·右侧按钮）。脸放在上1/3，字幕放在中间带。"
+},
+{
+"key": "templates.html#183",
+"zh": "分镜模板 · 9:21"
+},
+{
+"key": "templates.html#184",
+"zh": "竖版LED·数字标牌 — 立柱 · 1080×2520"
+},
+{
+"key": "templates.html#185",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#186",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#187",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#188",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#189",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#190",
+"zh": "动作"
+},
+{
+"key": "templates.html#191",
+"zh": "SE"
+},
+{
+"key": "templates.html#192",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#193",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#194",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#195",
+"zh": "动作"
+},
+{
+"key": "templates.html#196",
+"zh": "SE"
+},
+{
+"key": "templates.html#197",
+"zh": "CUT 03"
+},
+{
+"key": "templates.html#198",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#199",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#200",
+"zh": "动作"
+},
+{
+"key": "templates.html#201",
+"zh": "SE"
+},
+{
+"key": "templates.html#202",
+"zh": "CUT 04"
+},
+{
+"key": "templates.html#203",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#204",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#205",
+"zh": "动作"
+},
+{
+"key": "templates.html#206",
+"zh": "SE"
+},
+{
+"key": "templates.html#207",
+"zh": "CUT 05"
+},
+{
+"key": "templates.html#208",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#209",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#210",
+"zh": "动作"
+},
+{
+"key": "templates.html#211",
+"zh": "SE"
+},
+{
+"key": "templates.html#212",
+"zh": "CUT 06"
+},
+{
+"key": "templates.html#213",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#214",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#215",
+"zh": "动作"
+},
+{
+"key": "templates.html#216",
+"zh": "SE"
+},
+{
+"key": "templates.html#217",
+"zh": "CUT 07"
+},
+{
+"key": "templates.html#218",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#219",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#220",
+"zh": "动作"
+},
+{
+"key": "templates.html#221",
+"zh": "SE"
+},
+{
+"key": "templates.html#222",
+"zh": "CUT 08"
+},
+{
+"key": "templates.html#223",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#224",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#225",
+"zh": "动作"
+},
+{
+"key": "templates.html#226",
+"zh": "SE"
+},
+{
+"key": "templates.html#227",
+"zh": "CUT 09"
+},
+{
+"key": "templates.html#228",
+"zh": "SIZE"
+},
+{
+"key": "templates.html#229",
+"zh": "MOVE"
+},
+{
+"key": "templates.html#230",
+"zh": "动作"
+},
+{
+"key": "templates.html#231",
+"zh": "SE"
+},
+{
+"key": "templates.html#232",
+"zh": "调度由上→下展开。观看距离2 m以上 → 文字至少60 px。"
+},
+{
+"key": "templates.html#233",
+"zh": "分镜模板 · 1:1轮播"
+},
+{
+"key": "templates.html#234",
+"zh": "信息流·轮播 — 方形 · 1080×1080"
+},
+{
+"key": "templates.html#235",
+"zh": "项目____________  场____  页___/___"
+},
+{
+"key": "templates.html#236",
+"zh": "导演________  日期________  版本v___"
+},
+{
+"key": "templates.html#237",
+"zh": "CUT 01"
+},
+{
+"key": "templates.html#238",
+"zh": "标题区"
+},
+{
+"key": "templates.html#239",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#240",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#241",
+"zh": "动作"
+},
+{
+"key": "templates.html#242",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#243",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#244",
+"zh": "CUT 02"
+},
+{
+"key": "templates.html#245",
+"zh": "标题区"
+},
+{
+"key": "templates.html#246",
+"zh": "SIZE / 角度 / 焦距"
+},
+{
+"key": "templates.html#247",
+"zh": "MOVE / TR"
+},
+{
+"key": "templates.html#248",
+"zh": "动作"
+},
+{
+"key": "templates.html#249",
+"zh": "N · SYNC"
+},
+{
+"key": "templates.html#250",
+"zh": "M · SE"
+},
+{
+"key": "templates.html#251",
+"zh": "CUT 03"
+}
+]

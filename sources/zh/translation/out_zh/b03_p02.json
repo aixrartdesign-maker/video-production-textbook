@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#251",
+"zh": "<small>跨页 10</small>全部标记符号 — 一张可以照抄作图例的表"
+},
+{
+"key": "feature_storyboard.html#252",
+"zh": "<small>景别</small>ELS · LS · FS · KS · MS · MCU · BS · CU · ECU"
+},
+{
+"key": "feature_storyboard.html#253",
+"zh": "大远景 / 远景 / 全景 / 中全景 / 中景"
+},
+{
+"key": "feature_storyboard.html#254",
+"zh": "中近景 / 近景 / 特写 / 大特写"
+},
+{
+"key": "feature_storyboard.html#255",
+"zh": "人数：1S · 2S · 3S · GS（群像）"
+},
+{
+"key": "feature_storyboard.html#256",
+"zh": "情境：OSS（过肩） · POV（主观视点） · INS（插入） · CA（切出）"
+},
+{
+"key": "feature_storyboard.html#257",
+"zh": "<small>角度 · 视点</small>EYE · HA · LA · BEV · WEV · DUTCH"
+},
+{
+"key": "feature_storyboard.html#258",
+"zh": "平视 / 俯拍 / 仰拍"
+},
+{
+"key": "feature_storyboard.html#259",
+"zh": "鸟瞰 / 虫视"
+},
+{
+"key": "feature_storyboard.html#260",
+"zh": "DUTCH（倾斜） — 同时标明角度：DUTCH 15°"
+},
+{
+"key": "feature_storyboard.html#261",
+"zh": "镜头：焦距以mm标注，或写W（广角） · N（标准） · T（长焦）"
+},
+{
+"key": "feature_storyboard.html#262",
+"zh": "类别"
+},
+{
+"key": "feature_storyboard.html#263",
+"zh": "标记"
+},
+{
+"key": "feature_storyboard.html#264",
+"zh": "读法"
+},
+{
+"key": "feature_storyboard.html#265",
+"zh": "片场做法"
+},
+{
+"key": "feature_storyboard.html#266",
+"zh": "运动"
+},
+{
+"key": "feature_storyboard.html#267",
+"zh": "DOLLY IN（慢）"
+},
+{
+"key": "feature_storyboard.html#268",
+"zh": "缓慢推近"
+},
+{
+"key": "feature_storyboard.html#269",
+"zh": "滑轨，5秒移动2 m"
+},
+{
+"key": "feature_storyboard.html#270",
+"zh": "运动"
+},
+{
+"key": "feature_storyboard.html#271",
+"zh": "PAN R 90"
+},
+{
+"key": "feature_storyboard.html#272",
+"zh": "向右横摇90度"
+},
+{
+"key": "feature_storyboard.html#273",
+"zh": "云台转动；锁定起点和终点"
+},
+{
+"key": "feature_storyboard.html#274",
+"zh": "运动"
+},
+{
+"key": "feature_storyboard.html#275",
+"zh": "TILT U 从脚到脸"
+},
+{
+"key": "feature_storyboard.html#276",
+"zh": "从脚向上纵摇到脸"
+},
+{
+"key": "feature_storyboard.html#277",
+"zh": "匀速，结尾停0.5 s"
+},
+{
+"key": "feature_storyboard.html#278",
+"zh": "运动"
+},
+{
+"key": "feature_storyboard.html#279",
+"zh": "TRACK L 跟随被摄体"
+},
+{
+"key": "feature_storyboard.html#280",
+"zh": "与被摄体并行，向左跟拍"
+},
+{
+"key": "feature_storyboard.html#281",
+"zh": "稳定器，配合被摄体的步速"
+},
+{
+"key": "feature_storyboard.html#282",
+"zh": "运动"
+},
+{
+"key": "feature_storyboard.html#283",
+"zh": "ARC R 180"
+},
+{
+"key": "feature_storyboard.html#284",
+"zh": "向右作半圆弧移动"
+},
+{
+"key": "feature_storyboard.html#285",
+"zh": "以产品为中心，保持半径不变"
+},
+{
+"key": "feature_storyboard.html#286",
+"zh": "运动"
+},
+{
+"key": "feature_storyboard.html#287",
+"zh": "HH（轻微） · LOCKED"
+},
+{
+"key": "feature_storyboard.html#288",
+"zh": "轻微手持 · 完全固定"
+},
+{
+"key": "feature_storyboard.html#289",
+"zh": "呼吸般的轻晃 · 上三脚架，供合成用的基准镜头"
+},
+{
+"key": "feature_storyboard.html#290",
+"zh": "转场"
+},
+{
+"key": "feature_storyboard.html#291",
+"zh": "CUT TO · DIS · FI · FO"
+},
+{
+"key": "feature_storyboard.html#292",
+"zh": "硬切 · 叠化 · 淡入/淡出"
+},
+{
+"key": "feature_storyboard.html#293",
+"zh": "瞬间切换 · 柔和过渡（时长以秒标注）"
+},
+{
+"key": "feature_storyboard.html#294",
+"zh": "转场"
+},
+{
+"key": "feature_storyboard.html#295",
+"zh": "WIPE · MATCH · J/L CUT"
+},
+{
+"key": "feature_storyboard.html#296",
+"zh": "划像 · 匹配剪辑 · 声音先入/后出"
+},
+{
+"key": "feature_storyboard.html#297",
+"zh": "以形状衔接的转场 · 标明声音提前/延后"
+},
+{
+"key": "feature_storyboard.html#298",
+"zh": "后期"
+},
+{
+"key": "feature_storyboard.html#299",
+"zh": "INS · CG · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#300",
+"zh": "插入镜头 · 电脑图形 · 视觉特效 · 特殊效果"
+},
+{
+"key": "feature_storyboard.html#301",
+"zh": "追踪标记点和光线方向在片场另行记录"
+},
+{
+"key": "feature_storyboard.html#302",
+"zh": "语言"
+},
+{
+"key": "feature_storyboard.html#303",
+"zh": "N · V.O. · O.S. · SYNC"
+},
+{
+"key": "feature_storyboard.html#304",
+"zh": "旁白 · 内心独白 · 画外台词 · 同期台词"
+},
+{
+"key": "feature_storyboard.html#305",
+"zh": "N：每个清晨，不一样的开始。 / SYNC Minseo：真不错。"
+},
+{
+"key": "feature_storyboard.html#306",
+"zh": "文字"
+},
+{
+"key": "feature_storyboard.html#307",
+"zh": "CAP · SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#308",
+"zh": "字幕 · 叠印字 · 品牌结语"
+},
+{
+"key": "feature_storyboard.html#309",
+"zh": "CAP：今天就试试 / TAG：今天也是，品牌名"
+},
+{
+"key": "feature_storyboard.html#310",
+"zh": "声音"
+},
+{
+"key": "feature_storyboard.html#311",
+"zh": "M · SE · ATM · MUTE"
+},
+{
+"key": "feature_storyboard.html#312",
+"zh": "音乐 · 音效 · 环境声 · 静音"
+},
+{
+"key": "feature_storyboard.html#313",
+"zh": "M的进/出点，dB备注"
+},
+{
+"key": "feature_storyboard.html#314",
+"zh": "<b>注意</b>"
+},
+{
+"key": "feature_storyboard.html#315",
+"zh": "韩语旁白每秒约3个字。上限：一支15秒广告35–45字，1分钟视频150–180字。"
+},
+{
+"key": "feature_storyboard.html#316",
+"zh": "不要让字幕和旁白一模一样。字幕只放关键词，旁白用完整的句子。按静音观看来设计，字幕放在安全区内。符号在团队内必须统一，图例放在第一格。"
+},
+{
+"key": "feature_storyboard.html#317",
+"zh": "<small>练习</small>2.1"
+},
+{
+"key": "feature_storyboard.html#318",
+"zh": "任务"
+},
+{
+"key": "feature_storyboard.html#319",
+"zh": "为一支30秒视频画8格以上的分镜，做16:9和9:16两个版本。"
+},
+{
+"key": "feature_storyboard.html#320",
+"zh": "提示"
+},
+{
+"key": "feature_storyboard.html#321",
+"zh": "景别、方向和运动箭头比画功更重要。竖版分镜通常需要更多镜头。"
+},
+{
+"key": "feature_storyboard.html#322",
+"zh": "评价"
+},
+{
+"key": "feature_storyboard.html#323",
+"zh": "分镜格之间的衔接、摄影机标记、两种画幅比的构图差异"
+},
+{
+"key": "feature_storyboard.html#324",
+"zh": "参考答案"
+},
+{
+"key": "feature_storyboard.html#325",
+"zh": "拍下分镜，把分镜格串成动态分镜，检验时间节奏。"
+},
+{
+"key": "feature_storyboard.html#326",
+"zh": "<small>练习</small>2.1"
+},
+{
+"key": "feature_storyboard.html#327",
+"zh": "任务"
+},
+{
+"key": "feature_storyboard.html#328",
+"zh": "做一个模板，把分镜格的九项要素（编号 · 时间 · 画面 · 景别/角度 · 运动 · 动作说明 · 台词 · 声音 · 转场）全部填好，再为360或AR版本另外设计一格。"
+},
+{
+"key": "feature_storyboard.html#329",
+"zh": "提示"
+},
+{
+"key": "feature_storyboard.html#330",
+"zh": "文字大小和分镜格版式，要以在片场读它的人为准。360分镜格还要配一张视点示意图。"
+},
+{
+"key": "feature_storyboard.html#331",
+"zh": "评价"
+},
+{
+"key": "feature_storyboard.html#332",
+"zh": "信息的完整度、片场可用性、与媒介的契合度"
+},
+{
+"key": "feature_storyboard.html#333",
+"zh": "参考答案"
+},
+{
+"key": "feature_storyboard.html#334",
+"zh": "检验一下：队友不听任何解释，能否读懂并照着拍？"
+},
+{
+"key": "feature_storyboard.html#335",
+"zh": "<small>练习</small>2.1"
+},
+{
+"key": "feature_storyboard.html#336",
+"zh": "任务"
+},
+{
+"key": "feature_storyboard.html#337",
+"zh": "用三轨（画面 · 语言 · 声音）画一页分镜，用上所有符号：横摇、变焦、移动推拉、跟拍以及各种转场。"
+},
+{
+"key": "feature_storyboard.html#338",
+"zh": "提示"
+},
+{
+"key": "feature_storyboard.html#339",
+"zh": "符号在团队内必须统一。图例放在第一格。按每秒3个字换算旁白长度，确定各轨的宽度。"
+},
+{
+"key": "feature_storyboard.html#340",
+"zh": "评价"
+},
+{
+"key": "feature_storyboard.html#341",
+"zh": "符号使用的准确性、声音与镜头边界的对齐"
+},
+{
+"key": "feature_storyboard.html#342",
+"zh": "参考答案"
+},
+{
+"key": "feature_storyboard.html#343",
+"zh": "清晰到只凭符号就能重现摄影机运动。"
+},
+{
+"key": "feature_ppm.html#0",
+"zh": "专题 · 拍摄前会议"
+},
+{
+"key": "feature_ppm.html#1",
+"zh": "PPM，<br>开拍前的最后一次约定"
+},
+{
+"key": "feature_ppm.html#2",
+"zh": "PPM即拍摄前会议（pre-production meeting）。它既是开拍前由客户、策划、导演、制片敲定所有决定的会议，也是记录这次会议的文件。获批的PPM文件，是日后一切争议的依据。没有记录的口头约定等于不存在。本专题将逐页讲解一份PPM文件。"
+},
+{
+"key": "feature_ppm.html#3",
+"zh": "同样的修改，因时机不同，成本最多相差50倍"
+},
+{
+"key": "feature_ppm.html#4",
+"zh": "纸面上的修改 — 成本只有时间"
+},
+{
+"key": "feature_ppm.html#5",
+"zh": "牵动人员·设备·日程"
+},
+{
+"key": "feature_ppm.html#6",
+"zh": "概念"
+},
+{
+"key": "feature_ppm.html#7",
+"zh": "分镜"
+},
+{
+"key": "feature_ppm.html#8",
+"zh": "PPM"
+},
+{
+"key": "feature_ppm.html#9",
+"zh": "拍摄日"
+},
+{
+"key": "feature_ppm.html#10",
+"zh": "后期制作"
+},
+{
+"key": "feature_ppm.html#11",
+"zh": "← 成本曲线陡升前的最后一段平缓区"
+},
+{
+"key": "feature_ppm.html#12",
+"zh": "<b>图 59</b> 各制作阶段的修改成本 — 同样的修改，因时机不同，成本最多相差50倍。PPM是成本曲线陡升前的最后一段平缓区。"
+},
+{
+"key": "feature_ppm.html#13",
+"zh": "<b>48<em>小时</em></b>会前发送资料的期限"
+},
+{
+"key": "feature_ppm.html#14",
+"zh": "<b>12<em>项</em></b>PPM文件的必备内容"
+},
+{
+"key": "feature_ppm.html#15",
+"zh": "<b>5<em>倍</em></b>PPM阶段的修改成本（概念阶段 = 1）"
+},
+{
+"key": "feature_ppm.html#16",
+"zh": "<b>1<em>条规则</em></b>散会条件 — 每个人都能说出自己“当天的任务”"
+},
+{
+"key": "feature_ppm.html#17",
+"zh": "<span class=\"ph-id\">P06-PPM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>PPM会议 — 分镜 · 情绪板 · 日程表摆在同一张桌上</b></span>"
+},
+{
+"key": "feature_ppm.html#18",
+"zh": "<b>注意</b>PPM会议 — 分镜 · 情绪板 · 日程表摆在同一张桌上"
+},
+{
+"key": "feature_ppm.html#19",
+"zh": "PPM文件的十二页 — 页面顺序就是会议顺序"
+},
+{
+"key": "feature_ppm.html#20",
+"zh": "项目"
+},
+{
+"key": "feature_ppm.html#21",
+"zh": "内容"
+},
+{
+"key": "feature_ppm.html#22",
+"zh": "批准人"
+},
+{
+"key": "feature_ppm.html#23",
+"zh": "本专题中的示例"
+},
+{
+"key": "feature_ppm.html#24",
+"zh": "策划意图"
+},
+{
+"key": "feature_ppm.html#25",
+"zh": "一句话概念、目标受众、核心信息"
+},
+{
+"key": "feature_ppm.html#26",
+"zh": "客户"
+},
+{
+"key": "feature_ppm.html#27",
+"zh": "分镜"
+},
+{
+"key": "feature_ppm.html#28",
+"zh": "最终镜头表与时长、动态分镜"
+},
+{
+"key": "feature_ppm.html#29",
+"zh": "客户、导演"
+},
+{
+"key": "feature_ppm.html#30",
+"zh": "2.1 专题"
+},
+{
+"key": "feature_ppm.html#31",
+"zh": "导演意图 · 调性"
+},
+{
+"key": "feature_ppm.html#32",
+"zh": "光 · 色 · 质感 · 节奏的关键词，参考视频"
+},
+{
+"key": "feature_ppm.html#33",
+"zh": "导演"
+},
+{
+"key": "feature_ppm.html#34",
+"zh": "跨页 01"
+},
+{
+"key": "feature_ppm.html#35",
+"zh": "选角"
+},
+{
+"key": "feature_ppm.html#36",
+"zh": "候选模特与最终人选、合同条款"
+},
+{
+"key": "feature_ppm.html#37",
+"zh": "客户"
+},
+{
+"key": "feature_ppm.html#38",
+"zh": "跨页 03"
+},
+{
+"key": "feature_ppm.html#39",
+"zh": "场地"
+},
+{
+"key": "feature_ppm.html#40",
+"zh": "候选场地照片、动线规划、许可"
+},
+{
+"key": "feature_ppm.html#41",
+"zh": "制片"
+},
+{
+"key": "feature_ppm.html#42",
+"zh": "跨页 02"
+},
+{
+"key": "feature_ppm.html#43",
+"zh": "美术 · 道具 · 场面调度"
+},
+{
+"key": "feature_ppm.html#44",
+"zh": "布景、道具、产品准备清单、画面内物件分布图"
+},
+{
+"key": "feature_ppm.html#45",
+"zh": "美术"
+},
+{
+"key": "feature_ppm.html#46",
+"zh": "跨页 04"
+},
+{
+"key": "feature_ppm.html#47",
+"zh": "服装 · 造型"
+},
+{
+"key": "feature_ppm.html#48",
+"zh": "服装方案，发型 · 化妆方向"
+},
+{
+"key": "feature_ppm.html#49",
+"zh": "造型师"
+},
+{
+"key": "feature_ppm.html#50",
+"zh": "跨页 04"
+},
+{
+"key": "feature_ppm.html#51",
+"zh": "拍摄方案"
+},
+{
+"key": "feature_ppm.html#52",
+"zh": "摄影机、镜头、灯光、特种设备"
+},
+{
+"key": "feature_ppm.html#53",
+"zh": "摄影指导"
+},
+{
+"key": "feature_ppm.html#54",
+"zh": "PART 3 · 4"
+},
+{
+"key": "feature_ppm.html#55",
+"zh": "声音方案"
+},
+{
+"key": "feature_ppm.html#56",
+"zh": "音乐备选、配音演员、音效"
+}
+]

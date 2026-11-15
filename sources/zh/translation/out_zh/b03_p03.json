@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#57",
+"zh": "导演"
+},
+{
+"key": "feature_ppm.html#58",
+"zh": "2.1 跨页 08"
+},
+{
+"key": "feature_ppm.html#59",
+"zh": "后期制作方案"
+},
+{
+"key": "feature_ppm.html#60",
+"zh": "CG范围、合成方式、调色方向"
+},
+{
+"key": "feature_ppm.html#61",
+"zh": "后期总监"
+},
+{
+"key": "feature_ppm.html#62",
+"zh": "PART 5"
+},
+{
+"key": "feature_ppm.html#63",
+"zh": "日程"
+},
+{
+"key": "feature_ppm.html#64",
+"zh": "拍摄日期、当日时间表、通告单、备用日"
+},
+{
+"key": "feature_ppm.html#65",
+"zh": "制片"
+},
+{
+"key": "feature_ppm.html#66",
+"zh": "跨页 05 · 06"
+},
+{
+"key": "feature_ppm.html#67",
+"zh": "预算与风险"
+},
+{
+"key": "feature_ppm.html#68",
+"zh": "分项预算、雨天预案、替代方案"
+},
+{
+"key": "feature_ppm.html#69",
+"zh": "制片、客户"
+},
+{
+"key": "feature_ppm.html#70",
+"zh": "跨页 07"
+},
+{
+"key": "feature_ppm.html#71",
+"zh": "<small>跨页 01 · 导演意图</small>调性板 — 把形容词变成数值的一页"
+},
+{
+"key": "feature_ppm.html#72",
+"zh": "“温暖而精致”算不上共识。调性板把形容词换算成<b>色温、对比度、饱和度、质感、节奏</b>这些可测量的数值，让摄影、美术、后期盯着同一组数字。参考素材一定要大家一起在屏幕上看。只用语言描述调性，每个人想象的都不一样。"
+},
+{
+"key": "feature_ppm.html#73",
+"zh": "调性板 · 晨间饮品15 s"
+},
+{
+"key": "feature_ppm.html#74",
+"zh": "<b>光</b><span>清晨侧光 · 长影子 · 5600 K</span>"
+},
+{
+"key": "feature_ppm.html#75",
+"zh": "<b>色</b><span>暖灰60 · 雾霾蓝30 · 酒红10</span>"
+},
+{
+"key": "feature_ppm.html#76",
+"zh": "<b>质感</b><span>亚麻 · 玻璃 · 水珠 · 木纹</span>"
+},
+{
+"key": "feature_ppm.html#77",
+"zh": "<b>运动</b><span>只用缓慢的移动推拉 · 不用手持</span>"
+},
+{
+"key": "feature_ppm.html#78",
+"zh": "<b>人物</b><span>含蓄的表情 · 视线由下→镜头</span>"
+},
+{
+"key": "feature_ppm.html#79",
+"zh": "<b>✕ 反面参考</b><span>高饱和的短视频风格 — 不要这样</span>"
+},
+{
+"key": "feature_ppm.html#80",
+"zh": "<b>清透</b><span>中高对比 · 高光不过曝</span>"
+},
+{
+"key": "feature_ppm.html#81",
+"zh": "<b>清晨</b><span>单一窗光 · 长影子</span>"
+},
+{
+"key": "feature_ppm.html#82",
+"zh": "<b>轻盈</b><span>平均每镜2.5秒 · 钢琴92 BPM</span>"
+},
+{
+"key": "feature_ppm.html#83",
+"zh": "<b>图版 PPM-1</b> 调性板 — 三个形容词、五张参考加一张反面参考、一组色板。一张纸，成为摄影、美术、后期的共同语言。"
+},
+{
+"key": "feature_ppm.html#84",
+"zh": "<b>提示</b>"
+},
+{
+"key": "feature_ppm.html#85",
+"zh": "服装、道具、背景、图形都要统一使用这组色板。把色号放在同一个文件里，发给美术组和后期组。"
+},
+{
+"key": "feature_ppm.html#86",
+"zh": "每张参考图上，务必用一个词写明“参考的是什么”（光、色、质感、运动、人物）。照搬整张参考是抄袭；只取一个要素才是学习。那一张反面参考，比任何东西都更能节省会议时间。"
+},
+{
+"key": "feature_ppm.html#87",
+"zh": "<small>跨页 02 · 场地</small>场地参考表 — 四张照片加一张平面图"
+},
+{
+"key": "feature_ppm.html#88",
+"zh": "场地参考表 · L-01咖啡馆2层"
+},
+{
+"key": "feature_ppm.html#89",
+"zh": "<b>北面窗户</b><span>主场景 · 直射阳光07–10时</span>"
+},
+{
+"key": "feature_ppm.html#90",
+"zh": "<b>东面吧台</b><span>噪声源 · 实拍时停机10分钟</span>"
+},
+{
+"key": "feature_ppm.html#91",
+"zh": "<b>南面楼梯</b><span>设备需2人搬运 · 无电梯</span>"
+},
+{
+"key": "feature_ppm.html#92",
+"zh": "<b>西面墙</b><span>反打镜头的背景</span>"
+},
+{
+"key": "feature_ppm.html#93",
+"zh": "窗（东南） · 直射阳光07–10时"
+},
+{
+"key": "feature_ppm.html#94",
+"zh": "桌子"
+},
+{
+"key": "feature_ppm.html#95",
+"zh": "演员A"
+},
+{
+"key": "feature_ppm.html#96",
+"zh": "轨道车2 m"
+},
+{
+"key": "feature_ppm.html#97",
+"zh": "K 主光LED 600 W"
+},
+{
+"key": "feature_ppm.html#98",
+"zh": "F 反光板4×4"
+},
+{
+"key": "feature_ppm.html#99",
+"zh": "B 灯管3200 K"
+},
+{
+"key": "feature_ppm.html#100",
+"zh": "楼梯"
+},
+{
+"key": "feature_ppm.html#101",
+"zh": "吧台"
+},
+{
+"key": "feature_ppm.html#102",
+"zh": "<b>实测数据</b><span>电源220 V双孔插座 × 3（3 kW） → 灯光最多2 kW</span><span>层高2.9 m · 窗宽3.2 m · 实木地板（可用轨道车）</span><span>噪声72 dB（机器） · 2个车位 · 洗手间在1层</span><span>许可：租用07:00–10:30 · 保险 ✔</span><b>雨天预案</b><span>用主光LED重现窗光，或启用备用日D+2 · L-02摄影棚保留档期</span>"
+},
+{
+"key": "feature_ppm.html#103",
+"zh": "<b>图版 PPM-2</b> 场地表 — 四个方向的照片（同一时间、同为24 mm）加一张平面图。把摄影机、灯光、轨道车、电源、噪声源都标在平面图上，当天的布置时间能省一半。"
+},
+{
+"key": "feature_ppm.html#104",
+"zh": "检查项"
+},
+{
+"key": "feature_ppm.html#105",
+"zh": "L-01咖啡馆（首选）"
+},
+{
+"key": "feature_ppm.html#106",
+"zh": "L-02摄影棚（备选）"
+},
+{
+"key": "feature_ppm.html#107",
+"zh": "决定因素"
+},
+{
+"key": "feature_ppm.html#108",
+"zh": "光"
+},
+{
+"key": "feature_ppm.html#109",
+"zh": "日光：07–10时直射，之后为漫射"
+},
+{
+"key": "feature_ppm.html#110",
+"zh": "人工光，完全可控"
+},
+{
+"key": "feature_ppm.html#111",
+"zh": "调性“清晨的光” → L-01"
+},
+{
+"key": "feature_ppm.html#112",
+"zh": "噪声"
+},
+{
+"key": "feature_ppm.html#113",
+"zh": "机器72 dB，已商定停机10分钟"
+},
+{
+"key": "feature_ppm.html#114",
+"zh": "安静"
+},
+{
+"key": "feature_ppm.html#115",
+"zh": "SYNC镜头只有1个 → 可接受"
+},
+{
+"key": "feature_ppm.html#116",
+"zh": "电源 · 空间"
+},
+{
+"key": "feature_ppm.html#117",
+"zh": "3 kW，层高2.9 m，可用轨道车"
+},
+{
+"key": "feature_ppm.html#118",
+"zh": "15 kW，4.5 m，可用摇臂"
+},
+{
+"key": "feature_ppm.html#119",
+"zh": "摇臂镜头（04）改到L-01楼梯平台"
+},
+{
+"key": "feature_ppm.html#120",
+"zh": "费用 · 许可"
+},
+{
+"key": "feature_ppm.html#121",
+"zh": "租用3.5小时，保险 ✔，2个车位"
+},
+{
+"key": "feature_ppm.html#122",
+"zh": "租用8小时，10个车位"
+},
+{
+"key": "feature_ppm.html#123",
+"zh": "预算之内 → L-01"
+},
+{
+"key": "feature_ppm.html#124",
+"zh": "雨天预案"
+},
+{
+"key": "feature_ppm.html#125",
+"zh": "窗边无直射阳光 → 用主光重现"
+},
+{
+"key": "feature_ppm.html#126",
+"zh": "无影响"
+},
+{
+"key": "feature_ppm.html#127",
+"zh": "备用日D+2，另备LED 600 W待命"
+},
+{
+"key": "feature_ppm.html#128",
+"zh": "<small>跨页 03 · 选角</small>演员表 — 印象关键词与档期放在同一格"
+},
+{
+"key": "feature_ppm.html#129",
+"zh": "选角页不是一排大头照。先用关键词写下<b>概念所要求的印象</b>，再把每位候选人的契合度，连同档期、片酬、合同条款放在同一格里。客户批准的不是一张脸，而是“这个人在15秒里要做什么”。"
+},
+{
+"key": "feature_ppm.html#130",
+"zh": "演员表 · 角色A“开启清晨的人”"
+},
+{
+"key": "feature_ppm.html#131",
+"zh": "<b>候选人A — 首选 ★</b><span>印象 ●●●●○ · 3支广告</span><span>档期4/9 · 4/11 · 备用日 ○</span><span>肖像权1年，线上+户外</span><span>笑容不大，但眼睛先笑</span>"
+},
+{
+"key": "feature_ppm.html#132",
+"zh": "<b>候选人B — 次选</b><span>印象 ●●●○○ · 1支音乐录影带</span><span>档期仅4/9 · 备用日 ✕</span><span>肖像权6个月，线上</span><span>笑得太开 → “只动嘴角”</span>"
+},
+{
+"key": "feature_ppm.html#133",
+"zh": "<b>候选人C — 替补</b><span>印象 ●●○○○ · 无经验</span><span>所有日期均可 · 备用日 ○</span><span>仅限教学用途</span><span>排练+30分钟 · 学生作品的首选</span>"
+},
+{
+"key": "feature_ppm.html#134",
+"zh": "<b>图版 PPM-3</b> 选角表 — 一张同背景、同光线的正面照，加四行文字（印象 · 档期 · 肖像权 · 入选理由）。入选理由要用调性的语言来写。"
+},
+{
+"key": "feature_ppm.html#135",
+"zh": "<small>照片</small>同一条件下的四张"
+},
+{
+"key": "feature_ppm.html#136",
+"zh": "无表情正面 · 自然微笑 · 侧面 · 动作截帧"
+},
+{
+"key": "feature_ppm.html#137",
+"zh": "不修图、同一布光 — 重点在于比较"
+},
+{
+"key": "feature_ppm.html#138",
+"zh": "自拍 · 艺术照仅供参考"
+},
+{
+"key": "feature_ppm.html#139",
+"zh": "<small>条件</small>先写这些，再看脸"
+},
+{
+"key": "feature_ppm.html#140",
+"zh": "可拍日期，以及备用日能否到场"
+},
+{
+"key": "feature_ppm.html#141",
+"zh": "片酬单位（日/小时）与肖像权范围（媒体 · 期限 · 地区）"
+},
+{
+"key": "feature_ppm.html#142",
+"zh": "服装尺码、过敏情况、偏好的角度、随行人员"
+},
+{
+"key": "feature_ppm.html#143",
+"zh": "<small>表演指示备忘</small>在PPM上事先商定"
+},
+{
+"key": "feature_ppm.html#144",
+"zh": "用一行写明“要告诉这位演员不要做什么”"
+},
+{
+"key": "feature_ppm.html#145",
+"zh": "排练时间（无经验者+30分钟）"
+},
+{
+"key": "feature_ppm.html#146",
+"zh": "有SYNC台词时，附上声音样本"
+},
+{
+"key": "feature_ppm.html#147",
+"zh": "<small>跨页 04 · 服装 · 美术 · 道具</small>服装板与场面调度图 — 给画面里的每件东西写上名字"
+},
+{
+"key": "feature_ppm.html#148",
+"zh": "服装板 · 场面调度图（CUT 06）"
+},
+{
+"key": "feature_ppm.html#149",
+"zh": "<b>LOOK 1 · 演员A</b><span>暖灰亚麻衬衫 + 炭灰棉质长裤 · CUT 02 · 03 · 05 · 06 · 备用1套 · 禁用：标志 · 条纹 · 纯白</span>"
+},
+{
+"key": "feature_ppm.html#150",
+"zh": "<b>LOOK 2 · 演员B</b><span>雾霾蓝针织衫 + 米白 · CUT 05 · 明度与A相差2级</span>"
+},
+{
+"key": "feature_ppm.html#151",
+"zh": "<i>1</i>产品 — 标签朝正面；酒红色只出现在这里"
+},
+{
+"key": "feature_ppm.html#152",
+"zh": "<i>2</i>咖啡杯 — 清晨的提示，占60%的颜色"
+},
+{
+"key": "feature_ppm.html#153",
+"zh": "<i>3</i>书 + 亚麻餐巾 — 占30%的颜色，前景层次"
+},
+{
+"key": "feature_ppm.html#154",
+"zh": "<i>4</i>窗 + 百叶帘 — 交代光从哪里来"
+},
+{
+"key": "feature_ppm.html#155",
+"zh": "<i>5</i>尤加利 — 左侧留白，引导线"
+},
+{
+"key": "feature_ppm.html#156",
+"zh": "<i>6</i>木质桌面 — 质感关键词"
+},
+{
+"key": "feature_ppm.html#157",
+"zh": "已撤除：菜单 · 纸巾盒 · 插座 · 海报"
+},
+{
+"key": "feature_ppm.html#158",
+"zh": "<b>图版 PPM-4</b> 服装板与场面调度图。画面里的东西，如果写不出“它为什么在那里”，就拿掉 — 场面调度不过如此。"
+},
+{
+"key": "feature_ppm.html#159",
+"zh": "<b>参考照片 2.2D</b>生成图像 — 服装 · 道具 · 布景资料"
+},
+{
+"key": "feature_ppm.html#160",
+"zh": "<span class=\"ph-id\">P06-CALLSHEET</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>通告单 — 拂晓时分的第一份文件</b></span>"
+},
+{
+"key": "feature_ppm.html#161",
+"zh": "<b>注意</b>通告单 — 拂晓时分的第一份文件"
+},
+{
+"key": "feature_ppm.html#162",
+"zh": "<span class=\"ph-id\">P06-SLATE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>场记板 — 镜头号 · 条数把声音和画面对上</b></span>"
+},
+{
+"key": "feature_ppm.html#163",
+"zh": "<b>注意</b>场记板 — 镜头号 · 条数把声音和画面对上"
+},
+{
+"key": "feature_ppm.html#164",
+"zh": "<small>跨页 05 · 日程</small>拍摄日程表 — 围绕“光和演员”来排，而不是围绕日期"
+},
+{
+"key": "feature_ppm.html#165",
+"zh": "<b>提示</b>"
+},
+{
+"key": "feature_ppm.html#166",
+"zh": "排日程不按场景顺序，而按<b>场地 → 光线 → 演员档期</b>来归组。同一场地、同一布光的镜头连着拍，能省下80%的时间。"
+},
+{
+"key": "feature_ppm.html#167",
+"zh": "拍摄日程表回答“哪一天拍什么”；当日时间表（下一页）回答“当天几点做什么”。两者混在一张表里，哪个都读不懂。"
+},
+{
+"key": "feature_ppm.html#168",
+"zh": "拍摄日"
+},
+{
+"key": "feature_ppm.html#169",
+"zh": "时间"
+},
+{
+"key": "feature_ppm.html#170",
+"zh": "场地"
+},
+{
+"key": "feature_ppm.html#171",
+"zh": "镜头（分镜）"
+},
+{
+"key": "feature_ppm.html#172",
+"zh": "内容"
+},
+{
+"key": "feature_ppm.html#173",
+"zh": "演员"
+},
+{
+"key": "feature_ppm.html#174",
+"zh": "主要设备 · 灯光"
+},
+{
+"key": "feature_ppm.html#175",
+"zh": "备注"
+},
+{
+"key": "feature_ppm.html#176",
+"zh": "DAY 1 · 4/9（周三） · 咖啡馆L-01 · 日出06:12 · 窗边直射阳光07:00–10:00 · 租用07:00–10:30"
+},
+{
+"key": "feature_ppm.html#177",
+"zh": "咖啡馆2层"
+},
+{
+"key": "feature_ppm.html#178",
+"zh": "布置：轨道、主光LED、美术陈设"
+},
+{
+"key": "feature_ppm.html#179",
+"zh": "LED 600 W，4×4反光板"
+},
+{
+"key": "feature_ppm.html#180",
+"zh": "演员A 07:15到场，化妆车"
+},
+{
+"key": "feature_ppm.html#181",
+"zh": "窗边桌"
+},
+{
+"key": "feature_ppm.html#182",
+"zh": "拿起瓶子（MCU，推近） · 喝一口（CU）"
+},
+{
+"key": "feature_ppm.html#183",
+"zh": "50 mm · 85 mm，日光 + 主光补强"
+},
+{
+"key": "feature_ppm.html#184",
+"zh": "<b>先拍直射阳光的镜头</b>"
+},
+{
+"key": "feature_ppm.html#185",
+"zh": "窗边桌"
+},
+{
+"key": "feature_ppm.html#186",
+"zh": "结尾：产品居中，留出标志CG的位置（缓慢推近）"
+},
+{
+"key": "feature_ppm.html#187",
+"zh": "50 mm，追踪标记点，干净底板"
+},
+{
+"key": "feature_ppm.html#188",
+"zh": "CG基准镜头 — 必须拍1条LOCKED"
+},
+{
+"key": "feature_ppm.html#189",
+"zh": "窗边桌"
+},
+{
+"key": "feature_ppm.html#190",
+"zh": "与同事碰瓶（2S）"
+},
+{
+"key": "feature_ppm.html#191",
+"zh": "35 mm，反光板补光"
+},
+{
+"key": "feature_ppm.html#192",
+"zh": "B 09:00到场，以背影为主"
+},
+{
+"key": "feature_ppm.html#193",
+"zh": "桌面"
+},
+{
+"key": "feature_ppm.html#194",
+"zh": "01 · 02 INS"
+},
+{
+"key": "feature_ppm.html#195",
+"zh": "水珠ECU · 手部插入镜头"
+},
+{
+"key": "feature_ppm.html#196",
+"zh": "A的手"
+},
+{
+"key": "feature_ppm.html#197",
+"zh": "微距100 mm，甘油"
+},
+{
+"key": "feature_ppm.html#198",
+"zh": "换6次新瓶"
+},
+{
+"key": "feature_ppm.html#199",
+"zh": "全员"
+},
+{
+"key": "feature_ppm.html#200",
+"zh": "收工，场地复原，第1次备份"
+},
+{
+"key": "feature_ppm.html#201",
+"zh": "完成3-2-1备份后解散"
+},
+{
+"key": "feature_ppm.html#202",
+"zh": "DAY 2 · 4/11（周五） · 校园天台 + 实验室 · 日落19:02 · 黄金时段18:20–19:00"
+},
+{
+"key": "feature_ppm.html#203",
+"zh": "天台楼梯平台"
+},
+{
+"key": "feature_ppm.html#204",
+"zh": "布置：以独脚架纵摇代替摇臂，安全绳"
+},
+{
+"key": "feature_ppm.html#205",
+"zh": "24 mm，ND 8"
+},
+{
+"key": "feature_ppm.html#206",
+"zh": "风速超过12 m/s即停拍"
+}
+]

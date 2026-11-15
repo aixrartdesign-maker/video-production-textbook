@@ -1,0 +1,442 @@
+[
+{
+"key": "part02.html#1234",
+"zh": "1.18 · 1.20 视线、时间与空间"
+},
+{
+"key": "part02.html#1235",
+"zh": "把下一个镜头放在视线落点上，并先决定两个镜头之间隔着多少时间和距离。"
+},
+{
+"key": "part02.html#1236",
+"zh": "思考题"
+},
+{
+"key": "part02.html#1237",
+"zh": "我最常用哪些景别？那是习惯还是选择？"
+},
+{
+"key": "part02.html#1238",
+"zh": "对照8种景别对照表，标出你拍得最多的景别和从没拍过的景别。"
+},
+{
+"key": "part02.html#1239",
+"zh": "最近看过的作品中，最让你难忘的镜头是哪个？它为什么留在你心里？"
+},
+{
+"key": "part02.html#1240",
+"zh": "按景别、角度和长度拆解它。"
+},
+{
+"key": "part02.html#1241",
+"zh": "在片场，你怎样口头表达构图要求？"
+},
+{
+"key": "part02.html#1242",
+"zh": "使用“再紧一点”这样的行业用语——说“弄小一点”，三个人会有三种理解。"
+},
+{
+"key": "feature_storyboard.html#0",
+"zh": "专题 · 分镜"
+},
+{
+"key": "feature_storyboard.html#1",
+"zh": "分镜，<br>用画面立下的约定"
+},
+{
+"key": "feature_storyboard.html#2",
+"zh": "分镜是信息设计的问题，不是绘画功底的问题。本专题集中说明：一个分镜格必须写明什么，才能让十个人拍出同一个场景；以及分镜格在不同媒介中如何变化：横屏 · 竖屏 · 超宽 · 360 · 曲面 · 立面 · AR/VR/MR/XR。"
+},
+{
+"key": "feature_storyboard.html#3",
+"zh": "<b>G-18</b> 绘制分镜 — 每个分镜格都写明镜头 · 运动 · 时间。画可以粗糙，信息不能。"
+},
+{
+"key": "feature_storyboard.html#4",
+"zh": "<b>01</b><i>草图分镜</i>导演梳理想法。草图，多个版本对比，用于内部会议。1–2小时。"
+},
+{
+"key": "feature_storyboard.html#5",
+"zh": "<b>02</b><i>分镜</i>全体剧组的蓝图。精确的构图 · 时间 · 声音。PPM通过后尽量不改。1–2天。"
+},
+{
+"key": "feature_storyboard.html#6",
+"zh": "<b>03</b><i>动态分镜</i>把分镜放上时间线，配上临时音乐 · 旁白。节奏和长度的问题一目了然。2–3天。"
+},
+{
+"key": "feature_storyboard.html#7",
+"zh": "<b>提示</b>"
+},
+{
+"key": "feature_storyboard.html#8",
+"zh": "15秒广告或1分钟短视频，要一直做到动态分镜。节奏问题在静止画面里看不出来。"
+},
+{
+"key": "feature_storyboard.html#9",
+"zh": "分镜是制作流程中最后一个改错成本低的环节。如果在创意阶段修改的成本是1，到分镜阶段就是3，拍摄当天是20，后期制作是50。所以分镜不是为了画得好看的文件，而是<b>为了尽快犯错的文件</b>。"
+},
+{
+"key": "feature_storyboard.html#10",
+"zh": "<b>参考照片 1.1A</b>生成图像 — 分镜的四副面孔"
+},
+{
+"key": "feature_storyboard.html#11",
+"zh": "<span class=\"ph-id\">P06-SB-HAND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>手绘分镜 — 分镜格 · 箭头 · 时间标注集于一页</b></span>"
+},
+{
+"key": "feature_storyboard.html#12",
+"zh": "<b>注意</b>手绘分镜 — 分镜格 · 箭头 · 时间标注集于一页"
+},
+{
+"key": "feature_storyboard.html#13",
+"zh": "<span class=\"ph-id\">P06-SB-VERT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>竖屏视频分镜 — 分镜格变得窄而高</b></span>"
+},
+{
+"key": "feature_storyboard.html#14",
+"zh": "<b>注意</b>竖屏视频分镜 — 分镜格变得窄而高"
+},
+{
+"key": "feature_storyboard.html#15",
+"zh": "<span class=\"ph-id\">P06-SB-DIGITAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>数字分镜 — 在平板上绘制，直接做成动态分镜</b></span>"
+},
+{
+"key": "feature_storyboard.html#16",
+"zh": "<b>注意</b>数字分镜 — 在平板上绘制，直接做成动态分镜"
+},
+{
+"key": "feature_storyboard.html#17",
+"zh": "<span class=\"ph-id\">P06-ANIMATIC</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>动态分镜 — 把分镜放上时间线检验节奏</b></span>"
+},
+{
+"key": "feature_storyboard.html#18",
+"zh": "<b>注意</b>动态分镜 — 把分镜放上时间线检验节奏"
+},
+{
+"key": "feature_storyboard.html#19",
+"zh": "<b>参考照片 1.1B</b>生成图像 — 导演参考"
+},
+{
+"key": "feature_storyboard.html#20",
+"zh": "<b>a</b>手绘分镜"
+},
+{
+"key": "feature_storyboard.html#21",
+"zh": "<b>b</b>动态分镜剪辑界面"
+},
+{
+"key": "feature_storyboard.html#22",
+"zh": "<b>c</b>勘景"
+},
+{
+"key": "feature_storyboard.html#23",
+"zh": "<small>跨页01</small>分镜格解剖 — 九项齐全，否则别人无法拍摄"
+},
+{
+"key": "feature_storyboard.html#24",
+"zh": "分镜格解剖 — 九个项目"
+},
+{
+"key": "feature_storyboard.html#25",
+"zh": "<span>CUT 02</span><span class=\"sc\">S#1 咖啡馆 · 日 · 内景</span><span>2.5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#26",
+"zh": "MCU · EYE · 50 mm · DOLLY IN 慢 · CUT TO"
+},
+{
+"key": "feature_storyboard.html#27",
+"zh": "动作说明：拿起产品 · 视线移向产品"
+},
+{
+"key": "feature_storyboard.html#28",
+"zh": "N 你的一天，从此不同 · SE 瓶盖声 · M 钢琴进入"
+},
+{
+"key": "feature_storyboard.html#29",
+"zh": "<i>1</i><b>镜头号 · 场景</b><span>排序与引用的依据</span>"
+},
+{
+"key": "feature_storyboard.html#30",
+"zh": "<i>2</i><b>时间</b><span>时长（秒）+ 累计时间码</span>"
+},
+{
+"key": "feature_storyboard.html#31",
+"zh": "<i>3</i><b>画面（画框）</b><span>构图 · 位置 · 视线 · 箭头</span>"
+},
+{
+"key": "feature_storyboard.html#32",
+"zh": "<i>4</i><b>景别 · 角度 · 焦段</b><span>ELS–ECU · EYE/HIGH/LOW</span>"
+},
+{
+"key": "feature_storyboard.html#33",
+"zh": "<i>5</i><b>摄影机运动</b><span>方向 + 一个表示速度的词</span>"
+},
+{
+"key": "feature_storyboard.html#34",
+"zh": "<i>6</i><b>动作说明</b><span>用动词写事件</span>"
+},
+{
+"key": "feature_storyboard.html#35",
+"zh": "<i>7</i><b>旁白 · 台词</b><span>N / V.O. / SYNC</span>"
+},
+{
+"key": "feature_storyboard.html#36",
+"zh": "<i>8</i><b>声音</b><span>M · SE · ATM</span>"
+},
+{
+"key": "feature_storyboard.html#37",
+"zh": "<i>9</i><b>转场</b><span>CUT / DIS / FI / FO</span>"
+},
+{
+"key": "feature_storyboard.html#38",
+"zh": "<b>图 57</b> 分镜格的构成要素。九项全部写明，别人才能拍出同样的画面。"
+},
+{
+"key": "feature_storyboard.html#39",
+"zh": "<small>分镜格内</small>只画看得见的"
+},
+{
+"key": "feature_storyboard.html#40",
+"zh": "人物 · 物体的位置与大小（景别即画的大小）"
+},
+{
+"key": "feature_storyboard.html#41",
+"zh": "视线方向、运动箭头（被摄体 = 黑色，摄影机 = 酒红色）"
+},
+{
+"key": "feature_storyboard.html#42",
+"zh": "入画的字幕 · 标志区域用虚线框表示"
+},
+{
+"key": "feature_storyboard.html#43",
+"zh": "安全区虚线 — 字幕只放在线内"
+},
+{
+"key": "feature_storyboard.html#44",
+"zh": "<small>分镜格外</small>听得见的，以及数值"
+},
+{
+"key": "feature_storyboard.html#45",
+"zh": "时间：时长（秒）和累计时间码都写"
+},
+{
+"key": "feature_storyboard.html#46",
+"zh": "缩写：SIZE / ANGLE / LENS / MOVE / TR"
+},
+{
+"key": "feature_storyboard.html#47",
+"zh": "动作说明用动词，情绪用形容词，分开写"
+},
+{
+"key": "feature_storyboard.html#48",
+"zh": "N · V.O. · SYNC · M · SE — 四层声音写在一行"
+},
+{
+"key": "feature_storyboard.html#49",
+"zh": "<small>跨页02</small>不同画幅比的分镜格模板 — 画幅比一变，构图语法随之改变"
+},
+{
+"key": "feature_storyboard.html#50",
+"zh": "分镜格一定要<b>按最终交付的画幅比</b>来画。用16:9画好再裁成竖屏的分镜，不算分镜。下面每个模板都按各自的画幅比重新安排同一场景（人物 · 产品 · 背景）。虚线是动作安全区（90%）和字幕安全区（80%）。"
+},
+{
+"key": "feature_storyboard.html#51",
+"zh": "不同画幅比的分镜格模板"
+},
+{
+"key": "feature_storyboard.html#52",
+"zh": "<b>4:3</b><span>1440×1080 · 复古</span>"
+},
+{
+"key": "feature_storyboard.html#53",
+"zh": "<b>16:9</b><span>1920×1080 · 标准</span>"
+},
+{
+"key": "feature_storyboard.html#54",
+"zh": "<b>21:9</b><span>3840×1608 · 影院</span>"
+},
+{
+"key": "feature_storyboard.html#55",
+"zh": "<b>1:1</b><span>1080×1080 · 信息流</span>"
+},
+{
+"key": "feature_storyboard.html#56",
+"zh": "<b>4:5</b><span>1080×1350 · 信息流最大</span>"
+},
+{
+"key": "feature_storyboard.html#57",
+"zh": "<b>9:16</b><span>1080×1920 · 短视频</span>"
+},
+{
+"key": "feature_storyboard.html#58",
+"zh": "<b>9:21</b><span>1080×2520 · 竖向LED屏</span>"
+},
+{
+"key": "feature_storyboard.html#59",
+"zh": "<b>2:1等距柱状投影</b><span>4096×2048 · 360/VR — 红框为正面90°</span>"
+},
+{
+"key": "feature_storyboard.html#60",
+"zh": "<b>图版 SB-1</b> 一个场景，九种画幅比。画幅比一变，被摄体的大小和背景的占比都会变 — 请按最终交付的画幅比画分镜。"
+},
+{
+"key": "feature_storyboard.html#61",
+"zh": "画幅比"
+},
+{
+"key": "feature_storyboard.html#62",
+"zh": "常用分辨率"
+},
+{
+"key": "feature_storyboard.html#63",
+"zh": "使用场合"
+},
+{
+"key": "feature_storyboard.html#64",
+"zh": "一句话构图规则"
+},
+{
+"key": "feature_storyboard.html#65",
+"zh": "绘制注意事项"
+},
+{
+"key": "feature_storyboard.html#66",
+"zh": "YouTube、电视、显示器、演示"
+},
+{
+"key": "feature_storyboard.html#67",
+"zh": "眼睛和产品放在三分线上"
+},
+{
+"key": "feature_storyboard.html#68",
+"zh": "用4K拍摄 → 有余量裁出竖屏"
+},
+{
+"key": "feature_storyboard.html#69",
+"zh": "影院、品牌影片"
+},
+{
+"key": "feature_storyboard.html#70",
+"zh": "横向的留白就是情绪；两人同处一个镜头"
+},
+{
+"key": "feature_storyboard.html#71",
+"zh": "以16:9加黑边交付；检查字幕位置"
+},
+{
+"key": "feature_storyboard.html#72",
+"zh": "Reels · Shorts · TikTok"
+},
+{
+"key": "feature_storyboard.html#73",
+"zh": "中间60%，脸在上1/3"
+},
+{
+"key": "feature_storyboard.html#74",
+"zh": "UI遮挡顶部14% · 底部25%"
+},
+{
+"key": "feature_storyboard.html#75",
+"zh": "竖向LED屏、电梯 · 立柱"
+},
+{
+"key": "feature_storyboard.html#76",
+"zh": "自上而下的流向，垂直中心线"
+},
+{
+"key": "feature_storyboard.html#77",
+"zh": "观看距离2 m以上 → 文字至少60 px"
+},
+{
+"key": "feature_storyboard.html#78",
+"zh": "信息流广告"
+},
+{
+"key": "feature_storyboard.html#79",
+"zh": "居中，四边留白均等"
+},
+{
+"key": "feature_storyboard.html#80",
+"zh": "16:9素材两侧损失44%"
+},
+{
+"key": "feature_storyboard.html#81",
+"zh": "VR头显、360播放器"
+},
+{
+"key": "feature_storyboard.html#82",
+"zh": "动作放在正面90°内，声音放在后方"
+},
+{
+"key": "feature_storyboard.html#83",
+"zh": "天顶 · 天底畸变，擦除三脚架"
+},
+{
+"key": "feature_storyboard.html#84",
+"zh": "自由比例"
+},
+{
+"key": "feature_storyboard.html#85",
+"zh": "LED模块数 × 像素间距"
+},
+{
+"key": "feature_storyboard.html#86",
+"zh": "曲面 · 立面 · 穹顶"
+},
+{
+"key": "feature_storyboard.html#87",
+"zh": "以“观看位置”为基准，而非屏幕表面"
+},
+{
+"key": "feature_storyboard.html#88",
+"zh": "展开图 + 俯视图，两张一起"
+},
+{
+"key": "feature_storyboard.html#89",
+"zh": "<small>跨页03</small>横屏与竖屏不是不同的媒介，而是不同的语言 — 同一个镜头设计两遍"
+},
+{
+"key": "feature_storyboard.html#90",
+"zh": "同一个镜头设计两遍"
+},
+{
+"key": "feature_storyboard.html#91",
+"zh": "<b>✕ 从16:9居中裁出的竖屏</b><span>半个人，半扇窗 — 裁切不是设计</span>"
+},
+{
+"key": "feature_storyboard.html#92",
+"zh": "<b>○ 为竖屏重新设计的镜头</b><span>脸在上1/3，产品居中，背景减少</span>"
+},
+{
+"key": "feature_storyboard.html#93",
+"zh": "<b>转为竖屏时</b><span>景别收紧一级</span><span>背景另用一个镜头交代</span><span>视线和运动自上而下</span><span>字幕放在中间60%的范围内</span><span>镜头数增加20–30%</span>"
+},
+{
+"key": "feature_storyboard.html#94",
+"zh": "<b>图版 SB-2</b> 横屏与竖屏是不同的语言。居中裁切（左）与重新设计（中）的区别。"
+},
+{
+"key": "feature_storyboard.html#95",
+"zh": "竖屏分镜示例 — 15秒短视频广告（9:16，6个镜头）"
+},
+{
+"key": "feature_storyboard.html#96",
+"zh": "竖屏分镜示例"
+},
+{
+"key": "feature_storyboard.html#97",
+"zh": "<b>CU · LOCKED</b><span>打哈欠 · 字幕“每天早上都这样？”</span>"
+},
+{
+"key": "feature_storyboard.html#98",
+"zh": "<b>ECU · HIGH · 推近</b><span>手拿起瓶子 · SE 瓶盖声</span>"
+},
+{
+"key": "feature_storyboard.html#99",
+"zh": "<b>MCU · HH</b><span>喝一口，睁开眼 · “哦。”</span>"
+},
+{
+"key": "feature_storyboard.html#100",
+"zh": "<b>LS · LOW · TILT UP</b><span>窗外的城市 · N 在城市醒来之前</span>"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part04.html#731",
+"zh": "只靠声音成立的内容 — ASMR · 环境声 · 助眠音频"
+},
+{
+"key": "part04.html#732",
+"zh": "<small>贴耳刺激</small>ASMR"
+},
+{
+"key": "part04.html#733",
+"zh": "用双耳麦克风或人头模型录下左右空间感"
+},
+{
+"key": "part04.html#734",
+"zh": "触发音：敲击、刷拂、耳语、纸张"
+},
+{
+"key": "part04.html#735",
+"zh": "低电平，约−20 dBFS；压住峰值"
+},
+{
+"key": "part04.html#736",
+"zh": "<small>空间的声音</small>环境声"
+},
+{
+"key": "part04.html#737",
+"zh": "到实地长时间录制火 · 雨 · 风 · 海浪"
+},
+{
+"key": "part04.html#738",
+"zh": "把循环接点藏在响声大的瞬间后面"
+},
+{
+"key": "part04.html#739",
+"zh": "8小时的长内容，是用1小时的素材循环做成的"
+},
+{
+"key": "part04.html#740",
+"zh": "<small>冥想 · 睡眠</small>助眠音频"
+},
+{
+"key": "part04.html#741",
+"zh": "以低频为主；不能有突发峰值"
+},
+{
+"key": "part04.html#742",
+"zh": "画面：静帧 + 细微动态（雨、火焰）"
+},
+{
+"key": "part04.html#743",
+"zh": "版权：只用已获授权的素材或自己的录音"
+},
+{
+"key": "part04.html#744",
+"zh": "<b>参考照片 4.10A</b>生成图像 — 只靠声音成立的内容"
+},
+{
+"key": "part04.html#745",
+"zh": "<span class=\"ph-id\">P04-ASMR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>录制ASMR</b>装有一对双耳麦克风的人头模型，一只手正敲击木盒</span>"
+},
+{
+"key": "part04.html#746",
+"zh": "<b>a</b>录制ASMR — 中间的头部模型是<b>双耳人头麦克风</b>。两支麦克风装在人耳的位置，把“左耳边的耳语”原样录下来。只有戴耳机听才有效"
+},
+{
+"key": "part04.html#747",
+"zh": "<span class=\"ph-id\">P04-FOLEY</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>拟音工作</b>拟音师一边看画面，一边在碎石盘里踩步</span>"
+},
+{
+"key": "part04.html#748",
+"zh": "<b>b</b>拟音工作"
+},
+{
+"key": "part04.html#749",
+"zh": "<span class=\"ph-id\">P04-AMBIENT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>录制噼啪作响的炉火</b>壁炉旁一台带防风罩的手持录音机</span>"
+},
+{
+"key": "part04.html#750",
+"zh": "<b>c</b>录制噼啪作响的炉火"
+},
+{
+"key": "part04.html#751",
+"zh": "<span class=\"ph-id\">P04-SLEEP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>8小时雨声 — 助眠音频视频</b>床边的手机上播放着雨打窗户的视频</span>"
+},
+{
+"key": "part04.html#752",
+"zh": "<b>d</b>8小时雨声 — 助眠音频视频"
+},
+{
+"key": "part04.html#753",
+"zh": "觉得自己的视频水平停滞不前时，打磨声音是最快的解法。<small>4.10 音效与拟音</small>"
+},
+{
+"key": "part04.html#754",
+"zh": "走出去采集声音与质感"
+},
+{
+"key": "part04.html#755",
+"zh": "<b>出门找声音 — 实地录音</b><span>真正的黎明森林，真正的海浪。素材库的声音人人都在用，所以要录“自己的”。枪式麦克风 + 防风罩 + 便携录音机，凌晨4–6点，风速3 m/s以下</span>"
+},
+{
+"key": "part04.html#756",
+"zh": "<b>出门找质感 — 摄影测量扫描</b><span>把岩石 · 树皮 · 墙面拍上几十张，做成3D贴图。阴天，放一张色卡，重叠率70%。生成式AI做不出来的，是“那个地方的纹理”</span>"
+},
+{
+"key": "part04.html#757",
+"zh": "<b>图 44-1</b> 声音与质感都在外面 — 不买素材、自己去采集的人。创作者的个人印记来自脚力，而不是素材库。"
+},
+{
+"key": "part04.html#758",
+"zh": "<small>练习</small>4.10"
+},
+{
+"key": "part04.html#759",
+"zh": "任务"
+},
+{
+"key": "part04.html#760",
+"zh": "用家里的物品做5个拟音音效，如脚步声、门声和雨声，并铺到一场戏里。"
+},
+{
+"key": "part04.html#761",
+"zh": "提示"
+},
+{
+"key": "part04.html#762",
+"zh": "在安静的房间里把麦克风靠近了录，动作的时机要对上画面。"
+},
+{
+"key": "part04.html#763",
+"zh": "评价"
+},
+{
+"key": "part04.html#764",
+"zh": "同步精度、声音的真实感"
+},
+{
+"key": "part04.html#765",
+"zh": "参考答案"
+},
+{
+"key": "part04.html#766",
+"zh": "找到比真实声音“更可信”的声音，并公开所用的材料。"
+},
+{
+"key": "part04.html#767",
+"zh": "PART 04小结"
+},
+{
+"key": "part04.html#768",
+"zh": "练习与复习"
+},
+{
+"key": "part04.html#769",
+"zh": "<b>一盏灯，四种样式</b>只用一盏灯或一扇窗，分别以伦勃朗光、分割光、蝴蝶光和轮廓光拍摄人像特写，比较这四种效果。"
+},
+{
+"key": "part04.html#770",
+"zh": "<b>高调对低调</b>用高调和低调各拍一次同一件产品，问十个人哪个看起来更贵。"
+},
+{
+"key": "part04.html#771",
+"zh": "<b>距离与音质</b>用手机在30 cm、1 m和3 m处录同一句台词并比较。听一听距离如何影响音质。"
+},
+{
+"key": "part04.html#772",
+"zh": "<b>只用音效重做</b>把自己拍的素材的声音全部去掉，只铺上新的音效。你会体会到声音如何改变画面的质感。"
+},
+{
+"key": "part04.html#773",
+"zh": "一页总结"
+},
+{
+"key": "part04.html#774",
+"zh": "4.1 光的五种属性"
+},
+{
+"key": "part04.html#775",
+"zh": "利用平方反比定律，不用多买灯也能让背景暗下去。"
+},
+{
+"key": "part04.html#776",
+"zh": "4.2 三点布光及其变化"
+},
+{
+"key": "part04.html#777",
+"zh": "光比2:1用于明亮的广告，4:1用于标准剧情片，8:1以上用于戏剧化的氛围。"
+},
+{
+"key": "part04.html#778",
+"zh": "4.3 六种主光样式"
+},
+{
+"key": "part04.html#779",
+"zh": "试着只用主光完成画面。柔度来自面积和距离。"
+},
+{
+"key": "part04.html#780",
+"zh": "4.4 高调与低调"
+},
+{
+"key": "part04.html#781",
+"zh": "低调不是拍得暗，而是精确曝光亮部、控制其余部分。"
+},
+{
+"key": "part04.html#782",
+"zh": "4.5 产品广告的布光"
+},
+{
+"key": "part04.html#783",
+"zh": "材质决定方法。加多少光，就要减多少光。"
+},
+{
+"key": "part04.html#784",
+"zh": "4.6 色键抠像的布光"
+},
+{
+"key": "part04.html#785",
+"zh": "主体与背景相距2 m，分开布光。"
+},
+{
+"key": "part04.html#786",
+"zh": "4.7 低预算布光"
+},
+{
+"key": "part04.html#787",
+"zh": "窗户 · 泡沫板 · 硫酸纸 · 黑布。谨防发热和倾倒事故。"
+},
+{
+"key": "part04.html#788",
+"zh": "4.8 麦克风与录音"
+},
+{
+"key": "part04.html#789",
+"zh": "便宜的麦克风靠近，胜过昂贵的麦克风远离。峰值−12至−6 dBFS，环境底噪30秒。"
+},
+{
+"key": "part04.html#790",
+"zh": "4.9 声音设计的四层"
+},
+{
+"key": "part04.html#791",
+"zh": "先定音乐；声音标识放在最后2–3秒。保留音乐授权证明。"
+},
+{
+"key": "part04.html#792",
+"zh": "4.10 音效与拟音"
+},
+{
+"key": "part04.html#793",
+"zh": "音效对准到帧。打磨声音是最快的解法。"
+},
+{
+"key": "part04.html#794",
+"zh": "自我检查"
+},
+{
+"key": "part04.html#795",
+"zh": "你能运用平方反比定律控制背景亮度吗？"
+},
+{
+"key": "part04.html#796",
+"zh": "你能解释4:1的光比是什么意思吗？"
+},
+{
+"key": "part04.html#797",
+"zh": "你能解释色键抠像时主体和背景为什么必须拉开距离吗？"
+},
+{
+"key": "part04.html#798",
+"zh": "你能用数字说出录音电平的安全区吗？"
+},
+{
+"key": "part04.html#799",
+"zh": "你能解释为什么需要环境底噪吗？"
+},
+{
+"key": "part04.html#800",
+"zh": "思考题"
+},
+{
+"key": "part04.html#801",
+"zh": "你做的视频里，有没有出现过脸拍黑了的情况？"
+},
+{
+"key": "part04.html#802",
+"zh": "当时应该加光，还是减光？"
+},
+{
+"key": "part04.html#803",
+"zh": "声音差的视频和画面差的视频，你会先关掉哪一个？"
+},
+{
+"key": "part04.html#804",
+"zh": "为什么？"
+},
+{
+"key": "feature_lighting.html#0",
+"zh": "专题 · 照明工具"
+},
+{
+"key": "feature_lighting.html#1",
+"zh": "光的工具 —<br>灯具、光束与软件里的光"
+},
+{
+"key": "feature_lighting.html#2",
+"zh": "学布光，不是背灯具的名字，而是弄清哪种工具控制光的<b>面积、距离、角度、强度、颜色</b>。本专题把片场实际使用的灯具和控光附件、从针点聚光到环境光的各种光束，以及重现同样光线的After Effects与Premiere功能，放在同一张地图上。"
+},
+{
+"key": "feature_lighting.html#3",
+"zh": "<small>跨页 01</small>光源地图 — 十二种灯具及其各自的光"
+},
+{
+"key": "feature_lighting.html#4",
+"zh": "<b>参考照片 4.7A</b>生成图像 — 十二种光源"
+},
+{
+"key": "feature_lighting.html#5",
+"zh": "<span class=\"ph-id\">P04-FRESNEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>菲涅尔灯</b></span>"
+},
+{
+"key": "feature_lighting.html#6",
+"zh": "<b>菲涅尔灯</b>钨丝灯650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#7",
+"zh": "<span class=\"ph-id\">P04-OPENFACE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>开放式灯 · 红头灯</b></span>"
+},
+{
+"key": "feature_lighting.html#8",
+"zh": "<b>开放式灯 · 红头灯</b>800 W–2K钨丝灯"
+},
+{
+"key": "feature_lighting.html#9",
+"zh": "<span class=\"ph-id\">P04-HMI</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>HMI · PAR</b></span>"
+},
+{
+"key": "feature_lighting.html#10",
+"zh": "<b>HMI · PAR</b>575 W–18K · 5600 K"
+},
+{
+"key": "feature_lighting.html#11",
+"zh": "<span class=\"ph-id\">P04-LEDPANEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LED平板灯（双色温）</b></span>"
+},
+{
+"key": "feature_lighting.html#12",
+"zh": "<b>LED平板灯（双色温）</b>30–200 W · 2700–6500 K"
+},
+{
+"key": "feature_lighting.html#13",
+"zh": "<span class=\"ph-id\">P04-COBSOFT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LED COB灯 + 柔光箱</b></span>"
+},
+{
+"key": "feature_lighting.html#14",
+"zh": "<b>LED COB灯 + 柔光箱</b>100–600 W · Bowens卡口"
+},
+{
+"key": "feature_lighting.html#15",
+"zh": "<span class=\"ph-id\">P04-TUBE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>RGBWW LED灯管</b></span>"
+},
+{
+"key": "feature_lighting.html#16",
+"zh": "<b>RGBWW LED灯管</b>30–120 cm · 全彩"
+},
+{
+"key": "feature_lighting.html#17",
+"zh": "<span class=\"ph-id\">P04-KINO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Kino · 荧光灯组</b></span>"
+},
+{
+"key": "feature_lighting.html#18",
+"zh": "<b>Kino · 荧光灯组</b>4 ft四管"
+},
+{
+"key": "feature_lighting.html#19",
+"zh": "<span class=\"ph-id\">P04-RING</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>环形灯</b></span>"
+},
+{
+"key": "feature_lighting.html#20",
+"zh": "<b>环形灯</b>10–60 W"
+},
+{
+"key": "feature_lighting.html#21",
+"zh": "<span class=\"ph-id\">P04-CHINABALL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>灯笼球 · 灯笼灯</b></span>"
+},
+{
+"key": "feature_lighting.html#22",
+"zh": "<b>灯笼球 · 灯笼灯</b>灯泡 + 纸/布灯罩"
+},
+{
+"key": "feature_lighting.html#23",
+"zh": "<span class=\"ph-id\">P04-DEDO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Dedolight · 针点聚光</b></span>"
+},
+{
+"key": "feature_lighting.html#24",
+"zh": "<b>Dedolight · 针点聚光</b>40–150 W · 4–50°"
+},
+{
+"key": "feature_lighting.html#25",
+"zh": "<span class=\"ph-id\">P04-PRACTICAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>道具灯（画内光源）</b></span>"
+},
+{
+"key": "feature_lighting.html#26",
+"zh": "<b>道具灯（画内光源）</b>台灯 · 霓虹灯 · 蜡烛 · 电视"
+},
+{
+"key": "feature_lighting.html#27",
+"zh": "<span class=\"ph-id\">P04-REFLECTOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>反光板 · 黑布</b></span>"
+},
+{
+"key": "feature_lighting.html#28",
+"zh": "<b>反光板 · 黑布</b>不用电的光"
+},
+{
+"key": "feature_lighting.html#29",
+"zh": "灯具"
+},
+{
+"key": "feature_lighting.html#30",
+"zh": "功率 · 色温"
+},
+{
+"key": "feature_lighting.html#31",
+"zh": "光质与用途"
+},
+{
+"key": "feature_lighting.html#32",
+"zh": "对应的AE 3D灯光"
+},
+{
+"key": "feature_lighting.html#33",
+"zh": "菲涅尔灯"
+},
+{
+"key": "feature_lighting.html#34",
+"zh": "钨丝灯650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#35",
+"zh": "硬→中等，聚光/泛光10–60°。标准的主光 · 逆光"
+},
+{
+"key": "feature_lighting.html#36",
+"zh": "Spot · 锥角30–60 · 羽化50"
+},
+{
+"key": "feature_lighting.html#37",
+"zh": "开放式灯 · 红头灯"
+},
+{
+"key": "feature_lighting.html#38",
+"zh": "800 W–2K钨丝灯"
+},
+{
+"key": "feature_lighting.html#39",
+"zh": "无透镜 → 宽而生硬的硬光。用作柔光 · 反射的光源"
+},
+{
+"key": "feature_lighting.html#40",
+"zh": "Point · 强度↑ · 衰减陡"
+},
+{
+"key": "feature_lighting.html#41",
+"zh": "HMI · PAR"
+},
+{
+"key": "feature_lighting.html#42",
+"zh": "重现日光。检查镇流器 · 发电机 · 频闪"
+},
+{
+"key": "feature_lighting.html#43",
+"zh": "Parallel · 影子锐利"
+},
+{
+"key": "feature_lighting.html#44",
+"zh": "LED平板灯（双色温）"
+},
+{
+"key": "feature_lighting.html#45",
+"zh": "面光源 · 轻便 · 可用电池。1.5 m以内的辅光 · 补充光"
+},
+{
+"key": "feature_lighting.html#46",
+"zh": "大号Spot羽化100 / Ambient"
+},
+{
+"key": "feature_lighting.html#47",
+"zh": "LED COB灯 + 柔光箱"
+},
+{
+"key": "feature_lighting.html#48",
+"zh": "100–600 W · Bowens卡口"
+},
+{
+"key": "feature_lighting.html#49",
+"zh": "小型片场的标准主光。箱体大小 = 柔度"
+},
+{
+"key": "feature_lighting.html#50",
+"zh": "Spot锥角90 · 羽化100"
+},
+{
+"key": "feature_lighting.html#51",
+"zh": "RGBWW LED灯管"
+},
+{
+"key": "feature_lighting.html#52",
+"zh": "30–120 cm · 全彩"
+},
+{
+"key": "feature_lighting.html#53",
+"zh": "线光源 → 长条高光。霓虹 · 道具灯色调"
+},
+{
+"key": "feature_lighting.html#54",
+"zh": "长条Solid + Glow / Light Sweep"
+},
+{
+"key": "feature_lighting.html#55",
+"zh": "Kino · 荧光灯组"
+},
+{
+"key": "feature_lighting.html#56",
+"zh": "4 ft四管"
+},
+{
+"key": "feature_lighting.html#57",
+"zh": "宽而均匀的柔光。采访 · 色键抠像背景"
+},
+{
+"key": "feature_lighting.html#58",
+"zh": "Ambient + 2个宽Spot"
+},
+{
+"key": "feature_lighting.html#59",
+"zh": "环形灯"
+},
+{
+"key": "feature_lighting.html#60",
+"zh": "无影的正面光。仅用于美妆 · 口播"
+},
+{
+"key": "feature_lighting.html#61",
+"zh": "Point置于机位 + 低对比"
+},
+{
+"key": "feature_lighting.html#62",
+"zh": "灯笼球 · 灯笼灯"
+},
+{
+"key": "feature_lighting.html#63",
+"zh": "灯泡 + 纸/布灯罩"
+},
+{
+"key": "feature_lighting.html#64",
+"zh": "向四周发散的柔光。头顶的“房间光”、吊杆灯"
+},
+{
+"key": "feature_lighting.html#65",
+"zh": "Point · 衰减Smooth"
+},
+{
+"key": "feature_lighting.html#66",
+"zh": "Dedolight · 针点聚光"
+},
+{
+"key": "feature_lighting.html#67",
+"zh": "锐利的光束。产品点缀光 · 眼神光 · gobo投影"
+},
+{
+"key": "feature_lighting.html#68",
+"zh": "Spot锥角5–10 · 羽化10–20"
+},
+{
+"key": "feature_lighting.html#69",
+"zh": "道具灯（画内光源）"
+},
+{
+"key": "feature_lighting.html#70",
+"zh": "台灯 · 霓虹灯 · 蜡烛 · 电视"
+},
+{
+"key": "feature_lighting.html#71",
+"zh": "光的“借口”。靠换灯泡 · 调光器来定曝光"
+},
+{
+"key": "feature_lighting.html#72",
+"zh": "同一位置叠加Glow + Point"
+},
+{
+"key": "feature_lighting.html#73",
+"zh": "反光板 · 黑布"
+},
+{
+"key": "feature_lighting.html#74",
+"zh": "不用电的光"
+},
+{
+"key": "feature_lighting.html#75",
+"zh": "白=柔，银=硬，金=暖，黑=减光"
+}
+]

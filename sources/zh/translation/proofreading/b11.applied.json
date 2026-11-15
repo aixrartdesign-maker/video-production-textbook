@@ -1,0 +1,11 @@
+[
+ {"key": "part10.html#112", "find": "作品集锦 (Showreel) 要标明", "replace": "作品集锦（Showreel）要标明", "why": "typography: full-width parentheses, no spaces"},
+ {"key": "part10.html#253", "find": "代表是领薪员工", "replace": "CEO是领薪员工", "why": "meaning: 代表 is a Korean calque; source says CEO"},
+ {"key": "part10.html#272", "find": "摄影指导 (DP)", "replace": "摄影指导（DP）", "why": "typography: full-width parentheses"},
+ {"key": "part10.html#275", "find": "摄影指导 (DP)", "replace": "摄影指导（DP）", "why": "typography: full-width parentheses"},
+ {"key": "part10.html#276", "find": "副导演 (AD) 到", "replace": "副导演（AD）到", "why": "typography: full-width parentheses, no spaces"},
+ {"key": "part10.html#277", "find": "副导演 (AD)", "replace": "副导演（AD）", "why": "typography: full-width parentheses"},
+ {"key": "part11.html#7", "find": "作品集锦 (Showreel)", "replace": "作品集锦（Showreel）", "why": "typography: full-width parentheses"},
+ {"key": "part11.html#46", "find": "副导演 (AD)", "replace": "副导演（AD）", "why": "typography: full-width parentheses"},
+ {"key": "part11.html#58", "find": "摄影指导 (DP)", "replace": "摄影指导（DP）", "why": "typography: full-width parentheses"}
+]

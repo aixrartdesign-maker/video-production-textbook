@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#484",
+"zh": "<b>机位推近</b>"
+},
+{
+"key": "part02.html#485",
+"zh": "背景"
+},
+{
+"key": "part02.html#486",
+"zh": "<b>滑动变焦</b>"
+},
+{
+"key": "part02.html#487",
+"zh": "<b>基准画面</b><span>人物小，背景宽</span>"
+},
+{
+"key": "part02.html#488",
+"zh": "<b>人物与背景同步放大</b><span>透视被压平</span>"
+},
+{
+"key": "part02.html#489",
+"zh": "<b>人物变大，背景不变</b><span>纵深鲜活起来</span>"
+},
+{
+"key": "part02.html#490",
+"zh": "<b>人物不变，背景逼近</b><span>眩晕 — 滑动变焦</span>"
+},
+{
+"key": "part02.html#491",
+"zh": "<b>图 21</b> 变焦与推拉 — 景别相同，空间不同。上排：俯视的机位与视角；下排：最终画面。"
+},
+{
+"key": "part02.html#492",
+"zh": "<b>G-05</b> 摄影机运动器材与路径 — 轨道车 · 摇臂 · 稳定器 · 环绕"
+},
+{
+"key": "part02.html#493",
+"zh": "<b>术语</b>"
+},
+{
+"key": "part02.html#494",
+"zh": "滑动变焦——推拉与变焦同时反向进行，保持人物大小不变，只让背景拉伸或压缩。自希区柯克的《迷魂记》（1958）以来，它也被称为“眩晕效果”。"
+},
+{
+"key": "part02.html#495",
+"zh": "推拉"
+},
+{
+"key": "part02.html#496",
+"zh": "摄影机实际移动"
+},
+{
+"key": "part02.html#497",
+"zh": "近处的被摄体变化大；远处的背景几乎不变"
+},
+{
+"key": "part02.html#498",
+"zh": "空间纵深鲜活起来"
+},
+{
+"key": "part02.html#499",
+"zh": "变焦"
+},
+{
+"key": "part02.html#500",
+"zh": "只有镜头的视角改变"
+},
+{
+"key": "part02.html#501",
+"zh": "被摄体与背景同比例放大；透视被压平"
+},
+{
+"key": "part02.html#502",
+"zh": "是窥视，不是靠近"
+},
+{
+"key": "part02.html#503",
+"zh": "运动"
+},
+{
+"key": "part02.html#504",
+"zh": "动作"
+},
+{
+"key": "part02.html#505",
+"zh": "含义"
+},
+{
+"key": "part02.html#506",
+"zh": "标记"
+},
+{
+"key": "part02.html#507",
+"zh": "横摇"
+},
+{
+"key": "part02.html#508",
+"zh": "在固定轴上水平转动"
+},
+{
+"key": "part02.html#509",
+"zh": "扫过空间、连接被摄体"
+},
+{
+"key": "part02.html#510",
+"zh": "PAN L / PAN R"
+},
+{
+"key": "part02.html#511",
+"zh": "纵摇"
+},
+{
+"key": "part02.html#512",
+"zh": "在固定轴上垂直转动"
+},
+{
+"key": "part02.html#513",
+"zh": "强调高度、介绍人物"
+},
+{
+"key": "part02.html#514",
+"zh": "TILT U / TILT D"
+},
+{
+"key": "part02.html#515",
+"zh": "推拉"
+},
+{
+"key": "part02.html#516",
+"zh": "摄影机本身前移或后退"
+},
+{
+"key": "part02.html#517",
+"zh": "沉浸或抽离"
+},
+{
+"key": "part02.html#518",
+"zh": "DOLLY IN / OUT"
+},
+{
+"key": "part02.html#519",
+"zh": "跟移"
+},
+{
+"key": "part02.html#520",
+"zh": "与被摄体并行移动"
+},
+{
+"key": "part02.html#521",
+"zh": "陪伴、追逐"
+},
+{
+"key": "part02.html#522",
+"zh": "TRACK L / R"
+},
+{
+"key": "part02.html#523",
+"zh": "变焦"
+},
+{
+"key": "part02.html#524",
+"zh": "焦距改变"
+},
+{
+"key": "part02.html#525",
+"zh": "人为的强调"
+},
+{
+"key": "part02.html#526",
+"zh": "ZOOM I / O"
+},
+{
+"key": "part02.html#527",
+"zh": "环绕"
+},
+{
+"key": "part02.html#528",
+"zh": "环绕被摄体"
+},
+{
+"key": "part02.html#529",
+"zh": "全方位展示产品"
+},
+{
+"key": "part02.html#530",
+"zh": "ARC L / R"
+},
+{
+"key": "part02.html#531",
+"zh": "升降"
+},
+{
+"key": "part02.html#532",
+"zh": "大幅度垂直运动"
+},
+{
+"key": "part02.html#533",
+"zh": "展示规模、收尾"
+},
+{
+"key": "part02.html#534",
+"zh": "CRANE U / D"
+},
+{
+"key": "part02.html#535",
+"zh": "手持"
+},
+{
+"key": "part02.html#536",
+"zh": "手持拍摄"
+},
+{
+"key": "part02.html#537",
+"zh": "紧张感、真实感"
+},
+{
+"key": "part02.html#538",
+"zh": "HH"
+},
+{
+"key": "part02.html#539",
+"zh": "斯坦尼康"
+},
+{
+"key": "part02.html#540",
+"zh": "借助稳定器移动"
+},
+{
+"key": "part02.html#541",
+"zh": "平滑地伴随移动"
+},
+{
+"key": "part02.html#542",
+"zh": "STEADI"
+},
+{
+"key": "part02.html#543",
+"zh": "固定机位"
+},
+{
+"key": "part02.html#544",
+"zh": "完全静止"
+},
+{
+"key": "part02.html#545",
+"zh": "合成的基础、观察"
+},
+{
+"key": "part02.html#546",
+"zh": "LOCKED"
+},
+{
+"key": "part02.html#547",
+"zh": "按情绪选择运动"
+},
+{
+"key": "part02.html#548",
+"zh": "情绪"
+},
+{
+"key": "part02.html#549",
+"zh": "推荐运动"
+},
+{
+"key": "part02.html#550",
+"zh": "速度"
+},
+{
+"key": "part02.html#551",
+"zh": "焦段"
+},
+{
+"key": "part02.html#552",
+"zh": "备注"
+},
+{
+"key": "part02.html#553",
+"zh": "心动、期待"
+},
+{
+"key": "part02.html#554",
+"zh": "缓慢推近"
+},
+{
+"key": "part02.html#555",
+"zh": "极慢"
+},
+{
+"key": "part02.html#556",
+"zh": "50–85 mm"
+},
+{
+"key": "part02.html#557",
+"zh": "结尾停留0.5 s"
+},
+{
+"key": "part02.html#558",
+"zh": "不安、紧张"
+},
+{
+"key": "part02.html#559",
+"zh": "轻微手持"
+},
+{
+"key": "part02.html#560",
+"zh": "不规则"
+},
+{
+"key": "part02.html#561",
+"zh": "35 mm"
+},
+{
+"key": "part02.html#562",
+"zh": "过度会让人头晕"
+},
+{
+"key": "part02.html#563",
+"zh": "自信、庄重"
+},
+{
+"key": "part02.html#564",
+"zh": "固定仰拍或环绕"
+},
+{
+"key": "part02.html#565",
+"zh": "平稳"
+},
+{
+"key": "part02.html#566",
+"zh": "24–35 mm"
+},
+{
+"key": "part02.html#567",
+"zh": "必须保持水平"
+},
+{
+"key": "part02.html#568",
+"zh": "解放感"
+},
+{
+"key": "part02.html#569",
+"zh": "摇臂上升或无人机上升"
+},
+{
+"key": "part02.html#570",
+"zh": "逐渐加速"
+},
+{
+"key": "part02.html#571",
+"zh": "广角"
+},
+{
+"key": "part02.html#572",
+"zh": "放在最后一个镜头"
+},
+{
+"key": "part02.html#573",
+"zh": "专注、决心"
+},
+{
+"key": "part02.html#574",
+"zh": "快速推近、急速变焦"
+},
+{
+"key": "part02.html#575",
+"zh": "快"
+},
+{
+"key": "part02.html#576",
+"zh": "85 mm以上"
+},
+{
+"key": "part02.html#577",
+"zh": "每部作品只用1次"
+},
+{
+"key": "part02.html#578",
+"zh": "日常、共鸣"
+},
+{
+"key": "part02.html#579",
+"zh": "固定机位或慢摇"
+},
+{
+"key": "part02.html#580",
+"zh": "极慢"
+},
+{
+"key": "part02.html#581",
+"zh": "35–50 mm"
+},
+{
+"key": "part02.html#582",
+"zh": "静止也无妨"
+},
+{
+"key": "part02.html#583",
+"zh": "<b>注意</b>"
+},
+{
+"key": "part02.html#584",
+"zh": "原则上，计划用于合成的镜头采用固定机位，或只用简单的直线运动，以便于跟踪。"
+},
+{
+"key": "part02.html#585",
+"zh": "一个镜头只用一种运动。摇、变焦、移动同时进行，观众的视线就会迷失。"
+},
+{
+"key": "part02.html#586",
+"zh": "<small>练习</small>1.9"
+},
+{
+"key": "part02.html#587",
+"zh": "任务"
+},
+{
+"key": "part02.html#588",
+"zh": "横摇、纵摇、推拉、跟移、环绕、变焦各拍5秒，并写下各自的情绪效果。"
+},
+{
+"key": "part02.html#589",
+"zh": "提示"
+},
+{
+"key": "part02.html#590",
+"zh": "运动开始和结束时各静止1秒，剪辑会更方便。"
+},
+{
+"key": "part02.html#591",
+"zh": "评价"
+},
+{
+"key": "part02.html#592",
+"zh": "运动的稳定性、动机（为什么动）"
+},
+{
+"key": "part02.html#593",
+"zh": "参考答案"
+},
+{
+"key": "part02.html#594",
+"zh": "希区柯克《迷魂记》中的滑动变焦。每一次运动都要以人物情绪的变化为动机。"
+},
+{
+"key": "part02.html#595",
+"zh": "<b>PART 02</b>视频的语言"
+},
+{
+"key": "part02.html#596",
+"zh": "剪辑方式与转场的类型"
+},
+{
+"key": "part02.html#597",
+"zh": "专业剪辑师的作品大多是硬切。完成度来自镜头的顺序，而不是特效的数量。"
+},
+{
+"key": "part02.html#598",
+"zh": "衔接镜头的三种方式"
+},
+{
+"key": "part02.html#599",
+"zh": "<b>动作剪辑</b><span>在动作进行中切</span>"
+},
+{
+"key": "part02.html#600",
+"zh": "同机位 · 同景别"
+},
+{
+"key": "part02.html#601",
+"zh": "<b>匹配剪辑</b><span>相似的形状跨越时间与空间</span>"
+},
+{
+"key": "part02.html#602",
+"zh": "<b>跳切</b><span>在同一构图内跳过时间</span>"
+},
+{
+"key": "part02.html#603",
+"zh": "<b>图 22</b> 衔接镜头的三种方式。红色竖线表示剪辑点。"
+},
+{
+"key": "part02.html#604",
+"zh": "镜头的衔接方式"
+},
+{
+"key": "part02.html#605",
+"zh": "<small>基本</small>动作剪辑"
+},
+{
+"key": "part02.html#606",
+"zh": "在动作中途切"
+},
+{
+"key": "part02.html#607",
+"zh": "开门、坐下、拿起物体 — 最流畅"
+},
+{
+"key": "part02.html#608",
+"zh": "<small>记忆</small>匹配剪辑"
+},
+{
+"key": "part02.html#609",
+"zh": "把形状 · 色彩 · 运动相似的两个画面接在一起"
+},
+{
+"key": "part02.html#610",
+"zh": "跨越时空的有力跳跃"
+},
+{
+"key": "part02.html#611",
+"zh": "<small>速度</small>跳切"
+},
+{
+"key": "part02.html#612",
+"zh": "在同一构图内跳过时间"
+},
+{
+"key": "part02.html#613",
+"zh": "短视频的基本语法"
+},
+{
+"key": "part02.html#614",
+"zh": "<small>声音</small>J剪辑 / L剪辑"
+},
+{
+"key": "part02.html#615",
+"zh": "声音先入：J；前一个声音延续：L"
+},
+{
+"key": "part02.html#616",
+"zh": "场景之间感觉连贯"
+},
+{
+"key": "part02.html#617",
+"zh": "<small>对比</small>交叉剪辑"
+},
+{
+"key": "part02.html#618",
+"zh": "交替呈现不同地点的两个事件"
+},
+{
+"key": "part02.html#619",
+"zh": "紧张与对比；对比型广告"
+},
+{
+"key": "part02.html#620",
+"zh": "<small>一镜到底</small>隐形剪辑"
+},
+{
+"key": "part02.html#621",
+"zh": "在画面被遮挡时或快速甩摇中途切"
+},
+{
+"key": "part02.html#622",
+"zh": "靠后期制作的合成完成"
+},
+{
+"key": "part02.html#623",
+"zh": "<small>视线</small>视线剪辑"
+},
+{
+"key": "part02.html#624",
+"zh": "先是目光，再是所见之物"
+},
+{
+"key": "part02.html#625",
+"zh": "最古老的衔接方式；视线匹配的基础"
+},
+{
+"key": "part02.html#626",
+"zh": "转场效果"
+},
+{
+"key": "part02.html#627",
+"zh": "转场"
+},
+{
+"key": "part02.html#628",
+"zh": "标记"
+},
+{
+"key": "part02.html#629",
+"zh": "感觉"
+},
+{
+"key": "part02.html#630",
+"zh": "适用场合"
+},
+{
+"key": "part02.html#631",
+"zh": "常见误用"
+},
+{
+"key": "part02.html#632",
+"zh": "硬切"
+},
+{
+"key": "part02.html#633",
+"zh": "CUT TO"
+}
+]

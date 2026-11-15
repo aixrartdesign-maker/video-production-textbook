@@ -1,0 +1,142 @@
+[
+{
+"key": "part05.html#265",
+"zh": "波纹修剪上一个 / 下一个"
+},
+{
+"key": "part05.html#266",
+"zh": "添加标记"
+},
+{
+"key": "part05.html#267",
+"zh": "Ctrl+K"
+},
+{
+"key": "part05.html#268",
+"zh": "在播放头处剪切"
+},
+{
+"key": "part05.html#269",
+"zh": "Shift+Delete"
+},
+{
+"key": "part05.html#270",
+"zh": "波纹删除"
+},
+{
+"key": "part05.html#271",
+"zh": "倒放 / 停止 / 播放"
+},
+{
+"key": "part05.html#272",
+"zh": "方向键"
+},
+{
+"key": "part05.html#273",
+"zh": "移动1帧"
+},
+{
+"key": "part05.html#274",
+"zh": "Ctrl+M"
+},
+{
+"key": "part05.html#275",
+"zh": "导出"
+},
+{
+"key": "part05.html#276",
+"zh": "Ctrl+S"
+},
+{
+"key": "part05.html#277",
+"zh": "保存"
+},
+{
+"key": "part05.html#278",
+"zh": "<small>练习</small>5.4"
+},
+{
+"key": "part05.html#279",
+"zh": "任务"
+},
+{
+"key": "part05.html#280",
+"zh": "在Premiere Pro里完成一条1分钟的视频：剪辑、字幕、音频整理、调色和导出。"
+},
+{
+"key": "part05.html#281",
+"zh": "提示"
+},
+{
+"key": "part05.html#282",
+"zh": "序列设置要与素材一致，并尽早设好快捷键。"
+},
+{
+"key": "part05.html#283",
+"zh": "评价"
+},
+{
+"key": "part05.html#284",
+"zh": "时间线整洁、符合输出规格"
+},
+{
+"key": "part05.html#285",
+"zh": "参考答案"
+},
+{
+"key": "part05.html#286",
+"zh": "按用途（台词、音效、音乐）分轨，并用颜色标签区分。"
+},
+{
+"key": "part05.html#287",
+"zh": "<b>PART 05</b>剪辑与后期制作"
+},
+{
+"key": "part05.html#288",
+"zh": "After Effects一览"
+},
+{
+"key": "part05.html#289",
+"zh": "After Effects不是剪辑工具，而是在单个画面内叠放、移动、合成各种元素的工具。Premiere横向处理时间，After Effects纵向处理图层。"
+},
+{
+"key": "part05.html#290",
+"zh": "用时间剪辑，用图层合成"
+},
+{
+"key": "part05.html#291",
+"zh": "<i>6</i><span><b>摄影机</b> — 虚拟摄影机 — 观看所有图层</span>"
+},
+{
+"key": "part05.html#292",
+"zh": "<i>5</i><span><b>灯光</b> — 只为3D图层提供阴影和亮度</span>"
+},
+{
+"key": "part05.html#293",
+"zh": "<i>4</i><span><b>3D文字</b> — 有厚度的文字 — 摄影机转动时能看到侧面</span>"
+},
+{
+"key": "part05.html#294",
+"zh": "<i>3</i><span><b>人物（已抠像）</b> — 去除了背景的素材</span>"
+},
+{
+"key": "part05.html#295",
+"zh": "<i>2</i><span><b>中间层</b> — 图形 · 渐变 — 纵深</span>"
+},
+{
+"key": "part05.html#296",
+"zh": "<i>1</i><span><b>背景层</b> — 最底层 — 基础素材</span>"
+},
+{
+"key": "part05.html#297",
+"zh": "最上面的图层就是画面的最前方。调换顺序，被遮住的东西就变了 — 用时间剪辑，用图层合成。"
+},
+{
+"key": "part05.html#298",
+"zh": "<b>图 47</b> After Effects的图层堆叠 — 六个图层自下而上叠放。摄影机和灯光不是图像，而是“观看图层的方式”。"
+},
+{
+"key": "part05.html#299",
+"zh": "位置、缩放、旋转、不透明度。调出五项基本关键帧属性的快捷键。"
+}
+]

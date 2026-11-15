@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#664",
+"zh": "事实上的行业标准"
+},
+{
+"key": "part03.html#665",
+"zh": "ProRes 4444"
+},
+{
+"key": "part03.html#666",
+"zh": "支持Alpha通道"
+},
+{
+"key": "part03.html#667",
+"zh": "非常大"
+},
+{
+"key": "part03.html#668",
+"zh": "动态图形中间文件"
+},
+{
+"key": "part03.html#669",
+"zh": "建议用于AE渲染"
+},
+{
+"key": "part03.html#670",
+"zh": "DNxHR"
+},
+{
+"key": "part03.html#671",
+"zh": "ProRes的替代方案"
+},
+{
+"key": "part03.html#672",
+"zh": "大"
+},
+{
+"key": "part03.html#673",
+"zh": "Windows剪辑"
+},
+{
+"key": "part03.html#674",
+"zh": "兼容Avid"
+},
+{
+"key": "part03.html#675",
+"zh": "RAW"
+},
+{
+"key": "part03.html#676",
+"zh": "传感器原始数据"
+},
+{
+"key": "part03.html#677",
+"zh": "极大"
+},
+{
+"key": "part03.html#678",
+"zh": "顶级广告"
+},
+{
+"key": "part03.html#679",
+"zh": "需单独处理"
+},
+{
+"key": "part03.html#680",
+"zh": "<small>位深</small>10-bit是底线"
+},
+{
+"key": "part03.html#681",
+"zh": "8-bit：每通道256级，约1670万色"
+},
+{
+"key": "part03.html#682",
+"zh": "10-bit：每通道1024级，超过10亿色"
+},
+{
+"key": "part03.html#683",
+"zh": "8-bit在天空和渐变处会出现色带"
+},
+{
+"key": "part03.html#684",
+"zh": "调色越重，越需要10-bit"
+},
+{
+"key": "part03.html#685",
+"zh": "学生作业也用10-bit拍摄"
+},
+{
+"key": "part03.html#686",
+"zh": "<small>色度抽样</small>色键抠像需4:2:2以上"
+},
+{
+"key": "part03.html#687",
+"zh": "4:4:4 无色彩损失，最适合合成"
+},
+{
+"key": "part03.html#688",
+"zh": "4:2:2 色彩数据减半，广告标准"
+},
+{
+"key": "part03.html#689",
+"zh": "4:2:0 色彩数据仅1/4，消费级编码格式"
+},
+{
+"key": "part03.html#690",
+"zh": "用4:2:0抠像，边缘必然出现锯齿"
+},
+{
+"key": "part03.html#691",
+"zh": "<b>注意</b>"
+},
+{
+"key": "part03.html#692",
+"zh": "色键抠像拍摄不建议用Log。对比度低会让绿色的饱和度流失，抠像边缘随之崩坏。"
+},
+{
+"key": "part03.html#693",
+"zh": "Log拍摄"
+},
+{
+"key": "part03.html#694",
+"zh": "Log会压缩传感器捕捉到的宽广亮度范围。画面看上去发灰、平淡，但高光和暗部的细节得以保留，给后期留出很大空间。不过它经不起曝光不足，所以拍得稍亮一些、后期再压下来，可以减少噪点。"
+},
+{
+"key": "part03.html#695",
+"zh": "在现场监视器上加载风格LUT，方便大家想象成片效果，但记录的必须始终是原始Log。"
+},
+{
+"key": "part03.html#696",
+"zh": "拍得稍亮，后期再压下来。<small>3.10 Log拍摄</small>"
+},
+{
+"key": "part03.html#697",
+"zh": "Log工作流程"
+},
+{
+"key": "part03.html#698",
+"zh": "<b>01</b><span>拍摄Log</span>"
+},
+{
+"key": "part03.html#699",
+"zh": "<b>02</b><span>生成代理文件</span>"
+},
+{
+"key": "part03.html#700",
+"zh": "<b>03</b><span>粗剪</span>"
+},
+{
+"key": "part03.html#701",
+"zh": "<b>04</b><span>技术LUT转换</span>"
+},
+{
+"key": "part03.html#702",
+"zh": "<b>05</b><span>一级校色</span>"
+},
+{
+"key": "part03.html#703",
+"zh": "<b>06</b><span>合成匹配</span>"
+},
+{
+"key": "part03.html#704",
+"zh": "<b>07</b><span>最终调色</span>"
+},
+{
+"key": "part03.html#705",
+"zh": "封装格式不是编码格式"
+},
+{
+"key": "part03.html#706",
+"zh": "<b>术语</b>"
+},
+{
+"key": "part03.html#707",
+"zh": "<b>封装格式</b>是容器（MP4 · MOV），<b>编码格式</b>是内容的压缩方式（H.264 · ProRes），<b>码率</b>是每秒的数据量（Mbps）。同为.mp4的两个文件，里面的编码格式可以不同。"
+},
+{
+"key": "part03.html#708",
+"zh": "类型"
+},
+{
+"key": "part03.html#709",
+"zh": "名称"
+},
+{
+"key": "part03.html#710",
+"zh": "用途"
+},
+{
+"key": "part03.html#711",
+"zh": "优点"
+},
+{
+"key": "part03.html#712",
+"zh": "注意"
+},
+{
+"key": "part03.html#713",
+"zh": "封装格式"
+},
+{
+"key": "part03.html#714",
+"zh": "MP4"
+},
+{
+"key": "part03.html#715",
+"zh": "交付 · 网络 · 社交平台标准"
+},
+{
+"key": "part03.html#716",
+"zh": "兼容性最好，文件小"
+},
+{
+"key": "part03.html#717",
+"zh": "压缩率高，剪辑吃力（长GOP）"
+},
+{
+"key": "part03.html#718",
+"zh": "封装格式"
+},
+{
+"key": "part03.html#719",
+"zh": "MOV"
+},
+{
+"key": "part03.html#720",
+"zh": "原始素材 · 剪辑 · 交付（广播）"
+},
+{
+"key": "part03.html#721",
+"zh": "可容纳ProRes等高画质编码格式"
+},
+{
+"key": "part03.html#722",
+"zh": "文件大；需确认Windows兼容性"
+},
+{
+"key": "part03.html#723",
+"zh": "封装格式"
+},
+{
+"key": "part03.html#724",
+"zh": "AVI"
+},
+{
+"key": "part03.html#725",
+"zh": "旧版Windows · 部分设备"
+},
+{
+"key": "part03.html#726",
+"zh": "结构简单"
+},
+{
+"key": "part03.html#727",
+"zh": "元数据薄弱；如今很少使用"
+},
+{
+"key": "part03.html#728",
+"zh": "封装格式"
+},
+{
+"key": "part03.html#729",
+"zh": "MXF"
+},
+{
+"key": "part03.html#730",
+"zh": "广播 · 电影摄影机原始素材"
+},
+{
+"key": "part03.html#731",
+"zh": "时间码 · 元数据丰富"
+},
+{
+"key": "part03.html#732",
+"zh": "普通播放器无法播放"
+},
+{
+"key": "part03.html#733",
+"zh": "封装格式"
+},
+{
+"key": "part03.html#734",
+"zh": "MKV · WebM"
+},
+{
+"key": "part03.html#735",
+"zh": "网络 · 存档"
+},
+{
+"key": "part03.html#736",
+"zh": "字幕 · 多轨道"
+},
+{
+"key": "part03.html#737",
+"zh": "剪辑软件支持有限"
+},
+{
+"key": "part03.html#738",
+"zh": "编码格式"
+},
+{
+"key": "part03.html#739",
+"zh": "H.264 (AVC)"
+},
+{
+"key": "part03.html#740",
+"zh": "拍摄（XAVC-S） · 交付"
+},
+{
+"key": "part03.html#741",
+"zh": "到处都能播放"
+},
+{
+"key": "part03.html#742",
+"zh": "多为8bit 4:2:0 → 调色空间小"
+},
+{
+"key": "part03.html#743",
+"zh": "编码格式"
+},
+{
+"key": "part03.html#744",
+"zh": "HEVC (H.265)"
+},
+{
+"key": "part03.html#745",
+"zh": "4K · 10bit拍摄（XAVC-HS） · 流媒体"
+},
+{
+"key": "part03.html#746",
+"zh": "同等画质下体积减半"
+},
+{
+"key": "part03.html#747",
+"zh": "剪辑负担重 → 用代理文件"
+},
+{
+"key": "part03.html#748",
+"zh": "编码格式"
+},
+{
+"key": "part03.html#749",
+"zh": "ProRes · DNxHR"
+},
+{
+"key": "part03.html#750",
+"zh": "剪辑 · 母版 · 交付（广播）"
+},
+{
+"key": "part03.html#751",
+"zh": "逐帧压缩，剪辑轻快"
+},
+{
+"key": "part03.html#752",
+"zh": "文件体积是10–20倍"
+},
+{
+"key": "part03.html#753",
+"zh": "编码格式"
+},
+{
+"key": "part03.html#754",
+"zh": "AV1"
+},
+{
+"key": "part03.html#755",
+"zh": "YouTube · Netflix服务器端"
+},
+{
+"key": "part03.html#756",
+"zh": "新一代压缩效率"
+},
+{
+"key": "part03.html#757",
+"zh": "创作者很少自行编码"
+},
+{
+"key": "part03.html#758",
+"zh": "<b>提示</b>"
+},
+{
+"key": "part03.html#759",
+"zh": "一条原则：<b>用最好的规格拍，用最轻的文件（代理）剪，按客户指定的规格交付。</b>没有指定时，用MP4 / H.264 / 1080p / 20–30 Mbps。"
+},
+{
+"key": "part03.html#760",
+"zh": "<small>练习</small>3.10"
+},
+{
+"key": "part03.html#761",
+"zh": "任务"
+},
+{
+"key": "part03.html#762",
+"zh": "分别用标准配置文件和Log配置文件拍摄同一场景，比较调色前后的差别。"
+},
+{
+"key": "part03.html#763",
+"zh": "提示"
+},
+{
+"key": "part03.html#764",
+"zh": "Log通常要多给约1挡曝光。请查看你的相机的推荐值。"
+},
+{
+"key": "part03.html#765",
+"zh": "评价"
+},
+{
+"key": "part03.html#766",
+"zh": "对位深 · 编码格式的理解；验证调色宽容度"
+},
+{
+"key": "part03.html#767",
+"zh": "参考答案"
+},
+{
+"key": "part03.html#768",
+"zh": "用同时包含天空和阴影的逆光场景，证明动态范围的差别。"
+},
+{
+"key": "part03.html#769",
+"zh": "<b>PART 03</b>摄影器材与技术"
+},
+{
+"key": "part03.html#770",
+"zh": "摄影机支撑与运动"
+},
+{
+"key": "part03.html#771",
+"zh": "按三脚架 → 滑轨 → 稳定器的顺序添置器材，15秒广告里的镜头几乎都能应付。有灯光的三脚架，永远胜过没有灯光的稳定器。"
+},
+{
+"key": "part03.html#772",
+"zh": "<b>参考照片 3.11A</b>生成图像 — 导演参考"
+},
+{
+"key": "part03.html#773",
+"zh": "<b>a</b>三脚架与液压云台"
+},
+{
+"key": "part03.html#774",
+"zh": "<b>b</b>滑轨"
+},
+{
+"key": "part03.html#775",
+"zh": "<b>c</b>三轴稳定器"
+},
+{
+"key": "part03.html#776",
+"zh": "<b>d</b>360相机 — 两枚鱼眼镜头同时拍下所有方向；构图在剪辑时完成"
+},
+{
+"key": "part03.html#777",
+"zh": "<small>三脚架</small>最重要的器材"
+},
+{
+"key": "part03.html#778",
+"zh": "平顺的横摇 · 俯仰需要球碗调平座和液压云台"
+},
+{
+"key": "part03.html#779",
+"zh": "拍摄合成素材必不可少"
+},
+{
+"key": "part03.html#780",
+"zh": "<small>滑轨</small>短距离的精确横移"
+},
+{
+"key": "part03.html#781",
+"zh": "产品广告的标配"
+},
+{
+"key": "part03.html#782",
+"zh": "性价比最高"
+},
+{
+"key": "part03.html#783",
+"zh": "<small>稳定器</small>三轴增稳"
+},
+{
+"key": "part03.html#784",
+"zh": "一个人也能拍跟拍镜头"
+},
+{
+"key": "part03.html#785",
+"zh": "配平与校准决定成败"
+},
+{
+"key": "part03.html#786",
+"zh": "<small>移动车与轨道</small>长距离直线移动"
+},
+{
+"key": "part03.html#787",
+"zh": "空间感与分量感"
+},
+{
+"key": "part03.html#788",
+"zh": "架设耗时长"
+},
+{
+"key": "part03.html#789",
+"zh": "<small>大摇臂、小摇臂</small>大幅度垂直运动"
+},
+{
+"key": "part03.html#790",
+"zh": "展现规模"
+},
+{
+"key": "part03.html#791",
+"zh": "留给最后一个镜头"
+},
+{
+"key": "part03.html#792",
+"zh": "<small>无人机</small>空中视点"
+},
+{
+"key": "part03.html#793",
+"zh": "飞行审批和安全检查先于拍摄"
+},
+{
+"key": "part03.html#794",
+"zh": "<b>提示</b>"
+},
+{
+"key": "part03.html#795",
+"zh": "使用稳定器时，屈膝走“忍者步”，减少上下颠簸。"
+},
+{
+"key": "part03.html#796",
+"zh": "学生和独立创作者的优先顺序"
+},
+{
+"key": "part03.html#797",
+"zh": "<b>01</b><i>三脚架</i>固定镜头与合成素材"
+},
+{
+"key": "part03.html#798",
+"zh": "<b>02</b><i>滑轨</i>产品的精确横移"
+},
+{
+"key": "part03.html#799",
+"zh": "<b>03</b><i>稳定器</i>跟拍镜头"
+},
+{
+"key": "part03.html#800",
+"zh": "有灯光的三脚架，永远胜过没有灯光的稳定器。<small>3.11 摄影机支撑与运动</small>"
+},
+{
+"key": "part03.html#801",
+"zh": "<b>G-10</b> 摄影机支撑 — 三脚架 · 滑轨 · 稳定器 · 肩托 · 无人机"
+},
+{
+"key": "part03.html#802",
+"zh": "选择三脚架"
+},
+{
+"key": "part03.html#803",
+"zh": "<b>参考照片 3.11B</b>生成图像 — 摄影机支撑"
+},
+{
+"key": "part03.html#804",
+"zh": "<span class=\"ph-id\">P03-TRIPOD</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>液压云台三脚架 — 横摇 · 俯仰带阻尼，才算视频三脚架</b></span>"
+},
+{
+"key": "part03.html#805",
+"zh": "<b>注意</b>液压云台三脚架 — 横摇 · 俯仰带阻尼，才算视频三脚架"
+},
+{
+"key": "part03.html#806",
+"zh": "<span class=\"ph-id\">P03-GIMBAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>稳定器 — 行走拍摄的标配。先配平，再靠电机</b></span>"
+},
+{
+"key": "part03.html#807",
+"zh": "<b>注意</b>稳定器 — 行走拍摄的标配。先配平，再靠电机"
+},
+{
+"key": "part03.html#808",
+"zh": "<small>视频用</small>液压云台三脚架"
+},
+{
+"key": "part03.html#809",
+"zh": "横摇 · 俯仰有液压阻尼 → 起停平顺"
+},
+{
+"key": "part03.html#810",
+"zh": "必须有球碗调平（调平半球）"
+},
+{
+"key": "part03.html#811",
+"zh": "承重须达负载的1.5倍以上（相机+镜头+监视器）"
+},
+{
+"key": "part03.html#812",
+"zh": "<small>拍照 · 旅行用</small>球形云台三脚架"
+},
+{
+"key": "part03.html#813",
+"zh": "轻便快捷，但横摇生涩"
+}
+]

@@ -1,0 +1,8 @@
+[
+{"key": "part11.html#207", "find": "节奏要搭配开", "replace": "节奏要混搭", "why": "other: unnatural phrasing 搭配开"},
+{"key": "part11.html#626", "find": "讲评时怎样发表", "replace": "讲评时怎样展示作品", "why": "meaning: 发表 means publish, not present"},
+{"key": "part12.html#17", "find": "发表自己的1件作品", "replace": "介绍自己的1件作品", "why": "meaning: 发表 means publish, not present"},
+{"key": "part12.html#87", "find": "从表中能看出，", "replace": "估算表清楚显示，", "why": "meaning: subject 'an estimate' missing"},
+{"key": "part12.html#113", "find": "人工手工作业最多", "replace": "人工作业最多", "why": "other: redundant 人工手工"},
+{"key": "part12.html#161", "find": "从入选的基础上", "replace": "在入选的基础上", "why": "grammar: 从…基础上 → 在…基础上"}
+]

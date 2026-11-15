@@ -1,0 +1,6 @@
+[
+{"key": "part07.html#291", "find": "双眼被迫对视而不适", "replace": "双眼被迫向内聚拢，很不舒服", "why": "meaning: eyes cross ≠ 对视 (two people looking at each other)"},
+{"key": "part07.html#356", "find": "把实时翻译读进耳朵", "replace": "在耳边播报实时翻译", "why": "other: unnatural word-for-word phrasing"},
+{"key": "part07.html#751", "find": "根据停留时间设定视频长度，连字号也一并考虑。", "replace": "根据停留时间设定视频长度，乃至字号。", "why": "meaning: source says sets (not merely considers) text size"},
+{"key": "part07.html#888", "find": "所以遮光设计是全部关键", "replace": "所以遮光设计决定一切", "why": "other: unnatural phrasing"}
+]

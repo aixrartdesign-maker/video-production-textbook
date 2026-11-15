@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_lighting.html#76",
+"zh": "Ambient↓ / 深色Solid遮罩"
+},
+{
+"key": "feature_lighting.html#77",
+"zh": "先看这些，再看灯具名称：硬还是柔，窄还是宽，多少K。最后一列是重现同样光线的After Effects 3D灯光。"
+},
+{
+"key": "feature_lighting.html#78",
+"zh": "<small>跨页 02</small>从针点聚光到环境光 — 按光束角度区分的五种光"
+},
+{
+"key": "feature_lighting.html#79",
+"zh": "从针点聚光到环境光 — 按光束角度区分的五种光"
+},
+{
+"key": "feature_lighting.html#80",
+"zh": "<b>针点聚光</b><span class=\"deg\">4–10° · 极窄</span><span>只照一张脸 — 舞台独演、产品高光</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"zh": "<b>聚光</b><span class=\"deg\">15–30° · 窄</span><span>边缘清晰可见的光圈 — 菲涅尔灯、Leko · 点缀与分离</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"zh": "<b>泛光</b><span class=\"deg\">45–70° · 宽</span><span>宽而均匀 — 开放式灯、LED平板灯 · 基础照明</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"zh": "<b>柔光</b><span class=\"deg\">漫射 · 无边缘</span><span>包裹式的光 — 柔光箱、书本光 · 皮肤 · 采访</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"zh": "<b>环境光</b><span class=\"deg\">无方向 · 四面八方</span><span>无影的基础亮度 — 天花板反射、阴天</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"zh": "<span>← 窄 · 硬 · 边缘锐利 · 戏剧化</span><span>宽 · 柔 · 无边缘 · 整体 →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"zh": "<b>图版 LT-2</b> 按光束角度区分的五种光 — 同一个人，同一位置；变的只是灯前的工具。越往左，决定的是“给人看什么”；越往右，决定的是“有多亮”。"
+},
+{
+"key": "feature_lighting.html#87",
+"zh": "光束"
+},
+{
+"key": "feature_lighting.html#88",
+"zh": "角度"
+},
+{
+"key": "feature_lighting.html#89",
+"zh": "阴影边缘"
+},
+{
+"key": "feature_lighting.html#90",
+"zh": "用途"
+},
+{
+"key": "feature_lighting.html#91",
+"zh": "代表灯具 · 附件"
+},
+{
+"key": "feature_lighting.html#92",
+"zh": "AE 3D Light设置"
+},
+{
+"key": "feature_lighting.html#93",
+"zh": "常见错误"
+},
+{
+"key": "feature_lighting.html#94",
+"zh": "针点聚光"
+},
+{
+"key": "feature_lighting.html#95",
+"zh": "极其锐利"
+},
+{
+"key": "feature_lighting.html#96",
+"zh": "单件产品的点缀光、眼神光、gobo图案"
+},
+{
+"key": "feature_lighting.html#97",
+"zh": "Dedolight、束光筒、投影附件"
+},
+{
+"key": "feature_lighting.html#98",
+"zh": "Spot · Cone 5–10 · Feather 10"
+},
+{
+"key": "feature_lighting.html#99",
+"zh": "针点聚光打在脸上 → 斑驳"
+},
+{
+"key": "feature_lighting.html#100",
+"zh": "聚光"
+},
+{
+"key": "feature_lighting.html#101",
+"zh": "清晰"
+},
+{
+"key": "feature_lighting.html#102",
+"zh": "人像主光（戏剧化）、舞台、逆光"
+},
+{
+"key": "feature_lighting.html#103",
+"zh": "菲涅尔聚光、COB标准反光罩、遮扉"
+},
+{
+"key": "feature_lighting.html#104",
+"zh": "Spot · Cone 30 · Feather 40"
+},
+{
+"key": "feature_lighting.html#105",
+"zh": "没装遮扉；光溢到墙上"
+},
+{
+"key": "feature_lighting.html#106",
+"zh": "泛光"
+},
+{
+"key": "feature_lighting.html#107",
+"zh": "模糊"
+},
+{
+"key": "feature_lighting.html#108",
+"zh": "背景 · 色键抠像墙 · 群像"
+},
+{
+"key": "feature_lighting.html#109",
+"zh": "开放式灯、LED平板灯、菲涅尔泛光"
+},
+{
+"key": "feature_lighting.html#110",
+"zh": "Spot · Cone 70 · Feather 80"
+},
+{
+"key": "feature_lighting.html#111",
+"zh": "主体和背景一样亮"
+},
+{
+"key": "feature_lighting.html#112",
+"zh": "柔光"
+},
+{
+"key": "feature_lighting.html#113",
+"zh": "面光源"
+},
+{
+"key": "feature_lighting.html#114",
+"zh": "几乎没有"
+},
+{
+"key": "feature_lighting.html#115",
+"zh": "人像主光 · 辅光、美妆、哑光产品"
+},
+{
+"key": "feature_lighting.html#116",
+"zh": "柔光箱60–120、柔光纸216/250、反射"
+},
+{
+"key": "feature_lighting.html#117",
+"zh": "Spot · Cone 90 · Feather 100 · Shadow Diffusion 20+"
+},
+{
+"key": "feature_lighting.html#118",
+"zh": "光源放得太远；又变硬了"
+},
+{
+"key": "feature_lighting.html#119",
+"zh": "环境光"
+},
+{
+"key": "feature_lighting.html#120",
+"zh": "无方向"
+},
+{
+"key": "feature_lighting.html#121",
+"zh": "无"
+},
+{
+"key": "feature_lighting.html#122",
+"zh": "曝光下限、阴天感"
+},
+{
+"key": "feature_lighting.html#123",
+"zh": "天花板反射、大型书本光、加了柔光的窗户"
+},
+{
+"key": "feature_lighting.html#124",
+"zh": "Ambient · Intensity 10–30%"
+},
+{
+"key": "feature_lighting.html#125",
+"zh": "只用环境光，然后纳闷画面为什么“平”"
+},
+{
+"key": "feature_lighting.html#126",
+"zh": "<small>跨页 03</small>改变光的工具 — 面积 · 距离 · 方向 · 强度 · 颜色，五个控制旋钮"
+},
+{
+"key": "feature_lighting.html#127",
+"zh": "柔度 = 光源的视在大小"
+},
+{
+"key": "feature_lighting.html#128",
+"zh": "<b>左硬 · 右柔</b><span>同一张脸，同样的曝光。左：一只裸灯泡；右：一个2 m柔光箱</span>"
+},
+{
+"key": "feature_lighting.html#129",
+"zh": "小光源 · 远 → 硬"
+},
+{
+"key": "feature_lighting.html#130",
+"zh": "阴影边缘极其锐利"
+},
+{
+"key": "feature_lighting.html#131",
+"zh": "大光源 · 近 → 柔"
+},
+{
+"key": "feature_lighting.html#132",
+"zh": "阴影扩散并渐渐淡去"
+},
+{
+"key": "feature_lighting.html#133",
+"zh": "<b>硬与柔的分界</b><span>不在灯的种类，而在从主体看过去光源的<b>大小</b>。把它变大（柔光 · 反射）或拉近，光就变柔</span>"
+},
+{
+"key": "feature_lighting.html#134",
+"zh": "<b>控光附件 — 各管什么</b><span>柔光箱 · 柔光材料 → 面积（柔度）</span><span>反射（天花板 · 墙面 · 泡沫板） → 面积 + 方向</span><span>蜂巢 · 遮扉 → 切掉溢光</span><span>旗板 → 挡光</span><span>色纸（CTO · CTB） → 颜色</span><span>ND → 只改亮度</span>"
+},
+{
+"key": "feature_lighting.html#135",
+"zh": "<b>图版 LT-3</b> 硬与柔 — 由光源的“视在大小”和距离决定。控光附件就是改变这两项的旋钮。"
+},
+{
+"key": "feature_lighting.html#136",
+"zh": "<b>2<em>x</em></b>距离 → 亮度1/4（−2挡）"
+},
+{
+"key": "feature_lighting.html#137",
+"zh": "<b>216<em>/ 250</em></b>全 / 半柔光纸 — 约−1.5 / −0.8挡"
+},
+{
+"key": "feature_lighting.html#138",
+"zh": "<b>5600<em>K</em></b>日光 · <b>3200<em>K</em></b>钨丝灯 · CTO = 5600→3200"
+},
+{
+"key": "feature_lighting.html#139",
+"zh": "<b>1<em>个</em></b>每个画面唯一的阴影方向"
+},
+{
+"key": "feature_lighting.html#140",
+"zh": "<small>跨页 04</small>八种布光方案 — 用俯视平面图来学"
+},
+{
+"key": "feature_lighting.html#141",
+"zh": "八种方案 — 从上往下看"
+},
+{
+"key": "feature_lighting.html#142",
+"zh": "<b>01 基本三点布光</b><span>主光45° + 辅光 + 轮廓光 · 采访的起点</span>"
+},
+{
+"key": "feature_lighting.html#143",
+"zh": "<b>02 伦勃朗光</b><span>主光45°高位 + 黑板 · 脸颊上的三角光</span>"
+},
+{
+"key": "feature_lighting.html#144",
+"zh": "<b>03 蝴蝶光</b><span>主光在正前上方 + 下巴下方放反光板 · 美妆</span>"
+},
+{
+"key": "feature_lighting.html#145",
+"zh": "<b>04 分割光</b><span>一盏主光置于90° · 脸被一分为二</span>"
+},
+{
+"key": "feature_lighting.html#146",
+"zh": "<b>05 环形光</b><span>主光35° + 弱辅光 · 最稳妥的选择</span>"
+},
+{
+"key": "feature_lighting.html#147",
+"zh": "<b>06 书本光</b><span>主光 → 反射 → 柔光 · 最柔的光</span>"
+},
+{
+"key": "feature_lighting.html#148",
+"zh": "<b>07 逆光 · 轮廓光</b><span>后方两侧各一盏灯 + 前方反光板 · 只留轮廓</span>"
+},
+{
+"key": "feature_lighting.html#149",
+"zh": "<b>08 产品顶光</b><span>上方大面积柔光 + 后方条形柔光箱 + 两侧白板</span>"
+},
+{
+"key": "feature_lighting.html#150",
+"zh": "<b>图版 LT-4</b> 八种布光方案 — 同一间摄影棚、同一位置的同一主体；这组3D布置中变的只有灯位。看照片，记住的是“氛围”；看平面图，记住的是“角度”。"
+},
+{
+"key": "feature_lighting.html#151",
+"zh": "<small>跨页 05</small>软件里的光 — After Effects的四种3D灯光与光效工具"
+},
+{
+"key": "feature_lighting.html#152",
+"zh": "After Effects的3D灯光是片场布光的缩比模型。它们用同一套词汇（聚光、点光、环境光），控制同样的属性（强度、颜色、锥角、衰减、阴影）。在片场会用光，在软件里也会做出同样的判断。"
+},
+{
+"key": "feature_lighting.html#153",
+"zh": "软件里的光 — 四种灯光"
+},
+{
+"key": "feature_lighting.html#154",
+"zh": "<b>Parallel</b><span class=\"deg\">片场 · 太阳 · HMI</span><span>平行而均匀 — 所有阴影朝同一方向，与距离无关</span>"
+},
+{
+"key": "feature_lighting.html#155",
+"zh": "<b>Spot</b><span class=\"deg\">片场 · 菲涅尔灯 · 柔光箱</span><span>锥形 — 默认的主光。Cone Angle · Feather · Falloff</span>"
+},
+{
+"key": "feature_lighting.html#156",
+"zh": "<b>Point</b><span class=\"deg\">片场 · 灯泡 · 蜡烛 · 灯管</span><span>向四面八方 — 随距离变暗（Falloff）</span>"
+},
+{
+"key": "feature_lighting.html#157",
+"zh": "<b>Ambient</b><span class=\"deg\">片场 · 天花板反射 · 阴天</span><span>无影的基础亮度 — 只给10–30%；再多就发平</span>"
+},
+{
+"key": "feature_lighting.html#158",
+"zh": "<b>布置顺序</b><span>① Ambient 10–20%打底</span><span>② 一盏Spot作主光（开启Shadow）</span><span>③ Point或弱Spot作辅光（关闭Shadow）</span><span>④ 后方的Spot作轮廓光</span><span>⑤ 材质选项：Accepts Shadows · Casts Shadows</span>"
+},
+{
+"key": "feature_lighting.html#159",
+"zh": "<b>图版 LT-5</b> After Effects的四种3D灯光及其片场对应 — 同一个球体和方盒，分别只用四种灯光之一照亮。软件里的光是片场布光的缩比模型。"
+},
+{
+"key": "feature_lighting.html#160",
+"zh": "片场任务"
+},
+{
+"key": "feature_lighting.html#161",
+"zh": "After Effects"
+},
+{
+"key": "feature_lighting.html#162",
+"zh": "Premiere Pro / Resolve"
+},
+{
+"key": "feature_lighting.html#163",
+"zh": "关键参数 · 提示"
+},
+{
+"key": "feature_lighting.html#164",
+"zh": "用聚光照亮一个点"
+},
+{
+"key": "feature_lighting.html#165",
+"zh": "3D Spot Light · 或白色Solid加Mask + Feather，混合模式Add/Overlay"
+},
+{
+"key": "feature_lighting.html#166",
+"zh": "Lumetri Vignette（反向） · Masked Curves"
+},
+{
+"key": "feature_lighting.html#167",
+"zh": "蒙版羽化200+ · 不透明度20–40% · 边缘带一点颜色（暖色）"
+},
+{
+"key": "feature_lighting.html#168",
+"zh": "窗格 · 树叶gobo图案"
+},
+{
+"key": "feature_lighting.html#169",
+"zh": "Fractal Noise → Levels → Track Matte / Light Transmission"
+},
+{
+"key": "feature_lighting.html#170",
+"zh": "2个Masked Lumetri（亮/暗）"
+},
+{
+"key": "feature_lighting.html#171",
+"zh": "让Evolution缓慢变化，做出“随风摇曳的影子”"
+},
+{
+"key": "feature_lighting.html#172",
+"zh": "逆光轮廓 · 辉光"
+},
+{
+"key": "feature_lighting.html#173",
+"zh": "Light Wrap（配合Keylight） · Glow（Threshold 70–85） · CC Light Rays"
+},
+{
+"key": "feature_lighting.html#174",
+"zh": "Lumetri Highlights↑ + Glow（插件）"
+},
+{
+"key": "feature_lighting.html#175",
+"zh": "把Glow的Composite Original设为“Behind”，保持含蓄 · Light Rays对准光源位置"
+},
+{
+"key": "feature_lighting.html#176",
+"zh": "镜头眩光"
+},
+{
+"key": "feature_lighting.html#177",
+"zh": "Lens Flare（内置） · Optical Flares（插件） · CC Light Burst 2.5"
+},
+{
+"key": "feature_lighting.html#178",
+"zh": "Lens Flare（内置）"
+},
+{
+"key": "feature_lighting.html#179",
+"zh": "光源位置关联跟踪数据 · 亮度60–80% · Screen混合"
+},
+{
+"key": "feature_lighting.html#180",
+"zh": "让光扫过标志"
+},
+{
+"key": "feature_lighting.html#181",
+"zh": "CC Light Sweep · Shine(Trapcode)"
+},
+{
+"key": "feature_lighting.html#182",
+"zh": "Light Sweep（Legacy） · 蒙版动画"
+},
+{
+"key": "feature_lighting.html#183",
+"zh": "Width 30–60 · Sweep Intensity 20–40 · 1秒内扫一次，绝不扫两次"
+},
+{
+"key": "feature_lighting.html#184",
+"zh": "投下阴影（合成）"
+},
+{
+"key": "feature_lighting.html#185",
+"zh": "Drop Shadow(2D) · Radial Shadow · 3D Light Casts Shadows · Shadow Catcher"
+},
+{
+"key": "feature_lighting.html#186",
+"zh": "Drop Shadow（内置）"
+},
+{
+"key": "feature_lighting.html#187",
+"zh": "Softness 20–40 · Opacity 40–60 · 方向与主光一致"
+},
+{
+"key": "feature_lighting.html#188",
+"zh": "微调整体曝光 · 反差"
+},
+{
+"key": "feature_lighting.html#189",
+"zh": "Lumetri Color · Curves · Exposure · Levels"
+},
+{
+"key": "feature_lighting.html#190",
+"zh": "Lumetri Basic: Exposure · Contrast · Highlights · Shadows · Whites · Blacks"
+},
+{
+"key": "feature_lighting.html#191",
+"zh": "顺序：曝光 → 白平衡 → 反差 → 高光/阴影 → 最后才做风格"
+},
+{
+"key": "feature_lighting.html#192",
+"zh": "负补光（压暗）"
+},
+{
+"key": "feature_lighting.html#193",
+"zh": "Black Solid + Mask + Multiply · Vignette"
+},
+{
+"key": "feature_lighting.html#194",
+"zh": "Lumetri Vignette Amount −1至−2 · Masked Curves"
+},
+{
+"key": "feature_lighting.html#195",
+"zh": "把边缘压暗1挡，视线就会移向中心"
+},
+{
+"key": "feature_lighting.html#196",
+"zh": "色温色纸"
+},
+{
+"key": "feature_lighting.html#197",
+"zh": "Tint · Color Balance · Lumetri Temperature"
+},
+{
+"key": "feature_lighting.html#198",
+"zh": "Lumetri Temperature / Tint"
+},
+{
+"key": "feature_lighting.html#199",
+"zh": "CTO效果：Temperature +10–20 · 用Color Wheels做暖高光/冷阴影"
+},
+{
+"key": "feature_lighting.html#200",
+"zh": "道具灯闪烁 · 烛光"
+},
+{
+"key": "feature_lighting.html#201",
+"zh": "给Point Light的Intensity加wiggle(4, 20)表达式"
+},
+{
+"key": "feature_lighting.html#202",
+"zh": "Opacity关键帧 · 插件"
+},
+{
+"key": "feature_lighting.html#203",
+"zh": "频率2–5 Hz，幅度10–20% — 再多就成了坏掉的荧光灯"
+},
+{
+"key": "feature_lighting.html#204",
+"zh": "<b>提示</b>"
+},
+{
+"key": "feature_lighting.html#205",
+"zh": "软件里的光是在片场的光之上“添加”，而不是“制造”。拍摄时把唯一的阴影方向定对，后期制作中想叠加什么都行。"
+},
+{
+"key": "feature_lighting.html#206",
+"zh": "名称会变（版本 · 插件）。不变的是<b>强度 → 方向 → 面积 → 颜色</b>这个顺序，以及阴影方向只有一个这条规则。"
+},
+{
+"key": "feature_lighting.html#207",
+"zh": "<small>跨页 06</small>片场布光速查表 — 10分钟完成布光的顺序"
+},
+{
+"key": "feature_lighting.html#208",
+"zh": "<b>01</b><i>关灯</i>关掉房间里所有的荧光灯 · 杂散光。从黑暗开始。"
+},
+{
+"key": "feature_lighting.html#209",
+"zh": "<b>02</b><i>一盏主光</i>主光置于主体的45°/45°位置。按主光曝光（以f/2.8、ISO 800为基准）。"
+},
+{
+"key": "feature_lighting.html#210",
+"zh": "<b>03</b><i>辅光</i>对侧放反光板，或用1/3强度的柔光。光比由此决定。"
+},
+{
+"key": "feature_lighting.html#211",
+"zh": "<b>04</b><i>分离</i>轮廓光或背景光。背景比主体暗1挡。"
+},
+{
+"key": "feature_lighting.html#212",
+"zh": "<b>05</b><i>颜色 · 整理</i>统一色温，用遮扉 · 旗板切掉溢光，确认安全（沙袋 · 线缆）。"
+},
+{
+"key": "feature_lighting.html#213",
+"zh": "<small>光比</small>主光 : 辅光"
+},
+{
+"key": "feature_lighting.html#214",
+"zh": "2:1（1挡） — 明亮、商业、美妆"
+},
+{
+"key": "feature_lighting.html#215",
+"zh": "4:1（2挡） — 标准剧情片、采访"
+},
+{
+"key": "feature_lighting.html#216",
+"zh": "8:1以上（3挡以上） — 黑色电影、惊悚片"
+},
+{
+"key": "feature_lighting.html#217",
+"zh": "无辅光 — 剪影、分割光"
+},
+{
+"key": "feature_lighting.html#218",
+"zh": "<small>色温</small>要混，就有意地混"
+},
+{
+"key": "feature_lighting.html#219",
+"zh": "日光5600 K · 钨丝灯3200 K · 荧光灯4000–4500 K"
+},
+{
+"key": "feature_lighting.html#220",
+"zh": "窗光 + 钨丝灯 → 窗上贴CTO，或灯上加CTB"
+},
+{
+"key": "feature_lighting.html#221",
+"zh": "只朝一个方向混：“窗=冷，室内=暖”"
+},
+{
+"key": "feature_lighting.html#222",
+"zh": "相机白平衡按主光设定"
+},
+{
+"key": "feature_lighting.html#223",
+"zh": "<small>安全</small>事故从灯光开始"
+},
+{
+"key": "feature_lighting.html#224",
+"zh": "每个灯架都压沙袋，线缆用胶带固定在地面"
+},
+{
+"key": "feature_lighting.html#225",
+"zh": "钨丝灯30 cm内不放色纸 · 布料（火灾）"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#600",
+"zh": "Gain"
+},
+{
+"key": "part05.html#601",
+"zh": "高光"
+},
+{
+"key": "part05.html#602",
+"zh": "高光容易溢出"
+},
+{
+"key": "part05.html#603",
+"zh": "曲线"
+},
+{
+"key": "part05.html#604",
+"zh": "分区间精确控制"
+},
+{
+"key": "part05.html#605",
+"zh": "S形曲线是提高对比度的基本手法"
+},
+{
+"key": "part05.html#606",
+"zh": "HSL二级调色"
+},
+{
+"key": "part05.html#607",
+"zh": "只调整选中的颜色"
+},
+{
+"key": "part05.html#608",
+"zh": "修正肤色必不可少"
+},
+{
+"key": "part05.html#609",
+"zh": "色轮"
+},
+{
+"key": "part05.html#610",
+"zh": "按影调区间着色"
+},
+{
+"key": "part05.html#611",
+"zh": "阴影偏冷、高光偏暖：基本风格"
+},
+{
+"key": "part05.html#612",
+"zh": "<b>G-17</b> 调色 — Log原片与两种风格 · GPT生成图像，仅作概念示意"
+},
+{
+"key": "part05.html#613",
+"zh": "<small>练习</small>5.8"
+},
+{
+"key": "part05.html#614",
+"zh": "任务"
+},
+{
+"key": "part05.html#615",
+"zh": "为同一段素材做出两种不同的风格，并说明各自表达的情绪。"
+},
+{
+"key": "part05.html#616",
+"zh": "提示"
+},
+{
+"key": "part05.html#617",
+"zh": "先完成一级校色（曝光、白平衡），再进入二级调色。盯住示波器。"
+},
+{
+"key": "part05.html#618",
+"zh": "评价"
+},
+{
+"key": "part05.html#619",
+"zh": "肤色得以保留，风格统一"
+},
+{
+"key": "part05.html#620",
+"zh": "参考答案"
+},
+{
+"key": "part05.html#621",
+"zh": "对照一张参考剧照匹配风格，并附上示波器截图。"
+},
+{
+"key": "part05.html#622",
+"zh": "<b>PART 05</b>剪辑与后期制作"
+},
+{
+"key": "part05.html#623",
+"zh": "移动端与自动化剪辑工具"
+},
+{
+"key": "part05.html#624",
+"zh": "自动化的产出只是草稿。不经检查就交付，信任会一次丢光。"
+},
+{
+"key": "part05.html#625",
+"zh": "<b>注意</b>"
+},
+{
+"key": "part05.html#626",
+"zh": "商用时，要确认模板和音乐的授权范围；未经许可，绝不克隆真人的声音。"
+},
+{
+"key": "part05.html#627",
+"zh": "<small>短视频</small>CapCut"
+},
+{
+"key": "part05.html#628",
+"zh": "模板、自动字幕、节拍同步、背景移除"
+},
+{
+"key": "part05.html#629",
+"zh": "适合批量制作短视频"
+},
+{
+"key": "part05.html#630",
+"zh": "商用：确认模板 · 音乐授权"
+},
+{
+"key": "part05.html#631",
+"zh": "<small>字幕</small>Vrew"
+},
+{
+"key": "part05.html#632",
+"zh": "由语音自动生成字幕，批量删除静音"
+},
+{
+"key": "part05.html#633",
+"zh": "讲座、采访、讲解视频的初剪"
+},
+{
+"key": "part05.html#634",
+"zh": "专有名词错误由人工检查"
+},
+{
+"key": "part05.html#635",
+"zh": "<small>语音</small>Typecast"
+},
+{
+"key": "part05.html#636",
+"zh": "文字转语音"
+},
+{
+"key": "part05.html#637",
+"zh": "旁白草稿、多语言配音"
+},
+{
+"key": "part05.html#638",
+"zh": "不得擅自克隆真人声音"
+},
+{
+"key": "part05.html#639",
+"zh": "<small>生成式</small>Runway等"
+},
+{
+"key": "part05.html#640",
+"zh": "由文字和图像生成视频、背景移除"
+},
+{
+"key": "part05.html#641",
+"zh": "替代无法拍摄的插入镜头"
+},
+{
+"key": "part05.html#642",
+"zh": "<small>3D</small>Meshy"
+},
+{
+"key": "part05.html#643",
+"zh": "把图像转成3D模型"
+},
+{
+"key": "part05.html#644",
+"zh": "道具 · 角色原型，绑定与动画预览"
+},
+{
+"key": "part05.html#645",
+"zh": "<small>图像</small>Photoroom等"
+},
+{
+"key": "part05.html#646",
+"zh": "自动移除背景、修图"
+},
+{
+"key": "part05.html#647",
+"zh": "产品图清理"
+},
+{
+"key": "part05.html#648",
+"zh": "自动化工具的使用规则"
+},
+{
+"key": "part05.html#649",
+"zh": "自动字幕里的专有名词、自动剪辑的节奏、生成视频里的手指和文字：这些一定要由人来检查。"
+},
+{
+"key": "part05.html#650",
+"zh": "<small>练习</small>5.9"
+},
+{
+"key": "part05.html#651",
+"zh": "任务"
+},
+{
+"key": "part05.html#652",
+"zh": "用手机剪辑应用和自动化功能，在15分钟内把同一素材做成短视频。"
+},
+{
+"key": "part05.html#653",
+"zh": "提示"
+},
+{
+"key": "part05.html#654",
+"zh": "自动字幕一定要校对。"
+},
+{
+"key": "part05.html#655",
+"zh": "评价"
+},
+{
+"key": "part05.html#656",
+"zh": "速度与质量的平衡，对自动化产出的修正"
+},
+{
+"key": "part05.html#657",
+"zh": "参考答案"
+},
+{
+"key": "part05.html#658",
+"zh": "列出人工在自动剪辑结果中修改了哪些地方。"
+},
+{
+"key": "part05.html#659",
+"zh": "<b>PART 05</b>剪辑与后期制作"
+},
+{
+"key": "part05.html#660",
+"zh": "输出规格与交付"
+},
+{
+"key": "part05.html#661",
+"zh": "编码格式因用途而异，常见的输出问题也都有已知的原因。"
+},
+{
+"key": "part05.html#662",
+"zh": "<span class=\"ph-id\">P05-DELIVER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>交付与备份</b>两块贴好标签的移动固态硬盘、一张纸质检查表、一台显示导出进度条的笔记本电脑</span>"
+},
+{
+"key": "part05.html#663",
+"zh": "<b>注意</b>交付与备份 — 导出文件存放在两个独立的介质上，并对照检查表逐项核对规格"
+},
+{
+"key": "part05.html#664",
+"zh": "<b>提示</b>"
+},
+{
+"key": "part05.html#665",
+"zh": "导出前，把分辨率、码率、响度（LUFS）和文件命名规则列成表。"
+},
+{
+"key": "part05.html#666",
+"zh": "按用途划分的输出规格"
+},
+{
+"key": "part05.html#667",
+"zh": "用途"
+},
+{
+"key": "part05.html#668",
+"zh": "编码格式 / 文件格式"
+},
+{
+"key": "part05.html#669",
+"zh": "关键设置"
+},
+{
+"key": "part05.html#670",
+"zh": "交给剪辑软件"
+},
+{
+"key": "part05.html#671",
+"zh": "ProRes 422 HQ"
+},
+{
+"key": "part05.html#672",
+"zh": "不需要Alpha时的默认选择"
+},
+{
+"key": "part05.html#673",
+"zh": "带Alpha的中间文件"
+},
+{
+"key": "part05.html#674",
+"zh": "ProRes 4444或PNG序列"
+},
+{
+"key": "part05.html#675",
+"zh": "启用Alpha通道"
+},
+{
+"key": "part05.html#676",
+"zh": "网络上传"
+},
+{
+"key": "part05.html#677",
+"zh": "H.264 mp4"
+},
+{
+"key": "part05.html#678",
+"zh": "4K用40–60 Mbps"
+},
+{
+"key": "part05.html#679",
+"zh": "放映、展览"
+},
+{
+"key": "part05.html#680",
+"zh": "ProRes 422 HQ或无压缩"
+},
+{
+"key": "part05.html#681",
+"zh": "检查循环的首尾帧"
+},
+{
+"key": "part05.html#682",
+"zh": "户外LED"
+},
+{
+"key": "part05.html#683",
+"zh": "以媒体运营方的规格为准"
+},
+{
+"key": "part05.html#684",
+"zh": "事先确认分辨率和帧率"
+},
+{
+"key": "part05.html#685",
+"zh": "归档"
+},
+{
+"key": "part05.html#686",
+"zh": "保留原始编码格式"
+},
+{
+"key": "part05.html#687",
+"zh": "工程文件与素材一并保存"
+},
+{
+"key": "part05.html#688",
+"zh": "按症状排查"
+},
+{
+"key": "part05.html#689",
+"zh": "症状"
+},
+{
+"key": "part05.html#690",
+"zh": "原因"
+},
+{
+"key": "part05.html#691",
+"zh": "解决办法"
+},
+{
+"key": "part05.html#692",
+"zh": "渲染非常慢"
+},
+{
+"key": "part05.html#693",
+"zh": "素材分辨率高、效果叠加多"
+},
+{
+"key": "part05.html#694",
+"zh": "代理、预渲染、减少效果"
+},
+{
+"key": "part05.html#695",
+"zh": "文字边缘粗糙"
+},
+{
+"key": "part05.html#696",
+"zh": "未开启连续栅格化"
+},
+{
+"key": "part05.html#697",
+"zh": "打开该选项"
+},
+{
+"key": "part05.html#698",
+"zh": "颜色看起来不一样"
+},
+{
+"key": "part05.html#699",
+"zh": "色彩管理不一致"
+},
+{
+"key": "part05.html#700",
+"zh": "固定工程的色彩空间"
+},
+{
+"key": "part05.html#701",
+"zh": "合成画面抖动"
+},
+{
+"key": "part05.html#702",
+"zh": "跟踪数据不稳定"
+},
+{
+"key": "part05.html#703",
+"zh": "重新跟踪，做平滑处理"
+},
+{
+"key": "part05.html#704",
+"zh": "文件打不开"
+},
+{
+"key": "part05.html#705",
+"zh": "未安装对应的编码格式"
+},
+{
+"key": "part05.html#706",
+"zh": "用通用编码格式重新导出"
+},
+{
+"key": "part05.html#707",
+"zh": "音量太小"
+},
+{
+"key": "part05.html#708",
+"zh": "未调整响度"
+},
+{
+"key": "part05.html#709",
+"zh": "按平台响度做标准化"
+},
+{
+"key": "part05.html#710",
+"zh": "<small>练习</small>5.10"
+},
+{
+"key": "part05.html#711",
+"zh": "任务"
+},
+{
+"key": "part05.html#712",
+"zh": "把同一视频按三种规格导出：YouTube、Instagram Reels和影院放映。"
+},
+{
+"key": "part05.html#713",
+"zh": "提示"
+},
+{
+"key": "part05.html#714",
+"zh": "先把分辨率、码率、响度（LUFS）和文件命名规则列成表。"
+},
+{
+"key": "part05.html#715",
+"zh": "评价"
+},
+{
+"key": "part05.html#716",
+"zh": "规格合规，文件管理"
+},
+{
+"key": "part05.html#717",
+"zh": "参考答案"
+},
+{
+"key": "part05.html#718",
+"zh": "制作自己的交付检查表，并附上每次导出的结果。"
+},
+{
+"key": "part05.html#719",
+"zh": "<b>PART 05</b>剪辑与后期制作"
+},
+{
+"key": "part05.html#720",
+"zh": "表达式与自动化"
+},
+{
+"key": "part05.html#721",
+"zh": "After Effects进阶。表达式不用关键帧就能算出数值。不必懂语法：只学五个，工作时间就会大幅缩短。"
+},
+{
+"key": "part05.html#722",
+"zh": "<b>图 53</b> 5种缓动曲线"
+},
+{
+"key": "part05.html#723",
+"zh": "表达式"
+},
+{
+"key": "part05.html#724",
+"zh": "作用"
+},
+{
+"key": "part05.html#725",
+"zh": "示例"
+},
+{
+"key": "part05.html#726",
+"zh": "wiggle(频率, 振幅)"
+},
+{
+"key": "part05.html#727",
+"zh": "随机抖动"
+},
+{
+"key": "part05.html#728",
+"zh": "手持感、故障效果、颤动"
+},
+{
+"key": "part05.html#729",
+"zh": "loopOut()"
+},
+{
+"key": "part05.html#730",
+"zh": "无限循环关键帧区段"
+},
+{
+"key": "part05.html#731",
+"zh": "旋转的标志、循环背景"
+},
+{
+"key": "part05.html#732",
+"zh": "time * value"
+},
+{
+"key": "part05.html#733",
+"zh": "数值随时间变化"
+},
+{
+"key": "part05.html#734",
+"zh": "匀速旋转、滚动"
+},
+{
+"key": "part05.html#735",
+"zh": "linear(t, a, b, c, d)"
+},
+{
+"key": "part05.html#736",
+"zh": "把一个数值的变化映射到另一个数值上"
+},
+{
+"key": "part05.html#737",
+"zh": "一个滑块驱动多个属性"
+},
+{
+"key": "part05.html#738",
+"zh": "父子关系（属性关联器）"
+},
+{
+"key": "part05.html#739",
+"zh": "直接取用另一属性的数值"
+},
+{
+"key": "part05.html#740",
+"zh": "把多个元素当作一个来控制"
+},
+{
+"key": "part05.html#741",
+"zh": "提高工作效率的习惯"
+},
+{
+"key": "part05.html#742",
+"zh": "<b>注意</b>"
+},
+{
+"key": "part05.html#743",
+"zh": "预合成可以放手用，但嵌套到3层以上就不好管理了。"
+},
+{
+"key": "part05.html#744",
+"zh": "把常用的设置存成动画预设，反复使用。"
+},
+{
+"key": "part05.html#745",
+"zh": "把空对象做成控制器，用一个滑块调整多个数值。"
+},
+{
+"key": "part05.html#746",
+"zh": "一定要给图层命名。40个没名字的图层，到第二天连你自己也看不懂。"
+},
+{
+"key": "part05.html#747",
+"zh": "用颜色标签给图层分类。文字、背景、效果、摄像机——各用一种颜色。"
+},
+{
+"key": "part05.html#748",
+"zh": "定期用工程清理工具删除未使用的素材。"
+},
+{
+"key": "part05.html#749",
+"zh": "Premiere与After Effects的联动"
+}
+]

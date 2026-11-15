@@ -1,0 +1,62 @@
+[
+ {
+  "key": "part00.html#165",
+  "find": "原因就会缩小范围",
+  "replace": "就能缩小原因的范围",
+  "why": "other: unnatural phrasing"
+ },
+ {
+  "key": "prologue.html#141",
+  "find": "策划（分镜 · PPM）",
+  "replace": "策划（分镜、PPM）",
+  "why": "typography: 、 between parallel items in prose"
+ },
+ {
+  "key": "prologue.html#141",
+  "find": "布光 · 声音",
+  "replace": "布光与声音",
+  "why": "typography: · in prose"
+ },
+ {
+  "key": "prologue.html#141",
+  "find": "行业 · 职业",
+  "replace": "行业与职业",
+  "why": "typography: · in prose"
+ },
+ {
+  "key": "prologue.html#144",
+  "find": "按钮 · 字幕 · 账号名",
+  "replace": "按钮、字幕、账号名",
+  "why": "typography: 、 between parallel items in prose"
+ },
+ {
+  "key": "part02.html#29",
+  "find": "节拍 · 节奏 · 调性 · 理性蒙太奇",
+  "replace": "节拍、节奏、调性、理性蒙太奇",
+  "why": "typography: 、 between parallel items in prose"
+ },
+ {
+  "key": "part02.html#32",
+  "find": "大卫·波德维尔 · 克里斯汀·汤普森",
+  "replace": "大卫·波德维尔、克里斯汀·汤普森",
+  "why": "typography: · clashes with name-internal dot"
+ },
+ {
+  "key": "part02.html#310",
+  "find": "马克斯·韦特海默 · 沃尔夫冈·柯勒 · 库尔特·考夫卡",
+  "replace": "马克斯·韦特海默、沃尔夫冈·柯勒、库尔特·考夫卡",
+  "why": "typography: · clashes with name-internal dot"
+ },
+ {
+  "key": "part02.html#60",
+  "find": "镜头 · 场景 · 段落",
+  "replace": "镜头、场景、段落",
+  "why": "typography: 、 between parallel items in prose"
+ },
+ {
+  "key": "part02.html#300",
+  "find": "俯拍 · 平视 · 仰拍",
+  "replace": "俯拍、平视、仰拍",
+  "why": "typography: 、 between parallel items in prose"
+ }
+]

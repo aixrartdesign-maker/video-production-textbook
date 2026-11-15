@@ -1,0 +1,602 @@
+[
+{
+"key": "part14a.html#347",
+"zh": "<small>线条粗细</small>细而均匀"
+},
+{
+"key": "part14a.html#348",
+"zh": "粗细均匀的细线"
+},
+{
+"key": "part14a.html#349",
+"zh": "<small>文字</small>无"
+},
+{
+"key": "part14a.html#350",
+"zh": "无文字、无字样"
+},
+{
+"key": "part14a.html#351",
+"zh": "<small>人物</small>剪影或中性人形"
+},
+{
+"key": "part14a.html#352",
+"zh": "中性剪影人形"
+},
+{
+"key": "part14a.html#353",
+"zh": "<small>比例</small>横向示意图用16:9，人物对比图用4:3"
+},
+{
+"key": "part14a.html#354",
+"zh": "画幅比16:9或4:3"
+},
+{
+"key": "part14a.html#355",
+"zh": "制作图版的注意事项"
+},
+{
+"key": "part14a.html#356",
+"zh": "生成图像里的文字通常会变成乱码。需要的文字，在编辑阶段自己加。"
+},
+{
+"key": "part14a.html#357",
+"zh": "有人物的图版，要求生成剪影或中性人形，以免看起来像真人。"
+},
+{
+"key": "part14a.html#358",
+"zh": "不要要求复现特定电影或广告的画面。这既侵犯版权，也违背伦理。"
+},
+{
+"key": "part14a.html#359",
+"zh": "商业用途要查看工具的使用条款，印刷和发行前要确认授权范围。"
+},
+{
+"key": "part14a.html#360",
+"zh": "用于印刷时，先按300 dpi算出所需分辨率，再放大。"
+},
+{
+"key": "part14a.html#361",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#362",
+"zh": "参考文献与资料来源"
+},
+{
+"key": "part14a.html#363",
+"zh": "正文中的数据和标准，依据以下几类公开资料和行业惯例。"
+},
+{
+"key": "part14a.html#364",
+"zh": "<b>关于资料来源</b>"
+},
+{
+"key": "part14a.html#365",
+"zh": "技术规格和平台政策经常变动。制作和交付前，务必查阅最新的官方文件。书中提到的导演和制作公司的作品仅用于分析技法，未转载任何画面。"
+},
+{
+"key": "part14a.html#366",
+"zh": "<small>理论与历史</small>从知觉到布光手册"
+},
+{
+"key": "part14a.html#367",
+"zh": "关于似动现象和φ现象的经典心理学文献"
+},
+{
+"key": "part14a.html#368",
+"zh": "电影史概论和电影理论入门（蒙太奇理论、经典剪辑语法）"
+},
+{
+"key": "part14a.html#369",
+"zh": "苏联蒙太奇原始文献的译本（库里肖夫效应、冲突蒙太奇）"
+},
+{
+"key": "part14a.html#370",
+"zh": "摄影与布光手册（三点布光、光比、人像布光样式）"
+},
+{
+"key": "part14a.html#371",
+"zh": "<small>技术标准</small>标准与厂商文件"
+},
+{
+"key": "part14a.html#372",
+"zh": "国际广播与电影标准（分辨率、帧率、色彩空间）"
+},
+{
+"key": "part14a.html#373",
+"zh": "摄影机厂商的官方手册和白皮书"
+},
+{
+"key": "part14a.html#374",
+"zh": "Adobe Premiere Pro和After Effects官方帮助文档"
+},
+{
+"key": "part14a.html#375",
+"zh": "Blackmagic Design DaVinci Resolve官方手册"
+},
+{
+"key": "part14a.html#376",
+"zh": "LED显示屏厂商的规格书（像素间距、亮度、刷新率）"
+},
+{
+"key": "part14a.html#377",
+"zh": "<small>平台指南</small>各服务的官方指引"
+},
+{
+"key": "part14a.html#378",
+"zh": "YouTube创作者学院和官方帮助中心指南"
+},
+{
+"key": "part14a.html#379",
+"zh": "Meta商务帮助中心的广告规格文件"
+},
+{
+"key": "part14a.html#380",
+"zh": "TikTok创作者门户和商务中心指南"
+},
+{
+"key": "part14a.html#381",
+"zh": "Naver官方搜索与博客指南"
+},
+{
+"key": "part14a.html#382",
+"zh": "<small>行业与法律</small>统计 · 版权 · 合同"
+},
+{
+"key": "part14a.html#383",
+"zh": "韩国内容振兴院的产业统计与调查"
+},
+{
+"key": "part14a.html#384",
+"zh": "韩国放送广告振兴公社的广告市场数据"
+},
+{
+"key": "part14a.html#385",
+"zh": "韩国著作权委员会的咨询与指导资料"
+},
+{
+"key": "part14a.html#386",
+"zh": "韩国国土交通部及有关部门的无人机规定"
+},
+{
+"key": "part14a.html#387",
+"zh": "韩国文化体育观光部的标准合同范本"
+},
+{
+"key": "part14a.html#388",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#389",
+"zh": "练习单样表"
+},
+{
+"key": "part14a.html#390",
+"zh": "直接打印使用。上课时复印分发；自学时在笔记本上照着画。"
+},
+{
+"key": "part14a.html#391",
+"zh": "<b>提示</b>"
+},
+{
+"key": "part14a.html#392",
+"zh": "一学期填下来的一摞练习单，本身就是一份完整的工作记录。"
+},
+{
+"key": "part14a.html#393",
+"zh": "练习单"
+},
+{
+"key": "part14a.html#394",
+"zh": "表格"
+},
+{
+"key": "part14a.html#395",
+"zh": "一页策划案表"
+},
+{
+"key": "part14a.html#396",
+"zh": "镜头清单表"
+},
+{
+"key": "part14a.html#397",
+"zh": "6格分镜表"
+},
+{
+"key": "part14a.html#398",
+"zh": "PPM检查表"
+},
+{
+"key": "part14a.html#399",
+"zh": "参考镜头分析表"
+},
+{
+"key": "part14a.html#400",
+"zh": "作品集自我检查表"
+},
+{
+"key": "part14a.html#401",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#402",
+"zh": "50个常见错误"
+},
+{
+"key": "part14a.html#403",
+"zh": "拍摄前一天看一遍，交付前再看一遍。多数失败不是因为缺少才华，而是因为有些环节没人检查。"
+},
+{
+"key": "part14a.html#404",
+"zh": "策划阶段"
+},
+{
+"key": "part14a.html#405",
+"zh": "<b>01</b><span>还没选定平台就开始策划</span>"
+},
+{
+"key": "part14a.html#406",
+"zh": "<b>02</b><span>塞进两个以上的信息</span>"
+},
+{
+"key": "part14a.html#407",
+"zh": "<b>03</b><span>把所有人都当作目标受众</span>"
+},
+{
+"key": "part14a.html#408",
+"zh": "<b>04</b><span>只借参考片的感觉，不做拆解</span>"
+},
+{
+"key": "part14a.html#409",
+"zh": "<b>05</b><span>抓着不符合预算和日程的想法不放</span>"
+},
+{
+"key": "part14a.html#410",
+"zh": "<b>06</b><span>不画分镜就开拍</span>"
+},
+{
+"key": "part14a.html#411",
+"zh": "<b>07</b><span>没有为字幕和标志预留空间</span>"
+},
+{
+"key": "part14a.html#412",
+"zh": "<b>08</b><span>不开PPM，只凭团队内部的共识就推进</span>"
+},
+{
+"key": "part14a.html#413",
+"zh": "<b>09</b><span>没拿到出镜同意书和场地许可</span>"
+},
+{
+"key": "part14a.html#414",
+"zh": "<b>10</b><span>拍完才去查音乐授权</span>"
+},
+{
+"key": "part14a.html#415",
+"zh": "拍摄阶段"
+},
+{
+"key": "part14a.html#416",
+"zh": "<b>11</b><span>用自动曝光和自动白平衡拍摄</span>"
+},
+{
+"key": "part14a.html#417",
+"zh": "<b>12</b><span>用快门速度控制曝光</span>"
+},
+{
+"key": "part14a.html#418",
+"zh": "<b>13</b><span>白天不用ND滤镜就光圈全开拍摄</span>"
+},
+{
+"key": "part14a.html#419",
+"zh": "<b>14</b><span>没拍主镜头和插入镜头</span>"
+},
+{
+"key": "part14a.html#420",
+"zh": "<b>15</b><span>不确认180度规则就拍</span>"
+},
+{
+"key": "part14a.html#421",
+"zh": "<b>16</b><span>用同样的景别和角度拍很多镜头</span>"
+},
+{
+"key": "part14a.html#422",
+"zh": "<b>17</b><span>用摄影机内置话筒录主声音</span>"
+},
+{
+"key": "part14a.html#423",
+"zh": "<b>18</b><span>没录现场环境音</span>"
+},
+{
+"key": "part14a.html#424",
+"zh": "<b>19</b><span>电池和存储卡不带备用</span>"
+},
+{
+"key": "part14a.html#425",
+"zh": "<b>20</b><span>没备份就在拍摄中途格式化存储卡</span>"
+},
+{
+"key": "part14a.html#426",
+"zh": "<b>21</b><span>灯架不压沙袋</span>"
+},
+{
+"key": "part14a.html#427",
+"zh": "<b>22</b><span>让出镜者紧贴色键背景站立</span>"
+},
+{
+"key": "part14a.html#428",
+"zh": "<b>23</b><span>服装与背景颜色相同</span>"
+},
+{
+"key": "part14a.html#429",
+"zh": "<b>24</b><span>其他品牌的标志入画</span>"
+},
+{
+"key": "part14a.html#430",
+"zh": "<b>25</b><span>没核对分镜中的镜头是否全部拍完就收工</span>"
+},
+{
+"key": "part14a.html#431",
+"zh": "剪辑与后期制作"
+},
+{
+"key": "part14a.html#432",
+"zh": "<b>26</b><span>不铺音乐，先剪画面</span>"
+},
+{
+"key": "part14a.html#433",
+"zh": "<b>27</b><span>把每个镜头剪成一样长</span>"
+},
+{
+"key": "part14a.html#434",
+"zh": "<b>28</b><span>等动作结束后才剪</span>"
+},
+{
+"key": "part14a.html#435",
+"zh": "<b>29</b><span>每个剪辑点都加转场</span>"
+},
+{
+"key": "part14a.html#436",
+"zh": "<b>30</b><span>把字幕放在安全区之外</span>"
+},
+{
+"key": "part14a.html#437",
+"zh": "<b>31</b><span>字幕不校对</span>"
+},
+{
+"key": "part14a.html#438",
+"zh": "<b>32</b><span>各镜头颜色不统一就交片</span>"
+},
+{
+"key": "part14a.html#439",
+"zh": "<b>33</b><span>合成镜头不加阴影和颗粒</span>"
+},
+{
+"key": "part14a.html#440",
+"zh": "<b>34</b><span>各段音量忽大忽小</span>"
+},
+{
+"key": "part14a.html#441",
+"zh": "<b>35</b><span>片头片尾留有黑帧</span>"
+},
+{
+"key": "part14a.html#442",
+"zh": "<b>36</b><span>不用代理文件，直接剪4K原素材，直到卡死</span>"
+},
+{
+"key": "part14a.html#443",
+"zh": "<b>37</b><span>把文件命名为final、really_final</span>"
+},
+{
+"key": "part14a.html#444",
+"zh": "<b>38</b><span>链接项目文件夹之外的素材</span>"
+},
+{
+"key": "part14a.html#445",
+"zh": "<b>39</b><span>只在一台显示器上检查颜色</span>"
+},
+{
+"key": "part14a.html#446",
+"zh": "<b>40</b><span>不核对自动字幕里的专有名词</span>"
+},
+{
+"key": "part14a.html#447",
+"zh": "交付与发布"
+},
+{
+"key": "part14a.html#448",
+"zh": "<b>41</b><span>不确认规格要求就导出</span>"
+},
+{
+"key": "part14a.html#449",
+"zh": "<b>42</b><span>不在其他设备上检查播放效果</span>"
+},
+{
+"key": "part14a.html#450",
+"zh": "<b>43</b><span>不关掉声音检查一遍</span>"
+},
+{
+"key": "part14a.html#451",
+"zh": "<b>44</b><span>竖版只是把横版裁一下</span>"
+},
+{
+"key": "part14a.html#452",
+"zh": "<b>45</b><span>忘了第一帧就是封面图</span>"
+},
+{
+"key": "part14a.html#453",
+"zh": "<b>46</b><span>最后一刻才匆忙起标题</span>"
+},
+{
+"key": "part14a.html#454",
+"zh": "<b>47</b><span>只用最热门的大话题标签</span>"
+},
+{
+"key": "part14a.html#455",
+"zh": "<b>48</b><span>发布后不看数据指标</span>"
+},
+{
+"key": "part14a.html#456",
+"zh": "<b>49</b><span>不检查作品集链接的访问权限</span>"
+},
+{
+"key": "part14a.html#457",
+"zh": "<b>50</b><span>不备份项目文件和素材</span>"
+},
+{
+"key": "part14a.html#458",
+"zh": "这50条哪怕只避开一半，作品质量也会有看得见的变化。<small>附录P 50个常见错误</small>"
+},
+{
+"key": "part14a.html#459",
+"zh": "<b>附录</b>现场文件"
+},
+{
+"key": "part14a.html#460",
+"zh": "片场用语"
+},
+{
+"key": "part14a.html#461",
+"zh": "片场上真正在用的词。听不懂，学习的机会就少了。"
+},
+{
+"key": "part14a.html#462",
+"zh": "<b>片场语言的规则</b>"
+},
+{
+"key": "part14a.html#463",
+"zh": "说话要简短、清楚。接到指令，一定要复述一遍。没听懂却装作听懂的指令，会酿成最严重的事故。"
+},
+{
+"key": "part14a.html#464",
+"zh": "术语"
+},
+{
+"key": "part14a.html#465",
+"zh": "含义"
+},
+{
+"key": "part14a.html#466",
+"zh": "使用场合"
+},
+{
+"key": "part14a.html#467",
+"zh": "开机"
+},
+{
+"key": "part14a.html#468",
+"zh": "开始录制的口令"
+},
+{
+"key": "part14a.html#469",
+"zh": "先开录音，再开摄影机"
+},
+{
+"key": "part14a.html#470",
+"zh": "停"
+},
+{
+"key": "part14a.html#471",
+"zh": "停止的口令"
+},
+{
+"key": "part14a.html#472",
+"zh": "只有导演能喊"
+},
+{
+"key": "part14a.html#473",
+"zh": "OK"
+},
+{
+"key": "part14a.html#474",
+"zh": "这一条通过"
+},
+{
+"key": "part14a.html#475",
+"zh": "由场记记录"
+},
+{
+"key": "part14a.html#476",
+"zh": "保留"
+},
+{
+"key": "part14a.html#477",
+"zh": "暂时留用"
+},
+{
+"key": "part14a.html#478",
+"zh": "勉强可用，但不废弃"
+},
+{
+"key": "part14a.html#479",
+"zh": "NG"
+},
+{
+"key": "part14a.html#480",
+"zh": "失败的一条"
+},
+{
+"key": "part14a.html#481",
+"zh": "重拍"
+},
+{
+"key": "part14a.html#482",
+"zh": "条"
+},
+{
+"key": "part14a.html#483",
+"zh": "同一镜头的每一次拍摄"
+},
+{
+"key": "part14a.html#484",
+"zh": "第3条，开始"
+},
+{
+"key": "part14a.html#485",
+"zh": "场记板"
+},
+{
+"key": "part14a.html#486",
+"zh": "写有镜头信息的板子"
+},
+{
+"key": "part14a.html#487",
+"zh": "声画同步的基准点"
+},
+{
+"key": "part14a.html#488",
+"zh": "预备"
+},
+{
+"key": "part14a.html#489",
+"zh": "准备就绪，待命"
+},
+{
+"key": "part14a.html#490",
+"zh": "全场安静"
+},
+{
+"key": "part14a.html#491",
+"zh": "排练"
+},
+{
+"key": "part14a.html#492",
+"zh": "不录制的试走"
+},
+{
+"key": "part14a.html#493",
+"zh": "确认走位和节奏"
+},
+{
+"key": "part14a.html#494",
+"zh": "架设"
+},
+{
+"key": "part14a.html#495",
+"zh": "安装并调整器材"
+},
+{
+"key": "part14a.html#496",
+"zh": "架设摄影机、架设灯光"
+}
+]

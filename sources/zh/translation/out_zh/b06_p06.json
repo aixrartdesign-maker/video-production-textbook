@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#115",
+"zh": "Final Cut Pro"
+},
+{
+"key": "part05.html#116",
+"zh": "速度、稳定性、磁性时间线"
+},
+{
+"key": "part05.html#117",
+"zh": "仅限Mac、协作受限"
+},
+{
+"key": "part05.html#118",
+"zh": "个人创作者、Mac用户"
+},
+{
+"key": "part05.html#119",
+"zh": "一次性买断"
+},
+{
+"key": "part05.html#120",
+"zh": "DaVinci Resolve"
+},
+{
+"key": "part05.html#121",
+"zh": "顶级调色、免费版功能强"
+},
+{
+"key": "part05.html#122",
+"zh": "学习曲线陡、配置要求高"
+},
+{
+"key": "part05.html#123",
+"zh": "以调色为主、零预算的项目"
+},
+{
+"key": "part05.html#124",
+"zh": "免费 + 付费版"
+},
+{
+"key": "part05.html#125",
+"zh": "After Effects"
+},
+{
+"key": "part05.html#126",
+"zh": "合成、动态图形、3D空间"
+},
+{
+"key": "part05.html#127",
+"zh": "不适合剪辑"
+},
+{
+"key": "part05.html#128",
+"zh": "标题、VFX、信息图"
+},
+{
+"key": "part05.html#129",
+"zh": "订阅制"
+},
+{
+"key": "part05.html#130",
+"zh": "CapCut"
+},
+{
+"key": "part05.html#131",
+"zh": "自动字幕、模板、移动端同步"
+},
+{
+"key": "part05.html#132",
+"zh": "需确认商用条款"
+},
+{
+"key": "part05.html#133",
+"zh": "短视频、赶工项目"
+},
+{
+"key": "part05.html#134",
+"zh": "免费 + 付费"
+},
+{
+"key": "part05.html#135",
+"zh": "Vrew"
+},
+{
+"key": "part05.html#136",
+"zh": "语音转字幕、去除静音"
+},
+{
+"key": "part05.html#137",
+"zh": "精度有限"
+},
+{
+"key": "part05.html#138",
+"zh": "讲课、采访、讲解视频"
+},
+{
+"key": "part05.html#139",
+"zh": "免费 + 付费"
+},
+{
+"key": "part05.html#140",
+"zh": "Avid Media Composer"
+},
+{
+"key": "part05.html#141",
+"zh": "大型团队、广播电视标准"
+},
+{
+"key": "part05.html#142",
+"zh": "入门门槛高"
+},
+{
+"key": "part05.html#143",
+"zh": "电视剧、电视台"
+},
+{
+"key": "part05.html#144",
+"zh": "订阅制"
+},
+{
+"key": "part05.html#145",
+"zh": "先学什么"
+},
+{
+"key": "part05.html#146",
+"zh": "韩国的招聘启事最常要求Premiere Pro加After Effects。想深入调色，就加上DaVinci Resolve；短视频产量大，就加上CapCut。"
+},
+{
+"key": "part05.html#147",
+"zh": "<small>练习</small>5.3"
+},
+{
+"key": "part05.html#148",
+"zh": "任务"
+},
+{
+"key": "part05.html#149",
+"zh": "用两款剪辑软件完成同一个10个镜头的剪辑，比较工作流程。"
+},
+{
+"key": "part05.html#150",
+"zh": "提示"
+},
+{
+"key": "part05.html#151",
+"zh": "比较的重点放在快捷键和项目结构上。"
+},
+{
+"key": "part05.html#152",
+"zh": "评价"
+},
+{
+"key": "part05.html#153",
+"zh": "比较点具体、选择理由充分"
+},
+{
+"key": "part05.html#154",
+"zh": "参考答案"
+},
+{
+"key": "part05.html#155",
+"zh": "按用途（短视频、广告、长片）把推荐工具列成表。"
+},
+{
+"key": "part05.html#156",
+"zh": "<b>PART 05</b>剪辑与后期制作"
+},
+{
+"key": "part05.html#157",
+"zh": "Premiere Pro一览"
+},
+{
+"key": "part05.html#158",
+"zh": "了解每个面板的作用，心里有一张20项功能何时用的地图，搜一次就能解决任何问题。"
+},
+{
+"key": "part05.html#159",
+"zh": "<b>提示</b>"
+},
+{
+"key": "part05.html#160",
+"zh": "按拍摄日、场景、音乐和图形分素材箱，这个习惯决定你的剪辑速度。"
+},
+{
+"key": "part05.html#161",
+"zh": "工作区布局"
+},
+{
+"key": "part05.html#162",
+"zh": "<small>管理</small>项目面板"
+},
+{
+"key": "part05.html#163",
+"zh": "存放素材文件的抽屉"
+},
+{
+"key": "part05.html#164",
+"zh": "按拍摄日 · 场景 · 音乐 · 图形分素材箱"
+},
+{
+"key": "part05.html#165",
+"zh": "<small>查看</small>源监视器"
+},
+{
+"key": "part05.html#166",
+"zh": "查看原始片段，设置入点 · 出点"
+},
+{
+"key": "part05.html#167",
+"zh": "上时间线之前，先在这里筛选片段"
+},
+{
+"key": "part05.html#168",
+"zh": "<small>查看</small>节目监视器"
+},
+{
+"key": "part05.html#169",
+"zh": "显示剪辑结果的窗口"
+},
+{
+"key": "part05.html#170",
+"zh": "始终打开安全区参考线和边距"
+},
+{
+"key": "part05.html#171",
+"zh": "<small>剪辑</small>时间线"
+},
+{
+"key": "part05.html#172",
+"zh": "实际进行剪辑的地方"
+},
+{
+"key": "part05.html#173",
+"zh": "视频轨向上叠，音频轨向下排"
+},
+{
+"key": "part05.html#174",
+"zh": "<small>效果</small>效果面板 · 效果控件"
+},
+{
+"key": "part05.html#175",
+"zh": "转场和效果；把常用的加入收藏"
+},
+{
+"key": "part05.html#176",
+"zh": "调整位置 · 缩放 · 旋转 · 不透明度和效果数值，添加关键帧"
+},
+{
+"key": "part05.html#177",
+"zh": "<small>颜色</small>Lumetri颜色"
+},
+{
+"key": "part05.html#178",
+"zh": "专用的调色面板"
+},
+{
+"key": "part05.html#179",
+"zh": "基本校正、创意、曲线、色轮、HSL辅助、晕影"
+},
+{
+"key": "part05.html#180",
+"zh": "<small>图形</small>基本图形"
+},
+{
+"key": "part05.html#181",
+"zh": "标题和图形模板"
+},
+{
+"key": "part05.html#182",
+"zh": "载入动态图形模板，只改文字"
+},
+{
+"key": "part05.html#183",
+"zh": "<small>声音</small>音轨混合器"
+},
+{
+"key": "part05.html#184",
+"zh": "各轨道的音量和声像"
+},
+{
+"key": "part05.html#185",
+"zh": "管理音频效果"
+},
+{
+"key": "part05.html#186",
+"zh": "<small>声音</small>基本声音"
+},
+{
+"key": "part05.html#187",
+"zh": "标记为台词 · 音乐 · 音效 · 环境声后自动处理"
+},
+{
+"key": "part05.html#188",
+"zh": "台词降噪、响度标准化"
+},
+{
+"key": "part05.html#189",
+"zh": "必须掌握的20项功能"
+},
+{
+"key": "part05.html#190",
+"zh": "功能"
+},
+{
+"key": "part05.html#191",
+"zh": "作用"
+},
+{
+"key": "part05.html#192",
+"zh": "使用时机"
+},
+{
+"key": "part05.html#193",
+"zh": "序列设置"
+},
+{
+"key": "part05.html#194",
+"zh": "设定分辨率、fps、画幅比"
+},
+{
+"key": "part05.html#195",
+"zh": "新建项目后的第一件事"
+},
+{
+"key": "part05.html#196",
+"zh": "创建代理"
+},
+{
+"key": "part05.html#197",
+"zh": "用轻量的替身文件剪辑"
+},
+{
+"key": "part05.html#198",
+"zh": "4K以上素材、低配电脑"
+},
+{
+"key": "part05.html#199",
+"zh": "多机位剪辑"
+},
+{
+"key": "part05.html#200",
+"zh": "同步多台摄影机并切换"
+},
+{
+"key": "part05.html#201",
+"zh": "活动、采访、综艺节目"
+},
+{
+"key": "part05.html#202",
+"zh": "音频同步"
+},
+{
+"key": "part05.html#203",
+"zh": "按波形自动同步"
+},
+{
+"key": "part05.html#204",
+"zh": "使用外接录音机时"
+},
+{
+"key": "part05.html#205",
+"zh": "波纹编辑"
+},
+{
+"key": "part05.html#206",
+"zh": "修剪后，后面的内容自动补位"
+},
+{
+"key": "part05.html#207",
+"zh": "整个粗剪阶段"
+},
+{
+"key": "part05.html#208",
+"zh": "滚动编辑"
+},
+{
+"key": "part05.html#209",
+"zh": "只移动剪辑点"
+},
+{
+"key": "part05.html#210",
+"zh": "微调时间点"
+},
+{
+"key": "part05.html#211",
+"zh": "外滑与内滑"
+},
+{
+"key": "part05.html#212",
+"zh": "长度不变，改内容或位置"
+},
+{
+"key": "part05.html#213",
+"zh": "换内容，保节奏"
+},
+{
+"key": "part05.html#214",
+"zh": "标记"
+},
+{
+"key": "part05.html#215",
+"zh": "时间线上的旗标和备注"
+},
+{
+"key": "part05.html#216",
+"zh": "落实反馈、标记节拍"
+},
+{
+"key": "part05.html#217",
+"zh": "嵌套"
+},
+{
+"key": "part05.html#218",
+"zh": "把多个片段合为一个"
+},
+{
+"key": "part05.html#219",
+"zh": "给一组片段加效果"
+},
+{
+"key": "part05.html#220",
+"zh": "调整图层"
+},
+{
+"key": "part05.html#221",
+"zh": "一次给下方所有片段加效果"
+},
+{
+"key": "part05.html#222",
+"zh": "整体调色、颗粒"
+},
+{
+"key": "part05.html#223",
+"zh": "变速"
+},
+{
+"key": "part05.html#224",
+"zh": "慢放、快放、倒放"
+},
+{
+"key": "part05.html#225",
+"zh": "慢动作、延时摄影"
+},
+{
+"key": "part05.html#226",
+"zh": "时间插值"
+},
+{
+"key": "part05.html#227",
+"zh": "帧混合、光流"
+},
+{
+"key": "part05.html#228",
+"zh": "流畅的慢动作"
+},
+{
+"key": "part05.html#229",
+"zh": "蒙版与跟踪"
+},
+{
+"key": "part05.html#230",
+"zh": "只对某一区域加效果"
+},
+{
+"key": "part05.html#231",
+"zh": "模糊人脸、遮挡标志"
+},
+{
+"key": "part05.html#232",
+"zh": "变形稳定器"
+},
+{
+"key": "part05.html#233",
+"zh": "消除抖动"
+},
+{
+"key": "part05.html#234",
+"zh": "手持镜头"
+},
+{
+"key": "part05.html#235",
+"zh": "Lumetri LUT"
+},
+{
+"key": "part05.html#236",
+"zh": "转换Log素材"
+},
+{
+"key": "part05.html#237",
+"zh": "调色第1步"
+},
+{
+"key": "part05.html#238",
+"zh": "颜色匹配"
+},
+{
+"key": "part05.html#239",
+"zh": "自动匹配两个镜头的颜色"
+},
+{
+"key": "part05.html#240",
+"zh": "不同摄影机拍的镜头"
+},
+{
+"key": "part05.html#241",
+"zh": "自动字幕"
+},
+{
+"key": "part05.html#242",
+"zh": "用语音识别生成字幕"
+},
+{
+"key": "part05.html#243",
+"zh": "采访、讲解视频"
+},
+{
+"key": "part05.html#244",
+"zh": "基本图形模板"
+},
+{
+"key": "part05.html#245",
+"zh": "复用反复出现的标题样式"
+},
+{
+"key": "part05.html#246",
+"zh": "系列内容"
+},
+{
+"key": "part05.html#247",
+"zh": "重新链接脱机媒体"
+},
+{
+"key": "part05.html#248",
+"zh": "重新连接路径失效的素材"
+},
+{
+"key": "part05.html#249",
+"zh": "移动文件夹之后"
+},
+{
+"key": "part05.html#250",
+"zh": "项目管理器"
+},
+{
+"key": "part05.html#251",
+"zh": "只收集用到的媒体"
+},
+{
+"key": "part05.html#252",
+"zh": "备份、交接给外包方"
+},
+{
+"key": "part05.html#253",
+"zh": "常用快捷键"
+},
+{
+"key": "part05.html#254",
+"zh": "快捷键"
+},
+{
+"key": "part05.html#255",
+"zh": "功能"
+},
+{
+"key": "part05.html#256",
+"zh": "快捷键"
+},
+{
+"key": "part05.html#257",
+"zh": "功能"
+},
+{
+"key": "part05.html#258",
+"zh": "剃刀工具"
+},
+{
+"key": "part05.html#259",
+"zh": "选择工具"
+},
+{
+"key": "part05.html#260",
+"zh": "向前选择轨道"
+},
+{
+"key": "part05.html#261",
+"zh": "波纹编辑工具"
+},
+{
+"key": "part05.html#262",
+"zh": "入点 / 出点"
+},
+{
+"key": "part05.html#263",
+"zh": "空格键"
+},
+{
+"key": "part05.html#264",
+"zh": "播放与停止"
+}
+]
