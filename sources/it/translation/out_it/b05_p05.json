@@ -1,0 +1,630 @@
+[
+{
+"key": "part04.html#120",
+"it": "<b>05</b><span>Correggi il controluce in esterni. Metti il sole alle spalle del soggetto e riempi il volto con un pannello riflettente: ottieni insieme una luce di taglio sui capelli e un volto ben esposto.</span>"
+},
+{
+"key": "part04.html#121",
+"it": "<b>06</b><span>Per due persone, metti il pannello al centro. In un’intervista faccia a faccia, un pannello bianco al centro, opposto alla chiave, riempie entrambi i volti insieme.</span>"
+},
+{
+"key": "part04.html#122",
+"it": "<b>Foto di riferimento 4.2C</b>Immagini generate – pannelli riflettenti e riempimento negativo"
+},
+{
+"key": "part04.html#123",
+"it": "<span class=\"ph-id\">P04-BOUNCE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Pannello riflettente (bounce) – il riempimento più economico</b>Un macchinista riempie il volto di un attore con un pannello bianco nel sole del pomeriggio</span>"
+},
+{
+"key": "part04.html#124",
+"it": "<b>a</b>Pannello (bounce) – il riempimento più economico"
+},
+{
+"key": "part04.html#125",
+"it": "<span class=\"ph-id\">P04-NEGFILL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Riempimento negativo</b>Una bandiera nera su un C-stand scurisce il lato in ombra</span>"
+},
+{
+"key": "part04.html#126",
+"it": "<b>b</b>Riempimento negativo – contrasto togliendo luce"
+},
+{
+"key": "part04.html#127",
+"it": "Rapporto di illuminazione – luminosità chiave/riempimento"
+},
+{
+"key": "part04.html#128",
+"it": "<b>2<em>:1</em></b>Spot semplici e luminosi"
+},
+{
+"key": "part04.html#129",
+"it": "<b>4<em>:1</em></b>Serie TV standard"
+},
+{
+"key": "part04.html#130",
+"it": "<b>8<em>:1 o più</em></b>Atmosfera drammatica e cupa"
+},
+{
+"key": "part04.html#131",
+"it": "<b>G-11</b> Illuminazione a 3 punti sul set – chiave · riempimento · controluce e camera"
+},
+{
+"key": "part04.html#132",
+"it": "<small>Esercizio</small>4.2"
+},
+{
+"key": "part04.html#133",
+"it": "Compito"
+},
+{
+"key": "part04.html#134",
+"it": "Gira 3 fasi in ordine, chiave → chiave+riempimento → chiave+riempimento+controluce, e mostra la differenza."
+},
+{
+"key": "part04.html#135",
+"it": "Consiglio"
+},
+{
+"key": "part04.html#136",
+"it": "Parti con il riempimento a metà della luminosità della chiave o meno. Annota il rapporto."
+},
+{
+"key": "part04.html#137",
+"it": "Valutazione"
+},
+{
+"key": "part04.html#138",
+"it": "Rapporto annotato, stacco con il controluce"
+},
+{
+"key": "part04.html#139",
+"it": "Risposta modello"
+},
+{
+"key": "part04.html#140",
+"it": "Ottiene sia high key sia low key dallo stesso allestimento cambiando solo il riempimento."
+},
+{
+"key": "part04.html#141",
+"it": "<b>PARTE 04</b>Illuminazione e suono"
+},
+{
+"key": "part04.html#142",
+"it": "La luce chiave in breve"
+},
+{
+"key": "part04.html#143",
+"it": "Sei regole per quando il tempo stringe. Prova a chiudere l’inquadratura con la sola luce chiave. Se non funziona adesso, aggiungere luce non la migliorerà."
+},
+{
+"key": "part04.html#144",
+"it": "La posizione della luce chiave decide come si legge il volto"
+},
+{
+"key": "part04.html#145",
+"it": "<b>PIATTA</b>"
+},
+{
+"key": "part04.html#146",
+"it": "Accanto alla camera · altezza occhi"
+},
+{
+"key": "part04.html#147",
+"it": "<span>Nessuna ombra – luminosa e piatta, telegiornali · beauty</span>"
+},
+{
+"key": "part04.html#148",
+"it": "<b>LOOP</b>"
+},
+{
+"key": "part04.html#149",
+"it": "35° · poco più in alto"
+},
+{
+"key": "part04.html#150",
+"it": "<span>Piccola ombra ad anello accanto al naso – la più sicura</span>"
+},
+{
+"key": "part04.html#151",
+"it": "<b>REMBRANDT</b>"
+},
+{
+"key": "part04.html#152",
+"it": "45° · 45° in alto"
+},
+{
+"key": "part04.html#153",
+"it": "<span>Triangolo di luce sulla guancia – profondità, dramma</span>"
+},
+{
+"key": "part04.html#154",
+"it": "<b>SPLIT</b>"
+},
+{
+"key": "part04.html#155",
+"it": "90° · altezza occhi"
+},
+{
+"key": "part04.html#156",
+"it": "<span>Volto tagliato a metà – conflitto, dualità</span>"
+},
+{
+"key": "part04.html#157",
+"it": "<b>BUTTERFLY</b>"
+},
+{
+"key": "part04.html#158",
+"it": "Frontale · molto in alto"
+},
+{
+"key": "part04.html#159",
+"it": "<span>Ombra a farfalla sotto il naso – zigomi, glamour</span>"
+},
+{
+"key": "part04.html#160",
+"it": "<b>DI TAGLIO</b>"
+},
+{
+"key": "part04.html#161",
+"it": "Da dietro · dall’alto"
+},
+{
+"key": "part04.html#162",
+"it": "<span>Solo il contorno – silhouette, mistero</span>"
+},
+{
+"key": "part04.html#163",
+"it": "<b>Fig. 40</b> 6 schemi di illuminazione del ritratto in base alla posizione della luce chiave – si sposta solo quella luce. Nelle piante qui sotto, il punto rosso è la luce chiave, il quadrato grigio la camera."
+},
+{
+"key": "part04.html#164",
+"it": "<b>01</b><span>Posiziona per prima la luce chiave. Spegni ogni altra luce e prova a chiudere l’inquadratura con la sola chiave.</span>"
+},
+{
+"key": "part04.html#165",
+"it": "<b>02</b><span>Parti da 45° e 45°. Il punto di riferimento è dove l’ombra del naso forma un piccolo triangolo sulla guancia opposta.</span>"
+},
+{
+"key": "part04.html#166",
+"it": "<b>03</b><span>Tieni la sorgente grande e vicina. Ingrandiscila con un softbox o un diffusore e avvicinala al soggetto il più possibile.</span>"
+},
+{
+"key": "part04.html#167",
+"it": "<b>04</b><span>Non cancellare le ombre. La luce di riempimento serve a controllare la profondità, non a eliminare l’ombra.</span>"
+},
+{
+"key": "part04.html#168",
+"it": "<b>05</b><span>Stacca con un controluce. Se soggetto e sfondo si confondono, aggiungine uno in alto, opposto alla chiave.</span>"
+},
+{
+"key": "part04.html#169",
+"it": "<b>06</b><span>Metti luce negli occhi. È la cosa più spesso dimenticata negli spot con persone, e basta un pannello riflettente.</span>"
+},
+{
+"key": "part04.html#170",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part04.html#171",
+"it": "La Rembrandt, a 45° di lato e dall’alto, è il punto di partenza per le persone. Gli altri schemi spostano la sorgente da qui."
+},
+{
+"key": "part04.html#172",
+"it": "Il volto secondo l’angolo della chiave"
+},
+{
+"key": "part04.html#173",
+"it": "Angolo"
+},
+{
+"key": "part04.html#174",
+"it": "Nome"
+},
+{
+"key": "part04.html#175",
+"it": "Forma dell’ombra"
+},
+{
+"key": "part04.html#176",
+"it": "Impressione"
+},
+{
+"key": "part04.html#177",
+"it": "Uso"
+},
+{
+"key": "part04.html#178",
+"it": "Frontale 0°"
+},
+{
+"key": "part04.html#179",
+"it": "Luce piatta"
+},
+{
+"key": "part04.html#180",
+"it": "Quasi nessuna ombra"
+},
+{
+"key": "part04.html#181",
+"it": "Piatto, giovane, luminoso"
+},
+{
+"key": "part04.html#182",
+"it": "Spot beauty, commedia"
+},
+{
+"key": "part04.html#183",
+"it": "45° lato-alto"
+},
+{
+"key": "part04.html#184",
+"it": "Rembrandt"
+},
+{
+"key": "part04.html#185",
+"it": "Triangolo sulla guancia opposta"
+},
+{
+"key": "part04.html#186",
+"it": "Classico, profondo"
+},
+{
+"key": "part04.html#187",
+"it": "Base per i ritratti"
+},
+{
+"key": "part04.html#188",
+"it": "90° laterale"
+},
+{
+"key": "part04.html#189",
+"it": "Split"
+},
+{
+"key": "part04.html#190",
+"it": "Metà volto in ombra"
+},
+{
+"key": "part04.html#191",
+"it": "Dualità, conflitto"
+},
+{
+"key": "part04.html#192",
+"it": "Scene drammatiche"
+},
+{
+"key": "part04.html#193",
+"it": "Alto al centro"
+},
+{
+"key": "part04.html#194",
+"it": "Butterfly"
+},
+{
+"key": "part04.html#195",
+"it": "Farfalla sotto il naso"
+},
+{
+"key": "part04.html#196",
+"it": "Glamour, commerciale"
+},
+{
+"key": "part04.html#197",
+"it": "Moda, beauty"
+},
+{
+"key": "part04.html#198",
+"it": "Da dietro 135°"
+},
+{
+"key": "part04.html#199",
+"it": "Luce di taglio"
+},
+{
+"key": "part04.html#200",
+"it": "Solo bordi illuminati"
+},
+{
+"key": "part04.html#201",
+"it": "Mistero, silhouette"
+},
+{
+"key": "part04.html#202",
+"it": "Teaser, aperture"
+},
+{
+"key": "part04.html#203",
+"it": "Dal basso"
+},
+{
+"key": "part04.html#204",
+"it": "Luce dal basso"
+},
+{
+"key": "part04.html#205",
+"it": "Ombre verso l’alto"
+},
+{
+"key": "part04.html#206",
+"it": "Inquietante, minaccioso"
+},
+{
+"key": "part04.html#207",
+"it": "Horror, colpi di scena"
+},
+{
+"key": "part04.html#208",
+"it": "45°, più basso"
+},
+{
+"key": "part04.html#209",
+"it": "Loop"
+},
+{
+"key": "part04.html#210",
+"it": "Ombra del naso ad anello"
+},
+{
+"key": "part04.html#211",
+"it": "Morbido, naturale"
+},
+{
+"key": "part04.html#212",
+"it": "Interviste"
+},
+{
+"key": "part04.html#213",
+"it": "<small>Esercizio</small>4.3"
+},
+{
+"key": "part04.html#214",
+"it": "Compito"
+},
+{
+"key": "part04.html#215",
+"it": "Fai un’esercitazione «d’emergenza»: senza attrezzatura luci, procurati una luce chiave entro 10 minuti e gira un ritratto."
+},
+{
+"key": "part04.html#216",
+"it": "Consiglio"
+},
+{
+"key": "part04.html#217",
+"it": "Cerca per prima cosa finestre, monitor e il rimbalzo di una parete bianca."
+},
+{
+"key": "part04.html#218",
+"it": "Valutazione"
+},
+{
+"key": "part04.html#219",
+"it": "Capacità di giudizio entro il tempo limite, esposizione stabile del volto"
+},
+{
+"key": "part04.html#220",
+"it": "Risposta modello"
+},
+{
+"key": "part04.html#221",
+"it": "Mappa le sorgenti di luce circostanti e motiva la scelta."
+},
+{
+"key": "part04.html#222",
+"it": "<b>PARTE 04</b>Illuminazione e suono"
+},
+{
+"key": "part04.html#223",
+"it": "High key e low key"
+},
+{
+"key": "part04.html#224",
+"it": "Il low key non significa girare al buio. Significa esporre con precisione le parti chiare e portare il resto nell’oscurità in modo controllato."
+},
+{
+"key": "part04.html#225",
+"it": "<b>Foto di riferimento 4.4A</b>Immagini generate – riferimento per la messa in scena"
+},
+{
+"key": "part04.html#226",
+"it": "<b>a</b>High key – luce chiara e indulgente"
+},
+{
+"key": "part04.html#227",
+"it": "<b>b</b>Ritratto low key – domina il buio"
+},
+{
+"key": "part04.html#228",
+"it": "<b>c</b>Prodotto low key – lusso e concentrazione"
+},
+{
+"key": "part04.html#229",
+"it": "<b>d</b>Prodotto high key – sfondo bianco · nessuna ombra · pulito"
+},
+{
+"key": "part04.html#230",
+"it": "Lo scarto chiave–riempimento decide profondità e atmosfera del volto"
+},
+{
+"key": "part04.html#231",
+"it": "<b>2 : 1 <small>1 stop di scarto</small></b><span>Luminoso, leggero – spot · beauty · informazione</span>"
+},
+{
+"key": "part04.html#232",
+"it": "<b>4 : 1 <small>2 stop di scarto</small></b><span>Ritratto standard – base per interviste · serie TV</span>"
+},
+{
+"key": "part04.html#233",
+"it": "<b>8 : 1 <small>3 stop di scarto</small></b><span>Drammatico – tensione · confessione · a un passo dal noir</span>"
+},
+{
+"key": "part04.html#234",
+"it": "<b>16 : 1 <small>4 stop di scarto</small></b><span>Low key – il buio domina il volto</span>"
+},
+{
+"key": "part04.html#235",
+"it": "Rapporto di illuminazione = lato chiaro : lato scuro. La chiave resta ferma; cambia solo <b>l’intensità del riempimento</b>. Spegni il riempimento e il rapporto cresce; portalo al livello della chiave e ottieni 1:1 – l’ombra scompare."
+},
+{
+"key": "part04.html#236",
+"it": "<b>Fig. 41</b> Il contrasto secondo il rapporto di illuminazione – stesso soggetto, stessa chiave, solo il riempimento in quattro gradini."
+},
+{
+"key": "part04.html#237",
+"it": "Illuminazione high key"
+},
+{
+"key": "part04.html#238",
+"it": "Luminosa nell’insieme, ombre tenui"
+},
+{
+"key": "part04.html#239",
+"it": "Rapporto 2:1 o inferiore; illuminato anche lo sfondo"
+},
+{
+"key": "part04.html#240",
+"it": "Atmosfera: luminosa, pulita, rassicurante, allegra"
+},
+{
+"key": "part04.html#241",
+"it": "Uso: cibo, bambini, casa, sanità"
+},
+{
+"key": "part04.html#242",
+"it": "Nota: mantieni la profondità con un controluce"
+},
+{
+"key": "part04.html#243",
+"it": "Illuminazione low key"
+},
+{
+"key": "part04.html#244",
+"it": "Domina il buio; illuminate solo alcune parti"
+},
+{
+"key": "part04.html#245",
+"it": "Rapporto 8:1 o superiore; sfondo scuro"
+},
+{
+"key": "part04.html#246",
+"it": "Atmosfera: lusso, tensione, mistero, concentrazione"
+},
+{
+"key": "part04.html#247",
+"it": "Uso: alcolici, auto, profumi, elettronica"
+},
+{
+"key": "part04.html#248",
+"it": "Nota: la sottoesposizione non è low key"
+},
+{
+"key": "part04.html#249",
+"it": "<b>Termine</b>"
+},
+{
+"key": "part04.html#250",
+"it": "Riempimento negativo – togliere luce con teli neri e pannelli neri di polistirolo. È metà dell’illuminazione low key."
+},
+{
+"key": "part04.html#251",
+"it": "<b>G-12</b> High key e low key – stessa persona, mondi diversi di luce e ombra"
+},
+{
+"key": "part04.html#252",
+"it": "Il low key non è girare al buio; è esporre con precisione le parti chiare e controllare il resto.<small>4.4 High key e low key</small>"
+},
+{
+"key": "part04.html#253",
+"it": "<small>Esercizio</small>4.4"
+},
+{
+"key": "part04.html#254",
+"it": "Compito"
+},
+{
+"key": "part04.html#255",
+"it": "Riprendi la stessa persona in high key e in low key e realizza 2 poster di generi diversi."
+},
+{
+"key": "part04.html#256",
+"it": "Consiglio"
+},
+{
+"key": "part04.html#257",
+"it": "Per il low key allontana bene il soggetto dallo sfondo, così che non vi cada luce."
+},
+{
+"key": "part04.html#258",
+"it": "Valutazione"
+},
+{
+"key": "part04.html#259",
+"it": "Contrasto adatto all’atmosfera del genere"
+},
+{
+"key": "part04.html#260",
+"it": "Risposta modello"
+},
+{
+"key": "part04.html#261",
+"it": "Low key da film noir, high key da sitcom. Dimostra che basta il tono a cambiare il genere."
+},
+{
+"key": "part04.html#262",
+"it": "<b>PARTE 04</b>Illuminazione e suono"
+},
+{
+"key": "part04.html#263",
+"it": "Luci per gli spot di prodotto"
+},
+{
+"key": "part04.html#264",
+"it": "Il materiale decide il metodo. Riflette, trasmette o assorbe? Il modo in cui un prodotto riceve la luce stabilisce come illuminarlo."
+},
+{
+"key": "part04.html#265",
+"it": "<b>Foto di riferimento 4.5A</b>Immagini generate – riferimento per la messa in scena"
+},
+{
+"key": "part04.html#266",
+"it": "<b>a</b>Vetro – trasparenza in controluce"
+},
+{
+"key": "part04.html#267",
+"it": "<b>b</b>Metallo – riflessi di strip light"
+},
+{
+"key": "part04.html#268",
+"it": "<b>c</b>Cibo – vapore e lucentezza dal controluce"
+},
+{
+"key": "part04.html#269",
+"it": "<b>d</b>Bevande – il controluce fa brillare il liquido, la luce di taglio disegna il bicchiere"
+},
+{
+"key": "part04.html#270",
+"it": "Materiale"
+},
+{
+"key": "part04.html#271",
+"it": "Risposta alla luce"
+},
+{
+"key": "part04.html#272",
+"it": "Tecnica chiave"
+},
+{
+"key": "part04.html#273",
+"it": "Insidie"
+},
+{
+"key": "part04.html#274",
+"it": "Metallo, vetro"
+},
+{
+"key": "part04.html#275",
+"it": "Riflette"
+},
+{
+"key": "part04.html#276",
+"it": "Una grande sorgente a pannello crea riflessi che mostrano la forma"
+}
+]

@@ -1,0 +1,630 @@
+[
+{
+"key": "part03.html#978",
+"it": "Lunghezza focale (full frame)"
+},
+{
+"key": "part03.html#979",
+"it": "Equivalente APS-C"
+},
+{
+"key": "part03.html#980",
+"it": "Resa"
+},
+{
+"key": "part03.html#981",
+"it": "Inquadrature tipiche"
+},
+{
+"key": "part03.html#982",
+"it": "24 mm"
+},
+{
+"key": "part03.html#983",
+"it": "16 mm"
+},
+{
+"key": "part03.html#984",
+"it": "Ampio, prospettiva esagerata; mostra lo spazio"
+},
+{
+"key": "part03.html#985",
+"it": "ELS · LS · selfie da vlog"
+},
+{
+"key": "part03.html#986",
+"it": "35 mm"
+},
+{
+"key": "part03.html#987",
+"it": "24 mm"
+},
+{
+"key": "part03.html#988",
+"it": "L’occhio del documentario, ampiezza naturale"
+},
+{
+"key": "part03.html#989",
+"it": "FS · MS · camminata"
+},
+{
+"key": "part03.html#990",
+"it": "55 mm"
+},
+{
+"key": "part03.html#991",
+"it": "35 mm"
+},
+{
+"key": "part03.html#992",
+"it": "Occhio umano"
+},
+{
+"key": "part03.html#993",
+"it": "MS · BS · intervista"
+},
+{
+"key": "part03.html#994",
+"it": "85 mm"
+},
+{
+"key": "part03.html#995",
+"it": "55 mm"
+},
+{
+"key": "part03.html#996",
+"it": "Comprime il soggetto, stacca lo sfondo"
+},
+{
+"key": "part03.html#997",
+"it": "CU · beauty · prodotto"
+},
+{
+"key": "part03.html#998",
+"it": "200 mm"
+},
+{
+"key": "part03.html#999",
+"it": "135 mm"
+},
+{
+"key": "part03.html#1000",
+"it": "Forte compressione, distanza da osservatore"
+},
+{
+"key": "part03.html#1001",
+"it": "ECU · sport · palco"
+},
+{
+"key": "part03.html#1002",
+"it": "<small>Esercizio</small>3.12"
+},
+{
+"key": "part03.html#1003",
+"it": "Compito"
+},
+{
+"key": "part03.html#1004",
+"it": "Prepara una checklist delle impostazioni pre-ripresa per una mirrorless e allega le schermate delle impostazioni reali."
+},
+{
+"key": "part03.html#1005",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#1006",
+"it": "Controlla risoluzione, frame rate, otturatore, profilo immagine, livelli audio e modalità di messa a fuoco, in quest’ordine."
+},
+{
+"key": "part03.html#1007",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#1008",
+"it": "Completezza del setup; coerenza con lo scopo delle riprese"
+},
+{
+"key": "part03.html#1009",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#1010",
+"it": "Crea preset di impostazioni distinti per ogni tipo di ripresa (intervista, sport, notte)."
+},
+{
+"key": "part03.html#1011",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#1012",
+"it": "Girare con lo smartphone"
+},
+{
+"key": "part03.html#1013",
+"it": "Lo smartphone è la camera più usata. Se ne conosci i limiti, regge il confronto anche nei lavori commerciali. La chiave è non lasciarlo in automatico."
+},
+{
+"key": "part03.html#1014",
+"it": "Automatismi da disattivare"
+},
+{
+"key": "part03.html#1015",
+"it": "Funzione"
+},
+{
+"key": "part03.html#1016",
+"it": "Problema in automatico"
+},
+{
+"key": "part03.html#1017",
+"it": "Soluzione manuale"
+},
+{
+"key": "part03.html#1018",
+"it": "Esposizione automatica"
+},
+{
+"key": "part03.html#1019",
+"it": "La luminosità oscilla a ogni nuvola che passa"
+},
+{
+"key": "part03.html#1020",
+"it": "Blocco dell’esposizione o modalità Pro"
+},
+{
+"key": "part03.html#1021",
+"it": "Autofocus"
+},
+{
+"key": "part03.html#1022",
+"it": "Il fuoco oscilla in ripresa"
+},
+{
+"key": "part03.html#1023",
+"it": "Blocco del fuoco o fuoco manuale"
+},
+{
+"key": "part03.html#1024",
+"it": "WB automatico"
+},
+{
+"key": "part03.html#1025",
+"it": "Il colore cambia a ogni inquadratura; non si monta insieme"
+},
+{
+"key": "part03.html#1026",
+"it": "Imposta la temperatura colore in manuale"
+},
+{
+"key": "part03.html#1027",
+"it": "HDR automatico"
+},
+{
+"key": "part03.html#1028",
+"it": "Appiattisce la materia, meno margine in post"
+},
+{
+"key": "part03.html#1029",
+"it": "Usalo solo quando serve"
+},
+{
+"key": "part03.html#1030",
+"it": "Stabilizzazione eccessiva"
+},
+{
+"key": "part03.html#1031",
+"it": "Effetto gelatina (jello): bordi ondeggianti"
+},
+{
+"key": "part03.html#1032",
+"it": "Disattivala sul gimbal"
+},
+{
+"key": "part03.html#1033",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#1034",
+"it": "Tieni premuto a lungo per bloccare esposizione e fuoco (blocco AE/AF)."
+},
+{
+"key": "part03.html#1035",
+"it": "Sette modi per alzare la qualità"
+},
+{
+"key": "part03.html#1036",
+"it": "<b>01</b><span>Stabilizza. Bastano un treppiede o un supporto per essere già oltre metà strada.</span>"
+},
+{
+"key": "part03.html#1037",
+"it": "<b>02</b><span>Avvicinati. Lo zoom digitale butta via qualità. Zooma con i piedi.</span>"
+},
+{
+"key": "part03.html#1038",
+"it": "<b>03</b><span>Trova la luce. Metti la persona davanti a una finestra, rivolta verso la luce, e non ti servono lampade.</span>"
+},
+{
+"key": "part03.html#1039",
+"it": "<b>04</b><span>Pulisci l’obiettivo. Le ditate prese in tasca abbassano il contrasto su tutta l’immagine.</span>"
+},
+{
+"key": "part03.html#1040",
+"it": "<b>05</b><span>Registra l’audio a parte. Usa un microfono esterno o un registratore separato.</span>"
+},
+{
+"key": "part03.html#1041",
+"it": "<b>06</b><span>Gira in Log o con un profilo piatto. I modelli recenti supportano il Log.</span>"
+},
+{
+"key": "part03.html#1042",
+"it": "<b>07</b><span>Gira in 4K per lasciare margine sia alla versione verticale sia a quella orizzontale.</span>"
+},
+{
+"key": "part03.html#1043",
+"it": "Quando lo smartphone è davvero meglio"
+},
+{
+"key": "part03.html#1044",
+"it": "Spazi stretti, soggettive, macro, scene di vita quotidiana e situazioni in cui non devi dare l’impressione di filmare. Punta una camera grande sulle persone e si irrigidiscono; davanti a un telefono reagiscono con naturalezza. Scegliere uno strumento non è solo questione di qualità d’immagine."
+},
+{
+"key": "part03.html#1045",
+"it": "<span class=\"ph-id\">P03-PHONERIG</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Rig per smartphone – aggiungi cage · microfono · piccola luce e diventa una «camera»</b></span>"
+},
+{
+"key": "part03.html#1046",
+"it": "<b>Nota</b>Rig per smartphone – aggiungi cage · microfono · piccola luce e diventa una «camera»"
+},
+{
+"key": "part03.html#1047",
+"it": "<small>Esercizio</small>3.13"
+},
+{
+"key": "part03.html#1048",
+"it": "Compito"
+},
+{
+"key": "part03.html#1049",
+"it": "Usando solo uno smartphone, gira un’intervista di 1 minuto con luce · audio · stabilizzazione adeguati."
+},
+{
+"key": "part03.html#1050",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#1051",
+"it": "Tieni premuto a lungo per bloccare esposizione e fuoco (blocco AE/AF). Un microfono esterno alza la qualità in modo netto."
+},
+{
+"key": "part03.html#1052",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#1053",
+"it": "Blocco di esposizione · fuoco; chiarezza della voce"
+},
+{
+"key": "part03.html#1054",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#1055",
+"it": "Usa la luce della finestra come luce chiave e un foglio bianco come pannello riflettente."
+},
+{
+"key": "part03.html#1056",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#1057",
+"it": "Filtri e riprese con il drone"
+},
+{
+"key": "part03.html#1058",
+"it": "Un filtro è una scelta che la post non può annullare; con il drone, autorizzazioni e sicurezza vengono prima delle riprese."
+},
+{
+"key": "part03.html#1059",
+"it": "I filtri video in sintesi"
+},
+{
+"key": "part03.html#1060",
+"it": "Filtro"
+},
+{
+"key": "part03.html#1061",
+"it": "Funzione"
+},
+{
+"key": "part03.html#1062",
+"it": "Quando usarlo"
+},
+{
+"key": "part03.html#1063",
+"it": "Nota"
+},
+{
+"key": "part03.html#1064",
+"it": "Filtro ND"
+},
+{
+"key": "part03.html#1065",
+"it": "Riduce solo la quantità di luce"
+},
+{
+"key": "part03.html#1066",
+"it": "Riprese a tutta apertura in pieno giorno"
+},
+{
+"key": "part03.html#1067",
+"it": "L’ND variabile mostra una X ai valori estremi"
+},
+{
+"key": "part03.html#1068",
+"it": "Polarizzatore (CPL)"
+},
+{
+"key": "part03.html#1069",
+"it": "Elimina i riflessi, intensifica i cieli"
+},
+{
+"key": "part03.html#1070",
+"it": "Vetro, acqua, paesaggi"
+},
+{
+"key": "part03.html#1071",
+"it": "Cielo disomogeneo con i grandangoli; perde 1 stop o più"
+},
+{
+"key": "part03.html#1072",
+"it": "Black Pro-Mist"
+},
+{
+"key": "part03.html#1073",
+"it": "Alone morbido sulle alte luci"
+},
+{
+"key": "part03.html#1074",
+"it": "Ritratti, luci notturne"
+},
+{
+"key": "part03.html#1075",
+"it": "In eccesso vela l’immagine"
+},
+{
+"key": "part03.html#1076",
+"it": "Streak"
+},
+{
+"key": "part03.html#1077",
+"it": "Strisce di luce orizzontali"
+},
+{
+"key": "part03.html#1078",
+"it": "Look anamorfico"
+},
+{
+"key": "part03.html#1079",
+"it": "Pacchiano se abusato"
+},
+{
+"key": "part03.html#1080",
+"it": "Diffusione"
+},
+{
+"key": "part03.html#1081",
+"it": "Ammorbidisce contrasto e nitidezza"
+},
+{
+"key": "part03.html#1082",
+"it": "Pelle, texture rétro"
+},
+{
+"key": "part03.html#1083",
+"it": "Non si annulla in post"
+},
+{
+"key": "part03.html#1084",
+"it": "UV / protezione"
+},
+{
+"key": "part03.html#1085",
+"it": "Protegge l’obiettivo"
+},
+{
+"key": "part03.html#1086",
+"it": "Esterni in generale"
+},
+{
+"key": "part03.html#1087",
+"it": "Quelli economici degradano l’immagine"
+},
+{
+"key": "part03.html#1088",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part03.html#1089",
+"it": "Leggi e procedure di autorizzazione per i droni cambiano spesso. In fase di pianificazione verifica di persona le norme aggiornate presso l’autorità competente e inserisci nel calendario i tempi di rilascio delle autorizzazioni."
+},
+{
+"key": "part03.html#1090",
+"it": "Riprese con il drone in pratica"
+},
+{
+"key": "part03.html#1091",
+"it": "<b>01</b><span>Verifica dove puoi volare e se serve un’autorizzazione. Lo spazio aereo sopra aeroporti, siti militari e aree affollate è soggetto a restrizioni.</span>"
+},
+{
+"key": "part03.html#1092",
+"it": "<b>02</b><span>Verifica i requisiti di abilitazione del pilota e di registrazione del drone. Variano con il peso del drone.</span>"
+},
+{
+"key": "part03.html#1093",
+"it": "<b>03</b><span>Controlla il meteo. Velocità del vento, pioggia e orari di alba e tramonto decidono se si può girare.</span>"
+},
+{
+"key": "part03.html#1094",
+"it": "<b>04</b><span>Almeno 3 set di batterie. Ogni set dà circa 15 minuti di ripresa effettiva.</span>"
+},
+{
+"key": "part03.html#1095",
+"it": "<b>05</b><span>Prima del decollo controlla bussola e segnale GPS e imposta la quota di rientro automatico.</span>"
+},
+{
+"key": "part03.html#1096",
+"it": "<b>06</b><span>Fai un solo movimento semplice alla volta. Avanzare, salire e ruotare insieme rende l’immagine da capogiro.</span>"
+},
+{
+"key": "part03.html#1097",
+"it": "<b>07</b><span>Le inquadrature più utili sono un’apertura in salita e un finale in arretramento e salita. Porta a casa prima queste due.</span>"
+},
+{
+"key": "part03.html#1098",
+"it": "<b>08</b><span>Assegna un addetto alla sicurezza che sorvegli persone e ostacoli nei dintorni.</span>"
+},
+{
+"key": "part03.html#1099",
+"it": "<span class=\"ph-id\">P03-ND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>ND variabile – l’unico modo per tenere l’otturatore a 1/50 in una giornata luminosa</b></span>"
+},
+{
+"key": "part03.html#1100",
+"it": "<b>Nota</b>ND variabile – l’unico modo per tenere l’otturatore a 1/50 in una giornata luminosa"
+},
+{
+"key": "part03.html#1101",
+"it": "<span class=\"ph-id\">P03-DRONE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Decollo del drone – questa inquadratura è legale solo quando autorizzazione · permesso · assicurazione sono tutti a posto</b></span>"
+},
+{
+"key": "part03.html#1102",
+"it": "<b>Nota</b>Decollo del drone – questa inquadratura è legale solo quando autorizzazione · permesso · assicurazione sono tutti a posto"
+},
+{
+"key": "part03.html#1103",
+"it": "Iter di autorizzazione per le riprese con drone (Corea)"
+},
+{
+"key": "part03.html#1104",
+"it": "<b>01</b><i>Velivolo · licenza</i>Registra i droni non commerciali oltre i 2 kg; registra tutti quelli commerciali. Attestati di pilota: dalla classe 4 (250 g–2 kg, formazione online) alla classe 1"
+},
+{
+"key": "part03.html#1105",
+"it": "<b>02</b><i>Verifica della zona</i>Su Drone One-Stop (drone.onestop.go.kr) · app, verifica lo spazio aereo controllato (9,3 km intorno agli aeroporti) · le zone interdette al volo (ad es. P-73 sul centro di Seul) · il limite di quota di 150 m"
+},
+{
+"key": "part03.html#1106",
+"it": "<b>03</b><i>Autorizzazione al volo</i>Spazio aereo controllato · zone interdette · oltre i 150 m: serve l’autorizzazione di un’amministrazione aeronautica regionale o del Ministero della Difesa Nazionale (Comando di Difesa della Capitale ecc.). Domanda tramite Drone One-Stop, di norma 3 giorni prima"
+},
+{
+"key": "part03.html#1107",
+"it": "<b>04</b><i>Permesso di ripresa aerea</i>Di competenza del Ministero della Difesa Nazionale. Obbligatorio nelle zone di protezione militare e simili; altrove in via di allentamento – verifica sempre le linee guida aggiornate prima della domanda"
+},
+{
+"key": "part03.html#1108",
+"it": "<b>05</b><i>Autorizzazione speciale al volo</i>I voli notturni · oltre la linea di vista (BVLOS) richiedono un’autorizzazione speciale a parte del Korea Institute of Aviation Safety Technology"
+},
+{
+"key": "part03.html#1109",
+"it": "<b>06</b><i>Il giorno delle riprese</i>Assicurazione (obbligatoria per uso commerciale) · meteo (stop con vento da 10 m/s in su) · temperatura delle batterie · avviso alle persone vicine · registro di volo"
+},
+{
+"key": "part03.html#1110",
+"it": "<b>NOTA</b>"
+},
+{
+"key": "part03.html#1111",
+"it": "Le regole cambiano: quanto scritto riflette il momento della stesura; riverifica sempre requisiti · tempi · esenzioni sugli avvisi di Drone One-Stop e sul regolamento di attuazione della legge coreana sulla sicurezza aerea. Anche un campus all’interno di uno spazio aereo controllato richiede l’autorizzazione."
+},
+{
+"key": "part03.html#1112",
+"it": "Sei inquadrature solo da drone"
+},
+{
+"key": "part03.html#1113",
+"it": "<b>ORBITA</b><span>Giro con il soggetto al centro – presentare monumenti · prodotti · persone</span>"
+},
+{
+"key": "part03.html#1114",
+"it": "<b>RIVELAZIONE</b><span>Sali da dietro un crinale · un edificio per svelare la vista – aperture</span>"
+},
+{
+"key": "part03.html#1115",
+"it": "<b>ZENITALE</b><span>A piombo, 90° dall’alto – pattern e grafica, scala</span>"
+},
+{
+"key": "part03.html#1116",
+"it": "<b>DRONIE</b><span>Arretra · sali allontanandoti da una persona – «io sono qui»</span>"
+},
+{
+"key": "part03.html#1117",
+"it": "<b>ATTRAVERSAMENTO FPV</b><span>Passa attraverso archi · finestre · varchi – velocità, soggettiva</span>"
+},
+{
+"key": "part03.html#1118",
+"it": "<b>A SEGUIRE</b><span>Corri di fianco a un’auto · una persona in movimento – inseguimento, viaggio</span>"
+},
+{
+"key": "part03.html#1119",
+"it": "Un drone non è un «treppiede alto». Lo fai volare per i sei movimenti che una camera a terra non può fare. <b>Un solo</b> movimento per inquadratura, a velocità costante, con 2 secondi di fermo all’inizio e alla fine."
+},
+{
+"key": "part03.html#1120",
+"it": "<b>Fig. 29-1</b> Sei movimenti di camera esclusivi dei droni – orbita · rivelazione · zenitale · dronie · attraversamento · a seguire."
+},
+{
+"key": "part03.html#1121",
+"it": "<small>Esercizio</small>3.14"
+},
+{
+"key": "part03.html#1122",
+"it": "Compito"
+},
+{
+"key": "part03.html#1123",
+"it": "Progetta un ritratto in controluce con un filtro ND e un’inquadratura d’apertura dal drone (o da un punto elevato)."
+},
+{
+"key": "part03.html#1124",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#1125",
+"it": "Con i droni verifica sempre per prima cosa zone interdette al volo e permessi richiesti."
+},
+{
+"key": "part03.html#1126",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#1127",
+"it": "Scopo dell’uso del filtro; registrazione dei controlli di sicurezza · legali"
+},
+{
+"key": "part03.html#1128",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#1129",
+"it": "Progetta l’inquadratura dal drone per mostrare la scala del luogo, poi stringi sulla persona."
+},
+{
+"key": "part03.html#1130",
+"it": "Chiusura della PARTE 03"
+},
+{
+"key": "part03.html#1131",
+"it": "Esercizi e ripasso"
+},
+{
+"key": "part03.html#1132",
+"it": "<b>f/2,0 e f/8</b>Gira la stessa scena con entrambi i diaframmi, confronta lo sfocato dello sfondo e annota che cosa hai regolato per pareggiare l’esposizione."
+},
+{
+"key": "part03.html#1133",
+"it": "<b>WB automatico e 5600 K bloccati</b>Gira 1 minuto con ciascuno vicino a una finestra in interni e osserva come cambia il colore."
+},
+{
+"key": "part03.html#1134",
+"it": "<b>24 · 60 · 120 fps</b>Gira la stessa azione, mettila su una timeline a 24 fps e confronta le velocità."
+}
+]

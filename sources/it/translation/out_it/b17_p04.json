@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#102",
+"it": "CUT 05"
+},
+{
+"key": "templates.html#103",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#104",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#105",
+"it": "Azione"
+},
+{
+"key": "templates.html#106",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#107",
+"it": "M · SE"
+},
+{
+"key": "templates.html#108",
+"it": "CUT 06"
+},
+{
+"key": "templates.html#109",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#110",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#111",
+"it": "Azione"
+},
+{
+"key": "templates.html#112",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#113",
+"it": "M · SE"
+},
+{
+"key": "templates.html#114",
+"it": "CUT 07"
+},
+{
+"key": "templates.html#115",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#116",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#117",
+"it": "Azione"
+},
+{
+"key": "templates.html#118",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#119",
+"it": "M · SE"
+},
+{
+"key": "templates.html#120",
+"it": "CUT 08"
+},
+{
+"key": "templates.html#121",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#122",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#123",
+"it": "Azione"
+},
+{
+"key": "templates.html#124",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#125",
+"it": "M · SE"
+},
+{
+"key": "templates.html#126",
+"it": "CUT 09"
+},
+{
+"key": "templates.html#127",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#128",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#129",
+"it": "Azione"
+},
+{
+"key": "templates.html#130",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#131",
+"it": "M · SE"
+},
+{
+"key": "templates.html#132",
+"it": "Letterbox per la consegna in 16:9. Due persone in una sola inquadratura: è la larghezza vuota a raccontare."
+},
+{
+"key": "templates.html#133",
+"it": "Modello di storyboard · 9:16"
+},
+{
+"key": "templates.html#134",
+"it": "Reels·Shorts·TikTok – verticale standard · 1080×1920"
+},
+{
+"key": "templates.html#135",
+"it": "Progetto ____________  Scena ____  Pagina ___/___"
+},
+{
+"key": "templates.html#136",
+"it": "Regia ________  Data ________  Versione v___"
+},
+{
+"key": "templates.html#137",
+"it": "CUT 01"
+},
+{
+"key": "templates.html#138",
+"it": "SIZE"
+},
+{
+"key": "templates.html#139",
+"it": "MOVE"
+},
+{
+"key": "templates.html#140",
+"it": "Azione"
+},
+{
+"key": "templates.html#141",
+"it": "SE"
+},
+{
+"key": "templates.html#142",
+"it": "CUT 02"
+},
+{
+"key": "templates.html#143",
+"it": "SIZE"
+},
+{
+"key": "templates.html#144",
+"it": "MOVE"
+},
+{
+"key": "templates.html#145",
+"it": "Azione"
+},
+{
+"key": "templates.html#146",
+"it": "SE"
+},
+{
+"key": "templates.html#147",
+"it": "CUT 03"
+},
+{
+"key": "templates.html#148",
+"it": "SIZE"
+},
+{
+"key": "templates.html#149",
+"it": "MOVE"
+},
+{
+"key": "templates.html#150",
+"it": "Azione"
+},
+{
+"key": "templates.html#151",
+"it": "SE"
+},
+{
+"key": "templates.html#152",
+"it": "CUT 04"
+},
+{
+"key": "templates.html#153",
+"it": "SIZE"
+},
+{
+"key": "templates.html#154",
+"it": "MOVE"
+},
+{
+"key": "templates.html#155",
+"it": "Azione"
+},
+{
+"key": "templates.html#156",
+"it": "SE"
+},
+{
+"key": "templates.html#157",
+"it": "CUT 05"
+},
+{
+"key": "templates.html#158",
+"it": "SIZE"
+},
+{
+"key": "templates.html#159",
+"it": "MOVE"
+},
+{
+"key": "templates.html#160",
+"it": "Azione"
+},
+{
+"key": "templates.html#161",
+"it": "SE"
+},
+{
+"key": "templates.html#162",
+"it": "CUT 06"
+},
+{
+"key": "templates.html#163",
+"it": "SIZE"
+},
+{
+"key": "templates.html#164",
+"it": "MOVE"
+},
+{
+"key": "templates.html#165",
+"it": "Azione"
+},
+{
+"key": "templates.html#166",
+"it": "SE"
+},
+{
+"key": "templates.html#167",
+"it": "CUT 07"
+},
+{
+"key": "templates.html#168",
+"it": "SIZE"
+},
+{
+"key": "templates.html#169",
+"it": "MOVE"
+},
+{
+"key": "templates.html#170",
+"it": "Azione"
+},
+{
+"key": "templates.html#171",
+"it": "SE"
+},
+{
+"key": "templates.html#172",
+"it": "CUT 08"
+},
+{
+"key": "templates.html#173",
+"it": "SIZE"
+},
+{
+"key": "templates.html#174",
+"it": "MOVE"
+},
+{
+"key": "templates.html#175",
+"it": "Azione"
+},
+{
+"key": "templates.html#176",
+"it": "SE"
+},
+{
+"key": "templates.html#177",
+"it": "CUT 09"
+},
+{
+"key": "templates.html#178",
+"it": "SIZE"
+},
+{
+"key": "templates.html#179",
+"it": "MOVE"
+},
+{
+"key": "templates.html#180",
+"it": "Azione"
+},
+{
+"key": "templates.html#181",
+"it": "SE"
+},
+{
+"key": "templates.html#182",
+"it": "Grigio = zone coperte dall’interfaccia della piattaforma (14% in alto·25% in basso·pulsanti a destra). Volti nel terzo superiore, sottotitoli nella fascia centrale."
+},
+{
+"key": "templates.html#183",
+"it": "Modello di storyboard · 9:21"
+},
+{
+"key": "templates.html#184",
+"it": "LED verticale·signage – pilastro · 1080×2520"
+},
+{
+"key": "templates.html#185",
+"it": "Progetto ____________  Scena ____  Pagina ___/___"
+},
+{
+"key": "templates.html#186",
+"it": "Regia ________  Data ________  Versione v___"
+},
+{
+"key": "templates.html#187",
+"it": "CUT 01"
+},
+{
+"key": "templates.html#188",
+"it": "SIZE"
+},
+{
+"key": "templates.html#189",
+"it": "MOVE"
+},
+{
+"key": "templates.html#190",
+"it": "Azione"
+},
+{
+"key": "templates.html#191",
+"it": "SE"
+},
+{
+"key": "templates.html#192",
+"it": "CUT 02"
+},
+{
+"key": "templates.html#193",
+"it": "SIZE"
+},
+{
+"key": "templates.html#194",
+"it": "MOVE"
+},
+{
+"key": "templates.html#195",
+"it": "Azione"
+},
+{
+"key": "templates.html#196",
+"it": "SE"
+},
+{
+"key": "templates.html#197",
+"it": "CUT 03"
+},
+{
+"key": "templates.html#198",
+"it": "SIZE"
+},
+{
+"key": "templates.html#199",
+"it": "MOVE"
+},
+{
+"key": "templates.html#200",
+"it": "Azione"
+},
+{
+"key": "templates.html#201",
+"it": "SE"
+},
+{
+"key": "templates.html#202",
+"it": "CUT 04"
+},
+{
+"key": "templates.html#203",
+"it": "SIZE"
+},
+{
+"key": "templates.html#204",
+"it": "MOVE"
+},
+{
+"key": "templates.html#205",
+"it": "Azione"
+},
+{
+"key": "templates.html#206",
+"it": "SE"
+},
+{
+"key": "templates.html#207",
+"it": "CUT 05"
+},
+{
+"key": "templates.html#208",
+"it": "SIZE"
+},
+{
+"key": "templates.html#209",
+"it": "MOVE"
+},
+{
+"key": "templates.html#210",
+"it": "Azione"
+},
+{
+"key": "templates.html#211",
+"it": "SE"
+},
+{
+"key": "templates.html#212",
+"it": "CUT 06"
+},
+{
+"key": "templates.html#213",
+"it": "SIZE"
+},
+{
+"key": "templates.html#214",
+"it": "MOVE"
+},
+{
+"key": "templates.html#215",
+"it": "Azione"
+},
+{
+"key": "templates.html#216",
+"it": "SE"
+},
+{
+"key": "templates.html#217",
+"it": "CUT 07"
+},
+{
+"key": "templates.html#218",
+"it": "SIZE"
+},
+{
+"key": "templates.html#219",
+"it": "MOVE"
+},
+{
+"key": "templates.html#220",
+"it": "Azione"
+},
+{
+"key": "templates.html#221",
+"it": "SE"
+},
+{
+"key": "templates.html#222",
+"it": "CUT 08"
+},
+{
+"key": "templates.html#223",
+"it": "SIZE"
+},
+{
+"key": "templates.html#224",
+"it": "MOVE"
+},
+{
+"key": "templates.html#225",
+"it": "Azione"
+},
+{
+"key": "templates.html#226",
+"it": "SE"
+},
+{
+"key": "templates.html#227",
+"it": "CUT 09"
+},
+{
+"key": "templates.html#228",
+"it": "SIZE"
+},
+{
+"key": "templates.html#229",
+"it": "MOVE"
+},
+{
+"key": "templates.html#230",
+"it": "Azione"
+},
+{
+"key": "templates.html#231",
+"it": "SE"
+},
+{
+"key": "templates.html#232",
+"it": "La messa in scena scorre alto→basso. Visione da 2 m o più → testo di almeno 60 px."
+},
+{
+"key": "templates.html#233",
+"it": "Modello di storyboard · 1:1 carosello"
+},
+{
+"key": "templates.html#234",
+"it": "Feed·carosello – quadrato · 1080×1080"
+},
+{
+"key": "templates.html#235",
+"it": "Progetto ____________  Scena ____  Pagina ___/___"
+},
+{
+"key": "templates.html#236",
+"it": "Regia ________  Data ________  Versione v___"
+},
+{
+"key": "templates.html#237",
+"it": "CUT 01"
+},
+{
+"key": "templates.html#238",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#239",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#240",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#241",
+"it": "Azione"
+},
+{
+"key": "templates.html#242",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#243",
+"it": "M · SE"
+},
+{
+"key": "templates.html#244",
+"it": "CUT 02"
+},
+{
+"key": "templates.html#245",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#246",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#247",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#248",
+"it": "Azione"
+},
+{
+"key": "templates.html#249",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#250",
+"it": "M · SE"
+},
+{
+"key": "templates.html#251",
+"it": "CUT 03"
+}
+]

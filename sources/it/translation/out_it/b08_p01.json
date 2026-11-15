@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#257",
+"it": "Risoluzione"
+},
+{
+"key": "part07.html#258",
+"it": "Basta il 4K"
+},
+{
+"key": "part07.html#259",
+"it": "Consigliato min. 8K (si vede solo una porzione)"
+},
+{
+"key": "part07.html#260",
+"it": "Riprese e comfort di visione"
+},
+{
+"key": "part07.html#261",
+"it": "<b>Termine</b>"
+},
+{
+"key": "part07.html#262",
+"it": "Punto nodale – il centro ottico dell’obiettivo. Ruota attorno a questo asse per ridurre al minimo gli errori di stitching."
+},
+{
+"key": "part07.html#263",
+"it": "<small>Stitching</small>Linee di giunzione e distanza minima"
+},
+{
+"key": "part07.html#264",
+"it": "La linea di giunzione è dove i bordi delle lenti si sovrappongono – tieni lontani i soggetti importanti"
+},
+{
+"key": "part07.html#265",
+"it": "Entro 1 m dalla videocamera lo stitching si rompe. È la distanza minima del soggetto"
+},
+{
+"key": "part07.html#266",
+"it": "<small>Anti-cinetosi</small>Niente accelerazioni · riferimento fisso · campo stretto"
+},
+{
+"key": "part07.html#267",
+"it": "La cinetosi nasce dal conflitto tra vista e orecchio interno. Solo movimenti a velocità costante"
+},
+{
+"key": "part07.html#268",
+"it": "Un riferimento fisso nell’inquadratura, come un abitacolo o una ringhiera, riduce molto la cinetosi"
+},
+{
+"key": "part07.html#269",
+"it": "La vignettatura restringe la visione periferica durante i movimenti"
+},
+{
+"key": "part07.html#270",
+"it": "Guida dello sguardo"
+},
+{
+"key": "part07.html#271",
+"it": "Come"
+},
+{
+"key": "part07.html#272",
+"it": "Forza"
+},
+{
+"key": "part07.html#273",
+"it": "Audio spaziale"
+},
+{
+"key": "part07.html#274",
+"it": "Fa girare la testa verso il suono"
+},
+{
+"key": "part07.html#275",
+"it": "Molto forte"
+},
+{
+"key": "part07.html#276",
+"it": "Luce, luminosità"
+},
+{
+"key": "part07.html#277",
+"it": "Scurisci l’ambiente, illumina solo il bersaglio"
+},
+{
+"key": "part07.html#278",
+"it": "Forte"
+},
+{
+"key": "part07.html#279",
+"it": "Movimento"
+},
+{
+"key": "part07.html#280",
+"it": "Una sola cosa si muove in uno spazio fermo"
+},
+{
+"key": "part07.html#281",
+"it": "Forte"
+},
+{
+"key": "part07.html#282",
+"it": "Sguardo"
+},
+{
+"key": "part07.html#283",
+"it": "Un interprete guarda in una direzione precisa"
+},
+{
+"key": "part07.html#284",
+"it": "Media"
+},
+{
+"key": "part07.html#285",
+"it": "Colore, contrasto"
+},
+{
+"key": "part07.html#286",
+"it": "Colori complementari o saturi"
+},
+{
+"key": "part07.html#287",
+"it": "Media"
+},
+{
+"key": "part07.html#288",
+"it": "Se l’esperienza finisce e nessuno si è voltato a guardare indietro, il progetto ha fallito.<small>6.5 La prova di un progetto 360</small>"
+},
+{
+"key": "part07.html#289",
+"it": "<b>G-21</b> Video 360 e VR – uno spazio in cui lo spettatore diventa la videocamera (immagine generata con GPT – solo a scopo illustrativo)"
+},
+{
+"key": "part07.html#290",
+"it": "Progetta lo spazio VR per distanze"
+},
+{
+"key": "part07.html#291",
+"it": "La VR ha la distanza al posto dell’inquadratura. Che cosa collochi e dove, attorno al punto in cui sta lo spettatore, sostituisce la scelta di campi e piani. Troppo vicino e gli occhi si incrociano con fastidio; troppo lontano e diventa sfondo."
+},
+{
+"key": "part07.html#292",
+"it": "Progetta lo spazio VR per distanze"
+},
+{
+"key": "part07.html#293",
+"it": "Entro 0,5 m – zona di disagio"
+},
+{
+"key": "part07.html#294",
+"it": "1–3 m – zona di interazione"
+},
+{
+"key": "part07.html#295",
+"it": "Oltre 8 m – zona di sfondo"
+},
+{
+"key": "part07.html#296",
+"it": "Spettatore"
+},
+{
+"key": "part07.html#297",
+"it": "<b>Tre scatole della stessa misura</b><span>1 m – grande e solida, quasi da toccare</span><span>3 m – media, la distanza più confortevole</span><span>8 m – piccola e piatta, come uno sfondo</span><b>Cinque modi per ridurre la cinetosi</b><span>Non accelerare – velocità costante o teletrasporto</span><span>Non inclinare l’orizzonte</span><span>Videocamera all’altezza dello spettatore (1,6 m)</span><span>Tieni l’essenziale entro ±60° dal fronte</span><span>60 fps o più, latenza max 20 ms</span>"
+},
+{
+"key": "part07.html#298",
+"it": "<b>Fig. 65-1</b> Progettare le distanze in VR – la stessa scatola a 1 m, 3 m e 8 m dallo spettatore cambia per dimensione e profondità. Metti l’interazione a 1–3 m e lo sfondo oltre gli 8 m."
+},
+{
+"key": "part07.html#299",
+"it": "<b>Foto di riferimento 6.5B</b>Media in cui il pubblico sta in piedi – VR · 360 · fulldome"
+},
+{
+"key": "part07.html#300",
+"it": "<span class=\"ph-id\">P07-VR-USER</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>VR – il pubblico sta in piedi</b>Una persona con il visore che tende entrambe le mani, in soggiorno</span>"
+},
+{
+"key": "part07.html#301",
+"it": "<b>a</b>Il corpo dello spettatore è la videocamera – la portata del braccio è la prima unità di progetto"
+},
+{
+"key": "part07.html#302",
+"it": "<span class=\"ph-id\">P07-VR-WORLD</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Dentro la VR – spazio tridimensionale</b>Vista in prima persona di una galleria virtuale, segni guida a pavimento e controller</span>"
+},
+{
+"key": "part07.html#303",
+"it": "<b>b</b>I segni guida a pavimento prendono il posto dell’inquadratura"
+},
+{
+"key": "part07.html#304",
+"it": "<span class=\"ph-id\">P07-360RIG</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Riprese 360 – il treppiede si cancella</b>Una videocamera 360 su un monopiede sottile, sola in una piazza</span>"
+},
+{
+"key": "part07.html#305",
+"it": "<b>c</b>La troupe non ha dove nascondersi: comanda a distanza e cancella la base in post-produzione"
+},
+{
+"key": "part07.html#306",
+"it": "<span class=\"ph-id\">P07-DOME</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Fulldome</b>Il mare proiettato su una volta emisferica, spettatori sdraiati che guardano in alto</span>"
+},
+{
+"key": "part07.html#307",
+"it": "<b>d</b>Immersione senza visori – molte persone guardano in alto lo stesso spazio"
+},
+{
+"key": "part07.html#308",
+"it": "<small>Esercizio</small>6.5"
+},
+{
+"key": "part07.html#309",
+"it": "Compito"
+},
+{
+"key": "part07.html#310",
+"it": "Progetta una scena di 30 secondi che guidi lo sguardo dello spettatore, con una videocamera 360 o la panoramica di uno smartphone."
+},
+{
+"key": "part07.html#311",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#312",
+"it": "Usa suono, luce e movimento per indicare dove guardare."
+},
+{
+"key": "part07.html#313",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#314",
+"it": "Guida dello sguardo, prevenzione della cinetosi"
+},
+{
+"key": "part07.html#315",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#316",
+"it": "Progetta un flusso in cui la storia regge ovunque guardi lo spettatore."
+},
+{
+"key": "part07.html#317",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#318",
+"it": "Pubblicità AR e WebAR"
+},
+{
+"key": "part07.html#319",
+"it": "Chiediti prima se questa esperienza ha un motivo per essere in AR. Se basta un video, l’AR è denaro sprecato."
+},
+{
+"key": "part07.html#320",
+"it": "Tipo"
+},
+{
+"key": "part07.html#321",
+"it": "Come funziona"
+},
+{
+"key": "part07.html#322",
+"it": "Famiglia di strumenti"
+},
+{
+"key": "part07.html#323",
+"it": "Uso pubblicitario"
+},
+{
+"key": "part07.html#324",
+"it": "Filtro per il viso"
+},
+{
+"key": "part07.html#325",
+"it": "Rileva un volto e vi applica la grafica"
+},
+{
+"key": "part07.html#326",
+"it": "Strumenti per creator dei social"
+},
+{
+"key": "part07.html#327",
+"it": "Prova virtuale dei prodotti, challenge di marca"
+},
+{
+"key": "part07.html#328",
+"it": "AR con marker"
+},
+{
+"key": "part07.html#329",
+"it": "Riconosce un’immagine data, poi riproduce"
+},
+{
+"key": "part07.html#330",
+"it": "Strumenti di authoring AR"
+},
+{
+"key": "part07.html#331",
+"it": "Abbinamento a packaging e manifesti"
+},
+{
+"key": "part07.html#332",
+"it": "AR con rilevamento dei piani"
+},
+{
+"key": "part07.html#333",
+"it": "Rileva pavimenti e pareti, poi colloca"
+},
+{
+"key": "part07.html#334",
+"it": "Framework AR per mobile"
+},
+{
+"key": "part07.html#335",
+"it": "Anteprima di mobili ed elettrodomestici in casa"
+},
+{
+"key": "part07.html#336",
+"it": "AR geolocalizzata"
+},
+{
+"key": "part07.html#337",
+"it": "Si attiva a coordinate GPS"
+},
+{
+"key": "part07.html#338",
+"it": "Piattaforme geolocalizzate"
+},
+{
+"key": "part07.html#339",
+"it": "Visite in negozio, campagne locali"
+},
+{
+"key": "part07.html#340",
+"it": "WebAR"
+},
+{
+"key": "part07.html#341",
+"it": "Gira nel browser, senza installare app"
+},
+{
+"key": "part07.html#342",
+"it": "Servizi WebAR"
+},
+{
+"key": "part07.html#343",
+"it": "Esperienze immediate via QR"
+},
+{
+"key": "part07.html#344",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part07.html#345",
+"it": "La prima schermata, raggiunta senza installare un’app, è la più importante."
+},
+{
+"key": "part07.html#346",
+"it": "Quattro principi per progettare pubblicità AR"
+},
+{
+"key": "part07.html#347",
+"it": "<b>01</b><span>Chiediti prima perché deve essere AR. Se basta un video, l’AR è denaro sprecato.</span>"
+},
+{
+"key": "part07.html#348",
+"it": "<b>02</b><span>Tieni l’esperienza sotto i 30 secondi. Il tempo medio reale passato nell’AR mobile è molto breve.</span>"
+},
+{
+"key": "part07.html#349",
+"it": "<b>03</b><span>Progetta sempre un momento che valga la pena condividere. Catture e condivisioni sono i veri indicatori di risultato della pubblicità AR.</span>"
+},
+{
+"key": "part07.html#350",
+"it": "<b>04</b><span>Prova su dispositivi di fascia bassa. Un’esperienza che funziona solo sui modelli più recenti fallisce.</span>"
+},
+{
+"key": "part07.html#351",
+"it": "Occhiali AR, sottotitoli davanti agli occhi"
+},
+{
+"key": "part07.html#352",
+"it": "L’AR, che prima voleva dire sollevare uno smartphone, sta scendendo sugli occhiali. Nel 2025 gli occhiali smart in commercio si dividono in tre grandi tipi; i nomi dei prodotti cambieranno, ma i tipi reggeranno per un po’."
+},
+{
+"key": "part07.html#353",
+"it": "<small>Fotocamera · IA vocale</small>Famiglia Ray-Ban Meta"
+},
+{
+"key": "part07.html#354",
+"it": "Niente display; solo fotocamera, altoparlanti e IA vocale"
+},
+{
+"key": "part07.html#355",
+"it": "Foto · video in prima persona, descrive ciò che hai davanti"
+},
+{
+"key": "part07.html#356",
+"it": "Ti dice all’orecchio la traduzione in tempo reale"
+},
+{
+"key": "part07.html#357",
+"it": "Il tipo più leggero e più venduto"
+},
+{
+"key": "part07.html#358",
+"it": "<small>Display</small>Famiglia Xreal · Meta Ray-Ban Display e altri"
+},
+{
+"key": "part07.html#359",
+"it": "Piccolo display nella lente – sottotitoli · navigazione · traduzione"
+},
+{
+"key": "part07.html#360",
+"it": "I modelli Xreal mostrano lo schermo di un dispositivo collegato come un grande schermo virtuale davanti a te"
+},
+{
+"key": "part07.html#361",
+"it": "Meta Ray-Ban Display: piccolo display a colori in una lente, controllo a gesti con un bracciale"
+},
+{
+"key": "part07.html#362",
+"it": "Campo visivo stretto; non può mostrare testi lunghi"
+},
+{
+"key": "part07.html#363",
+"it": "<small>Visore di calcolo spaziale</small>Apple Vision Pro · famiglia Meta Quest"
+},
+{
+"key": "part07.html#364",
+"it": "Le telecamere passthrough fanno fluttuare finestre e oggetti 3D sopra la realtà"
+},
+{
+"key": "part07.html#365",
+"it": "Controllo con mani e occhi; riproduce video spaziali"
+},
+{
+"key": "part07.html#366",
+"it": "Peso e prezzo non ne fanno un dispositivo «da tutti i giorni»"
+},
+{
+"key": "part07.html#367",
+"it": "Dispositivo di riferimento per esperienze al chiuso · mostre · didattica"
+},
+{
+"key": "part07.html#368",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part07.html#369",
+"it": "Pensa i sottotitoli per occhiali una riga alla volta, poche parole per riga. Parla prima all’orecchio, non all’occhio, e usa il testo come supporto."
+},
+{
+"key": "part07.html#370",
+"it": "Per chi produce cambiano tre cose. Primo: il testo appare piccolo al margine del campo visivo, non al centro di uno schermo. Se non è breve, grande e ad alto contrasto, non verrà letto."
+},
+{
+"key": "part07.html#371",
+"it": "Secondo: la voce viene prima. Gli occhiali sono un mezzo a mani libere, quindi un flusso di domande e risposte sostituisce il tocco. Terzo: il video in prima persona diventa lo standard. Ogni movimento della testa viene registrato e il formato (aspect ratio) varia da un dispositivo all’altro, quindi non puoi dare per scontato il 16:9 orizzontale."
+},
+{
+"key": "part07.html#372",
+"it": "«Oltre la lente», come il cinema l’ha disegnato per primo"
+},
+{
+"key": "part07.html#373",
+"it": "L’HUD rosso della visione di Terminator identificava gli oggetti nel campo visivo e vi sovrapponeva dati; Minority Report mostrava un’interfaccia a gesti che trascina schermi a mezz’aria; e l’HUD del casco di Iron Man ha fissato l’idea di un’interfaccia in prima persona in cui le informazioni fluttuano seguendo lo sguardo."
+},
+{
+"key": "part07.html#374",
+"it": "Il «testo breve al margine del campo visivo», il «controllo a gesti» e la «voce che descrive ciò che vedi» degli occhiali AR di oggi sono tutta grammatica che il cinema ha disegnato per primo. Il pubblico ha visto quelle schermate decine di volte, perciò i contenuti AR si capiscono senza spiegazioni."
+},
+{
+"key": "part07.html#375",
+"it": "<b>Foto di riferimento 6.6A</b>Uno strato sopra la realtà – dall’AR in mano all’AR nello sguardo"
+},
+{
+"key": "part07.html#376",
+"it": "<span class=\"ph-id\">P07-AR-PHONE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>AR – uno strato sopra la realtà</b>Un divano virtuale in un soggiorno sullo schermo di un telefono, la stanza reale attorno</span>"
+},
+{
+"key": "part07.html#377",
+"it": "<b>a</b>AR con rilevamento dei piani – trova il pavimento, poi colloca l’oggetto"
+},
+{
+"key": "part07.html#378",
+"it": "<span class=\"ph-id\">P07-AR-GLASS</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Occhiali AR – sottotitoli tradotti davanti agli occhi</b>Una persona con occhiali smart sottili in un caffè, tenue luce dei sottotitoli sulla lente</span>"
+},
+{
+"key": "part07.html#379",
+"it": "<b>b</b>Occhiali con display – un sottotitolo di una riga appare al margine del campo visivo"
+},
+{
+"key": "part07.html#380",
+"it": "<span class=\"ph-id\">P07-HUD</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>La vista «oltre la lente» che il cinema ha immaginato per primo</b>Una strada vista attraverso una visiera, mirini e riquadri di scansione, barre di dati illeggibili</span>"
+},
+{
+"key": "part07.html#381",
+"it": "<b>c</b>L’HUD in prima persona nel cinema – un’immaginazione diventata la grammatica dell’AR di oggi"
+},
+{
+"key": "part07.html#382",
+"it": "<small>Esercizio</small>6.6"
+},
+{
+"key": "part07.html#383",
+"it": "Compito"
+},
+{
+"key": "part07.html#384",
+"it": "Scegli un prodotto e schizza un’esperienza WebAR come flusso di 3 schermate."
+},
+{
+"key": "part07.html#385",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#386",
+"it": "La prima schermata, raggiunta senza installare un’app, è la più importante."
+},
+{
+"key": "part07.html#387",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#388",
+"it": "Flusso utente semplice, motivazione a condividere"
+},
+{
+"key": "part07.html#389",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#390",
+"it": "Fa confluire con naturalezza il risultato nella condivisione sui social."
+},
+{
+"key": "part07.html#391",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#392",
+"it": "Progettare mostre MR e XR"
+},
+{
+"key": "part07.html#393",
+"it": "Il progetto di una mostra deve calcolare la capacità oraria. Senza questo numero, sul posto nasceranno problemi di code."
+},
+{
+"key": "part07.html#394",
+"it": "<b>Fig. 66</b> AR, MR e VR nel continuum tra reale e virtuale"
+},
+{
+"key": "part07.html#395",
+"it": "Disegna il percorso di visita come un’unica linea dall’ingresso all’uscita"
+},
+{
+"key": "part07.html#396",
+"it": "Ingresso · coda"
+},
+{
+"key": "part07.html#397",
+"it": "Visore · briefing 2 min"
+},
+{
+"key": "part07.html#398",
+"it": "Zona A"
+},
+{
+"key": "part07.html#399",
+"it": "Zona B"
+},
+{
+"key": "part07.html#400",
+"it": "Zona C"
+},
+{
+"key": "part07.html#401",
+"it": "Sanificazione · riconsegna"
+},
+{
+"key": "part07.html#402",
+"it": "Zona foto"
+},
+{
+"key": "part07.html#403",
+"it": "Foto · condivisione 60 s"
+},
+{
+"key": "part07.html#404",
+"it": "Uscita · shop"
+},
+{
+"key": "part07.html#405",
+"it": "IN"
+},
+{
+"key": "part07.html#406",
+"it": "OUT →"
+}
+]

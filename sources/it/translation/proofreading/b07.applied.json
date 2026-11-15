@@ -1,0 +1,4 @@
+[
+ {"key": "part05.html#318", "find": "per moti complessi", "replace": "per guidare in blocco moti complessi", "why": "meaning: 'as one' missing"},
+ {"key": "part05.html#834", "find": "da ciò che fa il fotogramma", "replace": "da ciò che compone ogni fotogramma", "why": "meaning: 'what makes each frame' = material of the frame"}
+]

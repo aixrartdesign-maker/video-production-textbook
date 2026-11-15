@@ -1,0 +1,506 @@
+[
+{
+"key": "feature_lighting.html#0",
+"it": "Speciale · STRUMENTI DI LUCE"
+},
+{
+"key": "feature_lighting.html#1",
+"it": "Gli strumenti della luce –<br>proiettori, fasci e luce nel software"
+},
+{
+"key": "feature_lighting.html#2",
+"it": "Imparare a illuminare non è memorizzare nomi di proiettori: è sapere quale strumento controlla <b>dimensione · distanza · angolo · intensità · colore</b> della luce. Questo speciale riunisce in un’unica mappa i proiettori e i modificatori usati sul set, i fasci dal pinspot alla luce ambiente e le funzioni di After Effects · Premiere che ricostruiscono la stessa luce."
+},
+{
+"key": "feature_lighting.html#3",
+"it": "<small>DOPPIA PAGINA 01</small>Mappa delle sorgenti – dodici proiettori e la luce che fanno"
+},
+{
+"key": "feature_lighting.html#4",
+"it": "<b>Foto di riferimento 4.7A</b>Immagine generata – dodici sorgenti di luce"
+},
+{
+"key": "feature_lighting.html#5",
+"it": "<span class=\"ph-id\">P04-FRESNEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Fresnel</b></span>"
+},
+{
+"key": "feature_lighting.html#6",
+"it": "<b>Fresnel</b>Tungsteno 650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#7",
+"it": "<span class=\"ph-id\">P04-OPENFACE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Proiettore aperto · redhead</b></span>"
+},
+{
+"key": "feature_lighting.html#8",
+"it": "<b>Proiettore aperto · redhead</b>800 W–2K tungsteno"
+},
+{
+"key": "feature_lighting.html#9",
+"it": "<span class=\"ph-id\">P04-HMI</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>HMI · PAR</b></span>"
+},
+{
+"key": "feature_lighting.html#10",
+"it": "<b>HMI · PAR</b>575 W–18K · 5600 K"
+},
+{
+"key": "feature_lighting.html#11",
+"it": "<span class=\"ph-id\">P04-LEDPANEL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Pannello LED (bicolore)</b></span>"
+},
+{
+"key": "feature_lighting.html#12",
+"it": "<b>Pannello LED (bicolore)</b>30–200 W · 2700–6500 K"
+},
+{
+"key": "feature_lighting.html#13",
+"it": "<span class=\"ph-id\">P04-COBSOFT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>LED COB con softbox</b></span>"
+},
+{
+"key": "feature_lighting.html#14",
+"it": "<b>LED COB con softbox</b>100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#15",
+"it": "<span class=\"ph-id\">P04-TUBE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tubo LED RGBWW</b></span>"
+},
+{
+"key": "feature_lighting.html#16",
+"it": "<b>Tubo LED RGBWW</b>30–120 cm · tutti i colori"
+},
+{
+"key": "feature_lighting.html#17",
+"it": "<span class=\"ph-id\">P04-KINO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Kino · banco fluorescente</b></span>"
+},
+{
+"key": "feature_lighting.html#18",
+"it": "<b>Kino · banco fluorescente</b>4 ft · 4 tubi"
+},
+{
+"key": "feature_lighting.html#19",
+"it": "<span class=\"ph-id\">P04-RING</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Luce anulare</b></span>"
+},
+{
+"key": "feature_lighting.html#20",
+"it": "<b>Luce anulare</b>10–60 W"
+},
+{
+"key": "feature_lighting.html#21",
+"it": "<span class=\"ph-id\">P04-CHINABALL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>China ball · lanterna</b></span>"
+},
+{
+"key": "feature_lighting.html#22",
+"it": "<b>China ball · lanterna</b>Lampadina + globo di carta/stoffa"
+},
+{
+"key": "feature_lighting.html#23",
+"it": "<span class=\"ph-id\">P04-DEDO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Dedolight · pinspot</b></span>"
+},
+{
+"key": "feature_lighting.html#24",
+"it": "<b>Dedolight · pinspot</b>40–150 W · 4–50°"
+},
+{
+"key": "feature_lighting.html#25",
+"it": "<span class=\"ph-id\">P04-PRACTICAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Luce di scena (in campo)</b></span>"
+},
+{
+"key": "feature_lighting.html#26",
+"it": "<b>Luce di scena (in campo)</b>Lampada · neon · candela · TV"
+},
+{
+"key": "feature_lighting.html#27",
+"it": "<span class=\"ph-id\">P04-REFLECTOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Riflettente · telo nero</b></span>"
+},
+{
+"key": "feature_lighting.html#28",
+"it": "<b>Riflettente · telo nero</b>Luce senza corrente"
+},
+{
+"key": "feature_lighting.html#29",
+"it": "Proiettore"
+},
+{
+"key": "feature_lighting.html#30",
+"it": "Potenza · temp. colore"
+},
+{
+"key": "feature_lighting.html#31",
+"it": "Qualità e uso"
+},
+{
+"key": "feature_lighting.html#32",
+"it": "Luce 3D di AE"
+},
+{
+"key": "feature_lighting.html#33",
+"it": "Fresnel"
+},
+{
+"key": "feature_lighting.html#34",
+"it": "Tungsteno 650 W–2K · LED 150–300 W"
+},
+{
+"key": "feature_lighting.html#35",
+"it": "Dura→media, spot/flood 10–60°. Luce chiave standard · controluce"
+},
+{
+"key": "feature_lighting.html#36",
+"it": "Spot · Cone 30–60 · Feather 50"
+},
+{
+"key": "feature_lighting.html#37",
+"it": "Proiettore aperto · redhead"
+},
+{
+"key": "feature_lighting.html#38",
+"it": "800 W–2K tungsteno"
+},
+{
+"key": "feature_lighting.html#39",
+"it": "Senza lente → luce dura, ampia e grezza. Sorgente per diffusione · rimbalzo"
+},
+{
+"key": "feature_lighting.html#40",
+"it": "Point · Intensity↑ · Falloff brusco"
+},
+{
+"key": "feature_lighting.html#41",
+"it": "HMI · PAR"
+},
+{
+"key": "feature_lighting.html#42",
+"it": "Ricrea la luce del sole. Controlla ballast · generatore · flicker"
+},
+{
+"key": "feature_lighting.html#43",
+"it": "Parallel · ombre nette"
+},
+{
+"key": "feature_lighting.html#44",
+"it": "Pannello LED (bicolore)"
+},
+{
+"key": "feature_lighting.html#45",
+"it": "Sorgente piana · leggera · a batteria. Riempimento · supporto entro 1,5 m"
+},
+{
+"key": "feature_lighting.html#46",
+"it": "Spot ampio Feather 100 / Ambient"
+},
+{
+"key": "feature_lighting.html#47",
+"it": "LED COB con softbox"
+},
+{
+"key": "feature_lighting.html#48",
+"it": "100–600 W · Bowens"
+},
+{
+"key": "feature_lighting.html#49",
+"it": "Luce chiave standard sui piccoli set. Dimensione del box = morbidezza"
+},
+{
+"key": "feature_lighting.html#50",
+"it": "Spot Cone 90 · Feather 100"
+},
+{
+"key": "feature_lighting.html#51",
+"it": "Tubo LED RGBWW"
+},
+{
+"key": "feature_lighting.html#52",
+"it": "30–120 cm · tutti i colori"
+},
+{
+"key": "feature_lighting.html#53",
+"it": "Sorgente lineare → riflessi lunghi. Toni da neon · luce di scena"
+},
+{
+"key": "feature_lighting.html#54",
+"it": "Solid lungo + Glow / Light Sweep"
+},
+{
+"key": "feature_lighting.html#55",
+"it": "Kino · banco fluorescente"
+},
+{
+"key": "feature_lighting.html#56",
+"it": "4 ft · 4 tubi"
+},
+{
+"key": "feature_lighting.html#57",
+"it": "Luce morbida, ampia e uniforme. Interviste · fondali chroma key"
+},
+{
+"key": "feature_lighting.html#58",
+"it": "Ambient + 2 Spot ampi"
+},
+{
+"key": "feature_lighting.html#59",
+"it": "Luce anulare"
+},
+{
+"key": "feature_lighting.html#60",
+"it": "Luce frontale senza ombre. Solo beauty · talk"
+},
+{
+"key": "feature_lighting.html#61",
+"it": "Point sulla camera + basso contrasto"
+},
+{
+"key": "feature_lighting.html#62",
+"it": "China ball · lanterna"
+},
+{
+"key": "feature_lighting.html#63",
+"it": "Lampadina + globo di carta/stoffa"
+},
+{
+"key": "feature_lighting.html#64",
+"it": "Morbida in ogni direzione. «Luce di stanza» dall’alto, luce su asta"
+},
+{
+"key": "feature_lighting.html#65",
+"it": "Point · Falloff Smooth"
+},
+{
+"key": "feature_lighting.html#66",
+"it": "Dedolight · pinspot"
+},
+{
+"key": "feature_lighting.html#67",
+"it": "Fascio netto. Accento sul prodotto · riflesso negli occhi · proiezione di gobo"
+},
+{
+"key": "feature_lighting.html#68",
+"it": "Spot Cone 5–10 · Feather 10–20"
+},
+{
+"key": "feature_lighting.html#69",
+"it": "Luce di scena (in campo)"
+},
+{
+"key": "feature_lighting.html#70",
+"it": "Lampada · neon · candela · TV"
+},
+{
+"key": "feature_lighting.html#71",
+"it": "Il «pretesto» della luce. Regola l’esposizione cambiando lampadina · con dimmer"
+},
+{
+"key": "feature_lighting.html#72",
+"it": "Glow + Point nella stessa posizione"
+},
+{
+"key": "feature_lighting.html#73",
+"it": "Riflettente · telo nero"
+},
+{
+"key": "feature_lighting.html#74",
+"it": "Luce senza corrente"
+},
+{
+"key": "feature_lighting.html#75",
+"it": "Bianco=morbida, argento=dura, oro=calda, nero=sottrae"
+},
+{
+"key": "feature_lighting.html#76",
+"it": "Ambient↓ / maschera Solid scura"
+},
+{
+"key": "feature_lighting.html#77",
+"it": "Prima del nome del proiettore, verifica: dura o morbida, stretta o ampia, quanti K. L’ultima colonna è la luce 3D di After Effects che ricrea la stessa luce."
+},
+{
+"key": "feature_lighting.html#78",
+"it": "<small>DOPPIA PAGINA 02</small>Dal pinspot all’ambient – cinque luci definite dall’angolo del fascio"
+},
+{
+"key": "feature_lighting.html#79",
+"it": "Dal pinspot all’ambient – cinque luci definite dall’angolo del fascio"
+},
+{
+"key": "feature_lighting.html#80",
+"it": "<b>PINSPOT</b><span class=\"deg\">4–10° · molto stretto</span><span>Un solo volto: assolo sul palco, accento sul prodotto</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"it": "<b>SPOT</b><span class=\"deg\">15–30° · stretto</span><span>Un cerchio dal bordo visibile: Fresnel, Leko · accento e stacco</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"it": "<b>FLOOD</b><span class=\"deg\">45–70° · ampio</span><span>Ampia e uniforme: proiettore aperto, pannello LED · luce di base</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"it": "<b>SOFT</b><span class=\"deg\">diffusa · senza bordo</span><span>Luce avvolgente: softbox, book light · pelle · interviste</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"it": "<b>AMBIENT</b><span class=\"deg\">non direzionale · tutt’intorno</span><span>Livello base senza ombre: rimbalzo a soffitto, giornata coperta</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"it": "<span>← stretta · dura · bordo netto · drammatica</span><span>ampia · morbida · senza bordo · d’insieme →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"it": "<b>Tavola LT-2</b> Cinque luci per angolo del fascio – stessa persona, stesso punto; è cambiato solo lo strumento davanti alla lampada. Verso sinistra decidi «che cosa mostrare»; verso destra, «quanta luce»."
+},
+{
+"key": "feature_lighting.html#87",
+"it": "Fascio"
+},
+{
+"key": "feature_lighting.html#88",
+"it": "Angolo"
+},
+{
+"key": "feature_lighting.html#89",
+"it": "Bordo dell’ombra"
+},
+{
+"key": "feature_lighting.html#90",
+"it": "Uso"
+},
+{
+"key": "feature_lighting.html#91",
+"it": "Proiettori · accessori tipici"
+},
+{
+"key": "feature_lighting.html#92",
+"it": "Impostazioni 3D Light di AE"
+},
+{
+"key": "feature_lighting.html#93",
+"it": "Errore comune"
+},
+{
+"key": "feature_lighting.html#94",
+"it": "Pinspot"
+},
+{
+"key": "feature_lighting.html#95",
+"it": "Affilato"
+},
+{
+"key": "feature_lighting.html#96",
+"it": "Accento su un solo prodotto, riflesso negli occhi, motivo con gobo"
+},
+{
+"key": "feature_lighting.html#97",
+"it": "Dedolight, snoot, accessorio di proiezione"
+},
+{
+"key": "feature_lighting.html#98",
+"it": "Spot · Cone 5–10 · Feather 10"
+},
+{
+"key": "feature_lighting.html#99",
+"it": "Pinspot su un volto → a chiazze"
+},
+{
+"key": "feature_lighting.html#100",
+"it": "Spot"
+},
+{
+"key": "feature_lighting.html#101",
+"it": "Definito"
+},
+{
+"key": "feature_lighting.html#102",
+"it": "Luce chiave di ritratto (drammatica), palco, controluce"
+},
+{
+"key": "feature_lighting.html#103",
+"it": "Fresnel in spot, COB con riflettore standard, alette"
+},
+{
+"key": "feature_lighting.html#104",
+"it": "Spot · Cone 30 · Feather 40"
+},
+{
+"key": "feature_lighting.html#105",
+"it": "Senza alette; la luce finisce sulla parete"
+},
+{
+"key": "feature_lighting.html#106",
+"it": "Flood"
+},
+{
+"key": "feature_lighting.html#107",
+"it": "Sfumato"
+},
+{
+"key": "feature_lighting.html#108",
+"it": "Fondali · parete chroma key · gruppi"
+},
+{
+"key": "feature_lighting.html#109",
+"it": "Proiettore aperto, pannello LED, Fresnel in flood"
+},
+{
+"key": "feature_lighting.html#110",
+"it": "Spot · Cone 70 · Feather 80"
+},
+{
+"key": "feature_lighting.html#111",
+"it": "Soggetto e sfondo ugualmente luminosi"
+},
+{
+"key": "feature_lighting.html#112",
+"it": "Soft"
+},
+{
+"key": "feature_lighting.html#113",
+"it": "Sorgente piana"
+},
+{
+"key": "feature_lighting.html#114",
+"it": "Quasi assente"
+},
+{
+"key": "feature_lighting.html#115",
+"it": "Luce chiave · riempimento di ritratto, beauty, prodotti opachi"
+},
+{
+"key": "feature_lighting.html#116",
+"it": "Softbox 60–120, diffusore 216/250, rimbalzo"
+},
+{
+"key": "feature_lighting.html#117",
+"it": "Spot · Cone 90 · Feather 100 · Shadow Diffusion 20+"
+},
+{
+"key": "feature_lighting.html#118",
+"it": "Sorgente troppo lontana; torna dura"
+},
+{
+"key": "feature_lighting.html#119",
+"it": "Ambient"
+},
+{
+"key": "feature_lighting.html#120",
+"it": "Non direzionale"
+},
+{
+"key": "feature_lighting.html#121",
+"it": "Assente"
+},
+{
+"key": "feature_lighting.html#122",
+"it": "Base dell’esposizione, effetto giornata coperta"
+},
+{
+"key": "feature_lighting.html#123",
+"it": "Rimbalzo a soffitto, grande book light, finestra diffusa"
+},
+{
+"key": "feature_lighting.html#124",
+"it": "Ambient · Intensity 10–30%"
+},
+{
+"key": "feature_lighting.html#125",
+"it": "Usa solo l’ambient e poi si chiede perché l’immagine è «piatta»"
+}
+]

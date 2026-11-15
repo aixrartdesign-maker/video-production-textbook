@@ -1,0 +1,582 @@
+[
+{
+"key": "part05.html#155",
+"it": "Metti in tabella gli strumenti consigliati per uso (video brevi, spot, lungometraggi)."
+},
+{
+"key": "part05.html#156",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#157",
+"it": "Premiere Pro in sintesi"
+},
+{
+"key": "part05.html#158",
+"it": "Conosci il ruolo di ogni pannello e tieni una mappa di quando servono le 20 funzioni: una ricerca risolve qualsiasi problema."
+},
+{
+"key": "part05.html#159",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part05.html#160",
+"it": "Dividere i bin per giorno di ripresa, scena, musica e grafica è un’abitudine che decide la tua velocità di montaggio."
+},
+{
+"key": "part05.html#161",
+"it": "Area di lavoro"
+},
+{
+"key": "part05.html#162",
+"it": "<small>Gestione</small>Pannello Progetto"
+},
+{
+"key": "part05.html#163",
+"it": "Il cassetto dei file sorgente"
+},
+{
+"key": "part05.html#164",
+"it": "Bin per giorno di ripresa · scena · musica · grafica"
+},
+{
+"key": "part05.html#165",
+"it": "<small>Verifica</small>Monitor Sorgente"
+},
+{
+"key": "part05.html#166",
+"it": "Guarda le clip grezze, fissa attacco · stacco"
+},
+{
+"key": "part05.html#167",
+"it": "Seleziona qui le clip prima della timeline"
+},
+{
+"key": "part05.html#168",
+"it": "<small>Verifica</small>Monitor Programma"
+},
+{
+"key": "part05.html#169",
+"it": "La finestra che mostra il tuo montaggio"
+},
+{
+"key": "part05.html#170",
+"it": "Tieni attivi guide dell’area di sicurezza e margini"
+},
+{
+"key": "part05.html#171",
+"it": "<small>Montaggio</small>Timeline"
+},
+{
+"key": "part05.html#172",
+"it": "Dove avviene il montaggio vero e proprio"
+},
+{
+"key": "part05.html#173",
+"it": "Le tracce video si impilano in alto, quelle audio in basso"
+},
+{
+"key": "part05.html#174",
+"it": "<small>Effetti</small>Pannello Effetti · Controllo effetti"
+},
+{
+"key": "part05.html#175",
+"it": "Transizioni ed effetti; metti tra i preferiti quelli che usi spesso"
+},
+{
+"key": "part05.html#176",
+"it": "Regola posizione · scala · rotazione · opacità e valori degli effetti, aggiungi keyframe"
+},
+{
+"key": "part05.html#177",
+"it": "<small>Colore</small>Lumetri Color"
+},
+{
+"key": "part05.html#178",
+"it": "Pannello dedicato al colore"
+},
+{
+"key": "part05.html#179",
+"it": "Basic Correction, Creative, Curves, Color Wheels, HSL Secondary, Vignette"
+},
+{
+"key": "part05.html#180",
+"it": "<small>Grafica</small>Essential Graphics"
+},
+{
+"key": "part05.html#181",
+"it": "Template di titoli e grafica"
+},
+{
+"key": "part05.html#182",
+"it": "Carica un template di motion graphics e cambia solo il testo"
+},
+{
+"key": "part05.html#183",
+"it": "<small>Suono</small>Audio Track Mixer"
+},
+{
+"key": "part05.html#184",
+"it": "Volume e pan per traccia"
+},
+{
+"key": "part05.html#185",
+"it": "Gestisci gli effetti audio"
+},
+{
+"key": "part05.html#186",
+"it": "<small>Suono</small>Essential Sound"
+},
+{
+"key": "part05.html#187",
+"it": "Etichetta come dialogo · musica · SFX · ambiente per l’elaborazione automatica"
+},
+{
+"key": "part05.html#188",
+"it": "Riduzione del rumore nei dialoghi, normalizzazione del volume"
+},
+{
+"key": "part05.html#189",
+"it": "20 funzioni da imparare"
+},
+{
+"key": "part05.html#190",
+"it": "Funzione"
+},
+{
+"key": "part05.html#191",
+"it": "Che cosa fa"
+},
+{
+"key": "part05.html#192",
+"it": "Quando usarla"
+},
+{
+"key": "part05.html#193",
+"it": "Impostazioni di sequenza"
+},
+{
+"key": "part05.html#194",
+"it": "Imposta risoluzione, fps, formato"
+},
+{
+"key": "part05.html#195",
+"it": "Prima cosa in un nuovo progetto"
+},
+{
+"key": "part05.html#196",
+"it": "Creazione di proxy"
+},
+{
+"key": "part05.html#197",
+"it": "Monti con copie leggere"
+},
+{
+"key": "part05.html#198",
+"it": "Girato da 4K in su, PC poco potente"
+},
+{
+"key": "part05.html#199",
+"it": "Montaggio multicamera"
+},
+{
+"key": "part05.html#200",
+"it": "Sincronizza più camere e passa dall’una all’altra"
+},
+{
+"key": "part05.html#201",
+"it": "Eventi, interviste, spettacoli"
+},
+{
+"key": "part05.html#202",
+"it": "Sincronia audio"
+},
+{
+"key": "part05.html#203",
+"it": "Auto-sync da forma d’onda"
+},
+{
+"key": "part05.html#204",
+"it": "Con un registratore esterno"
+},
+{
+"key": "part05.html#205",
+"it": "Modifica ripple"
+},
+{
+"key": "part05.html#206",
+"it": "Accorci e ciò che segue si accosta"
+},
+{
+"key": "part05.html#207",
+"it": "Tutto il premontato"
+},
+{
+"key": "part05.html#208",
+"it": "Modifica rolling"
+},
+{
+"key": "part05.html#209",
+"it": "Sposta solo il punto di taglio"
+},
+{
+"key": "part05.html#210",
+"it": "Rifinire i tempi"
+},
+{
+"key": "part05.html#211",
+"it": "Slip e slide"
+},
+{
+"key": "part05.html#212",
+"it": "Cambi contenuto o posizione, stessa durata"
+},
+{
+"key": "part05.html#213",
+"it": "Cambiare il contenuto, tenere il ritmo"
+},
+{
+"key": "part05.html#214",
+"it": "Marcatori"
+},
+{
+"key": "part05.html#215",
+"it": "Segnaposto e note sulla timeline"
+},
+{
+"key": "part05.html#216",
+"it": "Applicare i feedback, segnare le battute"
+},
+{
+"key": "part05.html#217",
+"it": "Nidificazione"
+},
+{
+"key": "part05.html#218",
+"it": "Raggruppa più clip in una"
+},
+{
+"key": "part05.html#219",
+"it": "Effetti su un gruppo"
+},
+{
+"key": "part05.html#220",
+"it": "Livello di regolazione"
+},
+{
+"key": "part05.html#221",
+"it": "Effetti su tutte le clip sottostanti in una volta"
+},
+{
+"key": "part05.html#222",
+"it": "Grading d’insieme, grana"
+},
+{
+"key": "part05.html#223",
+"it": "Cambio di velocità"
+},
+{
+"key": "part05.html#224",
+"it": "Lento, veloce, inverso"
+},
+{
+"key": "part05.html#225",
+"it": "Rallenty, time-lapse"
+},
+{
+"key": "part05.html#226",
+"it": "Interpolazione temporale"
+},
+{
+"key": "part05.html#227",
+"it": "Fusione dei fotogrammi, flusso ottico"
+},
+{
+"key": "part05.html#228",
+"it": "Rallenty fluido"
+},
+{
+"key": "part05.html#229",
+"it": "Maschere e tracking"
+},
+{
+"key": "part05.html#230",
+"it": "Effetti su una sola area"
+},
+{
+"key": "part05.html#231",
+"it": "Sfocare volti, nascondere loghi"
+},
+{
+"key": "part05.html#232",
+"it": "Warp Stabilizer"
+},
+{
+"key": "part05.html#233",
+"it": "Elimina il mosso"
+},
+{
+"key": "part05.html#234",
+"it": "Riprese a mano"
+},
+{
+"key": "part05.html#235",
+"it": "LUT Lumetri"
+},
+{
+"key": "part05.html#236",
+"it": "Converte il girato in Log"
+},
+{
+"key": "part05.html#237",
+"it": "Fase 1 del grading"
+},
+{
+"key": "part05.html#238",
+"it": "Color Match"
+},
+{
+"key": "part05.html#239",
+"it": "Abbina il colore di due inquadrature"
+},
+{
+"key": "part05.html#240",
+"it": "Inquadrature di camere diverse"
+},
+{
+"key": "part05.html#241",
+"it": "Sottotitoli automatici"
+},
+{
+"key": "part05.html#242",
+"it": "Sottotitoli da riconoscimento vocale"
+},
+{
+"key": "part05.html#243",
+"it": "Interviste, video esplicativi"
+},
+{
+"key": "part05.html#244",
+"it": "Template Essential Graphics"
+},
+{
+"key": "part05.html#245",
+"it": "Riusa stili di titolo ricorrenti"
+},
+{
+"key": "part05.html#246",
+"it": "Contenuti in serie"
+},
+{
+"key": "part05.html#247",
+"it": "Ricollegare i file offline"
+},
+{
+"key": "part05.html#248",
+"it": "Ricollega le sorgenti con percorsi interrotti"
+},
+{
+"key": "part05.html#249",
+"it": "Dopo aver spostato le cartelle"
+},
+{
+"key": "part05.html#250",
+"it": "Project Manager"
+},
+{
+"key": "part05.html#251",
+"it": "Raccoglie solo i file usati"
+},
+{
+"key": "part05.html#252",
+"it": "Backup, consegna a fornitori"
+},
+{
+"key": "part05.html#253",
+"it": "Scorciatoie comuni"
+},
+{
+"key": "part05.html#254",
+"it": "Scorciatoia"
+},
+{
+"key": "part05.html#255",
+"it": "Funzione"
+},
+{
+"key": "part05.html#256",
+"it": "Scorciatoia"
+},
+{
+"key": "part05.html#257",
+"it": "Funzione"
+},
+{
+"key": "part05.html#258",
+"it": "Strumento lametta"
+},
+{
+"key": "part05.html#259",
+"it": "Strumento selezione"
+},
+{
+"key": "part05.html#260",
+"it": "Selezione tracce in avanti"
+},
+{
+"key": "part05.html#261",
+"it": "Strumento modifica ripple"
+},
+{
+"key": "part05.html#262",
+"it": "Punto di attacco / stacco"
+},
+{
+"key": "part05.html#263",
+"it": "Spazio"
+},
+{
+"key": "part05.html#264",
+"it": "Riproduci e ferma"
+},
+{
+"key": "part05.html#265",
+"it": "Taglio ripple prec. / succ."
+},
+{
+"key": "part05.html#266",
+"it": "Aggiungi marcatore"
+},
+{
+"key": "part05.html#267",
+"it": "Ctrl+K"
+},
+{
+"key": "part05.html#268",
+"it": "Taglia alla testina"
+},
+{
+"key": "part05.html#269",
+"it": "Maiusc+Canc"
+},
+{
+"key": "part05.html#270",
+"it": "Eliminazione ripple"
+},
+{
+"key": "part05.html#271",
+"it": "Indietro / stop / avanti"
+},
+{
+"key": "part05.html#272",
+"it": "Tasti freccia"
+},
+{
+"key": "part05.html#273",
+"it": "Sposta di 1 fotogramma"
+},
+{
+"key": "part05.html#274",
+"it": "Ctrl+M"
+},
+{
+"key": "part05.html#275",
+"it": "Esporta"
+},
+{
+"key": "part05.html#276",
+"it": "Ctrl+S"
+},
+{
+"key": "part05.html#277",
+"it": "Salva"
+},
+{
+"key": "part05.html#278",
+"it": "<small>Esercizio</small>5.4"
+},
+{
+"key": "part05.html#279",
+"it": "Compito"
+},
+{
+"key": "part05.html#280",
+"it": "Completa un video da 1 minuto in Premiere Pro: montaggio, sottotitoli, pulizia dell’audio, colore ed esportazione."
+},
+{
+"key": "part05.html#281",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#282",
+"it": "Adegua le impostazioni di sequenza al girato e configura presto le scorciatoie."
+},
+{
+"key": "part05.html#283",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#284",
+"it": "Timeline ordinata, specifiche rispettate"
+},
+{
+"key": "part05.html#285",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#286",
+"it": "Dividi le tracce per ruolo (dialoghi, SFX, musica) e assegna a ciascuna un colore."
+},
+{
+"key": "part05.html#287",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#288",
+"it": "After Effects in sintesi"
+},
+{
+"key": "part05.html#289",
+"it": "After Effects non è uno strumento di montaggio: serve a impilare, muovere e comporre elementi dentro una singola inquadratura. Premiere gestisce il tempo in orizzontale; After Effects gestisce i livelli in verticale."
+},
+{
+"key": "part05.html#290",
+"it": "Monta nel tempo, componi per livelli"
+},
+{
+"key": "part05.html#291",
+"it": "<i>6</i><span><b>Camera</b> – camera virtuale – inquadra tutti i livelli</span>"
+},
+{
+"key": "part05.html#292",
+"it": "<i>5</i><span><b>Luce</b> – ombra e luminosità, solo per i livelli 3D</span>"
+},
+{
+"key": "part05.html#293",
+"it": "<i>4</i><span><b>Testo 3D</b> – lettere con spessore – i lati si vedono quando la camera ruota</span>"
+},
+{
+"key": "part05.html#294",
+"it": "<i>3</i><span><b>Persona (scontornata)</b> – girato senza sfondo</span>"
+},
+{
+"key": "part05.html#295",
+"it": "<i>2</i><span><b>Piano intermedio</b> – grafica · gradiente – profondità</span>"
+},
+{
+"key": "part05.html#296",
+"it": "<i>1</i><span><b>Sfondo</b> – in fondo – girato di base</span>"
+},
+{
+"key": "part05.html#297",
+"it": "Il livello in cima è il davanti dell’inquadratura. Cambia l’ordine e cambia ciò che resta nascosto: monta nel tempo, componi per livelli."
+},
+{
+"key": "part05.html#298",
+"it": "<b>Fig. 47</b> La pila dei livelli di After Effects – sei livelli impilati dal basso verso l’alto. Camera e luce non sono immagini, ma «modi di guardare i livelli»."
+},
+{
+"key": "part05.html#299",
+"it": "Posizione, scala, rotazione, opacità. Scorciatoie che richiamano le cinque proprietà di base dei keyframe."
+}
+]

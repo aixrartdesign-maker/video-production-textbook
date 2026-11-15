@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#197",
+"it": "Per lo più musica di sottofondo"
+},
+{
+"key": "part09.html#198",
+"it": "Crea l’atmosfera"
+},
+{
+"key": "part09.html#199",
+"it": "I suoni di tendenza trainano la diffusione"
+},
+{
+"key": "part09.html#200",
+"it": "Come arriva la pubblicità"
+},
+{
+"key": "part09.html#201",
+"it": "Se è informativa, è accettata"
+},
+{
+"key": "part09.html#202",
+"it": "Se sembra pubblicità, lo spettatore se ne va"
+},
+{
+"key": "part09.html#203",
+"it": "Dichiara la pubblicità, vinci col divertimento"
+},
+{
+"key": "part09.html#204",
+"it": "Durata sicura"
+},
+{
+"key": "part09.html#205",
+"it": "Percorso di diffusione"
+},
+{
+"key": "part09.html#206",
+"it": "Feed dei suggerimenti e ricerca"
+},
+{
+"key": "part09.html#207",
+"it": "Scheda Esplora e condivisioni"
+},
+{
+"key": "part09.html#208",
+"it": "Feed Per te"
+},
+{
+"key": "part09.html#209",
+"it": "Opere derivate"
+},
+{
+"key": "part09.html#210",
+"it": "Remix, remix di Shorts"
+},
+{
+"key": "part09.html#211",
+"it": "Remix, modelli"
+},
+{
+"key": "part09.html#212",
+"it": "Duetto, Stitch, remix"
+},
+{
+"key": "part09.html#213",
+"it": "Principi dell’inquadratura verticale"
+},
+{
+"key": "part09.html#214",
+"it": "<b>12<em>%</em></b>Parte alta coperta dalla UI"
+},
+{
+"key": "part09.html#215",
+"it": "<b>20<em>%</em></b>Parte bassa coperta dalla UI"
+},
+{
+"key": "part09.html#216",
+"it": "<b>1/3<em>inferiore</em></b>Sottotitoli centrati, nel terzo inferiore dello schermo"
+},
+{
+"key": "part09.html#217",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part09.html#218",
+"it": "I confronti tra piattaforme valgono solo se orari di pubblicazione e hashtag coincidono."
+},
+{
+"key": "part09.html#219",
+"it": "Colloca il soggetto sull’asse verticale centrale dell’inquadratura."
+},
+{
+"key": "part09.html#220",
+"it": "Aumenta di molto la quota di primi piani. Nei campi lunghi l’informazione si impasta."
+},
+{
+"key": "part09.html#221",
+"it": "Dai per scontata la riproduzione in loop e fai combaciare il primo e l’ultimo fotogramma."
+},
+{
+"key": "part09.html#222",
+"it": "<small>Esercizio</small>8.3"
+},
+{
+"key": "part09.html#223",
+"it": "Compito"
+},
+{
+"key": "part09.html#224",
+"it": "Pubblica lo stesso video di 30 secondi su Shorts, Reels e TikTok e confronta le metriche per una settimana."
+},
+{
+"key": "part09.html#225",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#226",
+"it": "Fai coincidere orari di pubblicazione e hashtag."
+},
+{
+"key": "part09.html#227",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#228",
+"it": "Controllo delle condizioni di confronto, interpretazione delle metriche"
+},
+{
+"key": "part09.html#229",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#230",
+"it": "Formula ipotesi su ciò che è cambiato da una piattaforma all’altra e verificale nel caricamento successivo."
+},
+{
+"key": "part09.html#231",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#232",
+"it": "Gestire Instagram"
+},
+{
+"key": "part09.html#233",
+"it": "Instagram vive di salvataggi e condivisioni. Il primo fotogramma è la miniatura, e la prima riga della didascalia è tutto ciò che si vede prima di «altro»."
+},
+{
+"key": "part09.html#234",
+"it": "<span class=\"ph-id\">P09-GRID</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Progettare la griglia del feed</b>Una persona dispone su un tavolo nove foto quadrate stampate, 3×3, per pianificare il feed</span>"
+},
+{
+"key": "part09.html#235",
+"it": "<b>Nota</b>Progettare la griglia del feed – non il singolo post: tutte e nove le caselle devono leggersi come un solo mondo"
+},
+{
+"key": "part09.html#236",
+"it": "Formato"
+},
+{
+"key": "part09.html#237",
+"it": "Specifiche consigliate"
+},
+{
+"key": "part09.html#238",
+"it": "Caratteristiche"
+},
+{
+"key": "part09.html#239",
+"it": "Regola di produzione"
+},
+{
+"key": "part09.html#240",
+"it": "Feed"
+},
+{
+"key": "part09.html#241",
+"it": "4:5 o 1:1"
+},
+{
+"key": "part09.html#242",
+"it": "Ferma lo scorrimento"
+},
+{
+"key": "part09.html#243",
+"it": "Il primo fotogramma è la miniatura"
+},
+{
+"key": "part09.html#244",
+"it": "Reels"
+},
+{
+"key": "part09.html#245",
+"it": "Si diffonde dalla scheda Esplora"
+},
+{
+"key": "part09.html#246",
+"it": "Inizio e fine pensati per il loop"
+},
+{
+"key": "part09.html#247",
+"it": "Storie"
+},
+{
+"key": "part09.html#248",
+"it": "Spariscono in 24 ore, schermo intero"
+},
+{
+"key": "part09.html#249",
+"it": "Aggiungere elementi che invitano al tocco"
+},
+{
+"key": "part09.html#250",
+"it": "Carosello"
+},
+{
+"key": "part09.html#251",
+"it": "Alto tasso di salvataggio"
+},
+{
+"key": "part09.html#252",
+"it": "1 concetto per slide"
+},
+{
+"key": "part09.html#253",
+"it": "Diretta"
+},
+{
+"key": "part09.html#254",
+"it": "Interazione in tempo reale"
+},
+{
+"key": "part09.html#255",
+"it": "Luci fisse, audio stabile"
+},
+{
+"key": "part09.html#256",
+"it": "Didascalie e hashtag"
+},
+{
+"key": "part09.html#257",
+"it": "<b>Dimensione degli hashtag</b>"
+},
+{
+"key": "part09.html#258",
+"it": "Considera grandi i tag con centinaia di migliaia di post o più, medi quelli con decine di migliaia, piccoli quelli con migliaia."
+},
+{
+"key": "part09.html#259",
+"it": "<small>Prima riga</small>Parti dalla conclusione"
+},
+{
+"key": "part09.html#260",
+"it": "È tutto ciò che si vede prima di «altro»"
+},
+{
+"key": "part09.html#261",
+"it": "Chiudere con una domanda porta più commenti"
+},
+{
+"key": "part09.html#262",
+"it": "<small>Hashtag</small>10–15, mescolando grandi · medi · piccoli"
+},
+{
+"key": "part09.html#263",
+"it": "Solo tag grandi e resti sepolto; solo piccoli e la copertura è bassa"
+},
+{
+"key": "part09.html#264",
+"it": "Metti in ogni post un hashtag proprio del brand, come archivio"
+},
+{
+"key": "part09.html#265",
+"it": "<small>Tag</small>Luogo · tag di account"
+},
+{
+"key": "part09.html#266",
+"it": "Aumentano davvero la copertura"
+},
+{
+"key": "part09.html#267",
+"it": "Gestire commenti e community"
+},
+{
+"key": "part09.html#268",
+"it": "Le reazioni nella prima ora dopo la pubblicazione incidono sulla copertura successiva. In quell’ora rispondi ai commenti."
+},
+{
+"key": "part09.html#269",
+"it": "Rispondere in pubblico ai commenti negativi è meglio che cancellarli. Fanno eccezione insulti evidenti e spam."
+},
+{
+"key": "part09.html#270",
+"it": "Per l’algoritmo salvataggi e condivisioni pesano più dei «mi piace». Inserisci informazioni che valga la pena salvare."
+},
+{
+"key": "part09.html#271",
+"it": "<small>Esercizio</small>8.4"
+},
+{
+"key": "part09.html#272",
+"it": "Compito"
+},
+{
+"key": "part09.html#273",
+"it": "Progetta la griglia a 9 caselle di un account Instagram con un’unica identità visiva."
+},
+{
+"key": "part09.html#274",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#275",
+"it": "Costruisci un ritmo a gruppi di 3 post (foto, video, testo)."
+},
+{
+"key": "part09.html#276",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#277",
+"it": "Coerenza visiva, piano di gestione"
+},
+{
+"key": "part09.html#278",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#279",
+"it": "L’intera griglia si legge come un unico mondo del brand."
+},
+{
+"key": "part09.html#280",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#281",
+"it": "TikTok e la cultura del remix"
+},
+{
+"key": "part09.html#282",
+"it": "TikTok non consiste nel mostrare contenuti finiti, ma nel lasciare spazio alla partecipazione. Duetto, Stitch e remix sono dispositivi che permettono ad altri di usare il tuo video come materiale, e sono il principale percorso di diffusione."
+},
+{
+"key": "part09.html#283",
+"it": "Funzione"
+},
+{
+"key": "part09.html#284",
+"it": "Come funziona"
+},
+{
+"key": "part09.html#285",
+"it": "Come progettare"
+},
+{
+"key": "part09.html#286",
+"it": "Duetto"
+},
+{
+"key": "part09.html#287",
+"it": "Il video di un altro scorre affiancato al tuo"
+},
+{
+"key": "part09.html#288",
+"it": "Lasciare momenti a cui gli altri possano reagire"
+},
+{
+"key": "part09.html#289",
+"it": "Stitch"
+},
+{
+"key": "part09.html#290",
+"it": "Altri ritagliano parte del tuo video per aprire il loro"
+},
+{
+"key": "part09.html#291",
+"it": "Chiudere con una domanda o una frase in sospeso"
+},
+{
+"key": "part09.html#292",
+"it": "Remix"
+},
+{
+"key": "part09.html#293",
+"it": "L’originale viene rimontato in un nuovo video"
+},
+{
+"key": "part09.html#294",
+"it": "Una struttura semplice, facile da rimontare"
+},
+{
+"key": "part09.html#295",
+"it": "Suoni di tendenza"
+},
+{
+"key": "part09.html#296",
+"it": "I video con lo stesso suono vengono raggruppati"
+},
+{
+"key": "part09.html#297",
+"it": "Salire presto sui suoni in crescita"
+},
+{
+"key": "part09.html#298",
+"it": "Challenge"
+},
+{
+"key": "part09.html#299",
+"it": "Si imita la stessa mossa o lo stesso formato"
+},
+{
+"key": "part09.html#300",
+"it": "Una mossa semplice, imitabile da chiunque in 3 secondi"
+},
+{
+"key": "part09.html#301",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part09.html#302",
+"it": "Rispetta le regole del formato originale e cambia un solo elemento."
+},
+{
+"key": "part09.html#303",
+"it": "Principi per progettare la partecipazione"
+},
+{
+"key": "part09.html#304",
+"it": "La diffusione nasce dal lasciare uno spazio che faccia venire voglia di imitare, ribattere o aggiungere. Lo stesso vale per la pubblicità."
+},
+{
+"key": "part09.html#305",
+"it": "Fallo perfetto, e nessuno lo toccherà.<small>8.5 TikTok e la cultura del remix</small>"
+},
+{
+"key": "part09.html#306",
+"it": "<small>Esercizio</small>8.5"
+},
+{
+"key": "part09.html#307",
+"it": "Compito"
+},
+{
+"key": "part09.html#308",
+"it": "Scegli un formato di tendenza e realizza un video TikTok che lo reinterpreti a modo tuo."
+},
+{
+"key": "part09.html#309",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#310",
+"it": "Rispetta le regole del formato originale e cambia un solo elemento."
+},
+{
+"key": "part09.html#311",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#312",
+"it": "Comprensione del formato, originalità della variazione"
+},
+{
+"key": "part09.html#313",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#314",
+"it": "Partecipa in modi che rispettino l’autore originale (duetti, crediti)."
+},
+{
+"key": "part09.html#315",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#316",
+"it": "Threads e i media testuali"
+},
+{
+"key": "part09.html#317",
+"it": "Il testo breve è il protagonista; immagini e video fanno da spalla. A fare da gancio è la frase stessa."
+},
+{
+"key": "part09.html#318",
+"it": "<span class=\"ph-id\">P09-TEXT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Media testuali</b>Una persona scrive un breve post al telefono in un caffè, una tazza di caffè, composizione minimale</span>"
+},
+{
+"key": "part09.html#319",
+"it": "<b>Nota</b>Media testuali – la frase stessa è il gancio. Il video viene dopo"
+},
+{
+"key": "part09.html#320",
+"it": "<small>Threads</small>Frasi che aprono una conversazione"
+},
+{
+"key": "part09.html#321",
+"it": "I video brevi in autoplay funzionano bene"
+},
+{
+"key": "part09.html#322",
+"it": "L’algoritmo favorisce le frasi che invitano alla conversazione"
+},
+{
+"key": "part09.html#323",
+"it": "<small>X (ex Twitter)</small>Ultime notizie e meme"
+},
+{
+"key": "part09.html#324",
+"it": "I link si diffondono in fretta"
+},
+{
+"key": "part09.html#325",
+"it": "Video sotto i 30 s, sottotitoli d’obbligo"
+},
+{
+"key": "part09.html#326",
+"it": "<small>LinkedIn</small>Lavoro e carriera"
+},
+{
+"key": "part09.html#327",
+"it": "Incentrato sulle informazioni professionali"
+},
+{
+"key": "part09.html#328",
+"it": "Direttamente utile per mostrare il portfolio e cercare lavoro"
+},
+{
+"key": "part09.html#329",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part09.html#330",
+"it": "Fai una domanda nella prima frase e metti il link al video per ultimo."
+},
+{
+"key": "part09.html#331",
+"it": "Anche un post che promuove un video segue la grammatica del mezzo. Threads premia la conversazione, X la velocità, LinkedIn il contesto professionale."
+},
+{
+"key": "part09.html#332",
+"it": "<small>Esercizio</small>8.6"
+},
+{
+"key": "part09.html#333",
+"it": "Compito"
+},
+{
+"key": "part09.html#334",
+"it": "Scrivi 5 post di testo che promuovano un video, nello stile di Threads."
+},
+{
+"key": "part09.html#335",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#336",
+"it": "Fai una domanda nella prima frase e metti il link al video per ultimo."
+},
+{
+"key": "part09.html#337",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#338",
+"it": "Forza d’attrazione del testo, capacità di accendere la conversazione"
+},
+{
+"key": "part09.html#339",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#340",
+"it": "Trasforma le domande dei commenti in temi per il prossimo video."
+},
+{
+"key": "part09.html#341",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#342",
+"it": "Piattaforme di blog a confronto"
+},
+{
+"key": "part09.html#343",
+"it": "Un blog cattura insieme traffico di ricerca e tempo di permanenza. Se pubblichi solo video le visite sono brevi; se scrivi solo testo non c’è nulla da mostrare."
+},
+{
+"key": "part09.html#344",
+"it": "Piattaforma"
+},
+{
+"key": "part09.html#345",
+"it": "Punti di forza"
+},
+{
+"key": "part09.html#346",
+"it": "Punti deboli"
+}
+]

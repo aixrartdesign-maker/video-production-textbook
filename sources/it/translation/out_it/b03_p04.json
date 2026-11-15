@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#207",
+"it": "Terrazza"
+},
+{
+"key": "feature_ppm.html#208",
+"it": "Mattino in città (lo sostituisce il controluce serale) LS tilt-up"
+},
+{
+"key": "feature_ppm.html#209",
+"it": "24 mm, 60 fps"
+},
+{
+"key": "feature_ppm.html#210",
+"it": "<b>Golden hour di 40 min – max 3 ciak</b>"
+},
+{
+"key": "feature_ppm.html#211",
+"it": "Laboratorio"
+},
+{
+"key": "feature_ppm.html#212",
+"it": "Registrazione N"
+},
+{
+"key": "feature_ppm.html#213",
+"it": "Registrare 3 battute di voce narrante, 30 s di room tone"
+},
+{
+"key": "feature_ppm.html#214",
+"it": "Speaker"
+},
+{
+"key": "feature_ppm.html#215",
+"it": "Condensatore, filtro antipop"
+},
+{
+"key": "feature_ppm.html#216",
+"it": "3 ciak ciascuna, a tempo con le 3 corsie dello storyboard"
+},
+{
+"key": "feature_ppm.html#217",
+"it": "Laboratorio"
+},
+{
+"key": "feature_ppm.html#218",
+"it": "2° backup, controllo dei giornalieri, chiusura di giornata"
+},
+{
+"key": "feature_ppm.html#219",
+"it": "Inq. mancanti → giorno di riserva D+2"
+},
+{
+"key": "feature_ppm.html#220",
+"it": "Giorno di riserva · 13/4 (dom) · pioggia o inquadrature mancanti – disponibilità dell’attore A confermata ✔ · studio L-02 opzionato"
+},
+{
+"key": "feature_ppm.html#221",
+"it": "<span class=\"ph-id\">P06-SCHEDULE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tabellone del piano – strisce raggruppate per location · luce · attore</b></span>"
+},
+{
+"key": "feature_ppm.html#222",
+"it": "<b>Nota</b>Tabellone del piano – strisce raggruppate per location · luce · attore"
+},
+{
+"key": "feature_ppm.html#223",
+"it": "<small>Ordine di raggruppamento</small>Location → luce → attore"
+},
+{
+"key": "feature_ppm.html#224",
+"it": "Stessi assetti uno dopo l’altro"
+},
+{
+"key": "feature_ppm.html#225",
+"it": "Prima il «tempo che non torna»: sole diretto · golden hour"
+},
+{
+"key": "feature_ppm.html#226",
+"it": "Convocazione attori 45 min prima della prima inquadratura"
+},
+{
+"key": "feature_ppm.html#227",
+"it": "<small>Margine di sicurezza</small>+30% per inquadratura, +1 ora al giorno"
+},
+{
+"key": "feature_ppm.html#228",
+"it": "La prima inquadratura parte sempre con 30 min di ritardo"
+},
+{
+"key": "feature_ppm.html#229",
+"it": "Spostamenti: tempo da mappa × 1,5"
+},
+{
+"key": "feature_ppm.html#230",
+"it": "Il pranzo dura 45 min fissi; se slitta, il pomeriggio crolla"
+},
+{
+"key": "feature_ppm.html#231",
+"it": "<small>Giorno di riserva</small>Se non è prenotato, non esiste"
+},
+{
+"key": "feature_ppm.html#232",
+"it": "Opzionare entrambi: attore · location"
+},
+{
+"key": "feature_ppm.html#233",
+"it": "Fissare la soglia di pioggia con un numero (probabilità di pioggia 60%)"
+},
+{
+"key": "feature_ppm.html#234",
+"it": "Chiudere la lista delle inquadrature mancanti a fine giornata"
+},
+{
+"key": "feature_ppm.html#235",
+"it": "<small>DOPPIA PAGINA 06 · Giorno di riprese</small>Tabella oraria e ordine del giorno – disegnala a blocchi di 15 minuti e vedi dove slitta"
+},
+{
+"key": "feature_ppm.html#236",
+"it": "<b>NOTA</b>"
+},
+{
+"key": "feature_ppm.html#237",
+"it": "La lunghezza della barra è il tempo previsto. Quando un blocco finisce davvero, disegna a penna accanto la barra reale. Quello scarto diventa la precisione del piano del tuo prossimo progetto."
+},
+{
+"key": "feature_ppm.html#238",
+"it": "<i class=\"move\" style=\"width:30%\"></i><span>Arriva la squadra d’anticipo · parcheggio · verifica corrente · chiavi</span>"
+},
+{
+"key": "feature_ppm.html#239",
+"it": "<i class=\"set\" style=\"width:45%\"></i><span>Carico attrezzatura (2 persone, scale) · binario del dolly · montaggio LED chiave · inizio arredo di scena</span>"
+},
+{
+"key": "feature_ppm.html#240",
+"it": "<i class=\"set\" style=\"width:45%\"></i><span>Convocazione attore A → trucco nel furgone · costume LOOK 1</span>"
+},
+{
+"key": "feature_ppm.html#241",
+"it": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 02</b> MCU dolly in · 1 prova → 4 ciak (sole diretto migliore 07:30–08:00)</span>"
+},
+{
+"key": "feature_ppm.html#242",
+"it": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 03</b> CU sorso · 85 mm · 5 ciak · controllare sudore · lucido</span>"
+},
+{
+"key": "feature_ppm.html#243",
+"it": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 06</b> Finale LOCKED + dolly lento · marker · clean plate 2 ciak</span>"
+},
+{
+"key": "feature_ppm.html#244",
+"it": "<i class=\"set\" style=\"width:15%\"></i><span>Convocazione attore B · LOOK 2 · prova dei movimenti 2S</span>"
+},
+{
+"key": "feature_ppm.html#245",
+"it": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 05</b> 2S brindisi con le bottiglie · SYNC risata · registrare 30 s di room tone</span>"
+},
+{
+"key": "feature_ppm.html#246",
+"it": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 01 · 02 INS</b> Macro gocce · inserto della mano · cambi di bottiglia fresca</span>"
+},
+{
+"key": "feature_ppm.html#247",
+"it": "<i class=\"move\" style=\"width:30%\"></i><span>Fine riprese · foto del luogo ripristinato · oggetti smarriti · 1° backup (sul set) · riconsegna 10:30</span>"
+},
+{
+"key": "feature_ppm.html#248",
+"it": "<i class=\"meal\" style=\"width:30%\"></i><span>Colazione tardiva · 1° controllo giornalieri · inq. mancanti</span>"
+},
+{
+"key": "feature_ppm.html#249",
+"it": "<span><i style=\"background:#7A1C2B\"></i>Riprese</span><span><i style=\"background:#A8465A\"></i>Allestimento · prove</span><span><i style=\"background:#A8A8AE\"></i>Spostamenti · fine riprese</span><span><i style=\"background:#EFEDE9\"></i>Pasti · riordino</span>"
+},
+{
+"key": "feature_ppm.html#250",
+"it": "Ordine del giorno – una pagina A4, a tutti entro le 20 del giorno prima"
+},
+{
+"key": "feature_ppm.html#251",
+"it": "Sezione"
+},
+{
+"key": "feature_ppm.html#252",
+"it": "Contenuto"
+},
+{
+"key": "feature_ppm.html#253",
+"it": "Esempio"
+},
+{
+"key": "feature_ppm.html#254",
+"it": "Intestazione"
+},
+{
+"key": "feature_ppm.html#255",
+"it": "Progetto · n. del giorno di riprese · data · meteo · alba/tramonto · 2 contatti di produzione"
+},
+{
+"key": "feature_ppm.html#256",
+"it": "Bevanda del mattino 15 s · GIORNO 1/2 · 9/4 (mer) · sereno 12→19 °C · alba 06:12 · PD Kim ○○ 010-… / AD 010-…"
+},
+{
+"key": "feature_ppm.html#257",
+"it": "Location"
+},
+{
+"key": "feature_ppm.html#258",
+"it": "Indirizzo · parcheggio · punto d’incontro · bagno · ospedale"
+},
+{
+"key": "feature_ppm.html#259",
+"it": "○○-ro 12, Mapo-gu, 1° piano · vicolo sul retro, 2 auto · ingresso al piano terra · piano terra · pronto soccorso Ospedale ○○ 1,2 km"
+},
+{
+"key": "feature_ppm.html#260",
+"it": "Convocazione"
+},
+{
+"key": "feature_ppm.html#261",
+"it": "Orario di arrivo per reparto (attrezzatura → produzione → cast → cliente)"
+},
+{
+"key": "feature_ppm.html#262",
+"it": "Produzione 06:30 · camera/luci 07:00 · attore A 07:15 · attore B 09:00 · cliente 08:15"
+},
+{
+"key": "feature_ppm.html#263",
+"it": "Programma"
+},
+{
+"key": "feature_ppm.html#264",
+"it": "Sintesi della tabella oraria (grafico a barre qui sopra)"
+},
+{
+"key": "feature_ppm.html#265",
+"it": "07:30 CUT 02 → 08:00 CUT 03 → 08:30 CUT 06 → 09:10 CUT 05 → 09:40 INS → 10:10 fine riprese"
+},
+{
+"key": "feature_ppm.html#266",
+"it": "Cast"
+},
+{
+"key": "feature_ppm.html#267",
+"it": "Ruolo · attore · convocazione · trucco · costume · contatto del manager"
+},
+{
+"key": "feature_ppm.html#268",
+"it": "A protagonista · 07:15 · furgone · LOOK 1 · 010-… / B collega · 09:00 · LOOK 2"
+},
+{
+"key": "feature_ppm.html#269",
+"it": "Attrezzatura · scenografia"
+},
+{
+"key": "feature_ppm.html#270",
+"it": "Camera · obiettivi · elenco luci · responsabile oggetti · quantità di prodotto"
+},
+{
+"key": "feature_ppm.html#271",
+"it": "FX3 · 24/35/50/85/100M · LED 600 W + 2 tubi · 6 bottiglie di prodotto fredde · glicerina"
+},
+{
+"key": "feature_ppm.html#272",
+"it": "Sicurezza · regole"
+},
+{
+"key": "feature_ppm.html#273",
+"it": "Pericoli · assicurazione · 3 regole del set"
+},
+{
+"key": "feature_ppm.html#274",
+"it": "Attrezzatura sulle scale in 2 · mai oltre 3 kW · macchina spenta 10 min durante i ciak · fumo solo all’esterno"
+},
+{
+"key": "feature_ppm.html#275",
+"it": "Imprevisti"
+},
+{
+"key": "feature_ppm.html#276",
+"it": "Pioggia · soglie di ritardo e ripieghi · giorno di riserva"
+},
+{
+"key": "feature_ppm.html#277",
+"it": "Senza sole diretto alle 07:30 si passa al LED chiave · con 2 ore di ritardo CUT 05 va al giorno di riserva · giorno di riserva 13/4"
+},
+{
+"key": "feature_ppm.html#278",
+"it": "<small>DOPPIA PAGINA 07 · Budget · rischi · riunione</small>Voci di budget e regole della riunione PPM"
+},
+{
+"key": "feature_ppm.html#279",
+"it": "Categoria"
+},
+{
+"key": "feature_ppm.html#280",
+"it": "Voci"
+},
+{
+"key": "feature_ppm.html#281",
+"it": "Progetto studentesco"
+},
+{
+"key": "feature_ppm.html#282",
+"it": "Piccolo spot"
+},
+{
+"key": "feature_ppm.html#283",
+"it": "Da fissare alla PPM"
+},
+{
+"key": "feature_ppm.html#284",
+"it": "Personale"
+},
+{
+"key": "feature_ppm.html#285",
+"it": "Regia, camera, luci, montaggio"
+},
+{
+"key": "feature_ppm.html#286",
+"it": "0 (membri del team)"
+},
+{
+"key": "feature_ppm.html#287",
+"it": "Tariffa giornaliera"
+},
+{
+"key": "feature_ppm.html#288",
+"it": "Inizio dello straordinario"
+},
+{
+"key": "feature_ppm.html#289",
+"it": "Interpreti"
+},
+{
+"key": "feature_ppm.html#290",
+"it": "Modelli, speaker, comparse"
+},
+{
+"key": "feature_ppm.html#291",
+"it": "Da 0 a un piccolo compenso"
+},
+{
+"key": "feature_ppm.html#292",
+"it": "Contratto a sessione"
+},
+{
+"key": "feature_ppm.html#293",
+"it": "Ambito · durata dei diritti d’immagine"
+},
+{
+"key": "feature_ppm.html#294",
+"it": "Attrezzatura"
+},
+{
+"key": "feature_ppm.html#295",
+"it": "Noleggio di camera, obiettivi, luci, gimbal"
+},
+{
+"key": "feature_ppm.html#296",
+"it": "Prestito della scuola"
+},
+{
+"key": "feature_ppm.html#297",
+"it": "Noleggio giornaliero"
+},
+{
+"key": "feature_ppm.html#298",
+"it": "Assicurazione danni, ora di riconsegna"
+},
+{
+"key": "feature_ppm.html#299",
+"it": "Location"
+},
+{
+"key": "feature_ppm.html#300",
+"it": "Affitto, contributo di collaborazione"
+},
+{
+"key": "feature_ppm.html#301",
+"it": "Gratis, a titolo di favore"
+},
+{
+"key": "feature_ppm.html#302",
+"it": "Tariffa oraria"
+},
+{
+"key": "feature_ppm.html#303",
+"it": "Costo degli sforamenti, ambito del ripristino"
+},
+{
+"key": "feature_ppm.html#304",
+"it": "Scenografia"
+},
+{
+"key": "feature_ppm.html#305",
+"it": "Oggetti, costumi, scenografie"
+},
+{
+"key": "feature_ppm.html#306",
+"it": "Al costo"
+},
+{
+"key": "feature_ppm.html#307",
+"it": "Per voci"
+},
+{
+"key": "feature_ppm.html#308",
+"it": "Quantità di prodotto, materiali di consumo"
+},
+{
+"key": "feature_ppm.html#309",
+"it": "Post"
+},
+{
+"key": "feature_ppm.html#310",
+"it": "Grading, mix audio, CG"
+},
+{
+"key": "feature_ppm.html#311",
+"it": "Fatto in proprio"
+},
+{
+"key": "feature_ppm.html#312",
+"it": "Tariffe esterne"
+},
+{
+"key": "feature_ppm.html#313",
+"it": "Numero di revisioni (di solito 2)"
+},
+{
+"key": "feature_ppm.html#314",
+"it": "Musica"
+},
+{
+"key": "feature_ppm.html#315",
+"it": "Acquisto della licenza"
+},
+{
+"key": "feature_ppm.html#316",
+"it": "Abbonamento condiviso"
+},
+{
+"key": "feature_ppm.html#317",
+"it": "A brano o in abbonamento"
+},
+{
+"key": "feature_ppm.html#318",
+"it": "Media · durata d’uso"
+},
+{
+"key": "feature_ppm.html#319",
+"it": "Altro"
+},
+{
+"key": "feature_ppm.html#320",
+"it": "Pasti, trasporti, assicurazione"
+},
+{
+"key": "feature_ppm.html#321",
+"it": "Al costo"
+},
+{
+"key": "feature_ppm.html#322",
+"it": "10% del totale di riserva"
+},
+{
+"key": "feature_ppm.html#323",
+"it": "<b>Indicare un 10% per gli imprevisti</b>"
+},
+{
+"key": "feature_ppm.html#324",
+"it": "Metti sempre da parte una riserva"
+},
+{
+"key": "feature_ppm.html#325",
+"it": "Senza un 10% del budget totale tenuto di riserva, il progetto si ferma appena arrivano pioggia, un ritardo, un guasto all’attrezzatura o una ripresa da rifare. In un progetto studentesco, assicurarsi un giorno di riprese di riserva svolge la stessa funzione."
+},
+{
+"key": "feature_ppm.html#326",
+"it": "Tabella dei rischi – che cosa può succedere, che cosa fare quando succede, chi decide"
+},
+{
+"key": "feature_ppm.html#327",
+"it": "Rischio"
+},
+{
+"key": "feature_ppm.html#328",
+"it": "Soglia"
+},
+{
+"key": "feature_ppm.html#329",
+"it": "Ripiego"
+},
+{
+"key": "feature_ppm.html#330",
+"it": "Decide"
+},
+{
+"key": "feature_ppm.html#331",
+"it": "Pioggia · cielo coperto (niente sole diretto)"
+},
+{
+"key": "feature_ppm.html#332",
+"it": "D-1 alle 20, probabilità di pioggia dal 60% in su"
+},
+{
+"key": "feature_ppm.html#333",
+"it": "Ricreare la luce della finestra con il LED chiave, o giorno di riserva"
+},
+{
+"key": "feature_ppm.html#334",
+"it": "Regia + DP"
+},
+{
+"key": "feature_ppm.html#335",
+"it": "Attore in ritardo · assente"
+},
+{
+"key": "feature_ppm.html#336",
+"it": "Irreperibile a convocazione +30 min"
+},
+{
+"key": "feature_ppm.html#337",
+"it": "Girare prima inserti · inquadrature di prodotto, chiamare il candidato B"
+},
+{
+"key": "feature_ppm.html#338",
+"it": "PD di produzione"
+},
+{
+"key": "feature_ppm.html#339",
+"it": "Guasto all’attrezzatura"
+},
+{
+"key": "feature_ppm.html#340",
+"it": "Nessun corpo di scorta"
+},
+{
+"key": "feature_ppm.html#341",
+"it": "Sostituzione urgente dal noleggio (contatto nell’ordine del giorno)"
+},
+{
+"key": "feature_ppm.html#342",
+"it": "DP"
+},
+{
+"key": "feature_ppm.html#343",
+"it": "Sforamento dell’affitto"
+},
+{
+"key": "feature_ppm.html#344",
+"it": "Smontaggio non finito alle 10:15"
+},
+{
+"key": "feature_ppm.html#345",
+"it": "Concordare prima il costo di 30 min di proroga"
+},
+{
+"key": "feature_ppm.html#346",
+"it": "PD di produzione"
+},
+{
+"key": "feature_ppm.html#347",
+"it": "Modifica chiesta dal cliente sul set"
+},
+{
+"key": "feature_ppm.html#348",
+"it": "Inquadratura fuori storyboard"
+},
+{
+"key": "feature_ppm.html#349",
+"it": "Girare dopo la firma di una «richiesta di inquadratura aggiuntiva»; fatturata a parte"
+},
+{
+"key": "feature_ppm.html#350",
+"it": "PD di produzione + cliente"
+},
+{
+"key": "feature_ppm.html#351",
+"it": "<span class=\"ph-id\">P06-TEAM2</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tre persone al monitor – regia · camera · produzione vedono la stessa immagine</b></span>"
+},
+{
+"key": "feature_ppm.html#352",
+"it": "<b>Nota</b>Tre persone al monitor – regia · camera · produzione vedono la stessa immagine"
+},
+{
+"key": "feature_ppm.html#353",
+"it": "Regole della riunione"
+},
+{
+"key": "feature_ppm.html#354",
+"it": "<b>01</b><span>Invia i materiali <b>48 ore prima</b> della riunione. Nessuno può decidere su materiali che vede per la prima volta in sala.</span>"
+},
+{
+"key": "feature_ppm.html#355",
+"it": "<b>02</b><span>Segna ogni voce come <b>decisa o in sospeso</b>. Per ogni sospeso registra un responsabile e una scadenza.</span>"
+},
+{
+"key": "feature_ppm.html#356",
+"it": "<b>03</b><span>I riferimenti vanno sempre visti <b>insieme, a schermo</b>. Descrivi un tono a parole e ognuno lo immagina a modo suo.</span>"
+}
+]

@@ -1,0 +1,614 @@
+[
+{
+"key": "part14a.html#500",
+"it": "Più stretto"
+},
+{
+"key": "part14a.html#501",
+"it": "Inquadrare più da vicino"
+},
+{
+"key": "part14a.html#502",
+"it": "Indicazione di quadro"
+},
+{
+"key": "part14a.html#503",
+"it": "Più largo"
+},
+{
+"key": "part14a.html#504",
+"it": "Inquadrare più largo"
+},
+{
+"key": "part14a.html#505",
+"it": "Indicazione di quadro"
+},
+{
+"key": "part14a.html#506",
+"it": "Linea di sguardo"
+},
+{
+"key": "part14a.html#507",
+"it": "Altezza e direzione dello sguardo del soggetto"
+},
+{
+"key": "part14a.html#508",
+"it": "Allinea lo sguardo, per favore"
+},
+{
+"key": "part14a.html#509",
+"it": "Aria in testa"
+},
+{
+"key": "part14a.html#510",
+"it": "Spazio sopra la testa"
+},
+{
+"key": "part14a.html#511",
+"it": "Troppa aria in testa"
+},
+{
+"key": "part14a.html#512",
+"it": "Asta in campo"
+},
+{
+"key": "part14a.html#513",
+"it": "Microfono visibile nel quadro"
+},
+{
+"key": "part14a.html#514",
+"it": "Rifare subito"
+},
+{
+"key": "part14a.html#515",
+"it": "Lavalier"
+},
+{
+"key": "part14a.html#516",
+"it": "Microfono a clip"
+},
+{
+"key": "part14a.html#517",
+"it": "Metti il lavalier, per favore"
+},
+{
+"key": "part14a.html#518",
+"it": "Falla rimbalzare"
+},
+{
+"key": "part14a.html#519",
+"it": "Far rimbalzare la luce sul soggetto"
+},
+{
+"key": "part14a.html#520",
+"it": "Ammorbidisce le ombre"
+},
+{
+"key": "part14a.html#521",
+"it": "Spegni"
+},
+{
+"key": "part14a.html#522",
+"it": "Spegnere una luce"
+},
+{
+"key": "part14a.html#523",
+"it": "Spegni quella luce"
+},
+{
+"key": "part14a.html#524",
+"it": "Copertura (coverage)"
+},
+{
+"key": "part14a.html#525",
+"it": "Quanti piani hai portato a casa"
+},
+{
+"key": "part14a.html#526",
+"it": "Copertura insufficiente"
+},
+{
+"key": "part14a.html#527",
+"it": "Facciamo un inserto"
+},
+{
+"key": "part14a.html#528",
+"it": "Girare un dettaglio ravvicinato"
+},
+{
+"key": "part14a.html#529",
+"it": "Dà margine al montaggio"
+},
+{
+"key": "part14a.html#530",
+"it": "Un’altra"
+},
+{
+"key": "part14a.html#531",
+"it": "Ancora una volta"
+},
+{
+"key": "part14a.html#532",
+"it": "Aggiungere un ciak"
+},
+{
+"key": "part14a.html#533",
+"it": "Controllo"
+},
+{
+"key": "part14a.html#534",
+"it": "Rivedere il girato"
+},
+{
+"key": "part14a.html#535",
+"it": "Riprodurre sul monitor"
+},
+{
+"key": "part14a.html#536",
+"it": "Fine riprese"
+},
+{
+"key": "part14a.html#537",
+"it": "Smontare l’attrezzatura e ripristinare"
+},
+{
+"key": "part14a.html#538",
+"it": "Comprende il ripristino della location"
+},
+{
+"key": "part14a.html#539",
+"it": "<b>Appendice</b>Documenti di lavoro"
+},
+{
+"key": "part14a.html#540",
+"it": "Tabella dei termini coreano-inglese"
+},
+{
+"key": "part14a.html#541",
+"it": "Una tabella di base per leggere fonti internazionali o preparare curriculum e showreel in inglese."
+},
+{
+"key": "part14a.html#542",
+"it": "Coreano"
+},
+{
+"key": "part14a.html#543",
+"it": "Inglese"
+},
+{
+"key": "part14a.html#544",
+"it": "Coreano"
+},
+{
+"key": "part14a.html#545",
+"it": "Inglese"
+},
+{
+"key": "part14a.html#546",
+"it": "Gihoek"
+},
+{
+"key": "part14a.html#547",
+"it": "Planning / Development"
+},
+{
+"key": "part14a.html#548",
+"it": "Yeonchul"
+},
+{
+"key": "part14a.html#549",
+"it": "Directing"
+},
+{
+"key": "part14a.html#550",
+"it": "Gihoek uido"
+},
+{
+"key": "part14a.html#551",
+"it": "Concept Statement"
+},
+{
+"key": "part14a.html#552",
+"it": "Sinopsiseu"
+},
+{
+"key": "part14a.html#553",
+"it": "Synopsis"
+},
+{
+"key": "part14a.html#554",
+"it": "Sinario"
+},
+{
+"key": "part14a.html#555",
+"it": "Screenplay / Script"
+},
+{
+"key": "part14a.html#556",
+"it": "Konti"
+},
+{
+"key": "part14a.html#557",
+"it": "Continuity"
+},
+{
+"key": "part14a.html#558",
+"it": "Seutoribodeu"
+},
+{
+"key": "part14a.html#559",
+"it": "Storyboard"
+},
+{
+"key": "part14a.html#560",
+"it": "Aenimaetik"
+},
+{
+"key": "part14a.html#561",
+"it": "Animatic"
+},
+{
+"key": "part14a.html#562",
+"it": "Chwaryeong gamdok"
+},
+{
+"key": "part14a.html#563",
+"it": "Director of Photography"
+},
+{
+"key": "part14a.html#564",
+"it": "Joyeonchul"
+},
+{
+"key": "part14a.html#565",
+"it": "Assistant Director"
+},
+{
+"key": "part14a.html#566",
+"it": "Jomyeong gamdok"
+},
+{
+"key": "part14a.html#567",
+"it": "Gaffer"
+},
+{
+"key": "part14a.html#568",
+"it": "Chwaryeong bojo"
+},
+{
+"key": "part14a.html#569",
+"it": "Camera Assistant"
+},
+{
+"key": "part14a.html#570",
+"it": "Misul gamdok"
+},
+{
+"key": "part14a.html#571",
+"it": "Production Designer"
+},
+{
+"key": "part14a.html#572",
+"it": "Sopum"
+},
+{
+"key": "part14a.html#573",
+"it": "Props"
+},
+{
+"key": "part14a.html#574",
+"it": "Pyeonjipja"
+},
+{
+"key": "part14a.html#575",
+"it": "Editor"
+},
+{
+"key": "part14a.html#576",
+"it": "Saekbojeong"
+},
+{
+"key": "part14a.html#577",
+"it": "Color Grading"
+},
+{
+"key": "part14a.html#578",
+"it": "Hapseong"
+},
+{
+"key": "part14a.html#579",
+"it": "Compositing"
+},
+{
+"key": "part14a.html#580",
+"it": "Mosyeon geuraepik"
+},
+{
+"key": "part14a.html#581",
+"it": "Motion Graphics"
+},
+{
+"key": "part14a.html#582",
+"it": "Syot saijeu"
+},
+{
+"key": "part14a.html#583",
+"it": "Shot Size"
+},
+{
+"key": "part14a.html#584",
+"it": "Keullojeueop"
+},
+{
+"key": "part14a.html#585",
+"it": "Close Up"
+},
+{
+"key": "part14a.html#586",
+"it": "Bugam"
+},
+{
+"key": "part14a.html#587",
+"it": "High Angle"
+},
+{
+"key": "part14a.html#588",
+"it": "Anggak"
+},
+{
+"key": "part14a.html#589",
+"it": "Low Angle"
+},
+{
+"key": "part14a.html#590",
+"it": "Yeokgwang"
+},
+{
+"key": "part14a.html#591",
+"it": "Backlight"
+},
+{
+"key": "part14a.html#592",
+"it": "Jugwang"
+},
+{
+"key": "part14a.html#593",
+"it": "Key Light"
+},
+{
+"key": "part14a.html#594",
+"it": "Bojogwang"
+},
+{
+"key": "part14a.html#595",
+"it": "Fill Light"
+},
+{
+"key": "part14a.html#596",
+"it": "Bansapan"
+},
+{
+"key": "part14a.html#597",
+"it": "Reflector"
+},
+{
+"key": "part14a.html#598",
+"it": "Simdo"
+},
+{
+"key": "part14a.html#599",
+"it": "Depth of Field"
+},
+{
+"key": "part14a.html#600",
+"it": "Nochul"
+},
+{
+"key": "part14a.html#601",
+"it": "Exposure"
+},
+{
+"key": "part14a.html#602",
+"it": "Hwaiteu baelleonseu"
+},
+{
+"key": "part14a.html#603",
+"it": "White Balance"
+},
+{
+"key": "part14a.html#604",
+"it": "Saegondo"
+},
+{
+"key": "part14a.html#605",
+"it": "Color Temperature"
+},
+{
+"key": "part14a.html#606",
+"it": "Peureim reiteu"
+},
+{
+"key": "part14a.html#607",
+"it": "Frame Rate"
+},
+{
+"key": "part14a.html#608",
+"it": "Haesangdo"
+},
+{
+"key": "part14a.html#609",
+"it": "Resolution"
+},
+{
+"key": "part14a.html#610",
+"it": "Hwamyeonbi"
+},
+{
+"key": "part14a.html#611",
+"it": "Aspect Ratio"
+},
+{
+"key": "part14a.html#612",
+"it": "Anjeon yeongyeok"
+},
+{
+"key": "part14a.html#613",
+"it": "Safe Area"
+},
+{
+"key": "part14a.html#614",
+"it": "Gapyeonjip"
+},
+{
+"key": "part14a.html#615",
+"it": "Rough Cut"
+},
+{
+"key": "part14a.html#616",
+"it": "Choejongbon"
+},
+{
+"key": "part14a.html#617",
+"it": "Final Cut / Master"
+},
+{
+"key": "part14a.html#618",
+"it": "Nappum"
+},
+{
+"key": "part14a.html#619",
+"it": "Delivery"
+},
+{
+"key": "part14a.html#620",
+"it": "Sujeong"
+},
+{
+"key": "part14a.html#621",
+"it": "Revision"
+},
+{
+"key": "part14a.html#622",
+"it": "Yesan"
+},
+{
+"key": "part14a.html#623",
+"it": "Budget"
+},
+{
+"key": "part14a.html#624",
+"it": "Gyeonjeok"
+},
+{
+"key": "part14a.html#625",
+"it": "Quotation"
+},
+{
+"key": "part14a.html#626",
+"it": "Seoboe"
+},
+{
+"key": "part14a.html#627",
+"it": "Casting / Booking"
+},
+{
+"key": "part14a.html#628",
+"it": "Rokeisyeon heonting"
+},
+{
+"key": "part14a.html#629",
+"it": "Location Scouting"
+},
+{
+"key": "part14a.html#630",
+"it": "Chwaryeong iljeongpyo"
+},
+{
+"key": "part14a.html#631",
+"it": "Call Sheet"
+},
+{
+"key": "part14a.html#632",
+"it": "Hyeonjang"
+},
+{
+"key": "part14a.html#633",
+"it": "On Set"
+},
+{
+"key": "part14a.html#634",
+"it": "Churyeon dongeuiseo"
+},
+{
+"key": "part14a.html#635",
+"it": "Talent Release"
+},
+{
+"key": "part14a.html#636",
+"it": "Jeojakgwon"
+},
+{
+"key": "part14a.html#637",
+"it": "Copyright"
+},
+{
+"key": "part14a.html#638",
+"it": "Poteupollio"
+},
+{
+"key": "part14a.html#639",
+"it": "Portfolio"
+},
+{
+"key": "part14a.html#640",
+"it": "Ril"
+},
+{
+"key": "part14a.html#641",
+"it": "Showreel / Demo Reel"
+},
+{
+"key": "part14a.html#642",
+"it": "<b>Appendice</b>Documenti di lavoro"
+},
+{
+"key": "part14a.html#643",
+"it": "Modelli standard di piano di produzione"
+},
+{
+"key": "part14a.html#644",
+"it": "Un piano è uno strumento, non una promessa. Lo si fa per capire che cosa è slittato quando le cose escono dai binari."
+},
+{
+"key": "part14a.html#645",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part14a.html#646",
+"it": "Annota il tempo reale di ogni fase e il preventivo del prossimo progetto sarà più preciso."
+},
+{
+"key": "part14a.html#647",
+"it": "Spot da 15 secondi (3 settimane in tutto)"
+},
+{
+"key": "part14a.html#648",
+"it": "Giorno"
+},
+{
+"key": "part14a.html#649",
+"it": "Fase"
+},
+{
+"key": "part14a.html#650",
+"it": "Risultato"
+},
+{
+"key": "part14a.html#651",
+"it": "Ricezione del brief, ricerca"
+},
+{
+"key": "part14a.html#652",
+"it": "10 riferimenti, appunti di ricerca"
+}
+]

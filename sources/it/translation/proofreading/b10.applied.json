@@ -1,0 +1,5 @@
+[
+ {"key": "part09.html#495", "find": "e il video è seguito dal 2023", "replace": "e dal 2023 è arrivato il video", "why": "other: ambiguous 'è seguito' (reads as passive)"},
+ {"key": "part09.html#583", "find": "Dieci video costanti costruiscono", "replace": "Dieci video pubblicati con costanza costruiscono", "why": "other: unnatural 'video costanti'"},
+ {"key": "part09.html#662", "find": "può ottenere più volte le visualizzazioni a seconda del titolo", "replace": "può ottenere visualizzazioni anche diverse volte superiori a seconda del titolo", "why": "meaning: 'più volte le visualizzazioni' reads as 'the views several times'"}
+]

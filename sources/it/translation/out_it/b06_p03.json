@@ -1,0 +1,426 @@
+[
+{
+"key": "part04.html#699",
+"it": "Il solo suono registrato sul set lascia l’immagine povera. Quasi tutti i video commerciali ricreano il suono in post e lo aggiungono. È il Foley."
+},
+{
+"key": "part04.html#700",
+"it": "Suono"
+},
+{
+"key": "part04.html#701",
+"it": "Come si fa davvero"
+},
+{
+"key": "part04.html#702",
+"it": "A che cosa serve"
+},
+{
+"key": "part04.html#703",
+"it": "Passi"
+},
+{
+"key": "part04.html#704",
+"it": "Ricreali con scarpe e pavimenti veri"
+},
+{
+"key": "part04.html#705",
+"it": "Movimento, tensione che sale"
+},
+{
+"key": "part04.html#706",
+"it": "Fruscio di tessuti"
+},
+{
+"key": "part04.html#707",
+"it": "Strofina la stoffa a mano"
+},
+{
+"key": "part04.html#708",
+"it": "Realismo nelle azioni in primo piano"
+},
+{
+"key": "part04.html#709",
+"it": "Apertura del prodotto"
+},
+{
+"key": "part04.html#710",
+"it": "Apri e chiudi più volte il prodotto vero"
+},
+{
+"key": "part04.html#711",
+"it": "Il momento decisivo dello spot"
+},
+{
+"key": "part04.html#712",
+"it": "Liquido versato"
+},
+{
+"key": "part04.html#713",
+"it": "Ripeti variando recipienti e altezze"
+},
+{
+"key": "part04.html#714",
+"it": "Cuore degli spot di bevande"
+},
+{
+"key": "part04.html#715",
+"it": "Fuoco, vento, pioggia"
+},
+{
+"key": "part04.html#716",
+"it": "Combina suoni di libreria"
+},
+{
+"key": "part04.html#717",
+"it": "Creare l’atmosfera"
+},
+{
+"key": "part04.html#718",
+"it": "Impatto"
+},
+{
+"key": "part04.html#719",
+"it": "Colpo grave più riverbero"
+},
+{
+"key": "part04.html#720",
+"it": "Transizioni, comparsa del logo"
+},
+{
+"key": "part04.html#721",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part04.html#722",
+"it": "Sincronizza gli effetti al fotogramma. Anche 0,1 secondi di ritardo stonano."
+},
+{
+"key": "part04.html#723",
+"it": "Il sound design, passo dopo passo"
+},
+{
+"key": "part04.html#724",
+"it": "<b>01</b><span>Guarda le immagini più volte senza audio. Elenca i suoni che dovrebbero esserci.</span>"
+},
+{
+"key": "part04.html#725",
+"it": "<b>02</b><span>Stendi per primi dialoghi e narrazione e bloccane i livelli.</span>"
+},
+{
+"key": "part04.html#726",
+"it": "<b>03</b><span>Aggiungi la musica e accordala a tagli e battute.</span>"
+},
+{
+"key": "part04.html#727",
+"it": "<b>04</b><span>Sincronizza gli effetti all’azione, fotogramma per fotogramma.</span>"
+},
+{
+"key": "part04.html#728",
+"it": "<b>05</b><span>Stendi l’ambiente per creare lo spazio. Più la scena è silenziosa, più ne ha bisogno.</span>"
+},
+{
+"key": "part04.html#729",
+"it": "<b>06</b><span>Normalizza il volume complessivo allo standard della piattaforma.</span>"
+},
+{
+"key": "part04.html#730",
+"it": "<b>07</b><span>Controlla su tre sistemi: auricolari, casse e smartphone.</span>"
+},
+{
+"key": "part04.html#731",
+"it": "Contenuti fatti di solo suono – ASMR · ambiente · audio per dormire"
+},
+{
+"key": "part04.html#732",
+"it": "<small>Stimolo ravvicinato</small>ASMR"
+},
+{
+"key": "part04.html#733",
+"it": "Cattura lo spazio sinistra-destra con microfoni binaurali o una testa artificiale"
+},
+{
+"key": "part04.html#734",
+"it": "Stimoli: picchiettii, sfregamenti, sussurri, carta"
+},
+{
+"key": "part04.html#735",
+"it": "Livello basso, ca. −20 dBFS; tieni giù i picchi"
+},
+{
+"key": "part04.html#736",
+"it": "<small>Suono di un luogo</small>Ambiente"
+},
+{
+"key": "part04.html#737",
+"it": "Registra a lungo sul posto fuoco · pioggia · vento · onde"
+},
+{
+"key": "part04.html#738",
+"it": "Nascondi i punti di loop dietro i momenti forti"
+},
+{
+"key": "part04.html#739",
+"it": "Un video da 8 ore si fa mettendo in loop una sorgente da 1 ora"
+},
+{
+"key": "part04.html#740",
+"it": "<small>Meditazione · sonno</small>Audio per dormire"
+},
+{
+"key": "part04.html#741",
+"it": "Centrato sui bassi; nessun picco improvviso"
+},
+{
+"key": "part04.html#742",
+"it": "Immagine: un fotogramma fisso + movimento lieve (pioggia, fiamme)"
+},
+{
+"key": "part04.html#743",
+"it": "Diritti: solo sorgenti con licenza o registrazioni tue"
+},
+{
+"key": "part04.html#744",
+"it": "<b>Foto di riferimento 4.10A</b>Immagini generate – contenuti fatti di solo suono"
+},
+{
+"key": "part04.html#745",
+"it": "<span class=\"ph-id\">P04-ASMR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Registrare ASMR</b>Una testa artificiale con una coppia di microfoni binaurali, una mano che picchietta su una scatola di legno</span>"
+},
+{
+"key": "part04.html#746",
+"it": "<b>a</b>Registrare ASMR – il modello di testa al centro è un <b>microfono binaurale a testa artificiale</b>. Due microfoni stanno dove sarebbero le orecchie e catturano un «sussurro nell’orecchio sinistro» così come lo si sente. Funziona solo in auricolare"
+},
+{
+"key": "part04.html#747",
+"it": "<span class=\"ph-id\">P04-FOLEY</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Lavoro di Foley</b>Un rumorista cammina in una vasca di ghiaia guardando le immagini</span>"
+},
+{
+"key": "part04.html#748",
+"it": "<b>b</b>Lavoro di Foley"
+},
+{
+"key": "part04.html#749",
+"it": "<span class=\"ph-id\">P04-AMBIENT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Registrare il crepitio del fuoco</b>Un registratore portatile con antivento accanto a un camino</span>"
+},
+{
+"key": "part04.html#750",
+"it": "<b>c</b>Registrare il crepitio del fuoco"
+},
+{
+"key": "part04.html#751",
+"it": "<span class=\"ph-id\">P04-SLEEP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>8 ore di pioggia – un video con audio per dormire</b>Un video di pioggia sulla finestra riprodotto su un telefono accanto al letto</span>"
+},
+{
+"key": "part04.html#752",
+"it": "<b>d</b>8 ore di pioggia – un video con audio per dormire"
+},
+{
+"key": "part04.html#753",
+"it": "Quando senti che con il video non migliori più, lavorare sul suono è il rimedio più rapido.<small>4.10 Effetti sonori e Foley</small>"
+},
+{
+"key": "part04.html#754",
+"it": "Uscire a raccogliere suoni e texture"
+},
+{
+"key": "part04.html#755",
+"it": "<b>Uscire per il suono – field recording</b><span>Un vero bosco all’alba, onde vere. I suoni di libreria li usano tutti: registra «il tuo». Fucile + antivento + registratore portatile, tra le 4 e le 6 del mattino, vento non oltre 3 m/s</span>"
+},
+{
+"key": "part04.html#756",
+"it": "<b>Uscire per le texture – scansioni fotogrammetriche</b><span>Fotografa roccia · corteccia · muri decine di volte per ottenere texture 3D. Giornata coperta, una tabella colore, 70% di sovrapposizione. Ciò che l’IA generativa non sa fare è «la grana di quel luogo»</span>"
+},
+{
+"key": "part04.html#757",
+"it": "<b>Fig. 44-1</b> Suoni e texture sono là fuori – c’è chi raccoglie le sorgenti invece di comprarle. La firma di un artista nasce dal lavoro sul campo, non dalle librerie."
+},
+{
+"key": "part04.html#758",
+"it": "<small>Esercizio</small>4.10"
+},
+{
+"key": "part04.html#759",
+"it": "Compito"
+},
+{
+"key": "part04.html#760",
+"it": "Crea 5 effetti Foley con oggetti di casa, ad es. passi, una porta e la pioggia, e montali su una scena."
+},
+{
+"key": "part04.html#761",
+"it": "Consiglio"
+},
+{
+"key": "part04.html#762",
+"it": "Registra in una stanza silenziosa con il microfono vicino e sincronizza le azioni alle immagini."
+},
+{
+"key": "part04.html#763",
+"it": "Valutazione"
+},
+{
+"key": "part04.html#764",
+"it": "Precisione del sincrono, realismo del suono"
+},
+{
+"key": "part04.html#765",
+"it": "Risposta modello"
+},
+{
+"key": "part04.html#766",
+"it": "Trova suoni «più convincenti» di quelli reali e rivela i materiali usati."
+},
+{
+"key": "part04.html#767",
+"it": "Chiusura della PARTE 04"
+},
+{
+"key": "part04.html#768",
+"it": "Esercizi e ripasso"
+},
+{
+"key": "part04.html#769",
+"it": "<b>Quattro schemi con una luce</b>Con una sola luce o una finestra, gira primi piani di ritratto in luce Rembrandt, split, butterfly e di taglio, e confrontali tutti e quattro."
+},
+{
+"key": "part04.html#770",
+"it": "<b>High key vs. low key</b>Riprendi lo stesso prodotto in high key e in low key e chiedi a dieci persone quale sembra più costoso."
+},
+{
+"key": "part04.html#771",
+"it": "<b>Distanza e qualità del suono</b>Registra la stessa battuta con uno smartphone a 30 cm, 1 m e 3 m e confronta. Ascolta quanto la distanza incide sulla qualità."
+},
+{
+"key": "part04.html#772",
+"it": "<b>Rifallo con i soli effetti</b>Togli tutto l’audio da un girato tuo e metti solo effetti nuovi. Sentirai come il suono cambia la grana dell’immagine."
+},
+{
+"key": "part04.html#773",
+"it": "Riepilogo in una pagina"
+},
+{
+"key": "part04.html#774",
+"it": "4.1 Cinque proprietà della luce"
+},
+{
+"key": "part04.html#775",
+"it": "Con la legge dell’inverso del quadrato scurisci lo sfondo senza comprare altre luci."
+},
+{
+"key": "part04.html#776",
+"it": "4.2 Illuminazione a tre punti e varianti"
+},
+{
+"key": "part04.html#777",
+"it": "Rapporto di illuminazione 2:1 per gli spot luminosi, 4:1 per la fiction standard, 8:1 o più per un’atmosfera drammatica."
+},
+{
+"key": "part04.html#778",
+"it": "4.3 Sei schemi di luce chiave"
+},
+{
+"key": "part04.html#779",
+"it": "Prova a chiudere l’inquadratura con la sola luce chiave. La morbidezza viene da dimensione e distanza."
+},
+{
+"key": "part04.html#780",
+"it": "4.4 High key e low key"
+},
+{
+"key": "part04.html#781",
+"it": "Low key non è girare al buio: è esporre con precisione le parti chiare e controllare il resto."
+},
+{
+"key": "part04.html#782",
+"it": "4.5 Luci per la pubblicità di prodotto"
+},
+{
+"key": "part04.html#783",
+"it": "Il materiale decide il metodo. Togli tanta luce quanta ne aggiungi."
+},
+{
+"key": "part04.html#784",
+"it": "4.6 Luci per il chroma key"
+},
+{
+"key": "part04.html#785",
+"it": "Tieni soggetto e sfondo a 2 m di distanza e illuminali separatamente."
+},
+{
+"key": "part04.html#786",
+"it": "4.7 Luci a basso budget"
+},
+{
+"key": "part04.html#787",
+"it": "Finestra · polistirolo · carta da lucido · telo nero. Attenzione a calore e cadute."
+},
+{
+"key": "part04.html#788",
+"it": "4.8 Microfoni e registrazione"
+},
+{
+"key": "part04.html#789",
+"it": "Un microfono economico vicino batte uno costoso lontano. Picchi da −12 a −6 dBFS, room tone 30 secondi."
+},
+{
+"key": "part04.html#790",
+"it": "4.9 I quattro strati del sound design"
+},
+{
+"key": "part04.html#791",
+"it": "Decidi prima la musica; il logo sonoro va negli ultimi 2–3 secondi. Conserva la prova delle licenze musicali."
+},
+{
+"key": "part04.html#792",
+"it": "4.10 Effetti sonori e Foley"
+},
+{
+"key": "part04.html#793",
+"it": "Gli effetti si sincronizzano al fotogramma. Lavorare sul suono è il rimedio più rapido."
+},
+{
+"key": "part04.html#794",
+"it": "Autoverifica"
+},
+{
+"key": "part04.html#795",
+"it": "Sai applicare la legge dell’inverso del quadrato per controllare la luminosità dello sfondo?"
+},
+{
+"key": "part04.html#796",
+"it": "Sai spiegare che cosa significa un rapporto di illuminazione 4:1?"
+},
+{
+"key": "part04.html#797",
+"it": "Sai spiegare perché nel chroma key soggetto e sfondo devono stare distanti?"
+},
+{
+"key": "part04.html#798",
+"it": "Sai indicare in numeri la zona sicura dei livelli di registrazione?"
+},
+{
+"key": "part04.html#799",
+"it": "Sai spiegare perché serve il room tone?"
+},
+{
+"key": "part04.html#800",
+"it": "Domande per riflettere"
+},
+{
+"key": "part04.html#801",
+"it": "In un tuo video ti è mai venuto un volto scuro?"
+},
+{
+"key": "part04.html#802",
+"it": "Allora avresti dovuto aggiungere luce o toglierla?"
+},
+{
+"key": "part04.html#803",
+"it": "Quale chiudi per primo: un video con l’audio scadente o uno con l’immagine scadente?"
+},
+{
+"key": "part04.html#804",
+"it": "Perché?"
+}
+]

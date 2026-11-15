@@ -1,0 +1,4 @@
+[
+ {"key": "part03.html#1148", "find": "I frame rate alti richiedono luce in proporzione.", "replace": "I frame rate alti richiedono proporzionalmente più luce.", "why": "meaning: 'more' (proportionally more light) was missing"},
+ {"key": "part04.html#8", "find": "immagine generativa", "replace": "immagine generata", "why": "term: a generated image, consistent with 'Immagini generate' in the reference photos"}
+]

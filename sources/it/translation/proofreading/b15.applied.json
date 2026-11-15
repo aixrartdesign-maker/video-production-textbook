@@ -1,0 +1,5 @@
+[
+ {"key": "part13.html#17", "find": "e leggerlo a vicenda", "replace": "e leggere quelli degli altri", "why": "meaning: read each other's statements"},
+ {"key": "part14a.html#281", "find": "Aggiungi a Render Queue", "replace": "Aggiungi alla coda di rendering", "why": "untranslated + grammar (a → alla)"},
+ {"key": "part14a.html#279", "find": "Graph Editor", "replace": "Editor grafico", "why": "untranslated UI label (Italian AE)"}
+]

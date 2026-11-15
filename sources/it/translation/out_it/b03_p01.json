@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#101",
+"it": "<b>2S · LOCKED</b><span>Tintinnio di bottiglie · SYNC risata</span>"
+},
+{
+"key": "feature_storyboard.html#102",
+"it": "<b>MS · avvicinamento</b><span>Prodotto al centro · logo in CG · N Anche oggi</span>"
+},
+{
+"key": "feature_storyboard.html#103",
+"it": "<b>Tavola SB-9</b> Esempio di storyboard verticale – spot short-form di 15 secondi (9:16, 6 inquadrature). Riquadri verticali stretti: una riga di nota d’azione, una parola di suono."
+},
+{
+"key": "feature_storyboard.html#104",
+"it": "Uno storyboard verticale si legge ancora bene fino a 6 riquadri per riga. I riquadri verticali sono stretti e le informazioni si allungano sotto: scrivi <b>una riga di nota d’azione, una parola di suono</b>. Disegna i sottotitoli solo nella fascia centrale, fuori dalle aree dell’interfaccia (in grigio)."
+},
+{
+"key": "feature_storyboard.html#105",
+"it": "<small>DOPPIA PAGINA 04</small>Storyboard 360 · VR – progetta un «asse dell’attenzione», non una timeline"
+},
+{
+"key": "feature_storyboard.html#106",
+"it": "Lo storyboard di un video piatto registra «che cosa si vede in questa inquadratura». Uno storyboard 360 registra <b>dove guarderà il pubblico</b> e <b>che cosa lo farà voltare</b>. Il riquadro è uno sviluppo equirettangolare 2:1, sempre disegnato con una vista dall’alto sopra."
+},
+{
+"key": "feature_storyboard.html#107",
+"it": "Storyboard 360 · VR – progettare l’asse dell’attenzione"
+},
+{
+"key": "feature_storyboard.html#108",
+"it": "<b><i>01</i>0–8 s · fronte fisso</b><span>Monologo di A; lo spettatore scopre lo spazio</span>"
+},
+{
+"key": "feature_storyboard.html#109",
+"it": "<b><i>02</i>8–14 s · il suono chiama</b><span>Rumore di porta, dietro a sinistra → A si volta → si volta anche il pubblico</span>"
+},
+{
+"key": "feature_storyboard.html#110",
+"it": "<b><i>03</i>14–22 s · nuovo fronte</b><span>−130° diventa il nuovo fronte. Entra B</span>"
+},
+{
+"key": "feature_storyboard.html#111",
+"it": "Camera = pubblico"
+},
+{
+"key": "feature_storyboard.html#112",
+"it": "Fronte 90°"
+},
+{
+"key": "feature_storyboard.html#113",
+"it": "<b>Vista dall’alto</b><span>Segna come angoli i punti in cui avvengono gli eventi. Se in una scena le rotazioni superano in totale i 180°, arriva la chinetosi.</span><span>In ogni riquadro: angolo frontale previsto · richiami dell’attenzione (suono · luce · sguardo) · tempo di rotazione (almeno 2 s ogni 90°)</span>"
+},
+{
+"key": "feature_storyboard.html#114",
+"it": "<b>Tavola SB-3</b> Storyboard 360 · VR – tre riquadri sviluppati e una vista dall’alto. Gli eventi alle spalle dello spettatore si richiamano con il suono, non con l’immagine."
+},
+{
+"key": "feature_storyboard.html#115",
+"it": "<span class=\"ph-id\">P06-SB-360</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Schizzo di storyboard 360 – segna angoli e posizioni del suono sullo sviluppo</b></span>"
+},
+{
+"key": "feature_storyboard.html#116",
+"it": "<b>Nota</b>Schizzo di storyboard 360 – segna angoli e posizioni del suono sullo sviluppo"
+},
+{
+"key": "feature_storyboard.html#117",
+"it": "<small>Video 360</small>Il pubblico si volta"
+},
+{
+"key": "feature_storyboard.html#118",
+"it": "Camera fissa, altezza occhi 1,2–1,6 m"
+},
+{
+"key": "feature_storyboard.html#119",
+"it": "Inquadrature lunghe (8 s+), dissolvenze"
+},
+{
+"key": "feature_storyboard.html#120",
+"it": "Soggetti vicini ad almeno 1,5 m – distorsione stereo"
+},
+{
+"key": "feature_storyboard.html#121",
+"it": "<small>VR (visore)</small>Il pubblico è dentro la scena"
+},
+{
+"key": "feature_storyboard.html#122",
+"it": "FOV 90–110°; la scena principale è a 2–5 m dagli occhi"
+},
+{
+"key": "feature_storyboard.html#123",
+"it": "Niente interfaccia · sottotitoli ancorati alla testa: fissali al mondo"
+},
+{
+"key": "feature_storyboard.html#124",
+"it": "Regola anti-chinetosi: nessun movimento di camera, o solo rettilinei a velocità costante"
+},
+{
+"key": "feature_storyboard.html#125",
+"it": "<small>Elaborati dello storyboard</small>Un set di tre fogli"
+},
+{
+"key": "feature_storyboard.html#126",
+"it": "Sviluppo equirettangolare (riquadri)"
+},
+{
+"key": "feature_storyboard.html#127",
+"it": "Vista dall’alto (angoli · movimenti)"
+},
+{
+"key": "feature_storyboard.html#128",
+"it": "Timeline dell’attenzione (grafico secondi × angolo frontale)"
+},
+{
+"key": "feature_storyboard.html#129",
+"it": "<small>DOPPIA PAGINA 05</small>LED curvo · cupola · facciata mediale – disegna «da dove si guarda», non «lo schermo»"
+},
+{
+"key": "feature_storyboard.html#130",
+"it": "LED curvo · facciata mediale – disegna il punto di visione"
+},
+{
+"key": "feature_storyboard.html#131",
+"it": "<b>LED curvo · cilindrico – pianta + sviluppo</b><span>Fissa prima il raggio senza distorsione dal punto di visione · testi e volti solo nella fascia dello sguardo (1,4–1,8 m da terra) · mai testo su una giunzione · movimento orizzontale a 15° al secondo o meno</span>"
+},
+{
+"key": "feature_storyboard.html#132",
+"it": "<b>Facciata mediale – mappa dei pixel in prospetto + distanza di visione</b><span>Distanza minima di visione (m) ≈ pixel pitch (mm) · altezza del testo pari a 1/250 della distanza → in pratica niente testo, solo forma e colore · simula da tre punti: a piedi 20 m / dall’altro lato della strada 60 m / da lontano 150 m</span>"
+},
+{
+"key": "feature_storyboard.html#133",
+"it": "<b>Tavola SB-4</b> Storyboard per LED curvi e facciate mediali. Il primo riquadro non è «lo schermo» ma «da dove guarda il pubblico, e per quanto tempo»."
+},
+{
+"key": "feature_storyboard.html#134",
+"it": "Mezzo"
+},
+{
+"key": "feature_storyboard.html#135",
+"it": "Forma del riquadro"
+},
+{
+"key": "feature_storyboard.html#136",
+"it": "Da disegnare accanto"
+},
+{
+"key": "feature_storyboard.html#137",
+"it": "Unità di tempo"
+},
+{
+"key": "feature_storyboard.html#138",
+"it": "Da non fare mai"
+},
+{
+"key": "feature_storyboard.html#139",
+"it": "LED curvo · cilindrico"
+},
+{
+"key": "feature_storyboard.html#140",
+"it": "Sviluppo (lunghezza d’arco : altezza)"
+},
+{
+"key": "feature_storyboard.html#141",
+"it": "Pianta + punto di visione + fascia dello sguardo"
+},
+{
+"key": "feature_storyboard.html#142",
+"it": "Scene di 20–40 s"
+},
+{
+"key": "feature_storyboard.html#143",
+"it": "Testo sulle giunzioni, movimenti orizzontali oltre 15° al secondo"
+},
+{
+"key": "feature_storyboard.html#144",
+"it": "Cupola (fulldome)"
+},
+{
+"key": "feature_storyboard.html#145",
+"it": "Cerchio fisheye (dome master 4096×4096)"
+},
+{
+"key": "feature_storyboard.html#146",
+"it": "Sezione + inclinazione sedili"
+},
+{
+"key": "feature_storyboard.html#147",
+"it": "Scene da 30 s in su"
+},
+{
+"key": "feature_storyboard.html#148",
+"it": "Azione sotto l’orizzonte, rotazioni veloci"
+},
+{
+"key": "feature_storyboard.html#149",
+"it": "Facciata mediale"
+},
+{
+"key": "feature_storyboard.html#150",
+"it": "Mappa dei pixel in prospetto"
+},
+{
+"key": "feature_storyboard.html#151",
+"it": "Simulare a tre distanze di visione"
+},
+{
+"key": "feature_storyboard.html#152",
+"it": "Loop di 8–30 s"
+},
+{
+"key": "feature_storyboard.html#153",
+"it": "Testo corrente, bianco 100% a tutto schermo"
+},
+{
+"key": "feature_storyboard.html#154",
+"it": "Videomapping"
+},
+{
+"key": "feature_storyboard.html#155",
+"it": "Maschera UV su una foto dell’edificio"
+},
+{
+"key": "feature_storyboard.html#156",
+"it": "Posizione dei proiettori · distanza di proiezione · zone di sovrapposizione"
+},
+{
+"key": "feature_storyboard.html#157",
+"it": "Scene di 15–60 s"
+},
+{
+"key": "feature_storyboard.html#158",
+"it": "Contare sui fondi neri (ignorando la texture della superficie)"
+},
+{
+"key": "feature_storyboard.html#159",
+"it": "Anamorfico in esterni"
+},
+{
+"key": "feature_storyboard.html#160",
+"it": "Due facce d’angolo sviluppate + 1 punto di visione"
+},
+{
+"key": "feature_storyboard.html#161",
+"it": "Segnare il «punto giusto»; simulare le altre posizioni"
+},
+{
+"key": "feature_storyboard.html#162",
+"it": "Contenuti che, fuori dal punto giusto, vanno spiegati"
+},
+{
+"key": "feature_storyboard.html#163",
+"it": "<small>DOPPIA PAGINA 06</small>Storyboard AR · MR · XR – il riquadro si divide in «livelli»"
+},
+{
+"key": "feature_storyboard.html#164",
+"it": "Un riquadro AR · MR non è un unico disegno piatto: si scompone in <b>livello della realtà / superficie tracciata / livello degli oggetti virtuali / livello dell’interfaccia</b>. E al posto del segno di transizione c’è «che cosa deve fare il pubblico per arrivare al riquadro successivo (interazione)». Un set XR (produzione virtuale con LED wall) funziona al contrario: lo storyboard si divide in quattro tracce, camera · sfondo LED · set fisico · luci."
+},
+{
+"key": "feature_storyboard.html#165",
+"it": "Storyboard AR · MR · XR"
+},
+{
+"key": "feature_storyboard.html#166",
+"it": "<b>AR – il riquadro si divide in livelli</b><span>Disegna separati quattro livelli: realtà / superficie tracciata / oggetto virtuale / interfaccia · al posto dei segni di transizione, «che cosa deve accadere per arrivare al riquadro successivo» (tocco · rotazione · avvicinamento) · un riquadro per il ramo di errore è d’obbligo</span>"
+},
+{
+"key": "feature_storyboard.html#167",
+"it": "<b>MR – disegna su una mappa della stanza</b><span>Gli oggetti virtuali si ancorano a parete · pavimento · tavolo · per essere credibili, gli oggetti virtuali devono essere occlusi dai mobili reali · raggio di movimento 2 m; mai portare l’utente fuori dal Guardian</span>"
+},
+{
+"key": "feature_storyboard.html#168",
+"it": "<b>Set XR – uno storyboard a quattro tracce</b><span>Set fisico · attori / sfondo LED (Unreal) / tracking della camera / sincronia delle luci: quattro righe per inquadratura · annota frustum interno/esterno, versione del plate, luminosità del wall</span>"
+},
+{
+"key": "feature_storyboard.html#169",
+"it": "<b>Tavola SB-5</b> AR a livelli, MR su una mappa della stanza, XR a tracce – cambia il mezzo e cambia la definizione di «un riquadro». In comune hanno questo: disegna per prima cosa dove si trova il pubblico (o la camera)."
+},
+{
+"key": "feature_storyboard.html#170",
+"it": "<small>DOPPIA PAGINA 07</small>Il linguaggio della camera dentro il riquadro – un set di simboli per inquadratura · angolazione · movimento · composizione"
+},
+{
+"key": "feature_storyboard.html#171",
+"it": "Il linguaggio della camera nel riquadro – 8 simboli di movimento"
+},
+{
+"key": "feature_storyboard.html#172",
+"it": "<b>PAN</b><span>Doppia freccia sinistra-destra</span>"
+},
+{
+"key": "feature_storyboard.html#173",
+"it": "<b>TILT</b><span>Freccia verticale</span>"
+},
+{
+"key": "feature_storyboard.html#174",
+"it": "<b>ZOOM IN</b><span>Quattro frecce convergenti verso l’interno</span>"
+},
+{
+"key": "feature_storyboard.html#175",
+"it": "<b>ZOOM OUT</b><span>Quattro frecce divergenti verso l’esterno</span>"
+},
+{
+"key": "feature_storyboard.html#176",
+"it": "<b>DOLLY IN</b><span>Freccia che avanza lungo il pavimento</span>"
+},
+{
+"key": "feature_storyboard.html#177",
+"it": "<b>TRACK</b><span>Freccia lunga parallela al soggetto</span>"
+},
+{
+"key": "feature_storyboard.html#178",
+"it": "<b>CRANE</b><span>Grande freccia che curva verso l’alto</span>"
+},
+{
+"key": "feature_storyboard.html#179",
+"it": "<b>HANDHELD</b><span>Zigzag agli angoli</span>"
+},
+{
+"key": "feature_storyboard.html#180",
+"it": "<b>Tavola SB-6</b> Come disegnare i movimenti di camera su uno storyboard – il movimento del soggetto in nero, solo la camera in rosso. Raccogli i simboli in una legenda nel primo riquadro."
+},
+{
+"key": "feature_storyboard.html#181",
+"it": "Quattro stili di storyboard"
+},
+{
+"key": "feature_storyboard.html#182",
+"it": "<b>Miniatura – disegnare per pensare</b><span>Un riquadro in 10 secondi, solo per gli occhi del regista. Funziona perché si butta via senza rimpianti</span>"
+},
+{
+"key": "feature_storyboard.html#183",
+"it": "<b>Linea pulita – disegnare per il set</b><span>Informazioni chiare. Lo standard per spot · consegne alla PPM</span>"
+},
+{
+"key": "feature_storyboard.html#184",
+"it": "<b>Storyboard tonale – disegnare la luce</b><span>Tre valori di chiaroscuro, fino alla direzione della luce. Lungometraggi · brand film</span>"
+},
+{
+"key": "feature_storyboard.html#185",
+"it": "<b>Bozza a colori – a un passo dall’animatic</b><span>Verifica insieme colore e ritmo. Motion graphics · animazione</span>"
+},
+{
+"key": "feature_storyboard.html#186",
+"it": "<b>Tavola SB-6′</b> Quattro stili di storyboard. Lo scopo decide la precisione – un disegno per te non è un disegno per dieci persone."
+},
+{
+"key": "feature_storyboard.html#187",
+"it": "<small>DOPPIA PAGINA 08</small>Rendere «visibili» voce narrante e suono – lo storyboard a 3 corsie e uno spot finito da 15 secondi"
+},
+{
+"key": "feature_storyboard.html#188",
+"it": "Il suono è l’informazione che più spesso manca in uno storyboard. Se lo scrivi in una riga sotto l’immagine, la sua durata non si vede. Affianca su una timeline <b>corsia immagine / corsia voce / corsia suono</b> e vedrai, come con un righello, se la voce narrante dura più dell’inquadratura e se i cambi di musica cadono sui tagli."
+},
+{
+"key": "feature_storyboard.html#189",
+"it": "Rendere visibili voce narrante e suono – lo storyboard a 3 corsie"
+},
+{
+"key": "feature_storyboard.html#190",
+"it": "IMMAGINE"
+},
+{
+"key": "feature_storyboard.html#191",
+"it": "<span>ECU · gocce</span>"
+},
+{
+"key": "feature_storyboard.html#192",
+"it": "<span>MCU · prende la bottiglia</span>"
+},
+{
+"key": "feature_storyboard.html#193",
+"it": "<span>CU · un sorso</span>"
+},
+{
+"key": "feature_storyboard.html#194",
+"it": "<span>LS · mattino in città</span>"
+},
+{
+"key": "feature_storyboard.html#195",
+"it": "<span>ECU · sul tavolo</span>"
+},
+{
+"key": "feature_storyboard.html#196",
+"it": "<span>MS · logo in CG</span>"
+},
+{
+"key": "feature_storyboard.html#197",
+"it": "VOCE"
+},
+{
+"key": "feature_storyboard.html#198",
+"it": "N La tua giornata inizia in un altro modo"
+},
+{
+"key": "feature_storyboard.html#199",
+"it": "SYNC «Mm.»"
+},
+{
+"key": "feature_storyboard.html#200",
+"it": "N Prima che la città si svegli"
+},
+{
+"key": "feature_storyboard.html#201",
+"it": "N Anche oggi, Nome del brand"
+},
+{
+"key": "feature_storyboard.html#202",
+"it": "MUSIC"
+},
+{
+"key": "feature_storyboard.html#203",
+"it": "MUTE"
+},
+{
+"key": "feature_storyboard.html#204",
+"it": "♪ entra il piano"
+},
+{
+"key": "feature_storyboard.html#205",
+"it": "ritmo"
+},
+{
+"key": "feature_storyboard.html#206",
+"it": "accento finale · dissolvenza"
+},
+{
+"key": "feature_storyboard.html#207",
+"it": "SE"
+},
+{
+"key": "feature_storyboard.html#208",
+"it": "gocce"
+},
+{
+"key": "feature_storyboard.html#209",
+"it": "tappo"
+},
+{
+"key": "feature_storyboard.html#210",
+"it": "ATM città"
+},
+{
+"key": "feature_storyboard.html#211",
+"it": "sibilo"
+},
+{
+"key": "feature_storyboard.html#212",
+"it": "CAP"
+},
+{
+"key": "feature_storyboard.html#213",
+"it": "inizio di giornata"
+},
+{
+"key": "feature_storyboard.html#214",
+"it": "SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#215",
+"it": "<b>Tavola SB-7</b> Storyboard a tre corsie per uno spot da 15 secondi in 6 inquadrature. La larghezza del riquadro è tempo – se la voce narrante dura più del riquadro, tagliala subito. Allinea i cambi di musica ai confini tra le inquadrature."
+},
+{
+"key": "feature_storyboard.html#216",
+"it": "<b>3<em>car./s</em></b>Ritmo della voce narrante in coreano"
+},
+{
+"key": "feature_storyboard.html#217",
+"it": "<b>35–45<em>car.</em></b>Tetto per un intero spot da 15 secondi"
+},
+{
+"key": "feature_storyboard.html#218",
+"it": "<b>150–180<em>car.</em></b>Tetto per un video da 1 minuto"
+},
+{
+"key": "feature_storyboard.html#219",
+"it": "<b>0,5<em>s</em></b>Dall’inizio dell’inquadratura alla prima sillaba"
+},
+{
+"key": "feature_storyboard.html#220",
+"it": "<small>DOPPIA PAGINA 09</small>Disegnare per la leggibilità – il set è buio e chi legge ha fretta"
+},
+{
+"key": "feature_storyboard.html#221",
+"it": "Disegnare per la leggibilità"
+},
+{
+"key": "feature_storyboard.html#222",
+"it": "<b>✕ Un riquadro illeggibile</b><span>Linee grigie sottili · frecce in quattro colori · testo minuscolo · niente numeri</span>"
+},
+{
+"key": "feature_storyboard.html#223",
+"it": "<span>CUT 02</span><span class=\"sc\">S#1 Caffè · Giorno · INT</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#224",
+"it": "MCU · EYE · 50 mm · DOLLY IN lento · CUT TO"
+},
+{
+"key": "feature_storyboard.html#225",
+"it": "Azione: prende il prodotto · sguardo sul prodotto"
+},
+{
+"key": "feature_storyboard.html#226",
+"it": "N La tua giornata inizia in un altro modo · SE tappo · M entra il piano"
+},
+{
+"key": "feature_storyboard.html#227",
+"it": "<b>○ Un riquadro leggibile da 3 m</b><span>Tre toni · frecce in un solo colore · numero e durata in grande · testo su due righe sotto il riquadro</span>"
+},
+{
+"key": "feature_storyboard.html#228",
+"it": "<b>Tavola SB-8</b> Stesse informazioni, leggibilità diversa. Uno storyboard non è fatto per un monitor: si appende a una parete del set e si legge da 3 m."
+},
+{
+"key": "feature_storyboard.html#229",
+"it": "<b>01</b><span><b>Disegna in tre toni.</b> Sfondo (chiaro), piano intermedio (medio), persone/prodotto (scuro). Tre valori mostrano la forma; cinque fanno un quadro – e uno storyboard non è un quadro.</span>"
+},
+{
+"key": "feature_storyboard.html#230",
+"it": "<b>02</b><span><b>Solo due spessori di linea.</b> Spessa per i contorni, sottile per i dettagli. Se tutte le linee hanno lo stesso spessore, niente viene avanti.</span>"
+},
+{
+"key": "feature_storyboard.html#231",
+"it": "<b>03</b><span><b>Un solo colore per le frecce; nero per i movimenti dei personaggi.</b> I movimenti di camera in un unico colore, bordeaux (o rosso). Oltre i tre colori, si comincia a cercare la legenda.</span>"
+},
+{
+"key": "feature_storyboard.html#232",
+"it": "<b>04</b><span><b>Numero e durata dell’inquadratura sono il testo più grande del riquadro.</b> Le parole più gridate sul set sono «quale inquadratura, quanti secondi».</span>"
+},
+{
+"key": "feature_storyboard.html#233",
+"it": "<b>05</b><span><b>Niente testo dentro il disegno.</b> Indica sottotitoli e loghi solo con un rettangolo tratteggiato. Tutto il testo va sotto il riquadro.</span>"
+},
+{
+"key": "feature_storyboard.html#234",
+"it": "<b>06</b><span><b>Due righe di informazioni sotto il riquadro.</b> Prima riga: le misure (SIZE · ANGLE · LENS · MOVE). Seconda riga: parole e suono (N · SYNC · M · SE). Una terza riga non la legge nessuno.</span>"
+},
+{
+"key": "feature_storyboard.html#235",
+"it": "<b>07</b><span><b>Testo di almeno 11 pt (su A4), 1/40 della larghezza del riquadro.</b> Disegna pensando che verrà ingrandito in A3 e appeso.</span>"
+},
+{
+"key": "feature_storyboard.html#236",
+"it": "<b>08</b><span><b>Dimensione della figura nel quadro = grandezza dell’inquadratura.</b> Se la figura cambia dimensione tra riquadri siglati MS, lo storyboard mente. Fatti un righello di sagome e usalo.</span>"
+},
+{
+"key": "feature_storyboard.html#237",
+"it": "<b>09</b><span><b>3–6 riquadri per riga, sinistra→destra, alto→basso.</b> Le disposizioni a zigzag o in verticale sul set vengono sempre lette nell’ordine sbagliato.</span>"
+},
+{
+"key": "feature_storyboard.html#238",
+"it": "<b>10</b><span><b>La legenda occupa il primo riquadro.</b> Formato (aspect ratio), risoluzione, chiave dei simboli, versione e data vanno nel riquadro uno. Appena circolano due versioni dello storyboard, le riprese sono perse.</span>"
+},
+{
+"key": "feature_storyboard.html#239",
+"it": "Buone indicazioni di recitazione"
+},
+{
+"key": "feature_storyboard.html#240",
+"it": "Separare l’azione (verbi) dall’emozione (aggettivi)"
+},
+{
+"key": "feature_storyboard.html#241",
+"it": "Scrivere il comportamento, non il risultato"
+},
+{
+"key": "feature_storyboard.html#242",
+"it": "Indicare sempre la direzione dello sguardo"
+},
+{
+"key": "feature_storyboard.html#243",
+"it": "Es. Solleva il prodotto e porta lo sguardo in camera"
+},
+{
+"key": "feature_storyboard.html#244",
+"it": "Es. Un respiro, poi alza solo gli angoli della bocca"
+},
+{
+"key": "feature_storyboard.html#245",
+"it": "Cattive indicazioni di recitazione"
+},
+{
+"key": "feature_storyboard.html#246",
+"it": "Mostrati felice (nessun criterio chiaro)"
+},
+{
+"key": "feature_storyboard.html#247",
+"it": "Sii naturale (l’indicazione più irresponsabile)"
+},
+{
+"key": "feature_storyboard.html#248",
+"it": "Non essere nervoso (indicazione in negativo)"
+},
+{
+"key": "feature_storyboard.html#249",
+"it": "Più sentimento (nessuno sa che cosa voglia dire)"
+},
+{
+"key": "feature_storyboard.html#250",
+"it": "Fai come ti viene (rinuncia a dirigere)"
+}
+]

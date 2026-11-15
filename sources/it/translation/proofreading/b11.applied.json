@@ -1,0 +1,5 @@
+[
+ {"key": "part09.html#956", "find": "Chiusura della PARTE 08–09", "replace": "Chiusura delle PARTI 08–09", "why": "grammar: singular with a range of two parts"},
+ {"key": "part10.html#241", "find": "da 1 a 3 giorni", "replace": "dal giorno stesso a 3 giorni", "why": "meaning: source says same day to 3 days"},
+ {"key": "part11.html#91", "find": "sono a livello", "replace": "sono all’altezza", "why": "other: unnatural phrasing"}
+]

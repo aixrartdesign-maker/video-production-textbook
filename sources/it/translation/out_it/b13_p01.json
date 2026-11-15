@@ -1,0 +1,602 @@
+[
+{
+"key": "part12.html#203",
+"it": "Tre approcci"
+},
+{
+"key": "part12.html#204",
+"it": "<small>Persona interamente generata</small>Qualcuno che non esiste, creato da zero"
+},
+{
+"key": "part12.html#205",
+"it": "Nessun nodo di diritti d’immagine, costi bassi"
+},
+{
+"key": "part12.html#206",
+"it": "Volto difficile da tenere tra le inquadrature"
+},
+{
+"key": "part12.html#207",
+"it": "Debole nelle sfumature del volto"
+},
+{
+"key": "part12.html#208",
+"it": "<small>Doppio digitale</small>La copia scansionata di un attore reale"
+},
+{
+"key": "part12.html#209",
+"it": "Scene pericolose, cambi d’età, correzioni senza rigirare"
+},
+{
+"key": "part12.html#210",
+"it": "Consenso dell’attore e contratto d’uso: obbligatori"
+},
+{
+"key": "part12.html#211",
+"it": "<small>Riprese dal vero + generazione parziale</small>Gira le persone, genera solo sfondi · oggetti di scena"
+},
+{
+"key": "part12.html#212",
+"it": "Oggi il più usato sui set pubblicitari"
+},
+{
+"key": "part12.html#213",
+"it": "Il più sicuro per qualità e diritti"
+},
+{
+"key": "part12.html#214",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part12.html#215",
+"it": "La migliore immagine di riferimento è una sola vista frontale, con luce piatta ed espressione neutra. Più i tratti sono particolari, più è difficile mantenerli."
+},
+{
+"key": "part12.html#216",
+"it": "Mantenere lo stesso volto"
+},
+{
+"key": "part12.html#217",
+"it": "Un volto che cambia da un’inquadratura all’altra è l’errore più comune. In pratica si crea prima il riferimento e a quello si adegua tutto il resto."
+},
+{
+"key": "part12.html#218",
+"it": "<b>01</b><i>Immagine di riferimento</i>Fissa prima un frontale"
+},
+{
+"key": "part12.html#219",
+"it": "<b>02</b><i>Riferimento in ingresso</i>Dai il riferimento a ogni generazione successiva; nel prompt cambia solo angolazione · luce · posa"
+},
+{
+"key": "part12.html#220",
+"it": "<b>03</b><i>Scheda personaggio</i>Fronte · profilo · tre quarti · figura intera su un foglio, come un model sheet d’animazione"
+},
+{
+"key": "part12.html#221",
+"it": "<b>04</b><i>Correzione in post</i>Chiudi gli scarti rimasti con compositing e correzione colore. Dalla generazione non aspettarti il 100%"
+},
+{
+"key": "part12.html#222",
+"it": "Diritti: quattro cose da verificare prima"
+},
+{
+"key": "part12.html#223",
+"it": "<b>01</b><span><b>Immagine</b> – usare volto · voce · gesti caratteristici di una persona reale richiede il suo consenso. Anche creare un sosia può essere un problema.</span>"
+},
+{
+"key": "part12.html#224",
+"it": "<b>02</b><span><b>Ambito</b> – specifica mezzi · durata · territorio · entità delle modifiche. Il «consenso alle riprese» e il «consenso all’addestramento e alla generazione con IA» sono voci distinte.</span>"
+},
+{
+"key": "part12.html#225",
+"it": "<b>03</b><span><b>Dichiarazione</b> – quando una persona generata è mostrata come reale, la scelta più sicura è segnalarlo, perché nessuno sia tratto in inganno.</span>"
+},
+{
+"key": "part12.html#226",
+"it": "<b>04</b><span><b>Documentazione</b> – conserva il modello usato, i prompt e le fonti delle immagini di riferimento. Le controversie di solito si aggravano quando non c’è traccia di nulla.</span>"
+},
+{
+"key": "part12.html#227",
+"it": "Gira dal vero ogni inquadratura che richiede un volto umano in primo piano. Spendere proprio lì il tempo che la generazione ti ha fatto risparmiare è l’affare migliore che farai.<small>11.4 Persone, doppi digitali, consenso</small>"
+},
+{
+"key": "part12.html#228",
+"it": "<small>Esercizio</small>11.4"
+},
+{
+"key": "part12.html#229",
+"it": "Compito"
+},
+{
+"key": "part12.html#230",
+"it": "Progetta una breve scena di 4 inquadrature con una sola persona. Crea un’immagine di riferimento, poi genera le altre 3 inquadrature dandola come riferimento in ingresso. Trova che cosa è cambiato in ciascuna e annotalo in una tabella."
+},
+{
+"key": "part12.html#231",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#232",
+"it": "Crea l’immagine di riferimento con luce piatta, espressione neutra e abiti semplici."
+},
+{
+"key": "part12.html#233",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#234",
+"it": "Le quattro inquadrature mostrano la stessa persona? Le differenze sono state individuate con precisione?"
+},
+{
+"key": "part12.html#235",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#236",
+"it": "Una relazione che annota le differenze per occhi · attaccatura dei capelli · scollatura e dice come ciascuna sarà uniformata in post-produzione."
+},
+{
+"key": "part12.html#237",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#238",
+"it": "Set, LED wall, sfondi generati"
+},
+{
+"key": "part12.html#239",
+"it": "Dai set ai LED wall, fino agli sfondi generati. In 100 anni il modo di fare gli sfondi è cambiato tre volte: costruirli o andarci, proiettare un’immagine alle spalle, comporli in post-produzione. Gli strumenti generativi hanno abbattuto il costo del terzo metodo e cambiato il modo di produrre il materiale per il secondo."
+},
+{
+"key": "part12.html#240",
+"it": "<span class=\"ph-id\">P12-SMALLLED</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>LED wall piccolo</b>Un piccolo studio con il solo conduttore davanti allo sfondo virtuale di un piccolo LED wall e una sola camera</span>"
+},
+{
+"key": "part12.html#241",
+"it": "<b>Nota</b>LED wall piccolo – il principio della grande produzione virtuale è arrivato negli studi a una camera"
+},
+{
+"key": "part12.html#242",
+"it": "Quattro opzioni e come scegliere"
+},
+{
+"key": "part12.html#243",
+"it": "Metodo"
+},
+{
+"key": "part12.html#244",
+"it": "Punti di forza"
+},
+{
+"key": "part12.html#245",
+"it": "Punti deboli"
+},
+{
+"key": "part12.html#246",
+"it": "Quando sceglierlo"
+},
+{
+"key": "part12.html#247",
+"it": "Location reale"
+},
+{
+"key": "part12.html#248",
+"it": "Luce e materia più credibili"
+},
+{
+"key": "part12.html#249",
+"it": "Meteo · permessi · costi di viaggio"
+},
+{
+"key": "part12.html#250",
+"it": "Se il marchio vende autenticità"
+},
+{
+"key": "part12.html#251",
+"it": "Set costruito"
+},
+{
+"key": "part12.html#252",
+"it": "Controllo totale"
+},
+{
+"key": "part12.html#253",
+"it": "Costi e tempi di costruzione"
+},
+{
+"key": "part12.html#254",
+"it": "Riprese ripetute, serie"
+},
+{
+"key": "part12.html#255",
+"it": "LED wall (produzione virtuale)"
+},
+{
+"key": "part12.html#256",
+"it": "Immagine finale verificata sul set; riflessi reali"
+},
+{
+"key": "part12.html#257",
+"it": "Costi di mezzi · pre-produzione, moiré"
+},
+{
+"key": "part12.html#258",
+"it": "Soggetti in cui contano i riflessi: auto · vetro · metallo"
+},
+{
+"key": "part12.html#259",
+"it": "Chroma key + sfondo generato"
+},
+{
+"key": "part12.html#260",
+"it": "Il più economico e rapido"
+},
+{
+"key": "part12.html#261",
+"it": "Bordi e raccordo di luce difficili"
+},
+{
+"key": "part12.html#262",
+"it": "Persone al centro, budget stretto"
+},
+{
+"key": "part12.html#263",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part12.html#264",
+"it": "L’ordine giusto: decidi lo sfondo prima delle riprese, poi imposta le luci secondo la sua direzione. Agli sfondi generati si adattano meglio le inquadrature fisse."
+},
+{
+"key": "part12.html#265",
+"it": "Quattro punti in cui uno sfondo generato si tradisce"
+},
+{
+"key": "part12.html#266",
+"it": "<small>Direzione della luce</small>Luce sulla persona, ombre nello sfondo"
+},
+{
+"key": "part12.html#267",
+"it": "Se non coincidono, si vede subito"
+},
+{
+"key": "part12.html#268",
+"it": "<small>Temperatura colore</small>Una persona in luce diurna su uno sfondo serale"
+},
+{
+"key": "part12.html#269",
+"it": "Stona anche con un compositing pulito"
+},
+{
+"key": "part12.html#270",
+"it": "<small>Prospettiva e obiettivo</small>Punto di fuga e angolo di campo"
+},
+{
+"key": "part12.html#271",
+"it": "Metti uno sfondo compresso dal tele dietro una persona ripresa col grandangolo e lo spazio si rompe"
+},
+{
+"key": "part12.html#272",
+"it": "<small>Movimento</small>Parallasse di camera"
+},
+{
+"key": "part12.html#273",
+"it": "Quando la camera si muove, lo sfondo deve muoversi con la parallasse corrispondente"
+},
+{
+"key": "part12.html#274",
+"it": "Portarsi via uno spazio intero"
+},
+{
+"key": "part12.html#275",
+"it": "Riprendere uno spazio reale con molte foto o clip, ricostruirlo come dati 3D e poi muovervi liberamente la camera è ormai pratica quotidiana. Alla fotogrammetria si sono aggiunti metodi che apprendono e riproducono perfino la luminosità dei raggi di luce: soggetti prima difficili da ricostruire, come vetro · metallo · fogliame, oggi sono alla portata. Riprendi un negozio per mezza giornata e tutti gli spot successivi si potranno girare in quello spazio: la ripresa stessa diventa un patrimonio."
+},
+{
+"key": "part12.html#276",
+"it": "Dire che lo sfondo lo deciderai dopo significa dire che la luce la deciderai dopo. Lo sfondo viene prima.<small>11.5 Set, LED wall, sfondi generati</small>"
+},
+{
+"key": "part12.html#277",
+"it": "<small>Esercizio</small>11.5"
+},
+{
+"key": "part12.html#278",
+"it": "Compito"
+},
+{
+"key": "part12.html#279",
+"it": "Prendi un’inquadratura di una persona e sostituisci lo sfondo in tre modi: ripresa in una location reale, chroma key + sfondo generato, fotomontaggio. Confronta in una tabella direzione della luce e temperatura colore nei tre casi."
+},
+{
+"key": "part12.html#280",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#281",
+"it": "Quando riprendi la persona, gira un ciak con una sfera grigia e una bianca nel quadro. Raccordare direzione della luce e temperatura colore diventa molto più facile."
+},
+{
+"key": "part12.html#282",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#283",
+"it": "Le differenze fra i tre metodi sono spiegate con il linguaggio della luce? È motivato quale metodo si adatta a questa scena?"
+},
+{
+"key": "part12.html#284",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#285",
+"it": "Un caso in cui si è scelto prima lo sfondo, si è illuminato secondo la sua luce e solo dopo si è girato: il compositing non ha richiesto quasi correzioni."
+},
+{
+"key": "part12.html#286",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#287",
+"it": "Elementi e particelle"
+},
+{
+"key": "part12.html#288",
+"it": "Perché la simulazione c’è ancora? I modelli generativi sono bravi nei «movimenti che hanno visto spesso», ma l’acqua che si versa, un tessuto che ricade e il fumo che si arriccia lungo una parete restano instabili. Sono il risultato di leggi fisiche, e un modello generativo non calcola leggi: produce immagini che sembrano simili."
+},
+{
+"key": "part12.html#289",
+"it": "<span class=\"ph-id\">P12-SIM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Perché la simulazione resta</b>Un monitor con il render di una simulazione di fluidi che schizzano e, accanto, il suo grafo di nodi</span>"
+},
+{
+"key": "part12.html#290",
+"it": "<b>Nota</b>Simulazione – cambi una variabile e ricalcoli; stesse impostazioni, stesso risultato"
+},
+{
+"key": "part12.html#291",
+"it": "In che cosa differiscono"
+},
+{
+"key": "part12.html#292",
+"it": "Aspetto"
+},
+{
+"key": "part12.html#293",
+"it": "Simulazione"
+},
+{
+"key": "part12.html#294",
+"it": "Modello generativo"
+},
+{
+"key": "part12.html#295",
+"it": "Come funziona"
+},
+{
+"key": "part12.html#296",
+"it": "Risolve equazioni fisiche"
+},
+{
+"key": "part12.html#297",
+"it": "Genera immagini somiglianti da schemi appresi"
+},
+{
+"key": "part12.html#298",
+"it": "Ripetibilità"
+},
+{
+"key": "part12.html#299",
+"it": "Stessi parametri, stesso risultato"
+},
+{
+"key": "part12.html#300",
+"it": "Ogni volta diverso"
+},
+{
+"key": "part12.html#301",
+"it": "Modifiche"
+},
+{
+"key": "part12.html#302",
+"it": "Cambi una variabile e ricalcoli"
+},
+{
+"key": "part12.html#303",
+"it": "Rigeneri tutto"
+},
+{
+"key": "part12.html#304",
+"it": "Fedeltà al prodotto"
+},
+{
+"key": "part12.html#305",
+"it": "Mantiene la forma esatta del prodotto"
+},
+{
+"key": "part12.html#306",
+"it": "La forma cambia a poco a poco"
+},
+{
+"key": "part12.html#307",
+"it": "Tempo"
+},
+{
+"key": "part12.html#308",
+"it": "Setup lungo, calcolo lungo"
+},
+{
+"key": "part12.html#309",
+"it": "Da decine di secondi a minuti"
+},
+{
+"key": "part12.html#310",
+"it": "Adatto a"
+},
+{
+"key": "part12.html#311",
+"it": "Liquidi · tessuti · detriti · urti"
+},
+{
+"key": "part12.html#312",
+"it": "Atmosfera, fumo, polvere, elementi di sfondo"
+},
+{
+"key": "part12.html#313",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part12.html#314",
+"it": "Gli elementi di marca non si possono deformare. In un’inquadratura in cui una bibita viene versata nel bicchiere, se l’etichetta si deforma anche per un solo fotogramma l’inquadratura è inutilizzabile."
+},
+{
+"key": "part12.html#315",
+"it": "Quando allo spot serve davvero la simulazione"
+},
+{
+"key": "part12.html#316",
+"it": "<b>Quando il protagonista è il prodotto</b> – non è ammessa alcuna deformazione di etichetta o forma."
+},
+{
+"key": "part12.html#317",
+"it": "<b>Consegne ripetute</b> – quando una scena esce in versioni per molti paesi, un risultato ogni volta diverso significa nessun controllo."
+},
+{
+"key": "part12.html#318",
+"it": "<b>Tempi esatti</b> – una richiesta come «la goccia cade a 0,4 secondi, a tempo con la musica» si soddisfa solo con il calcolo."
+},
+{
+"key": "part12.html#319",
+"it": "Modi realistici di combinarle"
+},
+{
+"key": "part12.html#320",
+"it": "<small>Dividere in livelli</small>Calcola il prodotto, genera lo sfondo"
+},
+{
+"key": "part12.html#321",
+"it": "Simula il prodotto e la fisica principale"
+},
+{
+"key": "part12.html#322",
+"it": "Genera polvere · foschia · aloni di luce dello sfondo e componili"
+},
+{
+"key": "part12.html#323",
+"it": "<small>Il generato come elemento</small>Non consegnare l’intero fotogramma"
+},
+{
+"key": "part12.html#324",
+"it": "Esporta fumo o fuoco generati come elementi per il compositing"
+},
+{
+"key": "part12.html#325",
+"it": "<small>Genera il concept, calcola il definitivo</small>Separa la presentazione dal definitivo"
+},
+{
+"key": "part12.html#326",
+"it": "Bozze di presentazione rapide, generate"
+},
+{
+"key": "part12.html#327",
+"it": "Dopo l’approvazione, rifai il definitivo in simulazione"
+},
+{
+"key": "part12.html#328",
+"it": "Se a schermo c’è il logo di un marchio o la forma del prodotto, non affidare quella parte alla generazione. Il resto sì.<small>11.6 Elementi e particelle</small>"
+},
+{
+"key": "part12.html#329",
+"it": "<small>Esercizio</small>11.6"
+},
+{
+"key": "part12.html#330",
+"it": "Compito"
+},
+{
+"key": "part12.html#331",
+"it": "Realizza in due modi un’inquadratura di 3 secondi con dell’acqua versata in una tazza e confrontale: una girata dal vero o simulata, una generata. Valuta in una tabella deformazione dell’etichetta, precisione dei tempi e ripetibilità."
+},
+{
+"key": "part12.html#332",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#333",
+"it": "Per la versione generata, lancia lo stesso prompt cinque volte. La differenza di ripetibilità salta subito all’occhio."
+},
+{
+"key": "part12.html#334",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#335",
+"it": "I criteri sono registrati come numeri o osservazioni? C’è una conclusione su quale metodo si adatta a quale situazione?"
+},
+{
+"key": "part12.html#336",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#337",
+"it": "Un’immagine di confronto con i cinque risultati generati affiancati e la deformazione dell’etichetta evidenziata."
+},
+{
+"key": "part12.html#338",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#339",
+"it": "Produzione tradizionale e produzione con IA"
+},
+{
+"key": "part12.html#340",
+"it": "Che cosa va dove? Le due non sono rivali, ma strumenti per lavori diversi. Sul set la domanda non è «quale è migliore» ma «quale si adatta a questa inquadratura»."
+},
+{
+"key": "part12.html#341",
+"it": "Criterio"
+},
+{
+"key": "part12.html#342",
+"it": "Meglio tradizionale"
+},
+{
+"key": "part12.html#343",
+"it": "Meglio IA"
+},
+{
+"key": "part12.html#344",
+"it": "Prodotto grande a schermo"
+},
+{
+"key": "part12.html#345",
+"it": "Forma e logo restano intatti"
+},
+{
+"key": "part12.html#346",
+"it": "Rischio di deformazione"
+},
+{
+"key": "part12.html#347",
+"it": "Stesso risultato più volte"
+},
+{
+"key": "part12.html#348",
+"it": "Stessi parametri, stesso risultato"
+},
+{
+"key": "part12.html#349",
+"it": "Cambia ogni volta"
+},
+{
+"key": "part12.html#350",
+"it": "Confronto di molte bozze"
+},
+{
+"key": "part12.html#351",
+"it": "Giorni per immagine"
+},
+{
+"key": "part12.html#352",
+"it": "Decine in 30 minuti"
+}
+]

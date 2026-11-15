@@ -1,0 +1,542 @@
+[
+{
+"key": "feature_lighting.html#126",
+"it": "<small>DOPPIA PAGINA 03</small>Strumenti che cambiano la luce – dimensione · distanza · direzione · intensità · colore, cinque manopole"
+},
+{
+"key": "feature_lighting.html#127",
+"it": "Morbidezza = dimensione apparente della sorgente"
+},
+{
+"key": "feature_lighting.html#128",
+"it": "<b>A sinistra dura · a destra morbida</b><span>Stesso volto, stessa esposizione. A sinistra una lampadina nuda; a destra un softbox da 2 m</span>"
+},
+{
+"key": "feature_lighting.html#129",
+"it": "Sorgente piccola · lontana → dura"
+},
+{
+"key": "feature_lighting.html#130",
+"it": "Bordo dell’ombra affilato"
+},
+{
+"key": "feature_lighting.html#131",
+"it": "Sorgente grande · vicina → morbida"
+},
+{
+"key": "feature_lighting.html#132",
+"it": "L’ombra si allarga e svanisce"
+},
+{
+"key": "feature_lighting.html#133",
+"it": "<b>Che cosa separa la luce dura dalla morbida</b><span>Non il tipo di lampada, ma la <b>dimensione</b> della sorgente vista dal soggetto. Ingrandiscila (diffusione · rimbalzo) o avvicinala, e si ammorbidisce</span>"
+},
+{
+"key": "feature_lighting.html#134",
+"it": "<b>Modificatori – che cosa controlla ciascuno</b><span>Softbox · diffusore → dimensione (morbidezza)</span><span>Rimbalzo (soffitto · parete · polistirolo) → dimensione + direzione</span><span>Griglia · alette → tagliano la dispersione</span><span>Bandiera → blocca la luce</span><span>Gelatina (CTO · CTB) → colore</span><span>ND → solo luminosità</span>"
+},
+{
+"key": "feature_lighting.html#135",
+"it": "<b>Tavola LT-3</b> Luce dura e morbida – dipendono dalla «dimensione apparente» della sorgente e dalla distanza. I modificatori sono le manopole che cambiano queste due cose."
+},
+{
+"key": "feature_lighting.html#136",
+"it": "<b>2<em>x</em></b>Distanza → 1/4 di luminosità (−2 stop)"
+},
+{
+"key": "feature_lighting.html#137",
+"it": "<b>216<em>/ 250</em></b>Diffusione piena / mezza – ca. −1,5 / −0,8 stop"
+},
+{
+"key": "feature_lighting.html#138",
+"it": "<b>5600<em>K</em></b>Luce diurna · <b>3200<em>K</em></b>tungsteno · CTO = 5600→3200"
+},
+{
+"key": "feature_lighting.html#139",
+"it": "<b>1<em> sola</em></b>Direzione delle ombre per inquadratura"
+},
+{
+"key": "feature_lighting.html#140",
+"it": "<small>DOPPIA PAGINA 04</small>Otto schemi di luce – imparali come piante dall’alto"
+},
+{
+"key": "feature_lighting.html#141",
+"it": "Otto schemi – visti dall’alto"
+},
+{
+"key": "feature_lighting.html#142",
+"it": "<b>01 Tre punti base</b><span>Chiave a 45° + riempimento + controluce · da qui partono le interviste</span>"
+},
+{
+"key": "feature_lighting.html#143",
+"it": "<b>02 Rembrandt</b><span>Chiave a 45° in alto + pannello nero · triangolo di luce sulla guancia</span>"
+},
+{
+"key": "feature_lighting.html#144",
+"it": "<b>03 Butterfly</b><span>Chiave frontale dall’alto + riflettente sotto il mento · beauty</span>"
+},
+{
+"key": "feature_lighting.html#145",
+"it": "<b>04 Split</b><span>Una chiave a 90° · volto diviso a metà</span>"
+},
+{
+"key": "feature_lighting.html#146",
+"it": "<b>05 Loop</b><span>Chiave a 35° + riempimento debole · la scelta più sicura</span>"
+},
+{
+"key": "feature_lighting.html#147",
+"it": "<b>06 Book light</b><span>Chiave → rimbalzo → diffusione · la luce più morbida</span>"
+},
+{
+"key": "feature_lighting.html#148",
+"it": "<b>07 Controluce · taglio</b><span>Due lampade dietro, ai due lati + rimbalzo frontale · solo il contorno</span>"
+},
+{
+"key": "feature_lighting.html#149",
+"it": "<b>08 Luce dall’alto per prodotto</b><span>Grande luce morbida sopra + strip dietro + pannelli bianchi ai due lati</span>"
+},
+{
+"key": "feature_lighting.html#150",
+"it": "<b>Tavola LT-4</b> Otto schemi di luce – stesso studio e stesso soggetto nello stesso punto; in questa scena 3D cambia solo la posizione delle lampade. In foto li ricordi come «atmosfera»; in pianta, come «angoli»."
+},
+{
+"key": "feature_lighting.html#151",
+"it": "<small>DOPPIA PAGINA 05</small>La luce nel software – quattro luci 3D di After Effects e strumenti per effetti di luce"
+},
+{
+"key": "feature_lighting.html#152",
+"it": "Le luci 3D di After Effects sono un modello in scala dell’illuminazione sul set. Usano lo stesso vocabolario (spot · point · ambient) e controllano le stesse proprietà (intensità · colore · angolo del cono · decadimento · ombra). Se sai gestire la luce sul set, nel software prenderai le stesse decisioni."
+},
+{
+"key": "feature_lighting.html#153",
+"it": "La luce nel software – quattro luci"
+},
+{
+"key": "feature_lighting.html#154",
+"it": "<b>Parallel</b><span class=\"deg\">Sul set · sole · HMI</span><span>Parallela e uniforme: tutte le ombre cadono nello stesso verso, a qualsiasi distanza</span>"
+},
+{
+"key": "feature_lighting.html#155",
+"it": "<b>Spot</b><span class=\"deg\">Sul set · Fresnel · softbox</span><span>A cono: la luce chiave predefinita. Cone Angle · Feather · Falloff</span>"
+},
+{
+"key": "feature_lighting.html#156",
+"it": "<b>Point</b><span class=\"deg\">Sul set · lampadina · candela · tubo</span><span>In ogni direzione: cala con la distanza (Falloff)</span>"
+},
+{
+"key": "feature_lighting.html#157",
+"it": "<b>Ambient</b><span class=\"deg\">Sul set · rimbalzo a soffitto · giornata coperta</span><span>Livello base senza ombre: solo 10–30%; oltre, l’immagine si appiattisce</span>"
+},
+{
+"key": "feature_lighting.html#158",
+"it": "<b>Ordine di impostazione</b><span>① Ambient al 10–20% come livello base</span><span>② Uno Spot come luce chiave (Shadow on)</span><span>③ Point o Spot debole come riempimento (Shadow off)</span><span>④ Spot da dietro come luce di taglio</span><span>⑤ Opzioni materiale: Accepts Shadows · Casts Shadows</span>"
+},
+{
+"key": "feature_lighting.html#159",
+"it": "<b>Tavola LT-5</b> Quattro luci 3D di After Effects e i loro equivalenti sul set – la stessa sfera e lo stesso cubo, illuminati da ciascuna delle quattro luci da sola. La luce nel software è un modello in scala di quella del set."
+},
+{
+"key": "feature_lighting.html#160",
+"it": "Lavoro sul set"
+},
+{
+"key": "feature_lighting.html#161",
+"it": "After Effects"
+},
+{
+"key": "feature_lighting.html#162",
+"it": "Premiere Pro / Resolve"
+},
+{
+"key": "feature_lighting.html#163",
+"it": "Parametri chiave · consigli"
+},
+{
+"key": "feature_lighting.html#164",
+"it": "Illuminare un solo punto con uno spot"
+},
+{
+"key": "feature_lighting.html#165",
+"it": "3D Spot Light · oppure un Solid bianco con Mask + Feather, fusione Add/Overlay"
+},
+{
+"key": "feature_lighting.html#166",
+"it": "Lumetri Vignette (invertita) · Curves con maschera"
+},
+{
+"key": "feature_lighting.html#167",
+"it": "Mask Feather 200+ · opacità 20–40% · un tocco di colore sul bordo (caldo)"
+},
+{
+"key": "feature_lighting.html#168",
+"it": "Motivi gobo: sbarre di finestra · foglie"
+},
+{
+"key": "feature_lighting.html#169",
+"it": "Fractal Noise → Levels → Track Matte / Light Transmission"
+},
+{
+"key": "feature_lighting.html#170",
+"it": "2 Lumetri con maschera (chiaro/scuro)"
+},
+{
+"key": "feature_lighting.html#171",
+"it": "Anima lentamente Evolution per «ombre che ondeggiano al vento»"
+},
+{
+"key": "feature_lighting.html#172",
+"it": "Controluce di taglio · bloom"
+},
+{
+"key": "feature_lighting.html#173",
+"it": "Light Wrap (con Keylight) · Glow (Threshold 70–85) · CC Light Rays"
+},
+{
+"key": "feature_lighting.html#174",
+"it": "Lumetri Highlights↑ + Glow (plug-in)"
+},
+{
+"key": "feature_lighting.html#175",
+"it": "In Glow imposta Composite Original su «Behind» per un effetto discreto · posiziona Light Rays sulla sorgente"
+},
+{
+"key": "feature_lighting.html#176",
+"it": "Lens flare (riflessi)"
+},
+{
+"key": "feature_lighting.html#177",
+"it": "Lens Flare (integrato) · Optical Flares (plug-in) · CC Light Burst 2.5"
+},
+{
+"key": "feature_lighting.html#178",
+"it": "Lens Flare (integrato)"
+},
+{
+"key": "feature_lighting.html#179",
+"it": "Collega la posizione della sorgente ai dati di tracking · luminosità 60–80% · fusione Screen"
+},
+{
+"key": "feature_lighting.html#180",
+"it": "Far scorrere una luce su un logo"
+},
+{
+"key": "feature_lighting.html#181",
+"it": "CC Light Sweep · Shine(Trapcode)"
+},
+{
+"key": "feature_lighting.html#182",
+"it": "Light Sweep (Legacy) · animazione di maschera"
+},
+{
+"key": "feature_lighting.html#183",
+"it": "Width 30–60 · Sweep Intensity 20–40 · una volta entro 1 secondo, mai due"
+},
+{
+"key": "feature_lighting.html#184",
+"it": "Proiettare un’ombra (compositing)"
+},
+{
+"key": "feature_lighting.html#185",
+"it": "Drop Shadow(2D) · Radial Shadow · 3D Light Casts Shadows · Shadow Catcher"
+},
+{
+"key": "feature_lighting.html#186",
+"it": "Drop Shadow (integrato)"
+},
+{
+"key": "feature_lighting.html#187",
+"it": "Softness 20–40 · Opacity 40–60 · direzione uguale a quella della luce chiave"
+},
+{
+"key": "feature_lighting.html#188",
+"it": "Rifinire esposizione · contrasto generali"
+},
+{
+"key": "feature_lighting.html#189",
+"it": "Lumetri Color · Curves · Exposure · Levels"
+},
+{
+"key": "feature_lighting.html#190",
+"it": "Lumetri Basic: Exposure · Contrast · Highlights · Shadows · Whites · Blacks"
+},
+{
+"key": "feature_lighting.html#191",
+"it": "Ordine: esposizione → WB → contrasto → alte luci/ombre → solo dopo il look"
+},
+{
+"key": "feature_lighting.html#192",
+"it": "Riempimento negativo (scurire)"
+},
+{
+"key": "feature_lighting.html#193",
+"it": "Solid nero + Mask + Multiply · Vignette"
+},
+{
+"key": "feature_lighting.html#194",
+"it": "Lumetri Vignette Amount da −1 a −2 · Curves con maschera"
+},
+{
+"key": "feature_lighting.html#195",
+"it": "Scurisci i bordi di 1 stop e l’occhio va al centro"
+},
+{
+"key": "feature_lighting.html#196",
+"it": "Gelatina di conversione colore"
+},
+{
+"key": "feature_lighting.html#197",
+"it": "Tint · Color Balance · Lumetri Temperature"
+},
+{
+"key": "feature_lighting.html#198",
+"it": "Lumetri Temperature / Tint"
+},
+{
+"key": "feature_lighting.html#199",
+"it": "Look CTO: Temperature +10–20 · alte luci calde/ombre fredde con Color Wheels"
+},
+{
+"key": "feature_lighting.html#200",
+"it": "Tremolio di luce di scena · candela"
+},
+{
+"key": "feature_lighting.html#201",
+"it": "Espressione wiggle(4, 20) su Intensity della Point Light"
+},
+{
+"key": "feature_lighting.html#202",
+"it": "Keyframe di opacità · plug-in"
+},
+{
+"key": "feature_lighting.html#203",
+"it": "Frequenza 2–5 Hz, ampiezza 10–20%: oltre, sembra un neon guasto"
+},
+{
+"key": "feature_lighting.html#204",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "feature_lighting.html#205",
+"it": "La luce del software «si aggiunge» a quella del set; non la «crea». Fissa bene in ripresa l’unica direzione delle ombre e in post-produzione potrai sovrapporre qualsiasi cosa."
+},
+{
+"key": "feature_lighting.html#206",
+"it": "I nomi cambiano (versioni · plug-in). Non cambiano l’ordine <b>intensità → direzione → dimensione → colore</b> e la regola che la direzione delle ombre è una sola."
+},
+{
+"key": "feature_lighting.html#207",
+"it": "<small>DOPPIA PAGINA 06</small>Promemoria luci per il set – un ordine che chiude l’allestimento in 10 minuti"
+},
+{
+"key": "feature_lighting.html#208",
+"it": "<b>01</b><i>Spegni</i>Spegni ogni neon · luce parassita della stanza. Parti dal buio."
+},
+{
+"key": "feature_lighting.html#209",
+"it": "<b>02</b><i>Una chiave</i>Chiave a 45°/45° rispetto al soggetto. Esponi per la chiave (base: f/2,8, ISO 800)."
+},
+{
+"key": "feature_lighting.html#210",
+"it": "<b>03</b><i>Riempi</i>Un riflettente sul lato opposto, o una luce morbida a 1/3 dell’intensità. Qui si decide il rapporto di contrasto."
+},
+{
+"key": "feature_lighting.html#211",
+"it": "<b>04</b><i>Stacca</i>Controluce/luce di taglio o luce di sfondo. Sfondo 1 stop più scuro del soggetto."
+},
+{
+"key": "feature_lighting.html#212",
+"it": "<b>05</b><i>Colore · ordine</i>Uniforma la temperatura colore, taglia la dispersione con alette · bandiere, sicurezza (sacchi di sabbia · cavi)."
+},
+{
+"key": "feature_lighting.html#213",
+"it": "<small>Contrasto</small>Chiave : riempimento"
+},
+{
+"key": "feature_lighting.html#214",
+"it": "2:1 (1 stop) – luminoso, pubblicità, beauty"
+},
+{
+"key": "feature_lighting.html#215",
+"it": "4:1 (2 stop) – fiction standard, interviste"
+},
+{
+"key": "feature_lighting.html#216",
+"it": "8:1 o più (3+ stop) – noir, thriller"
+},
+{
+"key": "feature_lighting.html#217",
+"it": "Senza riempimento – silhouette, split"
+},
+{
+"key": "feature_lighting.html#218",
+"it": "<small>Temperatura colore</small>Se mescoli, fallo apposta"
+},
+{
+"key": "feature_lighting.html#219",
+"it": "Luce diurna 5600 K · tungsteno 3200 K · fluorescente 4000–4500 K"
+},
+{
+"key": "feature_lighting.html#220",
+"it": "Finestra + tungsteno → CTO sulla finestra o CTB sulla lampada"
+},
+{
+"key": "feature_lighting.html#221",
+"it": "Mescola in un solo verso: «finestra=fredda, interno=caldo»"
+},
+{
+"key": "feature_lighting.html#222",
+"it": "Imposta il WB della camera sulla luce chiave"
+},
+{
+"key": "feature_lighting.html#223",
+"it": "<small>Sicurezza</small>Gli incidenti partono dalle luci"
+},
+{
+"key": "feature_lighting.html#224",
+"it": "Un sacco di sabbia su ogni stativo, cavi fissati a terra con il nastro"
+},
+{
+"key": "feature_lighting.html#225",
+"it": "Niente gelatine · tessuti entro 30 cm dal tungsteno (incendio)"
+},
+{
+"key": "feature_lighting.html#226",
+"it": "Somma i carichi: 1 circuito domestico ≈ 3 kW"
+},
+{
+"key": "feature_lighting.html#227",
+"it": "Oltre i 2 m si lavora in 2"
+},
+{
+"key": "feature_lighting.html#228",
+"it": "Sintomo"
+},
+{
+"key": "feature_lighting.html#229",
+"it": "Causa"
+},
+{
+"key": "feature_lighting.html#230",
+"it": "Rimedio"
+},
+{
+"key": "feature_lighting.html#231",
+"it": "Volto piatto"
+},
+{
+"key": "feature_lighting.html#232",
+"it": "Chiave troppo vicina all’asse della camera, o troppa luce ambiente"
+},
+{
+"key": "feature_lighting.html#233",
+"it": "Sposta la chiave di 30° di lato · in alto, elimina la luce parassita, riempimento negativo"
+},
+{
+"key": "feature_lighting.html#234",
+"it": "Due ombre"
+},
+{
+"key": "feature_lighting.html#235",
+"it": "Chiave e riempimento entrambi duri"
+},
+{
+"key": "feature_lighting.html#236",
+"it": "Rendi morbido il riempimento (rimbalzo), a 1/3 dell’intensità"
+},
+{
+"key": "feature_lighting.html#237",
+"it": "Pelle lucida"
+},
+{
+"key": "feature_lighting.html#238",
+"it": "Sorgente piccola e dura, frontale"
+},
+{
+"key": "feature_lighting.html#239",
+"it": "Diffusore · softbox, cipria, alza l’angolo"
+},
+{
+"key": "feature_lighting.html#240",
+"it": "Sfondo luminoso quanto il soggetto"
+},
+{
+"key": "feature_lighting.html#241",
+"it": "Il flood arriva allo sfondo"
+},
+{
+"key": "feature_lighting.html#242",
+"it": "Alette · bandiere, avvicina la chiave al soggetto (inverso del quadrato)"
+},
+{
+"key": "feature_lighting.html#243",
+"it": "Riflessi sugli occhiali"
+},
+{
+"key": "feature_lighting.html#244",
+"it": "Sorgente frontale ad altezza occhi"
+},
+{
+"key": "feature_lighting.html#245",
+"it": "Chiave più alta e di lato; solleva un po’ le stanghette"
+},
+{
+"key": "feature_lighting.html#246",
+"it": "Dominante verde"
+},
+{
+"key": "feature_lighting.html#247",
+"it": "Neon mescolati alle altre luci"
+},
+{
+"key": "feature_lighting.html#248",
+"it": "Spegni i neon, oppure imposta il WB su fluorescente e metti una gelatina plus-green sulla chiave"
+},
+{
+"key": "feature_lighting.html#249",
+"it": "Flicker"
+},
+{
+"key": "feature_lighting.html#250",
+"it": "Otturatore non in sincrono con LED · HMI"
+},
+{
+"key": "feature_lighting.html#251",
+"it": "Otturatore a 1/50 (50 Hz), proiettori flicker-free, ripresa di prova"
+},
+{
+"key": "feature_lighting.html#252",
+"it": "<small>Esercizio</small>4.7+"
+},
+{
+"key": "feature_lighting.html#253",
+"it": "Compito"
+},
+{
+"key": "feature_lighting.html#254",
+"it": "Tieni lo stesso soggetto · lo stesso punto e gira un’inquadratura per ciascuna di cinque luci: pinspot / spot / flood / soft / ambient. Disegna per ognuna una pianta luci (vista dall’alto). Ricreane una in After Effects con le luci 3D Spot · Point · Ambient."
+},
+{
+"key": "feature_lighting.html#255",
+"it": "Consiglio"
+},
+{
+"key": "feature_lighting.html#256",
+"it": "Niente attrezzatura? Sostituisci con una torcia (pinspot), una lampada da tavolo (spot), una finestra (soft) e una giornata coperta (ambient). Conta vedere con i tuoi occhi come cambia il bordo delle ombre."
+},
+{
+"key": "feature_lighting.html#257",
+"it": "Valutazione"
+},
+{
+"key": "feature_lighting.html#258",
+"it": "Differenza nei bordi delle ombre tra le cinque inquadrature, angoli indicati nelle piante, direzione delle ombre coerente nella ricostruzione software"
+},
+{
+"key": "feature_lighting.html#259",
+"it": "Risposta modello"
+},
+{
+"key": "feature_lighting.html#260",
+"it": "Affianca le cinque inquadrature in un’unica schermata e descrivi ciascuna con una frase: a quale emozione si addice quella luce."
+}
+]

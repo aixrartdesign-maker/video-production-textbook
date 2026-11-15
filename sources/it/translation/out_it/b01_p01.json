@@ -1,0 +1,602 @@
+[
+{
+"key": "part00.html#0",
+"it": "Colophon"
+},
+{
+"key": "part00.html#1",
+"it": "Titolo"
+},
+{
+"key": "part00.html#2",
+"it": "Produzione video: manuale pratico – 13 capitoli per l’aula e per il set"
+},
+{
+"key": "part00.html#3",
+"it": "Autrice"
+},
+{
+"key": "part00.html#4",
+"it": "Jia Ahn"
+},
+{
+"key": "part00.html#5",
+"it": "Edizione"
+},
+{
+"key": "part00.html#6",
+"it": "Prima edizione"
+},
+{
+"key": "part00.html#7",
+"it": "Contenuto"
+},
+{
+"key": "part00.html#8",
+"it": "13 capitoli · 23 letture di contesto · 91 diagrammi · 24 tavole esplicative · 56 disegni di figura · 29 disegni di attrezzatura · 135 foto di riferimento · 170 esercizi di sezione"
+},
+{
+"key": "part00.html#9",
+"it": "Uso"
+},
+{
+"key": "part00.html#10",
+"it": "Manuale universitario, formazione professionale, consultazione per professionisti"
+},
+{
+"key": "part00.html#11",
+"it": "Prezzo"
+},
+{
+"key": "part00.html#12",
+"it": "25.000 KRW"
+},
+{
+"key": "part00.html#13",
+"it": "Tutti i diagrammi di questo libro sono stati progettati dall’autrice. I disegni di figura e di attrezzatura, le tavole esplicative e le foto di riferimento sono stati realizzati con modelli generativi di immagini; le condizioni di generazione sono riportate nell’Appendice S. Le foto di riferimento nel testo sono immagini di messa in scena create con l’IA generativa, non fotografie di persone reali o di opere specifiche. Registi e case di produzione sono citati al solo scopo di analizzarne la tecnica."
+},
+{
+"key": "part00.html#14",
+"it": "L’autrice"
+},
+{
+"key": "part00.html#15",
+"it": "Jia Ahn <small>AHN JIA</small>"
+},
+{
+"key": "part00.html#16",
+"it": "Nata in Germania. Laurea, laurea magistrale e dottorato in Media Design all’Università femminile Ewha; ha completato il Global Executive Program dell’Università nazionale di Seul."
+},
+{
+"key": "part00.html#17",
+"it": "Oggi"
+},
+{
+"key": "part00.html#18",
+"it": "Professoressa assistente, Dip. di Contenuti video e media, Università Kyungbok · Direttrice, Centro di design per le PR"
+},
+{
+"key": "part00.html#19",
+"it": "Già"
+},
+{
+"key": "part00.html#20",
+"it": "Designer d’immagine, team PR, ufficio stampa del Comune di Seongnam"
+},
+{
+"key": "part00.html#21",
+"it": "Già"
+},
+{
+"key": "part00.html#22",
+"it": "CEO, Doshim Co., Ltd."
+},
+{
+"key": "part00.html#23",
+"it": "<b>Libri</b> <i>What Is UX?</i> · <i>ChatGPT in the Classroom: code &amp; play</i> &nbsp;<b>Albi illustrati</b> <i>The Robot That Wakes the Brain</i> · <i>From Soil to AI</i> · <i>Dreams with Sion</i> · <i>Why Do We Wear Masks?</i>"
+},
+{
+"key": "part00.html#24",
+"it": "Prefazione – perché questo libro, perché adesso"
+},
+{
+"key": "part00.html#25",
+"it": "Nel 2026 l’ambiente della produzione video è più ricco di dieci anni fa sotto ogni aspetto. Il dispositivo che hai in tasca gira in 4K, i software di montaggio gratuiti danno risultati professionali e bastano poche frasi per evocare scene mai esistite. A chi impara, oggi, non servono né attrezzature né informazioni. Serve un ordine."
+},
+{
+"key": "part00.html#26",
+"it": "Ed è proprio qui che comincia il problema. Quando le informazioni sono disperse senza limiti, chi impara non sa da dove partire. Affronta il color grading prima del diaframma e scarica effetti di transizione prima di aver capito il taglio. Più strumenti, meno lavori finiti: il paradosso nasce da qui. La ricerca ti dà le conoscenze, ma non la loro disposizione."
+},
+{
+"key": "part00.html#27",
+"it": "L’IA generativa ha allargato il divario. L’asticella del risultato si è abbassata; quella del giudizio si è alzata. La vecchia tesi secondo cui strumenti più potenti accrescono il valore di chi conosce i principi non è mai stata confermata con tanta chiarezza."
+},
+{
+"key": "part00.html#28",
+"it": "Questo libro prova a offrire quella disposizione. Da che cos’è il video, attraverso linguaggio, tecnica e pianificazione, fino a media, mercato e carriera, traccia un unico percorso da seguire dall’inizio alla fine. Ogni parte è autonoma, così puoi cominciare dal mezzo; lette in ordine, formano un unico racconto."
+},
+{
+"key": "part00.html#29",
+"it": "Allo stesso tempo, questo libro è decisamente pratico. Dopo aver spiegato perché il tempo di posa è fisso, il capitolo fornisce i preset per modello di camera; dopo aver spiegato che cos’è uno storyboard, fornisce l’intero sistema di notazione e i modelli in bianco. Principio ed esecuzione, imparati separatamente, valgono la metà. Tabelle e checklist non sono qui per essere lette, ma per essere aperte sul set."
+},
+{
+"key": "part00.html#30",
+"it": "Infine, al lavoro è dedicata una parte intera. Quasi tutti quelli che prendono in mano questo libro vogliono vivere di video. Sapere quali aziende assumono chi, che cosa deve dimostrare un portfolio e come superare i primi tre mesi è anch’essa una competenza. Un manuale che non la insegna è onesto solo a metà."
+},
+{
+"key": "part00.html#31",
+"it": "Nota dell’autrice – costruire un modello per l’insegnamento"
+},
+{
+"key": "part00.html#32",
+"it": "La produzione video è cresciuta come industria prima di affermarsi come disciplina. Il settore ha accumulato un enorme patrimonio di pratica, ma i testi che lo organizzano in un sistema sono rari. Le riprese stanno nei manuali delle camere, il montaggio nelle guide dei software, la carriera nei materiali per chi cerca lavoro, e chi impara deve cucire i pezzi da solo. Questa cucitura è più difficile proprio per il principiante, perché sapere che cosa imparare per primo richiede già conoscenze notevoli."
+},
+{
+"key": "part00.html#33",
+"it": "Per chi insegna non è diverso. In un campo senza un manuale di riferimento, le lezioni dipendono dall’esperienza personale. L’esperienza è viva, ma non riproducibile. La riproducibilità è il requisito minimo della didattica, e comincia da un testo condiviso."
+},
+{
+"key": "part00.html#34",
+"it": "Questo libro prova a scrivere quel testo, una volta. L’obiettivo non è un canone definitivo, ma un pavimento su cui possano poggiare revisioni e obiezioni future. Per questo i contenuti sono stati scelti con un solo criterio: varrà ancora fra cinque anni? La posizione dei menu di un certo software e le specifiche di una certa camera compaiono il meno possibile; le pagine sono dedicate all’ordine delle decisioni. Gli strumenti si sostituiscono; l’ordine no."
+},
+{
+"key": "part00.html#35",
+"it": "La struttura presuppone sia chi impara per la prima volta sia chi insegna. Ogni parte si apre con un’introduzione narrativa che dà il contesto, dispone le conoscenze voce per voce e si chiude con un riepilogo in una pagina pronto per l’aula. Tutte le tavole sono monocromatiche: una scelta pratica, perché nulla vada perso nelle fotocopie in bianco e nero o sui proiettori a bassa risoluzione."
+},
+{
+"key": "part00.html#36",
+"it": "Lo stesso motivo guida la parte sull’IA generativa, incentrata su che cosa collocare in quale punto della pipeline più che sul funzionamento dei singoli servizi. Gli strumenti vivono poco; le strutture a lungo. In un ambiente in cui chiunque può creare un’immagine plausibile, alla didattica spetta non la trasmissione di funzioni, ma l’allenamento del giudizio."
+},
+{
+"key": "part00.html#37",
+"it": "Una parola sul trattamento degli esempi. Questo libro non riproduce alcun fotogramma di opere esistenti. Tutti i diagrammi sono stati progettati da zero; i disegni di figura e di attrezzatura e le immagini di riferimento sono stati realizzati con modelli generativi di immagini, con le condizioni di generazione riportate in appendice. Un testo che insegna a fare buoni video non dovrebbe poggiare sui risultati altrui."
+},
+{
+"key": "part00.html#38",
+"it": "Se questo libro diventa il primo manuale di qualcuno, il programma di un corso, o resta aperto su una scrivania sul set, ha fatto il suo dovere. Dimmi dove la spiegazione si inceppa e dove non corrispondeva alla realtà del set: da lì comincia la prossima edizione."
+},
+{
+"key": "part00.html#39",
+"it": "Primavera 2026, Jia Ahn"
+},
+{
+"key": "part00.html#40",
+"it": "Come leggere questo libro"
+},
+{
+"key": "part00.html#41",
+"it": "<b>IL LETTORE A CUI PENSA QUESTO LIBRO</b>"
+},
+{
+"key": "part00.html#42",
+"it": "Puoi anche non aver mai toccato una camera. Ma quando chiuderai questo libro dovrai saper portare da solo, dalla pianificazione alla consegna, uno spot di 15 secondi, un video breve (short-form) di 1 minuto e un brand film di 3 minuti. I contenuti sono stati scelti con questo metro."
+},
+{
+"key": "part00.html#43",
+"it": "Questo libro è pensato per essere usato, non solo letto. Ognuno dei 13 capitoli è una lezione autonoma, e ogni capitolo dispone gli stessi elementi nello stesso ordine: piano della lezione, introduzione narrativa, concetti, tavole, missioni pratiche, riepilogo in una pagina. Usa solo i capitoli che ti servono, oppure seguili in ordine per un semestre intero."
+},
+{
+"key": "part00.html#44",
+"it": "<small>Inizio</small>Usarlo in aula"
+},
+{
+"key": "part00.html#45",
+"it": "Tempi per una lezione di 50 minuti, materiali, punti di controllo"
+},
+{
+"key": "part00.html#46",
+"it": "Da usare così com’è come piano della lezione"
+},
+{
+"key": "part00.html#47",
+"it": "<small>Tavole</small>Guarda prima la figura"
+},
+{
+"key": "part00.html#48",
+"it": "Tutte le tavole sono inserite nel testo"
+},
+{
+"key": "part00.html#49",
+"it": "Quasi ogni concetto è spiegato in un solo diagramma"
+},
+{
+"key": "part00.html#50",
+"it": "<small>Tabelle</small>Tabelle di riferimento da copiare"
+},
+{
+"key": "part00.html#51",
+"it": "Tabelle di riferimento da usare così come sono sul lavoro"
+},
+{
+"key": "part00.html#52",
+"it": "Fatte per essere aperte sul set"
+},
+{
+"key": "part00.html#53",
+"it": "<small>Fine</small>Missioni · Domande per riflettere · Consigli dal set"
+},
+{
+"key": "part00.html#54",
+"it": "Assegnabili come compiti così come sono"
+},
+{
+"key": "part00.html#55",
+"it": "Anche una checklist per lo studio autonomo"
+},
+{
+"key": "part00.html#56",
+"it": "<small>Appendice</small>Schede di lavoro e spazio per le note"
+},
+{
+"key": "part00.html#57",
+"it": "Stampa le schede dell’appendice e usale così come sono"
+},
+{
+"key": "part00.html#58",
+"it": "Domande sulla prima pagina del capitolo, note di ripasso sull’ultima: 5 minuti prima e dopo la lezione"
+},
+{
+"key": "part00.html#59",
+"it": "<small>PARTE</small>Domanda → Contesto → Voci"
+},
+{
+"key": "part00.html#60",
+"it": "Prima pagina: una domanda e «Com’è organizzata questa PARTE»"
+},
+{
+"key": "part00.html#61",
+"it": "Poi «Contesto» (2–3 pagine): teoria e storia in forma narrativa"
+},
+{
+"key": "part00.html#62",
+"it": "<small>Sezione</small>Sempre lo stesso ordine"
+},
+{
+"key": "part00.html#63",
+"it": "Ogni sezione si apre con un numero di sezione rosso vino e un filetto spesso"
+},
+{
+"key": "part00.html#64",
+"it": "Testo e diagrammi → frase dal set (riquadro grigio) → foto di riferimento (REF) → tavola esplicativa (G) → riquadro esercizio (Compito · Consiglio · Criteri di valutazione · Risposta modello)"
+},
+{
+"key": "part00.html#65",
+"it": "<small>Immagini · cifre</small>Disegni generativi, cifre aggiornate alla stesura"
+},
+{
+"key": "part00.html#66",
+"it": "Persone e attrezzature nelle foto di riferimento e nelle tavole sono disegni a matita realizzati per questo libro con modelli generativi di immagini (condizioni: Appendice S)"
+},
+{
+"key": "part00.html#67",
+"it": "Nomi di prodotti, prezzi e specifiche delle piattaforme cambiano; le cifre sono aggiornate alla stesura"
+},
+{
+"key": "part00.html#68",
+"it": "Come usare questo libro"
+},
+{
+"key": "part00.html#69",
+"it": "Un capitolo è una lezione. Tredici capitoli, più un ripasso di metà corso e le settimane di progetto, riempiono un semestre di 15 settimane. Per il calendario settimanale vedi l’Appendice H. Chi studia da solo può usare come piano di studio i tempi indicati nella guida per l’aula di ogni capitolo."
+},
+{
+"key": "part00.html#70",
+"it": "Formato"
+},
+{
+"key": "part00.html#71",
+"it": "Struttura consigliata"
+},
+{
+"key": "part00.html#72",
+"it": "Valutazione collegata"
+},
+{
+"key": "part00.html#73",
+"it": "Lezione teorica"
+},
+{
+"key": "part00.html#74",
+"it": "Lettura del saggio d’apertura della parte + commento delle tavole + esercizio sulle tabelle"
+},
+{
+"key": "part00.html#75",
+"it": "Voci di autoverifica usate come quiz"
+},
+{
+"key": "part00.html#76",
+"it": "Lezione pratica"
+},
+{
+"key": "part00.html#77",
+"it": "Spiegazione di 5 minuti da una tavola, poi subito riprese"
+},
+{
+"key": "part00.html#78",
+"it": "Esercizi come consegne settimanali"
+},
+{
+"key": "part00.html#79",
+"it": "Progetto di gruppo"
+},
+{
+"key": "part00.html#80",
+"it": "Modello di proposta e documento PPM della PARTE 6 come elaborati"
+},
+{
+"key": "part00.html#81",
+"it": "Consegna delle schede dell’Appendice K"
+},
+{
+"key": "part00.html#82",
+"it": "Classe capovolta"
+},
+{
+"key": "part00.html#83",
+"it": "Lettura della parte in anticipo; in aula critica e feedback"
+},
+{
+"key": "part00.html#84",
+"it": "Revisione tra pari con i 50 errori dell’Appendice P"
+},
+{
+"key": "part00.html#85",
+"it": "Le tavole sono monocromatiche, così possono entrare direttamente nelle slide della lezione. Le informazioni sono distinte dal solo contrasto di valore, quindi si leggono anche nella stampa in bianco e nero e sui proiettori a bassa risoluzione."
+},
+{
+"key": "part00.html#86",
+"it": "Percorso di studio"
+},
+{
+"key": "part00.html#87",
+"it": "Obiettivo"
+},
+{
+"key": "part00.html#88",
+"it": "Percorso consigliato"
+},
+{
+"key": "part00.html#89",
+"it": "Tempo stim."
+},
+{
+"key": "part00.html#90",
+"it": "Devo fare subito un video breve"
+},
+{
+"key": "part00.html#91",
+"it": "PARTE 2 → 3 → 5 → 7 → 9"
+},
+{
+"key": "part00.html#92",
+"it": "2 settimane"
+},
+{
+"key": "part00.html#93",
+"it": "Lo uso come manuale di un corso universitario"
+},
+{
+"key": "part00.html#94",
+"it": "Dalla PARTE 1 in ordine; vedi Appendice H"
+},
+{
+"key": "part00.html#95",
+"it": "Un semestre"
+},
+{
+"key": "part00.html#96",
+"it": "Mi hanno affidato la pianificazione di uno spot"
+},
+{
+"key": "part00.html#97",
+"it": "PARTE 6 → 8 → 7 → 9"
+},
+{
+"key": "part00.html#98",
+"it": "3 settimane"
+},
+{
+"key": "part00.html#99",
+"it": "Voglio passare alla motion graphics"
+},
+{
+"key": "part00.html#100",
+"it": "PARTE 2 → 5, soprattutto il capitolo su After Effects"
+},
+{
+"key": "part00.html#101",
+"it": "6 settimane"
+},
+{
+"key": "part00.html#102",
+"it": "Preparo contenuti immersivi o una mostra"
+},
+{
+"key": "part00.html#103",
+"it": "PARTE 7 → 8 → 10"
+},
+{
+"key": "part00.html#104",
+"it": "3 settimane"
+},
+{
+"key": "part00.html#105",
+"it": "Devo trovare lavoro in fretta"
+},
+{
+"key": "part00.html#106",
+"it": "Prima la PARTE 11, poi le parti deboli a ritroso"
+},
+{
+"key": "part00.html#107",
+"it": "4 settimane"
+},
+{
+"key": "part00.html#108",
+"it": "Livello"
+},
+{
+"key": "part00.html#109",
+"it": "Tempo"
+},
+{
+"key": "part00.html#110",
+"it": "Che cosa dovresti saper realizzare"
+},
+{
+"key": "part00.html#111",
+"it": "Criterio"
+},
+{
+"key": "part00.html#112",
+"it": "Ingresso"
+},
+{
+"key": "part00.html#113",
+"it": "1–2 mesi"
+},
+{
+"key": "part00.html#114",
+"it": "Vlog di 1 minuto, video breve informativo con sottotitoli"
+},
+{
+"key": "part00.html#115",
+"it": "Esposizione e audio sono costanti?"
+},
+{
+"key": "part00.html#116",
+"it": "Base"
+},
+{
+"key": "part00.html#117",
+"it": "3–4 mesi"
+},
+{
+"key": "part00.html#118",
+"it": "Spot di 15 secondi, storyboard da 6 tagli"
+},
+{
+"key": "part00.html#119",
+"it": "I tagli si legano con un’intenzione?"
+},
+{
+"key": "part00.html#120",
+"it": "Intermedio"
+},
+{
+"key": "part00.html#121",
+"it": "6–9 mesi"
+},
+{
+"key": "part00.html#122",
+"it": "Compositing in chroma key, titolo 3D, finale con color grading"
+},
+{
+"key": "part00.html#123",
+"it": "Il compositing si fonde con l’immagine?"
+},
+{
+"key": "part00.html#124",
+"it": "Professionale"
+},
+{
+"key": "part00.html#125",
+"it": "1 anno +"
+},
+{
+"key": "part00.html#126",
+"it": "Lavoro finito dal brief di un cliente"
+},
+{
+"key": "part00.html#127",
+"it": "Si chiude nei tempi e nel budget?"
+},
+{
+"key": "part00.html#128",
+"it": "Esperto"
+},
+{
+"key": "part00.html#129",
+"it": "2 anni +"
+},
+{
+"key": "part00.html#130",
+"it": "Guidare un team, definire la direzione creativa"
+},
+{
+"key": "part00.html#131",
+"it": "Sai giudicare il lavoro degli altri?"
+},
+{
+"key": "part00.html#132",
+"it": "30 domande da farsi prima"
+},
+{
+"key": "part00.html#133",
+"it": "Scorri questo elenco prima del testo principale. Sono le domande che tornano di continuo in aula e nei colloqui di orientamento; se una ti gira in testa adesso, vai dritto al capitolo indicato tra parentesi. Il libro è pensato per essere letto in ordine o per entrarci da una domanda."
+},
+{
+"key": "part00.html#134",
+"it": "<em>Q01</em>Compro prima la camera o le luci?"
+},
+{
+"key": "part00.html#135",
+"it": "Le luci. A parità di budget, una camera entry-level con le luci batte una camera di fascia alta senza. (PARTE 4)"
+},
+{
+"key": "part00.html#136",
+"it": "<em>Q02</em>Posso fare video commerciali con lo smartphone?"
+},
+{
+"key": "part00.html#137",
+"it": "Sì, purché disattivi esposizione e bilanciamento del bianco automatici e usi un microfono esterno. (3.13)"
+},
+{
+"key": "part00.html#138",
+"it": "<em>Q03</em>24 fps o 30 fps?"
+},
+{
+"key": "part00.html#139",
+"it": "24 per spot emozionali e brand film; 30 è la scelta sicura per video informativi e ricchi di sottotitoli. (3.8)"
+},
+{
+"key": "part00.html#140",
+"it": "<em>Q04</em>Mi serve davvero il 4K?"
+},
+{
+"key": "part00.html#141",
+"it": "Gira in 4K anche se il finale è in FHD. Lascia margine per reinquadrare e per i ritagli verticali. (3.7)"
+},
+{
+"key": "part00.html#142",
+"it": "<em>Q05</em>Il Log è sempre meglio?"
+},
+{
+"key": "part00.html#143",
+"it": "Solo se farai il color grading in post. Nelle riprese in chroma key è anzi uno svantaggio. (3.10)"
+},
+{
+"key": "part00.html#144",
+"it": "<em>Q06</em>Quale programma di montaggio imparo per primo?"
+},
+{
+"key": "part00.html#145",
+"it": "Stando alle offerte di lavoro in Corea, la coppia Premiere Pro e After Effects. (5.3)"
+},
+{
+"key": "part00.html#146",
+"it": "<em>Q07</em>Posso montare in After Effects?"
+},
+{
+"key": "part00.html#147",
+"it": "Sconsigliato. Uno strumento che gestisce il tempo in orizzontale e uno che gestisce i livelli in verticale hanno compiti diversi. (5.5)"
+},
+{
+"key": "part00.html#148",
+"it": "<em>Q08</em>I miei compositing sembrano sempre incollati"
+},
+{
+"key": "part00.html#149",
+"it": "Controlla tre cose: livello del nero, prospettiva aerea, grana. (5.7)"
+}
+]

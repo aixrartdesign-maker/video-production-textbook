@@ -1,0 +1,630 @@
+[
+{
+"key": "part09.html#501",
+"it": "Veo · Sora · Kling · Seedance · Runway: una nuova generazione ogni trimestre"
+},
+{
+"key": "part09.html#502",
+"it": "Si confrontano su durata, suono e accuratezza fisica"
+},
+{
+"key": "part09.html#503",
+"it": "Più che scegliere uno strumento, costruisci una pipeline in cui gli strumenti si possano sostituire"
+},
+{
+"key": "part09.html#504",
+"it": "<small>Tendenza 2</small>Agenti e MCP"
+},
+{
+"key": "part09.html#505",
+"it": "Un protocollo di collegamento che permette a modelli linguistici come Claude di azionare direttamente gli strumenti di generazione"
+},
+{
+"key": "part09.html#506",
+"it": "È il modello a chiamare gli strumenti; nessuno copia e incolla prompt"
+},
+{
+"key": "part09.html#507",
+"it": "Le foto di riferimento di questo libro sono nate così – un unico flusso dal documento di progetto alla generazione"
+},
+{
+"key": "part09.html#508",
+"it": "<small>Tendenza 3</small>Strumenti per la coerenza"
+},
+{
+"key": "part09.html#509",
+"it": "Funzioni che mantengono coerenti personaggi e scene da un’inquadratura all’altra"
+},
+{
+"key": "part09.html#510",
+"it": "Riferimenti multi-immagine – blocca volto, costume e ambiente con più immagini"
+},
+{
+"key": "part09.html#511",
+"it": "Il problema più grande del Contesto 17 sta diventando una funzione di prodotto"
+},
+{
+"key": "part09.html#512",
+"it": "<span class=\"ph-id\">P09-MCP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Collegare gli strumenti – MCP</b>Illustrazione astratta: linee luminose vanno da un portatile su una scrivania a pannelli di servizi traslucidi e sospesi</span>"
+},
+{
+"key": "part09.html#513",
+"it": "<b>Nota</b>Collegare gli strumenti – MCP. Un modello linguistico chiama direttamente strumenti di generazione, archivi e calendari"
+},
+{
+"key": "part09.html#514",
+"it": "Ambito"
+},
+{
+"key": "part09.html#515",
+"it": "Tipo di strumento"
+},
+{
+"key": "part09.html#516",
+"it": "Ruolo nella pratica"
+},
+{
+"key": "part09.html#517",
+"it": "Attenzione a"
+},
+{
+"key": "part09.html#518",
+"it": "Ideazione, scrittura"
+},
+{
+"key": "part09.html#519",
+"it": "Modelli linguistici conversazionali"
+},
+{
+"key": "part09.html#520",
+"it": "Sviluppo di idee, bozze di sceneggiatura, varianti di copy"
+},
+{
+"key": "part09.html#521",
+"it": "Verificare i fatti; decide una persona"
+},
+{
+"key": "part09.html#522",
+"it": "Immagine"
+},
+{
+"key": "part09.html#523",
+"it": "Modelli di generazione di immagini"
+},
+{
+"key": "part09.html#524",
+"it": "Moodboard, concept art, bozze di storyboard"
+},
+{
+"key": "part09.html#525",
+"it": "Verificare le condizioni d’uso commerciale"
+},
+{
+"key": "part09.html#526",
+"it": "Video"
+},
+{
+"key": "part09.html#527",
+"it": "Generazione video da testo o immagine"
+},
+{
+"key": "part09.html#528",
+"it": "Inserti, sfondi, inquadrature impossibili"
+},
+{
+"key": "part09.html#529",
+"it": "La sfida è la coerenza"
+},
+{
+"key": "part09.html#530",
+"it": "Voce"
+},
+{
+"key": "part09.html#531",
+"it": "Sintesi vocale"
+},
+{
+"key": "part09.html#532",
+"it": "Voce guida provvisoria, doppiaggio multilingue"
+},
+{
+"key": "part09.html#533",
+"it": "Mai clonare la voce di una persona reale"
+},
+{
+"key": "part09.html#534",
+"it": "Sottotitoli, premontaggio"
+},
+{
+"key": "part09.html#535",
+"it": "Strumenti di montaggio con riconoscimento vocale"
+},
+{
+"key": "part09.html#536",
+"it": "Primo premontaggio, generazione dei sottotitoli"
+},
+{
+"key": "part09.html#537",
+"it": "Controllare sempre i nomi propri"
+},
+{
+"key": "part09.html#538",
+"it": "Generazione 3D da immagine"
+},
+{
+"key": "part09.html#539",
+"it": "Oggetti di scena, prototipi di personaggi"
+},
+{
+"key": "part09.html#540",
+"it": "Serve ripulire i poligoni"
+},
+{
+"key": "part09.html#541",
+"it": "Traduzione"
+},
+{
+"key": "part09.html#542",
+"it": "Traduzione automatica"
+},
+{
+"key": "part09.html#543",
+"it": "Sottotitoli in lingua straniera, lettura di fonti straniere"
+},
+{
+"key": "part09.html#544",
+"it": "Controllare il gergo tradotto male"
+},
+{
+"key": "part09.html#545",
+"it": "Usi buoni e cattivi dei modelli linguistici"
+},
+{
+"key": "part09.html#546",
+"it": "Usi efficaci"
+},
+{
+"key": "part09.html#547",
+"it": "Sviluppo di idee – fissa le condizioni, fattene dare 20, riducile a 3"
+},
+{
+"key": "part09.html#548",
+"it": "Bozza di sceneggiatura – fissa prima la struttura, poi chiedi la polpa"
+},
+{
+"key": "part09.html#549",
+"it": "Varianti di copy – chiedi 10 versioni di una frase approvata"
+},
+{
+"key": "part09.html#550",
+"it": "Ordinare la ricerca – incolla il materiale raccolto e chiedi una struttura"
+},
+{
+"key": "part09.html#551",
+"it": "Feedback – incolla la tua proposta e chiedine i punti deboli"
+},
+{
+"key": "part09.html#552",
+"it": "Traduzione – fornisci contesto e glossario"
+},
+{
+"key": "part09.html#553",
+"it": "Che cosa non fare"
+},
+{
+"key": "part09.html#554",
+"it": "Prendere la prima risposta così com’è"
+},
+{
+"key": "part09.html#555",
+"it": "Chiedere di scrivere tutto partendo da zero"
+},
+{
+"key": "part09.html#556",
+"it": "Delegare il concept stesso"
+},
+{
+"key": "part09.html#557",
+"it": "Citare senza verificare i fatti"
+},
+{
+"key": "part09.html#558",
+"it": "Fermarsi agli elogi"
+},
+{
+"key": "part09.html#559",
+"it": "Usare il gergo senza controllarlo"
+},
+{
+"key": "part09.html#560",
+"it": "Esempio di flusso con strumenti di IA"
+},
+{
+"key": "part09.html#561",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part09.html#562",
+"it": "Il concept in una frase lo scrive una persona. Questo passaggio non si delega mai."
+},
+{
+"key": "part09.html#563",
+"it": "<b>01</b><span>Con un modello linguistico genera una persona target e 20 punti critici, poi riducili a 3 tu stesso.</span>"
+},
+{
+"key": "part09.html#564",
+"it": "<b>02</b><span>Dalle idee selezionate, una persona scrive il concept in una frase.</span>"
+},
+{
+"key": "part09.html#565",
+"it": "<b>03</b><span>Crea moodboard e bozze di storyboard con un generatore di immagini. Accordarsi su tono e stile diventa molto più rapido.</span>"
+},
+{
+"key": "part09.html#566",
+"it": "<b>04</b><span>Genera solo gli inserti che non puoi girare dal vero. Se riempi tutto il video di immagini generate, la coerenza crolla.</span>"
+},
+{
+"key": "part09.html#567",
+"it": "<b>05</b><span>Crea una voce guida con la sintesi vocale per verificare durata e ritmo. Nella versione finale sostituiscila con uno speaker o con una tua registrazione.</span>"
+},
+{
+"key": "part09.html#568",
+"it": "<b>06</b><span>Genera in automatico i sottotitoli di prima stesura, poi fai controllare a una persona nomi propri e ortografia.</span>"
+},
+{
+"key": "part09.html#569",
+"it": "<b>07</b><span>Annota l’uso dell’IA nei documenti di produzione. Concorsi e consegne ai clienti richiedono sempre più spesso di dichiararlo.</span>"
+},
+{
+"key": "part09.html#570",
+"it": "Che cosa l’IA non può sostituire"
+},
+{
+"key": "part09.html#571",
+"it": "Il giudizio per decidere che cosa girare, il linguaggio per spiegare perché deve essere proprio quell’inquadratura, la mediazione per arrivare a un accordo con il cliente, le decisioni che risolvono gli imprevisti sul set. Più gli strumenti sono potenti, più vale il giudizio. Nelle assunzioni di profili junior si è cominciato a dare più valore alla capacità di spiegare le proprie scelte che alla padronanza degli strumenti."
+},
+{
+"key": "part09.html#572",
+"it": "<small>Esercizio</small>8.9"
+},
+{
+"key": "part09.html#573",
+"it": "Compito"
+},
+{
+"key": "part09.html#574",
+"it": "Realizza la stessa inquadratura con 3 strumenti di IA generativa e confronta qualità, velocità, costo e condizioni sui diritti."
+},
+{
+"key": "part09.html#575",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#576",
+"it": "Controlla la clausola sull’uso commerciale nei termini di servizio."
+},
+{
+"key": "part09.html#577",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#578",
+"it": "Criteri di confronto equi, diritti verificati"
+},
+{
+"key": "part09.html#579",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#580",
+"it": "Pubblica prompt e impostazioni insieme ai risultati, perché siano riproducibili."
+},
+{
+"key": "part09.html#581",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#582",
+"it": "Gestione del canale e calendario editoriale"
+},
+{
+"key": "part09.html#583",
+"it": "Dieci video pubblicati con costanza costruiscono un canale meglio di uno solo riuscito. Gestire un canale è una competenza diversa dal fare video, ed è l’esperienza che le assunzioni di profili junior valutano di più."
+},
+{
+"key": "part09.html#584",
+"it": "Progettare un canale in 5 passi"
+},
+{
+"key": "part09.html#585",
+"it": "<b>01</b><i>Definizione in una frase</i>Che cosa dà il canale, e a chi"
+},
+{
+"key": "part09.html#586",
+"it": "<b>02</b><i>2–3 formati fissi</i>Dai agli spettatori qualcosa da aspettarsi"
+},
+{
+"key": "part09.html#587",
+"it": "<b>03</b><i>Calendario di pubblicazione</i>Reggere 1 video a settimana è meglio che farne 3 e poi fermarsi"
+},
+{
+"key": "part09.html#588",
+"it": "<b>04</b><i>Regole visive fisse</i>Layout delle miniature, font dei sottotitoli, sigla sì o no"
+},
+{
+"key": "part09.html#589",
+"it": "<b>05</b><i>Una sola metrica di risultato</i>Non gli iscritti, ma qualcosa che puoi migliorare, come la durata di visualizzazione media"
+},
+{
+"key": "part09.html#590",
+"it": "Esempio di calendario editoriale mensile"
+},
+{
+"key": "part09.html#591",
+"it": "Settimana"
+},
+{
+"key": "part09.html#592",
+"it": "Tipo di contenuto"
+},
+{
+"key": "part09.html#593",
+"it": "Scopo"
+},
+{
+"key": "part09.html#594",
+"it": "Difficoltà"
+},
+{
+"key": "part09.html#595",
+"it": "Riuso"
+},
+{
+"key": "part09.html#596",
+"it": "Settimana 1"
+},
+{
+"key": "part09.html#597",
+"it": "1 video lungo informativo"
+},
+{
+"key": "part09.html#598",
+"it": "Traffico di ricerca"
+},
+{
+"key": "part09.html#599",
+"it": "Alta"
+},
+{
+"key": "part09.html#600",
+"it": "Dividere in 3 clip brevi"
+},
+{
+"key": "part09.html#601",
+"it": "Settimana 2"
+},
+{
+"key": "part09.html#602",
+"it": "3 clip brevi"
+},
+{
+"key": "part09.html#603",
+"it": "Nuova copertura"
+},
+{
+"key": "part09.html#604",
+"it": "Bassa"
+},
+{
+"key": "part09.html#605",
+"it": "Pubblicare insieme su Instagram e TikTok"
+},
+{
+"key": "part09.html#606",
+"it": "Settimana 3"
+},
+{
+"key": "part09.html#607",
+"it": "Intervista o collaborazione"
+},
+{
+"key": "part09.html#608",
+"it": "Fiducia e crescita"
+},
+{
+"key": "part09.html#609",
+"it": "Media"
+},
+{
+"key": "part09.html#610",
+"it": "Trasformare in un post del blog"
+},
+{
+"key": "part09.html#611",
+"it": "Settimana 4"
+},
+{
+"key": "part09.html#612",
+"it": "Contenuto per la community"
+},
+{
+"key": "part09.html#613",
+"it": "Mantenere le relazioni"
+},
+{
+"key": "part09.html#614",
+"it": "Molto bassa"
+},
+{
+"key": "part09.html#615",
+"it": "Idee per il mese successivo"
+},
+{
+"key": "part09.html#616",
+"it": "Un’idea, molti media"
+},
+{
+"key": "part09.html#617",
+"it": "<b>Una fonte, più usi</b>"
+},
+{
+"key": "part09.html#618",
+"it": "Rifare lo stesso messaggio nella grammatica di ciascun mezzo. È il modo più sicuro per ottenere più copertura a parità di budget di produzione."
+},
+{
+"key": "part09.html#619",
+"it": "Fonte"
+},
+{
+"key": "part09.html#620",
+"it": "Derivato"
+},
+{
+"key": "part09.html#621",
+"it": "Carico di lavoro"
+},
+{
+"key": "part09.html#622",
+"it": "Resa"
+},
+{
+"key": "part09.html#623",
+"it": "Video lungo da 10 min"
+},
+{
+"key": "part09.html#624",
+"it": "3 clip brevi"
+},
+{
+"key": "part09.html#625",
+"it": "Basso"
+},
+{
+"key": "part09.html#626",
+"it": "Nuovi spettatori"
+},
+{
+"key": "part09.html#627",
+"it": "Video lungo da 10 min"
+},
+{
+"key": "part09.html#628",
+"it": "1 post del blog"
+},
+{
+"key": "part09.html#629",
+"it": "Basso"
+},
+{
+"key": "part09.html#630",
+"it": "Traffico di ricerca"
+},
+{
+"key": "part09.html#631",
+"it": "Video lungo da 10 min"
+},
+{
+"key": "part09.html#632",
+"it": "1 carosello"
+},
+{
+"key": "part09.html#633",
+"it": "Basso"
+},
+{
+"key": "part09.html#634",
+"it": "Salvataggi su Instagram"
+},
+{
+"key": "part09.html#635",
+"it": "Video lungo da 10 min"
+},
+{
+"key": "part09.html#636",
+"it": "1 numero di newsletter"
+},
+{
+"key": "part09.html#637",
+"it": "Molto basso"
+},
+{
+"key": "part09.html#638",
+"it": "Contatto diretto"
+},
+{
+"key": "part09.html#639",
+"it": "Girato grezzo"
+},
+{
+"key": "part09.html#640",
+"it": "Clip breve di backstage"
+},
+{
+"key": "part09.html#641",
+"it": "Molto basso"
+},
+{
+"key": "part09.html#642",
+"it": "Vicinanza"
+},
+{
+"key": "part09.html#643",
+"it": "Il riuso non è pigrizia, ma strategia.<small>8.10 Gestione del canale e calendario editoriale</small>"
+},
+{
+"key": "part09.html#644",
+"it": "L’IA generativa non disegna: toglie il rumore"
+},
+{
+"key": "part09.html#645",
+"it": "<b>Modelli di diffusione – «ripulire» un’immagine dal rumore</b><span>In addestramento il modello impara come una foto si rovina aggiungendo rumore poco a poco; in generazione fa l’inverso, togliendo rumore passo dopo passo a partire dal rumore puro. Il prompt è la bussola che indica in quale direzione ripulire</span>"
+},
+{
+"key": "part09.html#646",
+"it": "<b>① Prompt</b><span>Il testo diventa un vettore di numeri – «sole del mattino, tazza bianca»</span>"
+},
+{
+"key": "part09.html#647",
+"it": "<b>② Rumore</b><span>Si parte da uno schermo di punti casuali</span>"
+},
+{
+"key": "part09.html#648",
+"it": "<b>③ 20–50 passi di rimozione del rumore</b><span>Ogni passo prevede «che cosa cancellare per avvicinare questa immagine al prompt»</span>"
+},
+{
+"key": "part09.html#649",
+"it": "<b>④ Risultato</b><span>Stesso prompt, rumore iniziale (seed) diverso, immagine diversa</span>"
+},
+{
+"key": "part09.html#650",
+"it": "<b>Fig. 83-1</b> Come funziona l’IA generativa – il modello di diffusione. I modelli di generazione video estendono lo stesso principio lungo l’asse del tempo. Per questo riescono meglio con «un’atmosfera di questo tipo» che con «esattamente questa scena», e sbagliano dettagli come il numero delle dita."
+},
+{
+"key": "part09.html#651",
+"it": "<small>Esercizio</small>8.10"
+},
+{
+"key": "part09.html#652",
+"it": "Compito"
+},
+{
+"key": "part09.html#653",
+"it": "Prepara un calendario editoriale di un mese e gestiscilo davvero per 2 settimane."
+},
+{
+"key": "part09.html#654",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#655",
+"it": "Scegli un ritmo che riesci a reggere, per esempio 2 post a settimana."
+},
+{
+"key": "part09.html#656",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#657",
+"it": "Esecuzione rispetto al piano, retrospettiva"
+}
+]

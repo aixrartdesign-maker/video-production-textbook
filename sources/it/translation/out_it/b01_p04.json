@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#109",
+"it": "Dialogo in movimento"
+},
+{
+"key": "part02.html#110",
+"it": "MS"
+},
+{
+"key": "part02.html#111",
+"it": "Piano medio"
+},
+{
+"key": "part02.html#112",
+"it": "Sopra la vita"
+},
+{
+"key": "part02.html#113",
+"it": "Neutro, quotidiano"
+},
+{
+"key": "part02.html#114",
+"it": "Standard per interviste, dialoghi"
+},
+{
+"key": "part02.html#115",
+"it": "BS"
+},
+{
+"key": "part02.html#116",
+"it": "Mezzo primo piano"
+},
+{
+"key": "part02.html#117",
+"it": "Sopra il petto"
+},
+{
+"key": "part02.html#118",
+"it": "Fiducia, vicinanza"
+},
+{
+"key": "part02.html#119",
+"it": "Notiziari, spot con testimonianze"
+},
+{
+"key": "part02.html#120",
+"it": "CU"
+},
+{
+"key": "part02.html#121",
+"it": "Primo piano"
+},
+{
+"key": "part02.html#122",
+"it": "Tutto il volto"
+},
+{
+"key": "part02.html#123",
+"it": "Emozione, concentrazione"
+},
+{
+"key": "part02.html#124",
+"it": "Reazioni, espressioni chiave"
+},
+{
+"key": "part02.html#125",
+"it": "ECU"
+},
+{
+"key": "part02.html#126",
+"it": "Primissimo piano"
+},
+{
+"key": "part02.html#127",
+"it": "Occhi, bocca, parte di un prodotto"
+},
+{
+"key": "part02.html#128",
+"it": "Tensione, matericità, enfasi"
+},
+{
+"key": "part02.html#129",
+"it": "Texture del prodotto, momenti drammatici"
+},
+{
+"key": "part02.html#130",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part02.html#131",
+"it": "La dimensione dipende da dove taglia il quadro, non da quanto è grande la persona. Anche con un teleobiettivo, un quadro tagliato al petto è un mezzo primo piano. Lunghezza focale e dimensione dell’inquadratura sono cose distinte."
+},
+{
+"key": "part02.html#132",
+"it": "Regole per cambiare dimensione"
+},
+{
+"key": "part02.html#133",
+"it": "<b>01</b><span>Tra tagli consecutivi lascia almeno due dimensioni di differenza. Passare direttamente da MS a NS sembra solo un salto.</span>"
+},
+{
+"key": "part02.html#134",
+"it": "<b>02</b><span>Mostrare lo spazio in largo e poi stringere per gradi è la costruzione più stabile. Se parti da un ECU e allarghi, crei curiosità.</span>"
+},
+{
+"key": "part02.html#135",
+"it": "<b>03</b><span>I primi piani hanno forza solo se dosati. In uno spot di 15 secondi, 2 tagli in CU o più stretti sono la misura giusta.</span>"
+},
+{
+"key": "part02.html#136",
+"it": "<b>04</b><span>In uno spot di prodotto l’ECU è il punto in cui dimostri la texture. Se superficie, grana, gocce o lucentezza non si vedono, l’ECU non ha ragione di esistere.</span>"
+},
+{
+"key": "part02.html#137",
+"it": "<b>Foto di riferimento 2.2D</b>Immagini generate – le stesse 8 inquadrature, persone diverse · luoghi diversi. Imparale dall’altezza della figura nel quadro"
+},
+{
+"key": "part02.html#138",
+"it": "<span class=\"ph-id\">P02-SIZE2-ELS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Campo lunghissimo ELS – protagonista è lo spazio, la persona un punto</b></span>"
+},
+{
+"key": "part02.html#139",
+"it": "<b>Campo lunghissimo ELS</b>Protagonista è lo spazio, la persona un punto"
+},
+{
+"key": "part02.html#140",
+"it": "<span class=\"ph-id\">P02-SIZE2-LS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Campo lungo LS – figura intera e ambiente</b></span>"
+},
+{
+"key": "part02.html#141",
+"it": "<b>Campo lungo LS</b>Figura intera e ambiente"
+},
+{
+"key": "part02.html#142",
+"it": "<span class=\"ph-id\">P02-SIZE2-FS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Figura intera FS – dalla testa ai piedi</b></span>"
+},
+{
+"key": "part02.html#143",
+"it": "<b>Figura intera FS</b>Dalla testa ai piedi"
+},
+{
+"key": "part02.html#144",
+"it": "<span class=\"ph-id\">P02-SIZE2-KS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Piano americano KS – sopra le ginocchia</b></span>"
+},
+{
+"key": "part02.html#145",
+"it": "<b>Piano americano KS</b>Sopra le ginocchia"
+},
+{
+"key": "part02.html#146",
+"it": "<span class=\"ph-id\">P02-SIZE2-MS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Piano medio MS – sopra la vita</b></span>"
+},
+{
+"key": "part02.html#147",
+"it": "<b>Piano medio MS</b>Sopra la vita"
+},
+{
+"key": "part02.html#148",
+"it": "<span class=\"ph-id\">P02-SIZE2-BS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Mezzo primo piano BS – sopra il petto</b></span>"
+},
+{
+"key": "part02.html#149",
+"it": "<b>Mezzo primo piano BS</b>Sopra il petto"
+},
+{
+"key": "part02.html#150",
+"it": "<span class=\"ph-id\">P02-SIZE2-CU</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Primo piano CU – tutto il volto</b></span>"
+},
+{
+"key": "part02.html#151",
+"it": "<b>Primo piano CU</b>Tutto il volto"
+},
+{
+"key": "part02.html#152",
+"it": "<span class=\"ph-id\">P02-SIZE2-ECU</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Primissimo piano ECU – gli occhi</b></span>"
+},
+{
+"key": "part02.html#153",
+"it": "<b>Primissimo piano ECU</b>Gli occhi"
+},
+{
+"key": "part02.html#154",
+"it": "<small>Esercizio</small>1.2"
+},
+{
+"key": "part02.html#155",
+"it": "Compito"
+},
+{
+"key": "part02.html#156",
+"it": "Riprendi tutte le 8 dimensioni d’inquadratura della stessa persona nello stesso luogo e riuniscile in un unico foglio provini."
+},
+{
+"key": "part02.html#157",
+"it": "Consiglio"
+},
+{
+"key": "part02.html#158",
+"it": "Lascia ferma la camera e cambia solo obiettivo o distanza: le differenze risultano più chiare. Mantieni costante l’aria in testa."
+},
+{
+"key": "part02.html#159",
+"it": "Valutazione"
+},
+{
+"key": "part02.html#160",
+"it": "Confini dell’inquadratura (nessun taglio sulle articolazioni), aria in testa · aria di movimento costanti"
+},
+{
+"key": "part02.html#161",
+"it": "Risposta modello"
+},
+{
+"key": "part02.html#162",
+"it": "Per ogni inquadratura scrive una riga su «che cosa trasmette solo questa dimensione»."
+},
+{
+"key": "part02.html#163",
+"it": "<b>PARTE 02</b>Il linguaggio del video"
+},
+{
+"key": "part02.html#164",
+"it": "Inquadrature per numero di persone"
+},
+{
+"key": "part02.html#165",
+"it": "Nell’inquadratura a due la distanza fisica tra le due persone si legge come distanza psicologica. È il primo valore da regolare quando mostri familiari, innamorati o colleghi."
+},
+{
+"key": "part02.html#166",
+"it": "<b>Foto di riferimento 1.3A</b>Immagini generate – riferimento di regia"
+},
+{
+"key": "part02.html#167",
+"it": "<b>Inquadratura singola 1S</b>Giudizio ed emozione di una persona – per concentrarsi sulla decisione di un individuo"
+},
+{
+"key": "part02.html#168",
+"it": "<b>Inquadratura a due 2S</b>Distanza tra i due = distanza nella relazione – un dito di distanza e spalle che si toccano raccontano storie diverse"
+},
+{
+"key": "part02.html#169",
+"it": "<b>Inquadratura di gruppo G.S</b>Un piccolo gruppo di quattro o più – squadra, famiglia, colleghi"
+},
+{
+"key": "part02.html#170",
+"it": "La distanza fisica si legge come distanza nella relazione"
+},
+{
+"key": "part02.html#171",
+"it": "<b>1S inquadratura singola</b><span>Una persona – emozione e concentrazione</span>"
+},
+{
+"key": "part02.html#172",
+"it": "<b>2S inquadratura a due</b><span>Due persone – relazione, lo standard del dialogo</span>"
+},
+{
+"key": "part02.html#173",
+"it": "<b>3S inquadratura a tre</b><span>Tre persone – quella al centro è l’asse</span>"
+},
+{
+"key": "part02.html#174",
+"it": "<b>G.S inquadratura di gruppo</b><span>Molti – gruppo, atmosfera, scala</span>"
+},
+{
+"key": "part02.html#175",
+"it": "Ogni persona in più allarga l’inquadratura di un grado: 1S in mezzo primo piano, 2S · 3S in piano medio, i gruppi in campo medio. La <b>distanza</b> tra le persone si legge come distanza nella relazione."
+},
+{
+"key": "part02.html#176",
+"it": "<b>Fig. 12</b> Inquadrature per numero di persone – stesso studio, stessa altezza della camera, sulla base di un piano medio in 16:9."
+},
+{
+"key": "part02.html#177",
+"it": "Nome"
+},
+{
+"key": "part02.html#178",
+"it": "Sigla"
+},
+{
+"key": "part02.html#179",
+"it": "Composizione"
+},
+{
+"key": "part02.html#180",
+"it": "Significato"
+},
+{
+"key": "part02.html#181",
+"it": "Singola"
+},
+{
+"key": "part02.html#182",
+"it": "Una sola persona nel quadro"
+},
+{
+"key": "part02.html#183",
+"it": "Concentrazione su emozione e giudizio di una persona"
+},
+{
+"key": "part02.html#184",
+"it": "A due"
+},
+{
+"key": "part02.html#185",
+"it": "Due persone insieme"
+},
+{
+"key": "part02.html#186",
+"it": "Esprime visivamente relazione, conflitto, intimità"
+},
+{
+"key": "part02.html#187",
+"it": "A tre"
+},
+{
+"key": "part02.html#188",
+"it": "Tre persone insieme"
+},
+{
+"key": "part02.html#189",
+"it": "Triangolare; equilibrio ed esclusione insieme"
+},
+{
+"key": "part02.html#190",
+"it": "Di gruppo"
+},
+{
+"key": "part02.html#191",
+"it": "Piccolo gruppo di quattro o più"
+},
+{
+"key": "part02.html#192",
+"it": "Squadra, famiglia, colleghi"
+},
+{
+"key": "part02.html#193",
+"it": "Di folla"
+},
+{
+"key": "part02.html#194",
+"it": "Folla"
+},
+{
+"key": "part02.html#195",
+"it": "Molti, anonimi"
+},
+{
+"key": "part02.html#196",
+"it": "Scala, energia, contesto sociale"
+},
+{
+"key": "part02.html#197",
+"it": "<small>Esercizio</small>1.3"
+},
+{
+"key": "part02.html#198",
+"it": "Compito"
+},
+{
+"key": "part02.html#199",
+"it": "Gira la stessa scena di dialogo come inquadratura singola, a due, a tre e di gruppo, e confronta come si leggono le relazioni."
+},
+{
+"key": "part02.html#200",
+"it": "Consiglio"
+},
+{
+"key": "part02.html#201",
+"it": "Varia di proposito la distanza e la differenza d’altezza tra le persone."
+},
+{
+"key": "part02.html#202",
+"it": "Valutazione"
+},
+{
+"key": "part02.html#203",
+"it": "La composizione rivela intimità, conflitto o esclusione?"
+},
+{
+"key": "part02.html#204",
+"it": "Risposta modello"
+},
+{
+"key": "part02.html#205",
+"it": "Mette una persona da sola al bordo del quadro per mostrare l’esclusione senza una parola."
+},
+{
+"key": "part02.html#206",
+"it": "<b>PARTE 02</b>Il linguaggio del video"
+},
+{
+"key": "part02.html#207",
+"it": "Inquadrature per situazione"
+},
+{
+"key": "part02.html#208",
+"it": "Sono le inquadrature per funzione, quelle che fanno funzionare una scena. In ogni scena gira sempre 1 master e almeno 2 inserti."
+},
+{
+"key": "part02.html#209",
+"it": "<b>Foto di riferimento 1.4A</b>Immagini generate – riferimento di regia"
+},
+{
+"key": "part02.html#210",
+"it": "<b>Quinta di spalla OSS</b>Dialogo oltre una spalla – lo standard del dialogo: comunica insieme relazione e punto di vista"
+},
+{
+"key": "part02.html#211",
+"it": "<b>Soggettiva P.O.V</b>Ciò che vede il personaggio – funziona solo dopo un taglio in cui lo si vede guardare; immersione in prima persona e paura"
+},
+{
+"key": "part02.html#212",
+"it": "<b>Inquadratura di reazione</b>Il volto di chi ascolta – l’emozione passa dalle reazioni più che dalle battute"
+},
+{
+"key": "part02.html#213",
+"it": "<b>Foto di riferimento 1.4B</b>Immagini generate – riferimento di regia"
+},
+{
+"key": "part02.html#214",
+"it": "<b>Inquadratura d’ambientazione</b>Stabilisce luogo e tempo – senza, il pubblico è impegnato a ricostruire lo spazio e non segue la storia"
+},
+{
+"key": "part02.html#215",
+"it": "<b>Inserto</b>Il dettaglio decisivo – mano, orologio, messaggio, etichetta del prodotto. Il salvatore del montatore, infilato per sistemare un raccordo difficile"
+},
+{
+"key": "part02.html#216",
+"it": "<b>Cutaway</b>Compressione del tempo e atmosfera – un taglio su qualcosa di esterno all’azione principale"
+},
+{
+"key": "part02.html#217",
+"it": "<b>Foto di riferimento 1.4C</b>Immagini generate – tre camere per una scena di dialogo"
+},
+{
+"key": "part02.html#218",
+"it": "<span class=\"ph-id\">P02-OTS</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Quinta di spalla – dialogo oltre una spalla</b>Un caffè; la spalla vicina sfocata, l’altra persona a fuoco</span>"
+},
+{
+"key": "part02.html#219",
+"it": "<b>Quinta di spalla</b>Per mostrare una relazione mettendoci da una delle due parti: il pubblico si sente seduto dentro la conversazione. Circa 50 mm, spalla vicina sfocata"
+},
+{
+"key": "part02.html#220",
+"it": "<span class=\"ph-id\">P02-POV</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Soggettiva – ciò che vede il personaggio</b>La mia mano e la tazza in basso; l’amico di fronte guarda in macchina</span>"
+},
+{
+"key": "part02.html#221",
+"it": "<b>Soggettiva</b>Per mostrare esattamente ciò che vede il personaggio: il pubblico diventa i suoi occhi e, quando l’altro guarda in macchina, sembra che parli a noi. Angolo di campo normale ad altezza occhi"
+},
+{
+"key": "part02.html#222",
+"it": "<span class=\"ph-id\">P02-REACTION</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Inquadratura di reazione – il volto di chi ascolta</b>Un sorriso un po’ sorpreso, sguardo appena fuori dall’obiettivo</span>"
+},
+{
+"key": "part02.html#223",
+"it": "<b>Inquadratura di reazione</b>Quando a portare l’emozione è la reazione, non le parole: il pubblico legge il peso di una battuta sul volto di chi ascolta. Tele corto intorno a 85 mm, sguardo appena fuori dall’obiettivo"
+},
+{
+"key": "part02.html#224",
+"it": "<span class=\"ph-id\">P02-ESTAB</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Inquadratura d’ambientazione – dove, quando</b>Una strada residenziale al crepuscolo, finestre illuminate, colline sullo sfondo</span>"
+},
+{
+"key": "part02.html#225",
+"it": "<b>Nota</b>Un’inquadratura d’ambientazione deve rispondere a tre domande in un solo taglio: dove (il tipo di quartiere), quando (la luce della sera), chi (le persone dietro le finestre illuminate). Se ne manca una, il pubblico passa il taglio successivo a ricostruire lo spazio e perde la storia."
+},
+{
+"key": "part02.html#226",
+"it": "<small>Establishing</small>Inquadratura d’ambientazione"
+},
+{
+"key": "part02.html#227",
+"it": "Luogo · tempo · posizioni insieme, in testa alla scena"
+},
+{
+"key": "part02.html#228",
+"it": "<small>Reverse</small>Controcampo"
+},
+{
+"key": "part02.html#229",
+"it": "Il taglio dall’angolo opposto a una OSS o a una soggettiva"
+},
+{
+"key": "part02.html#230",
+"it": "Alternali nei dialoghi; la regola dei 180° è d’obbligo"
+},
+{
+"key": "part02.html#231",
+"it": "<small>Master</small>Master"
+},
+{
+"key": "part02.html#232",
+"it": "Tutta la scena, dall’inizio alla fine, in una sola dimensione"
+},
+{
+"key": "part02.html#233",
+"it": "La rete di sicurezza del montaggio; d’obbligo per chi inizia"
+},
+{
+"key": "part02.html#234",
+"it": "Un’abitudine irrinunciabile sul set"
+},
+{
+"key": "part02.html#235",
+"it": "In ogni scena gira sempre 1 master e almeno 2 inserti. Se li salti per mancanza di tempo, te ne pentirai in montaggio."
+},
+{
+"key": "part02.html#236",
+"it": "<small>Esercizio</small>1.4"
+},
+{
+"key": "part02.html#237",
+"it": "Compito"
+},
+{
+"key": "part02.html#238",
+"it": "Gira una scena di 30 secondi che comprenda quinta di spalla, soggettiva, inserto e inquadratura di reazione."
+},
+{
+"key": "part02.html#239",
+"it": "Consiglio"
+},
+{
+"key": "part02.html#240",
+"it": "Gira le inquadrature di reazione più lunghe delle battute. In montaggio sono le più usate."
+},
+{
+"key": "part02.html#241",
+"it": "Valutazione"
+},
+{
+"key": "part02.html#242",
+"it": "La funzione di ogni inquadratura regge al montaggio?"
+},
+{
+"key": "part02.html#243",
+"it": "Risposta modello"
+},
+{
+"key": "part02.html#244",
+"it": "Usa soggettiva e inserti perché il pubblico scopra ciò che scopre il personaggio, nello stesso istante."
+},
+{
+"key": "part02.html#245",
+"it": "<b>PARTE 02</b>Il linguaggio del video"
+},
+{
+"key": "part02.html#246",
+"it": "Angolazione: la forza dell’altezza della camera"
+},
+{
+"key": "part02.html#247",
+"it": "L’altezza della camera stabilisce il rango di un personaggio. Limita un lavoro a due o tre angolazioni, così ciascuna conserva il suo significato."
+},
+{
+"key": "part02.html#248",
+"it": "<b>Foto di riferimento 1.5A</b>Immagini generate – riferimento di regia"
+},
+{
+"key": "part02.html#249",
+"it": "<b>Ad altezza occhi</b>Neutra e alla pari – lo standard per dialoghi e interviste; la più sicura, ma piatta"
+},
+{
+"key": "part02.html#250",
+"it": "<b>Dall’alto (plongée)</b>Piccolo e vulnerabile – difficoltà, tenerezza, sintesi. Può sembrare sminuente"
+},
+{
+"key": "part02.html#251",
+"it": "<b>Dal basso (contre-plongée)</b>Autorità e minaccia – prodotti protagonisti, personaggi forti. Attenzione a soffitto e luci in campo"
+},
+{
+"key": "part02.html#252",
+"it": "<b>Foto di riferimento 1.5B</b>Immagini generate – riferimento di regia"
+},
+{
+"key": "part02.html#253",
+"it": "<b>A volo d’uccello</b>A piombo – cucina, unboxing, mappe. Schematica, ma senza espressioni del volto"
+},
+{
+"key": "part02.html#254",
+"it": "<b>Angolo olandese</b>Inquietudine inclinata – tensione crescente, allucinazione. L’abuso risulta infantile"
+},
+{
+"key": "part02.html#255",
+"it": "<b>Dal basso estremo</b>Da terra verso l’alto – veicoli, edifici, mostri. Soverchiante e straniante; proteggi l’obiettivo"
+},
+{
+"key": "part02.html#256",
+"it": "<b>Fig. 13</b> 5 angolazioni per altezza della camera"
+},
+{
+"key": "part02.html#257",
+"it": "<b>Fig. 14</b> Vista laterale di 5 altezze della camera"
+},
+{
+"key": "part02.html#258",
+"it": "<b>Fig. 15</b> Posizioni della camera intorno al soggetto"
+}
+]

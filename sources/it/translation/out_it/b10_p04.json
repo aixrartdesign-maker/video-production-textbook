@@ -1,0 +1,618 @@
+[
+{
+"key": "part09.html#347",
+"it": "Uso del video"
+},
+{
+"key": "part09.html#348",
+"it": "Ideale per"
+},
+{
+"key": "part09.html#349",
+"it": "Naver Blog"
+},
+{
+"key": "part09.html#350",
+"it": "Primo per traffico di ricerca in Corea"
+},
+{
+"key": "part09.html#351",
+"it": "Visibilità limitata sugli altri motori di ricerca"
+},
+{
+"key": "part09.html#352",
+"it": "Player nativo o embed di YouTube"
+},
+{
+"key": "part09.html#353",
+"it": "Post informativi in coreano, temi locali"
+},
+{
+"key": "part09.html#354",
+"it": "Tistory"
+},
+{
+"key": "part09.html#355",
+"it": "Personalizzazione libera, visibilità su Google"
+},
+{
+"key": "part09.html#356",
+"it": "Traffico iniziale lento"
+},
+{
+"key": "part09.html#357",
+"it": "Soprattutto embed di YouTube"
+},
+{
+"key": "part09.html#358",
+"it": "Archivio di testi lunghi, AdSense"
+},
+{
+"key": "part09.html#359",
+"it": "Brunch"
+},
+{
+"key": "part09.html#360",
+"it": "Visibilità basata sulla qualità della scrittura"
+},
+{
+"key": "part09.html#361",
+"it": "Serve l’approvazione, limiti all’uso commerciale"
+},
+{
+"key": "part09.html#362",
+"it": "Embed video possibili"
+},
+{
+"key": "part09.html#363",
+"it": "Saggi, branding"
+},
+{
+"key": "part09.html#364",
+"it": "WordPress"
+},
+{
+"key": "part09.html#365",
+"it": "Libertà totale, estensibilità"
+},
+{
+"key": "part09.html#366",
+"it": "Gestisci tutto da solo"
+},
+{
+"key": "part09.html#367",
+"it": "Embed di ogni tipo"
+},
+{
+"key": "part09.html#368",
+"it": "Sito portfolio"
+},
+{
+"key": "part09.html#369",
+"it": "Medium"
+},
+{
+"key": "part09.html#370",
+"it": "Lettori globali, layout pulito"
+},
+{
+"key": "part09.html#371",
+"it": "Poco traffico coreano"
+},
+{
+"key": "part09.html#372",
+"it": "Per lo più embed"
+},
+{
+"key": "part09.html#373",
+"it": "Articoli in inglese, portata globale"
+},
+{
+"key": "part09.html#374",
+"it": "Pagina Notion pubblica"
+},
+{
+"key": "part09.html#375",
+"it": "Rapida da creare, gratuita"
+},
+{
+"key": "part09.html#376",
+"it": "SEO debole"
+},
+{
+"key": "part09.html#377",
+"it": "Embed"
+},
+{
+"key": "part09.html#378",
+"it": "Portfolio rapido"
+},
+{
+"key": "part09.html#379",
+"it": "Inserire il video in un blog"
+},
+{
+"key": "part09.html#380",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part09.html#381",
+"it": "Riportare la sceneggiatura del video nel corpo del testo fa crescere molto il traffico di ricerca. Ripulire i sottotitoli automatici è un modo rapido per farlo."
+},
+{
+"key": "part09.html#382",
+"it": "Metti un testo di sintesi sopra e sotto il video per assicurarti sia visibilità nella ricerca sia tempo di permanenza."
+},
+{
+"key": "part09.html#383",
+"it": "Inserisci i termini di ricerca in modo naturale nel titolo e nel primo paragrafo. La ripetizione forzata, anzi, viene penalizzata."
+},
+{
+"key": "part09.html#384",
+"it": "Aggiungi il testo alternativo alle immagini. Aiuta sia l’accessibilità sia la ricerca."
+},
+{
+"key": "part09.html#385",
+"it": "Per un portfolio, racconta nell’ordine il processo di produzione, la soluzione dei problemi e il risultato. Un post con i soli risultati non si fa notare."
+},
+{
+"key": "part09.html#386",
+"it": "<small>Esercizio</small>8.7"
+},
+{
+"key": "part09.html#387",
+"it": "Compito"
+},
+{
+"key": "part09.html#388",
+"it": "Pubblica lo stesso resoconto di lavorazione su due blog e confronta il traffico di ricerca."
+},
+{
+"key": "part09.html#389",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#390",
+"it": "Metti i termini di ricerca nel titolo e descrivi le immagini nel testo."
+},
+{
+"key": "part09.html#391",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#392",
+"it": "Comprensione della SEO"
+},
+{
+"key": "part09.html#393",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#394",
+"it": "Analizza un mese di termini di ricerca in entrata per pianificare il prossimo post."
+},
+{
+"key": "part09.html#395",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#396",
+"it": "Indicatori chiave di prestazione"
+},
+{
+"key": "part09.html#397",
+"it": "Leggi le metriche in ordine. Copertura, CTR, retention, interazioni. Controllarle in sequenza restringe in fretta la causa."
+},
+{
+"key": "part09.html#398",
+"it": "<span class=\"ph-id\">P09-ANALYTICS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Curva di retention</b>Una dashboard di analisi video su un monitor, con una curva di retention che precipita dopo i primi secondi</span>"
+},
+{
+"key": "part09.html#399",
+"it": "<b>Nota</b>Curva di retention – la causa sta nell’inquadratura appena prima del crollo"
+},
+{
+"key": "part09.html#400",
+"it": "L’ordine di lettura delle metriche"
+},
+{
+"key": "part09.html#401",
+"it": "<b>01<em>Copertura</em></b>Se è bassa, il problema è la strategia di pubblicazione"
+},
+{
+"key": "part09.html#402",
+"it": "<b>02<em>CTR</em></b>Se è basso, il problema è in titolo e miniatura"
+},
+{
+"key": "part09.html#403",
+"it": "<b>03<em>Retention</em></b>Se è bassa, il problema è il contenuto"
+},
+{
+"key": "part09.html#404",
+"it": "<b>04<em>Interazioni</em></b>Se sono basse, il problema è la relazione"
+},
+{
+"key": "part09.html#405",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part09.html#406",
+"it": "Trova i cali ripidi nel grafico di retention e riguarda quelle scene."
+},
+{
+"key": "part09.html#407",
+"it": "Metrica"
+},
+{
+"key": "part09.html#408",
+"it": "Significato"
+},
+{
+"key": "part09.html#409",
+"it": "Formula o fonte"
+},
+{
+"key": "part09.html#410",
+"it": "Come migliorare"
+},
+{
+"key": "part09.html#411",
+"it": "Copertura"
+},
+{
+"key": "part09.html#412",
+"it": "Quante persone l’hanno visto"
+},
+{
+"key": "part09.html#413",
+"it": "Statistiche della piattaforma"
+},
+{
+"key": "part09.html#414",
+"it": "Orario di pubblicazione, hashtag"
+},
+{
+"key": "part09.html#415",
+"it": "Tasso di clic"
+},
+{
+"key": "part09.html#416",
+"it": "Clic per impressione"
+},
+{
+"key": "part09.html#417",
+"it": "Clic ÷ impressioni"
+},
+{
+"key": "part09.html#418",
+"it": "Titolo e miniatura"
+},
+{
+"key": "part09.html#419",
+"it": "Tasso di visualizzazione (VTR)"
+},
+{
+"key": "part09.html#420",
+"it": "Visualizzazioni per impressione"
+},
+{
+"key": "part09.html#421",
+"it": "Visualizzazioni ÷ impressioni"
+},
+{
+"key": "part09.html#422",
+"it": "Riprogettare i primi 3 s"
+},
+{
+"key": "part09.html#423",
+"it": "Tasso di completamento"
+},
+{
+"key": "part09.html#424",
+"it": "Quota di chi ha guardato fino alla fine"
+},
+{
+"key": "part09.html#425",
+"it": "Visioni complete ÷ visualizzazioni"
+},
+{
+"key": "part09.html#426",
+"it": "Accorciare"
+},
+{
+"key": "part09.html#427",
+"it": "Tempo di visualizzazione medio"
+},
+{
+"key": "part09.html#428",
+"it": "Tempo effettivo di visione"
+},
+{
+"key": "part09.html#429",
+"it": "Tempo totale ÷ visualizzazioni"
+},
+{
+"key": "part09.html#430",
+"it": "Analizzare i punti di abbandono"
+},
+{
+"key": "part09.html#431",
+"it": "Tasso di interazione"
+},
+{
+"key": "part09.html#432",
+"it": "Mi piace, commenti, condivisioni, salvataggi"
+},
+{
+"key": "part09.html#433",
+"it": "Interazioni ÷ copertura"
+},
+{
+"key": "part09.html#434",
+"it": "Progettare motivi per condividere"
+},
+{
+"key": "part09.html#435",
+"it": "Crescita dei follower"
+},
+{
+"key": "part09.html#436",
+"it": "Aumento netto per post"
+},
+{
+"key": "part09.html#437",
+"it": "Aumento ÷ copertura"
+},
+{
+"key": "part09.html#438",
+"it": "Affinare l’identità del canale"
+},
+{
+"key": "part09.html#439",
+"it": "Tasso di salvataggio"
+},
+{
+"key": "part09.html#440",
+"it": "Salvataggi rispetto alla copertura"
+},
+{
+"key": "part09.html#441",
+"it": "Salvataggi ÷ copertura"
+},
+{
+"key": "part09.html#442",
+"it": "Aumentare la densità di informazioni"
+},
+{
+"key": "part09.html#443",
+"it": "Costo per visualizzazione"
+},
+{
+"key": "part09.html#444",
+"it": "Efficienza pubblicitaria"
+},
+{
+"key": "part09.html#445",
+"it": "Costo ÷ visualizzazioni"
+},
+{
+"key": "part09.html#446",
+"it": "Targeting, cambio delle creatività"
+},
+{
+"key": "part09.html#447",
+"it": "Brand Lift"
+},
+{
+"key": "part09.html#448",
+"it": "Variazione di notorietà e gradimento"
+},
+{
+"key": "part09.html#449",
+"it": "Sondaggi prima e dopo"
+},
+{
+"key": "part09.html#450",
+"it": "Chiarezza del messaggio"
+},
+{
+"key": "part09.html#451",
+"it": "<small>Esercizio</small>8.8"
+},
+{
+"key": "part09.html#452",
+"it": "Compito"
+},
+{
+"key": "part09.html#453",
+"it": "Metti in tabella visualizzazioni, durata di visualizzazione media e CTR di 3 tuoi video e individua che cosa migliorare."
+},
+{
+"key": "part09.html#454",
+"it": "Consiglio"
+},
+{
+"key": "part09.html#455",
+"it": "Trova i cali ripidi nel grafico di retention e riguarda quelle scene."
+},
+{
+"key": "part09.html#456",
+"it": "Valutazione"
+},
+{
+"key": "part09.html#457",
+"it": "Accuratezza nell’interpretare le metriche, ipotesi sulle cause"
+},
+{
+"key": "part09.html#458",
+"it": "Risposta modello"
+},
+{
+"key": "part09.html#459",
+"it": "Carica una nuova versione con i punti di abbandono corretti e verifica il cambiamento."
+},
+{
+"key": "part09.html#460",
+"it": "Contesto 17"
+},
+{
+"key": "part09.html#461",
+"it": "Che cosa cambia con l’IA generativa"
+},
+{
+"key": "part09.html#462",
+"it": "Prima di confrontare gli strumenti, vediamo dove questa tecnologia entra nel processo di produzione. L’IA generativa per il video è cresciuta lungo tre rami: modelli che creano immagini dal testo, modelli video che creano movimento da immagini e testo, modelli audio che creano voci e musica. Le radici sono diverse, ma il funzionamento è simile. Imparano schemi ricorrenti da enormi quantità di dati, poi producono risultati che soddisfano in modo probabilistico le condizioni date. Per questo lo stesso prompt dà ogni volta un risultato diverso."
+},
+{
+"key": "part09.html#463",
+"it": "Nella pratica questa natura probabilistica si manifesta in due modi: le bozze arrivano molto in fretta, e lo stesso risultato è difficile da ottenere due volte. Così, sul campo, l’IA serve meno a produrre il risultato finale che a esplorare nelle fasi iniziali. È adatta alle fasi in cui servono molte opzioni in poco tempo: immagini di massima per lo storyboard, concept art, bozze di layout, bozze di sottotitoli, copy alternativi."
+},
+{
+"key": "part09.html#464",
+"it": "La coerenza è la sfida più grande. Il volto dello stesso personaggio cambia leggermente da una scena all’altra, e la luce nello stesso ambiente cambia da un’inquadratura all’altra. I rimedi: fornire immagini di riferimento, creare prima un’immagine chiave e generare il resto in base a quella, correggere in post-produzione. Decidi in anticipo «fin dove arriva l’IA e da dove subentrano le persone», o il piano di lavorazione salterà."
+},
+{
+"key": "part09.html#465",
+"it": "Alla fine, il metro è la soluzione dei problemi. L’IA produce in fretta risultati mediamente plausibili, ma non sa rispondere al perché questo brand debba dire questo messaggio adesso, né a che cosa il pubblico debba provare in questa scena. I giudizi su ideazione, struttura e gusto spettano ancora alle persone. Più gli strumenti costano poco, più la differenza sta nelle domande di chi li usa."
+},
+{
+"key": "part09.html#466",
+"it": "Seguono anche questioni etiche e legali. L’origine dei dati di addestramento, l’imitazione dello stile di un artista preciso, la sintesi del volto o della voce di una persona reale: tutto va trattato con cautela. In un progetto commerciale, verifica nei termini d’uso se l’uso commerciale è consentito e a chi spettano i diritti, e comunica in anticipo al cliente fin dove verrà usata l’IA. Quando usi il volto o la voce di una persona, ottieni sempre il suo consenso."
+},
+{
+"key": "part09.html#467",
+"it": "In breve, questa tecnologia non elimina una fase della produzione: abbassa drasticamente il costo della prima bozza in ogni fase. Non cresce il tempo libero: crescono le opzioni. I professionisti capaci di quest’epoca sono quelli che sanno che cosa scegliere da un mucchio di bozze più grande."
+},
+{
+"key": "part09.html#468",
+"it": "Letture consigliate – Ethan Mollick, Co-Intelligence · Korea Copyright Commission, Generative AI Copyright Guide · Kai-Fu Lee, AI Superpowers"
+},
+{
+"key": "part09.html#469",
+"it": "<b>PARTE 09</b>Gestione delle piattaforme e IA generativa"
+},
+{
+"key": "part09.html#470",
+"it": "Strumenti di IA generativa a confronto"
+},
+{
+"key": "part09.html#471",
+"it": "Come si confrontano gli strumenti e come usarli. In ogni ambito gli strumenti occupano un posto diverso nella pratica. Se sai dove usarli e a che cosa fare attenzione, il tuo giudizio regge anche quando i nomi degli strumenti cambiano."
+},
+{
+"key": "part09.html#472",
+"it": "10 anni di strumenti video di IA generativa – dal laboratorio alla sala di montaggio"
+},
+{
+"key": "part09.html#473",
+"it": "Ricerca di base 2014–2020"
+},
+{
+"key": "part09.html#474",
+"it": "Diffusione di massa 2022–2023 – dalle immagini al video"
+},
+{
+"key": "part09.html#475",
+"it": "Nella pratica dal 2024 – corsa dei modelli video · agenti"
+},
+{
+"key": "part09.html#476",
+"it": "GAN"
+},
+{
+"key": "part09.html#477",
+"it": "Articolo sulle reti avversarie"
+},
+{
+"key": "part09.html#478",
+"it": "Transformer"
+},
+{
+"key": "part09.html#479",
+"it": "Attenzione – l’ossatura di tutti i modelli successivi"
+},
+{
+"key": "part09.html#480",
+"it": "GPT-3"
+},
+{
+"key": "part09.html#481",
+"it": "I grandi modelli linguistici mostrano il loro potenziale"
+},
+{
+"key": "part09.html#482",
+"it": "Stable Diffusion · Midjourney"
+},
+{
+"key": "part09.html#483",
+"it": "ChatGPT"
+},
+{
+"key": "part09.html#484",
+"it": "La generazione di immagini diventa di massa, IA conversazionale"
+},
+{
+"key": "part09.html#485",
+"it": "Runway Gen-2 · Pika"
+},
+{
+"key": "part09.html#486",
+"it": "Testo·immagine → video breve"
+},
+{
+"key": "part09.html#487",
+"it": "Sora svelato · Kling · Veo"
+},
+{
+"key": "part09.html#488",
+"it": "Annuncio di MCP (Model Context Protocol)"
+},
+{
+"key": "part09.html#489",
+"it": "Parte la corsa dei modelli video, protocollo di collegamento tra strumenti"
+},
+{
+"key": "part09.html#490",
+"it": "Veo 3 · Seedance 1.0"
+},
+{
+"key": "part09.html#491",
+"it": "Higgsfield · Nano Banana"
+},
+{
+"key": "part09.html#492",
+"it": "Generazione del suono, strumenti per la coerenza dei personaggi"
+},
+{
+"key": "part09.html#493",
+"it": "Seedance 2.0 ecc."
+},
+{
+"key": "part09.html#494",
+"it": "I modelli si rinnovano ogni trimestre"
+},
+{
+"key": "part09.html#495",
+"it": "Come leggerlo – il 2014–2020 è stata l’epoca degli articoli scientifici; le immagini sono diventate di massa nel 2022, e dal 2023 è arrivato il video."
+},
+{
+"key": "part09.html#496",
+"it": "Dal 2024 in poi ricorda le tendenze, non i nomi dei modelli. La corsa dei modelli video, un protocollo che permette agli agenti di azionare direttamente gli strumenti (MCP), la coerenza di personaggi·scene."
+},
+{
+"key": "part09.html#497",
+"it": "Gli anni indicano la data di rilascio·annuncio. I nomi dei servizi cambiano, ma le categorie restano (vedi la mappa degli strumenti 9.13)."
+},
+{
+"key": "part09.html#498",
+"it": "<b>Fig. 83-1</b> 10 anni di strumenti video di IA generativa – dai GAN (2014) al Transformer (2017), alla generazione di immagini di massa (2022), alla corsa dei modelli video e a MCP (2024), fino al ricambio generazionale del 2026"
+},
+{
+"key": "part09.html#499",
+"it": "Tendenze attuali"
+},
+{
+"key": "part09.html#500",
+"it": "<small>Tendenza 1</small>La corsa dei modelli video"
+}
+]

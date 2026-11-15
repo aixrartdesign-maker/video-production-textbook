@@ -1,0 +1,602 @@
+[
+{
+"key": "part06.html#584",
+"it": "2.1 Storyboard"
+},
+{
+"key": "part06.html#585",
+"it": "Non è abilità nel disegno, ma un dispositivo che fa immaginare a dieci persone la stessa inquadratura. Per i video brevi, portalo fino all’animatic."
+},
+{
+"key": "part06.html#586",
+"it": "2.2 PPM"
+},
+{
+"key": "part06.html#587",
+"it": "Materiali inviati 48 ore prima; verbale condiviso il giorno stesso. È conclusa quando ognuno sa dire che cosa farà il giorno delle riprese."
+},
+{
+"key": "part06.html#588",
+"it": "2.9 Ruoli nel team"
+},
+{
+"key": "part06.html#589",
+"it": "Decide uno solo. Regole per i file e cartella condivisa dal primo giorno; scadenze interne un giorno prima."
+},
+{
+"key": "part06.html#590",
+"it": "2.11 Interviste"
+},
+{
+"key": "part06.html#591",
+"it": "2 macchine, doppia registrazione, 30 secondi di tono d’ambiente. Fai includere la domanda nelle risposte; copri i jump cut con il B-roll."
+},
+{
+"key": "part06.html#592",
+"it": "2.12 Sette concetti"
+},
+{
+"key": "part06.html#593",
+"it": "La struttura è ordine, la semina promessa, la messa in scena disposizione, la recitazione azione, l’emozione la parte del pubblico."
+},
+{
+"key": "part06.html#594",
+"it": "2.13 Aggettivi chiave"
+},
+{
+"key": "part06.html#595",
+"it": "Definisci il mondo con 3 aggettivi in tensione e traducili in colore · luce · ottica · ritmo · suono."
+},
+{
+"key": "part06.html#596",
+"it": "Domande per riflettere"
+},
+{
+"key": "part06.html#597",
+"it": "Qual è il concept in una frase del mio progetto? Funzionerebbe ancora con il logo di un concorrente?"
+},
+{
+"key": "part06.html#598",
+"it": "Se sì, non sei riuscito a distinguerti. Cerca di nuovo ciò che i concorrenti non possono dire, in una forma che puoi dimostrare con le immagini."
+},
+{
+"key": "part06.html#599",
+"it": "Hai rimandato qualche decisione al giorno delle riprese? Che cosa cambia se la prendi adesso?"
+},
+{
+"key": "part06.html#600",
+"it": "Una modifica il giorno delle riprese costa 20 volte più che in fase di concept. Invia i materiali della riunione 48 ore prima, condividi le decisioni per iscritto il giorno stesso e assicurati sempre un margine del 10% e un giorno di riprese di riserva."
+},
+{
+"key": "part03.html#0",
+"it": "PARTE"
+},
+{
+"key": "part03.html#1",
+"it": "<small>PARTE</small>03"
+},
+{
+"key": "part03.html#2",
+"it": "<b>Che cosa realizzi in questa PARTE</b>"
+},
+{
+"key": "part03.html#3",
+"it": "Ordine di impostazione dell’esposizione manuale"
+},
+{
+"key": "part03.html#4",
+"it": "Tabella dei preset per situazione"
+},
+{
+"key": "part03.html#5",
+"it": "Intervista di 1 minuto con lo smartphone"
+},
+{
+"key": "part03.html#6",
+"it": "Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#7",
+"it": "La macchina da presa è un dispositivo che registra la luce. Quanta luce, per quanto tempo e con quale sensibilità? Capiti questi tre punti, l’ordine delle operazioni è lo stesso su qualsiasi modello. Questa PARTE risponde alla domanda «Come si gira un buon video?» non con i numeri, ma con un ordine di giudizio."
+},
+{
+"key": "part03.html#8",
+"it": "Foto P-03 Ghiere di diaframma e fuoco su una cinepresa digitale · immagine generata"
+},
+{
+"key": "part03.html#9",
+"it": "<b>P-03</b> Ghiere di diaframma e fuoco su una cinepresa digitale"
+},
+{
+"key": "part03.html#10",
+"it": "Come usare questo capitolo in aula"
+},
+{
+"key": "part03.html#11",
+"it": "Capire il triangolo dell’esposizione e impostare l’esposizione in manuale"
+},
+{
+"key": "part03.html#12",
+"it": "<b>Materiali</b>Mirrorless o smartphone in modalità Pro, filtro ND, app esposimetro"
+},
+{
+"key": "part03.html#13",
+"it": "<b>10 min</b><i>Avvio</i><span>Confronta la stessa scena girata in automatico e in manuale</span>"
+},
+{
+"key": "part03.html#14",
+"it": "<b>15 min</b><i>Concetti</i><span>Blocca l’otturatore, imposta l’ISO base, dirigi con il diaframma. Perché in quest’ordine</span>"
+},
+{
+"key": "part03.html#15",
+"it": "<b>10 min</b><i>Tavole</i><span>Illustra la pila dei frame rate e il disco dell’angolo dell’otturatore</span>"
+},
+{
+"key": "part03.html#16",
+"it": "<b>10 min</b><i>Esercizio</i><span>Gira una scena a f/2,0 e a f/8, annota le regolazioni</span>"
+},
+{
+"key": "part03.html#17",
+"it": "<b>5 min</b><i>Chiusura</i><span>Distribuisci la tabella dei preset</span>"
+},
+{
+"key": "part03.html#18",
+"it": "<b>Punto di controllo</b>Sanno spiegare che cosa hanno bloccato per primo nel cambiare l’esposizione"
+},
+{
+"key": "part03.html#19",
+"it": "PARTE 03"
+},
+{
+"key": "part03.html#20",
+"it": "Introduzione"
+},
+{
+"key": "part03.html#21",
+"it": "La macchina da presa è un dispositivo che registra la luce. Afferrata questa frase, l’ordine delle operazioni è lo stesso su qualsiasi modello. Quanta luce far entrare, per quanto tempo e con quale sensibilità riceverla. Ogni altra funzione è al servizio di queste tre."
+},
+{
+"key": "part03.html#22",
+"it": "L’errore più comune di chi inizia è lasciare tutto all’automatico. L’esposizione automatica cambia la luminosità a ogni nuvola che passa e il bilanciamento del bianco automatico dà a ogni inquadratura un colore diverso. Il girato è materiale che deve poter essere montato insieme: la coerenza viene prima della rifinitura di una singola inquadratura."
+},
+{
+"key": "part03.html#23",
+"it": "Questa parte è piena di numeri, ma non devi impararli a memoria. Ti serve la sensibilità per ciò che guadagni e perdi girando ogni ghiera. Apri il diaframma e lo sfondo si sfoca, ma aumentano gli errori di fuoco; alza la sensibilità e l’immagine si schiarisce, ma cresce il rumore. Ogni scelta ha un prezzo, e il DP è chi conosce quel prezzo e lo paga."
+},
+{
+"key": "part03.html#24",
+"it": "Contesto 4"
+},
+{
+"key": "part03.html#25",
+"it": "Obiettivo e occhio – visione della macchina e visione umana"
+},
+{
+"key": "part03.html#26",
+"it": "La macchina da presa viene spesso paragonata all’occhio, ma i due non vedono il mondo allo stesso modo. L’occhio umano vede nitido solo in una zona minuscola chiamata fovea; gli occhi saltano da un punto all’altro e il cervello cuce i frammenti in un’unica scena. Per questo ci sembra di vedere altrettanto bene, nello stesso momento, una finestra luminosa e una stanza buia."
+},
+{
+"key": "part03.html#27",
+"it": "Il sensore registra l’intero quadro nelle stesse condizioni in un solo istante: così l’esterno si brucia nel bianco o l’interno sprofonda nel nero. Studiamo l’esposizione e la gamma dinamica perché ora è chi gira a dover decidere ciò che l’occhio faceva in automatico."
+},
+{
+"key": "part03.html#28",
+"it": "Anche la lunghezza focale è spesso fraintesa. A rigore, a cambiare la prospettiva non è la lunghezza focale, ma la distanza tra macchina e soggetto. Per riempire il quadro con un volto usando un grandangolo devi avvicinarti, ed è quella distanza a far sembrare grande il naso. Per ottenere la stessa dimensione con un teleobiettivo devi arretrare molto, ed è quella distanza a far sembrare vicino lo sfondo. La prospettiva cambia con la posizione della macchina, non con l’obiettivo."
+},
+{
+"key": "part03.html#29",
+"it": "Anche «obiettivo normale» è più che altro una convenzione. La diagonale di un sensore pieno formato (full frame) misura circa 43 mm: le focali vicine a quel valore sono considerate le più prossime alla prospettiva naturale e, per consuetudine, si chiama normale il 50 mm. Più del numero conta se il pubblico vive la scena come un «vedere da vicino» o come uno «sbirciare da lontano»."
+},
+{
+"key": "part03.html#30",
+"it": "Il numero f è il rapporto tra la lunghezza focale e il diametro dell’apertura del diaframma. A f/2 l’apertura è più grande che a f/4 e lascia passare quattro volte la luce; più grande è l’apertura, minore è la profondità di campo. La profondità di campo varia anche con la lunghezza focale, la distanza dal soggetto e la dimensione del sensore: per ridurla puoi anche avvicinarti al soggetto o allontanare lo sfondo. I termini tecnici formano un unico sistema collegato."
+},
+{
+"key": "part03.html#31",
+"it": "In definitiva, la macchina da presa non è un dispositivo che imita l’occhio, ma uno che mostra il mondo in modi che l’occhio non conosce. Congela 0,1 secondi, dilata 1 secondo in 10 e guarda da altezze e distanze impossibili. I numeri di questo capitolo sono la lingua per usare quella nuova visione come vuoi tu."
+},
+{
+"key": "part03.html#32",
+"it": "Per approfondire – Blain Brown, Cinematography: Theory and Practice · Gustavo Mercado, The Filmmaker’s Eye"
+},
+{
+"key": "part03.html#33",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#34",
+"it": "Genealogia delle macchine da presa"
+},
+{
+"key": "part03.html#35",
+"it": "Ogni volta che l’attrezzatura è diventata più leggera, è nato un nuovo linguaggio visivo. Chiediti prima di tutto che cosa rendono possibile le caratteristiche fisiche dell’attrezzatura che hai in mano."
+},
+{
+"key": "part03.html#36",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part03.html#37",
+"it": "Negli anni 2020 è il divario di giudizio, non di attrezzatura, a decidere il risultato."
+},
+{
+"key": "part03.html#38",
+"it": "Periodo"
+},
+{
+"key": "part03.html#39",
+"it": "Attrezzatura"
+},
+{
+"key": "part03.html#40",
+"it": "Che cosa è cambiato"
+},
+{
+"key": "part03.html#41",
+"it": "Cinepresa a manovella"
+},
+{
+"key": "part03.html#42",
+"it": "La velocità dipendeva dalla mano; prima della standardizzazione dei frame rate"
+},
+{
+"key": "part03.html#43",
+"it": "Macchine insonorizzate (blimp) per il sonoro in presa diretta, studio system"
+},
+{
+"key": "part03.html#44",
+"it": "L’attrezzatura pesante teneva le riprese al chiuso"
+},
+{
+"key": "part03.html#45",
+"it": "Cineprese 16 mm leggere, registratori portatili"
+},
+{
+"key": "part03.html#46",
+"it": "Le macchine sul campo hanno creato il documentario e la Nouvelle Vague"
+},
+{
+"key": "part03.html#47",
+"it": "Telecamere ENG, Steadicam"
+},
+{
+"key": "part03.html#48",
+"it": "Si affermano lo stile giornalistico e il linguaggio della macchina in movimento"
+},
+{
+"key": "part03.html#49",
+"it": "Videocamere domestiche, formato DV"
+},
+{
+"key": "part03.html#50",
+"it": "Inizia l’era in cui il singolo possiede e produce video"
+},
+{
+"key": "part03.html#51",
+"it": "DSLR video"
+},
+{
+"key": "part03.html#52",
+"it": "Poca profondità di campo da sensore grande, a basso costo. La cosiddetta rivoluzione DSLR"
+},
+{
+"key": "part03.html#53",
+"it": "Mirrorless, 4K, Log, gimbal"
+},
+{
+"key": "part03.html#54",
+"it": "Qualità commerciale anche con una troupe di 1 persona"
+},
+{
+"key": "part03.html#55",
+"it": "Log su smartphone, cineprese digitali compatte, monitoraggio wireless"
+},
+{
+"key": "part03.html#56",
+"it": "Divario di giudizio più che di attrezzatura"
+},
+{
+"key": "part03.html#57",
+"it": "Che cosa leggere nella genealogia"
+},
+{
+"key": "part03.html#58",
+"it": "Il 16 mm ha creato il documentario, la DSLR il video web a fuoco ridotto, il gimbal la soggettiva fluttuante e lo smartphone il video breve verticale. Le caratteristiche fisiche dell’attrezzatura plasmano il linguaggio visivo."
+},
+{
+"key": "part03.html#59",
+"it": "<small>Esercizio</small>3.1"
+},
+{
+"key": "part03.html#60",
+"it": "Compito"
+},
+{
+"key": "part03.html#61",
+"it": "Gira la stessa scena con due tra pellicola · videocamera · DSLR · smartphone e confronta le caratteristiche dell’immagine."
+},
+{
+"key": "part03.html#62",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#63",
+"it": "Prima del confronto uniforma il più possibile esposizione e bilanciamento del bianco, altrimenti le differenze tra i dispositivi non emergono."
+},
+{
+"key": "part03.html#64",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#65",
+"it": "Condizioni controllate, osservazioni specifiche"
+},
+{
+"key": "part03.html#66",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#67",
+"it": "Valuta voce per voce gamma dinamica, rumore e resa cromatica."
+},
+{
+"key": "part03.html#68",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#69",
+"it": "Tipi di macchina e come scegliere"
+},
+{
+"key": "part03.html#70",
+"it": "Scegliere una macchina si riduce a tre domande: l’inquadratura si muove, la luce è scarsa, l’immagine verrà ingrandita molto in post."
+},
+{
+"key": "part03.html#71",
+"it": "Tipo"
+},
+{
+"key": "part03.html#72",
+"it": "Punti di forza"
+},
+{
+"key": "part03.html#73",
+"it": "Punti deboli"
+},
+{
+"key": "part03.html#74",
+"it": "Ideale per"
+},
+{
+"key": "part03.html#75",
+"it": "Costo d’ingresso ca."
+},
+{
+"key": "part03.html#76",
+"it": "Cinepresa digitale"
+},
+{
+"key": "part03.html#77",
+"it": "Ampia latitudine, ND integrati, codec robusti"
+},
+{
+"key": "part03.html#78",
+"it": "Pesante; richiede accessori"
+},
+{
+"key": "part03.html#79",
+"it": "Riprese principali di spot, fiction"
+},
+{
+"key": "part03.html#80",
+"it": "Molto alto"
+},
+{
+"key": "part03.html#81",
+"it": "Mirrorless"
+},
+{
+"key": "part03.html#82",
+"it": "Rapporto qualità-prezzo, Log a 10 bit, 4K 60p"
+},
+{
+"key": "part03.html#83",
+"it": "Surriscaldamento, limiti di durata di registrazione"
+},
+{
+"key": "part03.html#84",
+"it": "Progetti di studio, gran parte dei video web commerciali"
+},
+{
+"key": "part03.html#85",
+"it": "Medio"
+},
+{
+"key": "part03.html#86",
+"it": "Smartphone"
+},
+{
+"key": "part03.html#87",
+"it": "Sempre a portata di mano, macro, caricamento immediato"
+},
+{
+"key": "part03.html#88",
+"it": "Debole con poca luce, limiti ottici"
+},
+{
+"key": "part03.html#89",
+"it": "Video brevi, vita quotidiana, soggettiva"
+},
+{
+"key": "part03.html#90",
+"it": "Basso"
+},
+{
+"key": "part03.html#91",
+"it": "Action camera"
+},
+{
+"key": "part03.html#92",
+"it": "Ultragrandangolo, forte stabilizzazione, impermeabile"
+},
+{
+"key": "part03.html#93",
+"it": "Qualità d’immagine debole, poca luce"
+},
+{
+"key": "part03.html#94",
+"it": "Velocità, soggettiva su supporto, luoghi rischiosi"
+},
+{
+"key": "part03.html#95",
+"it": "Basso"
+},
+{
+"key": "part03.html#96",
+"it": "Drone"
+},
+{
+"key": "part03.html#97",
+"it": "Vista aerea, mostra la scala"
+},
+{
+"key": "part03.html#98",
+"it": "Permessi, limiti meteo"
+},
+{
+"key": "part03.html#99",
+"it": "Un’inquadratura di apertura/chiusura"
+},
+{
+"key": "part03.html#100",
+"it": "Medio"
+},
+{
+"key": "part03.html#101",
+"it": "Gimbal integrato"
+},
+{
+"key": "part03.html#102",
+"it": "Inquadrature a seguire in autonomia"
+},
+{
+"key": "part03.html#103",
+"it": "Sensore piccolo, ottica fissa"
+},
+{
+"key": "part03.html#104",
+"it": "Inquadrature in movimento per troupe di 1 persona"
+},
+{
+"key": "part03.html#105",
+"it": "Basso–medio"
+},
+{
+"key": "part03.html#106",
+"it": "Videocamera broadcast"
+},
+{
+"key": "part03.html#107",
+"it": "Registrazione lunga, zoom ottico, ingressi audio"
+},
+{
+"key": "part03.html#108",
+"it": "Sfocato difficile da ottenere"
+},
+{
+"key": "part03.html#109",
+"it": "Eventi, lezioni, dirette"
+},
+{
+"key": "part03.html#110",
+"it": "Medio"
+},
+{
+"key": "part03.html#111",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#112",
+"it": "Non scegliere «le specifiche migliori»: scegli «le specifiche sufficienti per il risultato»."
+},
+{
+"key": "part03.html#113",
+"it": "Tre domande decisive"
+},
+{
+"key": "part03.html#114",
+"it": "<b>01</b><span>L’inquadratura si muove: se sì, serve un sistema di stabilizzazione.</span>"
+},
+{
+"key": "part03.html#115",
+"it": "<b>02</b><span>La luce è scarsa: se è buio, serve un sensore grande.</span>"
+},
+{
+"key": "part03.html#116",
+"it": "<b>03</b><span>Verrà ingrandita molto in post: se sì, serve un’alta risoluzione.</span>"
+},
+{
+"key": "part03.html#117",
+"it": "<small>Esercizio</small>3.2"
+},
+{
+"key": "part03.html#118",
+"it": "Compito"
+},
+{
+"key": "part03.html#119",
+"it": "Proponi pacchetti di ripresa, con budget, per 3 lavori ipotetici (intervista per YouTube, brand film, videoclip)."
+},
+{
+"key": "part03.html#120",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#121",
+"it": "Cerca le tariffe di noleggio e calcola il costo al giorno."
+},
+{
+"key": "part03.html#122",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#123",
+"it": "Motivazioni solide (qualità d’immagine, mobilità, budget)"
+},
+{
+"key": "part03.html#124",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#125",
+"it": "Non sceglie «le specifiche migliori», ma «le specifiche sufficienti per il risultato»."
+},
+{
+"key": "part03.html#126",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#127",
+"it": "Dimensione del sensore e angolo di campo"
+},
+{
+"key": "part03.html#128",
+"it": "Più piccolo è il sensore, più stretto è il campo dello stesso obiettivo; più grande è il sensore, minore è la profondità di campo. Il fattore di crop traduce questa differenza in un numero."
+},
+{
+"key": "part03.html#129",
+"it": "<b>Fig. 28</b> Dimensioni dei sensori a confronto"
+},
+{
+"key": "part03.html#130",
+"it": "Sensore"
+},
+{
+"key": "part03.html#131",
+"it": "Dimensioni ca."
+},
+{
+"key": "part03.html#132",
+"it": "Fattore di crop"
+}
+]

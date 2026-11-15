@@ -1,0 +1,4 @@
+[
+ {"key": "part03.html#22", "find": "materiale che deve montarsi insieme", "replace": "materiale che deve poter essere montato insieme", "why": "other: unnatural reflexive 'montarsi'"},
+ {"key": "part03.html#27", "find": "alle stesse condizioni", "replace": "nelle stesse condizioni", "why": "grammar: preposition"}
+]

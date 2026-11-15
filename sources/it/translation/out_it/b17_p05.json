@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#252",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#253",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#254",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#255",
+"it": "Azione"
+},
+{
+"key": "templates.html#256",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#257",
+"it": "M · SE"
+},
+{
+"key": "templates.html#258",
+"it": "CUT 04"
+},
+{
+"key": "templates.html#259",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#260",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#261",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#262",
+"it": "Azione"
+},
+{
+"key": "templates.html#263",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#264",
+"it": "M · SE"
+},
+{
+"key": "templates.html#265",
+"it": "CUT 05"
+},
+{
+"key": "templates.html#266",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#267",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#268",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#269",
+"it": "Azione"
+},
+{
+"key": "templates.html#270",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#271",
+"it": "M · SE"
+},
+{
+"key": "templates.html#272",
+"it": "CUT 06"
+},
+{
+"key": "templates.html#273",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#274",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#275",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#276",
+"it": "Azione"
+},
+{
+"key": "templates.html#277",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#278",
+"it": "M · SE"
+},
+{
+"key": "templates.html#279",
+"it": "CUT 07"
+},
+{
+"key": "templates.html#280",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#281",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#282",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#283",
+"it": "Azione"
+},
+{
+"key": "templates.html#284",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#285",
+"it": "M · SE"
+},
+{
+"key": "templates.html#286",
+"it": "CUT 08"
+},
+{
+"key": "templates.html#287",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#288",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#289",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#290",
+"it": "Azione"
+},
+{
+"key": "templates.html#291",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#292",
+"it": "M · SE"
+},
+{
+"key": "templates.html#293",
+"it": "CUT 09"
+},
+{
+"key": "templates.html#294",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#295",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#296",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#297",
+"it": "Azione"
+},
+{
+"key": "templates.html#298",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#299",
+"it": "M · SE"
+},
+{
+"key": "templates.html#300",
+"it": "Linea punteggiata bordeaux = area del titolo. Una scheda = una frase. 9 schede fanno un carosello."
+},
+{
+"key": "templates.html#301",
+"it": "Modello di storyboard · 4:5 feed"
+},
+{
+"key": "templates.html#302",
+"it": "Altezza max nel feed di Instagram · 1080×1350"
+},
+{
+"key": "templates.html#303",
+"it": "Progetto ____________  Scena ____  Pagina ___/___"
+},
+{
+"key": "templates.html#304",
+"it": "Regia ________  Data ________  Versione v___"
+},
+{
+"key": "templates.html#305",
+"it": "CUT 01"
+},
+{
+"key": "templates.html#306",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#307",
+"it": "SIZE"
+},
+{
+"key": "templates.html#308",
+"it": "MOVE"
+},
+{
+"key": "templates.html#309",
+"it": "Azione"
+},
+{
+"key": "templates.html#310",
+"it": "SE"
+},
+{
+"key": "templates.html#311",
+"it": "NOTE"
+},
+{
+"key": "templates.html#312",
+"it": "CUT 02"
+},
+{
+"key": "templates.html#313",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#314",
+"it": "SIZE"
+},
+{
+"key": "templates.html#315",
+"it": "MOVE"
+},
+{
+"key": "templates.html#316",
+"it": "Azione"
+},
+{
+"key": "templates.html#317",
+"it": "SE"
+},
+{
+"key": "templates.html#318",
+"it": "NOTE"
+},
+{
+"key": "templates.html#319",
+"it": "CUT 03"
+},
+{
+"key": "templates.html#320",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#321",
+"it": "SIZE"
+},
+{
+"key": "templates.html#322",
+"it": "MOVE"
+},
+{
+"key": "templates.html#323",
+"it": "Azione"
+},
+{
+"key": "templates.html#324",
+"it": "SE"
+},
+{
+"key": "templates.html#325",
+"it": "NOTE"
+},
+{
+"key": "templates.html#326",
+"it": "CUT 04"
+},
+{
+"key": "templates.html#327",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#328",
+"it": "SIZE"
+},
+{
+"key": "templates.html#329",
+"it": "MOVE"
+},
+{
+"key": "templates.html#330",
+"it": "Azione"
+},
+{
+"key": "templates.html#331",
+"it": "SE"
+},
+{
+"key": "templates.html#332",
+"it": "NOTE"
+},
+{
+"key": "templates.html#333",
+"it": "CUT 05"
+},
+{
+"key": "templates.html#334",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#335",
+"it": "SIZE"
+},
+{
+"key": "templates.html#336",
+"it": "MOVE"
+},
+{
+"key": "templates.html#337",
+"it": "Azione"
+},
+{
+"key": "templates.html#338",
+"it": "SE"
+},
+{
+"key": "templates.html#339",
+"it": "NOTE"
+},
+{
+"key": "templates.html#340",
+"it": "CUT 06"
+},
+{
+"key": "templates.html#341",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#342",
+"it": "SIZE"
+},
+{
+"key": "templates.html#343",
+"it": "MOVE"
+},
+{
+"key": "templates.html#344",
+"it": "Azione"
+},
+{
+"key": "templates.html#345",
+"it": "SE"
+},
+{
+"key": "templates.html#346",
+"it": "NOTE"
+},
+{
+"key": "templates.html#347",
+"it": "CUT 07"
+},
+{
+"key": "templates.html#348",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#349",
+"it": "SIZE"
+},
+{
+"key": "templates.html#350",
+"it": "MOVE"
+},
+{
+"key": "templates.html#351",
+"it": "Azione"
+},
+{
+"key": "templates.html#352",
+"it": "SE"
+},
+{
+"key": "templates.html#353",
+"it": "NOTE"
+},
+{
+"key": "templates.html#354",
+"it": "CUT 08"
+},
+{
+"key": "templates.html#355",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#356",
+"it": "SIZE"
+},
+{
+"key": "templates.html#357",
+"it": "MOVE"
+},
+{
+"key": "templates.html#358",
+"it": "Azione"
+},
+{
+"key": "templates.html#359",
+"it": "SE"
+},
+{
+"key": "templates.html#360",
+"it": "NOTE"
+},
+{
+"key": "templates.html#361",
+"it": "CUT 09"
+},
+{
+"key": "templates.html#362",
+"it": "Area del titolo"
+},
+{
+"key": "templates.html#363",
+"it": "SIZE"
+},
+{
+"key": "templates.html#364",
+"it": "MOVE"
+},
+{
+"key": "templates.html#365",
+"it": "Azione"
+},
+{
+"key": "templates.html#366",
+"it": "SE"
+},
+{
+"key": "templates.html#367",
+"it": "NOTE"
+},
+{
+"key": "templates.html#368",
+"it": "Il formato che appare più grande nel feed. Un originale in 16:9 perde il 44% ai lati."
+},
+{
+"key": "templates.html#369",
+"it": "Modello di storyboard · 2:1 360·VR"
+},
+{
+"key": "templates.html#370",
+"it": "Sviluppo equirettangolare – avvolgente · 4096×2048 · 7680×3840"
+},
+{
+"key": "templates.html#371",
+"it": "Progetto ____________  Scena ____  Pagina ___/___"
+},
+{
+"key": "templates.html#372",
+"it": "Regia ________  Data ________  Versione v___"
+},
+{
+"key": "templates.html#373",
+"it": "CUT 01"
+},
+{
+"key": "templates.html#374",
+"it": "0° fronte"
+},
+{
+"key": "templates.html#375",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#376",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#377",
+"it": "Azione"
+},
+{
+"key": "templates.html#378",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#379",
+"it": "M · SE"
+},
+{
+"key": "templates.html#380",
+"it": "CUT 02"
+},
+{
+"key": "templates.html#381",
+"it": "0° fronte"
+},
+{
+"key": "templates.html#382",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#383",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#384",
+"it": "Azione"
+},
+{
+"key": "templates.html#385",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#386",
+"it": "M · SE"
+},
+{
+"key": "templates.html#387",
+"it": "CUT 03"
+},
+{
+"key": "templates.html#388",
+"it": "0° fronte"
+},
+{
+"key": "templates.html#389",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#390",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#391",
+"it": "Azione"
+},
+{
+"key": "templates.html#392",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#393",
+"it": "M · SE"
+},
+{
+"key": "templates.html#394",
+"it": "CUT 04"
+},
+{
+"key": "templates.html#395",
+"it": "0° fronte"
+},
+{
+"key": "templates.html#396",
+"it": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#397",
+"it": "MOVE / TR"
+},
+{
+"key": "templates.html#398",
+"it": "Azione"
+},
+{
+"key": "templates.html#399",
+"it": "N · SYNC"
+},
+{
+"key": "templates.html#400",
+"it": "M · SE"
+},
+{
+"key": "templates.html#401",
+"it": "CUT 05"
+}
+]

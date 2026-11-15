@@ -1,0 +1,8 @@
+[
+{"key": "part08.html#115", "find": "Qualcosa che di rado si vede ogni giorno", "replace": "Qualcosa che di rado si vede nella vita quotidiana", "why": "meaning: 'rarely ... every day' contradictory"},
+{"key": "part08.html#153", "find": "Ganci a contrasto", "replace": "Confronto tra ganci", "why": "meaning: hook contrast = comparing the hooks"},
+{"key": "part08.html#749", "find": "Assoli per componente", "replace": "Inquadrature soliste per componente", "why": "meaning: solo cuts, not musical solos; consistent with #751"},
+{"key": "part08.html#772", "find": "Materia e attitudine", "replace": "Materia e atteggiamento", "why": "meaning: false friend attitude/attitudine"},
+{"key": "part08.html#774", "find": "segue l’attitudine del performer", "replace": "segue l’atteggiamento del performer", "why": "meaning: false friend attitude/attitudine"},
+{"key": "part08.html#781", "find": "videoclip narrativi a lenta combustione", "replace": "videoclip narrativi dallo sviluppo lento", "why": "other: calque of slow-burn"}
+]

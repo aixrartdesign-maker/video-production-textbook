@@ -1,0 +1,6 @@
+[
+ {"key": "part11.html#560", "find": "Motion design", "replace": "Motion graphics", "why": "term: same as 'motion graphics' in neighbouring items"},
+ {"key": "part11.html#617", "find": "I compositing sembrano incollati", "replace": "Il compositing sembra incollato", "why": "grammar: invariable noun used as plural"},
+ {"key": "part12.html#113", "find": "Il più del lavoro manuale", "replace": "Gran parte del lavoro manuale", "why": "other: unnatural phrasing"},
+ {"key": "part12.html#180", "find": "nell’IA intermedia in media planning e direzione creativa, da principianti in", "replace": "nell’IA come intermedia in media planning e direzione creativa e come iniziale in", "why": "grammar: broken predicate construction"}
+]

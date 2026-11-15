@@ -1,0 +1,11 @@
+[
+{"key": "part07.html#401", "find": "Sanificazione · reso", "replace": "Sanificazione · riconsegna", "why": "meaning: headset is handed back, not a product return"},
+{"key": "part07.html#624", "find": "Parete LED", "replace": "LED wall", "why": "term: fixed term LED wall"},
+{"key": "part07.html#628", "find": "deve essere grande per leggersi", "replace": "deve essere grande per essere letto", "why": "grammar"},
+{"key": "part07.html#670", "find": "Serve immagine extra", "replace": "Serve un’immagine extra", "why": "grammar: missing article"},
+{"key": "part07.html#862", "find": "Più parallasse sembra più vicino;", "replace": "Con più parallasse l’oggetto sembra più vicino;", "why": "grammar: missing subject"},
+{"key": "part07.html#952", "find": "il movimento crea la dimensione", "replace": "il movimento crei la dimensione", "why": "grammar: subjunctive after l’idea che"},
+{"key": "part07.html#993", "find": "prima di che cosa mostrerai", "replace": "prima di ciò che mostrerai", "why": "other: unnatural phrasing"},
+{"key": "part08.html#8", "find": "immagine generativa", "replace": "immagine generata", "why": "term: consistent with «immagine generata» elsewhere"},
+{"key": "part08.html#15", "find": "sezionatela insieme", "replace": "sezionala insieme", "why": "grammar: tu/voi mix with «Scegli»"}
+]

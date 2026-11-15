@@ -1,0 +1,602 @@
+[
+{
+"key": "part11.html#341",
+"it": "<b>Nota</b>Networking di settore – il lavoro nel video prosegue con la comunicazione dentro e fuori dal set. L’atteggiamento si giudica al primo incontro"
+},
+{
+"key": "part11.html#342",
+"it": "<b>01</b><span>Arriva prima dell’orario concordato. Il ritardo di uno solo può far saltare l’intero piano.</span>"
+},
+{
+"key": "part11.html#343",
+"it": "<b>02</b><span>Se non sai, chiedi subito. Rimediare a ciò che hai fatto senza sapere costa molto di più.</span>"
+},
+{
+"key": "part11.html#344",
+"it": "<b>03</b><span>Ripeti le istruzioni per conferma. «Scalda un po’ il colore» sarà inteso da dieci persone in dieci modi diversi.</span>"
+},
+{
+"key": "part11.html#345",
+"it": "<b>04</b><span>Condividi per primo lo stato dei lavori. Chi parla prima che glielo chiedano si guadagna la fiducia.</span>"
+},
+{
+"key": "part11.html#346",
+"it": "<b>05</b><span>Segnala subito gli errori. Una segnalazione tardiva diventa un problema più grande dell’errore.</span>"
+},
+{
+"key": "part11.html#347",
+"it": "<b>06</b><span>Tieni in ordine file e cartelle. Una struttura che chiunque può aprire e capire è lo standard professionale.</span>"
+},
+{
+"key": "part11.html#348",
+"it": "<b>07</b><span>Tratta l’attrezzatura con cura. Da come tratti l’attrezzatura si legge come tratti il lavoro.</span>"
+},
+{
+"key": "part11.html#349",
+"it": "Dare e ricevere feedback"
+},
+{
+"key": "part11.html#350",
+"it": "Quando ricevi un feedback"
+},
+{
+"key": "part11.html#351",
+"it": "Prima ascolta fino in fondo"
+},
+{
+"key": "part11.html#352",
+"it": "Chiedi conferma invece di giustificarti"
+},
+{
+"key": "part11.html#353",
+"it": "Ripeti che cosa correggere ed entro quando"
+},
+{
+"key": "part11.html#354",
+"it": "Separa le emozioni dal lavoro"
+},
+{
+"key": "part11.html#355",
+"it": "Dopo la correzione, riferisci che cosa hai cambiato"
+},
+{
+"key": "part11.html#356",
+"it": "Quando dai un feedback"
+},
+{
+"key": "part11.html#357",
+"it": "Sii preciso, fino al timecode"
+},
+{
+"key": "part11.html#358",
+"it": "Niente «nel complesso manca qualcosa»"
+},
+{
+"key": "part11.html#359",
+"it": "Di’ prima che cosa funziona"
+},
+{
+"key": "part11.html#360",
+"it": "Proponi un’alternativa"
+},
+{
+"key": "part11.html#361",
+"it": "Non riprendere nessuno in pubblico"
+},
+{
+"key": "part11.html#362",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part11.html#363",
+"it": "Scambiarsi le note per timecode dimezza i tempi di revisione."
+},
+{
+"key": "part11.html#364",
+"it": "Esempio di note di feedback"
+},
+{
+"key": "part11.html#365",
+"it": "0:04 il sottotitolo entra con 0,3 s di ritardo / 0:12 il taglio arriva ad azione finita, trascina / 0:19 il volto è scuro, alza il gamma / 0:27 al logo a schermo manca 1 s."
+},
+{
+"key": "part11.html#366",
+"it": "<small>Esercizio</small>10.7"
+},
+{
+"key": "part11.html#367",
+"it": "Compito"
+},
+{
+"key": "part11.html#368",
+"it": "Annota 3 feedback ricevuti durante un progetto di gruppo e come hai reagito."
+},
+{
+"key": "part11.html#369",
+"it": "Consiglio"
+},
+{
+"key": "part11.html#370",
+"it": "Prendi il feedback come un’informazione sul lavoro, non come un’emozione."
+},
+{
+"key": "part11.html#371",
+"it": "Valutazione"
+},
+{
+"key": "part11.html#372",
+"it": "Comunicazione, avanzamento visibile"
+},
+{
+"key": "part11.html#373",
+"it": "Risposta modello"
+},
+{
+"key": "part11.html#374",
+"it": "Confronta il lavoro prima e dopo il feedback per mostrare la crescita."
+},
+{
+"key": "part11.html#375",
+"it": "<b>PARTE 11</b>Lavoro e carriera"
+},
+{
+"key": "part11.html#376",
+"it": "Primi 3 mesi e percorsi di crescita"
+},
+{
+"key": "part11.html#377",
+"it": "Imparare l’organizzazione, prendere velocità, guadagnare fiducia: tre passi in tre mesi che decidono i tuoi prossimi 3 anni."
+},
+{
+"key": "part11.html#378",
+"it": "<span class=\"ph-id\">P11-FIRSTDAY</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Primi 3 mesi</b>Un neoassunto al primo giorno in sala montaggio, un collega esperto gli illustra la timeline</span>"
+},
+{
+"key": "part11.html#379",
+"it": "<b>Nota</b>Primi 3 mesi – il primo mese serve a imparare cartelle, regole dei file e catena di approvazione"
+},
+{
+"key": "part11.html#380",
+"it": "<b>01</b><i>Mese 1 · Impara l’organizzazione</i>Cartelle, regole dei file, catena di approvazione, template più usati"
+},
+{
+"key": "part11.html#381",
+"it": "<b>02</b><i>Mese 2 · Prendi velocità</i>Automatizza il lavoro di routine con preset e template"
+},
+{
+"key": "part11.html#382",
+"it": "<b>03</b><i>Mese 3 · Guadagna fiducia</i>Realizza un miglioramento che nessuno ha chiesto"
+},
+{
+"key": "part11.html#383",
+"it": "<b>04</b><i>Mese 6 · Amplia il ruolo</i>Partecipa alla pianificazione; gestisci da solo un piccolo progetto"
+},
+{
+"key": "part11.html#384",
+"it": "<b>05</b><i>Anno 1 · Scegli una specialità</i>Scegli ciò che fai meglio e vai a fondo"
+},
+{
+"key": "part11.html#385",
+"it": "<b>06</b><i>Anni 2–3 · Giudizio</i>Valuta il lavoro altrui e indica la direzione"
+},
+{
+"key": "part11.html#386",
+"it": "<small>Esercizio</small>10.8"
+},
+{
+"key": "part11.html#387",
+"it": "Compito"
+},
+{
+"key": "part11.html#388",
+"it": "Pianifica i tuoi primi 3 mesi di lavoro, settimana per settimana."
+},
+{
+"key": "part11.html#389",
+"it": "Consiglio"
+},
+{
+"key": "part11.html#390",
+"it": "Elenca che cosa devi imparare alle voci strumenti, persone e regole."
+},
+{
+"key": "part11.html#391",
+"it": "Valutazione"
+},
+{
+"key": "part11.html#392",
+"it": "Realismo del piano"
+},
+{
+"key": "part11.html#393",
+"it": "Risposta modello"
+},
+{
+"key": "part11.html#394",
+"it": "Include perfino un elenco di domande da fare ai colleghi più esperti."
+},
+{
+"key": "part11.html#395",
+"it": "<b>PARTE 11</b>Lavoro e carriera"
+},
+{
+"key": "part11.html#396",
+"it": "Casi di assunzione"
+},
+{
+"key": "part11.html#397",
+"it": "Cinque casi tipici di percorsi professionali reali. Non contengono dati personali: lo scopo è vedere come si costruisce ciascun percorso."
+},
+{
+"key": "part11.html#398",
+"it": "<small>Caso A</small>Da montatore a PD di canale"
+},
+{
+"key": "part11.html#399",
+"it": "Lavoro di montaggio per YouTube all’università, 3 video a settimana per 6 mesi"
+},
+{
+"key": "part11.html#400",
+"it": "Montatore in un MCN dopo la laurea; dopo 1 anno entra nelle riunioni di pianificazione e diventa PD di canale"
+},
+{
+"key": "part11.html#401",
+"it": "Fattore chiave: raccogliere e condividere ogni settimana i dati di visualizzazione"
+},
+{
+"key": "part11.html#402",
+"it": "<small>Caso B</small>Dai video del dipartimento all’azienda"
+},
+{
+"key": "part11.html#403",
+"it": "Serie di video brevi promozionali del dipartimento come progetto di corso, pubblicata sul vero account dell’università"
+},
+{
+"key": "part11.html#404",
+"it": "Crescita di visualizzazioni e follower inserita nel portfolio; assunto nel team contenuti di un brand di medie dimensioni"
+},
+{
+"key": "part11.html#405",
+"it": "Fattore chiave: l’unico candidato con numeri reali di rendimento"
+},
+{
+"key": "part11.html#406",
+"it": "<small>Caso C</small>Specialista di motion graphics"
+},
+{
+"key": "part11.html#407",
+"it": "1 breve lavoro di motion a settimana su un account personale, per 1 anno"
+},
+{
+"key": "part11.html#408",
+"it": "A quota 50 lavori arrivano le prime richieste da freelance; dopo la laurea entra in uno studio di motion graphics"
+},
+{
+"key": "part11.html#409",
+"it": "Fattore chiave: la quantità che solo la costanza produce"
+},
+{
+"key": "part11.html#410",
+"it": "<small>Caso D</small>La via del set"
+},
+{
+"key": "part11.html#411",
+"it": "Molti lavori da assistente di set durante gli studi; da ultimo arrivato nella squadra luci impara attrezzature e gergo del set"
+},
+{
+"key": "part11.html#412",
+"it": "Dopo la laurea entra nel reparto camera di una casa di produzione"
+},
+{
+"key": "part11.html#413",
+"it": "Fattore chiave: fiducia e contatti nati sul set, resistenza fisica, mai un ritardo"
+},
+{
+"key": "part11.html#414",
+"it": "<small>Caso E</small>Partire dai video per l’e-commerce"
+},
+{
+"key": "part11.html#415",
+"it": "Assunto per fare video per pagine prodotto di e-commerce; ne realizza centinaia in sei mesi"
+},
+{
+"key": "part11.html#416",
+"it": "Acquista velocità e occhio per le luci di prodotto, poi passa alla produzione pubblicitaria"
+},
+{
+"key": "part11.html#417",
+"it": "Fattore chiave: abilità costruita da una mole di lavoro enorme"
+},
+{
+"key": "part11.html#418",
+"it": "<small>In comune</small>Che cosa dicono i cinque casi"
+},
+{
+"key": "part11.html#419",
+"it": "Nessuna attrezzatura speciale, nessun premio famoso"
+},
+{
+"key": "part11.html#420",
+"it": "Avevano un insieme di lavori finiti"
+},
+{
+"key": "part11.html#421",
+"it": "Sapevano parlare con i numeri"
+},
+{
+"key": "part11.html#422",
+"it": "Non hanno mollato"
+},
+{
+"key": "part11.html#423",
+"it": "<small>Esercizio</small>10.9"
+},
+{
+"key": "part11.html#424",
+"it": "Compito"
+},
+{
+"key": "part11.html#425",
+"it": "Intervista un laureato su come è stato assunto e scrivi una relazione sul caso."
+},
+{
+"key": "part11.html#426",
+"it": "Consiglio"
+},
+{
+"key": "part11.html#427",
+"it": "Chiedi dei fallimenti e dei rimedi, non solo di ciò che ha funzionato."
+},
+{
+"key": "part11.html#428",
+"it": "Valutazione"
+},
+{
+"key": "part11.html#429",
+"it": "Concretezza dei dettagli"
+},
+{
+"key": "part11.html#430",
+"it": "Risposta modello"
+},
+{
+"key": "part11.html#431",
+"it": "Applica al proprio piano i principi emersi dall’intervista."
+},
+{
+"key": "part11.html#432",
+"it": "<b>PARTE 11</b>Lavoro e carriera"
+},
+{
+"key": "part11.html#433",
+"it": "Lavoro freelance e startup"
+},
+{
+"key": "part11.html#434",
+"it": "Un freelance vive di fiducia più che di abilità. Il prossimo lavoro va a chi rispetta le scadenze."
+},
+{
+"key": "part11.html#435",
+"it": "<span class=\"ph-id\">P11-SOLO</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Impresa individuale</b>Una scrivania al mattino con una camera, un portatile aperto su una fattura, un gimbal e un caffè</span>"
+},
+{
+"key": "part11.html#436",
+"it": "<b>Nota</b>La scrivania di un’impresa individuale – preventivi e fatture stanno accanto all’attrezzatura di ripresa"
+},
+{
+"key": "part11.html#437",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part11.html#438",
+"it": "Numero di revisioni e ambito d’uso: da questi due punti nasce il 90% delle controversie. In una controversia, un accordo verbale non ha alcun peso."
+},
+{
+"key": "part11.html#439",
+"it": "<b>01</b><span>La tua tariffa iniziale ti resta addosso a lungo. Se parti troppo basso, è difficile alzarla.</span>"
+},
+{
+"key": "part11.html#440",
+"it": "<b>02</b><span>Usa sempre preventivo e contratto, e nel contratto indica numero di revisioni e ambito d’uso.</span>"
+},
+{
+"key": "part11.html#441",
+"it": "<b>03</b><span>Informati in anticipo su tasse, previdenza e registrazione dell’attività. Oltre una certa soglia di reddito devi metterle in regola.</span>"
+},
+{
+"key": "part11.html#442",
+"it": "<b>04</b><span>Prima di passare al tempo pieno, metti da parte 3 mesi di spese per i periodi di magra.</span>"
+},
+{
+"key": "part11.html#443",
+"it": "<b>05</b><span>Tieni in parallelo un canale personale o un blog: le richieste arrivano senza costi commerciali.</span>"
+},
+{
+"key": "part11.html#444",
+"it": "<small>Esercizio</small>10.10"
+},
+{
+"key": "part11.html#445",
+"it": "Compito"
+},
+{
+"key": "part11.html#446",
+"it": "Da creatore indipendente, prepara una scheda dei servizi di 1 pagina e un listino prezzi."
+},
+{
+"key": "part11.html#447",
+"it": "Consiglio"
+},
+{
+"key": "part11.html#448",
+"it": "Indica che cosa offri, a chi, a quanto e in quanti giorni."
+},
+{
+"key": "part11.html#449",
+"it": "Valutazione"
+},
+{
+"key": "part11.html#450",
+"it": "Chiarezza del servizio"
+},
+{
+"key": "part11.html#451",
+"it": "Risposta modello"
+},
+{
+"key": "part11.html#452",
+"it": "Progetta tre livelli: base · standard · premium."
+},
+{
+"key": "part11.html#453",
+"it": "<b>PARTE 11</b>Lavoro e carriera"
+},
+{
+"key": "part11.html#454",
+"it": "Esempio di pagina di portfolio"
+},
+{
+"key": "part11.html#455",
+"it": "L’impaginazione standard di una pagina che presenta un solo lavoro. Applica lo stesso formato a tutti i 5–8 lavori: basta questo a mostrare professionalità."
+},
+{
+"key": "part11.html#456",
+"it": "<b>Fig. 89</b> Impaginazione standard di una pagina di portfolio"
+},
+{
+"key": "part11.html#457",
+"it": "<b>01</b><i>Immagine principale</i>Il fotogramma più forte del lavoro, a tutta larghezza"
+},
+{
+"key": "part11.html#458",
+"it": "<b>02</b><i>Titolo e dati base</i>1 riga sullo scopo del video + 1 tabella: ruolo, periodo, strumenti, durata, con o senza cliente"
+},
+{
+"key": "part11.html#459",
+"it": "<b>03</b><i>Intenzione</i>3–5 righe su quale problema hai risolto e come"
+},
+{
+"key": "part11.html#460",
+"it": "<b>04</b><i>Processo e risultati</i>3–4 immagini (proposta, storyboard, set, prima/dopo) + link al video e 1 riga di risultati"
+},
+{
+"key": "part11.html#461",
+"it": "<b>05</b><i>Lezioni apprese</i>2–3 righe: che cosa cambieresti la prossima volta"
+},
+{
+"key": "part11.html#462",
+"it": "Inserisci sempre le lezioni apprese"
+},
+{
+"key": "part11.html#463",
+"it": "Conoscere i propri limiti dà più fiducia di un risultato impeccabile. Una riga come «la prossima volta aggiungerei una luce» dimostra giudizio tecnico."
+},
+{
+"key": "part11.html#464",
+"it": "Esempio di curriculum in una pagina"
+},
+{
+"key": "part11.html#465",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part11.html#466",
+"it": "Sintesi in tre righe, numeri per esperienza e progetti, livello per ogni strumento nelle competenze. Una pagina basta."
+},
+{
+"key": "part11.html#467",
+"it": "Contatti"
+},
+{
+"key": "part11.html#468",
+"it": "Hong Gil-dong | Produzione di contenuti video | 010-0000-0000 | E-mail | Link al portfolio"
+},
+{
+"key": "part11.html#469",
+"it": "Sintesi"
+},
+{
+"key": "part11.html#470",
+"it": "2 anni nei video brevi e pubblicitari. Gestisce da solo dalla pianificazione al montaggio. Retention media dei canali gestiti: 58%."
+},
+{
+"key": "part11.html#471",
+"it": "Esperienza"
+},
+{
+"key": "part11.html#472",
+"it": "03/2025 - oggi OO Studio, montatore video - 3 video brevi di brand a settimana, 140 all’anno - Template dei sottotitoli standardizzati: 40 min risparmiati a video"
+},
+{
+"key": "part11.html#473",
+"it": "Progetti"
+},
+{
+"key": "part11.html#474",
+"it": "2024 Serie di video brevi promozionali del dipartimento, 6 episodi: pianificazione, riprese, montaggio - Visualizzazioni medie da 500 a 4200, 380 nuovi follower netti"
+},
+{
+"key": "part11.html#475",
+"it": "Competenze"
+},
+{
+"key": "part11.html#476",
+"it": "Premiere Pro (avanzato) / After Effects (intermedio) / DaVinci Resolve (base) / riprese con Sony serie a7 / allestimento luci a 3 punti / compositing in chroma key"
+},
+{
+"key": "part11.html#477",
+"it": "<small>Esercizio</small>10.11"
+},
+{
+"key": "part11.html#478",
+"it": "Compito"
+},
+{
+"key": "part11.html#479",
+"it": "Costruisci una vera pagina di portfolio online e consegna il link."
+},
+{
+"key": "part11.html#480",
+"it": "Consiglio"
+},
+{
+"key": "part11.html#481",
+"it": "Metti nella prima schermata il tuo lavoro migliore e una presentazione di una riga."
+},
+{
+"key": "part11.html#482",
+"it": "Valutazione"
+},
+{
+"key": "part11.html#483",
+"it": "Struttura, caricamento, leggibilità su mobile"
+},
+{
+"key": "part11.html#484",
+"it": "Risposta modello"
+},
+{
+"key": "part11.html#485",
+"it": "Chi la visita coglie i punti di forza dell’autore in 30 secondi."
+},
+{
+"key": "part11.html#486",
+"it": "<b>PARTE 11</b>Lavoro e carriera"
+},
+{
+"key": "part11.html#487",
+"it": "Comunicazione online e collaborazione a distanza"
+},
+{
+"key": "part11.html#488",
+"it": "Gran parte del lavoro passa per chat ed e-mail. Anche un video ben fatto perde punti se viene consegnato in modo maldestro."
+},
+{
+"key": "part11.html#489",
+"it": "<span class=\"ph-id\">P11-REMOTE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Collaborazione a distanza</b>Una videochiamata su uno schermo, una timeline di montaggio condivisa sull’altro, una cuffia</span>"
+},
+{
+"key": "part11.html#490",
+"it": "<b>Nota</b>Collaborazione a distanza – oltre lo schermo, l’altro ha solo link, modifiche fatte, richiesta di verifica e passo successivo"
+}
+]

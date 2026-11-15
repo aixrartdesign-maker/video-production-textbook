@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#450",
+"it": "Prima di imparare a memoria i principi, abituati a osservare il movimento intorno a te. Un occhio attento all’ordine in cui una persona si alza da una sedia o una palla rotola giù per le scale trasforma i principi in strumenti vivi. Letture consigliate: Frank Thomas · Ollie Johnston, The Illusion of Life; Richard Williams, The Animator’s Survival Kit."
+},
+{
+"key": "part05.html#451",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#452",
+"it": "I 12 principi dell’animazione"
+},
+{
+"key": "part05.html#453",
+"it": "Dodici principi, applicati alla pubblicità. Metà fisica, metà recitazione. Correggi easing · anticipazione · trascinamento · esagerazione in quest’ordine e l’aria da principiante scompare."
+},
+{
+"key": "part05.html#454",
+"it": "I 12 principi – il movimento in un solo personaggio"
+},
+{
+"key": "part05.html#455",
+"it": "<b><i>01</i>Compressione ed estensione</b><span>Si schiaccia e si allunga a volume costante – peso ed elasticità</span>"
+},
+{
+"key": "part05.html#456",
+"it": "<b><i>02</i>Anticipazione</b><span>Va nel verso opposto prima di un’azione ampia</span>"
+},
+{
+"key": "part05.html#457",
+"it": "<b><i>03</i>Messa in scena</b><span>La silhouette da sola rivela l’intenzione</span>"
+},
+{
+"key": "part05.html#458",
+"it": "<b><i>04</i>Da posa a posa</b><span>Prima le pose chiave, poi le intercalazioni</span>"
+},
+{
+"key": "part05.html#459",
+"it": "<b><i>05</i>Trascinamento · sovrapposizione</b><span>Il corpo si ferma; capelli e vestiti dopo</span>"
+},
+{
+"key": "part05.html#460",
+"it": "<b><i>06</i>Rallentamento in entrata · uscita</b><span>Addensa i fotogrammi a inizio e fine movimento</span>"
+},
+{
+"key": "part05.html#461",
+"it": "<b><i>07</i>Archi</b><span>Articolazioni ad arco, non in linea retta</span>"
+},
+{
+"key": "part05.html#462",
+"it": "<b><i>08</i>Azione secondaria</b><span>Piccole azioni di contorno danno carattere</span>"
+},
+{
+"key": "part05.html#463",
+"it": "<b><i>09</i>Timing</b><span>Stessa distanza – i fotogrammi decidono peso e velocità</span>"
+},
+{
+"key": "part05.html#464",
+"it": "<b><i>10</i>Esagerazione</b><span>Un passo oltre il reale – affila l’intenzione</span>"
+},
+{
+"key": "part05.html#465",
+"it": "<b><i>11</i>Disegno solido</b><span>Disegna forme con volume · peso · equilibrio</span>"
+},
+{
+"key": "part05.html#466",
+"it": "<b><i>12</i>Attrattiva</b><span>Forme semplici e carattere chiaro creano fascino</span>"
+},
+{
+"key": "part05.html#467",
+"it": "<b>Fig. 48</b> I 12 principi dell’animazione – dodici regole del movimento su un solo personaggio (Disney, 1981). Le linee rosse indicano il «movimento» a cui ogni principio si riferisce."
+},
+{
+"key": "part05.html#468",
+"it": "Una palla che rimbalza contiene quattro principi"
+},
+{
+"key": "part05.html#469",
+"it": "Apice – spaziatura stretta (lento · rallentamenti)"
+},
+{
+"key": "part05.html#470",
+"it": "Palla rossa = impatto, schiacciata (compressione)"
+},
+{
+"key": "part05.html#471",
+"it": "Caduta – spaziatura larga, allungata in verticale (estensione)"
+},
+{
+"key": "part05.html#472",
+"it": "Ogni rimbalzo è più basso e più breve (timing)"
+},
+{
+"key": "part05.html#473",
+"it": "<b>Fig. 49</b> La palla che rimbalza – archi · timing · spaziatura · compressione ed estensione, tutto in una palla. Le palle sono disegnate a intervalli di tempo uguali: lente e ravvicinate all’apice, veloci e rade vicino al suolo. La palla rossa è l’istante in cui tocca il suolo (compressione)."
+},
+{
+"key": "part05.html#474",
+"it": "Stessa distanza e stessi fotogrammi – basta la spaziatura a cambiare il movimento"
+},
+{
+"key": "part05.html#475",
+"it": "Spaziatura uniforme – meccanico"
+},
+{
+"key": "part05.html#476",
+"it": "Robot · nastri trasportatori. Senza vita"
+},
+{
+"key": "part05.html#477",
+"it": "Ease in·out – naturale"
+},
+{
+"key": "part05.html#478",
+"it": "Partenza e arrivo morbidi. Quasi tutti i movimenti"
+},
+{
+"key": "part05.html#479",
+"it": "Veloce → lento – accento sull’arrivo"
+},
+{
+"key": "part05.html#480",
+"it": "Scatta e si ferma. Pop-up · enfasi · UI"
+},
+{
+"key": "part05.html#481",
+"it": "Lento → veloce – accento sulla partenza"
+},
+{
+"key": "part05.html#482",
+"it": "Esita, poi parte. Salti · lanci"
+},
+{
+"key": "part05.html#483",
+"it": "Stessa distanza · stessi 11 fotogrammi – cambia solo la spaziatura. <tspan font-weight=\"500\">Timing</tspan> = numero di fotogrammi, <tspan font-weight=\"500\">spaziatura</tspan> = distanza tra i fotogrammi"
+},
+{
+"key": "part05.html#484",
+"it": "<b>Fig. 50</b> Timing e spaziatura – ogni riga copre la stessa distanza con lo stesso numero di fotogrammi. Dove i cerchi sono distanti, il movimento è veloce."
+},
+{
+"key": "part05.html#485",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part05.html#486",
+"it": "Prima le pose chiave, poi le intercalazioni. Disegna per prima cosa lo schema di spaziatura."
+},
+{
+"key": "part05.html#487",
+"it": "I dodici principi – come scene di un corto in stop-motion"
+},
+{
+"key": "part05.html#488",
+"it": "<small>01</small>Compressione ed estensione"
+},
+{
+"key": "part05.html#489",
+"it": "Si schiaccia e si allunga a volume costante – peso ed elasticità"
+},
+{
+"key": "part05.html#490",
+"it": "<small>02</small>Anticipazione"
+},
+{
+"key": "part05.html#491",
+"it": "Va nel verso opposto prima di un’azione ampia"
+},
+{
+"key": "part05.html#492",
+"it": "<small>03</small>Messa in scena"
+},
+{
+"key": "part05.html#493",
+"it": "La silhouette da sola rivela l’intenzione"
+},
+{
+"key": "part05.html#494",
+"it": "<small>04</small>Da posa a posa"
+},
+{
+"key": "part05.html#495",
+"it": "Prima le pose chiave, poi le intercalazioni"
+},
+{
+"key": "part05.html#496",
+"it": "<small>05</small>Trascinamento · sovrapposizione"
+},
+{
+"key": "part05.html#497",
+"it": "Il corpo si ferma; capelli e vestiti dopo"
+},
+{
+"key": "part05.html#498",
+"it": "<small>06</small>Rallentamento in entrata · uscita"
+},
+{
+"key": "part05.html#499",
+"it": "Addensa i fotogrammi a inizio e fine movimento"
+},
+{
+"key": "part05.html#500",
+"it": "<small>07</small>Archi"
+},
+{
+"key": "part05.html#501",
+"it": "Articolazioni ad arco, non in linea retta"
+},
+{
+"key": "part05.html#502",
+"it": "<small>08</small>Azione secondaria"
+},
+{
+"key": "part05.html#503",
+"it": "Piccole azioni di contorno danno carattere"
+},
+{
+"key": "part05.html#504",
+"it": "<small>09</small>Timing"
+},
+{
+"key": "part05.html#505",
+"it": "Stessa distanza – i fotogrammi decidono peso e velocità"
+},
+{
+"key": "part05.html#506",
+"it": "<small>10</small>Esagerazione"
+},
+{
+"key": "part05.html#507",
+"it": "Un passo oltre il reale – affila l’intenzione"
+},
+{
+"key": "part05.html#508",
+"it": "<small>11</small>Disegno solido"
+},
+{
+"key": "part05.html#509",
+"it": "Disegna forme con volume · peso · equilibrio"
+},
+{
+"key": "part05.html#510",
+"it": "<small>12</small>Attrattiva"
+},
+{
+"key": "part05.html#511",
+"it": "Forme semplici e carattere chiaro creano fascino"
+},
+{
+"key": "part05.html#512",
+"it": "Compressione ed estensione – una palla che rimbalza, in sequenza"
+},
+{
+"key": "part05.html#513",
+"it": "Apice – tonda, lenta (spaziatura stretta)"
+},
+{
+"key": "part05.html#514",
+"it": "Contatto – schiacciata"
+},
+{
+"key": "part05.html#515",
+"it": "Contatto – di nuovo schiacciata"
+},
+{
+"key": "part05.html#516",
+"it": "Più veloce = più allungata sulla traiettoria"
+},
+{
+"key": "part05.html#517",
+"it": "Spaziatura larga = veloce"
+},
+{
+"key": "part05.html#518",
+"it": "Regola: l’estensione assottiglia, la compressione allarga – il volume (area) non cambia mai. Palle disegnate a intervalli di tempo uguali."
+},
+{
+"key": "part05.html#519",
+"it": "<b>G-15</b> Compressione ed estensione – una parabola di una palla che rimbalza. Tonda e ravvicinata all’apice, più lunga e rada in caduta, piatta nell’istante dell’atterraggio. L’area della palla è la stessa in tutti e quindici i disegni."
+},
+{
+"key": "part05.html#520",
+"it": "<small>Esercizio</small>5.6"
+},
+{
+"key": "part05.html#521",
+"it": "Compito"
+},
+{
+"key": "part05.html#522",
+"it": "Anima, nell’ordine: una palla che rimbalza, una palla pesante · una palla leggera, il salto di un personaggio."
+},
+{
+"key": "part05.html#523",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#524",
+"it": "Prima le pose chiave, poi le intercalazioni. Disegna per prima cosa lo schema di spaziatura."
+},
+{
+"key": "part05.html#525",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#526",
+"it": "Uso di compressione · timing · archi"
+},
+{
+"key": "part05.html#527",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#528",
+"it": "I 12 principi da The Illusion of Life della Disney. Confronta lo stesso salto eseguito da due personaggi di peso diverso."
+},
+{
+"key": "part05.html#529",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#530",
+"it": "Compositing e keying in pratica"
+},
+{
+"key": "part05.html#531",
+"it": "Valuta il keying in sei passaggi; quando un compositing si nota, cerca fra tre cause: livello del nero · prospettiva aerea · grana."
+},
+{
+"key": "part05.html#532",
+"it": "<b>Fig. 51</b> I 6 passaggi del keying – mascherino di scarto › chiave primaria › pulizia del mascherino › rimozione dello spill › trattamento dei bordi › accordo del colore"
+},
+{
+"key": "part05.html#533",
+"it": "Passaggio"
+},
+{
+"key": "part05.html#534",
+"it": "Che cosa fare"
+},
+{
+"key": "part05.html#535",
+"it": "Criterio"
+},
+{
+"key": "part05.html#536",
+"it": "Mascherino di scarto"
+},
+{
+"key": "part05.html#537",
+"it": "Maschera ciò che sta fuori dal verde"
+},
+{
+"key": "part05.html#538",
+"it": "Stativi e bordo del pavimento eliminati"
+},
+{
+"key": "part05.html#539",
+"it": "Chiave primaria"
+},
+{
+"key": "part05.html#540",
+"it": "Rimuovi il colore dello schermo"
+},
+{
+"key": "part05.html#541",
+"it": "Capelli ancora intatti"
+},
+{
+"key": "part05.html#542",
+"it": "Pulizia del mascherino"
+},
+{
+"key": "part05.html#543",
+"it": "Pulisci guardando l’alfa in bianco e nero"
+},
+{
+"key": "part05.html#544",
+"it": "Soggetto bianco puro, sfondo nero puro"
+},
+{
+"key": "part05.html#545",
+"it": "Rimozione dello spill"
+},
+{
+"key": "part05.html#546",
+"it": "Togli il verde da pelle e vestiti"
+},
+{
+"key": "part05.html#547",
+"it": "La pelle non è diventata grigia"
+},
+{
+"key": "part05.html#548",
+"it": "Trattamento dei bordi"
+},
+{
+"key": "part05.html#549",
+"it": "Restringi e sfuma i bordi"
+},
+{
+"key": "part05.html#550",
+"it": "Niente scalettature a ingrandimento"
+},
+{
+"key": "part05.html#551",
+"it": "Accordo del colore"
+},
+{
+"key": "part05.html#552",
+"it": "Adegua colore e luminosità allo sfondo"
+},
+{
+"key": "part05.html#553",
+"it": "Direzione luce e temp. colore coerenti"
+},
+{
+"key": "part05.html#554",
+"it": "Tre motivi per cui un compositing si nota"
+},
+{
+"key": "part05.html#555",
+"it": "<small>Causa 1</small>Livello del nero"
+},
+{
+"key": "part05.html#556",
+"it": "Se i neri di un elemento sono più scuri del girato, stona subito"
+},
+{
+"key": "part05.html#557",
+"it": "Alza leggermente i neri"
+},
+{
+"key": "part05.html#558",
+"it": "<small>Causa 2</small>Prospettiva aerea"
+},
+{
+"key": "part05.html#559",
+"it": "La distanza abbassa il contrasto e vi mescola il colore dello sfondo"
+},
+{
+"key": "part05.html#560",
+"it": "Riduci saturazione e contrasto con la distanza"
+},
+{
+"key": "part05.html#561",
+"it": "<small>Causa 3</small>Grana e rumore"
+},
+{
+"key": "part05.html#562",
+"it": "Il girato ha rumore; la CG no"
+},
+{
+"key": "part05.html#563",
+"it": "Aggiungi agli elementi una grana coerente"
+},
+{
+"key": "part05.html#564",
+"it": "<b>Controllo finale</b>"
+},
+{
+"key": "part05.html#565",
+"it": "Rimpicciolisci l’immagine o passa al bianco e nero. Le incongruenze si vedono di più su uno schermo piccolo e in bianco e nero."
+},
+{
+"key": "part05.html#566",
+"it": "<b>G-16</b> Prima e dopo il compositing – sorgente in chroma key e fotogramma finale · immagine generata con GPT, a solo scopo illustrativo"
+},
+{
+"key": "part05.html#567",
+"it": "<small>Esercizio</small>5.7"
+},
+{
+"key": "part05.html#568",
+"it": "Compito"
+},
+{
+"key": "part05.html#569",
+"it": "Componi una scena a partire da una sorgente in chroma key e da un fondale."
+},
+{
+"key": "part05.html#570",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#571",
+"it": "Dopo il keying, rifinisci nell’ordine: bordi, spill, ombre, accordo del colore."
+},
+{
+"key": "part05.html#572",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#573",
+"it": "Qualità dei bordi, coerenza di luce e colore"
+},
+{
+"key": "part05.html#574",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#575",
+"it": "Consegna un confronto prima/dopo con la struttura dei livelli."
+},
+{
+"key": "part05.html#576",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#577",
+"it": "Color grading"
+},
+{
+"key": "part05.html#578",
+"it": "Sistema la luminosità prima di toccare il colore. Il look comincia solo dopo la correzione primaria."
+},
+{
+"key": "part05.html#579",
+"it": "<span class=\"ph-id\">P05-COLOR</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Sala di color grading</b>Un colorist a una console con trackball, gli scope su uno schermo e l’immagine corretta su un monitor calibrato</span>"
+},
+{
+"key": "part05.html#580",
+"it": "<b>Nota</b>Sala di color grading – imposta prima la luminosità con gli scope, non a occhio, poi applica il look"
+},
+{
+"key": "part05.html#581",
+"it": "<b>Fig. 52</b> Variazione tonale a ogni fase del grading"
+},
+{
+"key": "part05.html#582",
+"it": "Ordine di lavoro"
+},
+{
+"key": "part05.html#583",
+"it": "<b>01</b><i>Esposizione · contrasto</i>La luminosità prima del colore"
+},
+{
+"key": "part05.html#584",
+"it": "<b>02</b><i>Bilanciamento del bianco</i>Il grigio torna grigio"
+},
+{
+"key": "part05.html#585",
+"it": "<b>03</b><i>Raccordo tra inquadrature</i>Una scena, un’ora del giorno"
+},
+{
+"key": "part05.html#586",
+"it": "<b>04</b><i>Look</i>Solo ora si decide il colore"
+},
+{
+"key": "part05.html#587",
+"it": "<b>05</b><i>Secondarie</i>Solo volti, cielo, prodotto"
+},
+{
+"key": "part05.html#588",
+"it": "<b>06</b><i>Verifica dell’output</i>Su monitor, smartphone, TV"
+},
+{
+"key": "part05.html#589",
+"it": "<b>Look di base</b>"
+},
+{
+"key": "part05.html#590",
+"it": "Ombre fredde, alte luci calde. I toni della pelle sono i più sensibili al gamma."
+},
+{
+"key": "part05.html#591",
+"it": "Strumento"
+},
+{
+"key": "part05.html#592",
+"it": "Che cosa regola"
+},
+{
+"key": "part05.html#593",
+"it": "Nota"
+},
+{
+"key": "part05.html#594",
+"it": "Lift"
+},
+{
+"key": "part05.html#595",
+"it": "Ombre"
+},
+{
+"key": "part05.html#596",
+"it": "Se esageri, l’immagine si fa lattiginosa"
+},
+{
+"key": "part05.html#597",
+"it": "Gamma"
+},
+{
+"key": "part05.html#598",
+"it": "Mezzitoni"
+},
+{
+"key": "part05.html#599",
+"it": "I toni della pelle reagiscono di più"
+}
+]

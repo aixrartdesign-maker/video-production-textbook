@@ -1,0 +1,662 @@
+[
+{
+"key": "part07.html#92",
+"it": "Informazioni accurate e aggiornate"
+},
+{
+"key": "part07.html#93",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#94",
+"it": "Trasforma la scheda in preset di montaggio, pronti all’uso."
+},
+{
+"key": "part07.html#95",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#96",
+"it": "Orizzontale e verticale"
+},
+{
+"key": "part07.html#97",
+"it": "Non un mezzo diverso, ma una lingua diversa. Il verticale non è un orizzontale ritagliato. I campi lunghi non reggono, e i sottotitoli diventano una parte importante dell’inquadratura."
+},
+{
+"key": "part07.html#98",
+"it": "<span class=\"ph-id\">P07-VERT-SHOOT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Riprese in verticale</b>Un creator che cammina con il telefono in verticale su un gimbal, soggetto centrato sull’asse verticale</span>"
+},
+{
+"key": "part07.html#99",
+"it": "<b>Nota</b>Gira il verticale in verticale fin dall’inizio – persone vicine, informazioni in alto e in basso"
+},
+{
+"key": "part07.html#100",
+"it": "Grammatica dell’orizzontale 16:9"
+},
+{
+"key": "part07.html#101",
+"it": "Lati ampi, adatti a relazioni e ambientazione"
+},
+{
+"key": "part07.html#102",
+"it": "Campi lunghi e piani medi portano molte informazioni"
+},
+{
+"key": "part07.html#103",
+"it": "Sottotitoli in basso: l’occhio si sposta poco"
+},
+{
+"key": "part07.html#104",
+"it": "Adatto a dialoghi a due, paesaggi, architettura"
+},
+{
+"key": "part07.html#105",
+"it": "Standard per TV, cinema, YouTube di lunga durata"
+},
+{
+"key": "part07.html#106",
+"it": "Grammatica del verticale 9:16"
+},
+{
+"key": "part07.html#107",
+"it": "Il formato alto è adatto a figure intere e primi piani"
+},
+{
+"key": "part07.html#108",
+"it": "I campi lunghi si impastano; usati di rado"
+},
+{
+"key": "part07.html#109",
+"it": "Soggetto sull’asse verticale centrale"
+},
+{
+"key": "part07.html#110",
+"it": "I sottotitoli pesano molto nell’inquadratura"
+},
+{
+"key": "part07.html#111",
+"it": "Standard per video brevi, storie, live commerce"
+},
+{
+"key": "part07.html#112",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part07.html#113",
+"it": "Il modo più sicuro è girare la stessa scena due volte, in orizzontale e in verticale. Richiede il doppio del tempo, ma dà i risultati migliori."
+},
+{
+"key": "part07.html#114",
+"it": "Ricavare una versione verticale da un girato orizzontale"
+},
+{
+"key": "part07.html#115",
+"it": "<b>01</b><span>Gira in 4K o superiore. A un ritaglio verticale da un orizzontale FHD manca risoluzione.</span>"
+},
+{
+"key": "part07.html#116",
+"it": "<b>02</b><span>Mostra nel mirino una guida 9:16 e tieni al centro il soggetto principale.</span>"
+},
+{
+"key": "part07.html#117",
+"it": "<b>03</b><span>Le composizioni larghe, da sinistra a destra, non reggono in verticale. Se è prevista una versione verticale, cambia la composizione già in ripresa.</span>"
+},
+{
+"key": "part07.html#118",
+"it": "<b>04</b><span>Posiziona i sottotitoli separatamente per la versione orizzontale e per quella verticale. Se riporti le posizioni tali e quali, la UI li coprirà.</span>"
+},
+{
+"key": "part07.html#119",
+"it": "<b>05</b><span>Girare la stessa scena due volte, in orizzontale e in verticale, è il modo più sicuro.</span>"
+},
+{
+"key": "part07.html#120",
+"it": "<small>Esercizio</small>6.2"
+},
+{
+"key": "part07.html#121",
+"it": "Compito"
+},
+{
+"key": "part07.html#122",
+"it": "Gira e monta la stessa scena sia in orizzontale sia in verticale."
+},
+{
+"key": "part07.html#123",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#124",
+"it": "In verticale, tieni le persone vicine e disponi le informazioni in alto e in basso."
+},
+{
+"key": "part07.html#125",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#126",
+"it": "Ricomposizione per ogni formato"
+},
+{
+"key": "part07.html#127",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#128",
+"it": "Trasmette la stessa emozione in modo diverso in ciascun formato."
+},
+{
+"key": "part07.html#129",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#130",
+"it": "Aree di sicurezza e UI delle piattaforme"
+},
+{
+"key": "part07.html#131",
+"it": "Non tutto ciò che è nell’inquadratura si vede. La TV taglia i bordi, e nei video brevi la UI del player copre la parte alta e quella bassa. I sottotitoli fatti senza conoscere l’area di sicurezza finiranno coperti."
+},
+{
+"key": "part07.html#132",
+"it": "<b>Fig. 64</b> Aree di sicurezza su uno schermo di video brevi"
+},
+{
+"key": "part07.html#133",
+"it": "Mezzo"
+},
+{
+"key": "part07.html#134",
+"it": "Area coperta"
+},
+{
+"key": "part07.html#135",
+"it": "Posizione sicura"
+},
+{
+"key": "part07.html#136",
+"it": "Trasmissione TV"
+},
+{
+"key": "part07.html#137",
+"it": "Circa il 5% per lato"
+},
+{
+"key": "part07.html#138",
+"it": "Entro area sicura azione 93%, titoli 90%"
+},
+{
+"key": "part07.html#139",
+"it": "YouTube Shorts"
+},
+{
+"key": "part07.html#140",
+"it": "In alto ca. 10%, in basso ca. 20%"
+},
+{
+"key": "part07.html#141",
+"it": "Sottotitoli centrati sul terzo inferiore"
+},
+{
+"key": "part07.html#142",
+"it": "Instagram Reels"
+},
+{
+"key": "part07.html#143",
+"it": "In alto ca. 12%, in basso ca. 25%"
+},
+{
+"key": "part07.html#144",
+"it": "Didascalia e nome account in basso a sinistra"
+},
+{
+"key": "part07.html#145",
+"it": "TikTok"
+},
+{
+"key": "part07.html#146",
+"it": "A destra ca. 15%, in basso ca. 20%"
+},
+{
+"key": "part07.html#147",
+"it": "Allinea a sinistra, via dalle icone a destra"
+},
+{
+"key": "part07.html#148",
+"it": "Storie di Instagram"
+},
+{
+"key": "part07.html#149",
+"it": "Profilo in alto, azioni in basso"
+},
+{
+"key": "part07.html#150",
+"it": "È sicuro solo il 70% centrale"
+},
+{
+"key": "part07.html#151",
+"it": "LED per esterni"
+},
+{
+"key": "part07.html#152",
+"it": "Varia da sito a sito"
+},
+{
+"key": "part07.html#153",
+"it": "Segui il margine di sicurezza nelle specifiche del sito"
+},
+{
+"key": "part07.html#154",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part07.html#155",
+"it": "Aggiungi alla checklist di consegna un controllo sul telefono dopo il caricamento."
+},
+{
+"key": "part07.html#156",
+"it": "Il controllo più sicuro"
+},
+{
+"key": "part07.html#157",
+"it": "Carica il montaggio finito in privato sulla piattaforma reale. Lo schermo vero è più preciso di qualsiasi guida del tuo programma di montaggio."
+},
+{
+"key": "part07.html#158",
+"it": "<small>Esercizio</small>6.3"
+},
+{
+"key": "part07.html#159",
+"it": "Compito"
+},
+{
+"key": "part07.html#160",
+"it": "Crea una guida delle aree di sicurezza che sovrapponga le UI di Reels · Shorts · TikTok e prova la posizione dei sottotitoli."
+},
+{
+"key": "part07.html#161",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#162",
+"it": "Riproducilo su un telefono vero e controlla che cosa viene coperto."
+},
+{
+"key": "part07.html#163",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#164",
+"it": "Rispetto dell’area di sicurezza, leggibilità"
+},
+{
+"key": "part07.html#165",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#166",
+"it": "Costruisce un unico template dell’area di sicurezza comune alle tre piattaforme."
+},
+{
+"key": "part07.html#167",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#168",
+"it": "Il CinemaScope 21:9 in pratica"
+},
+{
+"key": "part07.html#169",
+"it": "Su uno schermo largo è lo spazio vuoto a raccontare. Ma il poco spazio verticale penalizza i sottotitoli e il riuso nei video brevi."
+},
+{
+"key": "part07.html#170",
+"it": "<span class=\"ph-id\">P07-SCOPE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>CinemaScope</b>Un orizzonte disteso su uno schermo 2,39:1, poltrone vuote in primo piano</span>"
+},
+{
+"key": "part07.html#171",
+"it": "<b>Nota</b>21:9 – il lungo spazio orizzontale diventa materia di regia"
+},
+{
+"key": "part07.html#172",
+"it": "<small>Riprese</small>4K 16:9 + guida 2,39:1"
+},
+{
+"key": "part07.html#173",
+"it": "Mostra nel mirino una guida 2,39:1"
+},
+{
+"key": "part07.html#174",
+"it": "Tieni asta e luci fuori dalle fasce di ritaglio in alto e in basso"
+},
+{
+"key": "part07.html#175",
+"it": "<small>Montaggio</small>Sequenza 3840x1608"
+},
+{
+"key": "part07.html#176",
+"it": "Per la qualità, esportare alla risoluzione ridotta reale è meglio che aggiungere bande nere"
+},
+{
+"key": "part07.html#177",
+"it": "<small>Sottotitoli</small>Fissi sulla linea dell’8% dal basso"
+},
+{
+"key": "part07.html#178",
+"it": "Il poco spazio verticale limita la posizione dei sottotitoli"
+},
+{
+"key": "part07.html#179",
+"it": "Pianifica i margini in anticipo"
+},
+{
+"key": "part07.html#180",
+"it": "<small>Scelta anamorfica</small>Ottica o ritaglio"
+},
+{
+"key": "part07.html#181",
+"it": "Decidilo per prima cosa"
+},
+{
+"key": "part07.html#182",
+"it": "L’anamorfico aggiunge bokeh ovale e flare orizzontali"
+},
+{
+"key": "part07.html#183",
+"it": "Soggetti adatti al 21:9"
+},
+{
+"key": "part07.html#184",
+"it": "Auto, viaggi, spazi, architettura"
+},
+{
+"key": "part07.html#185",
+"it": "Silhouette contro il paesaggio"
+},
+{
+"key": "part07.html#186",
+"it": "Carrellate lente"
+},
+{
+"key": "part07.html#187",
+"it": "Campagne di marchi premium"
+},
+{
+"key": "part07.html#188",
+"it": "Soggetti da evitare in 21:9"
+},
+{
+"key": "part07.html#189",
+"it": "Prodotti alti (cosmetici, bottiglie di bevande)"
+},
+{
+"key": "part07.html#190",
+"it": "Spot di primi piani espressivi"
+},
+{
+"key": "part07.html#191",
+"it": "Progetti destinati al riuso nei video brevi"
+},
+{
+"key": "part07.html#192",
+"it": "Spot carichi di sottotitoli"
+},
+{
+"key": "part07.html#193",
+"it": "<small>Esercizio</small>6.4"
+},
+{
+"key": "part07.html#194",
+"it": "Compito"
+},
+{
+"key": "part07.html#195",
+"it": "Gira in 21:9 una scena con un paesaggio e una persona."
+},
+{
+"key": "part07.html#196",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#197",
+"it": "Su uno schermo largo è lo spazio vuoto a raccontare. Prova a mettere la persona da un lato."
+},
+{
+"key": "part07.html#198",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#199",
+"it": "Uso della larghezza, posizione della figura"
+},
+{
+"key": "part07.html#200",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#201",
+"it": "Colloca due persone ai due estremi dell’inquadratura, trasformando la distanza in emozione."
+},
+{
+"key": "part07.html#202",
+"it": "Contesto 12"
+},
+{
+"key": "part07.html#203",
+"it": "Come nasce l’immersione"
+},
+{
+"key": "part07.html#204",
+"it": "Prima di lavorare con i contenuti immersivi, dobbiamo avere chiaro che cosa significhi per il pubblico sentirsi «dentro». L’immersione è una questione di condizioni, non di qualità dell’immagine."
+},
+{
+"key": "part07.html#205",
+"it": "La storia della tecnologia immersiva comincia dai tentativi di ingrandire lo schermo. Negli anni Cinquanta il Cinerama riempiva uno schermo curvo con tre proiettori per coprire anche la visione periferica; seguirono il CinemaScope e la pellicola 70 mm. Nel 1962 il Sensorama di Heilig aggiunse vibrazioni, vento e perfino odori, e nel 1968 il visore di Sutherland era così pesante da dover essere appeso al soffitto, tanto da meritarsi il soprannome di «Spada di Damocle». L’obiettivo era sempre lo stesso: attirare la vista e i sensi del pubblico il più possibile verso lo schermo."
+},
+{
+"key": "part07.html#206",
+"it": "I ricercatori dividono questa esperienza in due concetti. L’immersione è la condizione oggettiva offerta da apparecchiature e contenuti: campo visivo, rapidità di risposta ai movimenti della testa, direzionalità del suono. La presenza è lo stato soggettivo che l’utente prova davvero, la sensazione di «essere qui». A parità di apparecchiature, la presenza varia molto con la progettazione dei contenuti. Ecco perché un visore costoso può comunque offrire un’esperienza piatta."
+},
+{
+"key": "part07.html#207",
+"it": "I nemici più comuni della presenza sono la latenza e l’incongruenza. Quando l’immagine arriva in ritardo rispetto a una rotazione della testa, il cervello rileva uno scarto tra il movimento visto dagli occhi e quello percepito dal sistema vestibolare. È la causa principale della cybersickness. Per questo la produzione VR mantiene alti i frame rate, evita i movimenti di macchina non compiuti dall’utente e ricorre a rimedi come la vignettatura, che maschera i bordi del campo visivo. La stabilità viene prima della qualità dell’immagine."
+},
+{
+"key": "part07.html#208",
+"it": "Cambiano anche i presupposti della regia. Nei video a 360° e in VR il pubblico può guardare ovunque, quindi il regista ha solo mezzi per guidare, non per costringere. La direzione da cui arriva un suono, le differenze di luminosità, lo sguardo e il movimento di un personaggio e la disposizione dello spazio fanno voltare la testa allo spettatore. Perché non perda un evento chiave, semina indizi prima che accada."
+},
+{
+"key": "part07.html#209",
+"it": "In AR e nel projection mapping l’immagine si posa sullo spazio reale: a decidere il risultato sono la luce effettiva, i materiali delle superfici e il punto in cui si trova il pubblico. Una parete scura in una galleria al chiuso e la facciata di un edificio a mezzogiorno sono mezzi del tutto diversi. La qualità dei contenuti immersivi non si decide nel file finale, ma nel luogo in cui verranno mostrati."
+},
+{
+"key": "part07.html#210",
+"it": "Letture consigliate – Mel Slater, «A Note on Presence Terminology» · Jaron Lanier, Dawn of the New Everything · Jason Jerald, The VR Book"
+},
+{
+"key": "part07.html#211",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#212",
+"it": "Progettare video a 360° e VR"
+},
+{
+"key": "part07.html#213",
+"it": "Dove scompare l’inquadratura, subentra la guida con luce e suono. Dai sempre al pubblico un motivo per voltarsi."
+},
+{
+"key": "part07.html#214",
+"it": "Il video a 360° cuce due immagini fisheye e le srotola in un’unica mappa"
+},
+{
+"key": "part07.html#215",
+"it": "<b><i>1</i>Due obiettivi fisheye</b><span>Due immagini circolari da 180° ciascuna, davanti e dietro</span>"
+},
+{
+"key": "part07.html#216",
+"it": "<b><i>2</i>Cucite in una – equirettangolare 2:1</b><span>Come un globo srotolato in planisfero: alto e basso si dilatano</span>"
+},
+{
+"key": "part07.html#217",
+"it": "<b><i>3</i>La finestra dello spettatore</b><span>Un visore · telefono mostra solo ca. 90° di questa mappa – cornice rossa</span>"
+},
+{
+"key": "part07.html#218",
+"it": "<b>Perciò il 360° non progetta un’«inquadratura», ma «modi di chiamare lo sguardo»</b><span>Suono – un suono alle spalle</span><span>Luce – guardiamo verso il lato luminoso</span><span>Movimento – seguiamo ciò che si muove</span><span>Sguardo – guardiamo dove guardano gli altri</span><span>Linee · percorsi – seguiamo la via</span>"
+},
+{
+"key": "part07.html#219",
+"it": "<b>Fig. 65</b> La struttura del video a 360° – due immagini fisheye vengono cucite in un’unica mappa (equirettangolare), e lo spettatore ne vede solo una parte attraverso una finestra."
+},
+{
+"key": "part07.html#220",
+"it": "<b>Foto di riferimento 6.5A</b>Immagini generate – riferimenti di regia"
+},
+{
+"key": "part07.html#221",
+"it": "<b>a</b>Rig con camera a 360°"
+},
+{
+"key": "part07.html#222",
+"it": "<b>b</b>Fotogramma equirettangolare grezzo"
+},
+{
+"key": "part07.html#223",
+"it": "<b>c</b>Visione con visore VR"
+},
+{
+"key": "part07.html#224",
+"it": "<b>d</b>Visita a un museo in MR – ricostruzioni virtuali e note si sovrappongono ai reperti reali"
+},
+{
+"key": "part07.html#225",
+"it": "<b>NOTA</b>"
+},
+{
+"key": "part07.html#226",
+"it": "Per i template di storyboard per i media immersivi (360° · curvo · facciata · AR/VR/MR/XR), vedi lo Speciale sullo storyboard della PARTE 06."
+},
+{
+"key": "part07.html#227",
+"it": "Che cosa scompare"
+},
+{
+"key": "part07.html#228",
+"it": "L’idea di inquadratura e di campi e piani"
+},
+{
+"key": "part07.html#229",
+"it": "Il ritmo libero del montaggio"
+},
+{
+"key": "part07.html#230",
+"it": "Movimenti di macchina (causano nausea)"
+},
+{
+"key": "part07.html#231",
+"it": "Nascondere troupe e luci fuori campo"
+},
+{
+"key": "part07.html#232",
+"it": "Imporre lo sguardo con la composizione"
+},
+{
+"key": "part07.html#233",
+"it": "Che cosa serve di nuovo"
+},
+{
+"key": "part07.html#234",
+"it": "Guidare lo sguardo con luce e suono"
+},
+{
+"key": "part07.html#235",
+"it": "Direzione riferita allo spettatore (fronte a 0 gradi)"
+},
+{
+"key": "part07.html#236",
+"it": "Gestione del punto nodale e delle linee di cucitura"
+},
+{
+"key": "part07.html#237",
+"it": "Progetto dell’audio spaziale (ambisonico)"
+},
+{
+"key": "part07.html#238",
+"it": "Durata dell’esperienza (1–3 minuti, non 15 secondi)"
+},
+{
+"key": "part07.html#239",
+"it": "Voce"
+},
+{
+"key": "part07.html#240",
+"it": "Video standard"
+},
+{
+"key": "part07.html#241",
+"it": "Video a 360°"
+},
+{
+"key": "part07.html#242",
+"it": "Unità di regia"
+},
+{
+"key": "part07.html#243",
+"it": "Inquadratura"
+},
+{
+"key": "part07.html#244",
+"it": "Scena e tempo"
+},
+{
+"key": "part07.html#245",
+"it": "Controllo dello sguardo"
+},
+{
+"key": "part07.html#246",
+"it": "Composizione del quadro"
+},
+{
+"key": "part07.html#247",
+"it": "Indizi di luce e suono"
+},
+{
+"key": "part07.html#248",
+"it": "Posizione di macchina"
+},
+{
+"key": "part07.html#249",
+"it": "Libera"
+},
+{
+"key": "part07.html#250",
+"it": "Altezza occhi, 1,5–1,6 m, fissa"
+},
+{
+"key": "part07.html#251",
+"it": "Troupe"
+},
+{
+"key": "part07.html#252",
+"it": "Fuori campo"
+},
+{
+"key": "part07.html#253",
+"it": "Nessun nascondiglio; comando a distanza"
+},
+{
+"key": "part07.html#254",
+"it": "Montaggio"
+},
+{
+"key": "part07.html#255",
+"it": "Tagli frequenti"
+},
+{
+"key": "part07.html#256",
+"it": "Piani sequenza, dissolvenze"
+}
+]

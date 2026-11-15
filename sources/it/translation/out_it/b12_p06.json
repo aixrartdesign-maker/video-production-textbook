@@ -1,0 +1,334 @@
+[
+{
+"key": "part12.html#120",
+"it": "Le due strutture a confronto"
+},
+{
+"key": "part12.html#121",
+"it": "Struttura lineare tradizionale"
+},
+{
+"key": "part12.html#122",
+"it": "Ordine – pianificazione → riprese → post"
+},
+{
+"key": "part12.html#123",
+"it": "Annullare – non si torna alla fase precedente"
+},
+{
+"key": "part12.html#124",
+"it": "Decisioni – per lo più bloccate prima delle riprese"
+},
+{
+"key": "part12.html#125",
+"it": "Collo di bottiglia – calendario e budget delle riprese"
+},
+{
+"key": "part12.html#126",
+"it": "Rischio – se sul set ti sfugge, è finita"
+},
+{
+"key": "part12.html#127",
+"it": "Controllo richiesto – pianificazione preventiva"
+},
+{
+"key": "part12.html#128",
+"it": "Struttura iterativa con IA"
+},
+{
+"key": "part12.html#129",
+"it": "Ordine – un ciclo genera ↔ seleziona ↔ rigenera"
+},
+{
+"key": "part12.html#130",
+"it": "Annullare – rigeneri quando vuoi"
+},
+{
+"key": "part12.html#131",
+"it": "Decisioni – aperte fino alla fine"
+},
+{
+"key": "part12.html#132",
+"it": "Collo di bottiglia – selezione e controllo qualità"
+},
+{
+"key": "part12.html#133",
+"it": "Rischio – revisioni senza fine allungano i tempi"
+},
+{
+"key": "part12.html#134",
+"it": "Controllo richiesto – criteri di arresto e di selezione"
+},
+{
+"key": "part12.html#135",
+"it": "Lavori cresciuti e lavori ridotti"
+},
+{
+"key": "part12.html#136",
+"it": "<small>Nuovi ruoli</small>Specialista di generazione · progettista di workflow · curatore · revisore"
+},
+{
+"key": "part12.html#137",
+"it": "Curatela che filtra la produzione di massa"
+},
+{
+"key": "part12.html#138",
+"it": "Revisione di marca e legale"
+},
+{
+"key": "part12.html#139",
+"it": "Orchestrazione che lega molti strumenti in un unico flusso riproducibile"
+},
+{
+"key": "part12.html#140",
+"it": "<small>Lavori in calo</small>Compiti semplici e ripetitivi"
+},
+{
+"key": "part12.html#141",
+"it": "Rotoscoping e pulizia di base"
+},
+{
+"key": "part12.html#142",
+"it": "Varianti di formato dei banner, produzione ripetitiva di asset"
+},
+{
+"key": "part12.html#143",
+"it": "In un’indagine tra agenzie USA, oltre metà ha ridotto o fermato le assunzioni di profili junior"
+},
+{
+"key": "part12.html#144",
+"it": "<small>Lavori invariati</small>Giudizio e coordinamento"
+},
+{
+"key": "part12.html#145",
+"it": "Supervisione, direzione artistica"
+},
+{
+"key": "part12.html#146",
+"it": "Decisioni prese con il cliente"
+},
+{
+"key": "part12.html#147",
+"it": "Giudizio sulle inquadrature chiave e sulla continuità tra un’inquadratura e l’altra"
+},
+{
+"key": "part12.html#148",
+"it": "Tre tutele che tengono in piedi il calendario"
+},
+{
+"key": "part12.html#149",
+"it": "<b>01</b><span><b>Criteri di arresto</b> – Decidi in anticipo: «dopo N generazioni, scelgo tra quelle». Senza una regola continui a produrne altre anche dopo un buon risultato.</span>"
+},
+{
+"key": "part12.html#150",
+"it": "<b>02</b><span><b>Zone bloccate</b> – Blocca prima ciò che non deve cambiare, come prodotto, logo e messaggio chiave, poi varia il resto.</span>"
+},
+{
+"key": "part12.html#151",
+"it": "<b>03</b><span><b>Registro delle versioni</b> – Annota quali prompt e riferimenti hanno prodotto quali risultati. Un lavoro che non sai riprodurre non si può rifare quando arrivano le richieste di revisione.</span>"
+},
+{
+"key": "part12.html#152",
+"it": "La generazione è infinita; i tempi no. Prima di cominciare, scrivi «quante ne faccio prima di fermarmi».<small>11.2 Ridisegnare la pipeline</small>"
+},
+{
+"key": "part12.html#153",
+"it": "<small>Esercizio</small>11.2"
+},
+{
+"key": "part12.html#154",
+"it": "Compito"
+},
+{
+"key": "part12.html#155",
+"it": "Disegna in uno schema la produzione di un breve spot sia nella struttura tradizionale sia in quella iterativa con IA, e segna dove si formano i colli di bottiglia in ciascuna. Fissa i tuoi criteri di arresto e le tue zone bloccate e mettili per iscritto."
+},
+{
+"key": "part12.html#156",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#157",
+"it": "A un diagramma di flusso bastano riquadri e frecce. Non dimenticare di disegnare le frecce che tornano indietro."
+},
+{
+"key": "part12.html#158",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#159",
+"it": "I colli di bottiglia delle due strutture sono in punti diversi? I criteri di arresto sono espressi in numeri?"
+},
+{
+"key": "part12.html#160",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#161",
+"it": "Un piano che indica insieme quantità e criteri, come «giro 1: genero 30, ne scelgo 3; giro 2: fino a 10 a partire dalle scelte»."
+},
+{
+"key": "part12.html#162",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#163",
+"it": "In quali punti del processo si usa"
+},
+{
+"key": "part12.html#164",
+"it": "Quali fasi la usano davvero? Le indagini mostrano che gli strumenti generativi servono soprattutto non a realizzare un lavoro dall’inizio alla fine, ma a trasformare ciò che esiste già in molte versioni."
+},
+{
+"key": "part12.html#165",
+"it": "<span class=\"ph-id\">P12-AIASSIST</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Lavoro assistito dall’IA</b>Un montatore rielabora i riquadri di storyboard suggeriti da un pannello IA sullo schermo</span>"
+},
+{
+"key": "part12.html#166",
+"it": "<b>Nota</b>Lavoro assistito dall’IA – la macchina sforna molte bozze; le persone le scelgono e le correggono"
+},
+{
+"key": "part12.html#167",
+"it": "<b>42<em>%</em></b>Primo uso dell’IA generativa nell’indagine IAB – versioni per pubblico (cambi di stile visivo 38%, adattamento al contesto 36%)"
+},
+{
+"key": "part12.html#168",
+"it": "<b>Ca. 80<em>tipi</em></b>Formati pubblicitari che lo strumento interno di Cheil Worldwide genera in automatico da un solo asset. Oltre il 90% di risparmio a banner (dato dichiarato dall’azienda)"
+},
+{
+"key": "part12.html#169",
+"it": "<b>48,6<em>%</em></b>Indagine 2026 tra i produttori video USA – uso rilevante dell’IA generativa nei VFX. Riprese · acquisizione 13,3%, progetto di camera · luci 8,3%"
+},
+{
+"key": "part12.html#170",
+"it": "<b>Termine</b>"
+},
+{
+"key": "part12.html#171",
+"it": "Ad multiplier – mantenere struttura delle inquadrature e ritmo di uno spot che rende bene, cambiando solo cast · costumi · location · oggetti di scena per produrre varianti in serie. Diffuso per le versioni regionali."
+},
+{
+"key": "part12.html#172",
+"it": "Dove è entrata l’IA"
+},
+{
+"key": "part12.html#173",
+"it": "<b>Varianti e localizzazione</b> – versioni per pubblico, varianti di formato, ad multiplier"
+},
+{
+"key": "part12.html#174",
+"it": "<b>Esecuzione VFX</b> – lavori ripetitivi come rotoscoping, pulizia, preparazione delle plate, riduzione del rumore, upscaling e generazione di texture"
+},
+{
+"key": "part12.html#175",
+"it": "<b>Pianificazione e previz</b> – concept art, storyboard, previsualizzazione. La fase che è cambiata di più con il costo delle bozze sceso quasi a 0"
+},
+{
+"key": "part12.html#176",
+"it": "<b>Revisione automatica</b> – una multinazionale alimentare verifica in automatico circa 16 voci di conformità su una piattaforma propria"
+},
+{
+"key": "part12.html#177",
+"it": "Dove il lavoro lo fanno ancora le persone"
+},
+{
+"key": "part12.html#178",
+"it": "<b>Progetto delle riprese</b> – gli strumenti si concentrano nella post e hanno appena sfiorato il progetto di camera e luci. Ecco perché questo libro ha dedicato pagine a luci · obiettivi · composizione"
+},
+{
+"key": "part12.html#179",
+"it": "<b>Asset di marca</b> – loghi e forme di prodotto esatti non sono garantiti in generazione. Perfino chi produce gli strumenti consiglia: «se serve precisione, aggiungilo in post»"
+},
+{
+"key": "part12.html#180",
+"it": "<b>Strategia e giudizio</b> – le agenzie valutano la propria maturità nell’IA come intermedia in media planning e direzione creativa e come iniziale in pianificazione strategica e analisi di ricerca"
+},
+{
+"key": "part12.html#181",
+"it": "Ciò che l’IA sa fare bene è «produrre molte versioni di ciò che è già deciso». Decidere che cosa sia resta un lavoro umano.<small>11.3 In quali punti del processo si usa</small>"
+},
+{
+"key": "part12.html#182",
+"it": "<small>Esercizio</small>11.3"
+},
+{
+"key": "part12.html#183",
+"it": "Compito"
+},
+{
+"key": "part12.html#184",
+"it": "Realizza uno spot verticale da 15 secondi, poi adatta lo stesso messaggio in una versione orizzontale da 30 secondi e in una quadrata da 6 secondi. Annota per ciascuna che cosa hai cambiato e che cosa hai bloccato."
+},
+{
+"key": "part12.html#185",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#186",
+"it": "Decidi prima che cosa bloccare. Di solito: il messaggio in una frase, l’inquadratura del prodotto e il tempo a schermo del logo."
+},
+{
+"key": "part12.html#187",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#188",
+"it": "Le tre versioni portano tutte lo stesso messaggio? I criteri per variare e per bloccare sono chiari?"
+},
+{
+"key": "part12.html#189",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#190",
+"it": "Una risposta che colloca il punto di svolta in modo diverso per ogni durata e spiega perché."
+},
+{
+"key": "part12.html#191",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#192",
+"it": "Persone, doppi digitali, consenso"
+},
+{
+"key": "part12.html#193",
+"it": "Attori IA, doppi digitali e la questione del consenso. Gli strumenti generativi si sono rivelati utili prima di tutto con sfondi e oggetti di scena; l’ambito che resta difficile più a lungo sono le persone. Poiché il pubblico si allena da tutta la vita a leggere i volti, le persone sono insieme un problema tecnico e un problema di diritti."
+},
+{
+"key": "part12.html#194",
+"it": "<span class=\"ph-id\">P12-MOCAP</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Doppio digitale</b>Un attore in una tuta da motion capture coperta di marker recita circondato da camere</span>"
+},
+{
+"key": "part12.html#195",
+"it": "<b>Nota</b>Doppio digitale – si scansiona un attore vero e se ne registra il movimento. Prima vengono il consenso e un contratto sull’ambito d’uso"
+},
+{
+"key": "part12.html#196",
+"it": "Motion capture – dallo studio a un solo telefono"
+},
+{
+"key": "part12.html#197",
+"it": "<b>Marker ottici – studio · scienze dello sport</b><span>Decine di camere a infrarossi + marker riflettenti. Precisione al millimetro; lo standard nei laboratori di analisi del movimento sportivo e nei grandi VFX. Richiede spazio</span>"
+},
+{
+"key": "part12.html#198",
+"it": "<b>Tuta inerziale – ovunque</b><span>Un sensore IMU su ogni articolazione. Niente camere, quindi funziona all’aperto · in spazi stretti. La deriva di posizione va corretta. Le tute aptiche (tipo Teslasuit) fanno l’inverso: mandano «sensazioni» al corpo</span>"
+},
+{
+"key": "part12.html#199",
+"it": "<b>IA markerless – solo camere</b><span>L’IA stima lo scheletro dal girato di 1–2 telefoni. Costo quasi 0 e risultato immediato, ma meno preciso. Basta per spot · video brevi · previz</span>"
+},
+{
+"key": "part12.html#200",
+"it": "<b>Facciale – il volto a parte</b><span>Una camera su casco o la camera di profondità di un telefono (ARKit) registra 52 valori di espressione. Fondamentale per doppi digitali · umani virtuali</span>"
+},
+{
+"key": "part12.html#201",
+"it": "<b>Come scegliere</b><span>Precisione → ottico</span><span>Qualsiasi luogo → inerziale</span><span>Costo · velocità → markerless</span><span>Espressioni → aggiungi il facciale</span><span>Collegamento ai software di animazione → FBX · retargeting (auto-rigging tipo Mixamo)</span>"
+},
+{
+"key": "part12.html#202",
+"it": "<b>Fig. 89-2</b> Quattro modi di catturare il movimento – marker ottici · tuta inerziale · IA markerless · facciale. Il cambiamento degli anni 2020: «ciò che una volta richiedeva uno studio ora richiede un telefono»."
+}
+]

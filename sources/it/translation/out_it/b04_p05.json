@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#283",
+"it": "<b>01</b><i>Blocca l’otturatore</i>Il doppio del frame rate"
+},
+{
+"key": "part03.html#284",
+"it": "<b>02</b><i>Blocca l’ISO</i>L’ISO base del modello"
+},
+{
+"key": "part03.html#285",
+"it": "<b>03</b><i>Dirigi con il diaframma</i>Decidi la profondità di campo"
+},
+{
+"key": "part03.html#286",
+"it": "<b>04</b><i>Luminosità residua</i>Correggi con ND e luci"
+},
+{
+"key": "part03.html#287",
+"it": "Nel video, tratta l’otturatore come un valore fisso.<small>3.5 Il triangolo dell’esposizione</small>"
+},
+{
+"key": "part03.html#288",
+"it": "Strumenti per controllare l’esposizione"
+},
+{
+"key": "part03.html#289",
+"it": "Strumento"
+},
+{
+"key": "part03.html#290",
+"it": "Che cosa mostra"
+},
+{
+"key": "part03.html#291",
+"it": "Criterio di lavoro"
+},
+{
+"key": "part03.html#292",
+"it": "Istogramma"
+},
+{
+"key": "part03.html#293",
+"it": "Distribuzione della luminosità"
+},
+{
+"key": "part03.html#294",
+"it": "Controlla che nulla sia tagliato ai due estremi"
+},
+{
+"key": "part03.html#295",
+"it": "Waveform"
+},
+{
+"key": "part03.html#296",
+"it": "Luminosità per posizione orizzontale"
+},
+{
+"key": "part03.html#297",
+"it": "Tieni l’incarnato intorno a 55–70 IRE"
+},
+{
+"key": "part03.html#298",
+"it": "Zebra"
+},
+{
+"key": "part03.html#299",
+"it": "Aree sopra un livello impostato"
+},
+{
+"key": "part03.html#300",
+"it": "Imposta su 95–100% per sorvegliare le alte luci bruciate"
+},
+{
+"key": "part03.html#301",
+"it": "Falsi colori"
+},
+{
+"key": "part03.html#302",
+"it": "Mostra la luminosità come colore"
+},
+{
+"key": "part03.html#303",
+"it": "Il più preciso per controllare insieme incarnato e alte luci"
+},
+{
+"key": "part03.html#304",
+"it": "Esposimetro"
+},
+{
+"key": "part03.html#305",
+"it": "Livello di luce incidente"
+},
+{
+"key": "part03.html#306",
+"it": "Misura ogni fonte separatamente quando illumini"
+},
+{
+"key": "part03.html#307",
+"it": "<b>Foto di riferimento 3.5A</b>Immagine generata – riferimento per la regia"
+},
+{
+"key": "part03.html#308",
+"it": "<b>a</b>f/1,4 – poca profondità di campo"
+},
+{
+"key": "part03.html#309",
+"it": "<b>b</b>f/8 – grande profondità di campo"
+},
+{
+"key": "part03.html#310",
+"it": "<b>c</b>ISO alto – rumore"
+},
+{
+"key": "part03.html#311",
+"it": "<b>G-07</b> Il triangolo dell’esposizione – le tracce lasciate da diaframma · otturatore · ISO"
+},
+{
+"key": "part03.html#312",
+"it": "<span class=\"ph-id\">P03-MONITOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Strumenti per l’esposizione – falsi colori · waveform · zebra sono più precisi dell’occhio</b></span>"
+},
+{
+"key": "part03.html#313",
+"it": "<b>Nota</b>Strumenti per l’esposizione – falsi colori · waveform · zebra sono più precisi dell’occhio"
+},
+{
+"key": "part03.html#314",
+"it": "<small>Esercizio</small>3.5"
+},
+{
+"key": "part03.html#315",
+"it": "Compito"
+},
+{
+"key": "part03.html#316",
+"it": "Mantenendo la stessa luminosità, gira con tre combinazioni diverse di diaframma · otturatore · ISO."
+},
+{
+"key": "part03.html#317",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#318",
+"it": "Quando alzi un valore di uno stop, abbassane un altro di uno stop."
+},
+{
+"key": "part03.html#319",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#320",
+"it": "Calcolo corretto degli stop; osservazione degli effetti collaterali di ogni combinazione (profondità di campo, mosso, rumore)"
+},
+{
+"key": "part03.html#321",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#322",
+"it": "Riporta i risultati in una tabella per dimostrare «stessa esposizione, immagine diversa»."
+},
+{
+"key": "part03.html#323",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#324",
+"it": "Unità di misura dell’illuminamento e della luce"
+},
+{
+"key": "part03.html#325",
+"it": "Se descrivi la luce solo come chiara o scura, sul set le cose andranno storte. Parlare in numeri ti permette di riprodurre lo schema luci di qualcun altro."
+},
+{
+"key": "part03.html#326",
+"it": "<b>100.000<em>lux</em></b>Esterno a mezzogiorno con il sole – ND indispensabile"
+},
+{
+"key": "part03.html#327",
+"it": "<b>300–500<em>lux</em></b>Ufficio tipico – consigliata la luce di riempimento"
+},
+{
+"key": "part03.html#328",
+"it": "<b>10<em>lux</em></b>Vicino a una candela – indispensabili ISO alto o luci"
+},
+{
+"key": "part03.html#329",
+"it": "Unità"
+},
+{
+"key": "part03.html#330",
+"it": "Significato"
+},
+{
+"key": "part03.html#331",
+"it": "Dove si usa"
+},
+{
+"key": "part03.html#332",
+"it": "Valori di riferimento"
+},
+{
+"key": "part03.html#333",
+"it": "Lux (lx)"
+},
+{
+"key": "part03.html#334",
+"it": "Luce che arriva su una superficie (illuminamento)"
+},
+{
+"key": "part03.html#335",
+"it": "Misurare la luce sul set"
+},
+{
+"key": "part03.html#336",
+"it": "Esterno con sole 100.000, coperto 10.000"
+},
+{
+"key": "part03.html#337",
+"it": "Lumen (lm)"
+},
+{
+"key": "part03.html#338",
+"it": "Flusso luminoso totale emesso da una fonte"
+},
+{
+"key": "part03.html#339",
+"it": "Confrontare le specifiche delle luci"
+},
+{
+"key": "part03.html#340",
+"it": "Lampadina domestica ca. 800 lm"
+},
+{
+"key": "part03.html#341",
+"it": "Candela (cd)"
+},
+{
+"key": "part03.html#342",
+"it": "Intensità luminosa in una direzione"
+},
+{
+"key": "part03.html#343",
+"it": "Specifiche dei proiettori spot"
+},
+{
+"key": "part03.html#344",
+"it": "Nit (cd/m²)"
+},
+{
+"key": "part03.html#345",
+"it": "Luminosità della superficie di uno schermo"
+},
+{
+"key": "part03.html#346",
+"it": "Monitor e insegne LED"
+},
+{
+"key": "part03.html#347",
+"it": "Interni 500–1500, esterni 5000 o più"
+},
+{
+"key": "part03.html#348",
+"it": "Stop (EV)"
+},
+{
+"key": "part03.html#349",
+"it": "Passi di raddoppio della luce"
+},
+{
+"key": "part03.html#350",
+"it": "La lingua comune dell’esposizione"
+},
+{
+"key": "part03.html#351",
+"it": "1 stop = luce ×2"
+},
+{
+"key": "part03.html#352",
+"it": "Kelvin (K)"
+},
+{
+"key": "part03.html#353",
+"it": "Temperatura colore"
+},
+{
+"key": "part03.html#354",
+"it": "Bilanciamento del bianco"
+},
+{
+"key": "part03.html#355",
+"it": "Candela 1800 K, luce diurna 5600 K"
+},
+{
+"key": "part03.html#356",
+"it": "CRI / TLCI"
+},
+{
+"key": "part03.html#357",
+"it": "Indice di resa cromatica"
+},
+{
+"key": "part03.html#358",
+"it": "Qualità dell’apparecchio"
+},
+{
+"key": "part03.html#359",
+"it": "95 o più per le riprese"
+},
+{
+"key": "part03.html#360",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#361",
+"it": "Misura sempre all’altezza del volto del soggetto."
+},
+{
+"key": "part03.html#362",
+"it": "Situazione"
+},
+{
+"key": "part03.html#363",
+"it": "Illuminamento ca."
+},
+{
+"key": "part03.html#364",
+"it": "Difficoltà"
+},
+{
+"key": "part03.html#365",
+"it": "Esterno a mezzogiorno, sole"
+},
+{
+"key": "part03.html#366",
+"it": "Ca. 100.000 lux"
+},
+{
+"key": "part03.html#367",
+"it": "ND indispensabile"
+},
+{
+"key": "part03.html#368",
+"it": "Esterno, coperto"
+},
+{
+"key": "part03.html#369",
+"it": "Ca. 10.000 lux"
+},
+{
+"key": "part03.html#370",
+"it": "Facile"
+},
+{
+"key": "part03.html#371",
+"it": "Vicino a una finestra, di giorno"
+},
+{
+"key": "part03.html#372",
+"it": "Ca. 1000 lux"
+},
+{
+"key": "part03.html#373",
+"it": "Media"
+},
+{
+"key": "part03.html#374",
+"it": "Ufficio tipico"
+},
+{
+"key": "part03.html#375",
+"it": "Ca. 300–500 lux"
+},
+{
+"key": "part03.html#376",
+"it": "Consigliata la luce di riempimento"
+},
+{
+"key": "part03.html#377",
+"it": "Soggiorno di sera"
+},
+{
+"key": "part03.html#378",
+"it": "Ca. 100–150 lux"
+},
+{
+"key": "part03.html#379",
+"it": "Servono luci"
+},
+{
+"key": "part03.html#380",
+"it": "Vicino a una candela"
+},
+{
+"key": "part03.html#381",
+"it": "Ca. 10 lux"
+},
+{
+"key": "part03.html#382",
+"it": "Indispensabili ISO alto o luci"
+},
+{
+"key": "part03.html#383",
+"it": "Luna piena, esterno"
+},
+{
+"key": "part03.html#384",
+"it": "Ca. 0,25 lux"
+},
+{
+"key": "part03.html#385",
+"it": "Serve attrezzatura speciale"
+},
+{
+"key": "part03.html#386",
+"it": "<small>Esercizio</small>3.6"
+},
+{
+"key": "part03.html#387",
+"it": "Compito"
+},
+{
+"key": "part03.html#388",
+"it": "Con un’app esposimetro misura i lux in un’aula, in un corridoio, all’ombra in esterno e in pieno sole, e compila una tabella."
+},
+{
+"key": "part03.html#389",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#390",
+"it": "Mantieni identica la posizione di misura (altezza del volto del soggetto)."
+},
+{
+"key": "part03.html#391",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#392",
+"it": "Metodo di misura coerente, collegamento con le impostazioni di macchina"
+},
+{
+"key": "part03.html#393",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#394",
+"it": "Annota per ogni misura l’ISO consigliato e se servono luci aggiuntive."
+},
+{
+"key": "part03.html#395",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#396",
+"it": "Standard di risoluzione e formato (aspect ratio)"
+},
+{
+"key": "part03.html#397",
+"it": "Gira in 4K anche se la consegna finale è in FHD. I pixel in più sono libertà in montaggio, e il formato (aspect ratio) cambia lo stato d’animo con cui il pubblico accoglie una scena."
+},
+{
+"key": "part03.html#398",
+"it": "La risoluzione è «con quanti punti disegni»"
+},
+{
+"key": "part03.html#399",
+"it": "<i class=\"fhd\"></i><em class=\"l4k\">Intero quadro girato in 4K</em><em class=\"lfhd\">Formato di consegna FHD – nitido anche con zoom ×2</em>"
+},
+{
+"key": "part03.html#400",
+"it": "4K UHD 3840×2160"
+},
+{
+"key": "part03.html#401",
+"it": "FHD 1920×1080"
+},
+{
+"key": "part03.html#402",
+"it": "HD 1280×720"
+},
+{
+"key": "part03.html#403",
+"it": "<b>Risoluzione = punti in orizzontale × in verticale</b><span>Il 4K è 4 volte l’FHD – 2 volte in larghezza × 2 in altezza</span><span>Sullo stesso monitor il 4K è più denso; a parità di punti, più grande è lo schermo, più grossolana appare l’immagine</span><span>Gira in 4K anche se il finale è FHD – i pixel in più diventano libertà di ritagliare · zoomare · stabilizzare in montaggio</span>"
+},
+{
+"key": "part03.html#404",
+"it": "<b>Fig. 32</b> Standard di risoluzione – l’FHD dentro un quadro 4K. Il riquadro rosso ha le dimensioni di un quadro FHD e nell’originale 4K si può spostare ovunque."
+},
+{
+"key": "part03.html#405",
+"it": "Formato (aspect ratio) – larghezza divisa per altezza"
+},
+{
+"key": "part03.html#406",
+"it": "<b>4:3</b><span>1,33 · TV rétro · flashback</span>"
+},
+{
+"key": "part03.html#407",
+"it": "<b>16:9</b><span>1,78 · YouTube · TV · standard</span>"
+},
+{
+"key": "part03.html#408",
+"it": "<b>21:9</b><span>2,39 · cinema · letterbox</span>"
+},
+{
+"key": "part03.html#409",
+"it": "<b>1:1</b><span>Feed · miniature</span>"
+},
+{
+"key": "part03.html#410",
+"it": "<b>9:16</b><span>Video brevi · LED verticali</span>"
+},
+{
+"key": "part03.html#411",
+"it": "Il formato (aspect ratio) è «larghezza divisa per altezza». Cambia il formato e la stessa scena dà alla persona una dimensione diversa e allo sfondo una quota diversa: gira fin dall’inizio nel formato di consegna."
+},
+{
+"key": "part03.html#412",
+"it": "<b>Fig. 33</b> Formati principali – la stessa scena ritagliata in cinque formati. I formati orizzontali mostrano lo spazio; quelli verticali, le persone."
+},
+{
+"key": "part03.html#413",
+"it": "Nome"
+},
+{
+"key": "part03.html#414",
+"it": "Pixel totali"
+},
+{
+"key": "part03.html#415",
+"it": "Uso pratico"
+},
+{
+"key": "part03.html#416",
+"it": "Avvertenze"
+},
+{
+"key": "part03.html#417",
+"it": "HD (720p)"
+},
+{
+"key": "part03.html#418",
+"it": "Ca. 0,92 mln"
+},
+{
+"key": "part03.html#419",
+"it": "Web a banda ridotta, dispositivi vecchi"
+},
+{
+"key": "part03.html#420",
+"it": "Oggi inadatto come formato principale"
+},
+{
+"key": "part03.html#421",
+"it": "FHD (1080p)"
+},
+{
+"key": "part03.html#422",
+"it": "Ca. 2,07 mln"
+},
+{
+"key": "part03.html#423",
+"it": "Bozze per il web, consegne a bassa specifica"
+},
+{
+"key": "part03.html#424",
+"it": "Nessun margine per ritagliare"
+},
+{
+"key": "part03.html#425",
+"it": "Ca. 4,11 mln"
+},
+{
+"key": "part03.html#426",
+"it": "Action camera, seconde macchine"
+},
+{
+"key": "part03.html#427",
+"it": "Debole come macchina principale"
+},
+{
+"key": "part03.html#428",
+"it": "UHD 4K"
+},
+{
+"key": "part03.html#429",
+"it": "Ca. 8,29 mln"
+},
+{
+"key": "part03.html#430",
+"it": "Standard di ripresa"
+},
+{
+"key": "part03.html#431",
+"it": "Archiviazione ×4"
+},
+{
+"key": "part03.html#432",
+"it": "DCI 4K"
+}
+]

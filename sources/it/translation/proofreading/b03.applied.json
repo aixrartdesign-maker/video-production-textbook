@@ -1,0 +1,5 @@
+[
+{"key": "feature_storyboard.html#188", "find": "Scritto in una riga sotto l’immagine, la sua durata non si vede.", "replace": "Se lo scrivi in una riga sotto l’immagine, la sua durata non si vede.", "why": "grammar – dangling participle (Scritto ≠ durata)"},
+{"key": "feature_ppm.html#97", "find": "K Chiave LED 600 W", "replace": "K LED chiave 600 W", "why": "term – «LED chiave» as in neighbouring items"},
+{"key": "part06.html#279", "find": "qui? - vlog", "replace": "qui? – vlog", "why": "typography – en dash"}
+]

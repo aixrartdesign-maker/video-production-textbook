@@ -1,0 +1,7 @@
+[
+{"key": "part04.html#476", "find": "e portò il suono a campo creativo", "replace": "ed elevò il suono a campo creativo", "why": "other: unnatural phrasing"},
+{"key": "part04.html#569", "find": "uscite d’asse", "replace": "uscite dall’asse", "why": "grammar: preposition"},
+{"key": "feature_lighting.html#174", "find": "Highlights↑ e Glow", "replace": "Highlights↑ + Glow", "why": "typography: keep + separator"},
+{"key": "part05.html#7", "find": "che cosa tiene le persone a guardare", "replace": "che cosa spinge le persone a guardare", "why": "other: unnatural phrasing"},
+{"key": "part05.html#39", "find": "la sensibilità di contare", "replace": "la sensibilità nel contare", "why": "grammar: preposition"}
+]

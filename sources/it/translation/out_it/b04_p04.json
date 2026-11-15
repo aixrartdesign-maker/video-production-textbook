@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#133",
+"it": "Caratteristiche"
+},
+{
+"key": "part03.html#134",
+"it": "Pieno formato"
+},
+{
+"key": "part03.html#135",
+"it": "36 × 24 mm"
+},
+{
+"key": "part03.html#136",
+"it": "Poca profondità di campo, bene con poca luce, costoso"
+},
+{
+"key": "part03.html#137",
+"it": "Super 35"
+},
+{
+"key": "part03.html#138",
+"it": "Ca. 24,9 × 18,7 mm"
+},
+{
+"key": "part03.html#139",
+"it": "Standard del cinema, ampia scelta di ottiche"
+},
+{
+"key": "part03.html#140",
+"it": "APS-C"
+},
+{
+"key": "part03.html#141",
+"it": "Ca. 23,5 × 15,6 mm"
+},
+{
+"key": "part03.html#142",
+"it": "Conveniente, buono per i tele, standard di fascia base"
+},
+{
+"key": "part03.html#143",
+"it": "Micro Four Thirds"
+},
+{
+"key": "part03.html#144",
+"it": "17,3 × 13 mm"
+},
+{
+"key": "part03.html#145",
+"it": "Piccolo e leggero, grande profondità di campo, facile sui gimbal"
+},
+{
+"key": "part03.html#146",
+"it": "1 pollice"
+},
+{
+"key": "part03.html#147",
+"it": "13,2 × 8,8 mm"
+},
+{
+"key": "part03.html#148",
+"it": "Droni e compatte"
+},
+{
+"key": "part03.html#149",
+"it": "Smartphone"
+},
+{
+"key": "part03.html#150",
+"it": "Ca. 1/1,3 di pollice o meno"
+},
+{
+"key": "part03.html#151",
+"it": "Buono per macro e grandangolo, debole con poca luce"
+},
+{
+"key": "part03.html#152",
+"it": "<b>Fattore di crop</b>"
+},
+{
+"key": "part03.html#153",
+"it": "Moltiplicatore che indica quanto più stretto vede un obiettivo della stessa focale rispetto al pieno formato."
+},
+{
+"key": "part03.html#154",
+"it": "Un 50 mm su APS-C dà l’angolo di campo di un 75 mm su pieno formato. Per far stare una figura intera in uno spazio stretto, più piccolo è il sensore, più grandangolare deve essere l’obiettivo."
+},
+{
+"key": "part03.html#155",
+"it": "Più grande è il sensore, minore è la profondità di campo. Un sensore grande aiuta quando vuoi lo sfondo sfocato, ma diventa anche più difficile tenere il fuoco. Quando tutto deve essere nitido, come negli spot di prodotto, un sensore piccolo è in realtà più comodo."
+},
+{
+"key": "part03.html#156",
+"it": "<span class=\"ph-id\">P03-SENSOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Un sensore pieno formato – il «punto di partenza dell’angolo di campo» che vedi senza obiettivo</b></span>"
+},
+{
+"key": "part03.html#157",
+"it": "<b>Nota</b>Un sensore pieno formato – il «punto di partenza dell’angolo di campo» che vedi senza obiettivo"
+},
+{
+"key": "part03.html#158",
+"it": "<small>Esercizio</small>3.3"
+},
+{
+"key": "part03.html#159",
+"it": "Compito"
+},
+{
+"key": "part03.html#160",
+"it": "Dalla stessa posizione, gira con un pieno formato e con un sensore crop (o con i livelli di zoom dello smartphone) e annota la differenza di angolo di campo."
+},
+{
+"key": "part03.html#161",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#162",
+"it": "Calcola da solo le focali equivalenti e scrivile."
+},
+{
+"key": "part03.html#163",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#164",
+"it": "Calcoli corretti del fattore di crop"
+},
+{
+"key": "part03.html#165",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#166",
+"it": "Riassume non solo l’angolo di campo, ma anche le differenze di profondità di campo e di rumore."
+},
+{
+"key": "part03.html#167",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#168",
+"it": "Psicologia degli obiettivi e della lunghezza focale"
+},
+{
+"key": "part03.html#169",
+"it": "La lunghezza focale cambia non solo l’angolo di campo, ma quanto il pubblico si sente vicino a un personaggio. Scegliere un obiettivo significa scegliere dove mettere la macchina."
+},
+{
+"key": "part03.html#170",
+"it": "<b>Fig. 29</b> Angolo di campo per lunghezza focale"
+},
+{
+"key": "part03.html#171",
+"it": "<b>Foto di riferimento 3.4A</b>Immagine generata – riferimento per la regia"
+},
+{
+"key": "part03.html#172",
+"it": "<b>a</b>24 mm – spazio dilatato e distorsione"
+},
+{
+"key": "part03.html#173",
+"it": "<b>b</b>50 mm – prospettiva naturale"
+},
+{
+"key": "part03.html#174",
+"it": "<b>c</b>135 mm – sfondo compresso e isolamento"
+},
+{
+"key": "part03.html#175",
+"it": "<b>d</b>300 mm – compressione estrema, l’osservatore lontano"
+},
+{
+"key": "part03.html#176",
+"it": "Lunghezza focale"
+},
+{
+"key": "part03.html#177",
+"it": "Angolo di campo"
+},
+{
+"key": "part03.html#178",
+"it": "Distorsione"
+},
+{
+"key": "part03.html#179",
+"it": "Effetto psicologico"
+},
+{
+"key": "part03.html#180",
+"it": "Uso tipico"
+},
+{
+"key": "part03.html#181",
+"it": "14–24 mm"
+},
+{
+"key": "part03.html#182",
+"it": "Ultragrandangolo"
+},
+{
+"key": "part03.html#183",
+"it": "Forte"
+},
+{
+"key": "part03.html#184",
+"it": "Esagerazione, spazio dilatato, inquietudine"
+},
+{
+"key": "part03.html#185",
+"it": "Presentare uno spazio, inserti dinamici"
+},
+{
+"key": "part03.html#186",
+"it": "28–35 mm"
+},
+{
+"key": "part03.html#187",
+"it": "Grandangolo"
+},
+{
+"key": "part03.html#188",
+"it": "Lieve"
+},
+{
+"key": "part03.html#189",
+"it": "Senso di presenza, sguardo dell’osservatore"
+},
+{
+"key": "part03.html#190",
+"it": "Stile documentario, scene quotidiane, vlog"
+},
+{
+"key": "part03.html#191",
+"it": "50 mm"
+},
+{
+"key": "part03.html#192",
+"it": "Normale"
+},
+{
+"key": "part03.html#193",
+"it": "Quasi nulla"
+},
+{
+"key": "part03.html#194",
+"it": "Naturale, neutro"
+},
+{
+"key": "part03.html#195",
+"it": "Base per persone, dialoghi"
+},
+{
+"key": "part03.html#196",
+"it": "85 mm"
+},
+{
+"key": "part03.html#197",
+"it": "Tele corto"
+},
+{
+"key": "part03.html#198",
+"it": "Nessuna"
+},
+{
+"key": "part03.html#199",
+"it": "Intimità, bellezza"
+},
+{
+"key": "part03.html#200",
+"it": "Primi piani di persone, beauty"
+},
+{
+"key": "part03.html#201",
+"it": "100 mm macro"
+},
+{
+"key": "part03.html#202",
+"it": "Macro"
+},
+{
+"key": "part03.html#203",
+"it": "Nessuna"
+},
+{
+"key": "part03.html#204",
+"it": "Matericità, tatto"
+},
+{
+"key": "part03.html#205",
+"it": "Texture di prodotto, liquidi, polveri"
+},
+{
+"key": "part03.html#206",
+"it": "135–200 mm"
+},
+{
+"key": "part03.html#207",
+"it": "Teleobiettivo"
+},
+{
+"key": "part03.html#208",
+"it": "Compressione"
+},
+{
+"key": "part03.html#209",
+"it": "Isolamento, concentrazione, distanza"
+},
+{
+"key": "part03.html#210",
+"it": "Emozione, sfondo compresso"
+},
+{
+"key": "part03.html#211",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#212",
+"it": "Più lunga è la focale, più devi arretrare. Annota la distanza."
+},
+{
+"key": "part03.html#213",
+"it": "Obiettivi speciali"
+},
+{
+"key": "part03.html#214",
+"it": "<small>Anamorfico</small>Look cinema 2,39:1"
+},
+{
+"key": "part03.html#215",
+"it": "Compresso in orizzontale, poi decompresso"
+},
+{
+"key": "part03.html#216",
+"it": "Bokeh ovale, flare orizzontali"
+},
+{
+"key": "part03.html#217",
+"it": "<small>Obiettivo a sonda</small>Passa negli spazi stretti"
+},
+{
+"key": "part03.html#218",
+"it": "Barilotto lungo e sottile"
+},
+{
+"key": "part03.html#219",
+"it": "Inquadrature d’ingresso in spot di bevande, cibo e miniature"
+},
+{
+"key": "part03.html#220",
+"it": "<small>Tilt-shift</small>Inclina il piano di fuoco"
+},
+{
+"key": "part03.html#221",
+"it": "Effetto miniatura"
+},
+{
+"key": "part03.html#222",
+"it": "Verticali in architettura"
+},
+{
+"key": "part03.html#223",
+"it": "<small>Lente split diopter</small>Fuoco su due distanze insieme"
+},
+{
+"key": "part03.html#224",
+"it": "Fuoco ravvicinato su parte del quadro"
+},
+{
+"key": "part03.html#225",
+"it": "Prodotto davanti e persona dietro, entrambi nitidi"
+},
+{
+"key": "part03.html#226",
+"it": "<small>Obiettivo vintage</small>Texture rétro"
+},
+{
+"key": "part03.html#227",
+"it": "Basso contrasto, flare morbidi"
+},
+{
+"key": "part03.html#228",
+"it": "Per lo più a fuoco manuale"
+},
+{
+"key": "part03.html#229",
+"it": "<b>G-06</b> Come la lunghezza focale cambia volto e sfondo – 16 · 35 · 85 · 200 mm"
+},
+{
+"key": "part03.html#230",
+"it": "<small>Esercizio</small>3.4"
+},
+{
+"key": "part03.html#231",
+"it": "Compito"
+},
+{
+"key": "part03.html#232",
+"it": "Mantenendo il volto della stessa dimensione, gira a 16 · 35 · 85 · 135 mm."
+},
+{
+"key": "part03.html#233",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#234",
+"it": "Più lunga è la focale, più devi arretrare. Annota la distanza."
+},
+{
+"key": "part03.html#235",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#236",
+"it": "Osservazione di distorsione prospettica e compressione"
+},
+{
+"key": "part03.html#237",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#238",
+"it": "Annota come sembra cambiare il personaggio a ogni focale, fino alle reazioni del pubblico."
+},
+{
+"key": "part03.html#239",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#240",
+"it": "Il triangolo dell’esposizione"
+},
+{
+"key": "part03.html#241",
+"it": "Ci sono solo tre modi per regolare la luminosità dell’immagine, e ognuno ha il suo prezzo. La differenza decisiva rispetto alla fotografia è che nel video non puoi usare l’otturatore liberamente."
+},
+{
+"key": "part03.html#242",
+"it": "Stessa luminosità, immagine diversa – cambia uno dei tre e ripaga con un altro"
+},
+{
+"key": "part03.html#243",
+"it": "<b>Diaframma aperto</b><span class=\"mono\">f/1,8 · 1/1000 · ISO 100</span><span>Lo sfondo si sfoca – il prezzo della poca profondità di campo</span>"
+},
+{
+"key": "part03.html#244",
+"it": "Diaframma"
+},
+{
+"key": "part03.html#245",
+"it": "Otturatore"
+},
+{
+"key": "part03.html#246",
+"it": "ISO"
+},
+{
+"key": "part03.html#247",
+"it": "<b>ISO alzato</b><span class=\"mono\">f/16 · 1/1000 · ISO 6400</span><span>Rumore nelle ombre – il prezzo della sensibilità</span>"
+},
+{
+"key": "part03.html#248",
+"it": "Diaframma"
+},
+{
+"key": "part03.html#249",
+"it": "Otturatore"
+},
+{
+"key": "part03.html#250",
+"it": "ISO"
+},
+{
+"key": "part03.html#251",
+"it": "<b>Otturatore rallentato</b><span class=\"mono\">f/16 · 1/15 · ISO 100</span><span>L’acqua diventa una scia – il prezzo del tempo</span>"
+},
+{
+"key": "part03.html#252",
+"it": "Diaframma"
+},
+{
+"key": "part03.html#253",
+"it": "Otturatore"
+},
+{
+"key": "part03.html#254",
+"it": "ISO"
+},
+{
+"key": "part03.html#255",
+"it": "<b>Tutte e tre hanno la stessa luminosità.</b> La luce è la stessa, ma cambia dove si è pagato il prezzo: il <b>diaframma</b> nella profondità di campo, l’<b>otturatore</b> nel mosso, l’<b>ISO</b> nel rumore. Apri un valore del doppio e chiudine un altro della metà (1 stop)."
+},
+{
+"key": "part03.html#256",
+"it": "<b>Fig. 30</b> Il triangolo dell’esposizione – stessa scena, stessa luminosità, tre scelte diverse. I cursori mostrano quale valore è stato spinto al limite."
+},
+{
+"key": "part03.html#257",
+"it": "Più piccolo è il numero f, più sottile è la zona nitida"
+},
+{
+"key": "part03.html#258",
+"it": "<b>f/1,4 · poca profondità di campo</b><span>Resta solo la persona; lo sfondo si scioglie – concentrazione · emozione · bellezza</span>"
+},
+{
+"key": "part03.html#259",
+"it": "<b>f/4 · profondità di campo media</b><span>Persona nitida, sfondo come atmosfera – lo standard per intervista · fiction</span>"
+},
+{
+"key": "part03.html#260",
+"it": "<b>f/11 · grande profondità di campo</b><span>Nitido dal primo piano allo sfondo – paesaggi · prodotto intero · informazione</span>"
+},
+{
+"key": "part03.html#261",
+"it": "<b>Quattro modi per ridurre la profondità di campo</b><span>Apri il diaframma f/1,4</span><span>Allunga la focale 85→200 mm</span><span>Avvicinati al soggetto</span><span>Allontana lo sfondo</span>"
+},
+{
+"key": "part03.html#262",
+"it": "<b>Fig. 31</b> Profondità di campo e diaframma – stesso punto, stessa persona, cambia solo il diaframma. La profondità di campo è una scelta di regia su «quanto tenere nitido»."
+},
+{
+"key": "part03.html#263",
+"it": "<small>Diaframma (numero f)</small>La ghiera che decide il look"
+},
+{
+"key": "part03.html#264",
+"it": "Numero più basso: più luce, sfondo più sfocato"
+},
+{
+"key": "part03.html#265",
+"it": "f/1,4; 2; 2,8; 4; 5,6; 8 – ogni passo dimezza la luce"
+},
+{
+"key": "part03.html#266",
+"it": "L’espressione più diretta dell’intenzione"
+},
+{
+"key": "part03.html#267",
+"it": "<small>Tempo di posa</small>Fisso nel video"
+},
+{
+"key": "part03.html#268",
+"it": "Tempo impiegato per registrare un fotogramma"
+},
+{
+"key": "part03.html#269",
+"it": "Legato alla regola dell’otturatore a 180 gradi; non usarlo mai per regolare l’esposizione"
+},
+{
+"key": "part03.html#270",
+"it": "<small>ISO</small>Prima l’ISO base"
+},
+{
+"key": "part03.html#271",
+"it": "Alzarlo schiarisce ma aggiunge rumore"
+},
+{
+"key": "part03.html#272",
+"it": "Ogni modello ha un ISO base con il rumore minimo"
+},
+{
+"key": "part03.html#273",
+"it": "Molti modelli hanno un doppio ISO base"
+},
+{
+"key": "part03.html#274",
+"it": "<small>Filtro ND</small>La quarta ghiera"
+},
+{
+"key": "part03.html#275",
+"it": "Filtro ottico che si limita a ridurre la luce"
+},
+{
+"key": "part03.html#276",
+"it": "Indispensabile per girare a tutta apertura di giorno"
+},
+{
+"key": "part03.html#277",
+"it": "<b>ND8<em>3 stop</em></b>Giornate coperte, interni vicino a una finestra"
+},
+{
+"key": "part03.html#278",
+"it": "<b>ND64<em>6 stop</em></b>Tutta apertura con il sole"
+},
+{
+"key": "part03.html#279",
+"it": "<b>ND1000<em>10 stop</em></b>Effetti di lunga esposizione in pieno giorno"
+},
+{
+"key": "part03.html#280",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#281",
+"it": "Segui quest’ordine e il tuo giudizio regge con qualsiasi macchina."
+},
+{
+"key": "part03.html#282",
+"it": "Ordine di lavoro per l’esposizione video"
+}
+]

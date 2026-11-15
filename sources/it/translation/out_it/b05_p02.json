@@ -1,0 +1,630 @@
+[
+{
+"key": "part03.html#821",
+"it": "<b>02</b><span>Estendi prima le sezioni più spesse delle gambe; non alzare la colonna centrale (prima causa di vibrazioni).</span>"
+},
+{
+"key": "part03.html#822",
+"it": "<b>03</b><span>Appendi un sacco di sabbia o una borsa per abbassare il baricentro. D’obbligo sui tetti ventosi.</span>"
+},
+{
+"key": "part03.html#823",
+"it": "<b>04</b><span>Adatta la frizione di panoramica all’inquadratura – alta per le panoramiche lente, bassa per quelle a seguire.</span>"
+},
+{
+"key": "part03.html#824",
+"it": "<b>05</b><span>Usa un telecomando o l’autoscatto a 2 secondi per eliminare le vibrazioni dovute alla pressione del pulsante.</span>"
+},
+{
+"key": "part03.html#825",
+"it": "Camere 360 · indossabili"
+},
+{
+"key": "part03.html#826",
+"it": "<b>Foto di riferimento 3.11C</b>Immagini generate – camere a mani libere"
+},
+{
+"key": "part03.html#827",
+"it": "<span class=\"ph-id\">P03-360CAM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Camera 360 + selfie stick invisibile – scegli l’angolazione dopo aver girato</b></span>"
+},
+{
+"key": "part03.html#828",
+"it": "<b>Nota</b>Camera 360 + selfie stick invisibile – scegli l’angolazione dopo aver girato"
+},
+{
+"key": "part03.html#829",
+"it": "<span class=\"ph-id\">P03-WEARCAM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Camera indossabile – soggettiva da visiera del cappello · collana · clip magnetica</b></span>"
+},
+{
+"key": "part03.html#830",
+"it": "<b>Nota</b>Camera indossabile – soggettiva da visiera del cappello · collana · clip magnetica"
+},
+{
+"key": "part03.html#831",
+"it": "<small>Camere 360</small>Serie Insta360 X · DJI Osmo 360 · GoPro 360"
+},
+{
+"key": "part03.html#832",
+"it": "Due fisheye registrano ogni direzione; con il reframe ricavi 16:9 · 9:16"
+},
+{
+"key": "part03.html#833",
+"it": "Il «selfie stick invisibile» si nasconde nel punto cieco tra i due obiettivi"
+},
+{
+"key": "part03.html#834",
+"it": "360 di classe 8K ≈ 2,7K piatto dopo l’estrazione"
+},
+{
+"key": "part03.html#835",
+"it": "<small>Indossabili · ultracompatte</small>Serie Insta360 GO · action cam"
+},
+{
+"key": "part03.html#836",
+"it": "Grande come un pollice; si fissa a visiera · colletto · collana con magnete · clip"
+},
+{
+"key": "part03.html#837",
+"it": "Cucina · artigianato · documentazione sul campo in soggettiva; POV di bambini · animali"
+},
+{
+"key": "part03.html#838",
+"it": "Livellamento dell’orizzonte · stabilizzazione sono le funzioni chiave"
+},
+{
+"key": "part03.html#839",
+"it": "<small>Gimbal integrato</small>Serie DJI Osmo Pocket"
+},
+{
+"key": "part03.html#840",
+"it": "Camera tascabile con gimbal a 3 assi integrato; lo standard dei vlog in camminata"
+},
+{
+"key": "part03.html#841",
+"it": "Tracciamento del volto (ActiveTrack) · passaggio al verticale"
+},
+{
+"key": "part03.html#842",
+"it": "Modelli collegabili direttamente ai ricevitori microfonici: ideali da soli"
+},
+{
+"key": "part03.html#843",
+"it": "<b>NOTA</b>"
+},
+{
+"key": "part03.html#844",
+"it": "Per il 360 usa uno stativo sottile tipo monopiede (sparisce al nadir). Pianifica le riprese 360 sulla tavola equirettangolare della PARTE 06; il montaggio è tutto reframe (spostare la vista con i keyframe). Nomi di prodotto · generazioni aggiornati al momento della stesura."
+},
+{
+"key": "part03.html#845",
+"it": "<small>Esercizio</small>3.11"
+},
+{
+"key": "part03.html#846",
+"it": "Compito"
+},
+{
+"key": "part03.html#847",
+"it": "Gira lo stesso movimento con treppiede, slider, gimbal e a mano libera, poi confronta la resa di ciascuno."
+},
+{
+"key": "part03.html#848",
+"it": "Consiglio"
+},
+{
+"key": "part03.html#849",
+"it": "Con il gimbal cammina a ginocchia piegate, la «camminata ninja», per ridurre il sobbalzo verticale."
+},
+{
+"key": "part03.html#850",
+"it": "Valutazione"
+},
+{
+"key": "part03.html#851",
+"it": "Stabilità di ogni supporto; motivazione della scelta"
+},
+{
+"key": "part03.html#852",
+"it": "Risposta modello"
+},
+{
+"key": "part03.html#853",
+"it": "Distingui le scene che usano di proposito l’inquietudine della camera a mano da quelle che usano la fluidità del gimbal."
+},
+{
+"key": "part03.html#854",
+"it": "<b>PARTE 03</b>Attrezzatura e tecnica di ripresa"
+},
+{
+"key": "part03.html#855",
+"it": "Impostare la mirrorless in pratica"
+},
+{
+"key": "part03.html#856",
+"it": "I nomi dei menu cambiano a ogni generazione, ma l’ordine delle operazioni resta lo stesso. Allenati sulla sequenza qui sotto e imposterai qualsiasi modello in meno di 5 minuti."
+},
+{
+"key": "part03.html#857",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#858",
+"it": "Controlla risoluzione, frame rate, otturatore, profilo immagine, livelli audio e modalità di messa a fuoco, in quest’ordine."
+},
+{
+"key": "part03.html#859",
+"it": "<b>01</b><span>Passa alla modalità video manuale. In automatico l’esposizione cambia da un’inquadratura all’altra e al montaggio non combacia.</span>"
+},
+{
+"key": "part03.html#860",
+"it": "<b>02</b><span>Imposta per primi formato di registrazione e frame rate. Scegli 4K 24p o 4K 60p in base all’uso finale.</span>"
+},
+{
+"key": "part03.html#861",
+"it": "<b>03</b><span>Imposta il profilo immagine. Log se farai il grading in post, standard se consegni subito.</span>"
+},
+{
+"key": "part03.html#862",
+"it": "<b>04</b><span>Blocca l’otturatore al doppio del frame rate. A 24p, 1/48 o 1/50.</span>"
+},
+{
+"key": "part03.html#863",
+"it": "<b>05</b><span>Blocca l’ISO sul valore base. I profili Log hanno spesso un ISO base più alto.</span>"
+},
+{
+"key": "part03.html#864",
+"it": "<b>06</b><span>Imposta il bilanciamento del bianco in manuale o misura un valore personalizzato.</span>"
+},
+{
+"key": "part03.html#865",
+"it": "<b>07</b><span>Decidi la profondità di campo con il diaframma e, se c’è troppa luce, aggiungi un filtro ND.</span>"
+},
+{
+"key": "part03.html#866",
+"it": "<b>08</b><span>Il fuoco dipende dalla situazione. AF con rilevamento del volto per una persona sola; fuoco manuale per prodotti e plate di compositing.</span>"
+},
+{
+"key": "part03.html#867",
+"it": "<b>09</b><span>Controlla con le zebre o con l’istogramma che le alte luci non siano bruciate.</span>"
+},
+{
+"key": "part03.html#868",
+"it": "<b>10</b><span>Imposta i livelli audio in manuale e ascolta in cuffia.</span>"
+},
+{
+"key": "part03.html#869",
+"it": "<b>11</b><span>Controlla lo spazio sulla scheda e la carica della batteria, poi gira una prova e riguardala.</span>"
+},
+{
+"key": "part03.html#870",
+"it": "Preset di impostazione per situazione"
+},
+{
+"key": "part03.html#871",
+"it": "Situazione"
+},
+{
+"key": "part03.html#872",
+"it": "Risoluzione/fps"
+},
+{
+"key": "part03.html#873",
+"it": "Otturatore"
+},
+{
+"key": "part03.html#874",
+"it": "Diaframma"
+},
+{
+"key": "part03.html#875",
+"it": "ISO"
+},
+{
+"key": "part03.html#876",
+"it": "Profilo"
+},
+{
+"key": "part03.html#877",
+"it": "Ritratto emozionale"
+},
+{
+"key": "part03.html#878",
+"it": "ISO base"
+},
+{
+"key": "part03.html#879",
+"it": "Log + LUT di look"
+},
+{
+"key": "part03.html#880",
+"it": "Prodotto con slider"
+},
+{
+"key": "part03.html#881",
+"it": "ISO base"
+},
+{
+"key": "part03.html#882",
+"it": "Log"
+},
+{
+"key": "part03.html#883",
+"it": "Macro di prodotto"
+},
+{
+"key": "part03.html#884",
+"it": "1 stop in più"
+},
+{
+"key": "part03.html#885",
+"it": "Log"
+},
+{
+"key": "part03.html#886",
+"it": "Chroma key"
+},
+{
+"key": "part03.html#887",
+"it": "Base minima"
+},
+{
+"key": "part03.html#888",
+"it": "Profilo standard"
+},
+{
+"key": "part03.html#889",
+"it": "Esterni, in movimento"
+},
+{
+"key": "part03.html#890",
+"it": "ISO base"
+},
+{
+"key": "part03.html#891",
+"it": "Log + ND"
+},
+{
+"key": "part03.html#892",
+"it": "Video brevi verticali"
+},
+{
+"key": "part03.html#893",
+"it": "4K verticale 30p"
+},
+{
+"key": "part03.html#894",
+"it": "ISO base"
+},
+{
+"key": "part03.html#895",
+"it": "Standard"
+},
+{
+"key": "part03.html#896",
+"it": "Leggere la ghiera dei modi – P · S · A · M"
+},
+{
+"key": "part03.html#897",
+"it": "<b>Nota</b>Ghiera dei modi – per il video, M (o A) + ISO automatico. La ghiera di compensazione dell’esposizione regola finemente la luminosità in modo A"
+},
+{
+"key": "part03.html#898",
+"it": "Modo"
+},
+{
+"key": "part03.html#899",
+"it": "Nome"
+},
+{
+"key": "part03.html#900",
+"it": "La camera imposta / imposti tu"
+},
+{
+"key": "part03.html#901",
+"it": "Quando, nel video"
+},
+{
+"key": "part03.html#902",
+"it": "AUTO"
+},
+{
+"key": "part03.html#903",
+"it": "Tutto automatico"
+},
+{
+"key": "part03.html#904",
+"it": "La camera imposta tutto"
+},
+{
+"key": "part03.html#905",
+"it": "Da evitare – esposizione · colore saltano a ogni inquadratura"
+},
+{
+"key": "part03.html#906",
+"it": "Programma"
+},
+{
+"key": "part03.html#907",
+"it": "Camera: diaframma · otturatore; tu: il resto"
+},
+{
+"key": "part03.html#908",
+"it": "Per riprese al volo. L’otturatore ignora la regola dei 180°"
+},
+{
+"key": "part03.html#909",
+"it": "S (Tv)"
+},
+{
+"key": "part03.html#910",
+"it": "Priorità di tempi"
+},
+{
+"key": "part03.html#911",
+"it": "Tu: otturatore / camera: diaframma"
+},
+{
+"key": "part03.html#912",
+"it": "Quando la luce in esterni cambia di continuo; otturatore bloccato a 1/50"
+},
+{
+"key": "part03.html#913",
+"it": "A (Av)"
+},
+{
+"key": "part03.html#914",
+"it": "Priorità di diaframma"
+},
+{
+"key": "part03.html#915",
+"it": "Tu: diaframma / camera: otturatore"
+},
+{
+"key": "part03.html#916",
+"it": "Predefinito per le foto; non per il video, perché l’otturatore varia"
+},
+{
+"key": "part03.html#917",
+"it": "Manuale"
+},
+{
+"key": "part03.html#918",
+"it": "Tu: diaframma · otturatore; l’ISO può essere automatico"
+},
+{
+"key": "part03.html#919",
+"it": "<b>Lo standard per il video.</b> Otturatore 1/50 · diaframma fisso · ISO automatico (max 6400)"
+},
+{
+"key": "part03.html#920",
+"it": "MR (1 · 2 · 3)"
+},
+{
+"key": "part03.html#921",
+"it": "Richiamo memoria"
+},
+{
+"key": "part03.html#922",
+"it": "Richiama le impostazioni salvate"
+},
+{
+"key": "part03.html#923",
+"it": "Salva i set «intervista» «esterni» «rallentatore» per un setup da 1 minuto"
+},
+{
+"key": "part03.html#924",
+"it": "S&amp;Q"
+},
+{
+"key": "part03.html#925",
+"it": "Rallentato &amp; accelerato"
+},
+{
+"key": "part03.html#926",
+"it": "Separa gli fps di ripresa da quelli di riproduzione"
+},
+{
+"key": "part03.html#927",
+"it": "Ripresa a 120 fps → riproduzione a 24p = rallentatore 5× (senza audio)"
+},
+{
+"key": "part03.html#928",
+"it": "Impostazioni consigliate per situazione (serie α7)"
+},
+{
+"key": "part03.html#929",
+"it": "Situazione"
+},
+{
+"key": "part03.html#930",
+"it": "fps"
+},
+{
+"key": "part03.html#931",
+"it": "Otturatore"
+},
+{
+"key": "part03.html#932",
+"it": "Diaframma"
+},
+{
+"key": "part03.html#933",
+"it": "ISO"
+},
+{
+"key": "part03.html#934",
+"it": "WB"
+},
+{
+"key": "part03.html#935",
+"it": "Profilo immagine"
+},
+{
+"key": "part03.html#936",
+"it": "Note"
+},
+{
+"key": "part03.html#937",
+"it": "Intervista in interni"
+},
+{
+"key": "part03.html#938",
+"it": "Allineato alla luce chiave (5600 K)"
+},
+{
+"key": "part03.html#939",
+"it": "S-Cinetone"
+},
+{
+"key": "part03.html#940",
+"it": "Spegni le fluorescenti; controlla il flicker"
+},
+{
+"key": "part03.html#941",
+"it": "Vlog diurno in esterni"
+},
+{
+"key": "part03.html#942",
+"it": "Bloccato a 5600 K"
+},
+{
+"key": "part03.html#943",
+"it": "S-Cinetone · HLG3"
+},
+{
+"key": "part03.html#944",
+"it": "Mantieni l’otturatore con l’ND"
+},
+{
+"key": "part03.html#945",
+"it": "Città di notte"
+},
+{
+"key": "part03.html#946",
+"it": "S-Log3"
+},
+{
+"key": "part03.html#947",
+"it": "Usa il doppio ISO base (S-Log3: 800/12.800)"
+},
+{
+"key": "part03.html#948",
+"it": "Prodotto su tavolo"
+},
+{
+"key": "part03.html#949",
+"it": "Allineato alle luci"
+},
+{
+"key": "part03.html#950",
+"it": "S-Cinetone"
+},
+{
+"key": "part03.html#951",
+"it": "Treppiede · fuoco manuale · ingrandimento del fuoco"
+},
+{
+"key": "part03.html#952",
+"it": "Rallentatore"
+},
+{
+"key": "part03.html#953",
+"it": "120p (S&amp;Q)"
+},
+{
+"key": "part03.html#954",
+"it": "Bloccato"
+},
+{
+"key": "part03.html#955",
+"it": "S-Log3"
+},
+{
+"key": "part03.html#956",
+"it": "Serve 4× la luce; l’audio non viene registrato"
+},
+{
+"key": "part03.html#957",
+"it": "Chroma key"
+},
+{
+"key": "part03.html#958",
+"it": "S-Log3 4:2:2 10 bit"
+},
+{
+"key": "part03.html#959",
+"it": "Esponi sfondo e soggetto separatamente; non accorciare il tempo di posa"
+},
+{
+"key": "part03.html#960",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part03.html#961",
+"it": "Regola dei 180 gradi: otturatore = 1 ÷ (fps × 2). 24p → 1/50, 30p → 1/60, 60p → 1/125, 120p → 1/250. Se c’è troppa luce, regola l’<b>ND</b>, non l’ISO."
+},
+{
+"key": "part03.html#962",
+"it": "Tre obiettivi bastano per tutto – 55 · 85 · 200"
+},
+{
+"key": "part03.html#963",
+"it": "Tre obiettivi bastano per tutto – 55 · 85 · 200"
+},
+{
+"key": "part03.html#964",
+"it": "<b>55 mm – la distanza come la vede l’occhio</b><span>Interviste · prodotti · vlog. Nessuna distorsione, luminoso e leggero. Se ne compri uno solo, è questo</span><b>85 mm – la distanza che più valorizza i volti</b><span>Primi piani · beauty. Lo sfondo si sfoca molto e il volto si appiattisce con garbo. In una stanza piccola serve spazio per arretrare</span><b>200 mm – avvicina da lontano</b><span>Palco · sport · osservazione documentaria. Lo sfondo si comprime e sembra incollato al soggetto. Il mosso è forte, quindi treppiede · monopiede</span>"
+},
+{
+"key": "part03.html#965",
+"it": "<b>Nota</b> 55 · 85 · 200 per mirrorless full frame – più grande è il numero (lunghezza focale), più stretto è l’angolo di campo e più lontano stai dal soggetto. Scegliere un obiettivo significa scegliere «quanti metri mettere tra il pubblico e la persona»."
+},
+{
+"key": "part03.html#966",
+"it": "<small>55 mm · standard</small>La distanza come la vede l’occhio umano"
+},
+{
+"key": "part03.html#967",
+"it": "Mezzi primi piani d’intervista · prodotto su tavolo · vlog"
+},
+{
+"key": "part03.html#968",
+"it": "Nessuna distorsione · luminoso f/1,8 · leggero ed economico"
+},
+{
+"key": "part03.html#969",
+"it": "Se ne compri uno solo, è questo"
+},
+{
+"key": "part03.html#970",
+"it": "<small>85 mm · tele corto</small>La distanza che più valorizza i volti"
+},
+{
+"key": "part03.html#971",
+"it": "Primi piani · beauty · dettagli di prodotto"
+},
+{
+"key": "part03.html#972",
+"it": "Lo sfondo si sfoca molto e il volto si appiattisce con garbo"
+},
+{
+"key": "part03.html#973",
+"it": "In una stanza piccola serve spazio per arretrare (min 0,8 m)"
+},
+{
+"key": "part03.html#974",
+"it": "<small>200 mm · teleobiettivo</small>Avvicina da lontano"
+},
+{
+"key": "part03.html#975",
+"it": "Palco · sport · osservazione documentaria"
+},
+{
+"key": "part03.html#976",
+"it": "Lo sfondo si comprime e sembra incollato al soggetto"
+},
+{
+"key": "part03.html#977",
+"it": "Mosso forte → 1/250 o più rapido · treppiede · monopiede"
+}
+]

@@ -1,0 +1,442 @@
+[
+{
+"key": "part02.html#1234",
+"it": "1.18 · 1.20 Sguardo, tempo e spazio"
+},
+{
+"key": "part02.html#1235",
+"it": "Metti l’inquadratura successiva dove si posa lo sguardo e decidi prima quanto tempo e quanta distanza separano due inquadrature."
+},
+{
+"key": "part02.html#1236",
+"it": "Domande per riflettere"
+},
+{
+"key": "part02.html#1237",
+"it": "Quali piani uso più spesso? È abitudine o scelta?"
+},
+{
+"key": "part02.html#1238",
+"it": "Sulla tavola delle 8 inquadrature, segna il piano che hai girato di più e quello che non hai mai girato."
+},
+{
+"key": "part02.html#1239",
+"it": "Qual è l’inquadratura più memorabile di qualcosa che hai visto di recente, e perché ti è rimasta impressa?"
+},
+{
+"key": "part02.html#1240",
+"it": "Scomponila per piano, angolazione e durata."
+},
+{
+"key": "part02.html#1241",
+"it": "Come dici a voce le note di inquadratura sul set?"
+},
+{
+"key": "part02.html#1242",
+"it": "Usa i termini del mestiere, come «un po’ più stretto» – «fallo un po’ più piccolo» riceve tre interpretazioni da tre persone."
+},
+{
+"key": "feature_storyboard.html#0",
+"it": "Speciale · STORYBOARD"
+},
+{
+"key": "feature_storyboard.html#1",
+"it": "Lo storyboard,<br>una promessa fatta per immagini"
+},
+{
+"key": "feature_storyboard.html#2",
+"it": "Lo storyboard è una questione di progettazione dell’informazione, non di abilità nel disegno. Questo speciale raccoglie in un solo posto che cosa deve dire un riquadro perché dieci persone girino la stessa scena, e come cambia il riquadro da un mezzo all’altro: orizzontale · verticale · ultrapanoramico · 360° · curvo · facciata · AR/VR/MR/XR."
+},
+{
+"key": "feature_storyboard.html#3",
+"it": "<b>G-18</b> Fare lo storyboard – scrivi inquadratura · movimento · tempo in ogni riquadro. Il disegno può essere approssimativo; l’informazione no."
+},
+{
+"key": "feature_storyboard.html#4",
+"it": "<b>01</b><i>Bozza</i>La regia mette in ordine le idee. Disegni approssimativi, più versioni a confronto, per riunioni interne. 1–2 ore."
+},
+{
+"key": "feature_storyboard.html#5",
+"it": "<b>02</b><i>Storyboard</i>Il progetto esecutivo per tutta la troupe. Inquadratura · tempi · suono esatti. Modifiche minime dopo l’approvazione in PPM. 1–2 giorni."
+},
+{
+"key": "feature_storyboard.html#6",
+"it": "<b>03</b><i>Animatic</i>Le tavole su una timeline con musica · voce narrante provvisorie. I problemi di ritmo e durata emergono subito. 2–3 giorni."
+},
+{
+"key": "feature_storyboard.html#7",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "feature_storyboard.html#8",
+"it": "Per uno spot da 15 secondi o un video breve da 1 minuto, arriva fino all’animatic. I problemi di ritmo non si vedono nelle immagini ferme."
+},
+{
+"key": "feature_storyboard.html#9",
+"it": "Lo storyboard è l’ultimo punto della filiera produttiva in cui gli errori costano poco. Se una modifica in fase di concept costa 1, ne costa 3 in fase di storyboard, 20 il giorno delle riprese e 50 in post-produzione. Perciò lo storyboard non è un documento per disegnare bene, ma <b>un documento per sbagliare in fretta</b>."
+},
+{
+"key": "feature_storyboard.html#10",
+"it": "<b>Foto di riferimento 1.1A</b>Immagine generata – quattro volti dello storyboard"
+},
+{
+"key": "feature_storyboard.html#11",
+"it": "<span class=\"ph-id\">P06-SB-HAND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard disegnato a mano – riquadri · frecce · note di tempo su un solo foglio</b></span>"
+},
+{
+"key": "feature_storyboard.html#12",
+"it": "<b>Nota</b>Storyboard disegnato a mano – riquadri · frecce · note di tempo su un solo foglio"
+},
+{
+"key": "feature_storyboard.html#13",
+"it": "<span class=\"ph-id\">P06-SB-VERT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard per video verticale – i riquadri diventano stretti e alti</b></span>"
+},
+{
+"key": "feature_storyboard.html#14",
+"it": "<b>Nota</b>Storyboard per video verticale – i riquadri diventano stretti e alti"
+},
+{
+"key": "feature_storyboard.html#15",
+"it": "<span class=\"ph-id\">P06-SB-DIGITAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard digitale – disegnato su tablet, subito trasformato in animatic</b></span>"
+},
+{
+"key": "feature_storyboard.html#16",
+"it": "<b>Nota</b>Storyboard digitale – disegnato su tablet, subito trasformato in animatic"
+},
+{
+"key": "feature_storyboard.html#17",
+"it": "<span class=\"ph-id\">P06-ANIMATIC</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Animatic – metti le tavole su una timeline per provare il ritmo</b></span>"
+},
+{
+"key": "feature_storyboard.html#18",
+"it": "<b>Nota</b>Animatic – metti le tavole su una timeline per provare il ritmo"
+},
+{
+"key": "feature_storyboard.html#19",
+"it": "<b>Foto di riferimento 1.1B</b>Immagine generata – riferimenti di regia"
+},
+{
+"key": "feature_storyboard.html#20",
+"it": "<b>a</b>Storyboard disegnato a mano"
+},
+{
+"key": "feature_storyboard.html#21",
+"it": "<b>b</b>Schermata di montaggio dell’animatic"
+},
+{
+"key": "feature_storyboard.html#22",
+"it": "<b>c</b>Sopralluogo"
+},
+{
+"key": "feature_storyboard.html#23",
+"it": "<small>DOPPIA PAGINA 01</small>Anatomia di un riquadro – tutte e nove le voci, o nessun altro potrà girarlo"
+},
+{
+"key": "feature_storyboard.html#24",
+"it": "Anatomia di un riquadro – nove voci"
+},
+{
+"key": "feature_storyboard.html#25",
+"it": "<span>CUT 02</span><span class=\"sc\">S#1 Caffè · Giorno · INT</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#26",
+"it": "MCU · EYE · 50 mm · DOLLY IN lento · CUT TO"
+},
+{
+"key": "feature_storyboard.html#27",
+"it": "Nota d’azione: prende il prodotto · lo sguardo va al prodotto"
+},
+{
+"key": "feature_storyboard.html#28",
+"it": "N La tua giornata comincia in un altro modo · SE tappo · M entra il piano"
+},
+{
+"key": "feature_storyboard.html#29",
+"it": "<i>1</i><b>Numero di inquadratura · scena</b><span>Base per ordine e riferimenti</span>"
+},
+{
+"key": "feature_storyboard.html#30",
+"it": "<i>2</i><b>Tempo</b><span>Durata in secondi + time code progressivo</span>"
+},
+{
+"key": "feature_storyboard.html#31",
+"it": "<i>3</i><b>Immagine (quadro)</b><span>Composizione · posizione · sguardo · frecce</span>"
+},
+{
+"key": "feature_storyboard.html#32",
+"it": "<i>4</i><b>Piano · angolazione · obiettivo</b><span>ELS–ECU · EYE/HIGH/LOW</span>"
+},
+{
+"key": "feature_storyboard.html#33",
+"it": "<i>5</i><b>Movimento di camera</b><span>Direzione + una parola per la velocità</span>"
+},
+{
+"key": "feature_storyboard.html#34",
+"it": "<i>6</i><b>Nota d’azione</b><span>L’evento, con un verbo</span>"
+},
+{
+"key": "feature_storyboard.html#35",
+"it": "<i>7</i><b>Voce narrante · dialogo</b><span>N / V.O. / SYNC</span>"
+},
+{
+"key": "feature_storyboard.html#36",
+"it": "<i>8</i><b>Suono</b><span>M · SE · ATM</span>"
+},
+{
+"key": "feature_storyboard.html#37",
+"it": "<i>9</i><b>Transizione</b><span>CUT / DIS / FI / FO</span>"
+},
+{
+"key": "feature_storyboard.html#38",
+"it": "<b>Fig. 57</b> Elementi di un riquadro di storyboard. Solo quando tutti e nove sono scritti qualcun altro può girare la stessa immagine."
+},
+{
+"key": "feature_storyboard.html#39",
+"it": "<small>Dentro il riquadro</small>Solo ciò che si vede"
+},
+{
+"key": "feature_storyboard.html#40",
+"it": "Posizione e grandezza di persone · oggetti (il piano è la grandezza del disegno)"
+},
+{
+"key": "feature_storyboard.html#41",
+"it": "Direzione dello sguardo, frecce di movimento (soggetto = nero, camera = bordeaux)"
+},
+{
+"key": "feature_storyboard.html#42",
+"it": "Aree di didascalie · logo che entrano nel quadro, in riquadri tratteggiati"
+},
+{
+"key": "feature_storyboard.html#43",
+"it": "Linea tratteggiata dell’area di sicurezza – didascalie solo al suo interno"
+},
+{
+"key": "feature_storyboard.html#44",
+"it": "<small>Fuori dal riquadro</small>Ciò che si sente, e le misure"
+},
+{
+"key": "feature_storyboard.html#45",
+"it": "Tempo: sia la durata in secondi sia il time code progressivo"
+},
+{
+"key": "feature_storyboard.html#46",
+"it": "Abbreviazioni: SIZE / ANGLE / LENS / MOVE / TR"
+},
+{
+"key": "feature_storyboard.html#47",
+"it": "Note d’azione con verbi, emozioni con aggettivi, tenute separate"
+},
+{
+"key": "feature_storyboard.html#48",
+"it": "N · V.O. · SYNC · M · SE – quattro livelli di suono su una riga"
+},
+{
+"key": "feature_storyboard.html#49",
+"it": "<small>DOPPIA PAGINA 02</small>Modelli di riquadro per formato (aspect ratio) – cambia il formato e cambia la grammatica della composizione"
+},
+{
+"key": "feature_storyboard.html#50",
+"it": "Disegna sempre i riquadri dello storyboard <b>nell’esatto formato di consegna</b>. Uno storyboard disegnato in 16:9 e poi ritagliato in verticale non è uno storyboard. Ogni modello qui sotto rimette in scena la stessa scena (persona · prodotto · sfondo) per il suo formato. Le linee tratteggiate sono l’area sicura per l’azione (90%) e l’area sicura per i titoli (80%)."
+},
+{
+"key": "feature_storyboard.html#51",
+"it": "Modelli di riquadro per formato (aspect ratio)"
+},
+{
+"key": "feature_storyboard.html#52",
+"it": "<b>4:3</b><span>1440×1080 · rétro</span>"
+},
+{
+"key": "feature_storyboard.html#53",
+"it": "<b>16:9</b><span>1920×1080 · formato standard</span>"
+},
+{
+"key": "feature_storyboard.html#54",
+"it": "<b>21:9</b><span>3840×1608 · formato cinema</span>"
+},
+{
+"key": "feature_storyboard.html#55",
+"it": "<b>1:1</b><span>1080×1080 · nel feed</span>"
+},
+{
+"key": "feature_storyboard.html#56",
+"it": "<b>4:5</b><span>1080×1350 · max nel feed</span>"
+},
+{
+"key": "feature_storyboard.html#57",
+"it": "<b>9:16</b><span>1080×1920 · video brevi</span>"
+},
+{
+"key": "feature_storyboard.html#58",
+"it": "<b>9:21</b><span>1080×2520 · LED verticale</span>"
+},
+{
+"key": "feature_storyboard.html#59",
+"it": "<b>2:1 equirettangolare</b><span>4096×2048 · 360°/VR – la cornice rossa indica i 90° frontali</span>"
+},
+{
+"key": "feature_storyboard.html#60",
+"it": "<b>Tavola SB-1</b> Una scena, nove formati. Se cambi il formato, cambiano la grandezza del soggetto e la quota di sfondo – disegna lo storyboard nell’esatto formato di consegna."
+},
+{
+"key": "feature_storyboard.html#61",
+"it": "Formato"
+},
+{
+"key": "feature_storyboard.html#62",
+"it": "Risoluzione tipica"
+},
+{
+"key": "feature_storyboard.html#63",
+"it": "Dove"
+},
+{
+"key": "feature_storyboard.html#64",
+"it": "Regola di composizione in una riga"
+},
+{
+"key": "feature_storyboard.html#65",
+"it": "Attenzione nel disegno"
+},
+{
+"key": "feature_storyboard.html#66",
+"it": "YouTube, TV, monitor, presentazioni"
+},
+{
+"key": "feature_storyboard.html#67",
+"it": "Occhi e prodotto sulle linee dei terzi"
+},
+{
+"key": "feature_storyboard.html#68",
+"it": "Gira in 4K → margine per estrarre il verticale"
+},
+{
+"key": "feature_storyboard.html#69",
+"it": "Cinema, film di brand"
+},
+{
+"key": "feature_storyboard.html#70",
+"it": "Il vuoto orizzontale è emozione; due persone in una sola inquadratura"
+},
+{
+"key": "feature_storyboard.html#71",
+"it": "Consegna in 16:9 con bande nere; controlla la posizione delle didascalie"
+},
+{
+"key": "feature_storyboard.html#72",
+"it": "Reels · Shorts · TikTok"
+},
+{
+"key": "feature_storyboard.html#73",
+"it": "60% centrale, volto nel terzo superiore"
+},
+{
+"key": "feature_storyboard.html#74",
+"it": "L’interfaccia copre il 14% in alto · il 25% in basso"
+},
+{
+"key": "feature_storyboard.html#75",
+"it": "LED verticali, ascensori · pilastri"
+},
+{
+"key": "feature_storyboard.html#76",
+"it": "Flusso alto→basso, asse centrale verticale"
+},
+{
+"key": "feature_storyboard.html#77",
+"it": "Distanza di visione 2 m+ → testo di almeno 60 px"
+},
+{
+"key": "feature_storyboard.html#78",
+"it": "Annunci nel feed"
+},
+{
+"key": "feature_storyboard.html#79",
+"it": "Centrato, margini uguali"
+},
+{
+"key": "feature_storyboard.html#80",
+"it": "Una sorgente 16:9 perde il 44% ai lati"
+},
+{
+"key": "feature_storyboard.html#81",
+"it": "Visori VR, player 360°"
+},
+{
+"key": "feature_storyboard.html#82",
+"it": "Azione nei 90° frontali, suono alle spalle"
+},
+{
+"key": "feature_storyboard.html#83",
+"it": "Distorsione a zenit · nadir, cancella il treppiede"
+},
+{
+"key": "feature_storyboard.html#84",
+"it": "Formato libero"
+},
+{
+"key": "feature_storyboard.html#85",
+"it": "Numero di moduli LED × passo dei pixel"
+},
+{
+"key": "feature_storyboard.html#86",
+"it": "Curvo · facciata · cupola"
+},
+{
+"key": "feature_storyboard.html#87",
+"it": "Il riferimento è la «posizione di visione», non la superficie"
+},
+{
+"key": "feature_storyboard.html#88",
+"it": "Vista sviluppata + vista dall’alto, due fogli insieme"
+},
+{
+"key": "feature_storyboard.html#89",
+"it": "<small>DOPPIA PAGINA 03</small>Orizzontale e verticale non sono mezzi diversi ma lingue diverse – progetta due volte la stessa inquadratura"
+},
+{
+"key": "feature_storyboard.html#90",
+"it": "Progetta due volte la stessa inquadratura"
+},
+{
+"key": "feature_storyboard.html#91",
+"it": "<b>✕ Verticale ritagliato al centro dal 16:9</b><span>Mezza persona, mezza finestra – ritagliare non è progettare</span>"
+},
+{
+"key": "feature_storyboard.html#92",
+"it": "<b>○ Inquadratura riprogettata per il verticale</b><span>Volto nel terzo superiore, prodotto al centro, meno sfondo</span>"
+},
+{
+"key": "feature_storyboard.html#93",
+"it": "<b>Passare al verticale</b><span>Piani più stretti di un gradino</span><span>Lo sfondo va in un’inquadratura a parte</span><span>Sguardo e movimento vanno dall’alto in basso</span><span>Didascalie nella fascia centrale del 60%</span><span>Le inquadrature aumentano del 20–30%</span>"
+},
+{
+"key": "feature_storyboard.html#94",
+"it": "<b>Tavola SB-2</b> Orizzontale e verticale sono lingue diverse. La differenza tra un ritaglio al centro (a sinistra) e una riprogettazione (al centro)."
+},
+{
+"key": "feature_storyboard.html#95",
+"it": "Esempio di storyboard verticale – spot breve da 15 secondi (9:16, 6 inquadrature)"
+},
+{
+"key": "feature_storyboard.html#96",
+"it": "Esempio di storyboard verticale"
+},
+{
+"key": "feature_storyboard.html#97",
+"it": "<b>CU · LOCKED</b><span>Sbadiglio · didascalia «Ogni mattina, così?»</span>"
+},
+{
+"key": "feature_storyboard.html#98",
+"it": "<b>ECU · HIGH · avvicinamento</b><span>La mano prende la bottiglia · SE tappo</span>"
+},
+{
+"key": "feature_storyboard.html#99",
+"it": "<b>MCU · HH</b><span>Un sorso, gli occhi si aprono · «Oh.»</span>"
+},
+{
+"key": "feature_storyboard.html#100",
+"it": "<b>LS · LOW · TILT UP</b><span>La città fuori dalla finestra · N Prima della città</span>"
+}
+]

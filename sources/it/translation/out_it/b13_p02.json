@@ -1,0 +1,602 @@
+[
+{
+"key": "part12.html#353",
+"it": "Budget molto ridotto"
+},
+{
+"key": "part12.html#354",
+"it": "Costo minimo elevato"
+},
+{
+"key": "part12.html#355",
+"it": "Bozze a costo quasi 0"
+},
+{
+"key": "part12.html#356",
+"it": "Persone · luoghi reali"
+},
+{
+"key": "part12.html#357",
+"it": "Ripresi così come sono"
+},
+{
+"key": "part12.html#358",
+"it": "Problemi di diritti e fedeltà"
+},
+{
+"key": "part12.html#359",
+"it": "Moto esatto di acqua · fuoco · tessuti"
+},
+{
+"key": "part12.html#360",
+"it": "Controllato con il calcolo"
+},
+{
+"key": "part12.html#361",
+"it": "Instabile per sistema"
+},
+{
+"key": "part12.html#362",
+"it": "Atmosfera · sfondi lontani · particelle"
+},
+{
+"key": "part12.html#363",
+"it": "Costa tempo e denaro"
+},
+{
+"key": "part12.html#364",
+"it": "Rapida ed economica"
+},
+{
+"key": "part12.html#365",
+"it": "Versioni per molti paesi · formati"
+},
+{
+"key": "part12.html#366",
+"it": "Da rifare a ogni versione"
+},
+{
+"key": "part12.html#367",
+"it": "Forte nelle varianti"
+},
+{
+"key": "part12.html#368",
+"it": "Progetto di inquadrature · luce"
+},
+{
+"key": "part12.html#369",
+"it": "Competenza chiave"
+},
+{
+"key": "part12.html#370",
+"it": "Non vi è quasi entrata"
+},
+{
+"key": "part12.html#371",
+"it": "Una prova sulla fisica"
+},
+{
+"key": "part12.html#372",
+"it": "<b>29,5<em>/100</em></b>Punteggio del miglior modello di generazione video in un benchmark di comprensione della fisica pubblicato nel 2026 (riprese reali = 100). Il realismo apparente di una clip non aveva alcuna correlazione significativa con il suo punteggio di fisica"
+},
+{
+"key": "part12.html#373",
+"it": "<b>In primo piano</b>"
+},
+{
+"key": "part12.html#374",
+"it": "Le ricerche recenti per migliorare il comportamento dei fluidi addestrano i modelli su dati di riferimento prodotti con i software di simulazione esistenti. La simulazione non viene sostituita: si è spostata a monte del modello generativo."
+},
+{
+"key": "part12.html#375",
+"it": "La conclusione dei ricercatori è semplice. Sembrare plausibile non significa capire la fisica."
+},
+{
+"key": "part12.html#376",
+"it": "Combinare è la regola"
+},
+{
+"key": "part12.html#377",
+"it": "<b>01</b><span><b>Dividi i livelli</b> – gira o simula il prodotto e la fisica principale, genera atmosfera e particelle dello sfondo, e unifica compositing e colore in post-produzione.</span>"
+},
+{
+"key": "part12.html#378",
+"it": "<b>02</b><span><b>Separa presentazione e definitivo</b> – genera in fretta le bozze di presentazione; dopo l’approvazione, rifai il definitivo con un metodo che puoi controllare.</span>"
+},
+{
+"key": "part12.html#379",
+"it": "<b>03</b><span><b>Chiarisci presto la dichiarazione</b> – prima della consegna, elenca in quali fasi hai usato strumenti generativi. Piattaforme e clienti lo chiedono.</span>"
+},
+{
+"key": "part12.html#380",
+"it": "Se a schermo ci sono elementi di marca, controlla quel livello. Il resto può andare alla generazione.<small>11.7 Produzione tradizionale e produzione con IA</small>"
+},
+{
+"key": "part12.html#381",
+"it": "Cinque cose per lavorare con l’IA – che cosa entra, che cosa si controlla"
+},
+{
+"key": "part12.html#382",
+"it": "<b>① Parti da un turnaround del personaggio</b><span>Crea prima fronte · ¾ · lato · retro su un solo foglio. Solo con questo foglio dato come riferimento la stessa persona compare in tutte le inquadrature successive</span>"
+},
+{
+"key": "part12.html#383",
+"it": "<b>② Coerenza del volto – riferimento + tratti distintivi + seed</b><span>Dai ogni volta la stessa immagine di riferimento e ripeti nel prompt i tratti distintivi (caschetto · neo sotto l’occhio sinistro · giacca color menta). Cambia solo la scena</span>"
+},
+{
+"key": "part12.html#384",
+"it": "<b>③ Scheletro del prompt – sette caselle da riempire</b><span><b>Soggetto</b> barista coreano sulla trentina</span><span><b>Azione</b> versa la latte art in una tazza bianca</span><span><b>Luogo</b> interno di un piccolo caffè soleggiato</span><span><b>Luce</b> calda luce laterale del mattino da una finestra</span><span><b>Obiettivo</b> 50 mm f/2, profondità di campo ridotta</span><span><b>Stile</b> documentario editoriale, colori tenui da pellicola</span><span><b>Escludi</b> testo · loghi · 6 dita</span><span style=\"color:var(--wine)\">La foto a sinistra è il risultato di questo preciso prompt. «50 mm f/2» funziona meglio di «fallo bello»</span>"
+},
+{
+"key": "part12.html#385",
+"it": "A che punto siamo nel 2026"
+},
+{
+"key": "part12.html#386",
+"it": "Immagini fisse · bozze"
+},
+{
+"key": "part12.html#387",
+"it": "In sostanza ci siamo – bozze di spot·mood board sono già prassi corrente"
+},
+{
+"key": "part12.html#388",
+"it": "Clip video da 5–10 s"
+},
+{
+"key": "part12.html#389",
+"it": "B-roll·sfondi·transizioni utilizzabili – mani·testo·azione rapida non ancora"
+},
+{
+"key": "part12.html#390",
+"it": "Coerenza del personaggio"
+},
+{
+"key": "part12.html#391",
+"it": "Riferimento + seed tengono il volto; abiti·oggetti cambiano spesso"
+},
+{
+"key": "part12.html#392",
+"it": "Lip sync · dialogo"
+},
+{
+"key": "part12.html#393",
+"it": "Una persona di fronte funziona; profili·gruppi stonano"
+},
+{
+"key": "part12.html#394",
+"it": "Fisica di acqua · fuoco · tessuti"
+},
+{
+"key": "part12.html#395",
+"it": "Plausibile ma sbagliata – benchmark di fisica 29,5/100"
+},
+{
+"key": "part12.html#396",
+"it": "Racconti di 5 minuti o più"
+},
+{
+"key": "part12.html#397",
+"it": "La continuità salta tra le inquadrature – la ricuce una persona al montaggio"
+},
+{
+"key": "part12.html#398",
+"it": "<b>Dove rende di più</b><span>Progettazione – decine di mood board · bozze di storyboard in un’ora</span><span>Inserti impossibili da girare – spazio · fondali marini · passato · scene pericolose</span><span>Varianti di formato – orizzontale → verticale · quadrato · versioni multilingue</span><span>Post-produzione – roto · pulizia · estensione dello sfondo · bozze di sottotitoli</span>"
+},
+{
+"key": "part12.html#399",
+"it": "<b>A cosa fare attenzione</b><span>Diritti – non copiare persone reali · loghi · lo stile di un’opera precisa</span><span>Dichiarazione – se usi materiale generato, indicalo nei titoli di coda</span><span>Revisione – controlla dita · testo · direzione delle ombre · riflessi in ogni inquadratura</span><span>Conserva gli originali – annota prompt · seed · versione del modello, o non potrai riprodurlo</span>"
+},
+{
+"key": "part12.html#400",
+"it": "<b>Fig. 90-1</b> Portare l’IA nella pratica – turnaround, coerenza del volto, scheletro del prompt e il punto della situazione nel 2026. Trattala non come un «sostituto» ma come «un neoassunto a cui affidi una sola fase» – dai istruzioni precise e controlla sempre i risultati."
+},
+{
+"key": "part12.html#401",
+"it": "<small>Esercizio</small>11.7"
+},
+{
+"key": "part12.html#402",
+"it": "Compito"
+},
+{
+"key": "part12.html#403",
+"it": "Immagina uno spot che potrebbero commissionarti e prepara una tabella in cui decidi, inquadratura per inquadratura, tra produzione tradizionale e IA. Motiva ogni decisione in una riga."
+},
+{
+"key": "part12.html#404",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#405",
+"it": "Nei casi difficili, dai una risposta divisa per fasi, ad es. «bozza generata, definitivo girato»."
+},
+{
+"key": "part12.html#406",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#407",
+"it": "I criteri sono applicati con coerenza? Le inquadrature con elementi di marca sono classificate correttamente?"
+},
+{
+"key": "part12.html#408",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#409",
+"it": "Una relazione che ha realizzato la stessa inquadratura nei due modi e confrontato costi e tempi misurati."
+},
+{
+"key": "part12.html#410",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#411",
+"it": "Il mercato del lavoro coreano che cambia"
+},
+{
+"key": "part12.html#412",
+"it": "Come sta cambiando il mercato del lavoro coreano? Le statistiche ufficiali non dicono tanto che «il lavoro nel suo insieme sta sparendo», quanto che «si sta restringendo l’ingresso da cui passavano i giovani». Guardiamo i numeri così come sono."
+},
+{
+"key": "part12.html#413",
+"it": "<span class=\"ph-id\">P12-HIRING</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Il mercato del primo impiego</b>Una sala d’attesa per colloqui quasi vuota, un solo candidato con una cartella portfolio in mano</span>"
+},
+{
+"key": "part12.html#414",
+"it": "<b>Nota</b>Assunzioni di profili junior – a ridursi non è la professione, ma i primi gradini della scala"
+},
+{
+"key": "part12.html#415",
+"it": "<b>−285.000<em>persone</em></b>Analisi della Banca di Corea – calo degli occupati di 15–29 anni, 06/2022–06/2026. Il 94% nei settori molto esposti all’IA; nello stesso periodo i cinquantenni sono aumentati"
+},
+{
+"key": "part12.html#416",
+"it": "<b>−31,4<em>%</em></b>Giovani occupati nella stessa analisi – ICT. Editoria (incl. software · web design) −27,4%, programmazione informatica −16,6%"
+},
+{
+"key": "part12.html#417",
+"it": "<b>65,6<em>%</em></b>Sondaggio FKI, 19–34 anni – temono che «l’IA ridurrà il lavoro di primo livello e le occasioni per diventare personale esperto»"
+},
+{
+"key": "part12.html#418",
+"it": "<b>In primo piano</b>"
+},
+{
+"key": "part12.html#419",
+"it": "Le previsioni 2025–2035 del Korea Employment Information Service collocano i «lavori di assistente al design · al montaggio» tra i più colpiti dall’automazione, e vedono in crescita la domanda di autori di fumetti · webtoon e di produttori cinematografici · musicali."
+},
+{
+"key": "part12.html#420",
+"it": "Questi numeri indicano tutti la stessa cosa. A sparire non è la professione, ma i primi gradini della scala. La strada che cominciava da assistente al montaggio o assistente designer si sta restringendo."
+},
+{
+"key": "part12.html#421",
+"it": "Che cosa mostrano gli annunci"
+},
+{
+"key": "part12.html#422",
+"it": "<small>L’IA è diventata un requisito</small>Non un di più, ma un obbligo"
+},
+{
+"key": "part12.html#423",
+"it": "Annunci di fine 2026 per designer video · di contenuti che indicano come requisito l’«esperienza nella creazione di materiali con strumenti di generazione video · immagini con IA»"
+},
+{
+"key": "part12.html#424",
+"it": "<small>I nomi degli strumenti non compaiono</small>La prova sono i tuoi lavori"
+},
+{
+"key": "part12.html#425",
+"it": "Formule ampie come «IA generativa (strumenti di generazione di immagini · video ecc.)»"
+},
+{
+"key": "part12.html#426",
+"it": "Lavori più che certificati sugli strumenti"
+},
+{
+"key": "part12.html#427",
+"it": "<small>Tutto in una sola persona</small>Produzione + progettazione + lettura dei risultati"
+},
+{
+"key": "part12.html#428",
+"it": "Usare strumenti generativi, partecipare alle riunioni di pre-produzione, creare template video di marca e leggere tassi di clic · di conversione: tutto in un unico annuncio"
+},
+{
+"key": "part12.html#429",
+"it": "<small>Le nuove qualifiche sono ancora rare</small>Requisiti di IA dentro i ruoli esistenti"
+},
+{
+"key": "part12.html#430",
+"it": "Nessun annuncio verificato con «regista di video IA» come qualifica effettiva"
+},
+{
+"key": "part12.html#431",
+"it": "Corsi di formazione pubblici intitolati «orchestratore di contenuti IA» e «creatore di media IA»"
+},
+{
+"key": "part12.html#432",
+"it": "Generazioni, esperienza, processo – che cosa mostra il film The Intern"
+},
+{
+"key": "part12.html#433",
+"it": "<span class=\"ph-id\">P12-INTERN</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>The Intern – un ufficio dove le generazioni si mescolano</b>Uno stagista senior dai capelli d’argento che ride con i giovani colleghi nell’ufficio informale di una startup</span>"
+},
+{
+"key": "part12.html#434",
+"it": "<b>Nota</b>Un ufficio dove le generazioni si mescolano – i giovani sono più rapidi con gli strumenti; gli anziani hanno l’esperienza di chi ha seguito un processo fino in fondo"
+},
+{
+"key": "part12.html#435",
+"it": "Uno stagista di 70 anni e una fondatrice di 30"
+},
+{
+"key": "part12.html#436",
+"it": "The Intern (2015) di Nancy Meyers racconta di un pensionato settantenne che entra come stagista senior in una startup di moda online e lavora accanto alla sua giovane fondatrice. Non porta gli strumenti più recenti, ma l’esperienza di chi ha visto funzionare un’azienda dall’inizio alla fine: il senso del processo. Il remake coreano, diretto da Kim Do-young e interpretato da Choi Min-sik · Han So-hee, è uscito il 16 settembre 2026. Affianca uno stagista senior con 37 anni di vita d’ufficio alle spalle alla responsabile di una startup di moda al 3º anno, e trasporta nel mondo del lavoro coreano la cornice di uno scambio tra generazioni ed esperienze. In un mercato in cui l’ingresso per i nuovi arrivati si è ristretto, c’è un modo di guardare questo film. La velocità con gli strumenti si pareggia presto, ma chi conosce l’intero processo è utile in qualunque posto."
+},
+{
+"key": "part12.html#437",
+"it": "Quattro modi per reggere in un mercato con meno posti d’ingresso"
+},
+{
+"key": "part12.html#438",
+"it": "Meno selezioni periodiche aperte e più assunzioni continue · di profili con esperienza: non è una tendenza del solo settore video. Mentre crescono gli annunci che cercano «esordienti con esperienza», il lavoro portato fino in fondo per uno scopo reale diventa il tuo biglietto d’ingresso. Su questa premessa, consiglio quattro cose."
+},
+{
+"key": "part12.html#439",
+"it": "<small>Dividere le fasi</small>Fasi che l’IA sostituisce, fasi che restano"
+},
+{
+"key": "part12.html#440",
+"it": "Sostituite – varianti di formato, roto · pulizia, prime bozze, sottotitoli semplici"
+},
+{
+"key": "part12.html#441",
+"it": "Restano – progetto delle inquadrature e della luce, controllo degli elementi di marca, il giudizio su che cosa fare"
+},
+{
+"key": "part12.html#442",
+"it": "<small>Processo</small>Il valore di conoscere l’insieme"
+},
+{
+"key": "part12.html#443",
+"it": "Chi è andato anche una sola volta dalla progettazione alla consegna · fatturazione sa leggere il prima e il dopo, in qualunque fase entri"
+},
+{
+"key": "part12.html#444",
+"it": "È esattamente ciò che ha il protagonista di The Intern"
+},
+{
+"key": "part12.html#445",
+"it": "<small>Accumulo</small>Metti insieme tanti piccoli lavori finiti"
+},
+{
+"key": "part12.html#446",
+"it": "Dieci lavori finiti da 15 secondi battono un kolossal incompiuto"
+},
+{
+"key": "part12.html#447",
+"it": "I video con uno scopo reale, per un negozio di quartiere o un evento del dipartimento, sono il tuo curriculum"
+},
+{
+"key": "part12.html#448",
+"it": "<small>Strade</small>In proprio, da soli o in gruppo"
+},
+{
+"key": "part12.html#449",
+"it": "Con attrezzatura e strumenti generativi meno cari, una persona sola può gestire progettazione · produzione · consegna"
+},
+{
+"key": "part12.html#450",
+"it": "Anche due o tre compagni di corso che si dividono i ruoli e aprono un piccolo studio sono un’opzione realistica"
+},
+{
+"key": "part12.html#451",
+"it": "Lo sfondo del settore"
+},
+{
+"key": "part12.html#452",
+"it": "<b>6,8 → 13,2 → 32,1<em>%</em></b>Uso dell’IA generativa nelle aziende di contenuti, 2023→2024→2025 (KOCCA). Pubblicità: 40,9%"
+},
+{
+"key": "part12.html#453",
+"it": "<b>22,1<em>%</em></b>Tra i motivi del 2024 per non adottarla: «difficile assumere nuovo personale capace». Uno spiraglio per chi comincia"
+},
+{
+"key": "part12.html#454",
+"it": "<b>1116,4 → 310,4<em>mld di won</em></b>Spesa pubblicitaria della TV terrestre, 2011 → primo semestre 2026. La pressione sulle tariffe dei lavori in appalto non viene soprattutto dall’IA, ma dal calo dei budget pubblicitari"
+},
+{
+"key": "part12.html#455",
+"it": "A restringersi non è la professione, ma l’ingresso. Quando l’ingresso si restringe, entra con «l’unica cosa che gli altri non sanno fare».<small>11.8 Il mercato del lavoro coreano che cambia</small>"
+},
+{
+"key": "part12.html#456",
+"it": "A ridursi non è la professione, ma i primi gradini della scala"
+},
+{
+"key": "part12.html#457",
+"it": "Variazione dei giovani occupati (15–29 anni) – 06/2022 → 06/2026, analisi della Banca di Corea"
+},
+{
+"key": "part12.html#458",
+"it": "Totale 15–29 anni"
+},
+{
+"key": "part12.html#459",
+"it": "ICT · editoria (SW · web design)"
+},
+{
+"key": "part12.html#460",
+"it": "Programmazione informatica"
+},
+{
+"key": "part12.html#461",
+"it": "Occupati cinquantenni"
+},
+{
+"key": "part12.html#462",
+"it": "In aumento"
+},
+{
+"key": "part12.html#463",
+"it": "Quota del calo nei settori molto esposti all’IA"
+},
+{
+"key": "part12.html#464",
+"it": "19–34 anni che temono «l’IA riduce il lavoro di primo livello, "
+},
+{
+"key": "part12.html#465",
+"it": "quindi meno occasioni di crescita» (FKI)"
+},
+{
+"key": "part12.html#466",
+"it": "A sparire non è la professione,"
+},
+{
+"key": "part12.html#467",
+"it": "ma i primi gradini della scala"
+},
+{
+"key": "part12.html#468",
+"it": "<b>Fig. 90-2</b> L’ingresso che si restringe, in cifre – il calo dei giovani occupati si è concentrato nei settori molto esposti all’IA, mentre nello stesso periodo i cinquantenni sono aumentati. Le cifre del testo in una pagina (fonti nel testo; stime · dati di sondaggio 2026)."
+},
+{
+"key": "part12.html#469",
+"it": "<small>Esercizio</small>11.8"
+},
+{
+"key": "part12.html#470",
+"it": "Compito"
+},
+{
+"key": "part12.html#471",
+"it": "Raccogli 10 annunci per un lavoro che vorresti e metti in tabella le competenze richieste. Segna se oggi hai un lavoro che dimostri ciascuna, e trasforma le lacune nel piano del prossimo semestre."
+},
+{
+"key": "part12.html#472",
+"it": "Consiglio"
+},
+{
+"key": "part12.html#473",
+"it": "Raccogli annunci con la stessa qualifica, ma di aziende di dimensioni diverse. Vedrai quanto variano le aspettative."
+},
+{
+"key": "part12.html#474",
+"it": "Valutazione"
+},
+{
+"key": "part12.html#475",
+"it": "Le competenze richieste sono riportate con le parole degli annunci? Le lacune portano a piani concreti?"
+},
+{
+"key": "part12.html#476",
+"it": "Risposta modello"
+},
+{
+"key": "part12.html#477",
+"it": "Una sintesi che ha evidenziato le voci comuni ad almeno 7 dei 10 annunci e ne ha ricavato le priorità."
+},
+{
+"key": "part12.html#478",
+"it": "<b>PARTE 12</b>Pratica e carriera nella transizione all’IA"
+},
+{
+"key": "part12.html#479",
+"it": "Come cambiano le piattaforme per i portfolio"
+},
+{
+"key": "part12.html#480",
+"it": "Come sono cambiate le piattaforme? Nel 2026 ogni piattaforma chiede un livello diverso di dichiarazione dell’IA; alcune sanzionano le violazioni, altre si limitano a raccomandare. Agli studenti serve un criterio di base: «quanto devo dichiarare»."
+},
+{
+"key": "part12.html#481",
+"it": "<span class=\"ph-id\">P12-PORTSITE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Piattaforme per i portfolio</b>Una scrivania con un portatile e un telefono che mostrano la griglia video dello stesso sito portfolio personale</span>"
+},
+{
+"key": "part12.html#482",
+"it": "<b>Nota</b>Piattaforme per i portfolio – ovunque pubblichi, tieni un solo criterio per la dichiarazione dell’IA e per il tuo grado di partecipazione"
+},
+{
+"key": "part12.html#483",
+"it": "Piattaforma"
+},
+{
+"key": "part12.html#484",
+"it": "Lavori con IA"
+},
+{
+"key": "part12.html#485",
+"it": "Obbligo di dichiarazione"
+},
+{
+"key": "part12.html#486",
+"it": "Sanzioni"
+},
+{
+"key": "part12.html#487",
+"it": "Vimeo"
+},
+{
+"key": "part12.html#488",
+"it": "Ammessi"
+},
+{
+"key": "part12.html#489",
+"it": "Contenuti realistici: obbligo"
+},
+{
+"key": "part12.html#490",
+"it": "Etichetta non rimovibile; recidiva: account chiuso"
+},
+{
+"key": "part12.html#491",
+"it": "YouTube"
+},
+{
+"key": "part12.html#492",
+"it": "Ammessi"
+},
+{
+"key": "part12.html#493",
+"it": "Composizioni realistiche: obbligo"
+},
+{
+"key": "part12.html#494",
+"it": "Etichetta automatica, no monetizzazione"
+},
+{
+"key": "part12.html#495",
+"it": "ArtStation"
+},
+{
+"key": "part12.html#496",
+"it": "Ammessi"
+},
+{
+"key": "part12.html#497",
+"it": "Tag d’obbligo sui prodotti in vendita"
+},
+{
+"key": "part12.html#498",
+"it": "Regole del marketplace"
+},
+{
+"key": "part12.html#499",
+"it": "Behance"
+},
+{
+"key": "part12.html#500",
+"it": "Ammessi"
+},
+{
+"key": "part12.html#501",
+"it": "Solo raccomandata, non d’obbligo"
+},
+{
+"key": "part12.html#502",
+"it": "Nessuna"
+}
+]

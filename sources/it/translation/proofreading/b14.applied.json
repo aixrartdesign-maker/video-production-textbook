@@ -1,0 +1,8 @@
+[
+{"key": "part01.html#100", "find": "anni 1910", "replace": "anni Dieci", "why": "other: decade written as in #22 (anni Venti)"},
+{"key": "part01.html#151", "find": "Il rumore costringe la cinepresa", "replace": "Il rumore della cinepresa la costringe", "why": "meaning: camera noise"},
+{"key": "part01.html#164", "find": "aggiungi l’ambiente", "replace": "aggiungi il suono d’ambiente", "why": "meaning: ambience = ambient sound"},
+{"key": "part01.html#344", "find": "tra via cavo · canali generalisti", "replace": "tra canali via cavo · generalisti", "why": "grammar"},
+{"key": "part01.html#464", "find": "Telemetro 35 mm", "replace": "Fotocamera a telemetro 35 mm", "why": "meaning: rangefinder camera, not the device"},
+{"key": "part01.html#619", "find": "a un taglio fitto", "replace": "a un montaggio serrato", "why": "other: unnatural phrasing"}
+]

@@ -1,0 +1,538 @@
+[
+{
+"key": "part04.html#431",
+"it": "<small>Un softbox gigante</small>Finestra"
+},
+{
+"key": "part04.html#432",
+"it": "La luce di una finestra a nord è la migliore luce morbida"
+},
+{
+"key": "part04.html#433",
+"it": "Usa una tenda bianca come diffusore"
+},
+{
+"key": "part04.html#434",
+"it": "<small>Riempimento e negativo</small>Due pannelli di polistirolo"
+},
+{
+"key": "part04.html#435",
+"it": "Il pannello bianco riempie; il nero crea ombra"
+},
+{
+"key": "part04.html#436",
+"it": "Insieme valgono una luce"
+},
+{
+"key": "part04.html#437",
+"it": "<small>Ammorbidire</small>Diffusore in carta da lucido"
+},
+{
+"key": "part04.html#438",
+"it": "Appendilo davanti alla luce diretta per ammorbidirla"
+},
+{
+"key": "part04.html#439",
+"it": "Tienilo sempre lontano dalle luci calde"
+},
+{
+"key": "part04.html#440",
+"it": "<small>Luce motivata</small>Usare le luci di scena"
+},
+{
+"key": "part04.html#441",
+"it": "Lampade, insegne e monitor in campo come sorgenti"
+},
+{
+"key": "part04.html#442",
+"it": "Realismo e motivazione insieme"
+},
+{
+"key": "part04.html#443",
+"it": "<small>Togliere luce</small>Riempimento negativo"
+},
+{
+"key": "part04.html#444",
+"it": "Un telo nero toglie luce e crea contrasto"
+},
+{
+"key": "part04.html#445",
+"it": "Non costa nulla"
+},
+{
+"key": "part04.html#446",
+"it": "<small>Piccoli riflessi</small>Luce dello smartphone"
+},
+{
+"key": "part04.html#447",
+"it": "Utile per piccoli riflessi nei primi piani di prodotto"
+},
+{
+"key": "part04.html#448",
+"it": "Uniforma la temperatura colore"
+},
+{
+"key": "part04.html#449",
+"it": "Regole di sicurezza"
+},
+{
+"key": "part04.html#450",
+"it": "Tieni le luci calde ben distanti da carta e tessuti e metti sempre i sacchi di sabbia sugli stativi. Gli incidenti più comuni nelle riprese in aula sono le luci che si rovesciano e le ustioni."
+},
+{
+"key": "part04.html#451",
+"it": "Come i materiali rispondono alla luce – stessa luce, sei materiali"
+},
+{
+"key": "part04.html#452",
+"it": "<b>Vetro · acqua</b><span>La luce li attraversa e si piega: illumina da dietro (controluce) e fai emergere i contorni</span>"
+},
+{
+"key": "part04.html#453",
+"it": "<b>Metallo</b><span>Rispecchia la luce: si vede la forma della sorgente, quindi dagli una grande superficie bianca (strip) da riflettere</span>"
+},
+{
+"key": "part04.html#454",
+"it": "<b>Legno · opaco</b><span>Diffonde la luce in ogni direzione: una luce laterale direzionale rivela le venature</span>"
+},
+{
+"key": "part04.html#455",
+"it": "<b>Tessuto · velluto</b><span>Mangia la luce: senza un controluce sui bordi la forma scompare</span>"
+},
+{
+"key": "part04.html#456",
+"it": "<b>Pelle · cera</b><span>La luce penetra sotto la superficie e si diffonde: sorgente grande e morbida; un controluce forte fa trasparire le orecchie in rosso</span>"
+},
+{
+"key": "part04.html#457",
+"it": "<b>Corpi luminosi</b><span>Brillano da soli: scurisci l’intorno, esponi per la superficie luminosa, aggiungi il bloom in post</span>"
+},
+{
+"key": "part04.html#458",
+"it": "<b>Fig. 42-2</b> Come i materiali rispondono alla luce – sei materiali sotto la stessa luce (softbox chiave + luce di taglio). Illuminare non è piazzare luci: è sapere come un materiale risponde."
+},
+{
+"key": "part04.html#459",
+"it": "La luce nei software 3D – stesso vocabolario, fisica diversa"
+},
+{
+"key": "part04.html#460",
+"it": "<b>Impostare le luci nei software 3D – stesso ordine del set</b><span>① Luce d’ambiente (HDRI) per un livello base del 10–20%</span><span>② Una Area Light come luce chiave: la dimensione è la morbidezza</span><span>③ Una Area debole sul lato opposto come riempimento (Shadow off)</span><span>④ Uno Spot da dietro come luce di taglio</span><span>⑤ Regola i materiali (Roughness · Metallic · Transmission), poi ricontrolla le luci</span><b>Che cosa cambia rispetto al set</b><span>La luce non rimbalza sulle pareti → aggiungi tu il rimbalzo</span><span>L’intensità è relativa, non in watt: regolala a occhio</span><span>Regola la luminosità con l’esposizione del render (EV), non con quella della camera</span>"
+},
+{
+"key": "part04.html#461",
+"it": "<b>Fig. 42-3</b> Impostazione delle luci in un software 3D – i gizmo delle luci nella viewport (chiave · riempimento · taglio) e il pannello delle proprietà. Vocabolario e ordine sono quelli del set."
+},
+{
+"key": "part04.html#462",
+"it": "<small>Esercizio</small>4.7"
+},
+{
+"key": "part04.html#463",
+"it": "Compito"
+},
+{
+"key": "part04.html#464",
+"it": "Costruisci un kit di illuminazione a tre punti con 50.000 won al massimo e usalo davvero per girare."
+},
+{
+"key": "part04.html#465",
+"it": "Consiglio"
+},
+{
+"key": "part04.html#466",
+"it": "La base: lampade da lavoro, carta da lucido, polistirolo e morsetti. Attenzione al calore e alla sicurezza elettrica."
+},
+{
+"key": "part04.html#467",
+"it": "Valutazione"
+},
+{
+"key": "part04.html#468",
+"it": "Qualità rispetto al costo, controllo di sicurezza"
+},
+{
+"key": "part04.html#469",
+"it": "Risposta modello"
+},
+{
+"key": "part04.html#470",
+"it": "Al posto degli scontrini, riunisce elenco dei pezzi, prezzi unitari e foto dell’allestimento."
+},
+{
+"key": "part04.html#471",
+"it": "Contesto 6"
+},
+{
+"key": "part04.html#472",
+"it": "Come il suono cambia l’immagine"
+},
+{
+"key": "part04.html#473",
+"it": "Diciamo che un video si «guarda», ma in realtà costruiamo un’unica esperienza vedendo e ascoltando. In Audio-Vision (1990) il compositore e teorico francese Michel Chion ha proposto l’idea di «valore aggiunto»: quando a un’immagine si aggiunge il suono, il pubblico ne scambia l’effetto per la forza dell’immagine stessa. L’effetto sonoro di un pugno che va a segno colpisce molto più del colpo reale, eppure il pubblico ricorda come intensa l’immagine. Ecco perché un buon sound design passa inosservato."
+},
+{
+"key": "part04.html#474",
+"it": "Chion ha coniato anche il termine «sincresi»: la tendenza percettiva a saldare in un unico evento un suono e un’immagine che avvengono insieme. Per questo un rumorista può spezzare un sedano e ottenere il suono di un osso che si rompe. Registrare a parte i passi o il fruscio di un colletto si chiama Foley, da Jack Foley, pioniere di questo campo."
+},
+{
+"key": "part04.html#475",
+"it": "Il suono si divide in suono con una sorgente interna al mondo della storia e suono che non ce l’ha. La musica alla radio che un personaggio ascolta sta dentro la storia; la musica di sottofondo che sente solo il pubblico viene da fuori. Nel momento in cui scopriamo che quella che credevamo colonna sonora esce in realtà dagli auricolari di un personaggio, entriamo nel suo mondo interiore."
+},
+{
+"key": "part04.html#476",
+"it": "Il montatore e sound designer Walter Murch fu accreditato come «sound designer» in Apocalypse Now (1979), ed elevò il suono a campo creativo con lo stesso peso della fotografia o del montaggio. Insisteva sul progettare il mix attorno a un limite: quanti strati sonori sovrapposti il pubblico riesce a distinguere in una scena. Scegliere che cosa tenere conta più che metterci molto."
+},
+{
+"key": "part04.html#477",
+"it": "Nei video brevi e su mobile molti guardano senza audio. Il progetto deve reggere con soli sottotitoli e immagini; eppure, per chi tiene l’audio acceso, il primo secondo di suono può essere il gancio più forte. I microfoni e il sound design del capitolo 4 partono dal tenere a mente entrambi i pubblici."
+},
+{
+"key": "part04.html#478",
+"it": "Per approfondire – Michel Chion, Audio-Vision · David Sonnenschein, Sound Design · Walter Murch, In the Blink of an Eye"
+},
+{
+"key": "part04.html#479",
+"it": "<b>PARTE 04</b>Illuminazione e suono"
+},
+{
+"key": "part04.html#480",
+"it": "Microfoni e registrazione"
+},
+{
+"key": "part04.html#481",
+"it": "Un microfono economico da vicino batte sempre un microfono costoso da lontano. Il suono lo decide la distanza."
+},
+{
+"key": "part04.html#482",
+"it": "Vediamo con la luce, sentiamo con l’aria: per questo il suono va «sincronizzato»"
+},
+{
+"key": "part04.html#483",
+"it": "Traccia video – il fotogramma in cui il ciak «si chiude»"
+},
+{
+"key": "part04.html#484",
+"it": "Traccia audio – il picco del «clac»"
+},
+{
+"key": "part04.html#485",
+"it": "Allinea il picco al fotogramma di chiusura"
+},
+{
+"key": "part04.html#486",
+"it": "La luce arriva all’istante (300.000 km/s). Il suono viaggia a 340 m/s: un ciak a 34 m dalla camera si sente <tspan fill=\"#7A1C2B\" font-weight=\"500\">con 0,1 s di ritardo (circa 2,4 fotogrammi)</tspan>."
+},
+{
+"key": "part04.html#487",
+"it": "Più il campo è lungo, più vicino alla camera batti il ciak."
+},
+{
+"key": "part04.html#488",
+"it": "<b>Il ciak – vista e udito fissati in un punto</b><span>Fotogramma in cui le aste si chiudono = picco della forma d’onda. Sovrapponili al montaggio e immagine e suono si allineano</span>"
+},
+{
+"key": "part04.html#489",
+"it": "<b>Fig. 43</b> Sincronia – vedere è più veloce che sentire. L’occhio riceve la luce e l’orecchio le vibrazioni dell’aria, quindi il suono arriva sempre un po’ in ritardo. Il ciak è il «punto di riferimento comune per occhio e orecchio» che colma lo scarto."
+},
+{
+"key": "part04.html#490",
+"it": "Livelli di registrazione – la zona sicura"
+},
+{
+"key": "part04.html#491",
+"it": "Troppo basso – sale il rumore"
+},
+{
+"key": "part04.html#492",
+"it": "Parti silenziose · room tone"
+},
+{
+"key": "part04.html#493",
+"it": "Dialogo, media da −18 a −12"
+},
+{
+"key": "part04.html#494",
+"it": "Zona ammessa per i picchi"
+},
+{
+"key": "part04.html#495",
+"it": "Pericolo – tocchi lo 0 ed è perso"
+},
+{
+"key": "part04.html#496",
+"it": "dBFS"
+},
+{
+"key": "part04.html#497",
+"it": "Sul misuratore di picco: il dialogo oscilla intorno a −12 e non supera mai −6. L’audio digitale viene troncato appena supera lo 0 (clipping)."
+},
+{
+"key": "part04.html#498",
+"it": "<b>Fig. 43-1</b> La zona sicura dei livelli di registrazione – un suono basso si può alzare dopo, un suono distorto non si recupera. Sempre un po’ bassi."
+},
+{
+"key": "part04.html#499",
+"it": "Tipo"
+},
+{
+"key": "part04.html#500",
+"it": "Caratteristiche"
+},
+{
+"key": "part04.html#501",
+"it": "Distanza ideale"
+},
+{
+"key": "part04.html#502",
+"it": "Uso"
+},
+{
+"key": "part04.html#503",
+"it": "Insidie"
+},
+{
+"key": "part04.html#504",
+"it": "Microfono a fucile"
+},
+{
+"key": "part04.html#505",
+"it": "Ripresa stretta, da lontano"
+},
+{
+"key": "part04.html#506",
+"it": "Dialoghi sul set, su asta"
+},
+{
+"key": "part04.html#507",
+"it": "Fuori asse il suono cala di colpo"
+},
+{
+"key": "part04.html#508",
+"it": "Lavalier"
+},
+{
+"key": "part04.html#509",
+"it": "A clip, ripresa ravvicinata"
+},
+{
+"key": "part04.html#510",
+"it": "Ca. 20 cm"
+},
+{
+"key": "part04.html#511",
+"it": "Interviste, spot-testimonianza"
+},
+{
+"key": "part04.html#512",
+"it": "Fruscio degli abiti"
+},
+{
+"key": "part04.html#513",
+"it": "Lavalier wireless"
+},
+{
+"key": "part04.html#514",
+"it": "Si muove senza cavi"
+},
+{
+"key": "part04.html#515",
+"it": "Ca. 20 cm"
+},
+{
+"key": "part04.html#516",
+"it": "Riprese in movimento, più persone"
+},
+{
+"key": "part04.html#517",
+"it": "Interferenze RF, batterie"
+},
+{
+"key": "part04.html#518",
+"it": "Palmare"
+},
+{
+"key": "part04.html#519",
+"it": "Tenuto in mano"
+},
+{
+"key": "part04.html#520",
+"it": "10–20 cm"
+},
+{
+"key": "part04.html#521",
+"it": "Interviste sul campo"
+},
+{
+"key": "part04.html#522",
+"it": "Si vede in campo"
+},
+{
+"key": "part04.html#523",
+"it": "Condensatore USB"
+},
+{
+"key": "part04.html#524",
+"it": "Alta qualità in interni"
+},
+{
+"key": "part04.html#525",
+"it": "15–30 cm"
+},
+{
+"key": "part04.html#526",
+"it": "Narrazione, doppiaggio"
+},
+{
+"key": "part04.html#527",
+"it": "Va controllata l’eco della stanza"
+},
+{
+"key": "part04.html#528",
+"it": "Integrato nella camera"
+},
+{
+"key": "part04.html#529",
+"it": "Solo di riserva"
+},
+{
+"key": "part04.html#530",
+"it": "Audio guida per la sincronia"
+},
+{
+"key": "part04.html#531",
+"it": "Mai come registrazione principale"
+},
+{
+"key": "part04.html#532",
+"it": "Diagrammi polari"
+},
+{
+"key": "part04.html#533",
+"it": "Da quali direzioni sente un microfono"
+},
+{
+"key": "part04.html#534",
+"it": "<b>Omni</b><span>Tutte le direzioni allo stesso modo</span><span class=\"deg\">Lavalier · senso dello spazio</span>"
+},
+{
+"key": "part04.html#535",
+"it": "<b>Cardioide</b><span>Prende il davanti, respinge il dietro</span><span class=\"deg\">Interviste · voce · il più comune</span>"
+},
+{
+"key": "part04.html#536",
+"it": "<b>Supercardioide</b><span>Fronte più stretto, un po’ di retro</span><span class=\"deg\">Asta · dialoghi sul set</span>"
+},
+{
+"key": "part04.html#537",
+"it": "<b>A fucile</b><span>Fronte molto stretto, anche da lontano</span><span class=\"deg\">Microfono su asta · esterni · documentario</span>"
+},
+{
+"key": "part04.html#538",
+"it": "<b>Figura a 8</b><span>Prende davanti e dietro, respinge i lati</span><span class=\"deg\">Dialogo faccia a faccia · stereo MS</span>"
+},
+{
+"key": "part04.html#539",
+"it": "<b>Fucile su asta – appena sopra l’inquadratura, puntato alla bocca</b><span>Diagramma stretto = basta un piccolo errore d’angolo e il suono si assottiglia</span>"
+},
+{
+"key": "part04.html#540",
+"it": "<b>Condensatore da studio – narrazione · doppiaggio</b><span>Cardioide · filtro antipop · 15–30 cm · prima doma l’eco della stanza</span>"
+},
+{
+"key": "part04.html#541",
+"it": "<b>Fig. 44</b> Diagrammi polari dei microfoni – l’area rossa piena è la zona di ripresa. Chi sta dentro si sente chiaro; chi sta fuori suona lontano. Più la zona è stretta, più è nitida da lontano, ma più è sensibile all’angolo."
+},
+{
+"key": "part04.html#542",
+"it": "<small>Omni</small>Omnidirezionale"
+},
+{
+"key": "part04.html#543",
+"it": "Riprende in modo uniforme da ogni direzione"
+},
+{
+"key": "part04.html#544",
+"it": "Standard dei lavalier; senso dello spazio naturale"
+},
+{
+"key": "part04.html#545",
+"it": "Entra anche il rumore"
+},
+{
+"key": "part04.html#546",
+"it": "<small>Cardioide</small>Unidirezionale"
+},
+{
+"key": "part04.html#547",
+"it": "A forma di cuore, rivolto in avanti"
+},
+{
+"key": "part04.html#548",
+"it": "Tuttofare; respinge il rumore da dietro"
+},
+{
+"key": "part04.html#549",
+"it": "<small>Super / Iper</small>Super · ipercardioide"
+},
+{
+"key": "part04.html#550",
+"it": "Ripresa frontale più stretta, famiglia dei fucili"
+},
+{
+"key": "part04.html#551",
+"it": "Sente un po’ di retro: controlla i rumori alle spalle"
+},
+{
+"key": "part04.html#552",
+"it": "<small>Figura a 8</small>Bidirezionale"
+},
+{
+"key": "part04.html#553",
+"it": "Davanti e dietro sì, lati no"
+},
+{
+"key": "part04.html#554",
+"it": "Adatto a interviste a due, faccia a faccia"
+},
+{
+"key": "part04.html#555",
+"it": "<b>Foto di riferimento 4.8A</b>Immagini generate – riferimento per la messa in scena"
+},
+{
+"key": "part04.html#556",
+"it": "<b>a</b>Fucile su asta – puntato dall’alto"
+},
+{
+"key": "part04.html#557",
+"it": "<b>b</b>Lavalier – nascosto nel colletto"
+},
+{
+"key": "part04.html#558",
+"it": "<b>c</b>Registrazione di un’intervista sul campo"
+},
+{
+"key": "part04.html#559",
+"it": "Tre microfoni sui set di oggi"
+},
+{
+"key": "part04.html#560",
+"it": "<small>Da soli · piccola troupe</small>Kit wireless compatto a 2 canali"
+},
+{
+"key": "part04.html#561",
+"it": "DJI Mic, Rode Wireless, Hollyland Lark e simili"
+},
+{
+"key": "part04.html#562",
+"it": "2 trasmettitori + 1 ricevitore; 32 bit float e registrazione interna nei trasmettitori proteggono dal clipping"
+},
+{
+"key": "part04.html#563",
+"it": "Il ricevitore si collega alla porta USB-C di telefono · camera"
+},
+{
+"key": "part04.html#564",
+"it": "Nota: fruscio del colletto; sedi di eventi sature di interferenze a 2,4 GHz"
+}
+]

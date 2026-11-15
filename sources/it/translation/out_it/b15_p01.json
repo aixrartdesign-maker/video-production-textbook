@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#663",
+"it": "Consigli dal set"
+},
+{
+"key": "part01.html#664",
+"it": "Nelle riunioni non descrivere un riferimento a parole: manda il link con l’intervallo di tempo. Basta scrivere «da 3:45 a 4:10» per dimezzare la durata della riunione."
+},
+{
+"key": "part01.html#665",
+"it": "Quando impari un nuovo strumento, scopri per prima cosa non l’elenco delle funzioni ma il processo esistente che sostituisce. Se sai qual è il suo posto, impari più in fretta."
+},
+{
+"key": "part01.html#666",
+"it": "Se non conosci un termine del settore, chiedi subito. Il termine che hai finto di conoscere causa gli incidenti più gravi."
+},
+{
+"key": "part13.html#0",
+"it": "PARTE"
+},
+{
+"key": "part13.html#1",
+"it": "<small>PARTE</small>13"
+},
+{
+"key": "part13.html#2",
+"it": "<b>Che cosa realizzi in questa PARTE</b>"
+},
+{
+"key": "part13.html#3",
+"it": "Un loop da mostra leggibile entro 30 secondi da qualsiasi punto"
+},
+{
+"key": "part13.html#4",
+"it": "Un’opera in tempo reale che risponde a un solo gesto dello spettatore"
+},
+{
+"key": "part13.html#5",
+"it": "Disegno d’allestimento · lista attrezzature · piano di gestione"
+},
+{
+"key": "part13.html#6",
+"it": "Statement di 250 caratteri, portfolio di una pagina, calendario dei bandi"
+},
+{
+"key": "part13.html#7",
+"it": "Media art e cinema espanso"
+},
+{
+"key": "part13.html#8",
+"it": "Se un video è completo solo quando il pubblico si muove, chi l’ha fatto? Questa PARTE ripropone, da dove siamo oggi, la domanda aperta da Nam June Paik. Quando lo schermo esce dal rettangolo, il pubblico da spettatore diventa partecipante e l’opera deve funzionare da sola in sala per un mese, quasi tutto ciò che un videomaker ha imparato serve ancora. Cambia solo il modo di usarlo."
+},
+{
+"key": "part13.html#9",
+"it": "Foto OPEN-13 Foto a tutta pagina di apertura della PARTE · immagine generativa"
+},
+{
+"key": "part13.html#10",
+"it": "Come usare questo capitolo in aula"
+},
+{
+"key": "part13.html#11",
+"it": "Capire in che cosa differiscono le premesse del video tradizionale e della media art, realizzare con strumenti in tempo reale un’opera che risponde al pubblico, allestirla · gestirla · documentarla perché funzioni in sala per un mese, e candidarsi a un bando."
+},
+{
+"key": "part13.html#12",
+"it": "<b>Materiali</b>Portatile con webcam, uno strumento gratuito in tempo reale (TouchDesigner non commerciale o p5.js), 1 tuo video già realizzato, metro a nastro, stampa di un bando pubblico di media art di Seul"
+},
+{
+"key": "part13.html#13",
+"it": "<b>10 min</b><i>Avvio</i><span>Riprodurre un video già realizzato per 30 secondi da un punto a caso e chiedere di che cosa parla</span>"
+},
+{
+"key": "part13.html#14",
+"it": "<b>20 min</b><i>Nuove premesse</i><span>13.2 Con la tabella, confrontare posizione dello spettatore · inizio e fine · formato (aspect ratio) · ripetizione; abbozzare un loop</span>"
+},
+{
+"key": "part13.html#15",
+"it": "<b>40 min</b><i>Realizzazione</i><span>13.4 Costruire un’opera che reagisce alla webcam a partire da una regola di una riga, come «si illumina quando qualcuno si avvicina»</span>"
+},
+{
+"key": "part13.html#16",
+"it": "<b>30 min</b><i>Calcoli d’allestimento</i><span>13.5 Per una sala larga 6 m × profonda 4 m × alta 3 m, calcolare rapporto di tiro · dimensione dell’immagine · percorso dell’alimentazione</span>"
+},
+{
+"key": "part13.html#17",
+"it": "<b>20 min</b><i>Chiusura</i><span>13.6 Scrivere uno statement di 150 caratteri che inizi con «Quest’opera è …» e leggere quelli degli altri</span>"
+},
+{
+"key": "part13.html#18",
+"it": "<b>Punto di controllo</b>Sai dire in una frase che cosa succede quando lo spettatore fa che cosa? E l’opera gira 10 minuti senza fermarsi?"
+},
+{
+"key": "part13.html#19",
+"it": "Contesto 23"
+},
+{
+"key": "part13.html#20",
+"it": "L’uomo che ha rovesciato la televisione"
+},
+{
+"key": "part13.html#21",
+"it": "<span class=\"ph-id\">P13-CRTTOWER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>L’origine della videoarte – una torre di televisori</b>Un’installazione di decine di televisori CRT impilati che trasmettono video astratti in una sala buia</span>"
+},
+{
+"key": "part13.html#22",
+"it": "<b>Nota</b>Omaggio alle torri di televisori alla maniera di Paik – una forma che ha impilato la scatola fatta solo per ricevere e ne ha fatto un mezzo per creare. «The More, the Better» ne usava 1003"
+},
+{
+"key": "part13.html#23",
+"it": "Nel 1963, in una piccola galleria di Wuppertal, in Germania, aprì «Exposition of Music – Electronic Television». Nella sala c’erano tredici televisori. Alcuni avevano l’immagine distorta; in altri l’immagine cambiava quando i visitatori premevano un pedale o emettevano un suono in un microfono. Era la prima personale di Nam June Paik, nato a Seul nel 1932, e oggi è considerata il punto di partenza della videoarte."
+},
+{
+"key": "part13.html#24",
+"it": "La televisione era allora un apparecchio per ricevere in casa ciò che l’emittente trasmetteva. Paik volle invertire quel flusso a senso unico. Lasciò che gli spettatori intervenissero sull’immagine e in seguito costruì un proprio sintetizzatore video per modellare a mano il segnale. Trasformò un mezzo per ricevere in un mezzo per creare."
+},
+{
+"key": "part13.html#25",
+"it": "Nel 1962 entrò in Fluxus, un movimento che cancellava il confine tra vita quotidiana e arte, e dopo l’incontro con John Cage nel 1958 portò nel suo lavoro un senso orientale del tempo. In «TV Buddha» (1974) una statua di Buddha siede davanti a un televisore e contempla la propria immagine, ripresa da una telecamera. Meditazione e circuito chiuso, il tempo ciclico dell’Oriente e l’elettronica dell’Occidente si incontrano su un unico schermo."
+},
+{
+"key": "part13.html#26",
+"it": "La sua visione andava oltre l’opera. In una proposta del 1974 alla Rockefeller Foundation usò per primo l’espressione «superautostrada elettronica», 20 anni prima che internet diventasse di uso comune. Il 1° gennaio 1984 mandò in onda «Good Morning Mr. Orwell», una diretta che collegava via satellite New York, Parigi e Seul. Orwell aveva immaginato il 1984 come l’anno della sorveglianza; Paik volle mostrare, proprio quell’anno, l’altra faccia: la tecnologia poteva anche unire le persone."
+},
+{
+"key": "part13.html#27",
+"it": "«The More, the Better», costruita all’MMCA di Gwacheon per le Olimpiadi di Seul del 1988, è una torre di 1003 televisori alta 18,5 metri. Si è spenta nel 2018 ed è tornata ad accendersi nel 2022, dopo 4 anni e 7 mesi di restauro. Quel restauro ha messo a nudo il problema più difficile della media art. Se i suoi componenti escono di produzione, in quale forma sopravvive l’opera? Le questioni di conservazione trattate più avanti partono da qui."
+},
+{
+"key": "part13.html#28",
+"it": "Per approfondire – Nam June Paik Art Center, The Return of Nam June Paik · MMCA, My Nam June Paik: Memory, Conservation, Expansion (2023) · Lev Manovich, The Language of New Media"
+},
+{
+"key": "part13.html#29",
+"it": "<b>PARTE 13</b>Media art e cinema espanso"
+},
+{
+"key": "part13.html#30",
+"it": "Che cos’è la media art?"
+},
+{
+"key": "part13.html#31",
+"it": "La media art è più un atteggiamento che un genere. È il termine ombrello per le opere che prendono come materiale i nuovi media del proprio tempo ed esplorano come quei media cambiano le persone e il mondo. Negli anni Sessanta era la televisione, negli anni Novanta internet, oggi sono sensori, dati e modelli generativi."
+},
+{
+"key": "part13.html#32",
+"it": "<span class=\"ph-id\">P13-INTERACTIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Media art interattiva</b>Un’installazione in cui particelle di luce che riempiono la parete vorticano seguendo i gesti delle mani dei visitatori, con le loro sagome</span>"
+},
+{
+"key": "part13.html#33",
+"it": "<b>Nota</b>Media art interattiva – le azioni dello spettatore cambiano lo stato dell’opera. I materiali di oggi sono sensori e dati"
+},
+{
+"key": "part13.html#34",
+"it": "Perché esistono tanti nomi"
+},
+{
+"key": "part13.html#35",
+"it": "<small>Videoarte</small>Fine anni Sessanta"
+},
+{
+"key": "part13.html#36",
+"it": "Nasce con la diffusione delle attrezzature video portatili"
+},
+{
+"key": "part13.html#37",
+"it": "Stravolge il linguaggio della TV, o mostra lo spettatore a sé stesso in circuito chiuso"
+},
+{
+"key": "part13.html#38",
+"it": "<small>Media art</small>Un nome più ampio"
+},
+{
+"key": "part13.html#39",
+"it": "Entra nell’uso quando i materiali si allargano dal video a computer, reti e sensori"
+},
+{
+"key": "part13.html#40",
+"it": "<small>New media art</small>Dagli anni Novanta"
+},
+{
+"key": "part13.html#41",
+"it": "Opere che presuppongono il digitale e internet"
+},
+{
+"key": "part13.html#42",
+"it": "Punto debole: il «nuovo» invecchia col tempo"
+},
+{
+"key": "part13.html#43",
+"it": "<small>Arte post-internet</small>Da quando internet è come l’aria"
+},
+{
+"key": "part13.html#44",
+"it": "Termine controverso, senza una definizione accademica condivisa"
+},
+{
+"key": "part13.html#45",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part13.html#46",
+"it": "Non serve imparare i termini a memoria. Ma se ne prendi in prestito uno per descrivere il tuo lavoro senza sapere che cosa significa, la giuria se ne accorge subito."
+},
+{
+"key": "part13.html#47",
+"it": "Concetti che rendono leggibili i testi"
+},
+{
+"key": "part13.html#48",
+"it": "Termine"
+},
+{
+"key": "part13.html#49",
+"it": "Significato"
+},
+{
+"key": "part13.html#50",
+"it": "Chi l’ha detto"
+},
+{
+"key": "part13.html#51",
+"it": "Arte generativa"
+},
+{
+"key": "part13.html#52",
+"it": "Opera prodotta da un sistema di regole prestabilito, di solito con un elemento di casualità"
+},
+{
+"key": "part13.html#53",
+"it": "Definizione del glossario Tate"
+},
+{
+"key": "part13.html#54",
+"it": "Interattività"
+},
+{
+"key": "part13.html#55",
+"it": "Le azioni dello spettatore cambiano lo stato dell’opera"
+},
+{
+"key": "part13.html#56",
+"it": "Condizione essenziale della media art"
+},
+{
+"key": "part13.html#57",
+"it": "Site-specific"
+},
+{
+"key": "part13.html#58",
+"it": "Opera legata alle condizioni di un solo luogo"
+},
+{
+"key": "part13.html#59",
+"it": "Anche categoria nei bandi internazionali"
+},
+{
+"key": "part13.html#60",
+"it": "Post-media"
+},
+{
+"key": "part13.html#61",
+"it": "Stato in cui nessun medium domina e tutti i media si influenzano a vicenda"
+},
+{
+"key": "part13.html#62",
+"it": "Peter Weibel (2006)"
+},
+{
+"key": "part13.html#63",
+"it": "La condizione post-mediale"
+},
+{
+"key": "part13.html#64",
+"it": "Vede la specificità del medium come una stratificazione di convenzioni"
+},
+{
+"key": "part13.html#65",
+"it": "Rosalind Krauss (1999)"
+},
+{
+"key": "part13.html#66",
+"it": "Non tormentarti chiedendoti se il tuo lavoro sia media art. Verifica solo di saper dire in una frase perché deve essere proprio questo medium.<small>13.1 Che cos’è la media art?</small>"
+},
+{
+"key": "part13.html#67",
+"it": "<small>Esercizio</small>13.1"
+},
+{
+"key": "part13.html#68",
+"it": "Compito"
+},
+{
+"key": "part13.html#69",
+"it": "Scegli tre opere di media art che hai visto negli ultimi 5 anni e annota, per ciascuna, quale medium ha usato come materiale e perché non avrebbe potuto funzionare con nessun altro."
+},
+{
+"key": "part13.html#70",
+"it": "Consiglio"
+},
+{
+"key": "part13.html#71",
+"it": "Se non sai scegliere, parti dagli elenchi delle mostre passate del Nam June Paik Art Center, dell’MMCA e del Seoul Museum of Art."
+},
+{
+"key": "part13.html#72",
+"it": "Valutazione"
+},
+{
+"key": "part13.html#73",
+"it": "Spiega il rapporto tra medium e tema? Va oltre la semplice descrizione?"
+},
+{
+"key": "part13.html#74",
+"it": "Risposta modello"
+},
+{
+"key": "part13.html#75",
+"it": "Un’analisi che è arrivata a indicare che cosa si perderebbe portando lo stesso tema in un altro medium."
+},
+{
+"key": "part13.html#76",
+"it": "<b>PARTE 13</b>Media art e cinema espanso"
+},
+{
+"key": "part13.html#77",
+"it": "In che cosa differiscono video e media art"
+},
+{
+"key": "part13.html#78",
+"it": "Che cosa cambia? Se hai letto fin qui, hai già quasi tutte le competenze che servono. Leggere un’inquadratura, costruire la luce, unire i tagli e gestire il suono valgono ancora. A cambiare non sono le competenze ma le premesse."
+},
+{
+"key": "part13.html#79",
+"it": "Due cose restano uguali. Entrambi sono media basati sul tempo, quindi durata · ritmo · ripetizione · immobilità sono mezzi espressivi, e il processo produttivo di ripresa · luci · montaggio · color grading · suono serve ancora. Più grande è lo schermo, più si vedono le tue basi."
+},
+{
+"key": "part13.html#80",
+"it": "Video tradizionale"
+},
+{
+"key": "part13.html#81",
+"it": "Posizione dello spettatore – seduto davanti allo schermo"
+},
+{
+"key": "part13.html#82",
+"it": "Inizio e fine – fissi"
+},
+{
+"key": "part13.html#83",
+"it": "Formato (aspect ratio) – può cambiare in base al mezzo"
+},
+{
+"key": "part13.html#84",
+"it": "Attrezzatura – un mezzo per mostrare il risultato"
+},
+{
+"key": "part13.html#85",
+"it": "Compimento – finito alla consegna"
+},
+{
+"key": "part13.html#86",
+"it": "Ripetizione – presuppone una sola visione"
+},
+{
+"key": "part13.html#87",
+"it": "Opera di media art"
+},
+{
+"key": "part13.html#88",
+"it": "Posizione dello spettatore – entra nello spazio e lo attraversa"
+},
+{
+"key": "part13.html#89",
+"it": "Inizio e fine – gli spettatori vanno e vengono in qualsiasi momento"
+},
+{
+"key": "part13.html#90",
+"it": "Formato (aspect ratio) – condizione dell’opera; cambiarlo è un danno"
+},
+{
+"key": "part13.html#91",
+"it": "Attrezzatura – spesso parte dell’opera"
+},
+{
+"key": "part13.html#92",
+"it": "Compimento – finito solo a mostra conclusa"
+},
+{
+"key": "part13.html#93",
+"it": "Ripetizione – presuppone centinaia di loop al giorno"
+},
+{
+"key": "part13.html#94",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part13.html#95",
+"it": "Se riporti tale e quale un arco in quattro parti, quasi tutti gli spettatori vedono solo la «svolta» e se ne vanno. L’opera deve leggersi entro 30 secondi da qualunque punto si cominci a guardare."
+},
+{
+"key": "part13.html#96",
+"it": "Ciò che agli studenti sfugge più spesso: inizio e fine"
+},
+{
+"key": "part13.html#97",
+"it": "<small>Progetto del loop</small>Fai combaciare la fine con l’inizio"
+},
+{
+"key": "part13.html#98",
+"it": "Se l’ultimo fotogramma somiglia al primo, la giuntura scompare"
+},
+{
+"key": "part13.html#99",
+"it": "<small>Punti d’ingresso</small>Leggibile da qualunque punto si entri"
+},
+{
+"key": "part13.html#100",
+"it": "Ripeti periodicamente l’immagine chiave"
+},
+{
+"key": "part13.html#101",
+"it": "<small>Durata</small>Tra 2 e 7 minuti"
+},
+{
+"key": "part13.html#102",
+"it": "Oltre, molte meno persone guardano fino alla fine"
+},
+{
+"key": "part13.html#103",
+"it": "Perché devi mantenere il formato (aspect ratio)"
+},
+{
+"key": "part13.html#104",
+"it": "Le linee guida d’allestimento degli enti di conservazione della media art prescrivono di rispettare il formato (aspect ratio) dell’opera e precisano che ingrandirla o ritagliarla per adattarla a uno schermo non è una pratica corretta. Nella produzione video rimontare per il verticale è routine; con un’opera d’arte, quel gesto cambia l’opera stessa. Qui devi abbandonare l’abitudine di reinquadrare a ogni cambio di mezzo."
+},
+{
+"key": "part13.html#105",
+"it": "Realizza il video da mostra partendo dal presupposto che nessuno lo guardi dall’inizio. Renderlo leggibile da qualsiasi punto d’ingresso: questo è il progetto.<small>13.2 In che cosa differiscono video e media art</small>"
+},
+{
+"key": "part13.html#106",
+"it": "<small>Esercizio</small>13.2"
+},
+{
+"key": "part13.html#107",
+"it": "Compito"
+},
+{
+"key": "part13.html#108",
+"it": "Rimonta uno dei tuoi video in un loop da mostra. Resta sotto i 3 minuti e strutturalo in modo che il tema si legga entro 30 secondi da qualsiasi punto di partenza."
+},
+{
+"key": "part13.html#109",
+"it": "Consiglio"
+},
+{
+"key": "part13.html#110",
+"it": "Mostra a un amico 30 secondi da un punto a caso e chiedigli di che cosa parla l’opera. Se due su tre lo capiscono, sei promosso."
+},
+{
+"key": "part13.html#111",
+"it": "Valutazione"
+},
+{
+"key": "part13.html#112",
+"it": "La giuntura è invisibile? I punti d’ingresso sono progettati?"
+},
+{
+"key": "part13.html#113",
+"it": "Risposta modello"
+},
+{
+"key": "part13.html#114",
+"it": "Un montaggio che ha fatto coincidere inizio e fine sulla stessa immagine e ha ripetuto il motivo chiave ogni 40 secondi, così da leggersi da qualsiasi punto."
+},
+{
+"key": "part13.html#115",
+"it": "<b>PARTE 13</b>Media art e cinema espanso"
+},
+{
+"key": "part13.html#116",
+"it": "Il panorama della media art in Corea oggi"
+},
+{
+"key": "part13.html#117",
+"it": "La media art coreana si muove su tre binari: musei e istituzioni pubbliche, schermi pubblici urbani, spazi immersivi commerciali. Ognuno chiede cose diverse e ognuno offre agli studenti una porta diversa."
+},
+{
+"key": "part13.html#118",
+"it": "<b>Foto di riferimento 13.3A</b>Immagini generate – due palcoscenici per la media art coreana"
+},
+{
+"key": "part13.html#119",
+"it": "<span class=\"ph-id\">P13-MUSEUM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Opera video in un museo</b>Visitatori seduti a terra davanti a un’enorme parete video in una sala bianca</span>"
+},
+{
+"key": "part13.html#120",
+"it": "<b>a</b>Musei – dove seguono collezione · conservazione · critica. La selezione avviene su testo e foto"
+},
+{
+"key": "part13.html#121",
+"it": "<span class=\"ph-id\">P13-OUTDOOR</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Festival di media art all’aperto</b>Installazioni luminose e folla lungo un fiume, di notte</span>"
+},
+{
+"key": "part13.html#122",
+"it": "<b>b</b>Festival all’aperto e schermi urbani – soglia bassa e grande pubblico. Dove gli studenti possono esordire"
+},
+{
+"key": "part13.html#123",
+"it": "Istituzioni"
+},
+{
+"key": "part13.html#124",
+"it": "<small>Nam June Paik Art Center</small>Yongin"
+},
+{
+"key": "part13.html#125",
+"it": "283 opere in collezione, 2285 materiali d’archivio video"
+},
+{
+"key": "part13.html#126",
+"it": "7/2026–2/2027 1° Nam June Paik Media Art Festival, a 20 anni dalla morte, «Nam June Paik’s Planet» – presenta la serie «Planet» degli anni Novanta"
+},
+{
+"key": "part13.html#127",
+"it": "<small>MMCA</small>40 anni della sede di Gwacheon"
+},
+{
+"key": "part13.html#128",
+"it": "Mostra 2026 «Imaginations of Light»"
+},
+{
+"key": "part13.html#129",
+"it": "Prima pubblicazione di 100.000 dei circa 520.000 materiali dell’archivio digitale (incl. l’archivio Paik)"
+},
+{
+"key": "part13.html#130",
+"it": "Nuovo programma di formazione per conservatori, nuovi media inclusi"
+},
+{
+"key": "part13.html#131",
+"it": "<small>Seoul Museum of Art</small>Seoul Mediacity Biennale (dal 2000)"
+},
+{
+"key": "part13.html#132",
+"it": "2026: prima personale museale in Asia di Lynn Hershman Leeson; una mostra di sound art"
+},
+{
+"key": "part13.html#133",
+"it": "Seo-Seoul Museum of Art – prepara l’apertura con una collezione di nuovi media e uno studio per i giovani"
+},
+{
+"key": "part13.html#134",
+"it": "<small>Art Center Nabi</small>Dal 2000"
+},
+{
+"key": "part13.html#135",
+"it": "Giugno 2026: riapertura in una sede propria a Sagan-dong, Jongno-gu"
+},
+{
+"key": "part13.html#136",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part13.html#137",
+"it": "I bandi precisano che gli orari di proiezione possono cambiare per le politiche di risparmio energetico. Non sono schermi accesi 24 ore su 24."
+},
+{
+"key": "part13.html#138",
+"it": "Schermi urbani – dove gli studenti possono esordire"
+},
+{
+"key": "part13.html#139",
+"it": "Gran parte delle opere sulle piattaforme pubbliche di media art gestite dalla città di Seul è selezionata tramite bandi per artisti emergenti. La soglia è più bassa di quella di un museo, e vedi il tuo lavoro proiettato in un vero spazio urbano."
+},
+{
+"key": "part13.html#140",
+"it": "Piattaforma"
+},
+{
+"key": "part13.html#141",
+"it": "Luogo"
+},
+{
+"key": "part13.html#142",
+"it": "Orari"
+},
+{
+"key": "part13.html#143",
+"it": "Seoullo Media Canvas"
+},
+{
+"key": "part13.html#144",
+"it": "Mallijae-ro, Jung-gu (vicino a Seoullo)"
+},
+{
+"key": "part13.html#145",
+"it": "Atelier Gwanghwa"
+}
+]

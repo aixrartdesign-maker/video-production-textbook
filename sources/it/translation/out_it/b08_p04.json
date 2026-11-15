@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#707",
+"it": "Di passaggio a piedi"
+},
+{
+"key": "part07.html#708",
+"it": "Molto ampio"
+},
+{
+"key": "part07.html#709",
+"it": "Molto bassa"
+},
+{
+"key": "part07.html#710",
+"it": "Messaggio unico, alto contrasto"
+},
+{
+"key": "part07.html#711",
+"it": "Mostra"
+},
+{
+"key": "part07.html#712",
+"it": "In piedi, in movimento"
+},
+{
+"key": "part07.html#713",
+"it": "Ampio"
+},
+{
+"key": "part07.html#714",
+"it": "Alta"
+},
+{
+"key": "part07.html#715",
+"it": "Permanenza progettata, audio spaziale"
+},
+{
+"key": "part07.html#716",
+"it": "Signage in negozio"
+},
+{
+"key": "part07.html#717",
+"it": "In piedi, per poco"
+},
+{
+"key": "part07.html#718",
+"it": "Medio"
+},
+{
+"key": "part07.html#719",
+"it": "Bassa"
+},
+{
+"key": "part07.html#720",
+"it": "Prezzo e offerta in evidenza"
+},
+{
+"key": "part07.html#721",
+"it": "<small>Cinema</small>Guidare lo sguardo"
+},
+{
+"key": "part07.html#722",
+"it": "Su un grande schermo si leggono anche i dettagli negli angoli, ma da certi posti lo schermo appare deformato: evita i bordi estremi"
+},
+{
+"key": "part07.html#723",
+"it": "La sala buia fa rendere al meglio le immagini in chiave bassa"
+},
+{
+"key": "part07.html#724",
+"it": "Il surround permette un audio direzionale"
+},
+{
+"key": "part07.html#725",
+"it": "Il pubblico non può andarsene, quindi c’è tempo per sviluppare una storia"
+},
+{
+"key": "part07.html#726",
+"it": "<small>Scroll su mobile</small>Che cosa lo rende diverso"
+},
+{
+"key": "part07.html#727",
+"it": "Un dito e se ne vanno – il punto di partenza di ogni regola dei video brevi (short-form)"
+},
+{
+"key": "part07.html#728",
+"it": "Pochi stimoli periferici: movimento e sottotitoli ne fanno le veci"
+},
+{
+"key": "part07.html#729",
+"it": "Progettalo perché funzioni del tutto senza audio"
+},
+{
+"key": "part07.html#730",
+"it": "Dai per scontato il loop; collega la fine all’inizio"
+},
+{
+"key": "part07.html#731",
+"it": "Il movimento verticale si percepisce più forte di quello orizzontale"
+},
+{
+"key": "part07.html#732",
+"it": "Progettare il flusso di una mostra"
+},
+{
+"key": "part07.html#733",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part07.html#734",
+"it": "I telefoni dei visitatori sono la migliore rete di distribuzione. Progetta luci e fondali della zona foto per lo scatto e la condivisione."
+},
+{
+"key": "part07.html#735",
+"it": "<b>01</b><span>Entro 3 secondi dall’ingresso i visitatori devono capire a che cosa serve il luogo.</span>"
+},
+{
+"key": "part07.html#736",
+"it": "<b>02</b><span>Prima di ogni zona di esperienza metti un’area d’attesa e un’anteprima. Anche l’attesa è contenuto.</span>"
+},
+{
+"key": "part07.html#737",
+"it": "<b>03</b><span>Scegli con chiarezza tra percorso a senso unico e visita libera. Se li mescoli, nascono colli di bottiglia e riflussi.</span>"
+},
+{
+"key": "part07.html#738",
+"it": "<b>04</b><span>Colloca la scena più d’impatto subito prima dell’uscita, per dare forma all’ultimo ricordo.</span>"
+},
+{
+"key": "part07.html#739",
+"it": "<b>05</b><span>Progetta luci e fondali della zona foto per lo scatto e la condivisione.</span>"
+},
+{
+"key": "part07.html#740",
+"it": "<b>06</b><span>Inserisci nel percorso aree di sosta e servizi igienici. Oltre i 20 minuti di esperienza sono indispensabili.</span>"
+},
+{
+"key": "part07.html#741",
+"it": "L’ordine di lavoro quando un progetto copre più media"
+},
+{
+"key": "part07.html#742",
+"it": "Costruisci prima per il mezzo più vincolato. Se devi fare sia video brevi (short-form) sia pubblicità esterna, fissa un unico messaggio per l’esterna, poi amplialo nei video brevi. Fai il contrario e le informazioni traboccano finché all’aperto non si legge più nulla."
+},
+{
+"key": "part07.html#743",
+"it": "<small>Esercizio</small>6.11"
+},
+{
+"key": "part07.html#744",
+"it": "Compito"
+},
+{
+"key": "part07.html#745",
+"it": "Scegli un punto del campus, rileva le sue condizioni di visione (distanza, luminosità, passaggio di persone, suono) e proponi un formato video adatto."
+},
+{
+"key": "part07.html#746",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#747",
+"it": "Cronometra quanto tempo le persone restano in quel punto."
+},
+{
+"key": "part07.html#748",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#749",
+"it": "Osservazione concreta, proposta adeguata"
+},
+{
+"key": "part07.html#750",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#751",
+"it": "Adatta la durata del video e perfino la dimensione del testo al tempo di permanenza."
+},
+{
+"key": "part07.html#752",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#753",
+"it": "Tipi di progetti di contenuti immersivi"
+},
+{
+"key": "part07.html#754",
+"it": "I progetti reali sono uno dei tipi qui sotto, o una combinazione. Fissa prima il tipo e i contorni di tecnologia e budget prendono forma."
+},
+{
+"key": "part07.html#755",
+"it": "Tipo"
+},
+{
+"key": "part07.html#756",
+"it": "Elementi"
+},
+{
+"key": "part07.html#757",
+"it": "Tecnologia chiave"
+},
+{
+"key": "part07.html#758",
+"it": "Indicatori"
+},
+{
+"key": "part07.html#759",
+"it": "Mostra pop-up di marca"
+},
+{
+"key": "part07.html#760",
+"it": "3–5 zone di esperienza, zona foto, shop"
+},
+{
+"key": "part07.html#761",
+"it": "Proiezione, sensori, LED"
+},
+{
+"key": "part07.html#762",
+"it": "Visitatori, post SNS"
+},
+{
+"key": "part07.html#763",
+"it": "Media art immersiva"
+},
+{
+"key": "part07.html#764",
+"it": "Video e suono a tutta parete in un grande spazio"
+},
+{
+"key": "part07.html#765",
+"it": "Proiezione su più superfici, audio spaziale"
+},
+{
+"key": "part07.html#766",
+"it": "Tempo di permanenza, visite ripetute"
+},
+{
+"key": "part07.html#767",
+"it": "Showroom virtuale"
+},
+{
+"key": "part07.html#768",
+"it": "Vedere e collocare i prodotti in 3D"
+},
+{
+"key": "part07.html#769",
+"it": "WebGL, AR"
+},
+{
+"key": "part07.html#770",
+"it": "Tasso di completamento, conversione"
+},
+{
+"key": "part07.html#771",
+"it": "Simulazione per la formazione"
+},
+{
+"key": "part07.html#772",
+"it": "Ricreare situazioni pericolose o costose"
+},
+{
+"key": "part07.html#773",
+"it": "Visore VR, interazione"
+},
+{
+"key": "part07.html#774",
+"it": "Risultati di apprendimento"
+},
+{
+"key": "part07.html#775",
+"it": "Mostra informativa pubblica"
+},
+{
+"key": "part07.html#776",
+"it": "Storia locale, scienza, educazione alla sicurezza"
+},
+{
+"key": "part07.html#777",
+"it": "Interazione touch, video"
+},
+{
+"key": "part07.html#778",
+"it": "Soddisfazione dei visitatori"
+},
+{
+"key": "part07.html#779",
+"it": "Anamorfico esterno"
+},
+{
+"key": "part07.html#780",
+"it": "Illusione LED sull’angolo di un edificio"
+},
+{
+"key": "part07.html#781",
+"it": "Render 3D, calibrazione del punto di vista"
+},
+{
+"key": "part07.html#782",
+"it": "Diffusione online"
+},
+{
+"key": "part07.html#783",
+"it": "Spettacolo XR dal vivo"
+},
+{
+"key": "part07.html#784",
+"it": "Grafica in tempo reale con lo show dal vivo"
+},
+{
+"key": "part07.html#785",
+"it": "Motore in tempo reale, tracking"
+},
+{
+"key": "part07.html#786",
+"it": "Presenze, visualizzazioni in streaming"
+},
+{
+"key": "part07.html#787",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part07.html#788",
+"it": "Analizza i casi partendo dall’esperienza del pubblico, non dalla tecnologia."
+},
+{
+"key": "part07.html#789",
+"it": "Che cosa ogni proposta deve contenere"
+},
+{
+"key": "part07.html#790",
+"it": "Una reazione in una frase dopo la visita. Scrivi prima che cosa provano i visitatori uscendo, non un elenco di tecnologie."
+},
+{
+"key": "part07.html#791",
+"it": "Rilievi quotati e altezza del soffitto, potenza elettrica, luce ambiente."
+},
+{
+"key": "part07.html#792",
+"it": "Tabella dei tempi di permanenza per zona e calcolo della capacità oraria."
+},
+{
+"key": "part07.html#793",
+"it": "Specifiche degli apparati, unità di scorta, piano di manutenzione."
+},
+{
+"key": "part07.html#794",
+"it": "Manuale del personale e procedure per i guasti. Documenta sempre come riavviare."
+},
+{
+"key": "part07.html#795",
+"it": "Piano di sicurezza. Includi luci guida a pavimento negli spazi bui e vie di emergenza."
+},
+{
+"key": "part07.html#796",
+"it": "<small>Esercizio</small>6.12"
+},
+{
+"key": "part07.html#797",
+"it": "Compito"
+},
+{
+"key": "part07.html#798",
+"it": "Analizza 3 casi di contenuti immersivi per tipo e proponi un progetto adatto al tuo territorio."
+},
+{
+"key": "part07.html#799",
+"it": "Consiglio"
+},
+{
+"key": "part07.html#800",
+"it": "Analizza i casi partendo dall’esperienza del pubblico, non dalla tecnologia."
+},
+{
+"key": "part07.html#801",
+"it": "Valutazione"
+},
+{
+"key": "part07.html#802",
+"it": "Griglia di analisi coerente, progetto realizzabile"
+},
+{
+"key": "part07.html#803",
+"it": "Risposta modello"
+},
+{
+"key": "part07.html#804",
+"it": "Stima con realismo perfino il budget e il personale di gestione."
+},
+{
+"key": "part07.html#805",
+"it": "<b>PARTE 07</b>Specifiche dei media e contenuti immersivi"
+},
+{
+"key": "part07.html#806",
+"it": "Nuovi display e media spaziali"
+},
+{
+"key": "part07.html#807",
+"it": "Dalla metà degli anni 2020 le superfici che ospitano video si sono moltiplicate in fretta. Chi progetta deve conoscerne le specifiche minime per poter dialogare con i fornitori."
+},
+{
+"key": "part07.html#808",
+"it": "<b>Fig. 70</b> Mappa delle specifiche degli schermi per mezzo"
+},
+{
+"key": "part07.html#809",
+"it": "Grandi TV e soggiorno"
+},
+{
+"key": "part07.html#810",
+"it": "<b>NOTA</b>"
+},
+{
+"key": "part07.html#811",
+"it": "Se fai un master HDR, fai sempre anche una versione SDR."
+},
+{
+"key": "part07.html#812",
+"it": "Il 4K è ormai lo standard e i pannelli 8K sono arrivati ai modelli economici. Ma i contenuti 8K scarseggiano, quindi la norma è la riproduzione con upscaling."
+},
+{
+"key": "part07.html#813",
+"it": "Con la diffusione dei pannelli HDR la gamma di luminosità si è ampliata."
+},
+{
+"key": "part07.html#814",
+"it": "Man mano che gli schermi crescono, la distanza di visione si riduce a 1,5–2 volte la diagonale. Per questo la grammatica televisiva, un tempo basata sui primi piani, si sta di nuovo allargando."
+},
+{
+"key": "part07.html#815",
+"it": "Le app delle smart TV hanno portato YouTube e lo streaming in soggiorno. Considera anche i video brevi (short-form) verticali riprodotti su un grande schermo orizzontale."
+},
+{
+"key": "part07.html#816",
+"it": "LED giganti e facciate mediali"
+},
+{
+"key": "part07.html#817",
+"it": "Luce proiettata su una superficie o superficie che si illumina da sé"
+},
+{
+"key": "part07.html#818",
+"it": "<b>Video mapping – luce proiettata sopra</b><span>Visibile solo al buio · la forma dell’edificio è la tela · rapido da installare, adatto a eventi unici · contano distanza di proiezione e numero di proiettori</span>"
+},
+{
+"key": "part07.html#819",
+"it": "<b>Signage LED · facciata mediale – la superficie stessa emette luce</b><span>Visibile di giorno · sempre in funzione · contano passo dei pixel e distanza di visione · costoso da installare, ma i contenuti si cambiano con facilità</span>"
+},
+{
+"key": "part07.html#820",
+"it": "La proiezione prende in prestito una <b>superficie</b>; il LED costruisce una <b>superficie</b>. Per un evento di una sera, la proiezione; se deve restare acceso ogni giorno, il LED."
+},
+{
+"key": "part07.html#821",
+"it": "<b>Fig. 71</b> Video mapping e signage LED – entrambi sono «video su un edificio», ma la luce viene da sorgenti diverse."
+},
+{
+"key": "part07.html#822",
+"it": "Voce"
+},
+{
+"key": "part07.html#823",
+"it": "Video mapping"
+},
+{
+"key": "part07.html#824",
+"it": "Signage LED"
+},
+{
+"key": "part07.html#825",
+"it": "Installazione"
+},
+{
+"key": "part07.html#826",
+"it": "Assicurare posizione e distanza del proiettore"
+},
+{
+"key": "part07.html#827",
+"it": "Pannelli montati su una struttura"
+},
+{
+"key": "part07.html#828",
+"it": "Condizioni"
+},
+{
+"key": "part07.html#829",
+"it": "Notte · oscuramento necessario"
+},
+{
+"key": "part07.html#830",
+"it": "Funziona di giorno e di notte"
+},
+{
+"key": "part07.html#831",
+"it": "Luminosità"
+},
+{
+"key": "part07.html#832",
+"it": "Espressa in ANSI lumen"
+},
+{
+"key": "part07.html#833",
+"it": "Espressa in nit"
+},
+{
+"key": "part07.html#834",
+"it": "Superficie"
+},
+{
+"key": "part07.html#835",
+"it": "Meglio chiara e liscia"
+},
+{
+"key": "part07.html#836",
+"it": "La superficie emette luce da sé"
+},
+{
+"key": "part07.html#837",
+"it": "Contenuti"
+},
+{
+"key": "part07.html#838",
+"it": "Realizzati sullo sviluppo dell’edificio"
+},
+{
+"key": "part07.html#839",
+"it": "Realizzati alla risoluzione dei pannelli"
+},
+{
+"key": "part07.html#840",
+"it": "Costi"
+},
+{
+"key": "part07.html#841",
+"it": "Avvio economico, gestione costosa"
+},
+{
+"key": "part07.html#842",
+"it": "Avvio costoso, gestione stabile"
+},
+{
+"key": "part07.html#843",
+"it": "Rimozione"
+},
+{
+"key": "part07.html#844",
+"it": "Facile"
+},
+{
+"key": "part07.html#845",
+"it": "Richiede lavori strutturali"
+},
+{
+"key": "part07.html#846",
+"it": "Distanza di proiezione = larghezza dello schermo × rapporto di tiro"
+},
+{
+"key": "part07.html#847",
+"it": "<b>Un proiettore crea il suo schermo con la distanza</b><span>Più lontano vuol dire più grande e più scuro – la luminosità (lumen) necessaria cresce con l’area</span>"
+},
+{
+"key": "part07.html#848",
+"it": "Distanza di proiezione D"
+},
+{
+"key": "part07.html#849",
+"it": "Larghezza schermo W"
+},
+{
+"key": "part07.html#850",
+"it": "D = W × rapporto di tiro"
+},
+{
+"key": "part07.html#851",
+"it": "Rapporto 1,5 · larghezza 6 m → collocalo a 9 m"
+},
+{
+"key": "part07.html#852",
+"it": "<b>La formula di lavoro</b><span>Rapporto di tiro (throw ratio) = distanza ÷ larghezza. Tiro corto 0,3–0,8, standard 1,2–2,0, tiro lungo da 2,0 in su · Luminosità obiettivo: interno buio 1000–2000 lm/m², atrio luminoso 3000 lm/m²</span>"
+},
+{
+"key": "part07.html#853",
+"it": "<b>Fig. 72</b> Distanza di proiezione e dimensione dello schermo – fissa due valori tra distanza · larghezza dello schermo · rapporto di tiro e il terzo ne consegue. È il primo numero da misurare prima dell’installazione."
+},
+{
+"key": "part07.html#854",
+"it": "<b>01</b><i>Area</i>Misura reale della superficie di proiezione"
+},
+{
+"key": "part07.html#855",
+"it": "<b>02</b><i>Risoluzione</i>Risoluzione necessaria alla distanza di visione minima"
+},
+{
+"key": "part07.html#856",
+"it": "<b>03</b><i>Luminosità</i>Misura la luce ambiente e calcola la luminosità necessaria"
+}
+]

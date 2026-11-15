@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#300",
+"it": "Concetti chiave"
+},
+{
+"key": "part05.html#301",
+"it": "<small>Unità</small>Composizione"
+},
+{
+"key": "part05.html#302",
+"it": "La tela di lavoro. Qui si fissano risoluzione · frame rate · durata"
+},
+{
+"key": "part05.html#303",
+"it": "Controllala per prima – se sbagli, rifai tutto"
+},
+{
+"key": "part05.html#304",
+"it": "<small>Elemento</small>Livello"
+},
+{
+"key": "part05.html#305",
+"it": "I livelli in alto coprono quelli sotto"
+},
+{
+"key": "part05.html#306",
+"it": "Girato, solido, testo, forma, camera, luce, oggetto nullo"
+},
+{
+"key": "part05.html#307",
+"it": "<small>Movimento</small>Keyframe"
+},
+{
+"key": "part05.html#308",
+"it": "Segna quando un valore cambia"
+},
+{
+"key": "part05.html#309",
+"it": "Base: posizione · scala · rotazione · opacità, tasti P S R T"
+},
+{
+"key": "part05.html#310",
+"it": "<small>Gruppo</small>Precomposizione"
+},
+{
+"key": "part05.html#311",
+"it": "Riunisce più livelli in uno solo"
+},
+{
+"key": "part05.html#312",
+"it": "Chiave per l’ordine degli effetti"
+},
+{
+"key": "part05.html#313",
+"it": "<small>Ritaglio</small>Mascherino traccia"
+},
+{
+"key": "part05.html#314",
+"it": "Ritaglia secondo la forma (alfa) o la luminosità (luma) di un altro livello"
+},
+{
+"key": "part05.html#315",
+"it": "Usato sempre per mascherare il testo 3D"
+},
+{
+"key": "part05.html#316",
+"it": "<small>Gerarchia</small>Imparentamento"
+},
+{
+"key": "part05.html#317",
+"it": "Lega un livello a un altro perché si muovano insieme"
+},
+{
+"key": "part05.html#318",
+"it": "Imparenta a un oggetto nullo per guidare in blocco moti complessi"
+},
+{
+"key": "part05.html#319",
+"it": "<small>Formule</small>Espressioni"
+},
+{
+"key": "part05.html#320",
+"it": "Valori da formula: cicli · tremolio · collegamenti senza keyframe"
+},
+{
+"key": "part05.html#321",
+"it": "wiggle e loopOut sono le prime da imparare"
+},
+{
+"key": "part05.html#322",
+"it": "Funzioni per categoria"
+},
+{
+"key": "part05.html#323",
+"it": "Categoria"
+},
+{
+"key": "part05.html#324",
+"it": "Funzioni principali"
+},
+{
+"key": "part05.html#325",
+"it": "Uso pratico"
+},
+{
+"key": "part05.html#326",
+"it": "Testo"
+},
+{
+"key": "part05.html#327",
+"it": "Animatori di testo, Source Text, testo su tracciato"
+},
+{
+"key": "part05.html#328",
+"it": "Titoli, sottotitoli animati, comparsa dei testi"
+},
+{
+"key": "part05.html#329",
+"it": "Forme"
+},
+{
+"key": "part05.html#330",
+"it": "Livelli forma, Trim Paths, Repeater"
+},
+{
+"key": "part05.html#331",
+"it": "Infografiche, linee animate, transizioni di forma"
+},
+{
+"key": "part05.html#332",
+"it": "Maschere"
+},
+{
+"key": "part05.html#333",
+"it": "Maschere a penna, sfumatura, espansione maschera"
+},
+{
+"key": "part05.html#334",
+"it": "Rivelazioni parziali, transizioni"
+},
+{
+"key": "part05.html#335",
+"it": "Roto"
+},
+{
+"key": "part05.html#336",
+"it": "Roto Brush, Refine Edge"
+},
+{
+"key": "part05.html#337",
+"it": "Isolare le persone quando il chroma key è impossibile"
+},
+{
+"key": "part05.html#338",
+"it": "Keying"
+},
+{
+"key": "part05.html#339",
+"it": "Keylight, Spill Suppressor, Advanced Spill"
+},
+{
+"key": "part05.html#340",
+"it": "Compositing su green screen"
+},
+{
+"key": "part05.html#341",
+"it": "Tracking"
+},
+{
+"key": "part05.html#342",
+"it": "Punto 2D, corner pin, 3D Camera Tracker, Mocha"
+},
+{
+"key": "part05.html#343",
+"it": "Ancorare elementi, sostituire schermi"
+},
+{
+"key": "part05.html#344",
+"it": "Livelli 3D, camere, luci, ombre, profondità di campo"
+},
+{
+"key": "part05.html#345",
+"it": "Titoli 3D, regia dello spazio"
+},
+{
+"key": "part05.html#346",
+"it": "Puppet"
+},
+{
+"key": "part05.html#347",
+"it": "Puntine Puppet, strumento Starch"
+},
+{
+"key": "part05.html#348",
+"it": "Animare personaggi illustrati"
+},
+{
+"key": "part05.html#349",
+"it": "Tempo"
+},
+{
+"key": "part05.html#350",
+"it": "Rimappatura del tempo, Force Motion Blur, Pixel Motion"
+},
+{
+"key": "part05.html#351",
+"it": "Cambi di durata, rampe di velocità"
+},
+{
+"key": "part05.html#352",
+"it": "Colore"
+},
+{
+"key": "part05.html#353",
+"it": "Lumetri Color, Curves, Color Balance"
+},
+{
+"key": "part05.html#354",
+"it": "Uniformare il colore degli elementi"
+},
+{
+"key": "part05.html#355",
+"it": "Effetti"
+},
+{
+"key": "part05.html#356",
+"it": "Bagliore, sfocatura, spostamento, Fractal Noise"
+},
+{
+"key": "part05.html#357",
+"it": "Luce, distorsione, texture"
+},
+{
+"key": "part05.html#358",
+"it": "Esportazione"
+},
+{
+"key": "part05.html#359",
+"it": "Render Queue, collegamento a Media Encoder"
+},
+{
+"key": "part05.html#360",
+"it": "Esportazione con alfa, consegna finale"
+},
+{
+"key": "part05.html#361",
+"it": "Ordine di lavoro per testo 3D e luci"
+},
+{
+"key": "part05.html#362",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part05.html#363",
+"it": "Allinea la focale della camera a quella dell’obiettivo del girato, o la prospettiva non torna."
+},
+{
+"key": "part05.html#364",
+"it": "<b>01</b><span>Scegli il carattere. Con una spaziatura stretta le lettere si scontrano nell’estrusione 3D: spazia largo e usa un grassetto.</span>"
+},
+{
+"key": "part05.html#365",
+"it": "<b>02</b><span>Rendi 3D il livello di testo e imposta l’estrusione. Il 15–30% dell’altezza delle lettere è un valore sicuro.</span>"
+},
+{
+"key": "part05.html#366",
+"it": "<b>03</b><span>Imposta il materiale. Metallo: riflessi e alte luci; opaco: soprattutto luce diffusa.</span>"
+},
+{
+"key": "part05.html#367",
+"it": "<b>04</b><span>Aggiungi una camera. Allinea la focale a quella dell’obiettivo del girato.</span>"
+},
+{
+"key": "part05.html#368",
+"it": "<b>05</b><span>Disponi le luci. Controlla la direzione delle ombre nel girato e metti la luce chiave alla stessa angolazione.</span>"
+},
+{
+"key": "part05.html#369",
+"it": "<b>06</b><span>Crea un livello pavimento che raccolga le ombre. Senza, il testo sembra un adesivo sospeso in aria.</span>"
+},
+{
+"key": "part05.html#370",
+"it": "<b>07</b><span>Aggiungi il movimento. Di base: ease out per le entrate, ease in per le uscite.</span>"
+},
+{
+"key": "part05.html#371",
+"it": "<b>08</b><span>Attiva il motion blur e adegua la grana a quella del girato.</span>"
+},
+{
+"key": "part05.html#372",
+"it": "Easing (accel. · decel.): valori di riferimento"
+},
+{
+"key": "part05.html#373",
+"it": "<b>Easing</b>"
+},
+{
+"key": "part05.html#374",
+"it": "La curva di accelerazione · decelerazione di un movimento. Il lineare è meccanico; Easy Ease rallenta in entrata e in uscita. Modellalo come curva di velocità nel Graph Editor."
+},
+{
+"key": "part05.html#375",
+"it": "Tipo di easing"
+},
+{
+"key": "part05.html#376",
+"it": "Sensazione"
+},
+{
+"key": "part05.html#377",
+"it": "Uso"
+},
+{
+"key": "part05.html#378",
+"it": "Fotogrammi a 24 fps"
+},
+{
+"key": "part05.html#379",
+"it": "Lineare"
+},
+{
+"key": "part05.html#380",
+"it": "Meccanico, senza vita"
+},
+{
+"key": "part05.html#381",
+"it": "Loop infiniti, sfondi rotanti"
+},
+{
+"key": "part05.html#382",
+"it": "Ease out (decelera)"
+},
+{
+"key": "part05.html#383",
+"it": "Arriva veloce, si posa morbido"
+},
+{
+"key": "part05.html#384",
+"it": "Entrate"
+},
+{
+"key": "part05.html#385",
+"it": "10–15 fotogrammi"
+},
+{
+"key": "part05.html#386",
+"it": "Ease in (accelera)"
+},
+{
+"key": "part05.html#387",
+"it": "Parte lento, esce veloce"
+},
+{
+"key": "part05.html#388",
+"it": "Uscite"
+},
+{
+"key": "part05.html#389",
+"it": "8–12 fotogrammi"
+},
+{
+"key": "part05.html#390",
+"it": "Ease in-out (entrambi)"
+},
+{
+"key": "part05.html#391",
+"it": "Il più naturale"
+},
+{
+"key": "part05.html#392",
+"it": "Quasi tutti i movimenti"
+},
+{
+"key": "part05.html#393",
+"it": "12–18 fotogrammi"
+},
+{
+"key": "part05.html#394",
+"it": "Overshoot"
+},
+{
+"key": "part05.html#395",
+"it": "Supera il bersaglio e torna indietro"
+},
+{
+"key": "part05.html#396",
+"it": "Comparse vivaci del logo"
+},
+{
+"key": "part05.html#397",
+"it": "15–20 fotogrammi"
+},
+{
+"key": "part05.html#398",
+"it": "Rimbalzo"
+},
+{
+"key": "part05.html#399",
+"it": "Rimbalza fino a fermarsi"
+},
+{
+"key": "part05.html#400",
+"it": "Contenuti informali, per bambini"
+},
+{
+"key": "part05.html#401",
+"it": "20–25 fotogrammi"
+},
+{
+"key": "part05.html#402",
+"it": "Motion graphics: ordine di correzione"
+},
+{
+"key": "part05.html#403",
+"it": "<b>01</b><i>Applica l’easing</i>Niente angoli retti nella curva di velocità"
+},
+{
+"key": "part05.html#404",
+"it": "<b>02</b><i>Aggiungi l’anticipazione</i>Muovi prima nel verso opposto"
+},
+{
+"key": "part05.html#405",
+"it": "<b>03</b><i>Separa il trascinamento</i>Le parti attaccate seguono in ritardo"
+},
+{
+"key": "part05.html#406",
+"it": "<b>04</b><i>Spingi l’esagerazione</i>Più grande del vero"
+},
+{
+"key": "part05.html#407",
+"it": "Applica solo questi quattro passaggi, in ordine, e l’aria da principiante scompare. Una curva di velocità che nel Graph Editor piega ad angolo retto risulta sempre goffa: ammorbidiscila."
+},
+{
+"key": "part05.html#408",
+"it": "Le novità degli ultimi aggiornamenti"
+},
+{
+"key": "part05.html#409",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part05.html#410",
+"it": "I nomi e il comportamento delle funzioni cambiano da una versione all’altra. Prima dell’esercizio, controlla le note sulle novità della versione che hai installato."
+},
+{
+"key": "part05.html#411",
+"it": "<small>Roto</small>Roto Brush 3.0"
+},
+{
+"key": "part05.html#412",
+"it": "Roto Brush con modello di IA. Tratti sommari su un fotogramma seguono anche capelli · bordi morbidi"
+},
+{
+"key": "part05.html#413",
+"it": "Oggi è lo strumento standard per isolare persone riprese senza chroma key"
+},
+{
+"key": "part05.html#414",
+"it": "<small>3D</small>Renderer 3D avanzato"
+},
+{
+"key": "part05.html#415",
+"it": "Importa modelli 3D .glb · .gltf · .obj · .fbx direttamente in una composizione"
+},
+{
+"key": "part05.html#416",
+"it": "Luci 3D, ombre e luce ambientale che si fondono con il girato"
+},
+{
+"key": "part05.html#417",
+"it": "<small>Camera</small>Camera 3D · oggetto nullo"
+},
+{
+"key": "part05.html#418",
+"it": "Imparenta la camera a un oggetto nullo: dolly · orbita · avvicinamento da una sola proprietà"
+},
+{
+"key": "part05.html#419",
+"it": "Testo · modelli · livelli piatti condividono prospettiva e spazio"
+},
+{
+"key": "part05.html#420",
+"it": "<small>Keying</small>Keylight + Key Cleaner · Advanced Spill Suppressor"
+},
+{
+"key": "part05.html#421",
+"it": "Estrai la chiave primaria con Keylight, pulisci i bordi con Key Cleaner"
+},
+{
+"key": "part05.html#422",
+"it": "Togli il riflesso verde (spill) dalla pelle con Advanced Spill Suppressor. Impilare i tre in ordine è la combinazione base"
+},
+{
+"key": "part05.html#423",
+"it": "<small>Proprietà</small>Pannello Proprietà · Essential Properties"
+},
+{
+"key": "part05.html#424",
+"it": "Le proprietà comuni del livello selezionato in un solo pannello, modificabili senza aprire la timeline"
+},
+{
+"key": "part05.html#425",
+"it": "Le Essential Properties espongono i valori di una precomposizione: ogni copia può differire"
+},
+{
+"key": "part05.html#426",
+"it": "<small>Integrazione</small>Dynamic Link · Text-Based Editing · Generative Extend"
+},
+{
+"key": "part05.html#427",
+"it": "Dynamic Link porta le composizioni di AE sulla timeline di Premiere senza rendering"
+},
+{
+"key": "part05.html#428",
+"it": "In Premiere, Text-Based Editing (montaggio dalla trascrizione) e Generative Extend (generazione di durata extra a fine clip) accelerano il montaggio"
+},
+{
+"key": "part05.html#429",
+"it": "<b>Foto di riferimento 5.5A</b>Immagini generate – compositing e motion graphics"
+},
+{
+"key": "part05.html#430",
+"it": "<span class=\"ph-id\">P05-ROTO</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Roto · keying · compositing</b>A sinistra, una persona davanti a un green screen con le linee di maschera; a destra, il risultato composto in una scena di strada</span>"
+},
+{
+"key": "part05.html#431",
+"it": "<b>a</b>Roto · keying · compositing – separazione (roto · key), pulizia (rimozione dello spill) e accordo cromatico con lo sfondo formano un tutt’uno"
+},
+{
+"key": "part05.html#432",
+"it": "<span class=\"ph-id\">P05-MOGRAPH</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Lavoro di motion graphics</b>Un viewport 3D con rig di camera e oggetto nullo, livelli di testo animati</span>"
+},
+{
+"key": "part05.html#433",
+"it": "<b>b</b>Lavoro di motion graphics – progetta i movimenti di camera con una camera 3D e un oggetto nullo, e applica l’easing ai livelli di testo"
+},
+{
+"key": "part05.html#434",
+"it": "<small>Esercizio</small>5.5"
+},
+{
+"key": "part05.html#435",
+"it": "Compito"
+},
+{
+"key": "part05.html#436",
+"it": "Realizza in After Effects una motion graphic di 5 secondi con la comparsa di un logo."
+},
+{
+"key": "part05.html#437",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#438",
+"it": "Regola ease in · ease out nel Graph Editor."
+},
+{
+"key": "part05.html#439",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#440",
+"it": "Accelerazione e decelerazione, coerenza con il tono del brand"
+},
+{
+"key": "part05.html#441",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#442",
+"it": "Confronta affiancate la versione lineare e quella con le curve."
+},
+{
+"key": "part05.html#443",
+"it": "Contesto 8"
+},
+{
+"key": "part05.html#444",
+"it": "L’illusione della vita<br>– origini dei principi dell’animazione"
+},
+{
+"key": "part05.html#445",
+"it": "Come infondere peso, carattere ed emozione in disegni immobili lo si è capito in decenni di tentativi ed errori. I principi dell’animazione sono insieme fisica e teoria della recitazione."
+},
+{
+"key": "part05.html#446",
+"it": "Nel 1914 Gertie il dinosauro di Winsor McCay mostrò un personaggio che riceveva ordini e reagiva davanti al pubblico, dimostrando che l’animazione poteva creare un essere dotato di personalità. Mentre preparava Biancaneve e i sette nani (1937), lo studio Walt Disney fece osservare ai suoi animatori animali e persone reali in movimento e insegnò loro disegno e anatomia."
+},
+{
+"key": "part05.html#447",
+"it": "Gli animatori di punta della Disney di quegli anni erano chiamati i «Nine Old Men». Due di loro, Frank Thomas e Ollie Johnston, condensarono i principi dello studio in dodici punti in The Illusion of Life (1981): compressione ed estensione, anticipazione, messa in scena, da posa a posa, trascinamento, rallentamento in entrata e in uscita, archi, azione secondaria, timing, esagerazione, disegno solido, attrattiva. Più che regole, sono modi di tradurre la realtà osservata perché il pubblico la senta di più."
+},
+{
+"key": "part05.html#448",
+"it": "Metà dei principi è fisica. Una palla che si schiaccia all’atterraggio e si allunga nel rimbalzo, un oggetto pesante che parte e si ferma lentamente: così massa e inerzia diventano visibili. L’altra metà è recitazione. L’anticipazione annuncia l’azione successiva, l’esagerazione chiarisce l’emozione e l’attrattiva fa sì che il pubblico si affezioni al personaggio."
+},
+{
+"key": "part05.html#449",
+"it": "Nel 1987 John Lasseter della Pixar presentò al SIGGRAPH «Principles of Traditional Animation Applied to 3D Computer Animation». La sua tesi: gli strumenti sono passati dalla matita al computer, ma il modo in cui il pubblico percepisce la vita nel movimento no. Il motion designer che oggi applica l’easing a un logo nel Graph Editor segue gli stessi principi."
+}
+]

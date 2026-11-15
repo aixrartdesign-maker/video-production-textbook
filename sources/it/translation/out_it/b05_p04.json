@@ -1,0 +1,630 @@
+[
+{
+"key": "part03.html#1135",
+"it": "<b>L’ISO base della tua camera</b>Cerca l’ISO base e il doppio ISO base nella documentazione del produttore e annotali."
+},
+{
+"key": "part03.html#1136",
+"it": "Riepilogo in una pagina"
+},
+{
+"key": "part03.html#1137",
+"it": "3.2 Scegliere la camera"
+},
+{
+"key": "part03.html#1138",
+"it": "Se si muove, stabilizzazione; se è buio, sensore grande; se devi ritagliare, alta risoluzione."
+},
+{
+"key": "part03.html#1139",
+"it": "3.3 Sensore e angolo di campo"
+},
+{
+"key": "part03.html#1140",
+"it": "Un 50 mm su APS-C equivale a un 75 mm su full frame. Più grande è il sensore, minore è la profondità di campo."
+},
+{
+"key": "part03.html#1141",
+"it": "3.4 La psicologia degli obiettivi"
+},
+{
+"key": "part03.html#1142",
+"it": "La prospettiva la cambia la posizione della camera, non l’obiettivo."
+},
+{
+"key": "part03.html#1143",
+"it": "3.5 Il triangolo dell’esposizione"
+},
+{
+"key": "part03.html#1144",
+"it": "Blocca l’otturatore, blocca l’ISO sul valore base, modella con il diaframma e gestisci la luminosità in eccesso con ND e luci."
+},
+{
+"key": "part03.html#1145",
+"it": "3.7 Risoluzione"
+},
+{
+"key": "part03.html#1146",
+"it": "Gira in 4K anche se l’output finale è FHD. I pixel in più sono libertà di montaggio."
+},
+{
+"key": "part03.html#1147",
+"it": "3.8 Angolo dell’otturatore"
+},
+{
+"key": "part03.html#1148",
+"it": "Un otturatore a 180° è il doppio del frame rate: 1/120 a 60p, 1/240 a 120p. I frame rate alti richiedono proporzionalmente più luce."
+},
+{
+"key": "part03.html#1149",
+"it": "3.9 Bilanciamento del bianco"
+},
+{
+"key": "part03.html#1150",
+"it": "Esposizione automatica e WB automatico rendono le inquadrature impossibili da raccordare. Bloccali sempre in manuale."
+},
+{
+"key": "part03.html#1151",
+"it": "3.10 Codec e Log"
+},
+{
+"key": "part03.html#1152",
+"it": "I bordi del chroma key reggono da 4:2:2 in su. È l’unica ripresa in cui il Log è sconsigliato."
+},
+{
+"key": "part03.html#1153",
+"it": "3.11 Supporti di camera"
+},
+{
+"key": "part03.html#1154",
+"it": "Treppiede → slider → gimbal. Un treppiede con le luci batte un gimbal senza."
+},
+{
+"key": "part03.html#1155",
+"it": "3.13 Smartphone"
+},
+{
+"key": "part03.html#1156",
+"it": "Stabilizza, avvicinati, trova la luce, pulisci l’obiettivo, registra l’audio a parte."
+},
+{
+"key": "part03.html#1157",
+"it": "Domande per riflettere"
+},
+{
+"key": "part03.html#1158",
+"it": "Perché nel video l’otturatore non va usato per controllare l’esposizione?"
+},
+{
+"key": "part03.html#1159",
+"it": "L’otturatore è vincolato alla regola dei 180 gradi e determina la resa del mosso (motion blur): trattalo come un valore fisso."
+},
+{
+"key": "part03.html#1160",
+"it": "Qual è la differenza in stop tra ND8 e ND64?"
+},
+{
+"key": "part03.html#1161",
+"it": "ND8 toglie 3 stop, ND64 6 stop e ND1000 10 stop."
+},
+{
+"key": "part03.html#1162",
+"it": "Perché un codec 4:2:0 è inadatto al chroma key?"
+},
+{
+"key": "part03.html#1163",
+"it": "Con solo 1/4 dei dati colore, i bordi scontornati risultano seghettati."
+},
+{
+"key": "part03.html#1164",
+"it": "Perché girare il Log un po’ più chiaro?"
+},
+{
+"key": "part03.html#1165",
+"it": "Il Log è vulnerabile alla sottoesposizione: girare chiaro e abbassare in post riduce il rumore."
+},
+{
+"key": "part03.html#1166",
+"it": "Quando devi girare in 4K per un output finale FHD, e quando no?"
+},
+{
+"key": "part03.html#1167",
+"it": "Se prevedi reframe, stabilizzazione o una versione verticale, il 4K è d’obbligo. Individua da solo i casi in cui non lo è."
+},
+{
+"key": "part03.html#1168",
+"it": "Consigli dal set"
+},
+{
+"key": "part03.html#1169",
+"it": "Il giorno prima delle riprese conta schede e batterie e fotografale. È la tua prova quando sul set qualcuno dice che manca qualcosa."
+},
+{
+"key": "part03.html#1170",
+"it": "Controlla il fuoco con l’ingrandimento prima che il regista controlli l’inquadratura. Un’immagine fuori fuoco si corregge solo rigirandola."
+},
+{
+"key": "part03.html#1171",
+"it": "Quando noleggi l’attrezzatura, fotografane lo stato alla riconsegna. Il 90% delle contestazioni sui danni si chiude con quella sola foto."
+},
+{
+"key": "part04.html#0",
+"it": "PARTE"
+},
+{
+"key": "part04.html#1",
+"it": "<small>PARTE</small>04"
+},
+{
+"key": "part04.html#2",
+"it": "<b>Che cosa realizzi in questa PARTE</b>"
+},
+{
+"key": "part04.html#3",
+"it": "Un ritratto illuminato con una sola luce chiave"
+},
+{
+"key": "part04.html#4",
+"it": "2 poster: high key · low key"
+},
+{
+"key": "part04.html#5",
+"it": "Una registrazione pulita con 30 secondi di room tone"
+},
+{
+"key": "part04.html#6",
+"it": "Illuminazione e suono"
+},
+{
+"key": "part04.html#7",
+"it": "In che modo luce e suono ci emozionano? Illuminazione e suono sono i due ambiti più sottovalutati, eppure determinano il risultato più di ogni altra cosa. Una finestra, un pannello di polistirolo bianco e un microfono a meno di 30 centimetri dalla bocca fanno sparire metà dei problemi. Questa PARTE spiega non solo come aggiungere luce, ma anche come toglierla."
+},
+{
+"key": "part04.html#8",
+"it": "Foto P-04 Un capo elettricista che monta le luci e un microfonista con microfono su asta · immagine generata"
+},
+{
+"key": "part04.html#9",
+"it": "<b>P-04</b> Un capo elettricista che monta le luci e un microfonista con microfono su asta"
+},
+{
+"key": "part04.html#10",
+"it": "Come usare questo capitolo in aula"
+},
+{
+"key": "part04.html#11",
+"it": "Illuminare una persona con una sola luce chiave e registrare un audio pulito"
+},
+{
+"key": "part04.html#12",
+"it": "<b>Materiali</b>Una luce LED o una finestra, pannello riflettente, bandiera nera, microfono esterno"
+},
+{
+"key": "part04.html#13",
+"it": "<b>10 min</b><i>Apertura</i><span>Confronto tra un’inquadratura senza luci e una con una sola luce chiave</span>"
+},
+{
+"key": "part04.html#14",
+"it": "<b>15 min</b><i>Concetti</i><span>5 proprietà della luce, 6 principi della luce chiave, rapporto di illuminazione</span>"
+},
+{
+"key": "part04.html#15",
+"it": "<b>10 min</b><i>Tavole</i><span>Leggere la forma delle ombre nei 6 schemi di illuminazione del ritratto</span>"
+},
+{
+"key": "part04.html#16",
+"it": "<b>10 min</b><i>Esercizio</i><span>Ottenere luce Rembrandt e split con una sola luce; registrare 30 secondi di room tone</span>"
+},
+{
+"key": "part04.html#17",
+"it": "<b>5 min</b><i>Chiusura</i><span>Regole di sicurezza e materiali per il chroma key della prossima lezione</span>"
+},
+{
+"key": "part04.html#18",
+"it": "<b>Punto di controllo</b>Direzione e densità delle ombre controllate di proposito"
+},
+{
+"key": "part04.html#19",
+"it": "PARTE 04"
+},
+{
+"key": "part04.html#20",
+"it": "Introduzione"
+},
+{
+"key": "part04.html#21",
+"it": "Illuminazione e suono sono i due ambiti più sottovalutati, eppure determinano il risultato più di ogni altra cosa. Lo spettatore guarda fino in fondo immagini un po’ morbide, ma abbandona entro 3 secondi un video dall’audio impastato. Un’intervista con il volto scuro sa di lavoro amatoriale, per quanto buono sia il contenuto."
+},
+{
+"key": "part04.html#22",
+"it": "Per fortuna, in entrambi gli ambiti capire conta più del denaro. Una finestra e un pannello di polistirolo bianco risolvono metà dell’illuminazione di un ritratto, e portare il microfono a meno di 30 centimetri dalla bocca elimina gran parte dei problemi audio. Un’attrezzatura economica vicina batte sempre un’attrezzatura costosa lontana."
+},
+{
+"key": "part04.html#23",
+"it": "Questa parte spiega non solo come aggiungere luce, ma anche come toglierla. Metà dell’illuminazione low key consiste nel rubare luce con un telo nero, e metà di una buona registrazione nello spegnere le fonti di rumore. Progettare la luce non è l’arte di rendere tutto luminoso, ma di decidere dove lasciare il buio."
+},
+{
+"key": "part04.html#24",
+"it": "Contesto 5"
+},
+{
+"key": "part04.html#25",
+"it": "Una storia estetica della luce – dal chiaroscuro alla luce naturale"
+},
+{
+"key": "part04.html#26",
+"it": "Il linguaggio della luce cinematografica è nato sulle tele dei pittori. Nell’Italia di fine Cinquecento, Caravaggio dipingeva scene drammatiche rivelando solo una parte della figura con una luce forte contro l’oscurità. Questo forte contrasto tra luce e ombra si chiama chiaroscuro, e la sua forma estrema tenebrismo. Nell’Olanda del Seicento, Rembrandt amava i ritratti in cui la luce laterale lascia un piccolo triangolo sulla guancia in ombra, e sui set di oggi questa illuminazione porta il suo nome."
+},
+{
+"key": "part04.html#27",
+"it": "Il film espressionista tedesco Il gabinetto del dottor Caligari (1920) trattava luce e buio come un linguaggio della psiche, arrivando a dipingere le ombre direttamente sulle scenografie. Con l’emigrazione dei cineasti tedeschi negli anni Trenta e Quaranta, questa estetica approdò a Hollywood e proseguì nell’illuminazione low key del film noir e nelle ombre delle veneziane che cadono come sbarre di prigione. Nel 1949 il direttore della fotografia John Alton, in Painting with Light, descrisse l’illuminazione come un mezzo espressivo più che una tecnica."
+},
+{
+"key": "part04.html#28",
+"it": "Nello stesso periodo lo studio system fissò lo standard per rendere belle le star. L’illuminazione a tre punti – luce chiave, luce di riempimento e controluce – divenne la formula per staccare la persona dallo sfondo e modellare il volto in modo affidabile, ed è ancora la base di interviste e riprese pubblicitarie. Il Neorealismo italiano e la Nouvelle Vague francese, al contrario, portarono in strada cineprese leggere e pellicole sensibili, girando in luce naturale e scegliendo il realismo anziché la bellezza artificiale."
+},
+{
+"key": "part04.html#29",
+"it": "I direttori della fotografia di oggi costruiscono il proprio linguaggio tra queste due tradizioni. Vittorio Storaro ha dato a colore e luce un significato simbolico, mentre Roger Deakins è noto per un naturalismo che progetta la luce attorno a sorgenti che potrebbero plausibilmente esistere nella scena, come finestre o lampade. Sensori digitali e luci LED ci permettono di girare con meno luce, ma i principi che governano direzione, qualità e contrasto non sono cambiati."
+},
+{
+"key": "part04.html#30",
+"it": "Quando studi l’illuminazione, ricorda che ogni luce ha una motivazione. Da dove viene questa luce? Perché questa direzione? Che cosa prova il pubblico? Gli schemi di illuminazione e le attrezzature del capitolo 4 sono strumenti per rispondere a queste domande."
+},
+{
+"key": "part04.html#31",
+"it": "Per approfondire – John Alton, Painting with Light · Blain Brown, Motion Picture and Video Lighting · E. H. Gombrich, The Story of Art"
+},
+{
+"key": "part04.html#32",
+"it": "<b>PARTE 04</b>Illuminazione e suono"
+},
+{
+"key": "part04.html#33",
+"it": "Cinque proprietà della luce"
+},
+{
+"key": "part04.html#34",
+"it": "Per lavorare con la luce devi prima saperla nominare in cinque parole. Qualità · direzione · colore · intensità · contrasto, più il movimento."
+},
+{
+"key": "part04.html#35",
+"it": "Raddoppia la distanza e la luce si distribuisce su un’area quattro volte più grande"
+},
+{
+"key": "part04.html#36",
+"it": "<b>Palco – sotto un occhio di bue</b><span>Bianco sotto i piedi, buio a due passi. Se l’attore sgarra di mezzo passo, il volto va in ombra</span>"
+},
+{
+"key": "part04.html#37",
+"it": "<b>Strada di notte – i fari</b><span>I primi 10 m sono luminosi, poi la luce cala in fretta. La luce vicina decade bruscamente</span>"
+},
+{
+"key": "part04.html#38",
+"it": "<b>Stanza – luce della finestra</b><span>Diversi stop di differenza tra il posto accanto alla finestra e il fondo della stanza. Metti la persona alla finestra e lo sfondo si scurisce</span>"
+},
+{
+"key": "part04.html#39",
+"it": "Sorgente"
+},
+{
+"key": "part04.html#40",
+"it": "<b>Doppia distanza → 1/4 della luminosità</b><span>Perché la stessa luce copre un’area quadrupla</span><span>Le luci vicine decadono bruscamente, quelle lontane dolcemente</span><b>Come usarla sul set</b><span>Sfondo scuro: luce vicina alla persona (lo sfondo cala in fretta)</span><span>Persona e sfondo uguali: luce lontana, più potenza</span><span>Soggetto in movimento: luce lontana – un passo o due non fanno saltare la luminosità</span>"
+},
+{
+"key": "part04.html#41",
+"it": "<b>Fig. 38</b> La legge dell’inverso del quadrato – raddoppia la distanza e la luce si distribuisce su un’area quadrupla, riducendosi a 1/4. La stessa legge che vedi su palchi · strade · accanto alle finestre."
+},
+{
+"key": "part04.html#42",
+"it": "<b>Termine</b>"
+},
+{
+"key": "part04.html#43",
+"it": "La luce dura proietta ombre dai bordi netti; la luce morbida, ombre sfumate. Più la sorgente è grande e vicina, più la luce è morbida."
+},
+{
+"key": "part04.html#44",
+"it": "<small>Quality</small>Qualità"
+},
+{
+"key": "part04.html#45",
+"it": "Dura: netta e drammatica"
+},
+{
+"key": "part04.html#46",
+"it": "Morbida: delicata e indulgente"
+},
+{
+"key": "part04.html#47",
+"it": "Sorgenti più grandi e vicine sono più morbide"
+},
+{
+"key": "part04.html#48",
+"it": "<small>Direction</small>Direzione"
+},
+{
+"key": "part04.html#49",
+"it": "Frontale · laterale · da dietro · dall’alto · dal basso"
+},
+{
+"key": "part04.html#50",
+"it": "La direzione crea la forma"
+},
+{
+"key": "part04.html#51",
+"it": "La luce laterale rivela meglio la texture"
+},
+{
+"key": "part04.html#52",
+"it": "<small>Color</small>Colore"
+},
+{
+"key": "part04.html#53",
+"it": "Temperatura colore e tinta"
+},
+{
+"key": "part04.html#54",
+"it": "Caldo · freddo definiscono ora del giorno e atmosfera"
+},
+{
+"key": "part04.html#55",
+"it": "Uniforma sempre la luce mista"
+},
+{
+"key": "part04.html#56",
+"it": "<small>Intensity</small>Intensità"
+},
+{
+"key": "part04.html#57",
+"it": "Quantità di luce"
+},
+{
+"key": "part04.html#58",
+"it": "Inversamente proporzionale al quadrato della distanza"
+},
+{
+"key": "part04.html#59",
+"it": "Doppia distanza, 1/4 della luce"
+},
+{
+"key": "part04.html#60",
+"it": "<small>Contrast</small>Contrasto"
+},
+{
+"key": "part04.html#61",
+"it": "Rapporto tra chiaro e scuro"
+},
+{
+"key": "part04.html#62",
+"it": "Il rapporto di illuminazione definisce genere ed emozione"
+},
+{
+"key": "part04.html#63",
+"it": "<small>Movement</small>Movimento"
+},
+{
+"key": "part04.html#64",
+"it": "Se la luce cambia o no"
+},
+{
+"key": "part04.html#65",
+"it": "Tremolio · passaggio · riflessi in movimento danno vita all’inquadratura"
+},
+{
+"key": "part04.html#66",
+"it": "La legge dell’inverso del quadrato in pratica"
+},
+{
+"key": "part04.html#67",
+"it": "Metti la luce vicino alla persona e lo sfondo si scurisce di colpo; mettila lontano e persona e sfondo avranno una luminosità simile. Per far sprofondare lo sfondo nel buio non comprare altre luci: avvicina la sorgente alla persona."
+},
+{
+"key": "part04.html#68",
+"it": "<small>Esercizio</small>4.1"
+},
+{
+"key": "part04.html#69",
+"it": "Compito"
+},
+{
+"key": "part04.html#70",
+"it": "Riprendi lo stesso volto con luce dura e morbida, e con sorgenti alte e basse, poi confronta le proprietà della luce."
+},
+{
+"key": "part04.html#71",
+"it": "Consiglio"
+},
+{
+"key": "part04.html#72",
+"it": "La dimensione della sorgente (rispetto al soggetto) determina la morbidezza."
+},
+{
+"key": "part04.html#73",
+"it": "Valutazione"
+},
+{
+"key": "part04.html#74",
+"it": "Distinguere e spiegare direzione · qualità · colore · intensità · movimento della luce"
+},
+{
+"key": "part04.html#75",
+"it": "Risposta modello"
+},
+{
+"key": "part04.html#76",
+"it": "Disegna uno schema luci accanto a ogni foto per collegare causa ed effetto."
+},
+{
+"key": "part04.html#77",
+"it": "<b>PARTE 04</b>Illuminazione e suono"
+},
+{
+"key": "part04.html#78",
+"it": "L’illuminazione a tre punti e le sue varianti"
+},
+{
+"key": "part04.html#79",
+"it": "Conosci i ruoli delle tre luci – chiave · riempimento · controluce – e la formula per illuminare le persone diventa chiara. Luci di sfondo e luci per gli occhi la ampliano."
+},
+{
+"key": "part04.html#80",
+"it": "Prima la chiave, il riempimento doma l’ombra, il controluce stacca"
+},
+{
+"key": "part04.html#81",
+"it": "Sfondo"
+},
+{
+"key": "part04.html#82",
+"it": "Soggetto"
+},
+{
+"key": "part04.html#83",
+"it": "Camera"
+},
+{
+"key": "part04.html#84",
+"it": "CHIAVE"
+},
+{
+"key": "part04.html#85",
+"it": "45° · poco sopra gli occhi"
+},
+{
+"key": "part04.html#86",
+"it": "RIEMPIMENTO"
+},
+{
+"key": "part04.html#87",
+"it": "Opposta alla chiave · ½–¼ della chiave"
+},
+{
+"key": "part04.html#88",
+"it": "CONTROLUCE"
+},
+{
+"key": "part04.html#89",
+"it": "Alto da dietro, contorna testa·spalle"
+},
+{
+"key": "part04.html#90",
+"it": "<b>Vista dall’alto</b><span>Prima la chiave, il riempimento doma l’ombra, il controluce stacca – la luce è ordine, non quantità</span>"
+},
+{
+"key": "part04.html#91",
+"it": "<b>Sul set – stessa disposizione</b><span>Il softbox a sinistra è la chiave, la lampada piccola a destra il riempimento, quella alta dietro il controluce</span>"
+},
+{
+"key": "part04.html#92",
+"it": "<b>Fig. 39</b> Illuminazione a 3 punti – pianta e allestimento reale. Risultati: Foto di riferimento 4.2A qui sotto (solo chiave → chiave+riempimento → chiave+riempimento+controluce → solo controluce)."
+},
+{
+"key": "part04.html#93",
+"it": "<b>Foto di riferimento 4.2A</b>Immagini generate – riferimento per la messa in scena"
+},
+{
+"key": "part04.html#94",
+"it": "<b>a</b>Solo luce chiave"
+},
+{
+"key": "part04.html#95",
+"it": "<b>b</b>Chiave + riempimento"
+},
+{
+"key": "part04.html#96",
+"it": "<b>c</b>Chiave + riempimento + controluce"
+},
+{
+"key": "part04.html#97",
+"it": "<b>d</b>Solo controluce – resta il contorno, una silhouette"
+},
+{
+"key": "part04.html#98",
+"it": "<small>Luce principale</small>Luce chiave"
+},
+{
+"key": "part04.html#99",
+"it": "La luce più importante; definisce forma e ombre"
+},
+{
+"key": "part04.html#100",
+"it": "Parti da 45° a sinistra o a destra della camera, 45° in alto"
+},
+{
+"key": "part04.html#101",
+"it": "<small>Luce di supporto</small>Luce di riempimento"
+},
+{
+"key": "part04.html#102",
+"it": "Controlla la profondità delle ombre della chiave"
+},
+{
+"key": "part04.html#103",
+"it": "Deve essere più debole della chiave – se uccidi le ombre, sparisce anche la profondità"
+},
+{
+"key": "part04.html#104",
+"it": "<small>Luce posteriore</small>Controluce"
+},
+{
+"key": "part04.html#105",
+"it": "Contorna il soggetto per staccarlo dallo sfondo"
+},
+{
+"key": "part04.html#106",
+"it": "Detto anche luce di taglio · luce per i capelli"
+},
+{
+"key": "part04.html#107",
+"it": "<small>Quarta luce</small>Luce di sfondo"
+},
+{
+"key": "part04.html#108",
+"it": "Illumina lo sfondo a parte per dare profondità"
+},
+{
+"key": "part04.html#109",
+"it": "L’illuminazione a 3 punti, ampliata"
+},
+{
+"key": "part04.html#110",
+"it": "<small>Riflesso negli occhi</small>Luce per gli occhi"
+},
+{
+"key": "part04.html#111",
+"it": "Occhi senza riflesso sembrano spenti"
+},
+{
+"key": "part04.html#112",
+"it": "Basta un pannello riflettente"
+},
+{
+"key": "part04.html#113",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part04.html#114",
+"it": "Il riempimento non deve per forza essere una luce a parte. Spesso basta un pannello riflettente bianco."
+},
+{
+"key": "part04.html#115",
+"it": "Pannelli riflettenti e bounce – riempire senza una luce"
+},
+{
+"key": "part04.html#116",
+"it": "<b>01</b><span>Il colore della superficie è il carattere della luce. Il bianco dà un riempimento morbido e naturale; l’argento, luminoso e duro; l’oro, una luce calda da tramonto; il nero è riempimento negativo, che toglie luce.</span>"
+},
+{
+"key": "part04.html#117",
+"it": "<b>02</b><span>La distanza decide la morbidezza. Più il pannello è vicino al soggetto, più la sorgente è grande e più il bordo dell’ombra è morbido.</span>"
+},
+{
+"key": "part04.html#118",
+"it": "<b>03</b><span>Il riempimento negativo sottrae luce invece di aggiungerla. Un pannello nero sul lato in ombra restituisce contrasto e snellisce il volto.</span>"
+},
+{
+"key": "part04.html#119",
+"it": "<b>04</b><span>Controlla i riflessi negli occhi. Inclina il pannello verso l’alto da sotto la linea degli occhi e nelle pupille compare un piccolo punto di luce.</span>"
+}
+]

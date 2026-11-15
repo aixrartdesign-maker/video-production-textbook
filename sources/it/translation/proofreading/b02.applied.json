@@ -1,0 +1,20 @@
+[
+{
+"key": "part02.html#696",
+"find": "Guida la voce narrante",
+"replace": "Guidato dalla voce narrante",
+"why": "meaning: 'Narration-led' read as 'guides the narration'"
+},
+{
+"key": "feature_storyboard.html#59",
+"find": "la cornice rossa sono i 90° frontali",
+"replace": "la cornice rossa indica i 90° frontali",
+"why": "grammar: subject–verb agreement"
+},
+{
+"key": "feature_storyboard.html#74",
+"find": "Interfaccia: copre 14% in alto · 25% in basso",
+"replace": "L’interfaccia copre il 14% in alto · il 25% in basso",
+"why": "grammar: missing articles, stray colon"
+}
+]

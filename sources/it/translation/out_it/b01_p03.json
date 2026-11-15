@@ -1,0 +1,602 @@
+[
+{
+"key": "prologue.html#106",
+"it": "Durata max"
+},
+{
+"key": "prologue.html#107",
+"it": "Area coperta da UI"
+},
+{
+"key": "prologue.html#108",
+"it": "Note"
+},
+{
+"key": "prologue.html#109",
+"it": "YouTube"
+},
+{
+"key": "prologue.html#110",
+"it": "Di fatto illimitata (15 min di base, 12 h con account verificato)"
+},
+{
+"key": "prologue.html#111",
+"it": "Barra di avanzamento e sottotitoli in basso"
+},
+{
+"key": "prologue.html#112",
+"it": "La miniatura fa da primo taglio"
+},
+{
+"key": "prologue.html#113",
+"it": "Shorts · Reels · TikTok"
+},
+{
+"key": "prologue.html#114",
+"it": "Shorts e Reels 3 min, TikTok 10 min"
+},
+{
+"key": "prologue.html#115",
+"it": "Colonna di pulsanti a destra; nome account · didascalia · musica in basso"
+},
+{
+"key": "prologue.html#116",
+"it": "Info chiave in alto al centro"
+},
+{
+"key": "prologue.html#117",
+"it": "Feed Instagram"
+},
+{
+"key": "prologue.html#118",
+"it": "I video da 60 s in su diventano Reels"
+},
+{
+"key": "prologue.html#119",
+"it": "Nulla di coperto nel feed; occhio ai margini alto e basso"
+},
+{
+"key": "prologue.html#120",
+"it": "Il 4:5 occupa più schermo"
+},
+{
+"key": "prologue.html#121",
+"it": "Carosello"
+},
+{
+"key": "prologue.html#122",
+"it": "Fino a 10 schede"
+},
+{
+"key": "prologue.html#123",
+"it": "Frecce di scorrimento a sinistra e destra"
+},
+{
+"key": "prologue.html#124",
+"it": "Un messaggio per scheda"
+},
+{
+"key": "prologue.html#125",
+"it": "TV"
+},
+{
+"key": "prologue.html#126",
+"it": "Spot da 15 · 30 s; programmi per fascia oraria"
+},
+{
+"key": "prologue.html#127",
+"it": "Area di sicurezza TV (10% esterno)"
+},
+{
+"key": "prologue.html#128",
+"it": "Regole su dimensione · posizione dei sottotitoli"
+},
+{
+"key": "prologue.html#129",
+"it": "Cinema"
+},
+{
+"key": "prologue.html#130",
+"it": "Nessun limite di durata"
+},
+{
+"key": "prologue.html#131",
+"it": "Nessuna; solo le bande del letterbox"
+},
+{
+"key": "prologue.html#132",
+"it": "Consegna in DCP"
+},
+{
+"key": "prologue.html#133",
+"it": "LED verticale"
+},
+{
+"key": "prologue.html#134",
+"it": "15–30 s in loop"
+},
+{
+"key": "prologue.html#135",
+"it": "Il basso può risultare coperto, secondo l’altezza di montaggio"
+},
+{
+"key": "prologue.html#136",
+"it": "Progettalo perché si capisca senza audio"
+},
+{
+"key": "prologue.html#137",
+"it": "<b>Nota</b>"
+},
+{
+"key": "prologue.html#138",
+"it": "Le piattaforme cambiano spesso limiti di durata e disposizione dell’interfaccia. Ricontrolla le specifiche aggiornate della piattaforma subito prima della consegna."
+},
+{
+"key": "prologue.html#139",
+"it": "Il video orizzontale va spesso dalla situazione alla persona; quello verticale parte spesso dalla persona e aggiunge la situazione dopo. Per ricavare entrambi i formati dallo stesso materiale non limitarti a ritagliare: ristruttura."
+},
+{
+"key": "prologue.html#140",
+"it": "Ordine di lettura di questo libro"
+},
+{
+"key": "prologue.html#141",
+"it": "Questo libro mette la pratica prima della teoria. Prima impari a leggere lo schermo nel linguaggio del video, decidi che cosa girare con la pianificazione (storyboard · PPM), poi porti a termine un lavoro attraverso riprese, luci · audio e montaggio, in quest’ordine. Seguono specifiche dei media, casi pubblicitari, piattaforme, industria · carriere e la svolta dell’IA, e infine un ritorno a storia, teoria e media art. Storia e teoria, lette dopo aver realizzato qualcosa con le proprie mani, diventano cose che sai spiegare, non cose da memorizzare."
+},
+{
+"key": "prologue.html#142",
+"it": "<small>Esercizio</small>0.4"
+},
+{
+"key": "prologue.html#143",
+"it": "Compito"
+},
+{
+"key": "prologue.html#144",
+"it": "Fai uno screenshot di un video sulla piattaforma che guardi di più, colora a penna le aree coperte da pulsanti · didascalia · nome account, poi stima e annota quale quota dello schermo resta come area di sicurezza."
+},
+{
+"key": "prologue.html#145",
+"it": "Consiglio"
+},
+{
+"key": "prologue.html#146",
+"it": "Le aree coperte variano secondo dispositivo e versione dell’app. Annota i valori del tuo dispositivo e potrai usarli subito nel prossimo progetto."
+},
+{
+"key": "part02.html#0",
+"it": "PARTE"
+},
+{
+"key": "part02.html#1",
+"it": "<small>PARTE</small>02"
+},
+{
+"key": "part02.html#2",
+"it": "<b>Che cosa realizzi in questa PARTE</b>"
+},
+{
+"key": "part02.html#3",
+"it": "Foglio provini di una persona in 8 inquadrature"
+},
+{
+"key": "part02.html#4",
+"it": "Scena di dialogo montata rispettando la regola dei 180°"
+},
+{
+"key": "part02.html#5",
+"it": "Scheda di analisi dei tagli di uno spot di 30 secondi"
+},
+{
+"key": "part02.html#6",
+"it": "Il linguaggio del video"
+},
+{
+"key": "part02.html#7",
+"it": "Nel momento in cui accendiamo la camera decidiamo, tutto insieme, dove metterci, che cosa includere e quanto, e per quanto tempo mostrarlo. A distinguere un buon video da uno cattivo non è l’attrezzatura, ma la precisione di queste decisioni. In questa PARTE impari a memoria, attraverso le immagini, la grammatica di quelle decisioni."
+},
+{
+"key": "part02.html#8",
+"it": "Foto P-02 Un regista inquadra con le mani – inquadrare è la prima decisione · immagine generativa"
+},
+{
+"key": "part02.html#9",
+"it": "<b>P-02</b> Un regista inquadra con le mani – inquadrare è la prima decisione"
+},
+{
+"key": "part02.html#10",
+"it": "Come usare questo capitolo in aula"
+},
+{
+"key": "part02.html#11",
+"it": "Nominare dimensioni e angolazioni con le sigle e sceglierle in base all’intenzione"
+},
+{
+"key": "part02.html#12",
+"it": "<b>Materiali</b>Smartphone, treppiede, stampa della tavola delle dimensioni d’inquadratura"
+},
+{
+"key": "part02.html#13",
+"it": "<b>10 min</b><i>Avvio</i><span>Mostrare la stessa scena in due dimensioni a confronto</span>"
+},
+{
+"key": "part02.html#14",
+"it": "<b>15 min</b><i>Concetti</i><span>8 tipi d’inquadratura, 5 livelli d’angolazione, 3 regole dello spazio nel quadro</span>"
+},
+{
+"key": "part02.html#15",
+"it": "<b>10 min</b><i>Tavole</i><span>Dare numeri all’inquadratura con il diagramma delle linee di taglio sulle proporzioni del corpo</span>"
+},
+{
+"key": "part02.html#16",
+"it": "<b>10 min</b><i>Esercizio</i><span>Gruppi di 2 studenti: girare 8 dimensioni, compilare una tabella di confronto</span>"
+},
+{
+"key": "part02.html#17",
+"it": "<b>5 min</b><i>Chiusura</i><span>Ribadire la regola: mai tagliare su un’articolazione</span>"
+},
+{
+"key": "part02.html#18",
+"it": "<b>Punto di controllo</b>Il girato corrisponde esattamente alle 8 sigle"
+},
+{
+"key": "part02.html#19",
+"it": "PARTE 02"
+},
+{
+"key": "part02.html#20",
+"it": "Introduzione"
+},
+{
+"key": "part02.html#21",
+"it": "Nel momento in cui accendiamo la camera prendiamo tre decisioni insieme: dove metterci, che cosa includere e quanto, e per quanto tempo mostrarlo. Insieme, queste decisioni diventano significato. A distinguere un buon video da uno cattivo, di solito, non è l’attrezzatura ma la precisione di queste decisioni."
+},
+{
+"key": "part02.html#22",
+"it": "Il linguaggio del video funziona come una grammatica. Un primo piano chiede emozione; un campo lungo spiega la situazione. Un’angolazione dal basso ingrandisce il soggetto; una dall’alto lo rimpicciolisce. Non è gusto, ma una convenzione che il pubblico ha imparato in 100 anni. Se conosci le convenzioni, trasmetti informazioni senza spiegare; e una volta che le conosci puoi anche infrangerle apposta. Se infrangi regole che non conosci, sembra solo un errore."
+},
+{
+"key": "part02.html#23",
+"it": "Tutto ciò che trovi in questa parte si può provare oggi stesso, anche senza attrezzatura. Riprendere una persona in otto dimensioni con un solo smartphone, e riprendere la stessa conversazione da due angolazioni per confrontarle: sono questi i veri obiettivi del capitolo. Sapere per aver letto e sapere per aver girato sono due tipi di conoscenza del tutto diversi."
+},
+{
+"key": "part02.html#24",
+"it": "Contesto 2"
+},
+{
+"key": "part02.html#25",
+"it": "Com’è nata la grammatica del cinema"
+},
+{
+"key": "part02.html#26",
+"it": "Inquadrature, tagli e angolazioni non erano regole fissate fin dall’inizio. Le convenzioni che i primi cineasti scoprirono una a una, osservando le reazioni del pubblico, si sono accumulate fino a formare la grammatica del cinema di oggi."
+},
+{
+"key": "part02.html#27",
+"it": "Le prime proiezioni dei fratelli Lumière, nel 1895, erano per lo più film di una sola inquadratura a camera fissa. La camera restava in un punto, come una poltrona a teatro. Negli stessi anni Georges Méliès usò il trucco di fermare la camera e farla ripartire per mostrare che il cinema poteva non solo registrare la realtà, ma crearne una nuova. Documento e fantasia: questi due rami vivono ancora oggi come documentario e VFX."
+},
+{
+"key": "part02.html#28",
+"it": "Il racconto costruito unendo i tagli si sviluppò in fretta nei primi anni del Novecento. The Great Train Robbery (1903) di Edwin Porter unì eventi in luoghi diversi in un unico inseguimento. D. W. Griffith usò in modo sistematico il montaggio alternato, i primi piani che intensificano l’emozione e un ritmo che varia la durata dei tagli secondo l’andamento dei fatti. Ma il suo The Birth of a Nation (1915) è tuttora duramente criticato per i contenuti razzisti. L’innovazione nella forma non garantisce la legittimità del contenuto."
+},
+{
+"key": "part02.html#29",
+"it": "I cineasti sovietici diedero al montaggio un peso ancora maggiore. Lev Kulešov presentò un esperimento in cui lo stesso volto inespressivo di un attore, accostato a scene diverse, fa leggere al pubblico emozioni del tutto diverse. Sergej Ejzenštejn sostenne che lo scontro di due tagli produce un significato nuovo, assente in entrambi, e distinse il montaggio in metrico · ritmico · tonale · intellettuale. Gli spot di oggi che alternano rapidamente un prodotto a immagini simboliche poggiano su questa tradizione."
+},
+{
+"key": "part02.html#30",
+"it": "Il sistema degli studios di Hollywood, al contrario, scelse un montaggio che non si nota. Furono messe a punto regole che impediscono al pubblico di confondere spazio e tempo, come la regola dei 180°, il raccordo di sguardo e il raccordo sul movimento, e David Bordwell le riassunse come stile classico hollywoodiano. La maggior parte delle regole di montaggio in continuità di questa PARTE viene da qui."
+},
+{
+"key": "part02.html#31",
+"it": "Nel 1960 Breathless di Jean-Luc Godard infranse deliberatamente queste regole con jump cut che saltano il tempo dentro la stessa inquadratura. Il jump cut, oggi così comune su YouTube, è stato una grammatica rivoluzionaria. La grammatica del cinema non è un codice immutabile, ma una lingua che pubblico e autori hanno concordato insieme, riscritta un po’ a ogni nuova piattaforma."
+},
+{
+"key": "part02.html#32",
+"it": "Per approfondire – David Bordwell · Kristin Thompson, Film Art; Sergej Ejzenštejn, Film Form; Louis Giannetti, Understanding Movies"
+},
+{
+"key": "part02.html#33",
+"it": "<b>PARTE 02</b>Il linguaggio del video"
+},
+{
+"key": "part02.html#34",
+"it": "Inquadratura, scena, sequenza: le unità del video"
+},
+{
+"key": "part02.html#35",
+"it": "Il video ha una gerarchia, come le frasi. Se in una riunione sullo storyboard confondi scena e taglio, salta l’intero piano di lavorazione."
+},
+{
+"key": "part02.html#36",
+"it": "<b>Fig. 9</b> Quadri per formato – le stesse due persone, spazio vuoto diverso"
+},
+{
+"key": "part02.html#37",
+"it": "<b>Termine</b>"
+},
+{
+"key": "part02.html#38",
+"it": "Per convenzione si dice inquadratura (shot) in ripresa e taglio (cut) in montaggio."
+},
+{
+"key": "part02.html#39",
+"it": "<small>Frame</small>Fotogramma"
+},
+{
+"key": "part02.html#40",
+"it": "Una singola immagine fissa; l’unità minima di montaggio e timecode"
+},
+{
+"key": "part02.html#41",
+"it": "A 24 fps, 1 secondo = 24 fotogrammi"
+},
+{
+"key": "part02.html#42",
+"it": "<small>Shot</small>Inquadratura"
+},
+{
+"key": "part02.html#43",
+"it": "Girato registrato senza interruzioni da quando la camera parte a quando si ferma"
+},
+{
+"key": "part02.html#44",
+"it": "<small>Scene</small>Scena"
+},
+{
+"key": "part02.html#45",
+"it": "Eventi raggruppati per stesso luogo · stesso tempo"
+},
+{
+"key": "part02.html#46",
+"it": "Un cambio di luogo o di tempo apre una nuova scena; è l’unità di base della sceneggiatura"
+},
+{
+"key": "part02.html#47",
+"it": "<small>Sequence</small>Sequenza"
+},
+{
+"key": "part02.html#48",
+"it": "Un gruppo di scene orientate a un unico scopo"
+},
+{
+"key": "part02.html#49",
+"it": "Un intero inseguimento, una preparazione o un flashback"
+},
+{
+"key": "part02.html#50",
+"it": "<small>Take</small>Ciak (take)"
+},
+{
+"key": "part02.html#51",
+"it": "Ogni tentativo ripetuto della stessa inquadratura"
+},
+{
+"key": "part02.html#52",
+"it": "Il ciak 3 è il terzo tentativo"
+},
+{
+"key": "part02.html#53",
+"it": "<small>Coverage</small>Copertura"
+},
+{
+"key": "part02.html#54",
+"it": "Quanto una scena è coperta con dimensioni e angolazioni diverse"
+},
+{
+"key": "part02.html#55",
+"it": "Se è scarsa, in montaggio non restano alternative"
+},
+{
+"key": "part02.html#56",
+"it": "Esempio di notazione sul set"
+},
+{
+"key": "part02.html#57",
+"it": "S#12 / C#04 / T3 significa scena 12, taglio 4, ciak 3. Già solo scriverlo correttamente sulla lavagnetta dimezza i tempi di montaggio."
+},
+{
+"key": "part02.html#58",
+"it": "<small>Esercizio</small>1.1"
+},
+{
+"key": "part02.html#59",
+"it": "Compito"
+},
+{
+"key": "part02.html#60",
+"it": "Scegli una sequenza di un film che ti piace e scomponila in una tabella: inquadrature · scene · sequenza."
+},
+{
+"key": "part02.html#61",
+"it": "Consiglio"
+},
+{
+"key": "part02.html#62",
+"it": "Le inquadrature si dividono dove cambia il taglio; le scene, dove cambiano tempo o luogo."
+},
+{
+"key": "part02.html#63",
+"it": "Valutazione"
+},
+{
+"key": "part02.html#64",
+"it": "Divisione corretta in unità; durata di ogni inquadratura annotata"
+},
+{
+"key": "part02.html#65",
+"it": "Risposta modello"
+},
+{
+"key": "part02.html#66",
+"it": "Riporta le durate delle inquadrature in un grafico a barre per rendere visibile il ritmo della scena."
+},
+{
+"key": "part02.html#67",
+"it": "<b>PARTE 02</b>Il linguaggio del video"
+},
+{
+"key": "part02.html#68",
+"it": "8 tipi d’inquadratura per distanza"
+},
+{
+"key": "part02.html#69",
+"it": "Basata sulla distanza tra camera e soggetto, è la prima classificazione da memorizzare. Che cosa mostri, e quanto, decide che cosa prova il pubblico."
+},
+{
+"key": "part02.html#70",
+"it": "<b>Foto di riferimento 1.2A</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part02.html#71",
+"it": "<b>Campo lunghissimo ELS</b>Protagonista è lo spazio, la persona un punto – aperture e presentazione del luogo; isolamento e scala"
+},
+{
+"key": "part02.html#72",
+"it": "<b>Campo lungo LS</b>Figura intera e ambiente – ambientare la scena; spiegare la situazione, oggettività"
+},
+{
+"key": "part02.html#73",
+"it": "<b>Figura intera FS</b>Dalla testa ai piedi – per seguire un’azione intera: danza, movimento, costume"
+},
+{
+"key": "part02.html#74",
+"it": "<b>Foto di riferimento 1.2B</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part02.html#75",
+"it": "<b>Piano americano NS</b>Dalle ginocchia in su – spostamenti durante il dialogo; equilibrio tra azione ed espressione"
+},
+{
+"key": "part02.html#76",
+"it": "<b>Piano medio MS</b>Dalla vita in su – lo standard per interviste e dialoghi; neutro e quotidiano"
+},
+{
+"key": "part02.html#77",
+"it": "<b>Mezzo primo piano BS</b>Dal petto in su – notiziari e spot con testimonianze; fiducia e calore"
+},
+{
+"key": "part02.html#78",
+"it": "<b>Foto di riferimento 1.2C</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part02.html#79",
+"it": "<b>Primo piano CU</b>Tutto il volto – inquadrature di reazione ed espressioni decisive; emozione e concentrazione"
+},
+{
+"key": "part02.html#80",
+"it": "<b>Primissimo piano ECU</b>Occhi, bocca, parte di un prodotto – dove si dimostra la texture; tensione ed enfasi"
+},
+{
+"key": "part02.html#81",
+"it": "<b>Inserto</b>Mani e oggetti – un taglio d’appoggio che salva i raccordi difficili"
+},
+{
+"key": "part02.html#82",
+"it": "<b>Fig. 10</b> 8 tipi d’inquadratura per distanza camera-soggetto"
+},
+{
+"key": "part02.html#83",
+"it": "<b>Fig. 11</b> Linee di taglio delle inquadrature sulle proporzioni del corpo"
+},
+{
+"key": "part02.html#84",
+"it": "<b>G-01</b> 8 dimensioni d’inquadratura – stessa persona, stesso luogo, cambia solo la distanza"
+},
+{
+"key": "part02.html#85",
+"it": "Sigla"
+},
+{
+"key": "part02.html#86",
+"it": "Nome"
+},
+{
+"key": "part02.html#87",
+"it": "Nel quadro"
+},
+{
+"key": "part02.html#88",
+"it": "Effetto"
+},
+{
+"key": "part02.html#89",
+"it": "Uso principale"
+},
+{
+"key": "part02.html#90",
+"it": "ELS"
+},
+{
+"key": "part02.html#91",
+"it": "Campo lunghissimo"
+},
+{
+"key": "part02.html#92",
+"it": "Tutto lo spazio; la persona è un punto"
+},
+{
+"key": "part02.html#93",
+"it": "Isolamento, scala, avvio del racconto"
+},
+{
+"key": "part02.html#94",
+"it": "Aperture, presentazione del luogo"
+},
+{
+"key": "part02.html#95",
+"it": "LS"
+},
+{
+"key": "part02.html#96",
+"it": "Campo lungo"
+},
+{
+"key": "part02.html#97",
+"it": "Figura intera, molto sfondo"
+},
+{
+"key": "part02.html#98",
+"it": "Contesto, oggettività"
+},
+{
+"key": "part02.html#99",
+"it": "Ambientare la scena"
+},
+{
+"key": "part02.html#100",
+"it": "FS"
+},
+{
+"key": "part02.html#101",
+"it": "Figura intera"
+},
+{
+"key": "part02.html#102",
+"it": "Dalla testa ai piedi"
+},
+{
+"key": "part02.html#103",
+"it": "Osservare l’azione intera"
+},
+{
+"key": "part02.html#104",
+"it": "Danza, movimento, costume"
+},
+{
+"key": "part02.html#105",
+"it": "NS"
+},
+{
+"key": "part02.html#106",
+"it": "Piano americano"
+},
+{
+"key": "part02.html#107",
+"it": "Sopra le ginocchia"
+},
+{
+"key": "part02.html#108",
+"it": "Equilibrio tra azione ed espressione"
+}
+]

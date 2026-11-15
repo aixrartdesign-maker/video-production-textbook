@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#600",
+"it": "Gain"
+},
+{
+"key": "part05.html#601",
+"it": "Alte luci"
+},
+{
+"key": "part05.html#602",
+"it": "Le alte luci si bruciano facilmente"
+},
+{
+"key": "part05.html#603",
+"it": "Curve"
+},
+{
+"key": "part05.html#604",
+"it": "Controllo preciso per fasce tonali"
+},
+{
+"key": "part05.html#605",
+"it": "La curva a S è l’aumento di contrasto di base"
+},
+{
+"key": "part05.html#606",
+"it": "Secondarie HSL"
+},
+{
+"key": "part05.html#607",
+"it": "Regola solo i colori selezionati"
+},
+{
+"key": "part05.html#608",
+"it": "Essenziale per correggere la pelle"
+},
+{
+"key": "part05.html#609",
+"it": "Ruote colore"
+},
+{
+"key": "part05.html#610",
+"it": "Dominanti per fascia tonale"
+},
+{
+"key": "part05.html#611",
+"it": "Ombre fredde, alte luci calde: il look di base"
+},
+{
+"key": "part05.html#612",
+"it": "<b>G-17</b> Color grading – originale in Log e due look · immagine generata con GPT, a solo scopo illustrativo"
+},
+{
+"key": "part05.html#613",
+"it": "<small>Esercizio</small>5.8"
+},
+{
+"key": "part05.html#614",
+"it": "Compito"
+},
+{
+"key": "part05.html#615",
+"it": "Crea due look diversi per lo stesso girato e spiega l’emozione di ciascuno."
+},
+{
+"key": "part05.html#616",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#617",
+"it": "Completa la correzione primaria (esposizione, bilanciamento del bianco) prima di passare alle secondarie. Tieni d’occhio gli scope."
+},
+{
+"key": "part05.html#618",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#619",
+"it": "Toni della pelle preservati, look coerente"
+},
+{
+"key": "part05.html#620",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#621",
+"it": "Adegua il look a un fotogramma di riferimento e allega le schermate degli scope."
+},
+{
+"key": "part05.html#622",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#623",
+"it": "Strumenti di montaggio mobile e automatico"
+},
+{
+"key": "part05.html#624",
+"it": "Il risultato automatico è una bozza. Consegnalo senza controllarlo e perdi la fiducia in un colpo solo."
+},
+{
+"key": "part05.html#625",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part05.html#626",
+"it": "Per l’uso commerciale, verifica i limiti di licenza di template e musiche, e non clonare mai la voce di una persona reale senza permesso."
+},
+{
+"key": "part05.html#627",
+"it": "<small>Video brevi</small>CapCut"
+},
+{
+"key": "part05.html#628",
+"it": "Template, sottotitoli automatici, sync sul ritmo, rimozione sfondo"
+},
+{
+"key": "part05.html#629",
+"it": "Efficiente per video brevi in quantità"
+},
+{
+"key": "part05.html#630",
+"it": "Uso commerciale: verifica le licenze di template · musiche"
+},
+{
+"key": "part05.html#631",
+"it": "<small>Sottotitoli</small>Vrew"
+},
+{
+"key": "part05.html#632",
+"it": "Sottotitoli automatici dal parlato, rimozione dei silenzi in blocco"
+},
+{
+"key": "part05.html#633",
+"it": "Primo montaggio grezzo di lezioni, interviste, video esplicativi"
+},
+{
+"key": "part05.html#634",
+"it": "Nomi propri: li controlla una persona"
+},
+{
+"key": "part05.html#635",
+"it": "<small>Voce</small>Typecast"
+},
+{
+"key": "part05.html#636",
+"it": "Sintesi vocale da testo"
+},
+{
+"key": "part05.html#637",
+"it": "Bozze di narrazione, doppiaggio multilingue"
+},
+{
+"key": "part05.html#638",
+"it": "Vietato clonare voci reali senza autorizzazione"
+},
+{
+"key": "part05.html#639",
+"it": "<small>Generativo</small>Runway e simili"
+},
+{
+"key": "part05.html#640",
+"it": "Video da testo e immagini, rimozione dello sfondo"
+},
+{
+"key": "part05.html#641",
+"it": "Sostituti per inserti impossibili da girare"
+},
+{
+"key": "part05.html#642",
+"it": "<small>3D</small>Meshy"
+},
+{
+"key": "part05.html#643",
+"it": "Trasforma immagini in modelli 3D"
+},
+{
+"key": "part05.html#644",
+"it": "Prototipi di oggetti · personaggi, anteprime di rigging e animazione"
+},
+{
+"key": "part05.html#645",
+"it": "<small>Immagine</small>Photoroom e simili"
+},
+{
+"key": "part05.html#646",
+"it": "Rimozione automatica dello sfondo, ritocco"
+},
+{
+"key": "part05.html#647",
+"it": "Pulizia delle foto di prodotto"
+},
+{
+"key": "part05.html#648",
+"it": "Regole per gli strumenti automatici"
+},
+{
+"key": "part05.html#649",
+"it": "Nomi propri nei sottotitoli automatici, ritmo dei tagli automatici, dita e scritte nei video generati: li controlla sempre una persona."
+},
+{
+"key": "part05.html#650",
+"it": "<small>Esercizio</small>5.9"
+},
+{
+"key": "part05.html#651",
+"it": "Compito"
+},
+{
+"key": "part05.html#652",
+"it": "Con un’app di montaggio mobile e l’automazione, trasforma lo stesso girato in un video breve in meno di 15 minuti."
+},
+{
+"key": "part05.html#653",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#654",
+"it": "Rileggi sempre i sottotitoli automatici."
+},
+{
+"key": "part05.html#655",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#656",
+"it": "Equilibrio tra velocità e qualità, correzioni al risultato automatico"
+},
+{
+"key": "part05.html#657",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#658",
+"it": "Elenca ciò che una persona ha corretto nel montaggio automatico."
+},
+{
+"key": "part05.html#659",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#660",
+"it": "Specifiche di esportazione e consegna"
+},
+{
+"key": "part05.html#661",
+"it": "I codec cambiano secondo lo scopo, e i problemi di esportazione più comuni hanno cause note."
+},
+{
+"key": "part05.html#662",
+"it": "<span class=\"ph-id\">P05-DELIVER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Consegna e backup</b>Due SSD portatili etichettati, una checklist su carta, un portatile con la barra di avanzamento dell’esportazione</span>"
+},
+{
+"key": "part05.html#663",
+"it": "<b>Nota</b>Consegna e backup – conserva i file esportati su due supporti distinti e spunta le specifiche su una checklist"
+},
+{
+"key": "part05.html#664",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part05.html#665",
+"it": "Prima di esportare, metti in tabella risoluzione, bitrate, loudness (LUFS) e regole per i nomi dei file."
+},
+{
+"key": "part05.html#666",
+"it": "Specifiche di esportazione per scopo"
+},
+{
+"key": "part05.html#667",
+"it": "Scopo"
+},
+{
+"key": "part05.html#668",
+"it": "Codec / formato"
+},
+{
+"key": "part05.html#669",
+"it": "Impostazioni chiave"
+},
+{
+"key": "part05.html#670",
+"it": "Verso il software di montaggio"
+},
+{
+"key": "part05.html#671",
+"it": "ProRes 422 HQ"
+},
+{
+"key": "part05.html#672",
+"it": "Standard quando l’alfa non serve"
+},
+{
+"key": "part05.html#673",
+"it": "Intermedio con alfa"
+},
+{
+"key": "part05.html#674",
+"it": "ProRes 4444 o sequenza PNG"
+},
+{
+"key": "part05.html#675",
+"it": "Attiva il canale alfa"
+},
+{
+"key": "part05.html#676",
+"it": "Caricamento online"
+},
+{
+"key": "part05.html#677",
+"it": "H.264 mp4"
+},
+{
+"key": "part05.html#678",
+"it": "40–60 Mbps per il 4K"
+},
+{
+"key": "part05.html#679",
+"it": "Proiezione, mostra"
+},
+{
+"key": "part05.html#680",
+"it": "ProRes 422 HQ o non compresso"
+},
+{
+"key": "part05.html#681",
+"it": "Controlla inizio e fine del loop"
+},
+{
+"key": "part05.html#682",
+"it": "LED per esterni"
+},
+{
+"key": "part05.html#683",
+"it": "Specifiche del gestore dello schermo"
+},
+{
+"key": "part05.html#684",
+"it": "Conferma in anticipo risoluzione e frame rate"
+},
+{
+"key": "part05.html#685",
+"it": "Archivio"
+},
+{
+"key": "part05.html#686",
+"it": "Mantieni il codec originale"
+},
+{
+"key": "part05.html#687",
+"it": "Tieni i file di progetto con i sorgenti"
+},
+{
+"key": "part05.html#688",
+"it": "Soluzioni per sintomo"
+},
+{
+"key": "part05.html#689",
+"it": "Sintomo"
+},
+{
+"key": "part05.html#690",
+"it": "Causa"
+},
+{
+"key": "part05.html#691",
+"it": "Soluzione"
+},
+{
+"key": "part05.html#692",
+"it": "Rendering molto lento"
+},
+{
+"key": "part05.html#693",
+"it": "Sorgenti in alta risoluzione, molti effetti"
+},
+{
+"key": "part05.html#694",
+"it": "Proxy, pre-render, meno effetti"
+},
+{
+"key": "part05.html#695",
+"it": "Bordi del testo irregolari"
+},
+{
+"key": "part05.html#696",
+"it": "Rasterizzazione continua disattivata"
+},
+{
+"key": "part05.html#697",
+"it": "Attiva quell’opzione"
+},
+{
+"key": "part05.html#698",
+"it": "I colori appaiono diversi"
+},
+{
+"key": "part05.html#699",
+"it": "Gestione colore non allineata"
+},
+{
+"key": "part05.html#700",
+"it": "Blocca lo spazio colore del progetto"
+},
+{
+"key": "part05.html#701",
+"it": "Il compositing trema"
+},
+{
+"key": "part05.html#702",
+"it": "Dati di tracking instabili"
+},
+{
+"key": "part05.html#703",
+"it": "Rifai il tracking, applica lo smoothing"
+},
+{
+"key": "part05.html#704",
+"it": "Il file non si apre"
+},
+{
+"key": "part05.html#705",
+"it": "Codec non installato"
+},
+{
+"key": "part05.html#706",
+"it": "Riesporta in un codec diffuso"
+},
+{
+"key": "part05.html#707",
+"it": "Audio troppo basso"
+},
+{
+"key": "part05.html#708",
+"it": "Loudness non regolato"
+},
+{
+"key": "part05.html#709",
+"it": "Normalizza al loudness della piattaforma"
+},
+{
+"key": "part05.html#710",
+"it": "<small>Esercizio</small>5.10"
+},
+{
+"key": "part05.html#711",
+"it": "Compito"
+},
+{
+"key": "part05.html#712",
+"it": "Esporta lo stesso video in tre specifiche: YouTube, Instagram Reels e proiezione in sala."
+},
+{
+"key": "part05.html#713",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#714",
+"it": "Metti prima in tabella risoluzione, bitrate, loudness (LUFS) e regole per i nomi dei file."
+},
+{
+"key": "part05.html#715",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#716",
+"it": "Rispetto delle specifiche, gestione dei file"
+},
+{
+"key": "part05.html#717",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#718",
+"it": "Prepara una tua checklist di consegna e allega i risultati di ogni esportazione."
+},
+{
+"key": "part05.html#719",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#720",
+"it": "Espressioni e automazione"
+},
+{
+"key": "part05.html#721",
+"it": "After Effects avanzato. Le espressioni calcolano i valori senza keyframe. Non serve conoscere la sintassi: imparane solo cinque e i tempi di lavoro calano di netto."
+},
+{
+"key": "part05.html#722",
+"it": "<b>Fig. 53</b> 5 curve di easing"
+},
+{
+"key": "part05.html#723",
+"it": "Espressione"
+},
+{
+"key": "part05.html#724",
+"it": "Ruolo"
+},
+{
+"key": "part05.html#725",
+"it": "Esempi"
+},
+{
+"key": "part05.html#726",
+"it": "wiggle(freq, ampiezza)"
+},
+{
+"key": "part05.html#727",
+"it": "Tremolio casuale"
+},
+{
+"key": "part05.html#728",
+"it": "Effetto macchina a mano, glitch, tremolii"
+},
+{
+"key": "part05.html#729",
+"it": "loopOut('cycle')"
+},
+{
+"key": "part05.html#730",
+"it": "Ripete all’infinito un tratto con keyframe"
+},
+{
+"key": "part05.html#731",
+"it": "Loghi rotanti, sfondi in loop"
+},
+{
+"key": "part05.html#732",
+"it": "time * valore"
+},
+{
+"key": "part05.html#733",
+"it": "Il valore cambia col tempo"
+},
+{
+"key": "part05.html#734",
+"it": "Rotazione costante, scorrimento"
+},
+{
+"key": "part05.html#735",
+"it": "linear(t, tMin, tMax, val1, val2)"
+},
+{
+"key": "part05.html#736",
+"it": "Mappa la variazione di un valore su un altro"
+},
+{
+"key": "part05.html#737",
+"it": "Un solo cursore guida più proprietà"
+},
+{
+"key": "part05.html#738",
+"it": "Imparentamento (pick whip)"
+},
+{
+"key": "part05.html#739",
+"it": "Riprende il valore di un’altra proprietà"
+},
+{
+"key": "part05.html#740",
+"it": "Controlla molti elementi come uno solo"
+},
+{
+"key": "part05.html#741",
+"it": "Abitudini che velocizzano il lavoro"
+},
+{
+"key": "part05.html#742",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part05.html#743",
+"it": "Precomponi liberamente, ma da 3 livelli di annidamento in su la gestione si complica."
+},
+{
+"key": "part05.html#744",
+"it": "Salva come preset di animazione le impostazioni che usi spesso e riutilizzale."
+},
+{
+"key": "part05.html#745",
+"it": "Trasforma un oggetto nullo in un controller, così un solo cursore regola più valori."
+},
+{
+"key": "part05.html#746",
+"it": "Dai sempre un nome ai livelli. Nemmeno tu, il giorno dopo, capirai 40 livelli senza nome."
+},
+{
+"key": "part05.html#747",
+"it": "Ordina i livelli con le etichette colorate. Testo, sfondo, effetti, camera: a ognuno un colore diverso."
+},
+{
+"key": "part05.html#748",
+"it": "Usa gli strumenti di pulizia del progetto per eliminare regolarmente il girato non usato."
+},
+{
+"key": "part05.html#749",
+"it": "Collegare Premiere e After Effects"
+}
+]

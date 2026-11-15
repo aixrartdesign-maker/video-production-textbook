@@ -1,0 +1,12 @@
+[
+{"key": "part12.html#226", "find": "<b>Registrazioni</b>", "replace": "<b>Documentazione</b>", "why": "meaning: 'Records' = documentation, not recordings"},
+{"key": "part12.html#288", "find": "produce immagini che ci somigliano", "replace": "produce immagini che sembrano simili", "why": "meaning: 'ci somigliano' reads as 'resemble us'"},
+{"key": "part12.html#306", "find": "La forma deriva a poco a poco", "replace": "La forma cambia a poco a poco", "why": "other: 'derivare' does not mean drift here"},
+{"key": "part12.html#464", "find": "temono: l’IA riduce", "replace": "temono «l’IA riduce", "why": "typography: missing quotation marks from source"},
+{"key": "part12.html#465", "find": "occasioni di crescita (FKI)", "replace": "occasioni di crescita» (FKI)", "why": "typography: missing closing quotation mark"},
+{"key": "part12.html#557", "find": "(aperta a 06/2025)", "replace": "(aperta a giugno 2025)", "why": "other: unnatural date phrasing"},
+{"key": "part12.html#583", "find": "le offerte arrivano da te", "replace": "le offerte arrivano a te", "why": "grammar: wrong preposition, ambiguous"},
+{"key": "part12.html#588", "find": "<span>Sommario: ruolo", "replace": "<span>Titolo: ruolo", "why": "meaning: Headline = Titolo on LinkedIn (Sommario = Summary)"},
+{"key": "part12.html#619", "find": "di cui sai rispondere", "replace": "di cui puoi rispondere", "why": "meaning: 'answer for' = rispondere di, not 'know how to answer'"},
+{"key": "part12.html#844", "find": "dichiarazione · registrazioni.", "replace": "dichiarazione · documentazione.", "why": "term: consistent with 11.4 'Documentazione'"}
+]

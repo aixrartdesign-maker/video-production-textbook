@@ -1,0 +1,622 @@
+[
+{
+"key": "part08.html#340",
+"it": "Compito"
+},
+{
+"key": "part08.html#341",
+"it": "Per un compito, raccogli 20 riferimenti, riducili a 5 e componi una bacheca di riferimenti."
+},
+{
+"key": "part08.html#342",
+"it": "Consiglio"
+},
+{
+"key": "part08.html#343",
+"it": "Per ogni riferimento, scrivi in una parola che cosa ne prendi (colore, composizione, ritmo)."
+},
+{
+"key": "part08.html#344",
+"it": "Valutazione"
+},
+{
+"key": "part08.html#345",
+"it": "Motivazione della scelta, citazione delle fonti"
+},
+{
+"key": "part08.html#346",
+"it": "Risposta modello"
+},
+{
+"key": "part08.html#347",
+"it": "Individua che cosa accomuna i riferimenti e in che cosa differiscono, e ricavane la tua direzione."
+},
+{
+"key": "part08.html#348",
+"it": "Contesto 14"
+},
+{
+"key": "part08.html#349",
+"it": "La logica del diritto d’autore"
+},
+{
+"key": "part08.html#350",
+"it": "Prendere in prestito non è creare. Il diritto d’autore non è una regola per bloccare la creazione, ma un contratto sociale per farla continuare. Tutela l’espressione, non le idee: è la dicotomia idea-espressione. L’idea di «una storia che riavvolge il tempo» è aperta a tutti, ma i dialoghi, la costruzione delle scene e il ritmo di montaggio di un’opera specifica appartengono a quell’opera. Usare un riferimento significa impararne i principi, non copiarne le inquadrature."
+},
+{
+"key": "part08.html#351",
+"it": "La legge coreana sul diritto d’autore distingue i diritti patrimoniali dai diritti morali. I diritti patrimoniali comprendono riproduzione, esecuzione, trasmissione al pubblico, distribuzione, creazione di opere derivate e altro, e si possono cedere. I diritti morali, come il diritto di paternità e il diritto all’integrità dell’opera, restano all’autore e non si possono cedere. Un contratto di commissione può dire «tutti i diritti sono ceduti», ma i diritti morali restano; nella pratica è quindi comune un accordo separato di rinuncia a esercitarli."
+},
+{
+"key": "part08.html#352",
+"it": "Un video sovrappone più strati di diritti. Per usare un brano devi ottenere sia i diritti d’autore su musica e testo sia i diritti connessi sulla registrazione. «Ho comprato il brano» di solito significa una licenza di ascolto, che non è il diritto di inserirlo in un video. Volti e voci degli interpreti comportano diritti d’immagine e interessi di sfruttamento commerciale, e una location può richiedere il consenso di chi gestisce la struttura. Font, loghi, perfino un manifesto finito per caso sullo sfondo possono essere soggetti a diritti."
+},
+{
+"key": "part08.html#353",
+"it": "Il fair use è la clausola che regola le eccezioni. L’articolo 35-5 della legge coreana sul diritto d’autore stabilisce che, per usi come cronaca, critica, didattica e ricerca, si valutino insieme lo scopo e il carattere dell’uso, il tipo di opera, la porzione utilizzata e l’effetto sul mercato. Non è un’esenzione automatica, ma un criterio applicato a posteriori. La regola popolare secondo cui «fino a pochi secondi va bene» non ha alcun fondamento. Cita solo quanto ti serve, indica la fonte e non sostituirti al mercato dell’originale."
+},
+{
+"key": "part08.html#354",
+"it": "L’IA generativa aggiunge nuove domande. La legittimità dei dati di addestramento, la paternità dei risultati e i risultati che imitano lo stile di un determinato autore sono oggetto di dibattito in molti Paesi. Molti Paesi, Corea compresa, hanno assunto la posizione che un risultato privo di contributo creativo umano difficilmente è tutelabile dal diritto d’autore. Abituati a registrare gli strumenti e i prompt usati e la misura dell’intervento umano. Anche nelle tavole di questo libro gli schemi sono stati progettati dall’autrice, mentre i disegni delle figure e le immagini di riferimento sono stati realizzati con l’IA generativa; le condizioni sono indicate nell’appendice."
+},
+{
+"key": "part08.html#355",
+"it": "Tre abitudini proteggono il tuo lavoro. Primo: registra la fonte e l’ambito d’uso di ogni materiale che utilizzi. Secondo: verifica nel contratto ambito, durata, mezzi e territorio dei diritti. Terzo: nel dubbio, non usarlo, oppure chiedi il permesso. La maggior parte delle controversie sul diritto d’autore non nasce dalla malafede, ma da documentazione mancante. Per approfondire – Korea Copyright Commission, Copyright Made Easy: 100 Consultation Cases; Copyright Act, articolo 35-5; Lawrence Lessig, Free Culture."
+},
+{
+"key": "part08.html#356",
+"it": "<b>PARTE 08</b>Produzione pubblicitaria e casi di studio"
+},
+{
+"key": "part08.html#357",
+"it": "Diritto d’autore ed etica di produzione"
+},
+{
+"key": "part08.html#358",
+"it": "Imparare una tecnica è diverso dal prendersi un’inquadratura. La tabella elenca, per ogni tipo di materiale, i diritti da verificare e come gestirli."
+},
+{
+"key": "part08.html#359",
+"it": "Consentito"
+},
+{
+"key": "part08.html#360",
+"it": "Imparare le tecniche: schemi luce, angolazioni, ritmo di montaggio"
+},
+{
+"key": "part08.html#361",
+"it": "Usare convenzioni e grammatica di genere"
+},
+{
+"key": "part08.html#362",
+"it": "Nuova espressione che parte dalla struttura di un’idea"
+},
+{
+"key": "part08.html#363",
+"it": "Condividere riferimenti nelle riunioni interne"
+},
+{
+"key": "part08.html#364",
+"it": "Citare per critica e analisi"
+},
+{
+"key": "part08.html#365",
+"it": "Non consentito"
+},
+{
+"key": "part08.html#366",
+"it": "Usare tali e quali le immagini di un video di riferimento"
+},
+{
+"key": "part08.html#367",
+"it": "Musica, font o materiali stock senza licenza"
+},
+{
+"key": "part08.html#368",
+"it": "Ricreare la struttura delle inquadrature e i testi di un altro spot"
+},
+{
+"key": "part08.html#369",
+"it": "Copie IA delle inquadrature di un’opera"
+},
+{
+"key": "part08.html#370",
+"it": "Giustificare un uso non autorizzato con un credito"
+},
+{
+"key": "part08.html#371",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part08.html#372",
+"it": "Anche se è gratuito, verifica l’ambito d’uso (commerciale, modifica, attribuzione)."
+},
+{
+"key": "part08.html#373",
+"it": "Tipo di materiale"
+},
+{
+"key": "part08.html#374",
+"it": "Diritti da verificare"
+},
+{
+"key": "part08.html#375",
+"it": "In pratica"
+},
+{
+"key": "part08.html#376",
+"it": "Musica"
+},
+{
+"key": "part08.html#377",
+"it": "Diritto d’autore e diritti connessi"
+},
+{
+"key": "part08.html#378",
+"it": "Conserva la prova d’acquisto della licenza"
+},
+{
+"key": "part08.html#379",
+"it": "Font"
+},
+{
+"key": "part08.html#380",
+"it": "Ambito d’uso commerciale e video"
+},
+{
+"key": "part08.html#381",
+"it": "Verifica i termini di licenza; font alternativi gratuiti"
+},
+{
+"key": "part08.html#382",
+"it": "Video e immagini stock"
+},
+{
+"key": "part08.html#383",
+"it": "Ambito d’uso, limiti alla rivendita"
+},
+{
+"key": "part08.html#384",
+"it": "Verifica se è solo per uso editoriale"
+},
+{
+"key": "part08.html#385",
+"it": "Interpreti"
+},
+{
+"key": "part08.html#386",
+"it": "Immagine e sfruttamento commerciale"
+},
+{
+"key": "part08.html#387",
+"it": "Fatti firmare una liberatoria"
+},
+{
+"key": "part08.html#388",
+"it": "Location"
+},
+{
+"key": "part08.html#389",
+"it": "Diritti sulla location, marchi in vista"
+},
+{
+"key": "part08.html#390",
+"it": "Permesso per la location, copri i loghi"
+},
+{
+"key": "part08.html#391",
+"it": "Contenuti IA"
+},
+{
+"key": "part08.html#392",
+"it": "Dati di addestramento, termini d’uso"
+},
+{
+"key": "part08.html#393",
+"it": "Verifica i termini per l’uso commerciale"
+},
+{
+"key": "part08.html#394",
+"it": "Minori ripresi"
+},
+{
+"key": "part08.html#395",
+"it": "Consenso del tutore"
+},
+{
+"key": "part08.html#396",
+"it": "Consenso scritto del tutore"
+},
+{
+"key": "part08.html#397",
+"it": "Come appare a schermo, e dove e come citarlo"
+},
+{
+"key": "part08.html#398",
+"it": "<b>✕ Tale e quale – marchi visibili su bicchiere · berretto · insegna</b><span>I marchi di terzi non autorizzati violano sia le norme di controllo televisivo sia il diritto dei marchi</span>"
+},
+{
+"key": "part08.html#399",
+"it": "<b>○ Trattato – rimosso, coperto o sfocato</b><span>Toglierlo dall’oggetto di scena prima di girare costa meno di tutto. Correggerlo in post si paga a inquadratura</span>"
+},
+{
+"key": "part08.html#400",
+"it": "MUSICA"
+},
+{
+"key": "part08.html#401",
+"it": "«Morning Light» – musica di Hong Gil-dong"
+},
+{
+"key": "part08.html#402",
+"it": "Licenza tramite Artlist · Licenza n. 123456"
+},
+{
+"key": "part08.html#403",
+"it": "FONT"
+},
+{
+"key": "part08.html#404",
+"it": "Pretendard (SIL OFL) · Source Han Sans (SIL OFL)"
+},
+{
+"key": "part08.html#405",
+"it": "USO DELL’IA"
+},
+{
+"key": "part08.html#406",
+"it": "Alcune immagini di sfondo sono state realizzate con l’IA generativa"
+},
+{
+"key": "part08.html#407",
+"it": "© 2026 ○○ Studio · Vietate la riproduzione e la ridistribuzione non autorizzate"
+},
+{
+"key": "part08.html#408",
+"it": "<b>Esempio di titoli di coda</b><span>Musica – titolo · compositore · fonte e numero di licenza / Font – carattere e licenza / Uso dell’IA / Nota di copyright</span>"
+},
+{
+"key": "part08.html#409",
+"it": "BY"
+},
+{
+"key": "part08.html#410",
+"it": "Attribuzione"
+},
+{
+"key": "part08.html#411",
+"it": "Utilizzabile citando la fonte"
+},
+{
+"key": "part08.html#412",
+"it": "NC"
+},
+{
+"key": "part08.html#413",
+"it": "Non commerciale"
+},
+{
+"key": "part08.html#414",
+"it": "No a spot · video commerciali"
+},
+{
+"key": "part08.html#415",
+"it": "Spot ✕"
+},
+{
+"key": "part08.html#416",
+"it": "ND"
+},
+{
+"key": "part08.html#417",
+"it": "Non opere derivate"
+},
+{
+"key": "part08.html#418",
+"it": "Niente tagli né remix"
+},
+{
+"key": "part08.html#419",
+"it": "Montaggio ✕"
+},
+{
+"key": "part08.html#420",
+"it": "SA"
+},
+{
+"key": "part08.html#421",
+"it": "Condividi allo stesso modo"
+},
+{
+"key": "part08.html#422",
+"it": "Condividi alle stesse condizioni"
+},
+{
+"key": "part08.html#423",
+"it": "«Gratuito» e «uso commerciale consentito» sono cose diverse – leggi le 4 condizioni in combinazione"
+},
+{
+"key": "part08.html#424",
+"it": "<b>Come leggere le licenze CC</b><span>Con il solo BY puoi usarlo negli spot; con NC no. Con ND non puoi nemmeno tagliarlo</span>"
+},
+{
+"key": "part08.html#425",
+"it": "<b>Controversie citate spesso</b><span>«Blurred Lines» (2015, USA) – circa 5,3 milioni di dollari di risarcimento per la somiglianza con l’atmosfera e il groove di un brano. Anche un «feeling» può essere plagio</span><span>Licenze dei font – in Corea ogni anno c’è chi usa in video · spot font distribuiti gratuitamente e poi riceve richieste di transazione in base alla clausola «uso commerciale vietato»</span><span>YouTube Content ID – bastano 10 secondi di musica in sottofondo perché i ricavi vadano al titolare dei diritti o il video venga bloccato</span><span>Immagine – se in riprese di strada il volto di un passante è riconoscibile, non si può usare in uno spot senza consenso. Sfocalo o fatti firmare una liberatoria</span>"
+},
+{
+"key": "part08.html#426",
+"it": "<b>Fig. 76-1</b> Crediti e gestione dei diritti nella pratica – marchi visibili, titoli di coda, lettura delle licenze CC e tipi ricorrenti di controversia. Un credito non è un’immunità, ma la prova che hai «verificato»."
+},
+{
+"key": "part08.html#427",
+"it": "Capolavori fuori diritti – materiale pronto per opere mediali"
+},
+{
+"key": "part08.html#428",
+"it": "<b>Leonardo da Vinci, «La Gioconda»</b><span>1503–06 · Louvre</span>"
+},
+{
+"key": "part08.html#429",
+"it": "<b>Botticelli, «Nascita di Venere»</b><span>1485 ca. · Uffizi</span>"
+},
+{
+"key": "part08.html#430",
+"it": "<b>Vermeer, «Ragazza con l’orecchino di perla»</b><span>1665 · Mauritshuis</span>"
+},
+{
+"key": "part08.html#431",
+"it": "<b>Rembrandt, «La ronda di notte»</b><span>1642 · Rijksmuseum</span>"
+},
+{
+"key": "part08.html#432",
+"it": "<b>Hokusai, «La grande onda di Kanagawa»</b><span>1831 ca. · xilografia</span>"
+},
+{
+"key": "part08.html#433",
+"it": "<b>Kim Hong-do, «Ssireum»</b><span>XVIII sec. · Museo nazionale della Corea</span>"
+},
+{
+"key": "part08.html#434",
+"it": "<b>Shin Yun-bok, «Festa di Dano»</b><span>fine XVIII sec. · Kansong Art Museum</span>"
+},
+{
+"key": "part08.html#435",
+"it": "<b>Van Gogh, «Notte stellata»</b><span>1889 · MoMA</span>"
+},
+{
+"key": "part08.html#436",
+"it": "<b>Van Gogh, «I girasoli»</b><span>1889 · Museo Van Gogh</span>"
+},
+{
+"key": "part08.html#437",
+"it": "<b>Munch, «L’urlo»</b><span>1893 · Museo nazionale, Oslo</span>"
+},
+{
+"key": "part08.html#438",
+"it": "<b>Klimt, «Il bacio»</b><span>1907–08 · Belvedere</span>"
+},
+{
+"key": "part08.html#439",
+"it": "<b>Dove trovarli</b><span>e-Museum del Museo nazionale della Corea (KOGL tipo 1) · The Met Open Access · Rijksmuseum Rijksstudio · Art Institute of Chicago · Paris Musées · Wikimedia Commons. Un’opera entra nel pubblico dominio 70 anni dopo la morte dell’artista, ma le <em>fotografie recenti</em> di un museo possono avere condizioni proprie: controlla l’indicazione di licenza di ogni sito (CC0 · KOGL).</span>"
+},
+{
+"key": "part08.html#440",
+"it": "Ecco perché sono possibili le mostre di media art su Van Gogh · Klimt. Le opere appartengono ormai a tutti, e ciò che resta è l’<b>interpretazione</b> – quale parte ingrandire, in che ordine muoverla, quale suono sovrapporle."
+},
+{
+"key": "part08.html#441",
+"it": "<b>Fig. 76-2</b> Undici capolavori di pubblico dominio – tutti realizzati prima del 1929 e liberi per copia · adattamento · uso commerciale (foto: Wikimedia Commons, immagini rilasciate dai musei)."
+},
+{
+"key": "part08.html#442",
+"it": "<small>Esercizio</small>7.7"
+},
+{
+"key": "part08.html#443",
+"it": "Compito"
+},
+{
+"key": "part08.html#444",
+"it": "Prepara una checklist dei diritti per musica, font, immagini e persone del tuo lavoro."
+},
+{
+"key": "part08.html#445",
+"it": "Consiglio"
+},
+{
+"key": "part08.html#446",
+"it": "Anche se è gratuito, verifica l’ambito d’uso (commerciale, modifica, attribuzione)."
+},
+{
+"key": "part08.html#447",
+"it": "Valutazione"
+},
+{
+"key": "part08.html#448",
+"it": "Gestione completa dei diritti"
+},
+{
+"key": "part08.html#449",
+"it": "Risposta modello"
+},
+{
+"key": "part08.html#450",
+"it": "Conserva insieme i link alle prove di licenza e le liberatorie d’immagine."
+},
+{
+"key": "part08.html#451",
+"it": "<b>PARTE 08</b>Produzione pubblicitaria e casi di studio"
+},
+{
+"key": "part08.html#452",
+"it": "Come leggere i casi di studio"
+},
+{
+"key": "part08.html#453",
+"it": "Guardare un’opera non è analizzarla. Ciò che conta osservare non è l’incasso, ma le scelte che l’hanno prodotto."
+},
+{
+"key": "part08.html#454",
+"it": "I casi che seguono non sono un elenco di film da vedere, ma campioni per verificare come tecniche e decisioni specifiche hanno portato ai risultati."
+},
+{
+"key": "part08.html#455",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part08.html#456",
+"it": "Gli anni dei premi sono quelli in cui si sono tenute le cerimonie."
+},
+{
+"key": "part08.html#457",
+"it": "Budget e incassi variano a seconda della fonte e dell’inclusione o meno delle riedizioni. Le cifre qui riportate sono approssimazioni largamente citate; se ti servono numeri esatti, controlla le fonti originali."
+},
+{
+"key": "part08.html#458",
+"it": "Per ogni caso, scrivi una riga su ciò che potresti portare nel tuo progetto."
+},
+{
+"key": "part08.html#459",
+"it": "Senza quella riga è fruizione, non analisi"
+},
+{
+"key": "part08.html#460",
+"it": "Leggi ogni caso secondo «problema → strategia → esecuzione → risultato» e annota con chiarezza un principio da portare nel tuo lavoro."
+},
+{
+"key": "part08.html#461",
+"it": "<small>Esercizio</small>7.8"
+},
+{
+"key": "part08.html#462",
+"it": "Compito"
+},
+{
+"key": "part08.html#463",
+"it": "Riassumi un caso di studio in 1 pagina con lo schema «problema → strategia → esecuzione → risultato»."
+},
+{
+"key": "part08.html#464",
+"it": "Consiglio"
+},
+{
+"key": "part08.html#465",
+"it": "Verifica sempre la fonte dei dati sui risultati."
+},
+{
+"key": "part08.html#466",
+"it": "Valutazione"
+},
+{
+"key": "part08.html#467",
+"it": "Struttura logica, verifica dei fatti"
+},
+{
+"key": "part08.html#468",
+"it": "Risposta modello"
+},
+{
+"key": "part08.html#469",
+"it": "Indica con chiarezza un principio del caso da portare nel tuo lavoro."
+},
+{
+"key": "part08.html#470",
+"it": "Contesto 15"
+},
+{
+"key": "part08.html#471",
+"it": "Quando la tecnologia ha cambiato la forma"
+},
+{
+"key": "part08.html#472",
+"it": "Nuove attrezzature hanno sempre prodotto nuove immagini. Ecco cinque di questi momenti. Il primo è il sonoro. Dopo «Il cantante di jazz» del 1927, quando il sonoro sincronizzato divenne lo standard, la rumorosa macchina da presa fu chiusa in una cabina insonorizzata, e i primi film parlati divennero anzi visivamente rigidi. Solo con lo sviluppo del blimp e del microfono su asta la macchina poté tornare a muoversi. Quest’ordine, in cui una nuova tecnologia prima limita l’espressione e poi la libera, si sarebbe ripetuto da allora in poi."
+},
+{
+"key": "part08.html#473",
+"it": "Il secondo è la sensibilità della pellicola e gli obiettivi. Le riprese in deep focus degli anni Quaranta richiedevano di chiudere il diaframma per avere una grande profondità di campo, il che a sua volta esigeva molta luce e pellicole sensibili. Che in «Quarto potere» le figure davanti e dietro siano nitide insieme fu una scelta estetica e al tempo stesso un risultato della tecnologia. Il pubblico sceglie dove guardare, e i rapporti tra i personaggi si rivelano attraverso la composizione."
+},
+{
+"key": "part08.html#474",
+"it": "Il terzo è la macchina da presa più leggera. Con la diffusione, alla fine degli anni Cinquanta, di attrezzature portatili per il sonoro sincronizzato, nacquero il cinéma vérité in Francia e il direct cinema negli Stati Uniti. Quando la macchina uscì nelle strade, le immagini mosse e le composizioni improvvisate cominciarono a essere lette come segno del reale. Lo stile «macchina a mano» dei varietà e dei vlog di oggi eredita quella convenzione."
+},
+{
+"key": "part08.html#475",
+"it": "Il quarto è il digital intermediate e il color grading. Nei primi anni Duemila, quando si affermò il processo di scansione della pellicola in digitale, grading e ritorno su pellicola, divenne possibile ridisegnare in post-produzione il colore di un’intera scena. È da qui che il colore è diventato la firma di un’opera, come nel contrasto teal-arancio. Oggi è comune definire il look in fase di ripresa e applicarlo ai monitor sul set."
+},
+{
+"key": "part08.html#476",
+"it": "Il quinto è lo smartphone e lo schermo verticale. Quando riprese, montaggio e distribuzione si sono concentrati in un solo dispositivo, i cicli di produzione si sono accorciati, e l’inquadratura verticale ha reso la norma i primi piani centrati sulle persone e i tagli rapidi. I sottotitoli fanno le veci del suono, e i primi 3 secondi governano l’intera struttura. Non è cambiato il formato (aspect ratio): sono cambiati la postura e il contesto di visione del pubblico."
+},
+{
+"key": "part08.html#477",
+"it": "C’è una lezione comune. La tecnologia non decide la forma, ma cambia il campo del possibile. Chi esplora per primo quel campo crea la grammatica della generazione successiva. Quando leggi un caso, non chiederti solo «che cosa è stato usato?», ma anche «che cosa ha reso possibile quell’attrezzatura?» Per approfondire – David Bordwell · Kristin Thompson, Film History: An Introduction; Barry Salt, Film Style and Technology; John Belton, American Cinema/American Culture."
+},
+{
+"key": "part08.html#478",
+"it": "<b>PARTE 08</b>Produzione pubblicitaria e casi di studio"
+},
+{
+"key": "part08.html#479",
+"it": "Cinema: tecnologia e forma"
+},
+{
+"key": "part08.html#480",
+"it": "Sono casi in cui la tecnologia ha cambiato la forma. La tecnologia non è mai venuta per prima, con la storia a seguire. Quando decidi che cosa vuoi mostrare, la tecnologia trova il suo posto come mezzo."
+},
+{
+"key": "part08.html#481",
+"it": "<span class=\"ph-id\">P08-FILMSET</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Set cinematografico</b>Impianto pioggia su un vicolo notturno, luce di lanterne, macchina da presa su dolly</span>"
+},
+{
+"key": "part08.html#482",
+"it": "<b>Nota</b>Set cinematografico – attrezzature e persone si radunano per creare un solo scroscio di pioggia. La tecnologia viene sempre dopo la scena che vuoi mostrare"
+},
+{
+"key": "part08.html#483",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part08.html#484",
+"it": "Budget e incassi sono approssimazioni largamente citate."
+},
+{
+"key": "part08.html#485",
+"it": "<small>James Cameron</small>Titanic (1997)"
+},
+{
+"key": "part08.html#486",
+"it": "Budget ca. 200 mln $ · incasso ca. 2,1 mld $"
+},
+{
+"key": "part08.html#487",
+"it": "Set in scala reale, miniature, prime folle in CG"
+},
+{
+"key": "part08.html#488",
+"it": "11 premi Oscar"
+},
+{
+"key": "part08.html#489",
+"it": "<small>Le sorelle Wachowski</small>Matrix (1999)"
+},
+{
+"key": "part08.html#490",
+"it": "Budget ca. 63 mln $ · incasso ca. 460 mln $"
+},
+{
+"key": "part08.html#491",
+"it": "Effetto bullet time"
+},
+{
+"key": "part08.html#492",
+"it": "Un’inquadratura in movimento che congela il tempo con una schiera di fotocamere"
+},
+{
+"key": "part08.html#493",
+"it": "<small>Jon Favreau</small>Iron Man (2008)"
+},
+{
+"key": "part08.html#494",
+"it": "Budget ca. 140 mln $ · incasso ca. 580 mln $"
+}
+]

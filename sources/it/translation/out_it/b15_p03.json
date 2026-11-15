@@ -1,0 +1,602 @@
+[
+{
+"key": "part13.html#296",
+"it": "<small>Esercizio</small>13.5"
+},
+{
+"key": "part13.html#297",
+"it": "Compito"
+},
+{
+"key": "part13.html#298",
+"it": "Immagina di installare la tua opera in una sala ipotetica (larga 6 metri, profonda 4, alta 3) e prepara un disegno d’allestimento, una lista delle attrezzature e un piano di gestione."
+},
+{
+"key": "part13.html#299",
+"it": "Consiglio"
+},
+{
+"key": "part13.html#300",
+"it": "Calcola la distanza di proiezione e la dimensione dell’immagine e scrivi i numeri. Segna sempre sul disegno le prese di corrente e i percorsi dei cavi."
+},
+{
+"key": "part13.html#301",
+"it": "Valutazione"
+},
+{
+"key": "part13.html#302",
+"it": "I numeri sono calcolati? C’è un piano per i guasti?"
+},
+{
+"key": "part13.html#303",
+"it": "Risposta modello"
+},
+{
+"key": "part13.html#304",
+"it": "Un piano di gestione scritto giorno per giorno, con avvio automatico, riavvii quotidiani e un video di riserva."
+},
+{
+"key": "part13.html#305",
+"it": "<b>PARTE 13</b>Media art e cinema espanso"
+},
+{
+"key": "part13.html#306",
+"it": "Statement dell’opera e portfolio"
+},
+{
+"key": "part13.html#307",
+"it": "Nella media art la scrittura fa parte dell’opera. Gli spettatori leggono lo statement per capire il lavoro, e bandi e residenze si giudicano solo su testo e foto. Le richieste sono diverse da quelle di un portfolio video, quindi esercitati a parte."
+},
+{
+"key": "part13.html#308",
+"it": "Anatomia di uno statement"
+},
+{
+"key": "part13.html#309",
+"it": "<b>01</b><i>Che cos’è</i>Comincia con «Quest’opera è …» Se apri con il contesto, nessuno legge fino in fondo"
+},
+{
+"key": "part13.html#310",
+"it": "<b>02</b><i>Come</i>Che cosa succede quando lo spettatore fa che cosa. Il manuale d’uso di un’opera interattiva"
+},
+{
+"key": "part13.html#311",
+"it": "<b>03</b><i>Perché</i>La ragione per cui deve avere questa forma. I motivi di una scelta, non una vetrina di tecnologie"
+},
+{
+"key": "part13.html#312",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part13.html#313",
+"it": "I testi di sala tra 150 e 300 caratteri vengono letti. Oltre, nessuno resta lì in piedi a leggere."
+},
+{
+"key": "part13.html#314",
+"it": "Parole da evitare"
+},
+{
+"key": "part13.html#315",
+"it": "<b>Paroloni vaghi</b> – «esistenza», «relazione», «confine» usati senza spiegazione non dicono nulla. Se ne usi uno, precisa in concreto, almeno una volta, a che cosa si riferisce in quest’opera."
+},
+{
+"key": "part13.html#316",
+"it": "<b>Elenchi di tecnologie</b> – gli strumenti vanno nella riga dei materiali. Sfoggiarli nello statement fa sembrare piccola l’opera."
+},
+{
+"key": "part13.html#317",
+"it": "<b>Citazioni non verificate</b> – non citare libri che non hai letto. È la prima cosa che la giuria chiede."
+},
+{
+"key": "part13.html#318",
+"it": "Che cosa va nel portfolio"
+},
+{
+"key": "part13.html#319",
+"it": "Voce"
+},
+{
+"key": "part13.html#320",
+"it": "Contenuto"
+},
+{
+"key": "part13.html#321",
+"it": "Errore comune"
+},
+{
+"key": "part13.html#322",
+"it": "Immagini chiave"
+},
+{
+"key": "part13.html#323",
+"it": "1 vista dell’allestimento, 2 dettagli"
+},
+{
+"key": "part13.html#324",
+"it": "Solo catture di schermo"
+},
+{
+"key": "part13.html#325",
+"it": "Video di documentazione"
+},
+{
+"key": "part13.html#326",
+"it": "1–2 min, con le reazioni del pubblico"
+},
+{
+"key": "part13.html#327",
+"it": "Lunghe riprese del solo schermo"
+},
+{
+"key": "part13.html#328",
+"it": "Riga dei materiali"
+},
+{
+"key": "part13.html#329",
+"it": "Tecnica, dimensioni, durata, anno"
+},
+{
+"key": "part13.html#330",
+"it": "Omessa del tutto"
+},
+{
+"key": "part13.html#331",
+"it": "Schema di sistema"
+},
+{
+"key": "part13.html#332",
+"it": "1 diagramma di flusso ingresso-elaborazione-uscita"
+},
+{
+"key": "part13.html#333",
+"it": "Spiegato solo a parole"
+},
+{
+"key": "part13.html#334",
+"it": "Requisiti d’allestimento"
+},
+{
+"key": "part13.html#335",
+"it": "Spazio, corrente, oscuramento"
+},
+{
+"key": "part13.html#336",
+"it": "La giuria non capisce se è installabile"
+},
+{
+"key": "part13.html#337",
+"it": "Contributo"
+},
+{
+"key": "part13.html#338",
+"it": "La tua parte in un lavoro collettivo"
+},
+{
+"key": "part13.html#339",
+"it": "Lavoro di gruppo fatto passare per individuale"
+},
+{
+"key": "part13.html#340",
+"it": "La documentazione tiene in vita l’opera"
+},
+{
+"key": "part13.html#341",
+"it": "Un’opera di media art scompare quando la mostra chiude. Resta solo la documentazione, ed è su quella che si decidono il prossimo bando e la prossima mostra. Durante la mostra non mancare di riprendere viste dell’allestimento, dettagli, reazioni reali del pubblico e perfino il montaggio dell’installazione."
+},
+{
+"key": "part13.html#342",
+"it": "Il giorno più importante in sala non è l’inaugurazione ma quello in cui giri la documentazione.<small>13.6 Statement dell’opera e portfolio</small>"
+},
+{
+"key": "part13.html#343",
+"it": "<small>Esercizio</small>13.6"
+},
+{
+"key": "part13.html#344",
+"it": "Compito"
+},
+{
+"key": "part13.html#345",
+"it": "Per una tua opera scrivi uno statement da mostra di 250 caratteri e prepara un portfolio di una pagina. Includi riga dei materiali, schema di sistema e requisiti d’allestimento."
+},
+{
+"key": "part13.html#346",
+"it": "Consiglio"
+},
+{
+"key": "part13.html#347",
+"it": "Una volta scritto, fai leggere lo statement a qualcuno che non conosce l’opera e chiedigli se capisce «che cosa deve fare»."
+},
+{
+"key": "part13.html#348",
+"it": "Valutazione"
+},
+{
+"key": "part13.html#349",
+"it": "La prima frase definisce l’opera? I requisiti d’allestimento sono abbastanza precisi perché la giuria possa valutare?"
+},
+{
+"key": "part13.html#350",
+"it": "Risposta modello"
+},
+{
+"key": "part13.html#351",
+"it": "Un’impaginazione che affianca le foto delle reazioni del pubblico allo schema di sistema, così una sola pagina spiega sia che cosa si vede sia come funziona."
+},
+{
+"key": "part13.html#352",
+"it": "<b>PARTE 13</b>Media art e cinema espanso"
+},
+{
+"key": "part13.html#353",
+"it": "Bandi e finanziamenti"
+},
+{
+"key": "part13.html#354",
+"it": "Come candidarsi davvero. La media art costa più della produzione video in attrezzature, spazio e allestimento, quindi bandi e finanziamenti diventano una condizione del lavoro. L’elenco qui sotto segue gli avvisi reali del 2026; importi e date cambiano ogni anno, quindi verificali sempre nell’avviso ufficiale."
+},
+{
+"key": "part13.html#355",
+"it": "Bandi coreani a cui gli studenti possono partecipare ora"
+},
+{
+"key": "part13.html#356",
+"it": "Bando"
+},
+{
+"key": "part13.html#357",
+"it": "Ente"
+},
+{
+"key": "part13.html#358",
+"it": "Scadenza (2026)"
+},
+{
+"key": "part13.html#359",
+"it": "Premi"
+},
+{
+"key": "part13.html#360",
+"it": "Dream Big Art Award"
+},
+{
+"key": "part13.html#361",
+"it": "DB World"
+},
+{
+"key": "part13.html#362",
+"it": "set."
+},
+{
+"key": "part13.html#363",
+"it": "120 milioni di KRW in totale; categoria studenti a parte"
+},
+{
+"key": "part13.html#364",
+"it": "JoongAng Media Art Competition"
+},
+{
+"key": "part13.html#365",
+"it": "JoongAng Ilbo"
+},
+{
+"key": "part13.html#366",
+"it": "ago."
+},
+{
+"key": "part13.html#367",
+"it": "45 milioni di KRW in totale; categoria studenti a parte"
+},
+{
+"key": "part13.html#368",
+"it": "Media art al Cimitero nazionale di Seul"
+},
+{
+"key": "part13.html#369",
+"it": "Ministero dei patrioti e dei veterani"
+},
+{
+"key": "part13.html#370",
+"it": "ago."
+},
+{
+"key": "part13.html#371",
+"it": "Primo premio 30 milioni di KRW"
+},
+{
+"key": "part13.html#372",
+"it": "Seoullo Media Canvas, artisti emergenti"
+},
+{
+"key": "part13.html#373",
+"it": "Città di Seul"
+},
+{
+"key": "part13.html#374",
+"it": "ago."
+},
+{
+"key": "part13.html#375",
+"it": "20 team, 1,5 milioni di KRW ciascuno + mostra"
+},
+{
+"key": "part13.html#376",
+"it": "Seoul Light Gwanghwamun"
+},
+{
+"key": "part13.html#377",
+"it": "Città di Seul"
+},
+{
+"key": "part13.html#378",
+"it": "nov."
+},
+{
+"key": "part13.html#379",
+"it": "6 team, 12 milioni di KRW"
+},
+{
+"key": "part13.html#380",
+"it": "NEXT:ON Incheon"
+},
+{
+"key": "part13.html#381",
+"it": "Incheon Technopark"
+},
+{
+"key": "part13.html#382",
+"it": "ago."
+},
+{
+"key": "part13.html#383",
+"it": "3 team, 25 milioni di KRW ciascuno"
+},
+{
+"key": "part13.html#384",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part13.html#385",
+"it": "Il premio studenti di Dream Big è versato come borsa di studio tramite la tua università; se l’università non può erogarlo, il premio può essere annullato. Verifica con il tuo dipartimento prima di candidarti."
+},
+{
+"key": "part13.html#386",
+"it": "Dream Big e JoongAng hanno categorie studenti separate. Significa che non competi con artisti in attività: guarda prima i bandi con una categoria studenti."
+},
+{
+"key": "part13.html#387",
+"it": "Residenze · incubazione · finanziamenti pubblici"
+},
+{
+"key": "part13.html#388",
+"it": "<small>Gwangyang Media Art Residence</small>Scadenza a maggio"
+},
+{
+"key": "part13.html#389",
+"it": "Solo media art, 3 artisti selezionati"
+},
+{
+"key": "part13.html#390",
+"it": "Compenso di 1,6 milioni di KRW al mese × cinque mesi, studio e alloggio"
+},
+{
+"key": "part13.html#391",
+"it": "<small>G.MAP Digital Art Culture Lab</small>Scadenza ad agosto"
+},
+{
+"key": "part13.html#392",
+"it": "Gwangju, 14 team, 18 sessioni di mentoring più attrezzature · spazio"
+},
+{
+"key": "part13.html#393",
+"it": "Tutti i membri del team dai 19 anni in su"
+},
+{
+"key": "part13.html#394",
+"it": "<small>MMCA Residency</small>Un obiettivo a qualche anno di distanza"
+},
+{
+"key": "part13.html#395",
+"it": "Goyang dai 25 anni, Changdong dai 40"
+},
+{
+"key": "part13.html#396",
+"it": "Tutti i campi, nuovi media inclusi; quasi 1 anno di residenza"
+},
+{
+"key": "part13.html#397",
+"it": "<small>K-Art Young Creators Support</small>Candidature a marzo"
+},
+{
+"key": "part13.html#398",
+"it": "Nuovo programma 2026 del Ministero della cultura, dello sport e del turismo: 9 milioni di KRW l’anno a 3000 persone fino a 39 anni"
+},
+{
+"key": "part13.html#399",
+"it": "La media art non figura come campo a sé: guarda la categoria interdisciplinare"
+},
+{
+"key": "part13.html#400",
+"it": "<small>Art Korea Lab</small>Sostegno per fasi"
+},
+{
+"key": "part13.html#401",
+"it": "Sostegno successivo al programma principale (15 contributi da 30 milioni di KRW)"
+},
+{
+"key": "part13.html#402",
+"it": "<small>Fondazione di Seul per le arti e la cultura</small>Seoul Convergence Art Festival"
+},
+{
+"key": "part13.html#403",
+"it": "Presenta in prima assoluta nuovi lavori di artisti selezionati"
+},
+{
+"key": "part13.html#404",
+"it": "La strada percorsa dai vincitori di Ars Electronica 2023"
+},
+{
+"key": "part13.html#405",
+"it": "Verso l’estero"
+},
+{
+"key": "part13.html#406",
+"it": "Nome"
+},
+{
+"key": "part13.html#407",
+"it": "Ente · sede"
+},
+{
+"key": "part13.html#408",
+"it": "Scadenza"
+},
+{
+"key": "part13.html#409",
+"it": "Premio"
+},
+{
+"key": "part13.html#410",
+"it": "Prix Ars Electronica"
+},
+{
+"key": "part13.html#411",
+"it": "Linz (Austria)"
+},
+{
+"key": "part13.html#412",
+"it": "mar."
+},
+{
+"key": "part13.html#413",
+"it": "10.000 € per categoria"
+},
+{
+"key": "part13.html#414",
+"it": "STARTS Prize"
+},
+{
+"key": "part13.html#415",
+"it": "Commissione europea"
+},
+{
+"key": "part13.html#416",
+"it": "mar."
+},
+{
+"key": "part13.html#417",
+"it": "20.000 € ciascuno, 2 categorie"
+},
+{
+"key": "part13.html#418",
+"it": "Lumen Prize"
+},
+{
+"key": "part13.html#419",
+"it": "Regno Unito"
+},
+{
+"key": "part13.html#420",
+"it": "mag."
+},
+{
+"key": "part13.html#421",
+"it": "30.000 $ in totale; quota d’iscrizione"
+},
+{
+"key": "part13.html#422",
+"it": "SIGGRAPH Art Gallery"
+},
+{
+"key": "part13.html#423",
+"it": "USA"
+},
+{
+"key": "part13.html#424",
+"it": "gen."
+},
+{
+"key": "part13.html#425",
+"it": "Nessun premio; mostra"
+},
+{
+"key": "part13.html#426",
+"it": "ISEA"
+},
+{
+"key": "part13.html#427",
+"it": "Città ospite diversa ogni anno"
+},
+{
+"key": "part13.html#428",
+"it": "dic."
+},
+{
+"key": "part13.html#429",
+"it": "Nessun premio; relazione accademica"
+},
+{
+"key": "part13.html#430",
+"it": "VH AWARD"
+},
+{
+"key": "part13.html#431",
+"it": "Hyundai Motor Group"
+},
+{
+"key": "part13.html#432",
+"it": "lug."
+},
+{
+"key": "part13.html#433",
+"it": "Sostegno alla produzione + residenza"
+},
+{
+"key": "part13.html#434",
+"it": "Al Prix Ars Electronica 2023 due artisti coreani hanno vinto il premio principale e un premio speciale. Entrambi erano stati selezionati più volte per finanziamenti pubblici coreani, e uno aveva esordito in un festival coreano di arti convergenti. La strada che dai bandi coreani porta, attraverso i festival coreani, alla scena internazionale funziona davvero."
+},
+{
+"key": "part13.html#435",
+"it": "Quattro cose da preparare in un semestre"
+},
+{
+"key": "part13.html#436",
+"it": "<b>01</b><i>Statement d’artista in coreano, 500 parole</i>Quasi tutti i bandi coreani richiedono una descrizione dell’opera"
+},
+{
+"key": "part13.html#437",
+"it": "<b>02</b><i>Proposta in inglese, 3 pagine</i>Richiesta da VH AWARD e ISEA. Corpo 11 e PDF sono lo standard"
+},
+{
+"key": "part13.html#438",
+"it": "<b>03</b><i>Video di sintesi di 30 secondi</i>La JoongAng Media Art Competition chiede 20–30 s alla candidatura"
+},
+{
+"key": "part13.html#439",
+"it": "<b>04</b><i>Film di portfolio di 3 minuti</i>Il VH AWARD chiede fino a 3 minuti"
+},
+{
+"key": "part13.html#440",
+"it": "Appendi alla scrivania il calendario dei bandi, non una singola scadenza. Marzo, maggio, luglio, agosto, settembre e novembre sono i mesi di scadenza della media art coreana.<small>13.7 Bandi e finanziamenti</small>"
+},
+{
+"key": "part13.html#441",
+"it": "<small>Esercizio</small>13.7"
+},
+{
+"key": "part13.html#442",
+"it": "Compito"
+},
+{
+"key": "part13.html#443",
+"it": "Scegli tre dei bandi qui sopra adatti a te e metti in tabella i documenti richiesti da ciascuno. Pianifica di candidarti davvero a uno e scrivi un calendario a ritroso dalla scadenza."
+},
+{
+"key": "part13.html#444",
+"it": "Consiglio"
+},
+{
+"key": "part13.html#445",
+"it": "Lavora a ritroso dalla scadenza. Scrivi quanti giorni ti servono per produzione video, documenti, revisione e invio."
+}
+]

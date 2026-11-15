@@ -1,0 +1,622 @@
+[
+{
+"key": "part05.html#0",
+"it": "PARTE"
+},
+{
+"key": "part05.html#1",
+"it": "<small>PARTE</small>05"
+},
+{
+"key": "part05.html#2",
+"it": "<b>Che cosa realizzi in questa PARTE</b>"
+},
+{
+"key": "part05.html#3",
+"it": "Un montaggio da 1 minuto, ridotto con tagli motivati"
+},
+{
+"key": "part05.html#4",
+"it": "Un’animazione di logo da 5 secondi con easing"
+},
+{
+"key": "part05.html#5",
+"it": "Un master di consegna con compositing · grading · specifiche di output"
+},
+{
+"key": "part05.html#6",
+"it": "Montaggio e post-produzione"
+},
+{
+"key": "part05.html#7",
+"it": "Le riprese raccolgono il materiale; il montaggio crea il senso. Cambia ordine e durata e lo stesso girato diventa un altro video. Questa PARTE va dalla storia e dai principi del montaggio a una mappa di Premiere Pro, After Effects e DaVinci Resolve. La domanda che apre il capitolo: che cosa spinge le persone a guardare fino alla fine?"
+},
+{
+"key": "part05.html#8",
+"it": "Foto P-05 Sala di montaggio di notte – timeline e monitor da grading · immagine generata"
+},
+{
+"key": "part05.html#9",
+"it": "<b>P-05</b> Sala di montaggio di notte – timeline e monitor da grading"
+},
+{
+"key": "part05.html#10",
+"it": "Come usare questo capitolo in aula"
+},
+{
+"key": "part05.html#11",
+"it": "Tagliare per un motivo e applicare l’easing"
+},
+{
+"key": "part05.html#12",
+"it": "<b>Materiali</b>Software di montaggio installato, cartella di girato per esercitazioni, 1 brano musicale"
+},
+{
+"key": "part05.html#13",
+"it": "<b>10 min</b><i>Avvio</i><span>Proiezione di montaggi con la musica stesa per prima o per ultima</span>"
+},
+{
+"key": "part05.html#14",
+"it": "<b>15 min</b><i>Concetti</i><span>8 principi di montaggio, raccordi sul movimento e match cut, ruoli di Premiere e After Effects</span>"
+},
+{
+"key": "part05.html#15",
+"it": "<b>10 min</b><i>Tavole</i><span>Spiegazione dell’easing con la palla che rimbalza e i diagrammi di timing</span>"
+},
+{
+"key": "part05.html#16",
+"it": "<b>10 min</b><i>Esercizio</i><span>Stesso girato, due montaggi da 30 secondi</span>"
+},
+{
+"key": "part05.html#17",
+"it": "<b>5 min</b><i>Chiusura</i><span>Accordo sui nomi delle cartelle di progetto</span>"
+},
+{
+"key": "part05.html#18",
+"it": "<b>Punto di controllo</b>Sai dire in una riga perché hai fatto ogni taglio"
+},
+{
+"key": "part05.html#19",
+"it": "PARTE 05"
+},
+{
+"key": "part05.html#20",
+"it": "Introduzione"
+},
+{
+"key": "part05.html#21",
+"it": "Le riprese raccolgono il materiale; il montaggio crea il senso. Cambia ordine e durata e lo stesso girato dà un video del tutto diverso. Kulešov lo dimostrò 100 anni fa, e vale ancora di più nell’era dei video brevi, con inquadrature sempre più corte."
+},
+{
+"key": "part05.html#22",
+"it": "Questa parte muove dalla storia delle tecnologie di montaggio e presenta in modo sistematico le funzioni di Premiere Pro e After Effects. Gli elenchi di funzioni sono una mappa, non qualcosa da imparare a memoria. Se sai a quale area di quale strumento appartiene un problema, basta una ricerca; senza mappa, vaghi per ore."
+},
+{
+"key": "part05.html#23",
+"it": "After Effects, in particolare, ragiona in modo diverso da Premiere. Premiere gestisce il tempo in orizzontale; After Effects gestisce i livelli in verticale. Provare a montare in After Effects senza saperlo è il classico errore da principiante. Basta dividere i ruoli dei due strumenti per dimezzare i tempi di lavoro."
+},
+{
+"key": "part05.html#24",
+"it": "Contesto 7"
+},
+{
+"key": "part05.html#25",
+"it": "Il montaggio invisibile"
+},
+{
+"key": "part05.html#26",
+"it": "Un buon montaggio fa sì che il pubblico non si accorga del montaggio. Un taglio seziona tempo e spazio, eppure il pubblico deve sentirlo come un flusso naturale."
+},
+{
+"key": "part05.html#27",
+"it": "In the Blink of an Eye (1995) del montatore Walter Murch paragona il battito di ciglia a un taglio. Battiamo le palpebre quando cambia un pensiero o si sposta lo sguardo. Allo stesso modo un buon taglio cade dove finisce un paragrafo del pensiero di chi guarda. Perciò il montatore non guarda prima lo schermo, ma il punto a cui è arrivata la mente del pubblico."
+},
+{
+"key": "part05.html#28",
+"it": "Murch ha messo in ordine i criteri di un taglio: emozione 51%, storia 23%, ritmo 10%, percorso dello sguardo 7%, piano bidimensionale dello schermo 5%, continuità dello spazio tridimensionale 4%. L’ordine conta più dei numeri: scegli il taglio con l’emozione giusta anche se la continuità ne soffre un po’. I lavori degli studenti spesso capovolgono quest’ordine: si aggrappano al raccordo dei movimenti e perdono il flusso emotivo."
+},
+{
+"key": "part05.html#29",
+"it": "Le tecniche di continuità – raccordo sul movimento, raccordo di sguardo, regola dei 180° – servono tutte a non far perdere il pubblico nello spazio e nel tempo. La tradizione del montaggio di Ejzenštejn faceva l’opposto: esponeva le giunture per creare urto e significato. Il montatore sceglie, caso per caso, se nascondere le giunture o mostrarle."
+},
+{
+"key": "part05.html#30",
+"it": "Il montaggio è anche un’arte del tempo. Inquadrature più brevi alzano la tensione; più lunghe lasciano al pubblico lo spazio per pensare. In pubblicità e nei video brevi i tagli accelerano non solo per farci stare più informazioni, ma per riagganciare di continuo l’attenzione di chi guarda."
+},
+{
+"key": "part05.html#31",
+"it": "Il montaggio digitale non lineare ha reso tutto annullabile, ma non fornisce il giudizio. Anche mentre impari il software, abituati a chiederti a ogni taglio: «Che cosa prova il pubblico adesso?» Per approfondire: Walter Murch, In the Blink of an Eye; Ken Dancyger, The Technique of Film and Video Editing."
+},
+{
+"key": "part05.html#32",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#33",
+"it": "Storia degli strumenti di montaggio"
+},
+{
+"key": "part05.html#34",
+"it": "Gli strumenti sono passati dalle forbici per la pellicola all’IA generativa; l’ossatura del lavoro è cambiata poco."
+},
+{
+"key": "part05.html#35",
+"it": "<b>Foto di riferimento 5.1A</b>Immagini generate – l’epoca della giuntatrice"
+},
+{
+"key": "part05.html#36",
+"it": "<span class=\"ph-id\">P05-SPLICER</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Quando la pellicola si tagliava e si giuntava</b>Le mani di un montatore alla giuntatrice, spezzoni di pellicola e nastro</span>"
+},
+{
+"key": "part05.html#37",
+"it": "<b>a</b>Giuntatrice – uno strumento che taglia fisicamente la pellicola e la unisce con nastro o colla. L’unità di montaggio si chiama ancora «taglio» per questo gesto fisico: tagliare la pellicola con le forbici."
+},
+{
+"key": "part05.html#38",
+"it": "<span class=\"ph-id\">P05-FLATBED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Moviola a tavolo piano</b>Tavolo di montaggio orizzontale con bobine e un piccolo schermo, sala di montaggio buia</span>"
+},
+{
+"key": "part05.html#39",
+"it": "<b>b</b>Moviola a tavolo piano – un tavolo orizzontale come la Steenbeck, su cui la pellicola scorreva avanti e indietro per trovare il punto di taglio. Qui si allenava la sensibilità nel contare i fotogrammi con le dita."
+},
+{
+"key": "part05.html#40",
+"it": "<b>EDL</b>"
+},
+{
+"key": "part05.html#41",
+"it": "Edit decision list (lista delle decisioni di montaggio). Il documento di riferimento per ricostruire in alta qualità, online, le scelte dell’offline."
+},
+{
+"key": "part05.html#42",
+"it": "Periodo"
+},
+{
+"key": "part05.html#43",
+"it": "Che cosa è cambiato"
+},
+{
+"key": "part05.html#44",
+"it": "Montaggio fisico: la pellicola si taglia e si giunta a mano. I montatori la facevano scorrere su Moviola e Steenbeck per trovare i punti e contavano i fotogrammi con le dita."
+},
+{
+"key": "part05.html#45",
+"it": "Arriva il videonastro. Il montaggio diventa un assemblaggio lineare, con copie da un registratore all’altro."
+},
+{
+"key": "part05.html#46",
+"it": "Il timecode viene standardizzato, nasce la EDL. Si afferma il metodo in 2 fasi: si decide offline, si ricostruisce in alta qualità online."
+},
+{
+"key": "part05.html#47",
+"it": "I sistemi di montaggio non lineare arrivano sul mercato. Con l’accesso casuale, montare diventa un lavoro di pensiero: riordinare il materiale."
+},
+{
+"key": "part05.html#48",
+"it": "I software di montaggio desktop arrivano a ondate. Il personal computer diventa la sala di montaggio e i costi d’ingresso crollano."
+},
+{
+"key": "part05.html#49",
+"it": "Passaggio all’HD, più codec. Il montaggio con proxy diventa la norma."
+},
+{
+"key": "part05.html#50",
+"it": "Collaborazione in cloud, abbinamento colore automatico, accelerazione GPU. Uno strumento di grading professionale diventa gratuito e la correzione colore si fa competenza comune."
+},
+{
+"key": "part05.html#51",
+"it": "App di montaggio mobile, sottotitoli automatici, tagli automatici. L’IA generativa entra come assistente al montaggio: il primo premontato si automatizza, mentre le persone si concentrano sul giudizio."
+},
+{
+"key": "part05.html#52",
+"it": "Abitudini ereditate"
+},
+{
+"key": "part05.html#53",
+"it": "La vecchia divisione tra offline e online sopravvive nel montaggio con proxy di oggi. EDL e timecode restano la base della collaborazione, e la sensibilità per i fotogrammi dell’epoca della Moviola distingue ancora un buon montatore."
+},
+{
+"key": "part05.html#54",
+"it": "<small>Esercizio</small>5.1"
+},
+{
+"key": "part05.html#55",
+"it": "Compito"
+},
+{
+"key": "part05.html#56",
+"it": "Realizza due versioni della stessa scena: una unita rigorosamente in ordine, come ai tempi della Moviola, e una montata in modo non lineare."
+},
+{
+"key": "part05.html#57",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#58",
+"it": "Fissa una regola: nella versione in ordine non si annulla nulla."
+},
+{
+"key": "part05.html#59",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#60",
+"it": "Come il metodo influisce sull’atteggiamento di lavoro"
+},
+{
+"key": "part05.html#61",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#62",
+"it": "Annota tempi di lavoro e risultati di entrambi i metodi."
+},
+{
+"key": "part05.html#63",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#64",
+"it": "Principi base del montaggio"
+},
+{
+"key": "part05.html#65",
+"it": "Taglia non perché annoia, ma quando l’inquadratura successiva dà un’informazione migliore."
+},
+{
+"key": "part05.html#66",
+"it": "<span class=\"ph-id\">P05-NLE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Montaggio non lineare</b>Una sala di montaggio a due monitor, una timeline di clip codificate per colore e un monitor di riferimento</span>"
+},
+{
+"key": "part05.html#67",
+"it": "<b>Nota</b>Montaggio non lineare – con l’accesso immediato a qualsiasi punto, montare è passato dal «tagliare» al «pensare scegliendo e disponendo»"
+},
+{
+"key": "part05.html#68",
+"it": "Leggi la timeline su quattro righe"
+},
+{
+"key": "part05.html#69",
+"it": "V2 Titoli"
+},
+{
+"key": "part05.html#70",
+"it": "V1 Video"
+},
+{
+"key": "part05.html#71",
+"it": "A1 Dialoghi"
+},
+{
+"key": "part05.html#72",
+"it": "A2 Musica · SFX"
+},
+{
+"key": "part05.html#73",
+"it": "L-cut"
+},
+{
+"key": "part05.html#74",
+"it": "L’audio dell’inquadratura precedente prosegue"
+},
+{
+"key": "part05.html#75",
+"it": "J-cut"
+},
+{
+"key": "part05.html#76",
+"it": "L’audio dell’inquadratura successiva entra prima"
+},
+{
+"key": "part05.html#77",
+"it": "Testina"
+},
+{
+"key": "part05.html#78",
+"it": "Sfalsa i tagli di immagine e suono e lo stacco scorre. Tagliali nello stesso punto e lo stacco «inciampa»."
+},
+{
+"key": "part05.html#79",
+"it": "<b>Fig. 46</b> Struttura di una timeline di montaggio – le due righe in alto sono «ciò che vedi», le due in basso «ciò che senti». J-cut e L-cut mettono il taglio dell’audio prima o dopo quello dell’immagine."
+},
+{
+"key": "part05.html#80",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part05.html#81",
+"it": "Stendi prima il suono. Fissa i tempi di musica e dialoghi, poi appoggia sopra le immagini: la finitura migliora."
+},
+{
+"key": "part05.html#82",
+"it": "<b>01</b><span>Taglia solo per un motivo: quando l’inquadratura successiva dà un’informazione migliore.</span>"
+},
+{
+"key": "part05.html#83",
+"it": "<b>02</b><span>Taglia a metà dell’azione. Se tagli ad azione finita, il ritmo cede.</span>"
+},
+{
+"key": "part05.html#84",
+"it": "<b>03</b><span>Stendi prima il suono. Fissa i tempi di musica e dialoghi, poi aggiungi le immagini.</span>"
+},
+{
+"key": "part05.html#85",
+"it": "<b>04</b><span>Cambia insieme campo e angolazione. Se ne cambi uno solo, sembra un salto.</span>"
+},
+{
+"key": "part05.html#86",
+"it": "<b>05</b><span>Rispetta le linee di sguardo. Se un personaggio che guarda a sinistra nell’inquadratura dopo guarda a destra, la relazione si spezza.</span>"
+},
+{
+"key": "part05.html#87",
+"it": "<b>06</b><span>Butta via con coraggio. Se tieni un’inquadratura solo perché è costata fatica, il video si trascina.</span>"
+},
+{
+"key": "part05.html#88",
+"it": "<b>07</b><span>Blocca per primi inizio e finale. Una volta fissati, la parte centrale si sistema da sé.</span>"
+},
+{
+"key": "part05.html#89",
+"it": "<b>08</b><span>Riguarda il giorno dopo aver finito. Vedrai le lungaggini che quel giorno non vedevi.</span>"
+},
+{
+"key": "part05.html#90",
+"it": "Tieni le inquadrature che servono, non quelle belle.<small>5.2 Principi base del montaggio</small>"
+},
+{
+"key": "part05.html#91",
+"it": "<small>Esercizio</small>5.2"
+},
+{
+"key": "part05.html#92",
+"it": "Compito"
+},
+{
+"key": "part05.html#93",
+"it": "Riduci 3 minuti di girato a 1 minuto. Elenca ciò che hai buttato."
+},
+{
+"key": "part05.html#94",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#95",
+"it": "Tieni le inquadrature che servono, non quelle belle. Inizia ognuna a metà dell’azione."
+},
+{
+"key": "part05.html#96",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#97",
+"it": "Chiarezza della storia, punti di taglio naturali"
+},
+{
+"key": "part05.html#98",
+"it": "Risposta modello"
+},
+{
+"key": "part05.html#99",
+"it": "Le priorità di montaggio di Walter Murch (emozione, storia, ritmo). Una riga sul perché di ogni inquadratura scartata."
+},
+{
+"key": "part05.html#100",
+"it": "<b>PARTE 05</b>Montaggio e post-produzione"
+},
+{
+"key": "part05.html#101",
+"it": "Software di montaggio a confronto"
+},
+{
+"key": "part05.html#102",
+"it": "Per trovare lavoro, conoscere bene due strumenti vale più che conoscerne tre in superficie."
+},
+{
+"key": "part05.html#103",
+"it": "<b>Nota</b>"
+},
+{
+"key": "part05.html#104",
+"it": "Verifica prima: le condizioni d’uso commerciale di CapCut; per Final Cut, il fatto che gira solo su Mac e i limiti nella collaborazione."
+},
+{
+"key": "part05.html#105",
+"it": "Strumento"
+},
+{
+"key": "part05.html#106",
+"it": "Punti di forza"
+},
+{
+"key": "part05.html#107",
+"it": "Punti deboli"
+},
+{
+"key": "part05.html#108",
+"it": "Ideale per"
+},
+{
+"key": "part05.html#109",
+"it": "Prezzo"
+},
+{
+"key": "part05.html#110",
+"it": "Premiere Pro"
+},
+{
+"key": "part05.html#111",
+"it": "Versatilità, legame con After Effects, standard nelle assunzioni in Corea"
+},
+{
+"key": "part05.html#112",
+"it": "Stabilità incostante, progetti corrotti"
+},
+{
+"key": "part05.html#113",
+"it": "Pubblicità, video web, quasi tutto il lavoro pro"
+},
+{
+"key": "part05.html#114",
+"it": "Abbonamento"
+},
+{
+"key": "part05.html#115",
+"it": "Final Cut Pro"
+},
+{
+"key": "part05.html#116",
+"it": "Velocità, stabilità, timeline magnetica"
+},
+{
+"key": "part05.html#117",
+"it": "Solo Mac, collaborazione limitata"
+},
+{
+"key": "part05.html#118",
+"it": "Creator in proprio, utenti Mac"
+},
+{
+"key": "part05.html#119",
+"it": "Acquisto una tantum"
+},
+{
+"key": "part05.html#120",
+"it": "DaVinci Resolve"
+},
+{
+"key": "part05.html#121",
+"it": "Grading di alto livello, versione gratuita solida"
+},
+{
+"key": "part05.html#122",
+"it": "Curva di apprendimento, requisiti elevati"
+},
+{
+"key": "part05.html#123",
+"it": "Lavori centrati sul colore, senza budget"
+},
+{
+"key": "part05.html#124",
+"it": "Gratis + versione a pagamento"
+},
+{
+"key": "part05.html#125",
+"it": "After Effects"
+},
+{
+"key": "part05.html#126",
+"it": "Compositing, motion graphics, spazio 3D"
+},
+{
+"key": "part05.html#127",
+"it": "Inadatto al montaggio"
+},
+{
+"key": "part05.html#128",
+"it": "Titoli, VFX, infografiche"
+},
+{
+"key": "part05.html#129",
+"it": "Abbonamento"
+},
+{
+"key": "part05.html#130",
+"it": "CapCut"
+},
+{
+"key": "part05.html#131",
+"it": "Sottotitoli automatici, template, sincronia con il mobile"
+},
+{
+"key": "part05.html#132",
+"it": "Verifica le condizioni d’uso commerciale"
+},
+{
+"key": "part05.html#133",
+"it": "Video brevi, lavori rapidi"
+},
+{
+"key": "part05.html#134",
+"it": "Gratis + a pagamento"
+},
+{
+"key": "part05.html#135",
+"it": "Vrew"
+},
+{
+"key": "part05.html#136",
+"it": "Sottotitoli da riconoscimento vocale, rimozione dei silenzi"
+},
+{
+"key": "part05.html#137",
+"it": "Precisione limitata"
+},
+{
+"key": "part05.html#138",
+"it": "Lezioni, interviste, video esplicativi"
+},
+{
+"key": "part05.html#139",
+"it": "Gratis + a pagamento"
+},
+{
+"key": "part05.html#140",
+"it": "Avid Media Composer"
+},
+{
+"key": "part05.html#141",
+"it": "Grandi team, standard televisivo"
+},
+{
+"key": "part05.html#142",
+"it": "Barriera d’ingresso alta"
+},
+{
+"key": "part05.html#143",
+"it": "Fiction TV, emittenti"
+},
+{
+"key": "part05.html#144",
+"it": "Abbonamento"
+},
+{
+"key": "part05.html#145",
+"it": "Che cosa imparare per primo"
+},
+{
+"key": "part05.html#146",
+"it": "Gli annunci di lavoro in Corea chiedono più spesso Premiere Pro insieme ad After Effects. Aggiungi DaVinci Resolve per approfondire il colore, o CapCut se produci molti video brevi."
+},
+{
+"key": "part05.html#147",
+"it": "<small>Esercizio</small>5.3"
+},
+{
+"key": "part05.html#148",
+"it": "Compito"
+},
+{
+"key": "part05.html#149",
+"it": "Fai lo stesso montaggio di 10 inquadrature in due software e confronta i flussi di lavoro."
+},
+{
+"key": "part05.html#150",
+"it": "Consiglio"
+},
+{
+"key": "part05.html#151",
+"it": "Concentra il confronto su scorciatoie e struttura del progetto."
+},
+{
+"key": "part05.html#152",
+"it": "Valutazione"
+},
+{
+"key": "part05.html#153",
+"it": "Punti di confronto specifici, motivi della scelta"
+},
+{
+"key": "part05.html#154",
+"it": "Risposta modello"
+}
+]

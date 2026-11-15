@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#431",
+"it": "<b>02</b><i>Obiettivo</i>Concentra in un punto più luce di un foro stenopeico. La lunghezza focale determina l’angolo di campo"
+},
+{
+"key": "part01.html#432",
+"it": "<b>03</b><i>Diaframma</i>Ampiezza dell’apertura da cui passa la luce. Cambia insieme luminosità e profondità di campo"
+},
+{
+"key": "part01.html#433",
+"it": "<b>04</b><i>Otturatore</i>Per quanto tempo entra la luce. Congela il movimento o lo lascia scorrere"
+},
+{
+"key": "part01.html#434",
+"it": "<b>05</b><i>Superficie di registrazione</i>Su pellicola i grani di alogenuro d’argento anneriscono e lasciano un’immagine; su sensore i pixel trasformano la luce in carica, salvata come numeri"
+},
+{
+"key": "part01.html#435",
+"it": "La storia della fotocamera è andata verso pose più brevi, corpi più piccoli e stampa più semplice"
+},
+{
+"key": "part01.html#436",
+"it": "<b class=\"yr\">XVI sec.–</b><b>Camera obscura</b><span>Aiuto al disegno dei pittori</span>"
+},
+{
+"key": "part01.html#437",
+"it": "<b class=\"yr\">1839</b><b>Dagherrotipo</b><span>Posa di minuti, copia unica</span>"
+},
+{
+"key": "part01.html#438",
+"it": "<b class=\"yr\">1851</b><b>Lastra umida · grande formato</b><span>Negativo su vetro, copie infinite</span>"
+},
+{
+"key": "part01.html#439",
+"it": "<b class=\"yr\">1888</b><b>Fotocamera box a rullino</b><span>Foto alla portata di tutti</span>"
+},
+{
+"key": "part01.html#440",
+"it": "<b class=\"yr\">1925</b><b>Compatta 35 mm</b><span>Pellicola da cinema per le foto</span>"
+},
+{
+"key": "part01.html#441",
+"it": "<b class=\"yr\">1948</b><b>Fotocamera istantanea</b><span>Una stampa in pochi minuti</span>"
+},
+{
+"key": "part01.html#442",
+"it": "<b class=\"yr\">Anni ’50–’60</b><b>Reflex monobiettivo (SLR)</b><span>Scatti esattamente ciò che vedi</span>"
+},
+{
+"key": "part01.html#443",
+"it": "<b class=\"yr\">1975</b><b>Prototipo di fotocamera digitale</b><span>Segnali elettrici, niente pellicola</span>"
+},
+{
+"key": "part01.html#444",
+"it": "<b class=\"yr\">Anni ’90–2000</b><b>Si diffondono le compatte digitali</b><span>Scatti e controlli subito</span>"
+},
+{
+"key": "part01.html#445",
+"it": "<b class=\"yr\">2000–</b><b>Cellulare con fotocamera · smartphone</b><span>Scatti, ritocchi, pubblichi</span>"
+},
+{
+"key": "part01.html#446",
+"it": "<b>Fig. 4</b> Come è cambiata la fotocamera – 200 anni di riduzione di tempi di posa, dimensioni e passaggi di stampa. Dall’alto a sinistra al basso a destra, «chi scatta» si allarga dai pittori a tutti."
+},
+{
+"key": "part01.html#447",
+"it": "Come si è sviluppata"
+},
+{
+"key": "part01.html#448",
+"it": "<b>1826–27 Niépce</b> La più antica fotografia giunta fino a noi, Veduta dalla finestra a Le Gras. Una posa di diverse ore"
+},
+{
+"key": "part01.html#449",
+"it": "<b>1839 Daguerre</b> Il dagherrotipo. Nitidissimo su lastra d’argento, ma immagine unica che non si può copiare"
+},
+{
+"key": "part01.html#450",
+"it": "<b>1841 Talbot</b> Il calotipo. Molti positivi da un solo negativo di carta – l’inizio del sistema di copia negativo · positivo"
+},
+{
+"key": "part01.html#451",
+"it": "<b>1851 Archer</b> Lastra umida (collodio). La nitidezza del negativo su vetro con pose di pochi secondi. Gli studi di ritratto si diffondono"
+},
+{
+"key": "part01.html#452",
+"it": "<b>1888 Eastman</b> Fotocamera box a rullino. «Voi premete il bottone, noi facciamo il resto» – lo scatto si separa dallo sviluppo"
+},
+{
+"key": "part01.html#453",
+"it": "<b>1907 Autochrome · 1935 Kodachrome</b> Il primo procedimento commerciale di fotografia a colori e la pellicola a colori con emulsione multistrato"
+},
+{
+"key": "part01.html#454",
+"it": "<b>1925 Compatta 35 mm</b> Pellicola da cinema usata per le foto. Fotografia di strada e fotogiornalismo; lo standard odierno del sensore full frame"
+},
+{
+"key": "part01.html#455",
+"it": "<b>1948 Fotografia istantanea</b> Una foto in mano in pochi minuti. L’inizio del vedere subito il risultato"
+},
+{
+"key": "part01.html#456",
+"it": "<b>1975 Prototipo digitale</b> Steven Sasson, di Kodak, registra circa 0,01 megapixel su una cassetta a nastro"
+},
+{
+"key": "part01.html#457",
+"it": "<b>Dagli anni 2000</b> Cellulari con fotocamera e smartphone riuniscono scatto · ritocco · condivisione in un solo dispositivo. La fotografia computazionale, che fonde molti fotogrammi, diventa lo standard"
+},
+{
+"key": "part01.html#458",
+"it": "<b>Foto di riferimento 12.12A</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#459",
+"it": "<b>a</b>Camera obscura – la scena esterna capovolta su una parete"
+},
+{
+"key": "part01.html#460",
+"it": "<b>b</b>Fotocamera per dagherrotipi – cassetta di legno e obiettivo d’ottone"
+},
+{
+"key": "part01.html#461",
+"it": "<b>c</b>Banco ottico di grande formato – soffietto a pieghe e panno nero"
+},
+{
+"key": "part01.html#462",
+"it": "<b>Foto di riferimento 12.12B</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#463",
+"it": "<b>a</b>Fotocamera box a rullino – l’epoca in cui tutti potevano scattare"
+},
+{
+"key": "part01.html#464",
+"it": "<b>b</b>Fotocamera a telemetro 35 mm – la fotografia in strada"
+},
+{
+"key": "part01.html#465",
+"it": "<b>c</b>Reflex a pellicola e un rullino"
+},
+{
+"key": "part01.html#466",
+"it": "<b>Foto di riferimento 12.12C</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#467",
+"it": "<b>a</b>Fotocamera istantanea – una foto che appare in pochi minuti"
+},
+{
+"key": "part01.html#468",
+"it": "<b>b</b>Una delle prime compatte digitali e scheda di memoria"
+},
+{
+"key": "part01.html#469",
+"it": "<b>c</b>Fotocamera a più obiettivi di uno smartphone"
+},
+{
+"key": "part01.html#470",
+"it": "<b>Legame con il video</b>"
+},
+{
+"key": "part01.html#471",
+"it": "La pellicola cinematografica è la tecnica di esporre pellicola fotografica a 24 fotogrammi in 1 secondo. Diaframma, otturatore e sensibilità sono passati tali e quali al video (3.5)."
+},
+{
+"key": "part01.html#472",
+"it": "Nella storia della fotografia, man mano che i tempi di posa si accorciavano, ciò che si poteva fotografare si è esteso alle cose in movimento. La sequenza del cavallo in corsa di Muybridge, del 1878, è il ponte tra fotografia e cinema."
+},
+{
+"key": "part01.html#473",
+"it": "Qualunque nuova camera esca, i principi sono solo cinque. Controlla prima quale è cambiato: scatola, obiettivo, diaframma, otturatore o superficie di registrazione.<small>12.12 Una frase da usare sul set</small>"
+},
+{
+"key": "part01.html#474",
+"it": "<small>Esercizio</small>12.12"
+},
+{
+"key": "part01.html#475",
+"it": "Compito"
+},
+{
+"key": "part01.html#476",
+"it": "Costruisci una fotocamera stenopeica con una scatola e della stagnola e fotografa l’immagine capovolta della vista dalla finestra."
+},
+{
+"key": "part01.html#477",
+"it": "Consiglio"
+},
+{
+"key": "part01.html#478",
+"it": "Con un ago fai un foro piccolo e rotondo, e rendi la stanza il più buia possibile."
+},
+{
+"key": "part01.html#479",
+"it": "Valutazione"
+},
+{
+"key": "part01.html#480",
+"it": "Formazione dell’immagine spiegata con un disegno; relazione tra dimensione del foro e nitidezza"
+},
+{
+"key": "part01.html#481",
+"it": "Risposta modello"
+},
+{
+"key": "part01.html#482",
+"it": "Testimonianze sulla camera obscura. Prova tre dimensioni del foro per mostrare il compromesso tra nitidezza e luminosità."
+},
+{
+"key": "part01.html#483",
+"it": "<b>PARTE 01</b>Che cos’è il video?"
+},
+{
+"key": "part01.html#484",
+"it": "Dalla camera oscura alla stampa"
+},
+{
+"key": "part01.html#485",
+"it": "Dalle stampe alla gelatina d’argento alla stampa CMYK. Prima del digitale, tra lo scatto e la visione c’era un processo chimico. Gli schermi aggiungono luce; la stampa la sottrae."
+},
+{
+"key": "part01.html#486",
+"it": "La camera oscura – come la pellicola esposta diventa una foto su carta"
+},
+{
+"key": "part01.html#487",
+"it": "<b>① Negativo e positivo</b><span>Il negativo (pellicola), dove ciò che è chiaro risulta scuro, viene invertito di nuovo in un positivo (carta fotografica)</span>"
+},
+{
+"key": "part01.html#488",
+"it": "<b>② Ingranditore – sotto la luce rossa di sicurezza</b><span>La luce attraversa il negativo e viene proiettata sulla carta fotografica. Un obiettivo regola dimensione e fuoco</span>"
+},
+{
+"key": "part01.html#489",
+"it": "<b>③ Sviluppo della pellicola – in una tank a tenuta di luce</b><span>Sviluppo → arresto → fissaggio → lavaggio → asciugatura. A 20 °C, temperatura e tempo decidono il risultato</span>"
+},
+{
+"key": "part01.html#490",
+"it": "<b>④ Sviluppo della stampa – l’immagine appare</b><span>Circa 1 minuto nel rivelatore, mentre l’immagine scurisce sulla carta → arresto → fissaggio → lavaggio</span>"
+},
+{
+"key": "part01.html#491",
+"it": "<b>Fig. 5</b> Il lavoro in camera oscura – dal negativo al positivo. Prima del digitale, sviluppo e stampa richiedevano più tempo dello scatto."
+},
+{
+"key": "part01.html#492",
+"it": "<b>Termine</b>"
+},
+{
+"key": "part01.html#493",
+"it": "Negativo – pellicola le cui zone esposte anneriscono, invertendo chiari e scuri. Proiettato di nuovo su carta fotografica, diventa un positivo con i toni ripristinati."
+},
+{
+"key": "part01.html#494",
+"it": "Le cinque fasi dello sviluppo della pellicola"
+},
+{
+"key": "part01.html#495",
+"it": "<b>01</b><i>Sviluppo</i>Trasforma i grani d’argento esposti in argento metallico nero. Temperatura e tempo decidono il risultato"
+},
+{
+"key": "part01.html#496",
+"it": "<b>02</b><i>Arresto</i>Un bagno debolmente acido ferma lo sviluppo"
+},
+{
+"key": "part01.html#497",
+"it": "<b>03</b><i>Fissaggio</i>Scioglie l’argento non esposto, che così non reagisce più"
+},
+{
+"key": "part01.html#498",
+"it": "<b>04</b><i>Lavaggio e asciugatura</i>Lava via a fondo i chimici e asciuga in un luogo senza polvere. I residui chimici causano alterazioni di colore anni dopo"
+},
+{
+"key": "part01.html#499",
+"it": "La stampa – montare sotto l’ingranditore"
+},
+{
+"key": "part01.html#500",
+"it": "<small>Selezione</small>Provino a contatto"
+},
+{
+"key": "part01.html#501",
+"it": "Negativi appoggiati sulla carta fotografica per vedere tutti i fotogrammi su un foglio"
+},
+{
+"key": "part01.html#502",
+"it": "Scegliere quali fotogrammi usare è l’origine del montaggio"
+},
+{
+"key": "part01.html#503",
+"it": "<small>Ingrandimento</small>Ingranditore"
+},
+{
+"key": "part01.html#504",
+"it": "Un obiettivo proietta il negativo in grande, stampato alla dimensione voluta"
+},
+{
+"key": "part01.html#505",
+"it": "Il tempo di esposizione è la luminosità"
+},
+{
+"key": "part01.html#506",
+"it": "<small>Rifinitura</small>Mascheratura e bruciatura"
+},
+{
+"key": "part01.html#507",
+"it": "Mani o cartoncini trattengono o aggiungono luce in certe zone"
+},
+{
+"key": "part01.html#508",
+"it": "Da qui i nomi degli strumenti Scherma · Brucia di Photoshop"
+},
+{
+"key": "part01.html#509",
+"it": "<small>Ambiente</small>Luce rossa di sicurezza"
+},
+{
+"key": "part01.html#510",
+"it": "La carta in bianco e nero quasi non reagisce alla luce rossa"
+},
+{
+"key": "part01.html#511",
+"it": "Ti permette di vedere quello che fai"
+},
+{
+"key": "part01.html#512",
+"it": "<b>Foto di riferimento 12.13A</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#513",
+"it": "<b>a</b>Camera oscura sotto la luce rossa di sicurezza"
+},
+{
+"key": "part01.html#514",
+"it": "<b>b</b>Ingranditore – proiezione di un negativo sulla carta fotografica"
+},
+{
+"key": "part01.html#515",
+"it": "<b>c</b>Un’immagine che appare nel rivelatore"
+},
+{
+"key": "part01.html#516",
+"it": "<b>Foto di riferimento 12.13B</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#517",
+"it": "<b>a</b>Pellicola negativa e lentino su un tavolo luminoso"
+},
+{
+"key": "part01.html#518",
+"it": "<b>b</b>Provino a contatto – i fotogrammi scelti segnati"
+},
+{
+"key": "part01.html#519",
+"it": "<b>c</b>Stampe ad asciugare dopo il lavaggio"
+},
+{
+"key": "part01.html#520",
+"it": "Come si stampa il colore"
+},
+{
+"key": "part01.html#521",
+"it": "<b>Fig. 6</b> Colore della luce, colore dell’inchiostro – RGB, CMYK, punti di retino"
+},
+{
+"key": "part01.html#522",
+"it": "<small>Sintesi additiva</small>RGB"
+},
+{
+"key": "part01.html#523",
+"it": "I tre primari della luce. Sommandoli si schiarisce; tutti insieme danno il bianco"
+},
+{
+"key": "part01.html#524",
+"it": "Monitor · smartphone · proiettori"
+},
+{
+"key": "part01.html#525",
+"it": "<small>Sintesi sottrattiva</small>CMY + K"
+},
+{
+"key": "part01.html#526",
+"it": "Primari dell’inchiostro: ciano · magenta · giallo. Sovrapponendoli si scurisce"
+},
+{
+"key": "part01.html#527",
+"it": "CMY sovrapposti danno un marrone sporco, perciò si usa un inchiostro nero a parte (K, key)"
+},
+{
+"key": "part01.html#528",
+"it": "<small>Gradazione</small>Punti di retino"
+},
+{
+"key": "part01.html#529",
+"it": "Crea i toni con grandezza e distanza dei punti, non con la densità d’inchiostro"
+},
+{
+"key": "part01.html#530",
+"it": "Ogni lastra ha un’angolazione diversa per evitare il moiré"
+},
+{
+"key": "part01.html#531",
+"it": "<small>Prova</small>Conversione del colore"
+},
+{
+"key": "part01.html#532",
+"it": "Stampare un’immagine RGB così com’è fa perdere saturazione"
+},
+{
+"key": "part01.html#533",
+"it": "Converti in CMYK, poi controlla su una prova colore"
+},
+{
+"key": "part01.html#534",
+"it": "<b>Foto di riferimento 12.13C</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#535",
+"it": "<b>a</b>Macchina offset a 4 colori – quattro lastre, C · M · Y · K"
+},
+{
+"key": "part01.html#536",
+"it": "<b>b</b>Retino da vicino – motivo a rosetta CMYK"
+},
+{
+"key": "part01.html#537",
+"it": "<b>c</b>Prova colore e lentino – controllo del colore di stampa"
+},
+{
+"key": "part01.html#538",
+"it": "<b>CONSIGLIO</b>"
+},
+{
+"key": "part01.html#539",
+"it": "Non usare lo stesso file per lo schermo e per la stampa."
+},
+{
+"key": "part01.html#540",
+"it": "Perché serve a chi fa video"
+},
+{
+"key": "part01.html#541",
+"it": "<b>72–150<em>ppi</em></b>Schermo · RGB"
+},
+{
+"key": "part01.html#542",
+"it": "<b>300<em>ppi</em></b>Stampa · CMYK"
+},
+{
+"key": "part01.html#543",
+"it": "Locandine, packaging, merchandising, cataloghi di mostre: il lavoro video finisce per uscire insieme alla stampa. Livelli, curve, scherma e brucia, maschere di Photoshop riprendono tutti il lavoro di camera oscura e tipografia. Se conosci i principi, gli strumenti vengono facili."
+},
+{
+"key": "part01.html#544",
+"it": "Gli schermi aggiungono luce; la stampa la sottrae. Controlla sempre su una prova CMYK ogni immagine destinata alla stampa.<small>12.13 Una frase da usare sul set</small>"
+},
+{
+"key": "part01.html#545",
+"it": "<small>Esercizio</small>12.13"
+},
+{
+"key": "part01.html#546",
+"it": "Compito"
+},
+{
+"key": "part01.html#547",
+"it": "Converti una foto in RGB e in CMYK, stampale entrambe e annota le differenze di colore."
+},
+{
+"key": "part01.html#548",
+"it": "Consiglio"
+},
+{
+"key": "part01.html#549",
+"it": "Abbassa la luminosità del monitor e controlla prima con un’anteprima di stampa (soft proof)."
+},
+{
+"key": "part01.html#550",
+"it": "Valutazione"
+},
+{
+"key": "part01.html#551",
+"it": "Spiega con precisione sintesi additiva · sottrattiva; individua i colori fuori gamut"
+},
+{
+"key": "part01.html#552",
+"it": "Risposta modello"
+},
+{
+"key": "part01.html#553",
+"it": "Segnala i colori che in stampa cedono, come blu acceso · verde fluorescente, e propone alternative."
+},
+{
+"key": "part01.html#554",
+"it": "<b>PARTE 01</b>Che cos’è il video?"
+},
+{
+"key": "part01.html#555",
+"it": "I dispositivi su cui abbiamo guardato"
+},
+{
+"key": "part01.html#556",
+"it": "Dalla lanterna magica allo smartphone, la forma del video è stata decisa dai dispositivi di visione quanto dalla tecnologia di ripresa (12.2). A ogni cambio di dispositivo sono cambiati anche durata, dimensioni e grammatica del video."
+},
+{
+"key": "part01.html#557",
+"it": "<b>Fig. 7</b> Giocattoli ottici per vedere immagini in movimento"
+},
+{
+"key": "part01.html#558",
+"it": "I giocattoli del movimento"
+},
+{
+"key": "part01.html#559",
+"it": "<b>1825</b><i>Taumatropio</i>Fai ruotare veloce un disco e le figure su fronte e retro si fondono in una. Un uccello e una gabbia"
+},
+{
+"key": "part01.html#560",
+"it": "<b>1832</b><i>Fenachistoscopio</i>Il disco rotante di Plateau. Figure viste in uno specchio attraverso fessure"
+},
+{
+"key": "part01.html#561",
+"it": "<b>1834</b><i>Zootropio</i>Il tamburo rotante di Horner. Più persone guardano insieme una striscia di figure attraverso le fessure"
+},
+{
+"key": "part01.html#562",
+"it": "<b>1868</b><i>Flip book</i>Il dispositivo più semplice: si guarda sfogliando le pagine. Lo strumento migliore per insegnare il principio"
+},
+{
+"key": "part01.html#563",
+"it": "<b>1877</b><i>Prassinoscopio</i>Reynaud usò specchi al posto delle fessure per un’immagine più luminosa e nitida. Portò al Théâtre Optique"
+},
+{
+"key": "part01.html#564",
+"it": "<b>Foto di riferimento 12.14A</b>Immagini generate – riferimento di messa in scena"
+},
+{
+"key": "part01.html#565",
+"it": "<b>a</b>Lanterna magica – proiezione di vetrini"
+},
+{
+"key": "part01.html#566",
+"it": "<b>b</b>Zootropio – il movimento visto dalle fessure"
+},
+{
+"key": "part01.html#567",
+"it": "<b>c</b>Fenachistoscopio – un disco che gira in uno specchio"
+},
+{
+"key": "part01.html#568",
+"it": "La visione è passata da una stanza buia condivisa a uno schermo privato in mano"
+},
+{
+"key": "part01.html#569",
+"it": "<b class=\"yr\">XVII sec.</b><b>Lanterna magica</b><span>Immagini su vetro sulla parete</span>"
+},
+{
+"key": "part01.html#570",
+"it": "<b class=\"yr\">1834</b><b>Zootropio</b><span>Lo fai girare e sbirci dentro</span>"
+},
+{
+"key": "part01.html#571",
+"it": "<b class=\"yr\">1893</b><b>Cinetoscopio</b><span>Una cassa in cui sbircia uno solo</span>"
+},
+{
+"key": "part01.html#572",
+"it": "<b class=\"yr\">1895</b><b>Cinématographe</b><span>Una stanza buia, in tanti</span>"
+},
+{
+"key": "part01.html#573",
+"it": "<b class=\"yr\">Anni ’30–</b><b>TV CRT</b><span>Un salotto illuminato, la famiglia riunita</span>"
+},
+{
+"key": "part01.html#574",
+"it": "<b class=\"yr\">Anni ’60</b><b>Proiettore di diapositive</b><span>Foto ingrandite, in ordine</span>"
+},
+{
+"key": "part01.html#575",
+"it": "<b class=\"yr\">Anni ’60–’90</b><b>Lavagna luminosa</b><span>Lo schermo di aule e sale riunioni</span>"
+},
+{
+"key": "part01.html#576",
+"it": "<b class=\"yr\">1976</b><b>Video VHS</b><span>Rivedere quando vuoi</span>"
+},
+{
+"key": "part01.html#577",
+"it": "<b class=\"yr\">1996</b><b>DVD</b><span>Qualità digitale e menu</span>"
+},
+{
+"key": "part01.html#578",
+"it": "<b class=\"yr\">Anni 2000</b><b>TV a schermo piatto</b><span>Schermi 16:9 grandi e sottili</span>"
+},
+{
+"key": "part01.html#579",
+"it": "<b class=\"yr\">2005–</b><b>Video online</b><span>Cercare e condividere</span>"
+},
+{
+"key": "part01.html#580",
+"it": "<b class=\"yr\">2007–</b><b>Smartphone</b><span>Uno schermo personale in mano</span>"
+}
+]
