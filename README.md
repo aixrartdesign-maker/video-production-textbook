@@ -9,20 +9,27 @@
 
 | 자료 | 분량 | 크기 | 받기 |
 |---|---|---|---|
-| 국문판 PDF (v9.6) | 520쪽 | 27 MB | [다운로드](pdf/%EC%98%81%EC%83%81%EC%A0%9C%EC%9E%91%EC%8B%A4%EB%AC%B4%EA%B5%90%EB%B3%B8_v9.6.pdf?raw=true) |
-| English edition, PDF (v2) | 560 pages | 25 MB | [Download](pdf/Video_Production_A_Practical_Textbook_EN_v2.pdf?raw=true) |
-| Deutsche Ausgabe, PDF (v1.1) | 600 Seiten | 25 MB | [Herunterladen](pdf/Videoproduktion_Ein_Praxislehrbuch_DE_v1.1.pdf?raw=true) |
-| Русское издание, PDF (v1.1) | 608 страниц | 25 MB | [Скачать](pdf/Videoproizvodstvo_Prakticheskiy_uchebnik_RU_v1.1.pdf?raw=true) |
-| 中文版 PDF（简体，v1） | 504页 | 29 MB | [下载](pdf/%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C%E5%AE%9E%E5%8A%A1%E6%95%99%E7%A8%8B_ZH_v1.pdf?raw=true) |
-| 日本語版 PDF（v1） | 536ページ | 28 MB | [ダウンロード](pdf/%E6%98%A0%E5%83%8F%E5%88%B6%E4%BD%9C_%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88_JA_v1.pdf?raw=true) |
-| Edición en español, PDF (v1) | 600 páginas | 25 MB | [Descargar](pdf/Produccion_de_video_ES_v1.pdf?raw=true) |
-| Edizione italiana, PDF (v1) | 584 pagine | 25 MB | [Scarica](pdf/Produzione_video_IT_v1.pdf?raw=true) |
-| Édition française, PDF (v1) | 600 pages | 25 MB | [Télécharger](pdf/Production_video_FR_v1.pdf?raw=true) |
+| 국문판 PDF (v10) | 512쪽 | 28 MB | [다운로드](pdf/%EC%98%81%EC%83%81%EC%A0%9C%EC%9E%91%EC%8B%A4%EB%AC%B4%EA%B5%90%EB%B3%B8_v10.pdf?raw=true) |
+| English edition, PDF (v10) | 552 pages | 26 MB | [Download](pdf/Video_Production_A_Practical_Textbook_EN_v10.pdf?raw=true) |
+| Deutsche Ausgabe, PDF (v10) | 592 Seiten | 26 MB | [Herunterladen](pdf/Videoproduktion_Ein_Praxislehrbuch_DE_v10.pdf?raw=true) |
+| Русское издание, PDF (v10) | 592 страницы | 27 MB | [Скачать](pdf/Videoproizvodstvo_Prakticheskiy_uchebnik_RU_v10.pdf?raw=true) |
+| 中文版 PDF（简体，v10） | 496页 | 30 MB | [下载](pdf/%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C%E5%AE%9E%E5%8A%A1%E6%95%99%E7%A8%8B_ZH_v10.pdf?raw=true) |
+| 日本語版 PDF（v10） | 536ページ | 30 MB | [ダウンロード](pdf/%E6%98%A0%E5%83%8F%E5%88%B6%E4%BD%9C_%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88_JA_v10.pdf?raw=true) |
+| Edición en español, PDF (v10) | 592 páginas | 26 MB | [Descargar](pdf/Produccion_de_video_ES_v10.pdf?raw=true) |
+| Edizione italiana, PDF (v10) | 584 pagine | 26 MB | [Scarica](pdf/Produzione_video_IT_v10.pdf?raw=true) |
+| Édition française, PDF (v10) | 592 pages | 27 MB | [Télécharger](pdf/Production_video_FR_v10.pdf?raw=true) |
 | 수업 슬라이드 (PowerPoint) | 13챕터 | 47 MB | [다운로드](slides/%EC%98%81%EC%83%81%EC%A0%9C%EC%9E%91%EC%8B%A4%EB%AC%B4%EA%B5%90%EB%B3%B8_%EC%88%98%EC%97%85%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C_13%EC%B1%95%ED%84%B0_v2.pptx?raw=true) |
 | 조판 소스와 이미지 전체 | | | [sources 폴더](sources/) |
 
 - 전부 한 번에 받으려면 이 페이지 위쪽의 초록색 **Code** 버튼을 누르고 **Download ZIP**을 고르세요.
 - 여기 올린 PDF는 화면으로 읽기 좋게 사진은 150dpi, 그림은 200dpi로 줄인 읽기용입니다. 글자와 쪽 배치는 인쇄본과 같습니다.
+
+
+### v10 (2026-11) — 인쇄 확정판 / print edition
+- 중복 정리: 같은 사진이 두 번 실린 후킹 도판 정리, 겹치던 절 통합(PART 1 앵글·구도·색, PART 10 포트폴리오·면접·창업), 7.4와 같은 내용의 광고 사례 절 삭제, 12.8·5.4의 중복 표 삭제, 제작용 부록(N·V·R·S) 삭제
+- 추가: 조명 특집에 「장면별 빛 사전」(24종, 직접 그린 도해), 특수 렌즈 3종·필터 3종
+- 그림 차례를 실제 그림 번호와 순서로 다시 생성
+- Duplicates removed and overlapping sections merged; new scene-light dictionary (24 lights) and extra lens/filter entries; figure list regenerated. Tool: `sources/tools/restructure_v10/`.
 
 ## 들어 있는 것
 

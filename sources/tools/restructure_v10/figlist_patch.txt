@@ -1,0 +1,17 @@
+# ---- v10: regenerate the figure list from the renumbered captions ----
+def _figlist(H,figword):
+    caps=re.findall(r'<figcaption>\s*<b>'+figword+r' (\d+(?:-\d+)?)</b>(.*?)</figcaption>',H,flags=re.S)
+    rows=[];seen=set()
+    for n,c in caps:
+        if n in seen or '-' in n: continue
+        seen.add(n); c=re.sub(r'<[^>]+>','',c).strip()
+        c=re.split(r'(?<=[.!?])\s|(?<=。)',c)[0].rstrip('.。')
+        if len(c)>78: c=c[:76].rstrip()+'…'
+        rows.append((n,c))
+    half=(len(rows)+1)//2; L,R=rows[:half],rows[half:]
+    trs=''.join(f'<tr><td>{a[0]}</td><td>{a[1]}</td><td>{b[0] if b else ""}</td><td>{b[1] if b else ""}</td></tr>\n' for a,b in zip(L,R+[None]*(len(L)-len(R))))
+    m=re.search(r'(<(?:article|section)[^>]*id="fig-list".*?<tbody>)(.*?)(</tbody>)',H,flags=re.S)
+    if not m: print('!! fig-list not found'); return H
+    head=re.sub(r'(<p class="lead">[^<\d]*?)\d+',lambda k:k.group(1)+str(len(rows)),m.group(1),count=1)
+    print('fig-list regenerated',len(rows))
+    return H[:m.start()]+head+trs+m.group(3)+H[m.end():]

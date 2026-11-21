@@ -1,0 +1,180 @@
+{
+"title": "Dictionnaire de la lumière par scène – vingt-quatre lumières à chercher par moment, lieu et émotion",
+"intro": "Sur le plateau, on retrouve plus facilement une lumière si on la mémorise par la scène qu’elle sert plutôt que par son nom. Les entrées sont rangées dans quatre tiroirs : le visage, l’heure et la météo, la nuit et les intérieurs, le genre et l’émotion. Chaque dessin montre le dispositif vu de dessus ou de profil, avec une ligne pour le construire et une ligne pour l’employer.",
+"groups": [
+"La lumière qui modèle le visage",
+"La lumière de l’heure et de la météo",
+"Nuit et intérieurs – une lumière à la source visible",
+"La lumière du genre et de l’émotion"
+],
+"caps": [
+"Le même visage paraît plus large, plus fin ou étranger selon la seule place de la lumière principale.",
+"Le soleil et le ciel sont les plus grands projecteurs. Choisir l’heure, c’est choisir la lumière.",
+"La nuit, une lumière ne paraît naturelle que si sa source se voit dans le cadre.",
+"Avec la couleur et le mouvement, la lumière se met à annoncer le genre."
+],
+"items": [
+[
+"Lumière large",
+"Principale sur la joue large, tournée vers la caméra",
+"Le visage paraît plus large et plus clair – visages minces, impression ouverte"
+],
+[
+"Lumière courte",
+"Principale sur la joue étroite, opposée à la caméra",
+"Plus fin et plus sculpté – la base de l’interview et de la fiction"
+],
+[
+"Clamshell",
+"Lumière douce au-dessus de l’objectif et réflecteur sous le menton",
+"Une peau sans ombre – gros plans beauté et cosmétique"
+],
+[
+"Lumière zénithale",
+"Un projecteur juste au-dessus de la tête, sans débouchage",
+"Les yeux s’enfoncent dans l’ombre – solitude, interrogatoire, pression"
+],
+[
+"Lumière par-dessous",
+"Depuis sous la poitrine, vers le haut",
+"Un visage familier devient étrange – horreur, scènes à la lampe torche"
+],
+[
+"Kicker",
+"De l’arrière, du côté opposé à la principale, rasant le bord de la joue",
+"Un liseré plus large qu’un contre-jour – action, personnages forts"
+],
+[
+"Heure dorée",
+"Juste après le lever ou avant le coucher du soleil : soleil derrière le sujet, réflecteur pour le visage",
+"Souvenir chaleureux – publicités familiales et de fêtes, premières rencontres"
+],
+[
+"Heure bleue",
+"20 à 30 minutes après le coucher : le ciel en principale, les lampes intérieures en points chauds",
+"Calme et mélancolie – le passage à la ville de nuit"
+],
+[
+"Ciel couvert",
+"Tout le ciel est une immense boîte à lumière ; un drapeau noir d’un côté rend le relief",
+"Teint stable – documentaire, interviews, produit en extérieur"
+],
+[
+"Soleil de midi",
+"Lumière dure venue d’en haut – passer à l’ombre ou tendre une diffusion au-dessus",
+"Chaleur et sécheresse – été, désert, la ville à midi"
+],
+[
+"Lumière de fenêtre",
+"La fenêtre est la principale ; côté pièce, laisser sombre ou déboucher avec un panneau blanc",
+"Quotidien et réflexion – la lumière la moins chère et la plus luxueuse"
+],
+[
+"Ombres de feuillage",
+"Branches ou panneau découpé (cucoloris) devant le soleil direct",
+"Un après-midi frais, le souvenir, l’été"
+],
+[
+"Clair de lune",
+"Contre-jour haut avec gélatine bleue (CTB) ; le visage reste en clé basse",
+"La base de la nuit – la vraie lune est trop sombre pour être enregistrée"
+],
+[
+"Nuit américaine",
+"Tourner de jour à contre-jour, sous-exposer de deux diaphs, étalonner en bleu, ciel hors champ",
+"Grands paysages nocturnes impossibles à éclairer"
+],
+[
+"Réverbère",
+"Lumière dure orange ou blanche venue d’en haut, ombres aux pieds",
+"Le chemin du retour, l’isolement, la ville de nuit"
+],
+[
+"Bougie et feu",
+"Flamme dans le champ et petite lampe chaude basse hors champ, qui vacille",
+"Intimité, aveu, rituel"
+],
+[
+"Lumière d’écran",
+"Un petit panneau froid à la place de l’écran ou du téléphone, à faible puissance",
+"Nuits blanches, isolement, scènes de messagerie"
+],
+[
+"Ombres de stores",
+"Lumière dure à travers des stores ou des barreaux",
+"Noir, enfermement, secrets"
+],
+[
+"Lumière volumétrique",
+"Brume dans l’air et lumière dure de l’arrière – les faisceaux deviennent visibles",
+"Mystère, recueillement, clips"
+],
+[
+"Néon et couleurs mêlées",
+"Deux sources de couleurs différentes à gauche et à droite – souvent magenta et cyan",
+"La ville la nuit, les clubs, l’ambiance cyber"
+],
+[
+"Principale chaude, contre-jour froid",
+"Principale chaude (vers 3 200 K), contre-jour froid (5 600 K et plus)",
+"Le sujet se détache du fond – la plupart des publicités"
+],
+[
+"Poursuite",
+"Un faisceau étroit sur le seul sujet, tout le reste noir",
+"Scène, aveu, l’entrée du héros"
+],
+[
+"Éclairs",
+"Stroboscope ou effet d’éclair en salves brèves et répétées",
+"Tension, choc, club et action"
+],
+[
+"Lumière de passage",
+"Des lampes qui bougent hors champ – phares, fenêtres d’un train",
+"Le temps qui passe, l’intérieur d’une voiture qui roule"
+]
+],
+"note_t": "Une source plutôt qu’un nom – la lumière motivée",
+"note": "Décidez d’abord quelle source du cadre pourrait produire cette lumière (une fenêtre, une lampe, un écran, un réverbère), puis faites imiter sa direction et sa couleur par le vrai projecteur. Le public trouve naturelle une lumière dont il voit la source, et « éclairée » une lumière qui n’en a pas.",
+"lens": [
+[
+"Fisheye",
+"180° dans un cadre",
+"Un monde qui se courbe en cercle – skate, clip, caméra subjective",
+"La matière première de la vidéo 360"
+],
+[
+"Objectif à mise au point sélective",
+"Un seul point net",
+"Incliner le fût pour déplacer la zone nette",
+"Rêve, souvenir, rêverie"
+],
+[
+"Sténopé",
+"Un trou à la place d’une lentille",
+"Profondeur infinie, mais image douce",
+"Très sombre – il faut beaucoup de lumière"
+]
+],
+"filt": [
+[
+"Filtre étoile (croix)",
+"Des rayons autour des sources ponctuelles",
+"Vues de nuit, bijoux, produits scintillants",
+"4, 6 ou 8 rayons selon les stries"
+],
+[
+"ND dégradé (GND)",
+"N’assombrit que le haut du cadre",
+"Ciel clair et sol sombre ensemble",
+"Aligner la transition sur l’horizon pour qu’elle ne se voie pas"
+],
+[
+"Prisme et reflets",
+"Images doublées et franges irisées sur les bords",
+"Clips, souvenirs, rêves",
+"Le tourner à la main devant l’objectif pour créer du mouvement"
+]
+]
+}
