@@ -35,13 +35,13 @@ const STR = {
   lead: '여리고 앞에 선 순례자가 되어 여섯 장면을 걷습니다. 두려움을 마주하고, 그저 걷고, 나팔을 불어 보세요.',
   verse0: '여호와께서 여호수아에게 이르시되\n보라 내가 여리고와 그 왕과 용사들을 네 손에 붙였으니', ref0: '여호수아 6:2 · 개역한글',
   verse1: '내가 네게 명한 것이 아니냐 마음을 강하게 하고 담대히 하라\n두려워 말며 놀라지 말라\n네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라', ref1: '여호수아 1:9 · 개역한글',
-  tips: ['이어폰을 끼면 더 깊이 들립니다', '자동 걷기 버튼으로 한 손으로도 걸을 수 있어요', '끝까지 걷는 데 6분쯤 걸립니다'],
+  tips: ['이어폰을 끼면 더 깊이 들립니다', '자동 걷기 버튼으로 한 손으로도 걸을 수 있어요', '멀리 있는 빛을 누르면 그 자리로 바로 갈 수 있어요', '끝까지 걷는 데 6분쯤 걸립니다'],
   easy: '편하게 걷기', easySub: '자동으로 길을 따라 걷습니다', manual: '직접 걷기', manualSub: '손가락으로 방향을 정합니다', resume: '이어서 걷기',
   skip: '화면을 누르면 건너뜁니다',
   hintTouch: '왼쪽을 끌어 걷기 · 오른쪽을 끌어 둘러보기', hintKeys: 'WASD · 방향키로 걷기 · 드래그로 둘러보기',
   hintEasyTouch: '자동으로 걷는 중 · 화면을 끌어 둘러보기', hintEasyKeys: '자동으로 걷는 중 · 드래그로 둘러보기 · F 키로 끄기',
   turn: '이쪽으로', close: '닫기', optView: '시점', v3: '3인칭', v1: '1인칭',
-  auto: '자동 걷기',
+  auto: '자동 걷기', warp: '빛으로\n바로 가기', hintWarp: '빛을 누르면 그 자리로 바로 갑니다',
   stages: [null,
     { no: '01', name: '건너다', goal: '물이 멈춘 요단강, 마른 강바닥을 걸어 건너세요' },
     { no: '02', name: '마주하다', goal: '빛기둥까지 걸어가 여리고 성을 마주하세요' },
@@ -101,7 +101,7 @@ const FEARS = [
 
 // ── tuning numbers ─────────────────────────────────────────────────────────
 const CFG = {
-  speed: 1.9, cx: 0, cz: -30, wallR: 32, keepOut: 40.6, blockH: 2, blockD: 2.6, beaconR: 47, reach: 3.0, wz: 3, wr: 112,
+  speed: 2.25, cx: 0, cz: -30, wallR: 32, keepOut: 40.6, blockH: 2, blockD: 2.6, beaconR: 47, reach: 3.0, wz: 3, wr: 112,
   riverZ0: 50, riverZ1: 66, pathHalf: 3.4, startZ: 84, blowSeconds: 1.3, gravity: -18,
   camDist: 6.8, camPitch: 0.3, endZ: -92,
   // instance counts: [high, low]

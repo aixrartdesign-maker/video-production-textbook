@@ -22,7 +22,7 @@ function begin(mode) {
   AUTO.easy = save ? !!save.easy : mode === 'easy'; AUTO.want = AUTO.easy;
   $('#title').style.opacity = 0; setTimeout(() => { $('#title').hidden = true; }, 1100);
   $('#hud').hidden = false; $('#auto').hidden = false;
-  LOOPS.fear = mkLoop('m_fear', 0.8, SND.music); LOOPS.steps = mkLoop('steps', 0); LOOPS.river = mkLoop('river', 0); LOOPS.fire = mkLoop('fire', 0);
+  LOOPS.fear = mkLoop('m_fear', 0.8, SND.music); LOOPS.steps = mkLoop('steps', 0, null, HERO.steps ? clamp((HERO.steps * HERO.stride * 60) / 165, 0.75, 1.15) : 1); // the recording steps about 165 times a minute LOOPS.river = mkLoop('river', 0); LOOPS.fire = mkLoop('fire', 0);
   if (save) resumeAt(save); else { drop('jericho:save'); G.phase = 'intro'; G.intro = 0; cine(true); $('#skipHint').hidden = false; later(1.3, () => { if (G.phase === 'intro') say('intro', 6); }); }
   netConnect();
 }
@@ -31,6 +31,7 @@ function endIntro() {
   cine(false); $('#skipHint').hidden = true; G.phase = 'play'; setStage(1); setTarget({ x: 0, z: CFG.riverZ0 - 6 });
   if (AUTO.easy) later(1.4, () => { setAuto(true); say('gauto', 5); showHint(COARSE ? STR.hintEasyTouch : STR.hintEasyKeys); later(10, hideHint); });
   else { showHint(COARSE ? STR.hintTouch : STR.hintKeys); later(4.5, () => { if (!G.movedOnce && G.phase === 'play') say('guide', 5); }); }
+  later(13, () => warpHint(1));
 }
 function onReach() {
   if (G.stage === 1) { say('crossed', 6); setStage(2); setTarget({ x: CFG.cx, z: CFG.cz + CFG.beaconR }); later(7.4, () => { if (G.stage === 2 && G.phase === 'play') say('face', 7); }); }
@@ -39,9 +40,38 @@ function onReach() {
   else if (G.stage === 5) atCairn();
   else if (G.stage === 6) ending();
 }
+// ── straight to the light: for anyone who would rather not walk the whole way ──
+const JUMP = { busy: false };
+function hitLight(sx, sy) { // is this tap on the pillar of light the player follows?
+  if (!G.target || !beacon.visible || G.phase !== 'play') return false;
+  const t = G.target, by = beacon.position.y, pad = Math.max(42, Math.min(innerWidth, innerHeight) * 0.075); let best = Infinity;
+  for (let i = 0; i <= 14; i++) {
+    V1.set(t.x, by + 0.3 + i * 2.2, t.z).project(camera); if (V1.z > 1 || V1.z < -1) continue;
+    best = Math.min(best, Math.hypot((V1.x * 0.5 + 0.5) * innerWidth - sx, (-V1.y * 0.5 + 0.5) * innerHeight - sy));
+  }
+  return best < pad;
+}
+function jumpToLight() {
+  const t = G.target; if (JUMP.busy || G.paused || G.phase !== 'play' || !t || ACT.on) return false;
+  const reach = t.r || CFG.reach; if (Math.hypot(t.x - P.x, t.z - P.z) < reach + 1.5) return false; // already there
+  JUMP.busy = true; dropInput(); buzz(20); hideHint(); const fx = $('#warpFx'); fx.classList.add('on');
+  setTimeout(() => {
+    if (G.phase === 'play' && G.target === t && !G.paused) {
+      const rg = ringGuide(), r = reach - 0.5; // stand just inside the ring, on the side the walk would have come from
+      if (rg) { const a = Math.atan2(t.x - CFG.cx, t.z - CFG.cz) - Math.sign(rg.d) * (r / CFG.beaconR); P.x = CFG.cx + Math.sin(a) * CFG.beaconR; P.z = CFG.cz + Math.cos(a) * CFG.beaconR; }
+      else { const dx = t.x - P.x, dz = t.z - P.z, d = Math.hypot(dx, dz) || 1; P.x = t.x - (dx / d) * r; P.z = t.z - (dz / d) * r; }
+      const ux = t.x - P.x, uz = t.z - P.z; P.heading = Math.atan2(ux, uz); CAM.yaw = Math.atan2(-ux, -uz); CAM.pitch = CFG.camPitch; input.lastLook = -9;
+      P.y = groundY(P.x, P.z); P.step = 0; hero.position.set(P.x, P.y, P.z); hero.rotation.y = P.heading; TRAIL.length = 0; G.progT = G.now; G.progD = 1e9; G.jumps = (G.jumps || 0) + 1;
+      if (COMP.some((c) => c.on)) showCompanions(true);
+    }
+    fx.classList.remove('on'); JUMP.busy = false;
+  }, 240);
+  return true;
+}
+function warpHint(stage) { if (G.phase === 'play' && G.stage === stage && G.target && !G.jumps) { showHint(STR.hintWarp); later(9, hideHint); } } // the short cut, said once per stretch until it is used
 function pickFear(f) {
   G.fear = f; netSend({ type: 'fear', value: f.id }); drawWord(f.label); $('#choose').hidden = true;
-  G.day = 0; TRAIL.length = 0; setStage(3); setLamps(); resumePlay(); setTarget(beaconPos(1)); say('march', 8);
+  G.day = 0; TRAIL.length = 0; setStage(3); setLamps(); resumePlay(); setTarget(beaconPos(1)); say('march', 8); later(10, () => warpHint(3));
 }
 function reachDay() {
   G.day++; const d = G.day; netSend({ type: 'day', n: d }); setLamps(); store('jericho:save', { stage: 3, fear: G.fear.id, day: d, easy: AUTO.easy });

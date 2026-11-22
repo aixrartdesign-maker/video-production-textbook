@@ -55,7 +55,7 @@ function update(dt) {
       P.x += ux * sp * dt; P.z += uz * sp * dt; P.heading = lerpAngle(P.heading, Math.atan2(ux, uz), 1 - Math.exp(-10 * dt));
       if (G.now - input.lastLook > 1.4 && input.lookId === null) { if (AUTO.on) CAM.yaw = lerpAngle(CAM.yaw, Math.atan2(-ux, -uz), 1 - Math.exp(-1.2 * dt)); else if (Math.abs(AX.x) > 0.15) CAM.yaw -= AX.x * 1.2 * dt; }
       constrain(px, pz);
-      P.step += Math.hypot(P.x - px, P.z - pz); if (P.step > 0.74) { P.step = 0; stampFoot(); }
+      P.step += Math.hypot(P.x - px, P.z - pz); if (P.step > (HERO.steps ? CFG.speed / (HERO.steps * HERO.stride) : 0.74)) { P.step = 0; stampFoot(); } // one print per step of the clip
       if (!G.movedOnce) { G.movedOnce = true; later(3, hideHint); }
     }
     if (G.target) {
@@ -63,7 +63,7 @@ function update(dt) {
       if (G.frames % 5 === 0) {
         const ang = Math.atan2(dx * rx + dz * rz, dx * fx + dz * fz), off = !AUTO.on && Math.abs(ang) > 1.05, tn = $('#turn');
         $('#dist').textContent = Math.round(d) + ' m'; $('#needle svg').style.transform = `rotate(${ang}rad)`;
-        tn.hidden = !off; if (off) tn.className = ang > 0 ? 'right' : 'left';
+        tn.hidden = !off; if (off) tn.className = ang > 0 ? 'right' : 'left'; $('#warp').hidden = d < (G.target.r || CFG.reach) + 6;
       }
       if (d < (G.target.r || CFG.reach)) onReach();
       else if (!AUTO.on && !subsOff) { // gentle help when someone seems lost
@@ -153,14 +153,14 @@ function buildOptions() {
   T('#titleLead', STR.lead); V('#titleVerse', STR.verse0); T('#titleRef', STR.ref0); T('#tip', STR.tips[Math.floor(Math.random() * STR.tips.length)]);
   T('#easyT', STR.easy); T('#easyS', STR.easySub); T('#manualT', STR.manual); T('#manualS', STR.manualSub); T('#resume', STR.resume);
   T('#chooseH', STR.chooseH); T('#chooseP', STR.chooseP); T('#writeH', STR.writeH); T('#writeP', STR.writeP); $('#note').placeholder = STR.notePh;
-  T('#skipWrite', STR.skipWrite); T('#keep', STR.keep); T('#save', STR.save); T('#roam', STR.roam); T('#autoLabel', STR.auto); T('#actLabel', STR.blow); T('#skipHint', STR.skip);
+  T('#skipWrite', STR.skipWrite); T('#keep', STR.keep); T('#save', STR.save); T('#roam', STR.roam); T('#autoLabel', STR.auto); T('#warpT', STR.warp); T('#actLabel', STR.blow); T('#skipHint', STR.skip);
   T('#pauseH', STR.pauseH); T('#cont', STR.cont); T('#restart', STR.restart); T('#endLine', STR.lines.ending); V('#endMeet', STR.verse1); T('#endInfo', STR.ref1); T('#endWho', STR.cardWho);
   T('#endCard', STR.again); T('#endReplay', STR.replay); T('#lostText', STR.lost); T('#reload', STR.reload); T('#turnText', STR.turn);
   for (const f of FEARS) { const b = document.createElement('button'); b.type = 'button'; b.textContent = f.label; b.addEventListener('click', () => pickFear(f)); $('#fears').append(b); }
   $('#easy').addEventListener('click', () => begin('easy')); $('#manual').addEventListener('click', () => begin('manual')); $('#resume').addEventListener('click', () => begin('resume'));
   $('#skipWrite').addEventListener('click', () => closeWrite('')); $('#keep').addEventListener('click', () => closeWrite($('#note').value));
   $('#save').addEventListener('click', saveCard); $('#roam').addEventListener('click', goOn);
-  $('#auto').addEventListener('click', () => setAuto(!AUTO.on, true)); $('#act').addEventListener('click', pressAction);
+  $('#auto').addEventListener('click', () => setAuto(!AUTO.on, true)); $('#act').addEventListener('click', pressAction); $('#warp').addEventListener('click', jumpToLight);
   $('#menuBtn').addEventListener('click', togglePause); $('#cont').addEventListener('click', togglePause);
   const again = () => { drop('jericho:save'); location.href = location.pathname; };
   $('#restart').addEventListener('click', again); $('#endReplay').addEventListener('click', again); $('#reload').addEventListener('click', () => location.reload());
@@ -193,7 +193,7 @@ Promise.all(MODELS.map(glb)).then((arr) => {
   for (const f of WORLD.fires) if (!f.userData.s) f.userData.s = f.scale.x;
   applyQuality(pickTier()); applyMood(0);
   $('#loadRow').hidden = true; $('#startRow').hidden = false; if (SAVE) $('#resume').hidden = false;
-  window.__g = { G, P, CAM, AUTO, HERO, COMP, W, SET, QL, FEARS, WORLD, begin, pickFear, pressAction, startCollapse, closeWrite, goOn, renderer };
+  window.__g = { G, P, CAM, AUTO, HERO, COMP, W, SET, QL, FEARS, WORLD, CFG, begin, pickFear, pressAction, startCollapse, closeWrite, goOn, jumpToLight, hitLight, renderer, camera, beacon };
   if (qs.get('stage') && SAVE) begin('resume');
 });
 requestAnimationFrame(frame);

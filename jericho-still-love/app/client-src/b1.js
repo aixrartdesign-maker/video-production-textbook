@@ -205,5 +205,5 @@ const beacon = new THREE.Group(); beacon.visible = false; scene.add(beacon);
 const beaconPos = (i) => { const a = (i * TAU) / 7; return { x: CFG.cx + Math.sin(a) * CFG.beaconR, z: CFG.cz + Math.cos(a) * CFG.beaconR }; };
 function setTarget(t) {
   G.target = t; beacon.visible = !!t; $('#compass').hidden = !t; G.progT = G.now; G.progD = 1e9;
-  if (t) { beacon.position.set(t.x, Math.max(groundY(t.x, t.z), 0), t.z); if (AUTO.want && G.phase === 'play') setAuto(true); } else { $('#turn').hidden = true; if (AUTO.on) setAuto(false); }
+  if (t) { beacon.position.set(t.x, Math.max(groundY(t.x, t.z), 0), t.z); if (AUTO.want && G.phase === 'play') setAuto(true); } else { $('#turn').hidden = true; $('#warp').hidden = true; if (AUTO.on) setAuto(false); }
 }
