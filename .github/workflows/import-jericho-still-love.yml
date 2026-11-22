@@ -1,0 +1,49 @@
+# One-off import: unpacks the project archive named in jericho-still-love/.import-request
+# into the jericho-still-love/ folder of this branch. The branch is temporary and is
+# deleted once the folder has been added to main, so this file never reaches main.
+name: Import jericho-still-love archive
+
+on:
+  push:
+    branches: [add-jericho-still-love]
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            jericho-still-love
+            .github
+          sparse-checkout-cone-mode: true
+
+      - name: Download, verify and unpack
+        id: unpack
+        run: |
+          set -euo pipefail
+          req=jericho-still-love/.import-request
+          if [ ! -f "$req" ]; then echo "nothing to import"; echo "done=no" >> "$GITHUB_OUTPUT"; exit 0; fi
+          url="$(sed -n '1p' "$req")"
+          sum="$(sed -n '2p' "$req")"
+          curl -fsSL --retry 3 "$url" -o "$RUNNER_TEMP/src.zip"
+          echo "$sum  $RUNNER_TEMP/src.zip" | sha256sum -c -
+          unzip -q "$RUNNER_TEMP/src.zip" -d "$RUNNER_TEMP/src"
+          rm -f "$req"
+          cp -a "$RUNNER_TEMP/src/jericho-still-love/." jericho-still-love/
+          echo "files: $(find jericho-still-love -type f | wc -l)"
+          echo "done=yes" >> "$GITHUB_OUTPUT"
+
+      - name: Commit the imported files
+        if: steps.unpack.outputs.done == 'yes'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A jericho-still-love
+          git commit -q -m "Import jericho-still-love source and assets from the project archive"
+          git push
