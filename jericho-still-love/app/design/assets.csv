@@ -1,0 +1,34 @@
+id,role,type,description,size/ratio,style line ref,source
+hero,player character (rigged; Walk / Idle / Horn / Kneel clips),3d glb,ancient Israelite pilgrim in cream linen with an indigo sash,1.75 m tall,STYLE FORMULA,generate
+priest,companion who appears on the fourth day (rigged; Walk / Idle / Cheer),3d glb,priest in a white robe and turban with a blue sash,1.76 m tall,STYLE FORMULA,generate
+woman,companion (rigged; Walk / Idle / Cheer),3d glb,woman in an ochre dress and cream head scarf,1.62 m tall,STYLE FORMULA,generate
+elder,companion (rigged; Walk / Idle / Cheer),3d glb,grey-bearded elder in a brown mantle,1.70 m tall,STYLE FORMULA,generate
+shofar,trumpet that floats before the pilgrim on the seventh day and is held to the mouth,3d glb,ram's horn shofar with ribbon and blossom,0.62 m,STYLE FORMULA,generate
+rubble,overgrown wall chunks that rise in the ruins (instanced),3d glb,broken limestone blocks with vines and wildflowers,5.2 m wide,STYLE FORMULA,generate
+palm,date palms along the Jordan and on the plain (instanced),3d glb,date palm with fruit clusters (diorama base trimmed in code),9.6 m tall,STYLE FORMULA,generate
+acacia,desert trees on the plain (instanced),3d glb,gnarled acacia tree,6.5 m tall,STYLE FORMULA,generate
+rock,boulders on the plain and stones on the dry river bed (instanced),3d glb,weathered sandstone boulder,2.6 m wide,STYLE FORMULA,generate
+tent,the camp at the start (instanced),3d glb,dark goat-hair nomad tent,8 m wide,STYLE FORMULA,generate
+jars,camp props and the campfire (instanced),3d glb,clay jars beside a stone fire ring,2.7 m wide,STYLE FORMULA,generate
+house,city houses revealed when the wall falls (instanced),3d glb,roofless mud-brick house,6.2 m wide,STYLE FORMULA,generate
+cairn,memorial stones at the centre of the ruins,3d glb,stack of rounded river stones,1.7 m tall,STYLE FORMULA,generate
+citadel,inner city seen behind the wall; sinks during the collapse,3d glb,stepped fortress with towers,44 m wide,STYLE FORMULA,generate
+flower,hope marker blooming at each day and across the ruins (billboard),sprite png,clump of white anemones and golden crown daisies,1.2 x 0.71 m,STYLE FORMULA,generate
+grass,dry grass tufts on the plain (billboard),sprite png,dry golden grass tuft,1.25 x 1.02 m,STYLE FORMULA,generate
+reeds,reeds along the river banks (billboard),sprite png,green river reeds with seed heads,2.3 x 2.0 m,STYLE FORMULA,generate
+horn,icon on the blow-the-trumpet button,sprite png,shofar with ribbon and blossom,92 x 74 px,STYLE FORMULA,generate
+sand,ground albedo (tiling),texture jpg,rippled pale desert sand,1024 px tile = 6.3 m,STYLE FORMULA,generate
+sand_n,ground normal map,texture jpg,derived from sand,1024 px,-,derived
+stone,wall block albedo (tiling),texture jpg,weathered limestone ashlar,512 px,STYLE FORMULA,generate
+stone_n,wall normal map,texture jpg,derived from stone,512 px,-,derived
+path,trodden ways and the wet river bed (blended in the ground shader),texture jpg,packed earth with pebbles,512 px tile = 4.8 m,STYLE FORMULA,generate
+gate,city gate,texture jpg,arched double wooden gate in a stone frame,1024 px,STYLE FORMULA,generate
+sky_fear,sky before the fall (cylinder panorama),texture jpg,heavy grey overcast,2:1,STYLE FORMULA,generate
+sky_hope,sky after the fall (cylinder panorama),texture jpg,golden sunrise clouds,2:1,STYLE FORMULA,generate
+title,title screen background,image jpg,pilgrim blowing the shofar before the wall,16:9,STYLE FORMULA,generate
+og / cover / favicon,share card and feed cover,image,title art with the logotype,1200x630 / 4:5 / 256 px,STYLE FORMULA,composed
+m_fear,music loop before the fall,audio mp3,tense and quiet underscore,40 s loop,-,generate
+m_hope,music loop after the fall,audio mp3,warm sunrise underscore,40 s loop,-,generate
+shofar / collapse / shout / steps / river / fire / birds / chime,sound effects,audio mp3,horn blast; wall collapse; crowd shout; footsteps on sand; river; campfire; dawn birds; soft bell,4-8 s,-,generate
+vo_* (22 lines),Korean narration for every beat and for guidance,audio mp3,calm female narrator,2-7 s each,-,generate
+jm-400 / jm-800,Korean serif display font (subset to the glyphs used),font woff2,Nanum Myeongjo (SIL OFL),64-73 KB,-,subset
