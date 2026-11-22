@@ -1,0 +1,63 @@
+# 그럼에도, 사랑하시기에 — Jericho, Still His Love
+
+광림교회 청년선교국 달레트팀의 아트 워십 〈그럼에도, 사랑하시기에〉를 위한 여섯 장면 3D 걷기 게임입니다.
+여호수아 6:2–5의 여리고 이야기를 "두려움을 마주하고, 그저 걷고, 나팔을 부는" 5~7분 체험으로 옮겼습니다.
+
+- 플레이: https://jericho-still-love.higgsfield.app
+- 엔진: three.js r170 (vendored) · 정적 클라이언트 + Cloudflare Worker / Durable Object (Higgsfield game template)
+- 에셋: 캐릭터·오브제·배경·사운드·내레이션 모두 Higgsfield에서 생성 (목록은 `app/design/assets.csv`)
+
+## 여섯 장면
+
+| # | 장면 | 하는 일 |
+| --- | --- | --- |
+| 1 | 건너다 | 갈라진 요단강의 마른 강바닥을 건넙니다 |
+| 2 | 마주하다 | 성 앞에서 나의 여리고(불안·외로움·실패·내일)를 고릅니다 |
+| 3 | 나아가다 | 일곱 날 동안 성 둘레를 걷습니다. 넷째 날, 함께 걷던 이들이 보입니다 |
+| 4 | 무너지다 | 나팔을 한 번 눌러 붑니다. 성이 무너지고 해가 뜹니다 |
+| 5 | 돌아보다 | 폐허 한가운데 돌무더기에 한 줄을 남깁니다 (메시지 카드) |
+| 6 | 다시, 나아가다 | 해 뜨는 쪽으로 걸어 나갑니다 |
+
+## 조작
+
+- **편하게 걷기**: 길을 따라 자동으로 걷습니다. 화면의 버튼만 누르면 됩니다 (어르신·처음 하는 분 추천).
+- **직접 걷기**: 터치 — 왼쪽을 끌어 걷기, 오른쪽을 끌어 둘러보기 / 키보드 — WASD·방향키, 드래그로 둘러보기, F 자동 걷기, Space 나팔, Esc 멈춤.
+- 안내: 바닥의 금색 화살표, 빛기둥, 나침반과 거리, "이쪽으로" 표시, 한국어 내레이션과 자막.
+- 멈춤 메뉴: 소리 · 내레이션 · 큰 글씨 · 시점(3인칭/1인칭) · 화질 · 진동 · 전체 화면.
+
+## 구조
+
+```
+app/
+  src/logic.js          진행 상태의 권위 있는 기록 (순수 함수 6개, 서버에서 실행)
+  src/room.ts ...       템플릿의 방/프로토콜 (수정하지 않음)
+  public/index.html     HUD · 모달 · 스타일
+  public/client.js      게임 클라이언트 (client-src/*.js 를 순서대로 이어 붙인 결과물)
+  public/assets/        모델(glb) · 텍스처 · 오디오 · 폰트
+  client-src/           클라이언트 소스 조각과 build.sh
+  design/assets.csv     에셋 목록
+  tests/                logic / meta / state 테스트
+```
+
+`client-src` 순서: `a.js`(설정·문구·렌더러) → `t.js`(지형) → `b1.js`(땅·요단강·성) → `b2.js`(해돋이·발자국·먼지)
+→ `c.js`(풍경 배치·안내 화살표·주인공·동행) → `d.js`(소리·네트워크·입력·HUD) → `e.js`(장면 흐름·카드) → `f.js`(프레임 루프·부팅).
+
+## 개발
+
+```
+cd app
+bash client-src/build.sh      # client-src/*.js → public/client.js
+bun install && bun run build  # check:logic → tsc → bundle
+bun run test
+```
+
+정적 파일만으로도 돌아갑니다(`public/`을 아무 정적 서버로 열기). 서버가 없으면 진행 기록 동기화만 건너뜁니다.
+
+디버그 주소 인자: `?debug`(상태 표시) · `?q=high|low` · `?ts=N`(배속) · `?stage=2..5&day=N&fear=anxiety|loneliness|failure|tomorrow&easy` · `?lab`(모델 점검).
+
+## 저작권·출처
+
+- 3D 모델·텍스처·스프라이트·음악·효과음·내레이션: Higgsfield 생성물 (프로젝트 소유자 계정).
+- three.js — MIT License. 나눔명조(부분 글꼴) — SIL Open Font License.
+- 성경 본문은 개역한글판으로 인용했습니다 (제목 화면 여호수아 6:2, 마지막 화면 여호수아 1:9).
+- 카드의 문구와 구절 선택은 초안입니다. 전시팀 확인 후 확정해 주세요.
