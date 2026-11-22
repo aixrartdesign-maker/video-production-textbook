@@ -22,9 +22,9 @@ function startAudio() {
   const src = c.createBufferSource(); src.buffer = nb; src.loop = true; const f = c.createBiquadFilter(); f.type = 'bandpass'; f.frequency.value = 420; f.Q.value = 0.5;
   LOOPS.wind = c.createGain(); LOOPS.wind.gain.value = 0; src.connect(f); f.connect(LOOPS.wind); LOOPS.wind.connect(SND.sfx); src.start();
 }
-function mkLoop(n, vol, bus) {
+function mkLoop(n, vol, bus, rate) {
   if (!SND.ctx) return null; const g = SND.ctx.createGain(); g.gain.value = vol; g.connect(bus || SND.sfx);
-  const go = () => { const s = SND.ctx.createBufferSource(); s.buffer = SND.buf[n]; s.loop = true; s.connect(g); s.start(); };
+  const go = () => { const s = SND.ctx.createBufferSource(); s.buffer = SND.buf[n]; s.loop = true; if (rate) s.playbackRate.value = rate; s.connect(g); s.start(); };
   if (SND.buf[n]) go(); else (SND.wait[n] = SND.wait[n] || []).push(go);
   return g;
 }
@@ -82,12 +82,14 @@ addEventListener('keydown', (e) => {
   if (G.phase === 'intro') { skipIntro(); return; }
   if (e.code === 'Space' || e.code === 'Enter' || e.code === 'KeyE') { pressAction(); e.preventDefault(); }
   if (e.code === 'KeyF' && !e.repeat) setAuto(!AUTO.on, true);
+  if (e.code === 'KeyG' && !e.repeat) jumpToLight();
   if (e.code.startsWith('Arrow')) e.preventDefault();
 });
 addEventListener('keyup', (e) => keys.delete(e.code));
 canvas.addEventListener('pointerdown', (e) => {
   if (G.phase === 'intro') { skipIntro(); return; }
   if (ACT.on && horn && horn.visible) { V1.copy(horn.position).project(camera); const sx = (V1.x * 0.5 + 0.5) * innerWidth, sy = (-V1.y * 0.5 + 0.5) * innerHeight; if (V1.z < 1 && Math.hypot(sx - e.clientX, sy - e.clientY) < 96) { pressAction(); return; } }
+  TAP.id = e.pointerId; TAP.x = e.clientX; TAP.y = e.clientY; TAP.t = performance.now();
   if (e.pointerType === 'touch' && e.clientX < innerWidth * 0.5 && input.joyId === null) {
     input.joyId = e.pointerId; input.jox = e.clientX; input.joy = e.clientY; joyEl.hidden = false; joyEl.style.left = e.clientX + 'px'; joyEl.style.top = e.clientY + 'px'; knobEl.style.transform = 'translate(0px,0px)';
   } else if (input.lookId === null) { input.lookId = e.pointerId; input.lx = e.clientX; input.ly = e.clientY; }
@@ -101,8 +103,13 @@ canvas.addEventListener('pointermove', (e) => {
     CAM.yaw -= (e.clientX - input.lx) * 0.0056; CAM.pitch = clamp(CAM.pitch + (e.clientY - input.ly) * 0.004, SET.fp ? -0.6 : 0.06, 0.95); input.lx = e.clientX; input.ly = e.clientY; input.lastLook = G.now;
   }
 });
+const TAP = { id: null, x: 0, y: 0, t: 0 };
 function pointerEnd(e) { if (e.pointerId === input.joyId) endJoy(); if (e.pointerId === input.lookId) input.lookId = null; }
-canvas.addEventListener('pointerup', pointerEnd); canvas.addEventListener('pointercancel', pointerEnd);
+canvas.addEventListener('pointerup', (e) => { // a short tap on the light itself goes straight there
+  const tap = e.pointerId === TAP.id && performance.now() - TAP.t < 450 && Math.hypot(e.clientX - TAP.x, e.clientY - TAP.y) < 14; TAP.id = null;
+  pointerEnd(e); if (tap && hitLight(e.clientX, e.clientY)) jumpToLight();
+});
+canvas.addEventListener('pointercancel', (e) => { TAP.id = null; pointerEnd(e); });
 const AX = { x: 0, y: 0 };
 function readAxes() {
   let x = input.jx, y = input.jy;

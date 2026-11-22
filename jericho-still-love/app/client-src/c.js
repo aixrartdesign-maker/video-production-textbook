@@ -182,48 +182,142 @@ function fitHuman(root, height) { // scale to height, feet on the ground, centre
   const box = new THREE.Box3().setFromObject(root), s = height / (box.max.y - box.min.y || 1);
   root.scale.multiplyScalar(s); root.position.set(-((box.min.x + box.max.x) / 2) * s, -box.min.y * s, -((box.min.z + box.max.z) / 2) * s);
 }
-const CALMED = new WeakSet();
-function calmGait(clip, root, kSway, kRoll, kYaw) { // tame the hip sway of a walk clip; the legs and the spine keep their world pose
+// ── gait retouching: the clips come from a motion library; each walker's clips are fitted here, once, at load ──
+const TOUCHED = new WeakSet(); // value arrays already retouched (clips in one file can share them)
+const fresh = (t) => !!t && !TOUCHED.has(t.values) && !!TOUCHED.add(t.values);
+function calmGait(clip, root, lim) { // keep the hips' sway, roll and twist within a calm walk; the legs and the spine keep their world pose
   let hips = null; root.traverse((o) => { if (o.isBone && o.name === 'Hips') hips = o; });
   const find = (n) => clip.tracks.find((t) => t.name === n), tq = hips && find('Hips.quaternion');
-  if (!tq || !root.parent || tq.values.length !== tq.times.length * 4 || CALMED.has(tq.values)) return; CALMED.add(tq.values);
+  if (!tq || !root.parent || tq.values.length !== tq.times.length * 4 || !fresh(tq)) return;
   root.updateMatrixWorld(true);
-  const Q = () => new THREE.Quaternion(), n = tq.times.length, q = Q(), w = Q(), mean = Q(), rel = Q(), D = [];
+  const Q = () => new THREE.Quaternion(), n = tq.times.length, q = Q(), w = Q(), mean = Q(), rel = Q(), D = [], RV = [], W = [], rad = Math.PI / 180;
   const pr = root.parent.getWorldQuaternion(Q()).invert().multiply(hips.parent.getWorldQuaternion(Q())), pri = pr.clone().invert(); // bone parent, seen from the walker
-  const W = []; for (let i = 0; i < n; i++) { q.fromArray(tq.values, i * 4); const wi = pr.clone().multiply(q); if (i && wi.dot(W[0]) < 0) wi.set(-wi.x, -wi.y, -wi.z, -wi.w); W.push(wi); mean.x += wi.x; mean.y += wi.y; mean.z += wi.z; mean.w += wi.w; }
+  for (let i = 0; i < n; i++) { q.fromArray(tq.values, i * 4); const wi = pr.clone().multiply(q); if (i && wi.dot(W[0]) < 0) wi.set(-wi.x, -wi.y, -wi.z, -wi.w); W.push(wi); mean.x += wi.x; mean.y += wi.y; mean.z += wi.z; mean.w += wi.w; }
   mean.w -= 1; mean.normalize(); const meanI = mean.clone().invert(); // Q() starts at w = 1
-  for (let i = 0; i < n; i++) {
+  let y0 = Infinity, y1 = -Infinity, z0 = Infinity, z1 = -Infinity;
+  for (let i = 0; i < n; i++) { // each pose as a rotation vector away from the mean pose: x pitch, y twist, z roll
     rel.copy(W[i]).multiply(meanI); if (rel.w < 0) rel.set(-rel.x, -rel.y, -rel.z, -rel.w);
-    const sn = Math.hypot(rel.x, rel.y, rel.z), ang = 2 * Math.atan2(sn, rel.w), f = sn > 1e-9 ? ang / sn : 2; // rotation vector: x pitch, y yaw, z roll
-    const rx = rel.x * f, ry = rel.y * f * kYaw, rz = rel.z * f * kRoll, a2 = Math.hypot(rx, ry, rz), g = a2 > 1e-9 ? Math.sin(a2 / 2) / a2 : 0.5;
+    const sn = Math.hypot(rel.x, rel.y, rel.z), f = sn > 1e-9 ? (2 * Math.atan2(sn, rel.w)) / sn : 2, v = [rel.x * f, rel.y * f, rel.z * f];
+    RV.push(v); y0 = Math.min(y0, v[1]); y1 = Math.max(y1, v[1]); z0 = Math.min(z0, v[2]); z1 = Math.max(z1, v[2]);
+  }
+  const kYaw = Math.min(1, (lim.yaw * rad) / Math.max(y1 - y0, 1e-6)), kRoll = Math.min(1, (lim.roll * rad) / Math.max(z1 - z0, 1e-6));
+  for (let i = 0; i < n; i++) {
+    const rx = RV[i][0], ry = RV[i][1] * kYaw, rz = RV[i][2] * kRoll, a2 = Math.hypot(rx, ry, rz), g = a2 > 1e-9 ? Math.sin(a2 / 2) / a2 : 0.5;
     w.set(rx * g, ry * g, rz * g, Math.cos(a2 / 2)).multiply(mean).premultiply(pri); // the calmer local rotation
     q.fromArray(tq.values, i * 4); D.push(w.clone().invert().multiply(q)); w.toArray(tq.values, i * 4);
   }
   const at = (t) => { let i = 0; while (i < n - 2 && tq.times[i + 1] < t) i++; const t0 = tq.times[i], t1 = tq.times[i + 1], k = t1 > t0 ? clamp((t - t0) / (t1 - t0), 0, 1) : 0; return rel.copy(D[i]).slerp(D[i + 1], k); };
   for (const c of hips.children) { // what was taken out of the pelvis goes back into its children
-    const tc = c.isBone && find(c.name + '.quaternion'); if (!tc || tc.values.length !== tc.times.length * 4 || CALMED.has(tc.values)) continue; CALMED.add(tc.values);
+    const tc = c.isBone && find(c.name + '.quaternion'); if (!tc || tc.values.length !== tc.times.length * 4 || !fresh(tc)) continue;
     for (let j = 0; j < tc.times.length; j++) { q.fromArray(tc.values, j * 4); w.copy(tc.times.length === n ? D[j] : at(tc.times[j])).multiply(q).toArray(tc.values, j * 4); }
   }
   const tp = find('Hips.position');
-  if (tp && tp.values.length === tp.times.length * 3 && !CALMED.has(tp.values)) { // sideways sway only
-    CALMED.add(tp.values); const ax = new THREE.Vector3(1, 0, 0).applyQuaternion(pri), v = tp.values, m = tp.times.length; let mid = 0;
-    for (let i = 0; i < m; i++) mid += (v[i * 3] * ax.x + v[i * 3 + 1] * ax.y + v[i * 3 + 2] * ax.z) / m;
-    for (let i = 0; i < m; i++) { const k = (v[i * 3] * ax.x + v[i * 3 + 1] * ax.y + v[i * 3 + 2] * ax.z - mid) * (1 - kSway); v[i * 3] -= ax.x * k; v[i * 3 + 1] -= ax.y * k; v[i * 3 + 2] -= ax.z * k; }
+  if (tp && tp.values.length === tp.times.length * 3 && fresh(tp)) { // sideways sway only
+    const ax = new THREE.Vector3(1, 0, 0).applyQuaternion(pri), v = tp.values, m = tp.times.length, unit = hips.parent.getWorldScale(new THREE.Vector3()).x || 1; let mid = 0, lo = Infinity, hi = -Infinity;
+    const side = (i) => v[i * 3] * ax.x + v[i * 3 + 1] * ax.y + v[i * 3 + 2] * ax.z;
+    for (let i = 0; i < m; i++) { const sv = side(i); mid += sv / m; lo = Math.min(lo, sv); hi = Math.max(hi, sv); }
+    const kSway = Math.min(1, lim.sway / Math.max((hi - lo) * unit, 1e-6));
+    for (let i = 0; i < m; i++) { const k = (side(i) - mid) * (1 - kSway); v[i * 3] -= ax.x * k; v[i * 3 + 1] -= ax.y * k; v[i * 3 + 2] -= ax.z * k; }
   }
 }
-function walkPace(rig, root) { // metres per second the Walk clip really covers, so the feet slide as little as possible
+function tuneClip(clip, root, o) { // retouch a clip pose by pose: longer strides, feet pointing ahead, shoulders up
+  const frame = root.parent, B = {}; root.traverse((b) => { if (b.isBone) B[b.name] = b; });
+  for (const k of ['Hips', 'neck', 'LeftUpLeg', 'LeftLeg', 'LeftFoot', 'RightUpLeg', 'RightLeg', 'RightFoot', 'LeftShoulder', 'LeftArm', 'RightShoulder', 'RightArm']) if (!B[k]) return null;
+  const binds = [], track = {}; let n = 0;
+  for (const t of clip.tracks) {
+    const dot = t.name.lastIndexOf('.'), node = B[t.name.slice(0, dot)], prop = t.name.slice(dot + 1); if (!node || !node[prop] || !node[prop].fromArray) continue;
+    const size = t.getValueSize(); if (!n) n = t.times.length; if (t.times.length !== n || t.values.length !== n * size) return null;
+    binds.push({ t, node, prop, size }); track[t.name] = t;
+  }
+  const hq = track['Hips.quaternion']; if (!frame || n < 2 || !hq || TOUCHED.has(clip)) return null; TOUCHED.add(clip);
+  const Q = () => new THREE.Quaternion(), V = () => new THREE.Vector3(), UP = new THREE.Vector3(0, 1, 0), stride = o.stride || 1, narrow = o.narrow || 1;
+  const pose = (i) => { for (const b of binds) b.node[b.prop].fromArray(b.t.values, i * b.size); };
+  const keep = (b, prop, i) => { const t = track[b.name + '.' + prop]; if (t) b[prop].toArray(t.values, i * (prop === 'quaternion' ? 4 : 3)); };
+  frame.updateWorldMatrix(true, false); const qF = frame.getWorldQuaternion(Q()), qFi = qF.clone().invert(), qa = Q();
+  const at3 = (b) => frame.worldToLocal(b.getWorldPosition(V())); // a joint in the walker's own frame: metres, x to its left, y up, z ahead
+  const rot = (b) => b.getWorldQuaternion(Q()).premultiply(qFi);
+  const setRot = (b, wf) => { b.parent.getWorldQuaternion(qa).invert(); b.quaternion.copy(qa).multiply(qF).multiply(wf); };
+  const legs = [['Left', 1], ['Right', -1]].map(([s, sign]) => ({ sign, up: B[s + 'UpLeg'], low: B[s + 'Leg'], foot: B[s + 'Foot'], toe: B[s + 'ToeBase'], sh: B[s + 'Shoulder'], arm: B[s + 'Arm'], A: [], H: [], head: [], elev: 0, dx: 0, toeOut: 0, turn: 0, lift: 0 }));
+  let zc = 0, xc = 0; // pass 1: read the clip as it is
+  for (let i = 0; i < n; i++) {
+    pose(i); const nk = at3(B.neck);
+    for (const L of legs) {
+      const a = at3(L.foot), h = at3(L.up), sa = at3(L.arm); L.A.push(a); L.H.push(h); zc += a.z / (2 * n); xc += a.x / (2 * n);
+      L.elev += Math.atan2(sa.y - nk.y, Math.abs(sa.x - nk.x)) / n; L.dx += Math.abs(sa.x - nk.x) / n;
+      if (L.toe) { const t = at3(L.toe); L.head.push(L.sign * Math.atan2(t.x - a.x, t.z - a.z)); }
+      if (!i) { const kn = at3(L.low); L.reach = (h.distanceTo(kn) + kn.distanceTo(a)) * 0.985; L.cl = sa.distanceTo(at3(L.sh)); }
+    }
+  }
+  for (const L of legs) {
+    let lo = Infinity, sum = 0, cnt = 0; for (const a of L.A) lo = Math.min(lo, a.y);
+    for (let i = 0; i < n; i++) if (L.head.length && L.A[i].y < lo + 0.02) { sum += L.head[i]; cnt++; } // which way the foot points while it carries the weight
+    L.toeOut = cnt ? sum / cnt : 0; if (o.toe !== undefined && cnt) L.turn = clamp(L.toeOut - o.toe, 0, 0.62);
+    if (o.shoulder !== undefined) L.lift = Math.asin(clamp((L.dx * (Math.tan(o.shoulder) - Math.tan(L.elev))) / (L.cl || 1), 0, 0.58));
+  }
+  let zmin = Infinity, zmax = -Infinity; for (const a of legs[0].A) { zmin = Math.min(zmin, a.z); zmax = Math.max(zmax, a.z); }
+  const back = (o.back === undefined ? 0.7 : o.back) * (stride - 1) * (zmax - zmin) * 0.5; // the longer step grows mostly behind: the hips ride ahead, the trailing leg pushes off
+  const goal = (L, i, out) => out.set(xc + (L.A[i].x - xc) * narrow, L.A[i].y, zc + (L.A[i].z - zc) * stride - back); // where the ankle should be
+  const drop = new Array(n).fill(0);
+  if (stride !== 1) { // how far the hips must settle for the longer step to reach the ground
+    const raw = [], T = V(), dq = hq.values, loop = n > 3 && Math.abs(dq[0] * dq[n * 4 - 4] + dq[1] * dq[n * 4 - 3] + dq[2] * dq[n * 4 - 2] + dq[3] * dq[n * 4 - 1]) > 0.99995, m = loop ? n - 1 : n; let lack = 0;
+    for (let i = 0; i < n; i++) { // only the leading leg sets the height: the trailing one is rolling onto its toes anyway
+      let d = 0; for (const L of legs) { goal(L, i, T); const h = L.H[i], flat = Math.hypot(T.x - h.x, T.z - h.z); if (T.z > h.z - 0.04) d = Math.max(d, flat < L.reach ? h.y - T.y - Math.sqrt(L.reach * L.reach - flat * flat) : 0.3); }
+      raw.push(Math.max(d, 0));
+    }
+    for (let i = 0; i < n; i++) { let acc = 0, ws = 0; for (let k = -4; k <= 4; k++) { const j = loop ? (((i + k) % m) + m) % m : clamp(i + k, 0, n - 1), g = Math.exp((-k * k) / 6); acc += raw[j] * g; ws += g; } drop[i] = acc / ws; }
+    for (let i = 0; i < n; i++) lack = Math.max(lack, raw[i] - drop[i]); for (let i = 0; i < n; i++) drop[i] += lack;
+  }
+  const R1 = Q(), R2 = Q(), Rt = Q(), Rs = Q(), Ry = Q(), w = Q(), pq = Q(), v1 = V(), v2 = V(), dir = V(), pole = V(), kv = V(), T = V(), u = V(), unit = B.Hips.parent.getWorldScale(V()).x || 1;
+  for (let i = 0; i < n; i++) { // pass 2: write the retouched pose back, key by key
+    pose(i); const foot0 = legs.map((L) => rot(L.foot)), arm0 = legs.map((L) => rot(L.arm));
+    if (drop[i] > 1e-5) { B.Hips.parent.getWorldQuaternion(pq).invert(); B.Hips.position.add(u.set(0, -drop[i], 0).applyQuaternion(qF).applyQuaternion(pq).divideScalar(unit)); keep(B.Hips, 'position', i); }
+    legs.forEach((L, li) => {
+      if (stride !== 1 || narrow !== 1 || L.turn) { // two-bone reach to the new ankle spot, knee bending the way it did
+        const h = at3(L.up), kn = at3(L.low), a = at3(L.foot), tv = L.toe ? at3(L.toe).sub(a) : null, wu = rot(L.up), wl = rot(L.low); goal(L, i, T);
+        v1.subVectors(kn, h); v2.subVectors(a, kn); const l1 = v1.length(), l2 = v2.length(); dir.subVectors(T, h); const far = dir.length(), d = Math.min(far, (l1 + l2) * 0.9995), heel = clamp((far - d) / 0.1, 0, 1) * 0.5; dir.normalize(); // out of reach behind: the heel comes up
+        u.subVectors(a, h).normalize(); pole.copy(v1).addScaledVector(u, -v1.dot(u)); if (pole.lengthSq() < 1e-8) pole.set(0, 0, 1);
+        pole.addScaledVector(dir, -pole.dot(dir)).normalize();
+        const along = (l1 * l1 - l2 * l2 + d * d) / (2 * d), out = Math.sqrt(Math.max(l1 * l1 - along * along, 0));
+        kv.copy(dir).multiplyScalar(along).addScaledVector(pole, out); // hip → knee
+        R1.setFromUnitVectors(v1.normalize(), u.copy(kv).normalize());
+        const shin = u.copy(dir).multiplyScalar(d).sub(kv).normalize().clone(); // knee → ankle
+        R2.setFromUnitVectors(v2.normalize().applyQuaternion(R1), shin);
+        Rt.setFromAxisAngle(dir, L.sign * L.turn * 0.42); // turn the whole leg in about the hip–ankle line: the ankle stays where it is
+        Rs.setFromAxisAngle(shin.applyQuaternion(Rt), L.sign * L.turn * 0.28); Ry.setFromAxisAngle(UP, -L.sign * L.turn * 0.3); // then a little at the knee and at the ankle
+        setRot(L.up, w.copy(Rt).multiply(R1).multiply(wu)); keep(L.up, 'quaternion', i);
+        setRot(L.low, w.copy(Rs).multiply(Rt).multiply(R2).multiply(R1).multiply(wl)); keep(L.low, 'quaternion', i);
+        w.copy(Ry).multiply(Rs).multiply(Rt).multiply(foot0[li]); // the sole keeps its angle to the ground
+        if (heel > 1e-4 && tv) { u.copy(tv).applyQuaternion(Rt).applyQuaternion(Rs).applyQuaternion(Ry).setY(0); if (u.lengthSq() > 1e-8) w.premultiply(R1.setFromAxisAngle(u.crossVectors(UP, u).normalize(), heel)); }
+        setRot(L.foot, w); keep(L.foot, 'quaternion', i);
+      }
+      if (L.lift > 1e-4) { // raise the collar bone; the arm keeps hanging the way it did
+        const ws = rot(L.sh); u.subVectors(at3(L.arm), at3(L.sh)).cross(UP).normalize();
+        setRot(L.sh, w.setFromAxisAngle(u, L.lift).multiply(ws)); keep(L.sh, 'quaternion', i); setRot(L.arm, arm0[li]); keep(L.arm, 'quaternion', i);
+      }
+    });
+  }
+  return { toeOut: legs.map((L) => L.toeOut), turn: legs.map((L) => L.turn), lift: legs.map((L) => L.lift), drop: Math.max(...drop), stride };
+}
+function walkPace(rig, root) { // what the Walk clip really covers: metres per second, metres per step, steps per second
   const a = rig.act.Walk; let foot = null; root.traverse((o) => { if (o.isBone && o.name === 'LeftFoot') foot = o; });
-  if (!a || !foot || !root.parent) return 0;
+  if (!a || !foot || !root.parent) return { natural: 0, step: 0, steps: 0 };
   const d = a.getClip().duration, N = 96, zs = []; let lo = Infinity, hi = -Infinity, cycles = 0;
   for (const k in rig.act) rig.act[k].setEffectiveWeight(k === 'Walk' ? 1 : 0);
   for (let i = 0; i < N; i++) { a.time = (d * i) / N; rig.mixer.update(0); root.updateMatrixWorld(true); const z = root.parent.worldToLocal(foot.getWorldPosition(V1)).z; zs.push(z); lo = Math.min(lo, z); hi = Math.max(hi, z); }
   const mid = (lo + hi) / 2; for (let i = 0; i < N; i++) if (zs[i] < mid && zs[(i + 1) % N] >= mid) cycles++; // a clip can hold several strides
-  a.time = 0; return (2 * (hi - lo) * Math.max(cycles, 1)) / d;
+  cycles = Math.max(cycles, 1); a.time = 0; return { natural: (2 * (hi - lo) * cycles) / d, step: hi - lo, steps: (2 * cycles) / d };
 }
-const paceFor = (natural) => clamp(CFG.speed / (natural || CFG.speed) / 1.25, 0.8, 1.6); // a brisk walk, never a sped-up waddle
+function fitWalk(rig, g, root, height, shoulder) { // fit this walker's clips to its body and to the pace of the walk; returns the playback rate
+  const walk = rig.act.Walk && rig.act.Walk.getClip(), idle = rig.act.Idle && rig.act.Idle.getClip(); if (!walk) return 1;
+  calmGait(walk, root, { sway: 0.045, roll: 8.5, yaw: 11 });
+  const raw = walkPace(rig, root); rig.tune = tuneClip(walk, root, { stride: raw.step ? clamp((0.49 * height) / raw.step, 1, 1.45) : 1, narrow: 0.86, toe: 0.14, shoulder });
+  if (idle && idle !== walk) tuneClip(idle, root, { shoulder });
+  const pace = walkPace(rig, root); rig.natural = pace.natural; rig.steps = pace.steps;
+  return clamp(CFG.speed / (pace.natural || CFG.speed) / 1.12, 0.8, 1.7); // a long, brisk stride — never a sped-up shuffle
+}
 function rigActions(g, root, names) { // one looping action per clip; driven clips stay paused
   const mixer = new THREE.AnimationMixer(root), act = {};
-  for (const clip of g.animations) { stripRootMotion(clip); if (/walk|stroll/i.test(clip.name)) calmGait(clip, root, 0.5, 0.62, 0.85); const a = mixer.clipAction(clip); a.play(); a.setEffectiveWeight(0); act[clip.name] = a; }
+  for (const clip of g.animations) { stripRootMotion(clip); const a = mixer.clipAction(clip); a.play(); a.setEffectiveWeight(0); act[clip.name] = a; }
   if (!act.Walk) { const first = g.animations[0]; if (first) act.Walk = act[first.name]; }
   if (!act.Idle && act.Walk) { const c = act.Walk.getClip(); const a = mixer.clipAction(poseClip(c, c.duration * 0.25, 'Idle')); a.play(); a.setEffectiveWeight(0); act.Idle = a; }
   for (const k of names) if (act[k]) act[k].paused = true;
@@ -240,14 +334,11 @@ function setupHero(g) {
   const root = g.scene; fitHuman(root, 1.75); hero.add(root); HERO.root = root; HERO.body = root;
   root.traverse((o) => { if (o.isBone) HERO.bones[o.name] = o; });
   Object.assign(HERO, rigActions(g, root, ['Horn', 'Kneel']));
-  { // the upright stroll reads better from behind than the brisk clip; drop the clips that are not used
-    const A0 = HERO.act; if (A0.Stroll) { if (A0.Walk) A0.Walk.stop(); A0.Walk = A0.Stroll; delete A0.Stroll; }
-    for (const k of Object.keys(A0)) if (k.includes('|')) { A0[k].stop(); delete A0[k]; }
-  }
+  { const A0 = HERO.act; for (const k of Object.keys(A0)) if (k.includes('|')) { A0[k].stop(); delete A0[k]; } } // the rig's own demo clip is not used
   const B = HERO.bones;
   if (HERO.act.Horn && B.Head && B.RightHand && B.LeftHand) HERO.hornT = scan(HERO, 'Horn', () => Math.min(B.RightHand.getWorldPosition(V1).distanceTo(B.Head.getWorldPosition(V2)), B.LeftHand.getWorldPosition(V3).distanceTo(V2)));
   if (HERO.act.Kneel && B.Hips) HERO.kneelT = scan(HERO, 'Kneel', () => B.Hips.getWorldPosition(V1).y);
-  HERO.natural = walkPace(HERO, root); HERO.stride = paceFor(HERO.natural);
+  HERO.stride = fitWalk(HERO, g, root, 1.75, -0.28);
   for (const k in HERO.act) { HERO.w[k] = k === 'Idle' ? 1 : 0; HERO.act[k].setEffectiveWeight(HERO.w[k]); }
   HERO.mixer.update(0);
 }
@@ -288,9 +379,9 @@ function addCompanions(list) { // list of [gltf, height]
     const holder = new THREE.Group(); holder.add(root); holder.visible = false; scene.add(holder);
     const { mixer, act } = rigActions(g, root, []);
     if (act.Cheer) act.Cheer.setLoop(THREE.LoopRepeat);
-    const natural = walkPace({ mixer, act }, root);
+    const rig = { mixer, act }, rate = round === 0 ? (g.userData.rate = fitWalk(rig, g, root, height, -0.33)) : g.userData.rate || 1;
     for (const k in act) act[k].time = R() * 2;
-    COMP.push({ holder, mixer, act, w: {}, x: 0, z: 0, heading: 0, lag: 2.6 + idx * 1.5, side: (idx % 2 ? 1 : -1) * (0.75 + R() * 0.85), state: 'Idle', on: false, natural, stride: paceFor(natural) * (0.95 + R() * 0.08) });
+    COMP.push({ holder, mixer, act, w: {}, x: 0, z: 0, heading: 0, lag: 2.6 + idx * 1.5, side: (idx % 2 ? 1 : -1) * (0.75 + R() * 0.85), state: 'Idle', on: false, tune: rig.tune, stride: rate * (0.97 + R() * 0.06) });
     idx++;
   }
 }
