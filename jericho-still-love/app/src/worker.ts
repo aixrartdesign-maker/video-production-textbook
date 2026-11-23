@@ -25,9 +25,32 @@ const WS_PREFIX = "/ws";
 const ROOM_RE = /^[A-Za-z0-9_-]{1,64}$/;
 const DEFAULT_ROOM = "main";
 
+/**
+ * Digital Asset Links for the Android app (a Trusted Web Activity). It lets the app open
+ * this site full screen, without a browser bar. The first fingerprint is the app's upload
+ * key; when the app is published with Play App Signing, add the fingerprint Play Console
+ * shows under "App signing key certificate".
+ */
+const ASSET_LINKS = JSON.stringify([
+  {
+    relation: ["delegate_permission/common.handle_all_urls"],
+    target: {
+      namespace: "android_app",
+      package_name: "app.higgsfield.jericho_still_love.twa",
+      sha256_cert_fingerprints: [
+        "16:1F:58:ED:3D:AB:39:73:47:E0:1E:CC:59:03:59:56:9D:1B:EE:7D:80:0D:4A:87:9E:32:7C:BC:93:18:F1:EE",
+      ],
+    },
+  },
+]);
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
+
+    if (url.pathname === "/.well-known/assetlinks.json") {
+      return new Response(ASSET_LINKS, { headers: { "content-type": "application/json", "cache-control": "public, max-age=3600" } });
+    }
 
     if (url.pathname === WS_PREFIX || url.pathname.startsWith(WS_PREFIX + "/")) {
       // Reject non-upgrade traffic here rather than paying for a DO wake-up.
