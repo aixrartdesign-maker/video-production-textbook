@@ -182,6 +182,25 @@ def _ren(m):
     return '그림 '+_map.get(old,old)
 H=re.sub(r'그림 (\d+(?:-\d+)?)(?![\d-])',_ren,H)
 print('figures renumbered',_n)
+# ---- v10: regenerate the figure list from the renumbered captions ----
+def _figlist(H,figword):
+    caps=re.findall(r'<figcaption>\s*<b>'+figword+r' (\d+(?:-\d+)?)</b>(.*?)</figcaption>',H,flags=re.S)
+    rows=[];seen=set()
+    for n,c in caps:
+        if n in seen or '-' in n: continue
+        seen.add(n); c=re.sub(r'<[^>]+>','',c).strip()
+        c=re.split(r'(?<=[.!?])\s|(?<=。)',c)[0].rstrip('.。')
+        if len(c)>78: c=c[:76].rstrip()+'…'
+        rows.append((n,c))
+    half=(len(rows)+1)//2; L,R=rows[:half],rows[half:]
+    trs=''.join(f'<tr><td>{a[0]}</td><td>{a[1]}</td><td>{b[0] if b else ""}</td><td>{b[1] if b else ""}</td></tr>\n' for a,b in zip(L,R+[None]*(len(L)-len(R))))
+    m=re.search(r'(<(?:article|section)[^>]*id="fig-list".*?<tbody>)(.*?)(</tbody>)',H,flags=re.S)
+    if not m: print('!! fig-list not found'); return H
+    head=re.sub(r'(<p class="lead">[^<\d]*?)\d+',lambda k:k.group(1)+str(len(rows)),m.group(1),count=1)
+    print('fig-list regenerated',len(rows))
+    return H[:m.start()]+head+trs+m.group(3)+H[m.end():]
+H=_figlist(H,'그림')
+
 
 CSS_EXTRA='''
 :root{--z:'''+os.environ.get('BOOK_Z','1')+'''; --margin-col:calc(40mm/var(--z)); --gutter:calc(7mm/var(--z)); --main:calc(115mm/var(--z))}
@@ -473,9 +492,12 @@ cov_html=f'''<!doctype html><html><head><meta charset="utf-8"><link rel="stylesh
 .bk .b{{font-family:var(--serif);font-size:9.8pt;line-height:1.9;color:var(--ink-2);margin:0 0 9mm;text-align:justify}}
 .bk .a{{font-family:var(--sans);font-size:9pt;color:var(--ink);font-weight:500;margin:0}}
 .bk .isbn{{position:absolute;left:0;top:150mm;font-family:var(--sans);font-size:7pt;color:var(--mut);letter-spacing:.08em}}
+.pub{{position:absolute;font-family:var(--sans);color:var(--ink);font-weight:600;letter-spacing:.06em;margin:0;white-space:nowrap}}
+.pub.f{{right:24mm;bottom:30mm;font-size:10.5pt;line-height:normal}}
+.pub.b{{right:28mm;bottom:20mm;font-size:8pt;line-height:1.5}}
 </style></head><body>
-<div class="pg"><img src="{cover_img}"><div class="ft"><div class="k">VIDEO PRODUCTION · A PRACTICAL TEXTBOOK</div><h1>영상 제작<br>실무 교본</h1><p class="s">기획에서 납품까지, 수업과 현장에서 함께 펼치는 13개 챕터</p><p class="a">안지아</p></div></div>
-<div class="pg"><img src="{back_img}"><div class="bk"><p class="l">영상은 찍는 일이 아니라<br>보여 줄 것과 감출 것을 고르는 일이다.</p><p class="b">스토리보드 한 칸에서 LED 파사드까지, 첫 콜타임에서 첫 릴까지. 이 책은 기법의 목록이 아니라 현장에서 내리는 판단의 순서를 담았다. 실습을 먼저 하고 이론은 뒤에 두었으며, 모든 도판은 "왜 이렇게 찍는가"에 답하도록 다시 그렸다. 생성형 AI가 공정에 들어온 지금, 바뀌지 않는 것 — 눈, 약속, 마무리 — 을 연습하는 책이다.</p><p class="a">안지아 지음</p></div></div>
+<div class="pg"><img src="{cover_img}"><div class="ft"><div class="k">VIDEO PRODUCTION · A PRACTICAL TEXTBOOK</div><h1>영상 제작<br>실무 교본</h1><p class="s">기획에서 납품까지, 수업과 현장에서 함께 펼치는 13개 챕터</p><p class="a">안지아</p></div><p class="pub f">주식회사 도쉼</p></div>
+<div class="pg"><img src="{back_img}"><div class="bk"><p class="l">영상은 찍는 일이 아니라<br>보여 줄 것과 감출 것을 고르는 일이다.</p><p class="b">스토리보드 한 칸에서 LED 파사드까지, 첫 콜타임에서 첫 릴까지. 이 책은 기법의 목록이 아니라 현장에서 내리는 판단의 순서를 담았다. 실습을 먼저 하고 이론은 뒤에 두었으며, 모든 도판은 "왜 이렇게 찍는가"에 답하도록 다시 그렸다. 생성형 AI가 공정에 들어온 지금, 바뀌지 않는 것 — 눈, 약속, 마무리 — 을 연습하는 책이다.</p><p class="a">안지아 지음</p></div><p class="pub b">주식회사 도쉼</p></div>
 </body></html>'''
 open('covers.html','w',encoding='utf-8').write(cov_html)
 subprocess.run(['node','render_plain.js','covers.html','covers.pdf'],check=True)
@@ -485,7 +507,7 @@ for i,page in enumerate(base.pages):
     if i==len(base.pages)-1: w.add_page(cov.pages[1]); continue
     if i<len(over.pages): page.merge_page(over.pages[i])
     w.add_page(page)
-w.add_metadata({'/Title':'영상 제작 실무 교본 — 재디자인판','/Author':'안지아'})
+w.add_metadata({'/Title':'영상 제작 실무 교본','/Author':'안지아'})
 with open('영상제작실무교본_재디자인.pdf','wb') as f: w.write(f)
 missing=[k for k in PLAN if k not in USED]
 print('pages',N,'| placeholders in plan not placed:',len(missing),missing[:20],'| have files:',len(HAVE))
